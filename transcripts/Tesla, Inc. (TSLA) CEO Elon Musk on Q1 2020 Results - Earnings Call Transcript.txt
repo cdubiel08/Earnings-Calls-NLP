@@ -1,0 +1,381 @@
+Tesla, Inc. (NASDAQ:TSLA) Q1 2020 Earnings Conference Call April 29, 2020  6:30 PM ET
+Company Participants
+Martin Viecha - Senior Director for Investor Relations
+Elon Musk - Co-Founder & Chief Executive Officer
+Zachary Kirkhorn - Chief Financial Officer
+Conference Call Participants
+Adam Jonas - Morgan Stanley
+Emmanuel Rosner - Deutsche Bank
+Ben Kallo - Baird
+Gene Munster - Loup Ventures
+Pierre Ferragu - New Street
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to Tesla's Q1 2020 Financial Results and Q&A Webcast. At this time, all participants are in a listen-only mode. After the speaker presentation, there will be a question-and-answer session. [Operator Instructions] Please be advised that today's conference is being recorded. [Operator Instructions]
+I would now like to hand the conference over to your speaker, Mr. Martin Viecha, Senior Director for Investor Relations. Please go ahead, sir.
+Martin Viecha
+Thank you, Sherry, and good afternoon, everyone. Welcome to Tesla's First Quarter 2020 Q&A Webcast. I'm joined today by Elon Musk, Zachary Kirkhorn and a number of other executives. Our Q1 results were announced at about 1:00 p.m. Pacific Time in the update deck we published at the same link as this webcast.
+During this call, we will discuss our business outlook and make forward-looking statements. These comments are based on our predictions and expectations as of today. Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC. During the question-and-answer portion of today's call, please limit yourself to one question and one follow-up. [Operator Instructions] Before we jump into Q&A, Elon has some opening remarks. Elon?
+Elon Musk
+Thank you. So, Q1 ended up being a strong quarter despite many challenges in the final few weeks. This is the first time we have achieved positive GAAP net income in a seasonally weak first quarter. Even with all the challenges, we achieved a 20% automotive gross margin, excluding regulatory credits while ramping two major products. What we've learned from this is that -- we've obviously learned a lot here. After the Model 3 ramp from three years ago, our new products get run faster and become profitable sooner.
+In Q1, we produced more Model Ys in the first quarter than Model 3s in Fremont in the first two quarters. Thus far, the Model Y ramp has been even faster than the Giga Shanghai ramp in Q1. Most surprisingly, as otherwise, we are ahead of the schedule that we were ahead of already. Most surprisingly, Model Y was profitable already in its first quarter of production, something we haven't achieved with any product in the past.
+Regarding Autopilot, we released a new software update for traffic lights and stop signs to Early Access Users in March and to all U.S. customers with Full Self-Driving package just last week. Our cars will not automatically stop at each stop sign or traffic light until the driver gets a confirmation to proceed. I should say that the car is actually capable of much more than this, but we are only exposing functionality that we feel quite good about and where we feel it is probably a safety improvement.
+We are collecting data from over 1 million intersections every month at this point. This number will grow exponentially as more people get the update and as more people start driving again. Soon, we will be collecting data from over 1 billion intersections per month.
+All of those confirmations are training under old methods. Essentially, the driver went driving and taking action is effectively labeling -- the labeling reality as they drive and making them better and better. I think this is an advantage that no one else has, and we're quite literally orders of magnitude more than everyone else combined.
+I think, this is difficult to fully appreciate. It’s the reason I say it's very difficult to have a search engine that competes with Google because everyone is training Google all the time with their searches. So, when you're searching something and you click on a link, you're training Google every time you do that. It's very difficult for any new search engine to compete on that basis.
+So, all those confirmations of training and all that, and certain cars will be able to drive through an intersection without a confirmation as well as to make turns. And we really feel we're -- I feel extremely confident that it would be possible to do a drive from your home to your office most of the time with no interventions by the end of the year. So, this is -- we can almost do this already with the leading-edge Alpha [indiscernible] driving the car.
+So let's see. On other technology fronts, we increased the range of model S and X yet again, this time to 391 miles for Model S and 351 miles for Model X. Actually, we said that, actually, the model -- the real Model S range is 400 miles, but when we did the last EPA test, unfortunately, ATA left the car door open and the keys in the car, so the car - and it did this overnight.
+And so the car actually went into waiting for driver mode and lost 2% of its range. And as a result, it had a 391 test. As soon as the EPA reopens for testing, we will redo the test, and we're actually confident that we will achieve a 400-mile-or-greater range with the Model S. But to be clear, the Model S, for the past two months -- the true range of the Model S for the past two months has been 400 miles.
+And of course, we're not stopping there. We're looking forward to continuing pushing for improved range over time and improving handling, acceleration and all those details that make Tesla special.
+For Model Y, we introduced a revolutionary two-piece -- we're underway casting that we are going to be making a single-piece casting later this year, meaning like essentially the rear third of the body is cast as a single piece, which is no casting of the size or complexity has never been done before.
+In fact, there isn't even anything that is on par with the two-piece casting for the Model Y. So, we're really pushing the envelope on vehicle structural engineering and manufacturing. I'm very excited about this approach as it allows us to reduce the weight of the cast and improve NVH. It's better in every way essentially.
+For Model Y, we also introduced a revolutionary new heat pump, which allows the car to have a higher range. So Model Y has remarkable range on par with -- in fact slightly better than, I guess, the Model 3 and just despite being a bigger car that weighs more. And the heat pump is a key contributor to that. It is especially excellent at low-temperature driving. So -- and the feedback we're getting from customers who have received the Model Y thus far has been universally positive. We're confident this product will be our best-selling product ever.
+So in conclusion, and just to -- looking forward, I guess this is a forward-looking statement we are absolutely continuing our Model Y capacity expansion at full speed at both Giga Berlin and Giga Shanghai and here in Fremont when they will let us continue.
+Localized production in China and in Europe will bring the cost down, making our products even more competitive over time. While many other companies are cutting back on investment, we are doing the opposite. We're absolutely pedal to the metal on new products and expanding the company.
+And we're really looking forward to being in sometime next year, a truly global manufacturer with major factories in North America, China and Europe and a capacity of well over 1 million units a year. So there's a tremendous amount to look forward to and we can't wait to tell you what's going to happen. Thank you.
+Martin Viecha
+Thank you. And now to Zach's opening remarks.
+Zachary Kirkhorn
+Yes. Thanks, Martin and thanks, Elon. I'm very proud of the accomplishments of the Tesla team this past quarter. A few things to highlight and add to what Elon just mentioned. We successfully launched, ramped and demonstrated profitability of the Model Y, as Elon mentioned, significantly ahead of schedule. This is our second large-scale product launch since Model 3 in 2017 and it's evidence to the progress we've made on cost control and ramp efficiency.
+It's hard to understate the significance of demonstrating profitability of this program in its first quarter of production. Our Shanghai Model 3 margins improved dramatically since Q4 of last year, nearing equivalents of Model 3s built in Fremont. This is despite not yet running at full capacity, while also managing through the production shutdown in early February.
+We also announced a long-range and performance variant of Model 3 for our road map, which will positively impact ASPs in China. On order rates, we did not experience much of an impact related to the expiration of government incentives at the end of Q4. In fact, we exited the quarter with our highest-ever backlog yet again.
+Aided by these accomplishments, we are able to achieve our first-ever Q1 profit. Automotive gross margin, excluding the impact of regulatory credits, remained strong for all products, despite charges taken in Q1 associated with production downtime. We continue to make progress on OpEx efficiency, as well as our service and other margins.
+Our energy business was impacted as well by shutdown activities in Q1 limiting deployments. We also experienced expected launch efficiencies associated with our third version of the Solar Roof, which impacted overall profitability.
+As I've noted before, we expect regulatory credit sales, which our credits we sell to other carmakers to generally increase with time. This can be seen by the increase from Q1 relative to Q4. And note that most of the credit revenue did not contribute to cash in Q1, and it's reflected in the accounts receivable on the balance sheet.
+Our free cash flows were impacted by the temporary – by the temporary increase in end of quarter inventory for all our products resulting from the abrupt suspension of production and delivery operations. Had these interruptions not occurred, we were pacing towards a record quarter of deliveries and strong free cash flows.
+As Elon mentioned, it is extremely important that we remain on track to achieve our long-term plans and technology road map. We are taking the near-term actions required to continue those investments. Model Y in Shanghai and Berlin are proceeding as planned and we're making progress on improving capacity for Model Y in Fremont and Model 3 in Shanghai.
+In the near term, our Shanghai factory remains operational, contributing an increasing level of cash flows and profitability to the company. In Fremont, we're working towards restarting production as soon as that's possible. We are also continuing to deliver cars that we were unable to deliver at the end of the first quarter.
+Our vehicle inventory balance increased by 14,000 units at the end of Q1, which was a headwind to free cash flows in Q1, but it's helpful in Q2. Note that one of the most important aspects of Model Y in Fremont and Model 3 in Shanghai is the dramatically improved cash conversion cycle by locally producing and delivering vehicles.
+While sales and delivery operations have paused in many areas of the world, we are still receiving many online orders, despite inability for our customers to experience the product prior to ordering. However, unavoidably, the extended shutdown in Fremont will have an impact on our near-term financial performance and we will need to work through how quickly we'll be able to ramp production to prior levels.
+More broadly, we remain focused on ensuring our cash flows are managed appropriately. Working capital management, in particular, raw material inventory is the single most important lever in managing our cash flows during this time. The Tesla team has done a great job here. We've also taken actions to eliminate or reduce non-critical expenses and optional investments while continuing to drive efficiencies throughout the business.
+Overall, we've modeled many scenarios into 2021 and remain comfortable that we have sufficient liquidity to proceed fully with our most important, long-term investments. It is important to note that Tesla remains an extremely agile and dynamic company, and this is aided by the substantial work we've done over the last year to improve our cost efficiency and productivity. And we have the ability to quickly adjust our spending and planning as required.
+So thank you again to the Tesla team for success in Q1, and we will turn to questions.
+Martin Viecha
+Thank you very much. So we'll take the first questions from institutional investors compiled by Safe Technologies.
+Question-and-Answer Session
+A - Martin Viecha
+The first question from institutional investor is, most Tesla owners have yet to purchase or experience FSD, despite most vehicles having all the necessary hardware. What levers could you pull to accelerate adoption and deepen your data advantage? For example, could you consider offering FSD as a premium subscription?
+Elon Musk
+I think we will offer Full Self-Driving as a subscription service, but it will be probably towards the end of this year. I should say, it will still make sense to buy FSD as an option as in our view, buying FSD is an investment in the future. And we are confident that it is investment that will pay off to the consumer -- to the benefit of the consumer. In my opinion, buying FSD option is something people will not regret doing.
+Zachary Kirkhorn
+Agree. And financially, rolling the upfront purchase of your -- of the FSD option into a loan in the vehicle or a lease is – will be the least expensive plan on a monthly basis to own, plus you preserve the option value of increased value of time. So we do understand that some customers who have ownership or have leased their vehicles did not purchase that option upfront. And so this will enable those customers to spread out the cost of ownership of FSD or subscription over time.
+Elon Musk
+Yes, absolutely. At a high level, our overall goal is to maximize the area under the curve of customer happiness. That is our goal. And we think that, that's the kind of thing that all companies should try to do. And it's what results in long-term value creation and loyalty – the guest loyalty. So our goal is always really to do the best thing for the customers, and we're confident that if we behave like that, the customers in turn will behave the same way to us.
+Martin Viecha
+Thank you. The second question from investors is, China recently announced changes to its NEV subsidy program that disqualifies Tesla vehicles from benefiting from the subsidies. To what extent is there room for Tesla to lower manufacturing costs in China and pass those savings to buyer, so they can qualify for the subsidy?
+Elon Musk
+Yes. So we are making rapid progress on lowering the production costs in China. And we're actually excited to announce on this call that we will be reducing the price of the standard range Model 3 basically tomorrow, China time. So the day after tomorrow, California time, but tomorrow, China time. And there will be a price below the subsidy limit. And we feel confident that that's will still be a vehicle that delivers a good gross margin.
+Zachary Kirkhorn
+Yes. And on the manufacturing cost portion of the question, the cost of vehicles produced in Shanghai in Q1 is already lower than the cost to produce the Model 3 in Fremont, and there's still significant opportunity left to take costs out. So fixed cost absorption from higher production volumes, which are occurring in Q2 and will occur through the rest of the year were not fully localized on the supply chain yet. And so while a lot of the supply chain is localized, it's not complete, and there's additional opportunities there. And so we'll continue to bring the price down and expand margin -- costs down and expand margin even with this reduction in price that Elon mentioned on the standard range version of the vehicle.
+Martin Viecha
+Thank you. The next question is, Andy Grove once said that great companies are improved by crisis. In which way has Tesla improved towards -- or is expected to improve coming out of COVID-19?
+Elon Musk
+Well, it has caused us to look closely at our cost structure and to be more efficient as a company. That's one always has to do that in a crisis, and just thinking about our core beliefs and what do we want to do. And we came to a conclusion that at the right move was actually to continue to expand rapidly, continue to invest in the future and in new technologies, even though it is risky. And we've talked to some of our key investors, and they support that approach as well. So I think that there's clearly an uncertain future ahead. It's a bit of a bumpy road. But I think the long-term prospects are extremely good. Anything you guys want to add?
+Zachary Kirkhorn
+Yeah, I agree with Elon. The prioritization on the key projects will enable us to execute more efficiently and faster on them, which I think is great. The other one that I would add is, it's always been our vision at Tesla to improve the customer experience and make that as digital as possible.
+Elon Musk
+Yes. Touchless delivery.
+Zachary Kirkhorn
+Yeah, So touchless delivery. Mobile service touchless sales has been something that we've been very focused on and made a lot of progress on.
+Elon Musk
+Yes. The Tesla is the only car that you can literally order in less than five minutes on your phone, you can order a car and have it delivered to your doorstep with all the paper and everything done. That's it. Effortless.
+Zachary Kirkhorn
+And many customers do that.
+Elon Musk
+And they're doing it, yes. In fact, a big part of it is just trying to communicate to people that this is something you can do, because normally, buying a car is quite a pain -- for most people, they would rather go to the dentist than buy a new car. Actually, my dentist is very -- but it's really like quite an arduous thing. When the typical retail experience for buying a new car is more painful to people than having a root canal done, then you have to say, well -- and for Tesla, it is completely as easy as ordering something from the Apple App Store or something on Amazon and -- except it's a car. Yes. All right. And then five minutes is a, if you really went fast, I think you could order a car probably in 90 seconds, so.
+Martin Viecha
+The next question is from institutional investor is, can you give us a brief preview of the Battery Day by generally highlighting steps Tesla is taking to improve cell energy density and time line for introduction?
+Elon Musk
+Yes. Actually, we were just -- we don't want to preempt Battery Day. We want to leave the exciting news for that day, but there will be a lot of exciting news to tell. And I think it would be one of the most exciting days in Tesla's history and we're just trying to figure out the right timing for that. We think probably the right timing will be the -- probably the third week of May. Not giving a firm date, but we think that probably that's the right timing. And depending upon what we're allowed to do, it will either be in California or Texas.
+Martin Viecha
+Okay. And the last question from institutional investors, could you please update on progress stores development and commercialization of Full Self-Driving? How much revenue have you recognized so far?
+Zachary Kirkhorn
+So there is a couple of things on the financials for Full Self-Driving. And so, currently, in North America, it's sold for $7,000 as an option. We take roughly half of that as revenue, and the other half of it goes into deferred revenue. That's associated with features that will be released with time.
+Our deferred revenue balance is continuing to grow. It's a little bit over $600 million. And so as we release features with time, at the end of every quarter, we take a look at what features have been released associated value and then we can release that from the deferred revenue into our financials for that quarter.
+And then cars going forward, once the feature is released, we can recognize that revenue. So we reduce the amount of deferral, and we can recognize that revenue within period. So, I mean, this is one of what we think will be one of the most powerful gross margin levers with time as the feature suite is rolled out.
+Elon Musk
+Absolutely. There's also a tremendous amount of untapped potential in the beat out there that could upgrade to turn on Autopilot -- basic Autopilot or Full Self-Driving. And that's something we will enable just as simple in our purchase or as we talked about earlier, just towards the end of the year, as a subscription.
+So that's just a lot of untapped potential there. That's not in the deferred revenue line, obviously, but it's certainly a great deal deferred potential that we think is a large portion, which is likely to reach fruition.
+Martin Viecha
+Thank you. And now let's go through the questions from retail investors. Question number one, Elon has mentioned a 50% compound annual growth target for Tesla in the past. Is this still in line with Tesla's ambitions for the next five to 10 years? This would be 4 million vehicles in 2025 and more than 20 million vehicles in 2030. Is 40% or more realistic target?
+Elon Musk
+Well, it's always difficult to predict what the macro situation is going to be. I think people – actually people would have predicted the unexpected roundhouse that COVID came up with it sort of came out of nowhere. So I think in the absence of something, some massive force majeure events, but quite massive, I think, 40% is the likely number. It's possible that is 40%. I would be very shocked, if it's less than 40%, even with force majeure Model 3.
+Martin Viecha
+Okay. The next question from retail investors. When will you announce the next Giga? How many Gigas, do you have planned for the next five years?
+Elon Musk
+I think we will announce the next Giga possibly as soon as a month. We may not – as soon as next month. This is not a prediction, just saying. That's – that could happen. It will certainly be within three months and possibly one month. And that would be in the U.S. So as for how many will be in five years, I'm not – I don't know right now what that number would be. I guess, several more than there are today. But I'm not sure, what exactly it would be in five years, but some number more than today.
+Zachary Kirkhorn
+I'll also add that our Gigas have gotten bigger. And --
+Elon Musk
+Yes. Larger, they start being called Tera.
+Zachary Kirkhorn
+Yes, with multiple products as well. And so the absolute number of Giga factories, we may ultimately build might be less, but each one is larger. And that's under our belief that just significant efficiencies by having as much as possible, and similar product lines under the same roof, and as much vertical integration as possible all in one facility.
+Martin Viecha
+Thank you. The next question is, can you give us an update on Solar Roof ramp? How many are you currently able to install per week? What is your installations per week target for the end of 2021?
+Elon Musk
+We were actually gaining interest momentum with the Solar Roof before COVID, but COVID essentially shut us down, both from the ability to install and the ability to get permits. The permit offices were closed. And we're sheltering places, 11 places. So we obviously cannot install and the – if you can't get permits, then you can't physically do it. It's basically impossible. So – but I think the long-term trend for Solar Roof is extremely good, and I'm confident that, let's say, within the next, I don't know, year or—maybe even by end of year, we should be installing at a rate of 1,000 a week. That's not in the middle of winter or something, like taking seasonality – allowing for seasonality, where it's hard to install on roofs that are covered in snow and ice. But like, say spring, I think it's installing, which is the hard part. We actually have demonstrated the ability to hit 1,000 a week plus build rate for the Solar Glass Roof already. So that's not a problem. It's building out the installed teams, building up the third-party channel installers, the roofing industry installers.
+And internally, we want to have at least 1,000 Solar Roof install teams with – and taking a week or perhaps a little less than a week to do an install, which gets you 1,000 a week roof installations. We see demand is good. Production is good. So it's really all about the install, and then like also build out the training, the very diverse group of companies in the roofing industry to also install Solar Roof that, I think will scale – allow us to scale far beyond 1,000 a week.
+We're also seeing a lot of interest outside of North America. So we expect this to be a product that is international and actually seeing a tremendous amount of interest from China on the Solar Roof. So we're confident this will be a very significant product for the company over time.
+Martin Viecha
+Thank you. The next question is, can you elaborate on Tesla's plan to enter the residential and/or commercial HVAC market? Can you provide some basics of how your system will work? Will you consider the heat pump water heater market as well?
+Elon Musk
+Well, as I said on Twitter, I'm personally extremely excited to build HVAC – gas, HVAC system that also has sort of hospital-grade particle filtration, basically have a filtration that filters out viruses, bacteria, pollen, fungi and also neutralizes specific alkaline gases that is quiet and efficient. And these are all things we've achieved in our cars. In fact, I don't know if a lot of people realize, but the Model S are the only cars in the world that have a hospital operating room-grade heavy filters built-in. They're very big. So – but you can get to a particle count that is insanely low with our cars.
+Zachary Kirkhorn
+And 3 and Y have like MERV 16 or 15 capable filter –
+Elon Musk
+Yeah. It’s not like model 3 and Y – Model 3 and Y also – they're way better than any other cars to the best of my knowledge. They're not quite as good as possible operating room, but they are extremely good, way better than any other normal car. And we're continuing to improve the filters on 3 and Y. These actually have a big effect on health even in normal just day-to-day living. It's reducing particle count and it has vector on allergies and all sorts of things. So it's really – air quality is incredibly important even in non-COVID situations going forward.
+So taking all those things that we've replenished and applying to how HVAC would be and commercial HVAC would be is just very exciting. And then you've got – if you're condensing water, like why not also have a few water source, if you have water, you possibly could then heat the water and have a water heater as well.
+Zachary Kirkhorn
+Yeah. And use it as a heat source, if you need it instead of the outdoors, when the outdoor is really cold or the other way around. So lots of options.
+Elon Musk
+It could be a hell of a product. So we just have to – Tesla have potentially to whether we continue on the product front. So we're going to make sure, we got a lot of ice in the fire here, for new products with the Cybertruck, Semi, new Roadster and the Gigafactories in various parts of the world and Model Y, Autopilot and the Solar Roof and…
+Zachary Kirkhorn
+New technologies.
+Elon Musk
+Yeah, exactly. Powerwall, Powerpack, Megapack. We are seeing tremendous demand for stationary storage, more than we can supply, at least for 2020.
+Martin Viecha
+Thank you. And the last question from the retailers, when will Tesla start acquiring utilities like Hornsdale Power Reserve and most lending instead of selling them battery storage? Does it make sense for Tesla to buy bigger plants and convert them?
+Elon Musk
+Well, we haven't really thought about that yet. It's not out of the question, but our brand is full. Excuse me, sir, our brand is full. That's not out of the question. Our overarching goal is to help accelerate the advent of sustainable energy. And the three elements of that are sustainable power generation, then you've got to store the power, stationary storage. And then you've got to have electric transportation.
+So -- and we don't have, like, say, specific market share goals or anything like that. It's just to the degree that we can accelerate the advent of sustainable energy, we think that's a fundamental good for the world, and we want to do that as fast as possible. But it's not, like you said, market share growth is a goal in and of itself. It's just the faster this happens, the better the world will do.
+Martin Viecha
+Thank you very much. And I think now we can move to analyst questions.
+Operator
+Thank you. Our first question will come from Adam Jonas with Morgan Stanley. Please go ahead.
+Adam Jonas
+Thanks everybody. I hope everyone's safe and healthy. I got one question, one follow-up. And I'd point out, I've had a root canal before, and I would agree, Elon. It was less painful than buying a car.
+Elon Musk
+I mean, really, it's -- yeah, exactly.
+Adam Jonas
+It's a big problem, actually. It's a big problem. Different conversations. Zach, first for you, any real-time update on company liquidity at the end of April? Some companies have given the circumstances, gone out of their way to give a little color on that. I just want to give you a shot at that, and I got a follow-up.
+Zachary Kirkhorn
+Yeah. It's a fair question. I don't have any additional color to provide. So $8.1 billion in cash and cash equivalents at the end of Q1, we're managing it very closely. As I mentioned in my opening remarks, we do have an increase in inventory of vehicles that we were unable to deliver at the end of Q1. So we're making progress delivering those through April, which is helpful for liquidity.
+And as we've been looking at liquidity, we've been looking at this over the next 18 months, and there's ups and downs to the liquidity. Currently now, as we're not producing, we still have payables from Q1 that we're paying off. But then in a couple of months, we'll quickly be through that, and then we'll have a gap in payables since we don't have any parts coming in. So it does go up and down a little bit. But in looking at the long-term horizon, which is how we're managing it right now, we feel pretty comfortable with the liquidity position of the company.
+Elon Musk
+Yeah. I should say we are a bit worried about not being able to resume production in the Bay Area, and that should be identified as a serious risk. We only have two car factories right now, one in Shanghai and one in the Bay Area, and the Bay Area produces the vast majority of our cars, all of S and X, and most of the 3 and all of the Y.
+So the extension of the shelter in place or, frankly, I would call it, forcibly imprisoning people in their homes against all their constitutional rights, that in my opinion, and breaking people's freedoms in ways that are horrible and wrong is not why people came to America or built this country, what the fuck? Excuse me. But outrage -- it’s an outrage. So -- but it will cause great harm, not just to Tesla, but to many companies. And while Tesla will weather the storm, there are many small companies that will not. And all peoples -- everything people have worked for their whole life is going to get -- is being destroyed in real time. And we're going to have many suppliers -- or have many suppliers that are having super hard times, especially the small ones, and it's causing a lot of strife to a lot of people. Yes.
+Adam Jonas
+Elon, on that point, you mentioned people that gave their lives to build the country. My fault for you on this. There have been a lot of comparisons drawn to the state of the U.S. economy in the early 1930s when Roosevelt began a series of new deals and infrastructure projects or post-World War 2 when Eisenhower launched the U.S. Highway Act and JFK launched the Apollo Program, which you could say was influenced by the Cold War, clearly, and you benefited from and our space program benefited from. What would be your message to U.S. lawmakers on this call as we – in addition to your opinion on shelter in place, but thinking the longer term, your message to U.S. lawmakers coming out of the crisis, specifically around EV infrastructure and a chance to work with taxpayers to support sustainable transport and renewable energy? I'm wondering if you see this as a chance to make the crisis and all the loss and lives lost not be in vain. Thanks.
+Elon Musk
+I think, it's high time we invested in infrastructure in this country. We have a lot of a crumbling highways and bridges. And frankly, when I visit China, I see their infrastructure as being much better than ours. It's great. Europe has better infrastructure. It's really quite sad that U.S. infrastructure especially it’s roads and highways is where it is today. And our airports, in a lot of cases, are an embarrassment.
+So -- and it's not just a question of money. It's a question of will. Sometimes, we spend a lot of money on these things, but what are we gaining for it? So -- and yeah, we really need to be thinking about what is the transportation of the future, not the transportation of the past.
+If this was 1920, do you want to be investing in steam engines or in commercial engines? Obviously that’s not steam engines. So this is the time to think about the future and also to ask, is it right to infringe upon people's rights, as what is happening right now. I think the people are going to be very angry about this and are very angry, because somebody should really -- if somebody wants to stay in their house, that's great. They should be allowed to stay in the house, and they should not be compelled to leave. But to say that they cannot leave their house, and they will be arrested if they do, this is fascist. This is not democratic. This is not freedom. Give people back their goddamn freedom.
+Martin Viecha
+Okay. Let's go to the next question please.
+Operator
+Thank you. Our next question comes from Emmanuel Rosner with Deutsche Bank. Please go ahead.
+Emmanuel Rosner
+Hi, good evening. Question on Model Y. I was hoping you can elaborate a little bit more on the drivers of how the gross margin is already positive at such low volume. How much of it is a function of the commonality with the Model 3, what other factors should we think about? And what does that mean for the app flow for the eventual gross margin on Model Y?
+Elon Musk
+Zach?
+Zachary Kirkhorn
+Sure. A couple of thoughts there for Y. The first is, it does carry a higher ASP. So on the revenue side, it carries a higher ASP than Model 3. And the deliveries that we started with were of the higher ASP versions of the cars. So we started with deliveries of performance initially. And so that helps create some of the margin. And that will come down with time as more variants are released, and we have more of a steady-state mix. But it's similar to the ASP trends that we had with Model 3 when we launched that product in Fremont two years ago. On the cost side, I think you hit on a couple of the buckets. The commonality is huge. It's very important.
+And in addition to that, manufacturing processes are very similar to Model 3 as well, and so we have experience with that both with Model 3 in Fremont and then as well in Shanghai. And it helps to have an existing factory with existing workforce and knowledge here as well. So the ecosystem to support and launch the product is there. There remain a lot of opportunities to take -- continue to take costs out of the car. And the number of vehicles that we built in the first quarter is quite limited relative to our goal.
+Elon Musk
+It's good. We take costs out of the car and to make the product better. So it's tax. It's not make the product worse. It's -- and if we can take costs out of a car, make it worse, we want to take costs out of the car, figure out how we can make it lighter and simpler. And so it's -- want the car to just incrementally improve as well as incrementally lowering costs. But for a five-seater Model Y, we expect marginal costs of that car to be comparable to the Model 3 once we have reached say, 10,000 or 20,000 units or something like that and…[Technical Difficulty].
+Operator
+Ladies and gentlemen, please standby, your conference will resume momentarily. Thank you. Speakers, you're back online.
+Martin Viecha
+All right. Sorry, we got disconnected for some reason. What was the question again? Okay. Let's go to the next question, please.
+Operator
+The next question comes from Ben Kallo with Baird. Please go ahead.
+Ben Kallo
+Hey, thank you very much. Just wondering about the cell strategy. In Reno, you have, obviously, integrated there. But you're buying cells I think, in Shanghai and then what we think in Germany. And so, how are you looking at that going forward? And then could you just talk about Mr. Mizuho and that Board addition and kind of the process with adding him to the Board? Thank you.
+Zachary Kirkhorn
+Sure. From a sales perspective, with all the partners we've had historically in the future, we're just looking for competitive technology and competitive pricing. I think we'll talk a little bit more about this on Battery Investor Day like how we're approaching all of it. But yes, I mean, we don't have like one model we're restricting ourselves to pursue. We're just trying to find what's best for the products and -- in the long run. And then the other question about the Board?
+Martin Viecha
+Sorry, we couldn't hear the second part of the question.
+Ben Kallo
+Yes. I was asking about Mr. Mizuho entering the Board and kind of the process behind that and what he brings to the Board?
+Elon Musk
+I think we all need to go. And obviously, he brings tremendous amount of experience investing at the highest levels in the world and has done great work as -- at the Japan Pension Fund, which is the largest fund of any kind in the world. And generally, the conversations over the years is just churning incredible insight into how the securities -- the global security markets work and what he thinks it is, whether are historical. It just -- it seems like he has a strong philosophical understanding about how to make the future better. And he shares our view regarding the environment and just a very sensible, smart person who brings a lot to the Board and I think is generally recognized as such by many people.
+Ben Kallo
+I guess leaking into the Panasonic relationship, maybe just how is that relationship going? And is there any read-through on bringing him on to the Board? Thank you.
+Elon Musk
+No. I think this is set right through with the Panasonic relationship. I mean, I have a great relationship with Panasonic's CEO. We meet regularly one on one and talk at the time. So, that relationship is strong. Just that he'd bring more of a broader and a global, strategic view to the Board.
+Martin Viecha
+Thank you. Let's go to the next question, please.
+Operator
+Our next question will come from Gene Munster with Loup Ventures. Please go ahead.
+Gene Munster
+Congratulations on the progress. Elon, you talked about full autonomy by the end of the year. I would love for you to walk through the rollout strategy of the Tesla Network app and how that's going to look prior to the robo taxi stage? Are you going to gradually take over human routes with autonomous capable routes over time? Or how do you see that playing out?
+Elon Musk
+Well, it's pretty much going to play out as it has played out, which is, we'll release more and more functionality. Yes, before we release any functionality, it goes through extensive testing. First, we run it -- we have a simulations team that has, I think, a very good simulation of the real world. So we run any car changes through battery tests and simulation.
+Then we have a global QA team, which I'm on, actually. I'm one of -- on the global QA team. And we test the releases in the real world, the essence of real-world in a simulation, which is -- which are very many, because the world is very complex and where -- and then we release it to a small group of private beta testers within the company; then to a larger audience, including people outside the company; then to Early Access Tesla owners; and then finally, a broad release.
+And so there are many stages that these things go through. So, by the time something is being -- going to wide release into the U.S., it has gone through all of those stages. And the software that's at the very early stage is much more advanced than what people are seeing. So, just going to go through a very rigorous safety process.
+So essentially, we need to figure out, get very good at complex intersections, get very good at complex turns in intersections and things like busy malls, in a parking lot or office park or special events and sporting events, that kind of thing, when those eventually come back. Those are extra hard cases. But it's all tracking very well. If you like, the water pallets engineering team is -- we just have an extremely talented group, and I'm deeply involved with the team. So we talk every week and meet every week when we can, as now physical meeting is difficult.
+So I have quite a deep understanding where we are, where we're headed. And I feel like we have a tremendous amount of momentum, and we'll have the functionality that’s really cool, also driving by the end of the year. Now after that functionality is released, there's still another step, which is to improve the reliability of it, once it is released, to kind of core self-driving with the human -- supervised by the driver. And then we keep improving the reliability to a point where it no longer needs to be supervised by the driver.
+And we provide a vast body of data to regulators to show them that this is the case. And then presumably, the regulators, depending on which jurisdiction it is, would give approval for the autonomous cars that can drive with no human onboard. Obviously, the regulatory approval process that's difficult for us to predict with accuracy, because it's out of our hands. But for the rest of it, I feel very good about where we are.
+Gene Munster
+So, to summarize, we want -- we're going to give owners full autonomy, some level of that by the end of the year. Then a human is in the loop, Tesla Network app sometime, is it first half of next year? Would that be the hope?
+Elon Musk
+Do you mean like, when can a car drive with no person?
+Gene Munster
+With a person -- initially a person who observes, would that be with the Tesla Network app, would that be really part of the year of 2021? Is that the hope?
+Elon Musk
+If described as a hope, I would say that, that's probably a fair description.
+Gene Munster
+Okay. And then kind of take it to its end stage, the robo taxi stage. Any high-level thoughts to understand the regulatory is a massive unknown? But if you're going to put a guess on it, where would we -- when will we start seeing robo taxis?
+Elon Musk
+Well, I think it's quite likely, in my view, organic. I could be wrong. As you see, because we are ahead in some areas, and we're behind in others, because -- when I give a guess, I give the guess that I think is the likely midpoint, not the point with lots of margin. If this is normal distribution, I'd give you the 50th percentile, not the three segment optimistic or pessimistic. So then that necessarily means, at least, half of my predictions will be wrong and half will be right. Yes. I think -- or it might be right, but offset by a few weeks to a few months, in some cases a few years. But I believe as everything I've ever said would come true – did come true, it may come through late, but it did come true. So punctuality is not my strong suit, but I always come through in the end. So – and I think we could see robo-taxi fleet in operation with the network fleet next year. Not in all markets, but in some.
+Martin Viecha
+Thank you. And let’s go last question please.
+Operator
+Our last question will come from Pierre Ferragu with New Street. Please go ahead.
+Pierre Ferragu
+Hey, thanks for taking my question. One on gross margin, first. I know your impressive performance in Q1. So there are three moving parts, the tailwind from credits, of course; the Model Y is ramping. Even if it broke even, it probably took average gross margin down. And of course, you had like Fremont being closed, shut down the last week of the quarter. It probably was the sort of an extra cost. And so when I looked at how gross margin evolved sequentially, excluding these three moving parts, I felt like your auto gross margin could have been up like a couple of points sequentially. So I wanted to check with you, if that estimate would make sense. And then I will have a follow-up on energy storage. Thank you.
+Zachary Kirkhorn
+Sequential market improvement – margin improvement.
+Elon Musk
+Yes.
+Zachary Kirkhorn
+Yes. So the three things that you mentioned, I had a little bit of a hard time hearing the full question here because we're having a bit of network difficulty in the room. I'll do my best here. So when we look at margin, we just look at credits as you have, so I agree with that.
+Model Y ramping, bringing down overall gross margin, I agree with that as well. So it was lower than the overall average, and that will increase with time. And shutdown and efficiencies in both Shanghai and in Fremont also weighed on margin. And the Shanghai margin was below the average as well. Even though it's increasing quickly and approaching Model 3, it still is below the average.
+And so I think the sentiment of your question was, if you were to remove those factors, was there a sequential increase in gross margin. I haven't specifically calculated that, but I think your intuition is right. We saw strength in gross margin across the board, as I mentioned. And in particular, S and X gross margins continue to improve despite slightly lower volumes there and higher fixed cost amortization.
+So there's good progress happening, both on the ASP side and the cost reduction side, for our products and production. And I think this also lends itself to the power of the gross profit contribution to the company once we get through these inefficiencies, we get them on up and running again, we increase capacity so we can spread out fixed costs and continue to execute on cost reductions on our products, we feel very optimistic about that path going forward.
+Pierre Ferragu
+Thanks. And I had a quick follow-up on energy storage, if you can hear me well. I think like – I can't remember – I think from the very first days I heard you on the call, you've always mentioned that demand for energy storage is always outstripping supply, and you have more orders than you can make. And so I'm kind of thinking there will be – there should be an inflection point in that business at some point, and it's going to be driven by your ability to add much more manufacturing capacity like battery manufacturing capacity. And at a high level, how are you thinking about that inflection point in terms of time line?
+Zachary Kirkhorn
+In terms of time line, I think what we've been doing with both our partners and internally is looking at how to reduce the – fundamentally the cost of investments in new sales capacity because when you look at a car – a vehicle product, there's a lot of things in the vehicle besides the cells. When you look at an energy storage product, it's really just the cells. And so to really grow the energy storage business, it's all about cell investments.
+And so that's what we've been focused on. And I think not to give too much away, but that will be one of the things we address in Battery Investor Day is how we're focused on that. And when we have that in the place we want, it will be a lot easier to scale that business.
+Martin Viecha
+Thank you very much for all your great questions. Unfortunately, this is all the time we have today, and we'll speak to you again in three months' time. Thank you very much, and have a good day.
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for your participation. You may now disconnect.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+18 Authors in the Last 30 Days

@@ -1,0 +1,200 @@
+QUALCOMM Incorporated (NASDAQ:QCOM) Q1 2020 Earnings Conference Call February  5, 2020  4:45 PM ET
+Company Participants
+Mauricio Lopez-Hodoyan - VP, IR
+Steve Mollenkopf - CEO
+Akash Palkhiwala - CFO
+Cristiano Amon - President
+Alex Rogers - EVP and President, Qualcomm Technology Licensing
+Conference Call Participants
+Samik Chatterjee - JPMorgan
+Mike Walkley - Canaccord Genuity
+Chris Caso - Raymond James
+Stacy Rasgon - Bernstein Research
+Ross Seymore - Deutsche Bank
+Matt Ramsay - Cowen
+Rod Hall - Goldman Sachs
+C.J. Muse - Evercore
+Timothy Arcuri - UBS
+Srini Pajjuri - SMBC Nikko Securities
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to the Qualcomm First Quarter Fiscal 2020 Earnings Conference Call. 
+At this time, all participants are in a listen-only mode. Later we'll conduct a question-and-answer session. [Operator instructions] As a reminder, this conference is being recorded, February 5, 2020. The playback number for today's call is (877) 660-6853. International callers, please dial (201) 612-7415. The playback reservation number is 13697473.
+I would now like to turn the call over to Mauricio Lopez-Hodoyan, Vice President of Investor Relations. Mr. Lopez-Hodoyan, please go ahead.
+Mauricio Lopez-Hodoyan
+Thank you and good afternoon, everyone. Today's call will include prepared remarks by Steve Mollenkopf and Akash Palkhiwala. In addition, Cristiano Amon, Alex Rogers and Don Rosenberg will join the question-and-answer session.
+You can access our earnings release and a slide presentation that accompany this call on our Investor Relations website. In addition, this call is being webcast on qualcomm.com and a replay will be available on our website later today.
+During the call today, we will use non-GAAP financial measures as defined in Regulation G, and you can find the related reconciliations to GAAP on our website. We will also make forward-looking statements, including projections and estimates of future events, business, industry trends or business or financial results. Actual events or results could differ materially from those projected in our forward-looking statements.
+Please refer to our SEC filings, including our most recent 10-K, which contain important factors that could cause actual results to differ materially from the forward-looking statements.
+And now to comments from Qualcomm's Chief Executive Officer, Steve Mollenkopf.
+Steve Mollenkopf
+Thank you, Mauricio, and good afternoon, everyone. We are pleased to report strong results in the first fiscal quarter with non-GAAP earnings of $0.99 per share, above the high end of our guidance range, led by strength in our chip business. We're also pleased to see strong year-over-year revenue growth in our licensing business.
+As you can see from our strong results, our business reached a key inflection point exiting fiscal Q1, demonstrating the positive financial impact of our 5G strategy to grow our addressable dollar content per device with higher-performing core chipsets and new RF front-end content. Virtually all of our 5G Snapdragon design wins are using our RF front-end solutions for 5G sub 6 and/or millimeter wave, including design wins based on our second-generation solutions.
+As we continue to execute on our RF front-end strategy, we are pleased to see our RF design win pipeline contribute to the strength of our quarterly results and our outlook. We are in a strong position with leading technology and intellectual property and the best products in the company's history. Our 5G roadmap extends beyond release '17, placing us on the cusp of a multi-decade mobile transformation as 5G increasingly becomes the foundation for the digital transformation of industries beyond smartphones.
+Turning to QTL, we have now signed over 85 G license agreements up from 75 license agreements last November. Most recently, we signed extensions with 2 key Chinese OEMs through the end of March as we work to complete long-term 5G license agreements.
+Let me now spend some time updating you on 5G traction globally. As we start the year, there are over 345 operators in nearly 120 countries, investing in 5G, including 45 operators in over 20 countries that have launched commercial 5G services, spanning both the sub-6 and millimeter wave spectrum. Looking forward, we continue to expect millimeter wave to be deployed in all regions.
+Additionally, more than 45 OEMs have launched or announced commercial 5G devices, many of which are using our Snapdragon 5G platforms. On the product side, we recently introduced our flagship Snapdragon 865 mobile platform that we expect will power many premium tier Android smartphones this year. We also introduced the Snapdragon 765 and 765 Gaming Mobile platforms with an integrated 5G modem.
+With over 275 5G devices announced or in development, spanning multiple price tiers, our product offerings will help make 5G more accessible to consumers. We also expanded our 4G lineup with new mobile platforms that enable our partners to offer sophisticated solutions that meet global 4G demand, particularly in emerging economies across multiple tiers and price segments.
+Turning to Korea, last December, all three Korean operators combined reported approximately 4.7 million 5G subscribers and are forecasting continued growth throughout calendar year 2020. We see Korea as a leading indicator for the pace of 5G adoption. Of note, the expected 5G subscriber growth is not just isolated to the sub-6 frequency bands. Carriers are planning millimeter wave service in 2020.
+Turning to China, 5G device sell in increased through December. The China Academy of Telecommunication Research reported sell-in of 13 million 5G handsets in calendar Q4 2019. Importantly, 5G handset sell-in penetration reached 19% in December 2019. We are already seeing devices priced as low as RMB 2,000 or approximately USD 285 million. At this point, 5G can address approximately 40% of domestic China smartphone sales.
+In the U.S., the 5G network build-out is progressing well at the top 4 carriers across sub-6 and millimeter wave spectrum. Verizon is leading the deployment of enhanced mobile broadband with millimeter wave service in 31 cities and is expanding their device roadmap to approximately 20 new 5G products this year.
+T-Mobile's 5G network now covers more than 200 million people and more than 1 million square miles across the United States. AT&T expects to have nationwide 5G coverage by calendar Q2. And Sprint expanded their 5G network coverage to 9 metropolitan areas.
+I would also like to highlight two recent developments on spectrum in the United States that will help drive even greater momentum for 5G. First, the FCC gave final approval for commercial use of the CBRS band, taking advantage of spectrum sharing techniques that we and others in the industry began working on years ago. The CBRS band is well suited for enterprise, smart city and industrial IoT deployments.
+And second, the FCC's latest millimeter wave auction which includes the largest amount of millimeter wave spectrum ever up for bid in an auction, is ongoing and will bring up to 3.4 gigahertz of additional millimeter wave spectrum to the U.S. market.
+Turning to automotive, as a measure of our continued automotive success, our design win pipeline is now over $7 billion, up from $5.5 billion a year ago, which does not include any impact from our recently launched autonomous driving platform, Snapdragon Ride. We continued to benefit from our systems level expertise, expanding our automotive solutions to include an autonomous driving platform, Snapdragon Ride.
+With a long history of automotive innovation, we now -- we have now become a trusted adviser to many of the world's leading automakers. Over 125 million vehicles use our broad range of automotive solutions, including telematics, in-car connectivity and infotainment platforms.
+Our Snapdragon Ride ADAS platform represents a significant expansion of our addressable market. We look forward to seeing our Snapdragon Ride ADAS and autonomous solutions on the road in 2023.
+We are very pleased with the FCC's unanimous vote in December to move forward with allocating spectrum in the 5.9 gigahertz band for cellular vehicle to everything technology. Since that vote, we are seeing traction for cellular V2x in the 5.9 gigahertz band across regions. Looking forward, we continue to remain optimistic about our growth opportunities in IoT, always connected PCs and cloud AI.
+Lastly, as the coronavirus situation continues to unfold. Our thoughts are with the many Qualcomm employees in China, our customers and suppliers, their families, as well as those who are impacted by this unprecedented situation. As Akash will share with you, we have considered the impact of the coronavirus in our forward guidance based on the limited information we have at this time.
+I would now like to turn the call over to Akash.
+Akash Palkhiwala
+Thank you, Steve, and good afternoon, everyone. I will begin with a discussion of first fiscal quarter earnings. Our results demonstrated strong execution with revenues of $5.1 billion at the high end of our guidance range and non-GAAP earnings per share of $0.99, $0.14 above the midpoint of our guidance.
+The outperformance in the quarter was driven by strength in QCT across 5G, RF front-end and adjacent platforms with revenues of $3.6 billion, an EBITDA margin of 13%, which was above the high end of our guidance range.
+MSM shipments of 155 million units were consistent with the midpoint of our guidance. QTL delivered revenues of $1.4 billion, a 38% increase year-over-year and EBIT margins of 72%, reflecting the benefit of a seasonally high quarter. We returned approximately $1.5 billion to stockholders during the quarter, consisting of $710 million in dividends and $762 million in stock repurchases..
+With that, I'd like to turn to our global 3G/4G/5G device forecast. We continue to expect approximately 1.75 billion devices for calendar 2019. Our forecast for calendar 2020 remains unchanged at 1.75 billion to 1.85 billion devices, including 175 million to 225 million 5G devices. This forecast continues to reflect flat handsets and low double-digit growth in non-handsets.
+Now let me walk you through our financial guidance. For our second fiscal quarter guidance, we are estimating revenues to be in the range of $4.9 billion to $5.7 billion and non-GAAP earnings per share of $0.80 to $0.95. There is significant uncertainty around the impact from the coronavirus on handset demand and supply chain. Based on the information we have at this time, we are widening and reducing the low end of our guidance range. We remain in active contact with our employees, customers and suppliers as we continue to monitor the situation.
+In QCT, we expect second fiscal quarter revenues of $3.9 billion to $4.5 billion, an EBIT margin of 15% to 17%. The midpoint of our revenue guidance represents approximately 16% growth sequentially.
+We estimate MSM shipments of 125 million to 145 million units, a 13% sequential decline at the midpoint. This trend is consistent with historical seasonality and reflects the latest demand signals from our customers. Sequentially, we expect revenue per MSM to be meaningfully higher, reflecting increased content with 5G device launches in addition to normal seasonal mix shift towards higher tier chipsets.
+Our guidance includes a greater than 50% increase in RF front-end revenues in the second fiscal quarter on both a year-over-year and sequential basis.
+For QTL, we estimate second fiscal quarter revenues to be in the range of $1 billion to $1.2 billion with EBITDA margins of 61% to 65%. We anticipate second fiscal quarter non-GAAP combined R&D and SG&A expenses to be up 5% to 7% sequentially due to normal seasonality.
+Looking forward, we continue to see two inflection points in fiscal 2020. The strength in the first half of the fiscal year reflects the first inflection point on the acceleration of 5G demand. We expect our third fiscal quarter performance to be in line with our second fiscal quarter, consistent with historical trends in our QCT business. We expect the next inflection point with the launch of additional 5G flagship handsets to be in the fourth quarter and extend into fiscal 2021.
+In conclusion, we remain confident in the long-term growth opportunities we outlined at our Analyst Day, including 5G adoption, RF front-end content capture and expansion of our technology into adjacent platforms.
+Thank you and I will now turn the call back to Mauricio.
+Mauricio Lopez-Hodoyan
+Thank you, Akash. Operator, we are ready for questions.
+Question-and-Answer Session
+Operator
+Samik Chatterjee
+So if I can just start off on the guidance itself and you mentioned kind of the seasonal decline in some unit shipments. So just wondering if you can walk us through the kind of sequential move from the 155 million unit shipments you had this quarter to the new range of $125 million to $145 million. How much of that is seasonality and what are you really factoring in terms of the kind of budgeting for the virus impact? And what you're hearing from OEMs in terms of delays that might be impacting that range that you're guiding to?
+Akash Palkhiwala
+Samik, this is Akash. So if you take the midpoint of our guidance range and look at the sequential decline, it's approximately a 13% decline. And if you consider the seasonality in previous years, we've seen a decline of 16% to 22%. So it's largely consistent with the sequential decline we have seen in the past. So that's kind of your question on seasonality. This also -- our forecast also reflects the demand that we currently have from our OEM partners. And so that's -- it's also consistent with the demand we're seeing at this point.
+Samik Chatterjee
+Okay. And then if I can just follow-up on the ASP ramp here. So if you take the guidance that you have, the average ASP seems to ramp up sequentially from $23 on the MSM unit to $31. I'm just wondering if you -- that's already a 23% sequential increase, if you're doing the math right. Just wondering if you can share your thoughts about what that ASP ramp looks like because it sounded like you're expecting more RF content to come through later half of the year?
+Akash Palkhiwala
+Yes. Samik, yes, you're doing the math right, it's consistent with our view. Really, there are 3 drivers to the ASP increase. First is our normal sequential increase because of the benefit of the mix improved. What happens is we launched our new premium tier and high tier chip during this time frame and new devices are launched with it. And so you see a mix shift to premium and high tiers, which benefits us. So that's the first driver.
+The second driver is with 5G coming in, the transition from 4G to 5G, it gives us an opportunity to increase the content in the core chipset before RF front end. And so you have incremental monetization from that. And then finally, RF front-end also impacting that because we have, as we've talked about, we have a very strong design win pipeline, not just on the core chipset, but on RF front end as well. And now that is being reflected in our guidance.
+I'd also note that in my script, I went through -- I provided a data point on RF front-end revenue growth. So we're seeing 50% -- greater than 50% revenue growth in RF front end both on a sequential basis, so first quarter to second quarter, and a year-over-year basis. So it's our design win pipeline going up and the revenue and the forecast now.
+Operator
+Our next question comes from Mike Walkley with Canaccord Genuity.
+Mike Walkley
+Great. Yes, just building on some of those questions. I guess, first, maybe for Cristiano. Can you update us on the competitive environment for 5G, particularly on the Android side? How do you see 5G ramps potential Qualcomm share improving over the course of the year? And with the x55 coming, how should that also maybe impact share and ASP trends?
+Cristiano Amon
+Mike, thanks for the question. So there's a lot there. Let me just talk a little bit about the ramp and the impact on the new chipset. So we said in our script that the number of designs on 5Gs are now 275. 2/3 of that design pipeline now is on our second-generation chipset. So we continue to see traction especially as we go from our first 5G product or second product that is increasing. And in that traction, we continue to see the trend of high RF front end attached on Snapdragon.
+Competition, we expect to have competition since the very beginning. This is a very competitive market. However, we're not seeing anything on competition different than what we expected in our planning assumptions. So we expect QCT share to remain strong. We have made assumptions on -- throughout the year, that it is consistent to what we have seen in the market, and there's nothing new there.
+Mike Walkley
+Great. And just a follow-up for clarification with the ramp laid out in the guidance on Q4, is that also an ASP ramp coming again on better 5G mix? Or is it more towards a unit ramp? Obviously, new customer, Apple coming back into the model and just more seasonal trends, can you help us think about what kind of ramp on those 2 metrics? That would be great.
+Cristiano Amon
+Yes. So on the ASP side, the way we think about ASP is a factor of -- a combination of a couple of factors. One is just as we go from 4G to 5G, we've talked about how we expect the revenue opportunity for us to expand by 1.5x between the core chipset and the RF front end. But then also, as we go across the tiers, down the tiers, starting with the premium and high tier, but then eventually going into mid-tier later in the year as well with 5G, the combination of those factors will inform the average revenue per MSM.
+And then for later flagship launches that happened in the fall time frame. Again, it will -- kind of the same 1.5x rule should apply as we go from 4G to 5G, and it's really a question of how the mix plays out across the tiers and the OEMs that drives the weighted average ASP.
+Operator
+Our next question comes from Chris Caso with Raymond James.
+Chris Caso
+Just first question is just a clarification of what you guided to for the third fiscal quarter. And you said the performance to be in line with the second fiscal quarter. Just give some more color around that, is that with regard to QCT, QTL together? Is that simply referring to revenue? Is that a margin assumption as well?
+Akash Palkhiwala
+Yes. So I mean, the way we think about the year, Chris, it's kind of playing out largely as we had expected. In the last call, we outlined that we saw a couple of inflection points through the year, kind of both in the first half of the year and then in the fourth quarter. And our view kind of hasn't changed. We've seen a little bit of an acceleration in 5G deployment which shows up in our results for the quarter and the guidance. And beyond that, as you go from second quarter to third quarter, it just plays to the normal seasonality of our businesses.
+Chris Caso
+All right. And with regard to QCT now. Just a couple of questions there. With regard to the MSM guidance for the March quarter. Of the 135 million midpoint units, how many of those are 5G now? Can you give us some sense of how, I guess, the 5G penetration into the product line right now and then following from that, with the big jump that you've had in ASPs for all the reasons that you mentioned.
+Is that something we should expect to be sustainable through the year? Perhaps, does it get better as 5G attach rates increase? Is there perhaps some natural ASP declines as products mature? Could you give us some sense of how that progresses through the year?
+Akash Palkhiwala
+Yes. So Chris, this is Akash. We're not breaking down our 5G units at this point as a percent of our total MSM units. But the way to think about that number is really look at new handset launches. That launches that will happen in the quarter and over the next 6 months. And those where we expect primarily to be, at the premium and the high tier, mostly be 5G launches. And so the volume driven by those launches would be 5G.
+Cristiano Amon
+Chris, this is Cristiano, just to add a data point maybe it will help to get to the answer. If you look at markets such as United States, I think the device requirements where they move on some of all the flagships and the high tier products, they are 5G products today. But the China one is an interesting one we said in the script, which is 5G sell-in penetration reached 19% the month of December. And some of the price points already can address about 40% of the total China market based on the price points we see in the market. So all of this is good indicator about the 5G transition.
+Operator
+Our next question comes from the line of Stacy Rasgon with Bernstein Research.
+Stacy Rasgon
+I was wondering if -- I want to ask the coronavirus question a little more explicitly. What was your QCT MSM guide be for Q2 if you weren't baking in any coronavirus?
+Akash Palkhiwala
+So Stacy, what we are factoring into our guidance is really looking at the demand that we have from the customers and the information we have from them. When you look at -- on the MSM side, when you look at the overall EPS guidance, as you're aware, we typically guide a $0.10 range. And what we did to include the impact of the viruses to reduce the bottom end of the range by $0.05 to reflect the information we have at this point. But it's really something that we're going to continue to monitor as we go forward.
+Stacy Rasgon
+Got it. For my follow-up, I want to ask about QCT pricing and margins into Q2. So you're guiding revenue per MSM up 33%, give or take, sequentially. And I get that. Why are you guiding chipset margins only up a few points, like 3 points. Like, what are the gross margins of these 5G parts look like? Is there like a headwind there? Or is there something else that's going on with the remainder of like 4G pricing as that flushes out? I guess, I would have expected more margin upside given that share of magnitude of ASP upside? What's going on there?
+Akash Palkhiwala
+Yes, Stacy, it's Akash again. I think the numbers we gave out are actually very consistent with what we had outlined at previous earnings release. We had indicated a mid-teens growth in revenue and a mid-teens margin profile. And we're guiding 15% to 17%. 
+I mean, as you know well, it's a combination of this total units, the pricing environment and then -- and the profitability around it. And it's very consistent with our expectations.
+Operator
+Our next question comes from Ross Seymore with Deutsche Bank.
+Ross Seymore
+I wanted to stick on the theme of the revenue per MSM side, but maybe take a slightly different spin to it. You guys always do a great job of explaining in detail what the revenue per MSM assumptions are and then you tie it together to the EBT margins. But I wanted to see just conceptually going forward, if the AP side or the revenue per MSM is the most powerful driver of the business, is that accretive to the gross margin side?
+And I guess, somewhat similar to Stacy's question, is there something detrimental to the gross margin side that's capping how much the operating margin would otherwise go up? Because I would think the ASPs or the content going up that much would be a very accretive outcome for you?
+Akash Palkhiwala
+Ross, so it's a combination of a couple of things. I think as we see more percent of our devices move to 5G, we're going to see a benefit not just on the revenue per MSM, but also in the operating margin. The second is we're going across tiers. And so as we go across tiers and we have a second inflection point, that will further expand the scale of the 5G opportunity for us.
+As we outlined at the Analyst Day, we definitely expect to realize the operating leverage from the investment in 5G. And so as we go forward, we'll continue to see, as we had -- especially as we hit the second inflection point later in the year, expansion in our operating margins.
+Ross Seymore
+I guess as my 1 follow-up, moving over to the QTL side of things. I think Steve said earlier that you had 10 new licensees or 85 versus the 75 before. Does that do anything to change things in the QTL revenue outlook to some sort of above seasonal trends, whether it be in the March quarter or beyond as you're getting more people to pay for you with those -- the new 5G licenses?
+Akash Palkhiwala
+Yes. So the way we think about we planned QTL from a 5G perspective, is we've assumed that the market kind of stays at its current structure. And any 5G benefit that comes either from higher replacement rates and more devices as a result of that. Or it comes through an improved ASP, especially at the mid and the low tiers, that would be incremental to our forecast. I mean, clearly, as we go and sign the remaining licensees on 5G and go through our entire licensing base to convert the 2 5G licenses, that's something that's very important to us and critical to us as the transition to 5G happens.
+Operator
+Our next question comes from Matt Ramsay with Cowen.
+Matt Ramsay
+Yes. Thank you very much. I guess, I wanted to ask a little bit about -- I know I caution in the commentary in the guidance, you talked about the normal seasonality from December to March of 13% on units. But if you look back on a year-over-year basis in both of those quarters, the total numbers are down fairly substantially. And with 5G ramping, I wonder if the team could give a little bit of update on the 4G business that you have and the market share shifts that may or may not be happening? Or is this just all a market volume story?
+Akash Palkhiwala
+Yes. Matt, it's a combination of a couple of things. In these quarters last year, a year ago, we had a higher volume at Apple since we were in the previous models and still shipping volume to them, which is one reason for the decline. And then second is Huawei. While in the scheme of things, they're a small customer for us, they were a small customer for us, we still had material volume with them. And so when you adjust for those, the delta to what you would expect is extremely small and it just reflects the general market environment.
+Matt Ramsay
+Got it. And as my follow-up, I don't know if this is for Christian or Steve. It's sort of an interesting juxtaposition that one of the big drivers of growth at your company is 5G RF content. At the same time, one of the big players in RF is deeming that business as noncore. Maybe you could just share your reactions to that news if do you think is a result of your business or a future opportunity for your business? And just how you've seen the customer base react? That would be really helpful.
+Steve Mollenkopf
+Sure. This is Steve. I would say, obviously, it's not a surprise to us. We've been building this for some time and working really to get this opportunity into the business. The growth of opportunity on the RF side for us due to 5G, I think, is a good story, a good continuing story. We're happy to see it grow across tiers. I think there's still an opportunity for other players. There's obviously an opportunity on the 4G side.
+In terms of competitive dynamic or what we're seeing from the customers, we're definitely seeing the customers resonate with the system solution. There are some features that we can add, that we've been investing in, that I think people are finding valuable. But we're happy to see it flow into our business. We've been talking about it for some time, and it's great to see it actually in the results and in the guide.
+Cristiano Amon
+Matt, this is Cristiano. I'll just add one thing real quick. Look, for us, the way to think about it, this is going to become part of our core business. And that's what you see reflected in the revenue per MSM. We expect that uplift that we've seen on 5G and RF to continue going forward, especially as we go down the tiers.
+Operator
+Our next question comes from Rod Hall with Goldman Sachs.
+Rod Hall
+I wanted to start with channel inventory. And kind of -- I know you don't generally like to comment on it. But as we exit March, given what's going on with demand in China, do you have an expectation that handset channel inventory there will be higher than normal as we exit March? And just kind of what you think the flow of inventory might look like over the course of a couple of quarters here.
+And then I also wanted to kind of come back to the competitive environment on 5G and ask you, how important share is to you in that environment? And maybe, Steve, you could comment on what you would see as advantages to having higher market share? Obviously, there are cost advantages and so on. But there are other strategic advantages we might not be thinking about that are important to you.
+Akash Palkhiwala
+Rob, from a channel inventory perspective, I mean, obviously, given how we are closely following the situation in China, but this is something that we need to continue to monitor. The key driver for us is 5G and 5G launches. And so in terms of inventory on 5G, we're really at the front end. And we have increasing demand from our OEM base. And really, the challenge for us is how do we keep up with increasing demand, because it's an incredible opportunity for us to grow.
+Steve Mollenkopf
+Yes, I think on share. I think -- this is Steve. I think on share, we're not seeing anything that we didn't anticipate. We benefit, I think, a bit from a bit more geographical capability. We sell into handsets that sell into more markets. They tend to be better units for us and they give us not only scale kind of from the normal scale perspective, but also, I would say, feature and diversity scale from things. If we have an issue, a supply chain issue in the -- or demand issue in China, we tend to have the ability to have other regions to back it up.
+So we tend to look at the business in terms of our planning. We want to make sure that we maintain that strength across different markets. And I think that's going to serve us well.
+Operator
+Our next question comes from C.J. Muse with Evercore.
+C.J. Muse
+Just a follow-up question on the corona, earlier question to Akash, just trying to get this right, have you tempered the midpoint of your guide either on royalties or chipsets or you're just reflecting a wider EPS range?
+Akash Palkhiwala
+Yes, C.J., you should think of it as a wider EPS range. I mean, it's clearly something that we wanted to factor in our guidance. So what we did is we kind of held our normal guide but moved the lower end by $0.05.
+Cristiano Amon
+Okay, helpful. As my follow-up, you're guiding revenues up roughly 5%, OpEx up 5% to 7%. So I guess, can you walk through what's driving the greater spending on the OpEx side? And how we should think about operating leverage as we proceed through calendar '20 and beyond?
+Akash Palkhiwala
+Yes. So maybe two points to it. First is on the OpEx side, the increase is being driven by normal calendar year resets for employee expenses. And so it's really -- that's the primary driver.
+As you think about the full year, we are -- we have given guidance before where we expect it to be -- expect to be at the exit rate for '19 plus some small incremental on top of it. And so we're still sticking with that. I think if we execute to that and we have the growth on the revenue side, it will allow us to expand our margins and realize operating leverage.
+Operator
+Our next question is from Timothy Arcuri with UBS.
+Timothy Arcuri
+There's a lot of questions on MSM ASPs. But obviously, RF front-end really is the big piece of the story. But I guess, we don't really have any benchmarks in terms of what your revenue is there. And I guess, in early 2018, I think you said that you thought that fiscal '19 revenue would be roughly $2 billion to $3 billion for RF front end.
+And it sounds like, in prior calls, you sort of hinted that you didn't get there. But I guess, just because it's such a big piece of the story. Can you sort of anchor it for us, where are you right now? How much revenue maybe in fiscal '19, did you do for RF front end. If you're doing so well, I would think you want to give us some numbers there?
+Akash Palkhiwala
+Yes, Tim, this is Akash. At this point, we're not giving a breakdown of our RF front-end revenue base. I mean, you have data points from a while ago. And kind of the market has changed since then. And we've kind of grown our business through the RF 360 transaction and just the incredible opportunity to grow RF front end on top of 5G. So we're excited about where it takes us, and we'll look for opportunities as we go forward to provide more data to you. But at this point, we're not providing any additional information.
+Timothy Arcuri
+Okay. Okay. Okay. I guess then, I had a question on expenses in QTL. And it looks like they bottomed in the mid $300 million range back in September. But based on the guidance, they're sort of ramping back up by about $40 million per quarter. Is all of that legal expense related to the appeal? And sort of how do you think about the trajectory of margins in QTL and particularly the OpEx ramp through the year in that business?
+Akash Palkhiwala
+Yes. So for QTL, if the way to think about the OpEx and the business going forward is really look at the first quarter actuals and use that as the basis for the expense going forward. I mean, it's -- at this point, we're not necessarily looking to scale expenses and litigation we see it as largely steady state. You will see some normal increases and declines. But it's really kind of flat OpEx. And then based on how the revenue shape changes through the year, that will -- that is how the margin will get impacted.
+Operator
+The next question comes from the line of Srini Pajjuri with SMBC Nikko Securities.
+Srini Pajjuri
+A couple of questions. Akash, on the gross margin, obviously, a lot of questions there. My question is, my model, I think I'm getting close to flattish gross margin with almost 40% ASP increase here. My question is, I know you're ramping 5G and I'm suspecting most of the 5G initially is high tier. As we go through the year and as you ramp more mid and low-tier, is there a risk that gross margins could actually decline? Or are you comfortable saying that gross margins can at least remain at these levels?
+Akash Palkhiwala
+Yes. Srini, we're not giving guidance on gross margins. But really, from an operating margin perspective, the way we think about leverage is really as we transition from 4G to 5G, we should be able to hold or improve our structure. And then with OpEx guidance that we've previously provided, the combination of those factors should allow us to meet our long-term operating margin guidance.
+Srini Pajjuri
+Got it. And then maybe for Cristiano. Cristiano, on the RF, you said vast majority of the modem design wins are using your RF solutions. Any way to give us an idea as to what percent of the mix is using millimeter wave? And where do you see that going by the end of the year?
+Cristiano Amon
+Thanks for the question. Right now, we see millimeter wave as a requirement for at least the majority of the United States operators in this year, we are working towards the millimeter wave launch of Japan and Korea. So we expect that to start to be a requirement on devices as well. And we have an optimistic view that by 2021 we're going to start to see that going into other geographies such as China and Europe. So 2020 is a United States, Japan and Korea story.
+Operator
+Thank you. That concludes today's question-and-answer session. Mr. Mollenkopf, do you have anything further to add before turning the call?
+Steve Mollenkopf
+Yes. So just number one, thanks to the employees of Qualcomm for driving 5G, as I know you spent a lot, a lot going on in the last year. I appreciate all that hard work. It's great to see the results flow through into the financials. We look forward to continuing that and talk to everybody next call. Thank you, everybody.
+Operator
+Ladies and gentlemen, this concludes today's conference call. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+5 Authors in the Last 90 Days
