@@ -1,0 +1,295 @@
+Intel Corporation (NASDAQ:INTC) Q1 2020 Earnings Conference Call April 23, 2020  5:00 PM ET
+Company Participants
+Trey Campbell – Head of Investor Relations
+Bob Swan – Chief Executive Officer
+George Davis – Chief Financial Officer
+Conference Call Participants
+John Pitzer – Credit Suisse
+Blayne Curtis – Barclays
+Vivek Arya – Bank of America
+Joe Moore – Morgan Stanley
+Stacy Rasgon – Bernstein Research
+Ross Seymore – Deutsche Bank
+Pierre Ferragu – New Street Research
+C.J. Muse – Evercore
+Srini Pajjuri – SMBC Nikko
+Timothy Arcuri – UBS
+Chris Danely – Citi
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to the First Quarter 2020 Intel Corporation Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speakers’ presentation, there will be a question-and-answer session. [Operator Instructions] As a reminder, today’s program is being recorded.
+I would now like to introduce your host for today’s program, Trey Campbell, Head of Investor Relations. Please go ahead, sir.
+Trey Campbell
+Thank you, operator, and welcome, everyone, to Intel’s first quarter earnings conference call. By now, you should have received a copy of our earnings release and the earnings presentation. If you’ve not received both documents, they’re available on our investor website, intc.com. The earnings presentation is also available in the webcast window for those joining us online.
+I’m joined today by our CEO, Bob Swan; and our CFO, George Davis. In a moment, we’ll hear brief remarks from both of them followed by Q&A. Before we begin, let me remind everyone that today’s discussion contains forward-looking statements based on the environment as we currently see it and, as such, does include risks and uncertainties.
+Please refer to our press release for more information on the specific risk factors that could cause actual results to differ materially. A brief reminder that this quarter, we have provided both GAAP and non-GAAP financial measures. Today, we’ll be speaking to the non-GAAP financial measures when describing our consolidated results. The earnings presentation and earnings release available on intc.com include the full GAAP and non-GAAP reconciliations.
+With that, let me hand it over to Bob.
+Bob Swan
+Thanks, Trey, and thank you all for joining our call. We had an outstanding Q1 in the midst of incredibly challenging circumstances. We generated $19.8 billion in revenue, expanded operating margin by 10 points and delivered $1.45 in earnings per share. We exceeded our guidance by $800 million on the top line and $0.15 on the bottom line. Our data-centric businesses grew 34% and now represent approximately 51% of the Company’s revenue, and our PC-centric business grew 14%.
+We’ll talk about business trends later, but first, I want to thank and commend all the Intel employees and supply chain partners who have helped keep our business operating during this unprecedented challenge. I want to give a special praise to those in our factories and labs and other on-site personnel who have role modeled the values of our company every day and every shift. I am so incredibly proud of your effort and commitment. I also want to thank the rest of our employees who are largely working remotely to help support the social distancing requirements of those that need to work from our sites.
+Ensuring the safety and well-being of our global workforce has and will continue to be our number one priority. That’s why we are investing more than $100 million in additional benefits to aid and support employees, including a special recognition award for employees that have been working on site. Intel’s purpose is to create world-changing technology that enriches the lives of every person on earth. Never before has our delivery of that purpose been more essential. Intel technology runs 95% of the world’s Internet communication and government digital infrastructure.
+And in a world where many of us are working remotely and socially distancing, the PCs and networking technologies delivered by Intel and our customers are providing a unifying fabric that’s bringing us closer together, helping those directly struggling with the virus or caring for those who are enabling remote classrooms so that our children can continue to learn and connecting governments and businesses so they can operate and deliver goods and services.
+Around the world, Intel platforms that support telemedicines have also taken on greater importance since the outbreak of COVID-19 as hospitals and health care workers scale to meet the increasing demand for care. Our products and capabilities are also delivering vital computing power for medical research, robotics for assisted patient care and artificial intelligence and data analytics for public health. We recognize that our local and global communities need us to continue delivering technology to help overcome this COVID-19 challenge, and we’re fully focused on that task.
+Our world-class safety standards have allowed our factories to continue to operate safely on a relatively normal basis with greater than 90% on-time delivery. We only allow employees in our factories who are essential to the factories’ operations. By design, our clean rooms and factories are among the cleanest places in the world. While most of our construction projects have remained operational, we have had to temporarily pause a few projects due to local government restrictions at a small number of our sites. We will restart those projects in due course, and we expect these interruptions to have minimal impact on our ramp and no impact on our process technology transition time line.
+We also realized that solving the enormous challenge of COVID-19 requires catalyzing the world’s innovation in new ways. Intel is committed to accelerating access to technology that can combat the current pandemic and enable new technology and scientific discovery to better prepare society for future crisis. To that end, we’ve pledged $50 million in a global pandemic response technology initiative to combat the coronavirus through improved access to technology at the point of patient care, to speed scientific research and to ensure access to online learning for students and teachers. We are also granting free access to our IP to all COVID-19 researchers and scientists.
+At the same time, we also know that our communities need help right now. Between Intel and our foundation, we are providing $10 million towards coronavirus relief in the communities where we have significant presence. This will aid community organizations focused on food security, shelter, medical equipment and small business support. We also want to assist our communities’ critically important health care workers in any way possible, so we have committed more than 1 million items of personal protective equipment.
+We have already started delivering masks, gloves, face shields and other gear that we’ve sourced from our supply chain and inventory on hand to local health authorities who are best positioned to determine the areas of greatest need. Beyond Intel’s donations, our employees inspire us every day with the many ways they are applying their skills, generous spirit and technical innovation to help people and communities across the globe persevere through this crisis.
+George will give more detail on what we’re seeing and expect in the business. But first, I want to reiterate our strategy and priorities. Even as COVID-19 drives significant disruptions across the globe, our long-term strategy, to deliver the world’s best semiconductors for an increasingly data-centric world, is unchanged. And the environment is uncertain, but our priorities are unwavering. We are focused on accelerating the growth of the company, improving our execution and continuing to thoughtfully deploy your capital.
+Over the last several years, we’ve transformed the company and are now positioned to grow our share in the largest market opportunity in our history. We live in a world where everything increasingly looks like a computer, including our homes, our cars, our cities, our hospitals and our factories.
+Additionally, we have redefined Intel Inside to include much more than the CPU as we’ve expanded our silicon offering to include ASICS, FPGAS, GPUs and Optane, among other capabilities. Our opportunity set is more and more Intel silicon inside more and more computers so that we can have a larger impact on our customers’ success. And our quarterly results demonstrate the benefits of that diversity. Nowhere is growth accelerating more than in our cloud and networking businesses where we are helping our customers transform the way they move, store and process data.
+Through this crisis, the world’s cloud and network infrastructure has delivered massive scaling to support vital workloads for businesses and consumers. Cloud-delivered applications seen as conveniences a quarter ago, such as online shopping and video collaboration, have now become indispensable. We scaled our cloud and communication service provider businesses by 53% and 33% year-over-year, respectively, to help our customers meet these growing needs. These two segments now drive 70% of our data center segment revenue.
+New usages and market needs are also pushing compute resources closer to the data source or point-of-service delivery, giving rise to an increasingly intelligent edge. Our edge business delivers a wide range of platforms, including some innovative solutions that are helping the medical community tackle COVID-19. One example is Medical Informatics’ Sickbay platform. Powered by Intel technology, this solution can turn beds into virtual ICU beds in minutes, helping protect critical health care workers while expanding their care capacity significantly.
+Houston Methodist Hospital deployed Sickbay for its virtual ICU and was able to leverage it within one day to support remote monitoring of its COVID-19 patients without risking exposure to care providers. We are also partnering closely with Medtronic and Dyson as they use Intel technologies to deliver much needed ventilators. We also continue to demonstrate significant progress in ADAS and autonomous driving. While auto vehicle production is largely stalled, Mobileye delivered another proof point, demonstrating its leadership position with a landmark first-ever design win with a major Asian OEM.
+Finally, we see AI as a significant growth opportunity and are embedding AI capability into everything we make. AI has the power to reimagine how we solve problems across industries, including cutting-edge health care diagnostics, for example, in China, Intel teams with Lenovo and BGI Genomics to accelerate the analysis of genomic characteristics of COVID-19. Our combined work will further advance the capabilities of BGI sequencing tools to help scientists investigate transmission patterns of the virus and create better diagnostic methods.
+And in India, we are working with government labs, academia and industry to achieve faster and cheaper testing, accelerate drug discovery through virus genome sequencing and help architect a pandemic response platform. We acquired Habana in the fourth quarter of last year to strengthen our AI portfolio and accelerate our efforts in a nascent, fast-growing AI silicon market that we expect will grow to $25 billion by 2024. This quarter, we have largely completed the integration. We consolidated product road maps, aligned software resources and are executing to our deal thesis. We are also now sampling Habana’s first deep learning training processor to large CSPs.
+I’ll now take a few minutes to discuss how we’re executing to our supply and road map objectives. Shortly after our January call, we started to see the impact of COVID-19 in China, force many of our ODM partners to extend Chinese New Year factory shutdowns. ODM partners have now returned to work, and production is increasing every week. As I mentioned earlier, our factories remain operational. And in Q1, we are able to mitigate most of the COVID-19-related supply chain disruptions and fulfill all of our customers’ committed client CPU orders as expected.
+We remain on track to add sufficient wafer capacity this year so that we meet market demand and restore our PC unit inventory to more normal levels. Near-term PC demand has increased due to work from home and online learning, but the second half demand picture is more uncertain. We continue to assess how COVID-19 impacts to the economy will offset the immediate catalysts for more remote work and will balance wafer start plans accordingly.
+We have made strong progress on a wave of 10-nanometer-based product introductions this year. This quarter, we announced the new Intel Atom P5900 SoC, Snow Ridge, a 10-nanometer-based new addition to our portfolio of 5G capabilities. We are a leading silicon provider in 5G infrastructure, and Snow Ridge expands our reach to the fullest edges of the network. With major design wins at Ericsson, Nokia and ZTE, we expect to be the base station market segment leader by 2021, a year earlier than previously committed.
+In the middle of this year, we’ll debut our next-generation mobile processor, Tiger Lake. Using our second-generation 10-nanometer process, Tiger Lake will deliver breakthrough performance, and our customers have more than 50 fantastic Tiger Lake-based notebook designs lined up for the holiday season. Finally, in the latter part of 2020, we continue to expect initial production shipments of our first 10-nanometer-based Xeon Scalable product, Ice Lake.
+While product development in a work-from-home environment is extremely challenging, we are largely on track for our 2020 product deliverables. We are always mindful of our role as stewards and thoughtful allocators of your capital. We generate significant cash flow and have an excellent balance sheet. We’re committed to our dividends, and we repurchased $4.2 billion in shares during the quarter.
+In light of the uncertainty, we took some actions to dramatically strengthen our liquidity position that we felt were prudent. We raised $10.3 billion in debt to further underpin an already strong balance sheet, and we suspended our share buybacks. We think this level of conservatism is appropriate at this phase, and we intend to reinstate our buyback program as circumstances warrant.
+Our focus now is on investing in our products and process technology and ensuring we have the capacity to meet our customer needs. We also continue to take a disciplined approach to our portfolio of investments, including an agreement to divest our Home Gateway Platform business. We have transformed our company to lead the data-driven revolution that’s fueling our industry. Our belief is that opportunity is resolute. COVID-19 has only reinforced how important it is for Intel and our customers to accelerate the power of data to fight the current pandemic and avert the next one.
+To use Andy Grove’s words, bad companies are destroyed by crises. Good companies survive them. Great companies are improved by them. Guided by our cultural values, competitive advantages and financial strength, we will emerge from this situation even stronger.
+I’ll now hand the call over to George for more details on our Q1 results, our Q2 outlook and how we’re actively managing the business through this challenge.
+George Davis
+Thanks, Bob, and good afternoon, everyone. Q1 marked a strong start to the year amidst significant economic uncertainty and the unexpectedly strong demand for both PCs and servers as work-from-home and learn-from-home dynamics played out globally. Revenue came in at $19.8 billion, up 23% year-on-year and $800 million higher than guide. Data-centric revenue of $10.1 billion, up 34% year-on-year, represented 51% of our total revenue, an all-time high.
+Strong server demand across segments and a richer mix of our Xeon devices drove a significant portion of the upside. Q1 PC-centric revenue was $9.8 billion, up 14% year-on-year on strong notebook PC sales and increased supply resulting from capacity additions over the past year. Gross margin for the quarter was 62%, beating expectations due to strong flow-through of higher platform revenue, partly offset by reserves associated with our memory business and from the sale of our Home Gateway Business.
+Operating margin of 38% in the quarter was up 10 points versus last year on higher gross margins and disciplined spending controls, consistent with the environment. Q1 EPS was $1.45, $0.15 above our guide on strong operational performance, partially offset by losses in our ICAP and trading asset portfolios, along with the effects of a slightly higher tax rate. The strength of these results show the remarkable talent and commitment of our global workforce in a difficult and rapidly evolving environment.
+In Q1, we generated $6.2 billion in operating cash flow and invested $3.3 billion in CapEx with $2.9 billion of free cash flow, up 76% year-over-year. We returned $5.6 billion to shareholders via dividends and share repurchases. As Bob mentioned, we announced a pause in our share repurchase program as we felt it was prudent to do so in the current economic environment. This does not change our commitment to returning $20 billion in repurchases as outlined in October last year, and we plan to resume the program when market dynamics stabilize.
+With Q1 buybacks at $4.2 billion, we have already more than offset expected dilution associated with employee stock compensation for this year. In addition, our dividend policy remains unchanged with $1.4 billion in dividends paid in Q1.
+Let’s move to segment performance in Q1. Data Center Group revenue of $7 billion was up 43% from the prior year, coming in higher than expectations with strength across our customer landscape. Year-over-year platform volumes and ASPs were up 27% and 13%, respectively. While year-over-year comparisons benefited from a weak Q1 2019, revenue in the quarter came in at the second-highest level ever for DCG.
+Revenue was up 53% in cloud, 34% in enterprise and government and 33% for communication service providers. DCG adjacencies also delivered solid growth with revenue up 35% year-on-year on strong adoption of networking solutions. Our other data-centric businesses were up 19% year-over-year in Q1 despite more tangible COVID impact. IOTG operating income declined 3%, primarily on lower revenue from industrial and retail. Mobileye revenue and operating income were up 22% and 29%, respectively, driven by continued ADAS penetration and new IQ program launches, offset partially by eroding conditions in the automotive market.
+While Q1 marked a record for Mobileye revenue, we expect 2020 revenue growth will be lower than our prior expectations as automobile production and volume ramps are being materially impacted by COVID-19. NSG revenue grew 46% on strong bit growth and improved pricing. Better market conditions versus last year, along with cost reductions on strong factory performance, resulted in a lower operating loss of $66 million.
+PSG revenue grew 7% year-on-year on cloud and enterprise strength, partially offset by weaker embedded and communications segment. Operating income was up 9% on higher revenue. CCG revenue was $9.8 billion in Q1, up 14% year-over-year, driven by notebook market strength and higher modem sales. PC unit volumes were up 13% year-over-year on higher notebook demand and increased supply. Notebook demand strength is expected to continue into Q2 with more people working and learning from home due to COVID-19-related shelter-in-place orders.
+Operating margin was 43%, up 7 points year-on-year, on higher revenue and lower spending driven by the 5G smartphone modem exits, partially offset by higher unit costs associated with the ramp of 10-nanometer products.
+Let’s move to our second quarter outlook. Given the environment and the global economy, the range of potential outcomes has a wider distribution than normal. Based on demand signals from our customers, we expect the strength in cloud and comms infrastructure to continue in Q2, while IOTG and Mobileye will see lower demand driven by COVID-19.
+As a result, we expect total revenue of $18.5 billion with PC-centric approximately flat to slightly up year-over-year and data-centric up approximately 25% year-over-year. Operating margin is expected to be approximately 30%, down 1 point year-on-year on lower gross margin, largely offset by lower spending on higher revenue. Gross margins are expected to be approximately 56%, down 6 points sequentially due primarily to three reasons: prequalification reserves associated with the ramp of our next 10-nanometer client product, code named Tiger Lake; lower sequential revenue; and an accelerated ramp of 10-nanometer products, including isolate client CPUs and 5G SoC.
+The Tiger Lake reserves are not expected to impact full year gross margin as we expect to sell through the reserve inventory in the second half of the year. As a result, Q2 EPS is expected to be approximately $1.10 per share.
+Moving to the full year. With limited visibility due to the uncertainty driven by COVID-19, we are not guiding the full year. However, I do want to spend a few minutes discussing the expected headwinds and tailwinds we are monitoring and our response to the market dynamics. Tailwinds are most evident in the first half of the year on strong demand for mobile compute and related infrastructure on the dynamics of sheltering in place.
+In particular, mobile PCs, cloud and network infrastructure for 5G remain above seasonal trends. Headwinds include the impact of a global recession on IOTG end markets, particularly industrial and retail, lower automotive production impacting Mobileye and slowing enterprise and government data center demand. We also expect the PC TAM to weaken in the second half as GDP effects outweigh the initial demand bump from COVID. Also, given the volatility of the margins in Q1, our losses in our ICAP and trading asset portfolios were negatively impacting EPS by $0.03. Given the uncertain environment, this remains a watch item for the remainder of the year. In response to these market dynamics, we acted swiftly and strengthened liquidity.
+In addition to spending repurchases, we issued $10.3 billion in debt in the quarter. Our total cash investment balance at quarter end was $20.8 billion. Our liquidity actions to date are expected to impact full year EPS performance by approximately $0.12. The company has an exceptional balance sheet and strong cash flow to handle a very wide range of scenarios. We have positioned the company to support investment in technology transitions, our new products, and our customers’ requirements across these scenarios.
+As you would expect, we are very focused on cash flow management and believe our free cash flow generation this year will be resilient as impacts from COVID are tempered by first half demand strength, OpEx savings initiatives, capital actions and tight working capital oversight. To conclude, I’d like to join Bob in thanking our employees worldwide who are working diligently in these challenging times to provide products essential to the world.
+With that, I’ll hand it back to Trey, and we’ll get to your questions.
+Trey Campbell
+All right. Thank you, George. Moving on now to the Q&A. As this our normal practice, we would ask each participant to ask just one question. Operator, please go ahead and introduce our first caller.
+Question-and-Answer Session
+Operator
+Certainly. Our first question comes from the line of John Pitzer from Credit Suisse. Your question please.
+John Pitzer
+Yes. Good afternoon, guys. Congratulations on the solid results. I’m just wondering if you could give us a little bit more detail on the gross margin decline heading into the calendar second quarter. George, you kind of broke it up into three different categories. I’d be interested on magnitude of Tiger Lake versus just lower volumes and then other 10-nanometer parts. And I guess, more importantly, how do we think about kind of normalized sort of gross margins as you get past some of the start-up costs for a faster 10-nanometer ramp?
+George Davis
+Yes. Thanks, John. So the margin picture is really unchanged from what we’ve talked about in the past in terms of how we think our product road map is going to move products that we expect to introduce and their margin structure. And what you’re seeing in Q2 is largely a timing issue. And about half of the impact that you’re seeing in gross margin in the quarter is from the Tiger Lake pre PRQ reserves. Obviously, the fact that – and that’s both sequentially and year-over-year. And so I think the way we would look at it is pretty much we’re not seeing anything as – if you take COVID out of the year, we’re really not seeing anything different in our basic view of gross margin dynamics, with the exception of we’re seeing stronger pull-in of demand for some of our 10-nanometer products.
+I mean I think one of the things – we got very strong demand for Tiger Lake. And so when you look at the impact that Tiger Lake reserves are having on the quarter, it’s about the same level of impact that we had on Ice Lake in Q1 of 2019. And yet we have about double the number of units in the – being reserved. And I think it gives you an indication of just how much our performance was improving on 10-nanometer.
+Bob Swan
+So John, I would just say, relative to where we were 90 days ago, gross margins are stronger through the first quarter. They’re in line with our expectations through the second quarter. And to George’s point, despite the timing dynamics of pre PRQ reserves that we take in the second quarter and recoup in the second half, the only other change is just that we feel confident in accelerating the ramp for 10.
+So from our vantage point, at or better than kind of how we started the year, and we feel very good about gross margin performance. We’re very excited about the Tiger Lake products ramping going into the second half and the 5G Snow Ridge product that we announced. So all in all, gross margin dynamics, pretty strong. On the second part of your question, I’d go back to the commentary that George provided back at our Analyst Day in the spring, which is, obviously, when we transition from a mature node to a new node, margins tend to come down. We indicated that we plan to get back on a 2 to 2.5-year cadence, which means in 2021, we’ll be ramping 10-nanometer even more while we’re investing in 7-nanometer that we anticipate having in the fourth quarter of 2021.
+So those dynamics of – from a mature node to a new node, impacts the gross margins of the business, but we feel like it’s – we’re well on track from the plans we laid out and feel pretty good about a dynamite first quarter and an outlook for the second quarter in line or better than what we expected.
+Operator
+Thank you. Our next question comes from the line of Blayne Curtis from Barclays. Your question please.
+Blayne Curtis
+Hey, guys. Thanks for taking my question. I guess a follow-on, John, with the gross margin. I mean I know you’re not guiding full year anymore, but when we look out at that trajectory that you had given us, I was wondering if you can just kind of step us through with the acceleration. And actually, maybe looking back to last year, if you look at the improvement you saw of that low quarter, just kind of any kind of directional guidance of where this gross margin can go from here.
+George Davis
+Yes. I mean first off, I think you’re going to see, Blayne, that gross margin is going to improve, all things being equal, just from the fact that starting in the third quarter, we’ll start to see the chips that have been reserved this quarter coming out on a zero cost basis in the gross margin. And again, it’s really hard to think about the second half in terms of how demand is going to look compared to what we ultimately thought when we first gave guidance, which is because of the – all the obvious issues related to COVID.
+I’d just go back to – as we look at what we guided all the way back in May of 2019, if anything, we’re ramping 10-nanometer a little faster. We’re seeing clear evidence of improved performance on 10-nanometer. And so we feel good about the overall gross margin dynamics. You can see how our other cost initiatives are helping 5 points out of the 6-point impact that’s being offset by effectively the OpEx percentage. So overall, I would go back and say no real change to our fundamental outlook. But when you overlay COVID, it’s – we’ll just have to see how that plays out.
+Operator
+Thank you. Our next question comes from the line of Vivek Arya from Bank of America. Your question please.
+Vivek Arya
+Thanks for taking my question and I appreciate all the color in these uncertain times. I’m curious how you are directionally feeling about the CapEx guidance for the year. I think you had about a $17 billion number before. I understand the need to be responsive to the macro dynamics and in preserving the balance sheet. But you upsided first half by quite a bit, and you’re also accelerating the move to 10-nanometers. Does that create some upward bias or at least protect the kind of capital spending plans that you had for the year? Any puts and takes would be very helpful. Thank you.
+Bob Swan
+Yes. Vivek, I’ll start, and then George will fill in. First, both our R&D and our capital spend for this year are directed towards the multiyear plan that we shared with you back last year. So both the product road map over the next several years, the capital required to support the growth that we anticipate over the medium to long-term horizon while adding capacity for the ramp of 10 as well. So coming into the year, we’re very bullish about the medium and long-term outlook. And we’re putting our capital to work to support that medium and long-term outlook, and that’s not going to change.
+That being said, in the near term, as we try to get a better read on what the demand signals will be for the second half, whether we’re dealing with being very disciplined on our spending levels, ensuring that wafer starts are in line with true demand signals and being very disciplined on the capital that isn’t directly related to more capacity and/or technology development, we are going to be very disciplined through this near-term horizon. But I’d just go back to the first point, which is we’re very bullish about the multiyear view. We have the largest TAM in the company’s history. We got a great set of products that we’re building and developing, and we’re going to invest to position ourselves well to capitalize on the current disruptions that we’re wrestling with.
+George Davis
+Yes. What I would add is there’s some natural things in addition to the discipline that will help us lower CapEx a little bit. It’s part of why we said we think our free cash flow is going to be pretty resilient in the year because we’ve seen in some of the geographies where we have major construction projects underway, we’re actually seeing that being pushed somewhat by regulatory requirements.
+And so we – the way I would describe it is we probably see six to eight weeks’ worth of capital pushing out of this year. But any capital that is important for our 10-nanometer, 7-nanometer and even the start of 5-nanometer is going to be spent in line with the timetables that we’ve already laid out.
+Operator
+Thank you. Our next question comes from the line of Joe Moore from Morgan Stanley. Your question please.
+Joe Moore
+Great, thank you. I wonder if you could talk about some of the changes to the server road map? And it seems like you’ve deemphasized Cooper Lake and are more focused on Ice Lake server. Is that about confidence of the – in the 10-nanometer plus? Is that – just kind of describe what led to that decision.
+Bob Swan
+Yes. Thanks, Joe. Yes, during the course of the year, we’ve been – our product road map for servers is very focused on delivering workload-optimized platform foundation that’s scalable for the real-world environments that our customers are operating in. So we ramped – Skylake was the fastest ramp in the Xeon history, followed by Cascade Lake, that was a very strong ramp. Next, we have a Cascade Lake refresh that is a relatively simple, simple upgrade, easier upgrade for our customers because the architecture is very simple to the fastest-growing Cascade Lake ramp.
+And we’re very focused on Ice Lake in the second half of the year or in the fourth quarter, as we indicated. So as we step back and look at the market dynamics and the product road map, we feel like we got the right products at the right time as we ramp and scale the high end of Cascade Lake and refresh while positioning for Ice Lake.
+Joe Moore
+Okay. That makes sense. And as you’ve started to ramp 10-nanometer plus, is it possible to talk about the changes that you’ll see versus 10? Is it better clock speeds, better yields, better – is there better transistor performance implicit in that transition?
+Bob Swan
+I presume you’re talking about second gen for server products, Sapphire Rapids product or – oh, for clients, sorry. Yes, the client – the Tiger Lake product, we are extremely excited about. We – as I think I mentioned in our prepared remarks that we have 50 designs that we expect to ramp in the holiday season this year. Clock speed, battery life, AI incorporation into the core design, a platform offering that we think is a real differentiator for customers on – in thin and light format.
+So this is going to be a great launch. We’re very excited about it. And to George’s earlier point, the demand signals we’re seeing and our confidence in both the product and the yield is – has us at a point where we expect to accelerate the ramp and adoption a bit faster than we did coming into the year.
+Operator
+Thank you. Our next question comes from the line of Stacy Rasgon from Bernstein Research. Your question please.
+Stacy Rasgon
+Hi, guys. Thanks for taking my questions. I wanted to ask first about the 10-nanometer mix exiting the year just given what you’re seeing: a strong Tiger Lake demand signals and a potentially faster 10-nanometer. Like what do you think your product mix by node is going to be exiting the year? Do you think there’ll be a crossover point on 10-nanometers?
+George Davis
+Stacy, this is George. I don’t think we’ll see a crossover point this year. And this is – again, I’m just going to take COVID out of the equation, so thinking through, I do think we’re going to see more demand on 10-nanometer this year than we thought going in. Again, I think Ice Lake demand was strong – is going to be strong in the first half. We’re seeing our 5G SoCs on 10-nanometer getting stronger demand as the market there just gets stronger and stronger on the comp side. But Tiger Lake is really, I think, going to be the driver for us in being above our expectations for all the reasons that Bob just covered. And – but it won’t be enough to cause a crossover.
+Operator
+Thank you. Our next question comes from the line of Ross Seymore from Deutsche Bank. Your question please.
+Ross Seymore
+Hey, guys. Thanks for that. I want to go to the Data Center Group, you have the color commentary about the enterprise and government being weaker in the second half, and I don’t think that surprises anybody. But I wanted to see what sort of color you’re getting in the other 70% of that segment on the cloud and the comms side? And specifically, you had worried earlier this year that we’d enter a digestion period. So I wanted to see if your views have changed on that. And then in the comms service provider side, how much of that actually acts like the enterprise and government versus the side that benefits from the 5G ramp? Any pluses and minuses there would be helpful as well. Thank you.
+Bob Swan
+Yes. Thanks, Ross. First, on the cloud side, as you indicated, we came into the year off a very strong second half of 2019, and our expectations were that Q1 would continue that strength. But then the cloud service providers would go through their normal digestion stage, if you will. That was kind of what we indicated back in January.
+First quarter, as George flagged, demand was even stronger for the CSPs. In our raised outlook for Q2, we expect that demand for the cloud folks to – the strong demand to continue. And possibly, even going into the second half of the year, that’s TBD, but the trends are relatively encouraging, the demand signals are very high. The product that’s being pulled is the XCC product. So ASPs, as you saw in our results, were very strong.
+So purchasing is extending beyond what we thought a few months ago. And that drove Q1 upside, it drove Q2 upside, and we think it will be relatively strong kind of going into Q3. That’s TBD. On the comms side, fantastic growth in the first quarter. Our expectations are, as we go through the course of the year, it will stay relatively strong as we continue to gain share in that segment. And as we’ve expanded the 5G SoC, expanded our TAM within that sector and with the product that we just qualified a few weeks back.
+So we expect share gains, the infrastructure – share gains to continue, infrastructure in 5G to continue, if not go faster, and we’re relatively well positioned in the – with the key players of Nokia, Ericsson and ZTE going into the second half of the year. So we feel good about the comms segment as well.
+And as you flagged, the ones that we’re proud – that we’re most anxious about is just enterprise and government and what kind of demand signals we’ll see in the second half. So the first two are as good, if not stronger. Enterprise and government, a big – a bit of an unknown for us at this stage.
+Operator
+Thank you. Our next question comes from the line of Pierre Ferragu from New Street Research. Your question please.
+Pierre Ferragu
+Hey, thank you for taking my question. I’d like to get back to your performance in PC in the first quarter. So you’re up 40% year-on-year. I was wondering a couple of things. The first one is how much is that really stronger demand, and that’s just about it? And how much of that is more you catching up on capacity and being better able to serve the market and catching up maybe on demand you couldn’t meet in the two, three previous quarters? And then what’s your early view on market share? Are you starting to regain share in PCs? And if not, when do you see that happening this year?
+George Davis
+Pierre, it’s George. I think what we saw is clearly some impact relative to our expectations from the work-at-home, learn-at-home dynamics. But we had expected a strong quarter in our initial forecast, which really reflected the dynamics that we’re talking about. We had customers who have been short of demand for a number of quarters who were seeing a chance to finally build some – a little bit of inventory, which gave us a seasonally strong first quarter relative to anything we might see historically. But we saw notebook volumes up over 20% in the quarter. And I would say that that’s more than just the pent-up demand.
+And that’s at a time when some of the OEMs were really struggling in the early part of the quarter with their supply chains, which is why there’s some parts in their channel that’s all opened up now. So we think that actually – one of the good signs is though even that’s opened up, we’re still seeing very strong demand coming in on the PC side. So – and we had expected solid PC in the first half. But I would say it’s – with COVID, it’s been even stronger and heavily weighted towards the notebook.
+Bob Swan
+And the only thing I would add is in our fab network and the supply chain was able to – coming out of last year, not only able to deal with the backlog coming into the year but also meet the higher demand signals that George flagged at the latter part of March.
+George Davis
+Yes. I should have mentioned that. It’s really heroic work, both at the supply chain level, we have a fantastic supply chain group, but also our manufacturing teams, keeping the factories up and running. Delivering 90% on-time commits in a quarter like this is really remarkable.
+Operator
+Thank you. Our next question comes from the line of C.J. Muse from Evercore. Your question please.
+C.J. Muse
+Yes, good afternoon. Thank you for taking the question. I realized that you removed your guidance for the full year. But if I look at your results and your guide for Q2, it would suggest data-centric tracking, maybe down 2% half-on-half in the second half; and PC, down 14%. I’m just curious, is that directionally how you’re seeing things? Or I guess given the positive the positive trends in notebooks and the weakness on the enterprise and government side, perhaps it’s a bit more muted, and would love to hear your thoughts on that.
+George Davis
+Yes. We’re – I’m not going to be able to give you a full year guide by pieces. But I appreciate the question. I think the – maybe talking a little bit, C.J., headwinds and tailwinds, which we referred to on the call, clearly, cloud is a tailwind and – cloud and mobile compute are a tailwind for the first half for sure. I think cloud continues to be – will probably be helpful throughout the year. The – but at some point, we’re going to see the impacts of the recession start to impact demand on PCs.
+So we’re – that’s certainly a headwind. That is a reasonable expectation for the second half of the year. We’re already seeing the impact of the recession on IOTG, particularly in industrial and retail. We’re seeing in automotive, Mobileye had a record quarter in Q1. But I think the full year is going to be certainly weaker than we had expected coming into the year. Now not nearly as weak as automotive overall because they continue to grow. They’re in a part of the automotive market that is growing substantially.
+And they have the leadership position in ADAS. And so it will be more subtle of an impact, but still an impact nonetheless. And then as Bob said, on the data center side, enterprise and government appear to have been very strong in the first half, and so we would expect some digestion. How those things all play up and what percentages play out, C.J., I really can’t say, but those are the things that we’re watching to see how the year is going to play out.
+Operator
+Thank you. Our next question comes from the line of Srini Pajjuri from SMBC Nikko. Your question please.
+Srini Pajjuri
+Thank you. George, I want to go back to the gross margins. I think you did a great job giving us color about half of the impact from Tiger Lake. I’m just wondering, the remaining half, is that because of reserves, which is going to reverse in the second half? Or is this something more structural or mix related that’s going to persist for the next few quarters? I would love to hear some color on that. Thank you.
+George Davis
+Well, I think the things that are structural is we’re going to see more 10-nanometer demand in the year than we had forecasted at the beginning of the year. And that will have a little bit of dampening on margins but not materially different from what we had seen coming into the year. The temporary impact is really the reserve action, which will reverse. It is about half of the year-over-year effect. And so I would say the other impact, again, is if we look year-over-year, we’re just seeing a much larger uptake of Ice Lake and 5G SoCs year-over-year, but much of that was expected. I would say both Ice Lake and the 5G SoCs are a little bit stronger than we would have thought coming into the year and – which is consistent with just the demand activity that we’re seeing in mobility and the infrastructure around that.
+Bob Swan
+Yes. And just we came into the year with an outlook of 59% gross margin for the year. And I would just say through the first 90 days, we’re much better. To the next 90 days, we’re better or in line. And the dynamics of the pre PRQ reserve are no impact on the full year. Therefore, net-net, to the first six months of the year, we feel just as good about our gross margin performance and even better about our ability to ramp 10-nanometer. So we’re feeling very good about how the first half of the year is playing out relative to where we were 90 days ago across demand signals and gross margin performance.
+Operator
+Thank you. Our next question comes from the line of Timothy Arcuri from UBS. Your question please.
+Timothy Arcuri
+Thanks a lot. I’m just wondering if you can talk about channel. Inventory, there’s a – customers in a lot of your end markets seem to be a little concerned about supply disruptions, and they – sell-in seems to be a little bit above sell-through. Sell-through seems to be weakening a little bit. So can you talk about the potential for some inventory correction later this year and sort of how you track that? Thanks.
+George Davis
+We’re – obviously, we’re very focused on understanding that. I would say the – any kind of dislocation that we’re looking at right now is more a function of just the supply chain challenges that some of the OEMs had, particularly in the first half of the first quarter. But we’ve been watching that pretty closely because we want to make sure that this kind of buildup at our customer level makes its way through to the end customer. And we’re seeing customers telling us that their end-customer demand continues to be very strong, and their order profile reflects that they’re going to clear their existing revenue. Now when that plays out, I’m not sure. It’s part of why we struggle to understand how that second half is going to play out. But we feel good about the demand signals we’re seeing now, and we understand the movements of our products in the system from the dynamics that we saw in the first quarter.
+Trey Campbell
+Thanks, Tim. Operator, I think we have time for one more question, and then we’ll turn the call back over to Bob to wrap things up.
+Operator
+Our final question then comes from Chris Danely from Citi. Your question please.
+Chris Danely
+Hey, guys. Thanks for squeezing me in. Can you just run down the supply demand sort of balance throughout the server, desktop and notebook lines? I guess are you on track for the high single-digit unit increase in output? And then did the shortages anywhere get any worse during the during Q1? Or it sounds like they’re abating in certain areas? Just any color there would be great.
+Bob Swan
+Yes. On – as we indicated at the beginning of the year, our intention – well, we did add capacity last year, and our intention this year was to add another mid-20% growth in capacity, which would generate real strong output. And we are on track, maybe even a little bit better than what we said at the time. Obviously, in the first quarter, demand was also greater. It was greater for – across the board, server and notebook, in particular. And we were able to keep pace with accelerating demand as the quarter closed.
+So we’re in pretty good shape in terms of the promise we’ve made to our customers, and that is that we will not – we’ll put the capacity in place so we are not a constraint on their growth. So we’re in very good shape despite all the challenges. That being said by, we haven’t replenished inventory levels. So meaning mix dynamics across the board is – we’re still not quite there yet, but we’re in line a little bit better than we had hoped. We delivered more demand, and we got to continue to build the inventory levels back so we can deal with the variation by SKU mix.
+Trey Campbell
+Thanks, Chris.
+Bob Swan
+Yes. So look, thanks, everybody, for joining us today. I just kind of want to wrap with – to reiterate our purpose, and that is to create world-changing technology that enriches the lives of every person on earth. And that’s never been more important than it is during this time. Our strategy is resolute, and our business is built to withstand challenges. We have a very diversified portfolio of businesses that are highly leveraged to major technology inflections like cloud, 5G, intelligent and autonomous edge computing and artificial intelligence.
+We generate significant and durable free cash flows, and our team of 110,000 people is operating as one team to enable our customers’ success. So guided by our cultural values, our competitive advantages and our financial strength, we’re confident that we will emerge from this situation even stronger. Thanks again for joining us. We hope you all stay safe as we work together to overcome this global crisis. And we look forward to hopefully seeing you in person over the near term. Thanks again for joining us.
+Trey Campbell
+Thanks, Bob, and thank you all for joining us today. Operator, could you please go ahead and wrap up the call?
+Operator
+Thank you, ladies and gentlemen, for your participation in today’s conference. This does conclude the program. You may now disconnect. Good day.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+23 Authors in the Last 90 Days

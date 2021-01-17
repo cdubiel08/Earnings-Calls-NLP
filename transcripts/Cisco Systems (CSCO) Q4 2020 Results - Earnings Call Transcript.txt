@@ -1,0 +1,266 @@
+Cisco Systems, Inc. (NASDAQ:CSCO) Q4 2020 Earnings Call August 12, 2020  4:30 PM ET
+Executives
+Marilyn Mora - Cisco Systems, Inc.
+Charles H. Robbins - Cisco Systems, Inc.
+Kelly A. Kramer - Cisco Systems, Inc.
+Analysts
+Sami Badri - Credit Suisse Securities (NYSE:USA) LLC
+Meta A. Marshall - Morgan Stanley & Co. LLC
+Ittai Kidron - Oppenheimer & Co., Inc.
+Jim Suva - Citigroup Global Markets, Inc.
+Paul Silverstein - Cowen & Co. LLC
+Rod Hall - Goldman Sachs & Co. LLC
+Simon Leopold - Raymond James & Associates, Inc.
+James E. Fish - Piper Sandler & Co.
+Jeffrey Thomas Kvaal - Wolfe Research LLC
+George C. Notter - Jefferies LLC
+Operator
+Welcome to Cisco's fourth quarter and fiscal year 2020 financial results conference call. At the request of Cisco Systems, today's conference is being recorded. If you have any objections, you may disconnect.
+Now, I would like to introduce Marilyn Mora, Head of Investor Relations. Thank you. You may begin.
+Marilyn Mora - Cisco Systems, Inc.
+Thanks, Sue. Welcome, everyone, to Cisco's fourth quarter of fiscal 2020 quarterly earnings conference call. This is Marilyn Mora, Head of Investor Relations, and I'm joined by Chuck Robbins, our Chairman and CEO, and Kelly Kramer, our CFO.
+By now you should have seen our earnings press release. A corresponding webcast with slides, including supplemental information, will be made available on our website in the Investor Relations section following the call. Income statements, full GAAP to non-GAAP reconciliation information, balance sheets, cash flow statements, and other financial information can also be found in the Financial Information section of our Investor Relations website.
+Throughout this conference call, we will be referencing both GAAP and non-GAAP financial results and we'll discuss product results in terms of revenue and geographic and customer results in terms of product orders unless stated otherwise. All comparisons made throughout this call will be made on a year-over-year basis.
+The matters we will be discussing today include forward-looking statements, including the guidance we will be providing for the first quarter of fiscal 2021. They are subject to the risks and uncertainties, including COVID-19, that we discuss in detail in our documents filed with the SEC, specifically the most recent reports on Forms 10-K and 10-Q, which identify important risk factors that could cause actual results to differ materially from those contained in the forward-looking statements.
+With respect to guidance, please also see the slides and press release that accompany this call for further details. Cisco will not comment on its financial guidance during the quarter unless it is done through an explicit public disclosure.
+In Q2 fiscal 2019, we completed the sale of our SPVSS [Service Provider Video Software Solutions] business. As such, all of the financial information we will be discussing is normalized to exclude the SPVSS business from our historical results.
+I will now turn it over to Chuck.
+Charles H. Robbins - Cisco Systems, Inc.
+Thank you, Marilyn. We hope all of you and your families are staying safe and healthy. Our thoughts remain with everyone who has been affected by the pandemic, and we are grateful to those who remain on the front lines working to help those impacted during these challenging times.
+As we've been preparing for this call, it's offered me some time to reflect on what we've achieved since I stepped into this role five years ago. Through the hard work of everyone at Cisco, we have undergone a significant transformation in the midst of some of the most complex times in our history. I am so proud of what our teams have accomplished. They have demonstrated resiliency, determination, and compassion as we delivered on our financial commitments, brought market-leading innovation to our customers, transitioned our business model, and driven a culture that has truly shined over the past six months. The Cisco of today is more agile, innovative, and focused.
+Through both organic and inorganic innovation, we delivered incredible new technology with new, more flexible consumption offers for our customers with more software and subscriptions. At our Financial Analyst Conference in 2017, we laid out key metrics for our transformation. We set a goal of 30% of our revenue to come from software. And while we achieved 29% in fiscal year 2020, we did achieve 31% in Q4. We also delivered 51% of our revenue from software and services in FY 2020, exceeding our target of 50%. Lastly, we now have 78% of our software revenue sold as subscription, beating our target of 66%.
+With our customers as our guide, we have successfully executed against our strategy to help them transform and modernize their organizations. We launched our intent-based networking architecture using automation and machine learning to help our customers drive simplicity and cost-effective management of their networks. As customers move more workloads to the cloud, we're offering fast, highly secure access to applications hosted anywhere, in the private data center, public cloud, or a SaaS platform, with our cloud security integrated with our SD-WAN solution.
+We introduced new capabilities across software, silicon, and optics to help bring to life the Internet for the future. The innovation we've driven in our security portfolio has helped us become the top enterprise security company in the world. With Webex, we have the most trusted secure platform for remote collaboration for the enterprise, and we're also delivering real-time insights for customers in their multi-cloud environments to optimize user experience with our insights and observability assets like AppDynamics.
+Over the past few years, this transition has resulted in improvements in our financial performance, including expanding margins and demonstrating continued financial discipline. Once again, I want to thank our teams for what we've achieved.
+If the past year has taught us anything, it's the need to always be nimble. I believe that the changes we've made to our business now put us in a position of strength as we focus on our future. We're a company that embraces change, and we've shown our ability to thrive in any environment.
+The past six months have unquestionably reshaped our world. Industries, governments, and work have changed dramatically, and many of these changes will become permanent. At Cisco, we are committed to helping our customers truly digitize their organizations for the future, regardless of the challenges or fundamental shifts that we may face.
+Like many other organizations, we've also had the opportunity to reexamine our business and our portfolio for this new world. As I said last quarter, we were going to take time to better understand the short and long-term implications of COVID-19, and we now believe we have a better view.
+Based on the many conversations we've had with our customers around the world, we believe we have perspective into how they will adapt their technology strategies for the future to ensure greater resiliency, agility, and innovation. We know how to adapt our business's strategy to align with where our customers are headed. The changes we are making to our business reflect how we are leveraging our existing strengths, investing for growth, and unlocking new opportunities. We will also be very disciplined on our cost structure, as we always have been. Over the next few quarters, we will be taking out over $1 billion on an annualized basis to reduce our cost structure.
+At the same time, we're going to rebalance our R&D investments to focus on key areas that will position us well for the future. More specifically, we will accelerate the transition of the majority of our portfolio to be delivered as a service. We will also accelerate our investments in the following areas: cloud security; cloud collaboration; key enhancements for education, healthcare, and other industries; increased automation in the enterprise; the future of work; and application insights and analytics.
+At the same time, we will continue our focus in the following areas, many of which have been accelerated by the pandemic: multi-cloud investment; 5G and Wi-Fi 6; 400-gig; optical networking; next-generation silicon; AI; and more. These investments will help define the next phase of our transformation and allow us to bring the best, most relevant innovation to our customers in simpler, more easily consumables ways.
+I am confident that, once again, we have the right strategy that will deliver what our customers need from us, and we will emerge from this challenging time as a stronger company than before.
+Now, let me discuss our performance in the quarter. While our results reflect the ongoing challenges in the current environment, we executed well. As you would expect, the pandemic has had the most impact on our enterprise and commercial orders, driven by an overall slowdown in spending. We are seeing customers continue to delay their purchasing decisions in certain areas, while increasing spend in others until they have greater visibility and clarity on the timing and shape of the global economic recovery.
+Despite this challenging economic environment, the pandemic has also triggered a massive and rapid shift to remote operations and automation to maximize personal safety. With this, many customers are increasingly reliant on our broad portfolio of technologies, resulting in another quarter of strong demand for our Catalyst 9000, security, Webex, and other SaaS-based solutions.
+Throughout fiscal year 2020, we demonstrated operational resilience based on our strong customer relationships, a solid financial foundation, differentiated innovation, and a compelling strategic transformation built on the strength of our key technology platforms.
+Now, I'll cover a few highlights from the quarter. In June, we introduced an expanded business resiliency portfolio offering healthcare and education solutions with simpler consumption models and services to accelerate adoption. We will continue to expand this portfolio to cover areas such as social distancing in the workplace, effective virtual employee engagement at scale, and pop-up connected clinics.
+Within our Infrastructure Platforms business, we continue to see a strong ramp of our Catalyst 9K portfolio as many customers take advantage of their employees working from home to refresh their aging infrastructure, enabling them to simplify, secure, and automate the management of their networks.
+Our acquisition of ThousandEyes will complement these capabilities by adding deeper and broader visibility and analytics across networks and applications, enabling us to deliver the best possible experiences for our customers. By integrating their SaaS-based offering with our AppDynamics application intelligence portfolio and SD-WAN technology, we can provide unparalleled intelligence and insights at cloud scale, driving improved customer experience as well as reliability of their applications.
+Security continues to be a top priority for our customers, particularly in this distributed digital world. Our ability to connect and protect our customers working from anywhere, on any device, is accelerating the adoption of our comprehensive security portfolio, resulting in double-digit revenue growth this quarter.
+As more data goes to the cloud and users become more distributed, we had good momentum in our cloud security solutions, protecting workloads, applications, and data. We also continue to expand our capabilities to enable simplification and automation of our customer security infrastructure. A good example of this is our SecureX platform, which is designed to unify visibility, enable automation, and deliver a consistent experience. Since our launch six weeks ago, we have over 2,100 active daily customers, two-thirds of which have two or more products active.
+We're also delivering Secure Remote Worker solutions that span our endpoint security portfolio combined with the power of our Zero Trust Architecture with Duo, AnyConnect, Umbrella, and AMP for Endpoints.
+Applications have become a lifeline for so many organizations, and this has only increased over the past few months. As organizations define what their future looks like, our collaboration technology will play a key role in evolving how they work, transact, and connect.
+Webex had strong performance this quarter with double-digit growth, as businesses, governments, educators, and front-line workers everywhere have embraced remote work. We expect this momentum to continue, as we have begun to see the conversion of free trials into paid subscriptions.
+AppDynamics also achieved another solid quarter. These monitoring tools offer our customers great value by providing real-time insights from a single pane of glass to optimize user experience in their multi-cloud environments.
+As we think about all that we've achieved over the past five years, I want to take a moment to acknowledge Kelly Kramer, our Chief Financial Officer, who has been an incredible partner to me. She has played a key role in reshaping Cisco into the company we are today. I want to let you all know that Kelly has made the decision to retire from Cisco. Over her 8-plus years here, Kelly has led the effort to improve our financial performance, focused on investor confidence, and helped position Cisco for success. Kelly and I have been focused on simple, clear communication, absolute transparency, delivering on our commitments, and always aligning Cisco for future growth.
+Kelly has graciously agreed to stay on as CFO until we have her successor on board and will advise us with a succession process. I can assure you that, with Kelly staying on during the search and with our world-class finance team, we will have a seamless transition. Kelly, thank you so much for your partnership and your friendship. You will truly be missed.
+Now, before I turn it over to Kelly, I want to reiterate my confidence for what the future holds. Over the past five years, we have not shied away from making bold moves to position us for long-term growth, and now is no different. We are committed to running a strong business as well as leveraging technology for good to solve the world's biggest challenges and create new opportunities for the future.
+As we've demonstrated, we have helped our customers build resiliency in difficult environments, through industry disruptions, and in times of rapid growth. We will also continue to use our position to make our communities and world a better place. Whether it's tackling the global health pandemic or social injustice and intolerance, we are committed to our purpose of powering an inclusive future for all.
+As we start a new fiscal year, I believe we have incredible opportunities in front of us. We will navigate the pandemic in the most effective way possible while not damaging the long-term prospects for Cisco. We remain strongly aligned to our customers' priorities and deeply committed to delivering long-term growth.
+Now, I'll turn it over to Kelly.
+Kelly A. Kramer - Cisco Systems, Inc.
+Thanks, Chuck. It really has been great, and I want to thank you, the leadership team, and really all of Cisco. I also want to thank my finance team, who has an amazing job. I'll certainly miss Cisco, but I'm looking forward to what's next.
+I'll start with a summary of our financial results for the quarter, then cover the full year, followed by guidance for Q1.
+Our overall Q4 results reflect good execution with strong margins in a very challenging environment. Total revenue was $12.2 billion, down 9%. Our non-GAAP operating margin rate was 33%, up 0.4 points. Non-GAAP net income was $3.4 billion, down 5% year over year, and non-GAAP EPS was $0.80, down 4%.
+Let me provide some more detail on our Q4 revenue. Total product revenue was down 13% to $8.8 billion. Infrastructure Platforms was down 16%. This is the product area most impacted by the COVID environment. We saw declines across switching, routing, data center, and wireless, driven primarily by the weakness we saw in the commercial and enterprise markets. We did see pockets of strength with the continued growth of Cat 9K, which was up double digits, and the ramp of our Wi-Fi 6 products. Data center was particularly weak with the decline of the market and DRAM price declines.
+Applications was down 9%. On the positive side, we saw strong double-digit growth in Webex with the importance of remote working. We also saw solid growth in AppDynamics and IoT software. This was offset by declines in Unified Communication and TP endpoints.
+Security was up 10%, with strong performance in network security, identity and access, advanced threat and unified threat management. Our cloud security portfolio performed well, with strong double-digit growth and continued momentum with our Duo and Umbrella offerings.
+Service revenue was flat for the quarter, but we had growth in our maintenance business as well as software and support services. This was offset by our advisory services, which was impacted by the COVID environment.
+We continued to transform our business, delivering more software offerings and driving more subscriptions. Software subscriptions were 78% of total software revenue, up 8 points year over year.
+Remaining performance obligations, or RPO, at the end of Q4 were $28.4 billion, up 12%. RPO for product was up 17% and service was up 9%. The continued growth in RPO demonstrates the strength of our portfolio of software and services.
+In terms of orders in Q4, total product orders were down 10%.
+Looking at our geographies, the Americas was down 11%, EMEA was down 6%, and APJC was down 13%. Total emerging markets were down 19%, with the BRICs plus Mexico down 26%.
+In our customer segments, public sector was down 1%, while enterprise was down 7%. Commercial was down 23%, and service provider was down 5%.
+From a non-GAAP profitability perspective, total Q4 gross margin was 65%, down 0.5 points. Product gross margin was 63.2%, down 1.5 points. And service gross margin was 69.8%, up 1.9 points year over year. Our Q4 GAAP tax rate was 16.7%, which reflects the true-ups to the annual tax rate.
+In terms of the bottom line, from a GAAP perspective, Q4 net income was $2.6 billion and EPS was $0.62. We ended Q4 with total cash, cash equivalents, and investments of $29.4 billion. Operating cash flow was $3.8 billion, down 4% year over year.
+From a capital allocation perspective, we returned $1.5 billion to shareholders through our quarterly dividend. We continued to invest organically and inorganically in our innovation pipeline. Just last week we closed our acquisition of ThousandEyes. This move is consistent with our strategy of increasing investment in innovation and R&D for our growth areas.
+I'll now cover the full fiscal year results. We delivered strong margins and grew EPS in a very challenging environment. Revenue was $49.3 billion, down 5%. Total non-GAAP gross margin was 66%, up 1.4 points, and our non-GAAP operating margin rate was 33.8%, up 1.5 points. From a bottom line perspective, non-GAAP net income was $13.7 billion, down 1%, and non-GAAP EPS was $3.21, up 4%. GAAP net income was $11.2 billion and GAAP EPS was $2.64.
+We delivered operating cash flow of $15.4 billion, down 3%. Normalized for the cash received in Q1 fiscal 2019 related to the legal settlement with Arista, operating cash flow was flat for fiscal 2020.
+From a capital allocation perspective, we returned $8.6 billion to shareholders over the fiscal year, which represents 59% of our free cash flow. That was comprised of $2.6 billion of share repurchases and $6 billion for our quarterly dividend.
+To summarize, we executed well in Q4 and the fiscal year with strong margins in a very challenging environment. We're seeing the returns on the investments we are making in innovation and driving the shift to more software and subscriptions, delivering long-term growth and shareholder value.
+Let me reiterate our guidance for the first quarter of fiscal 2021. This guidance is subject to the disclaimer regarding forward-looking information that Marilyn referred to earlier. We expect revenue to decline in the range of minus 9% to minus 11% year over year. We anticipate the non-GAAP gross margin rate to be in the range of 64% to 65%. The non-GAAP operating margin rate is expected to be in the range of 30% to 31%, and the non-GAAP tax provision rate is expected to be 19%. Non-GAAP earnings per share is expected to range from $0.69 to $0.71.
+I'll now turn it back to Marilyn so we can move into the Q&A.
+Marilyn Mora - Cisco Systems, Inc.
+Thanks, Kelly. Sue, we'll now open up the queue for questions. And as a reminder, we ask the audience to address one question only so we have time to get through as many as possible. Sue, I'll turn it over to you.
+Question-and-Answer Session
+Operator
+Thank you. The first question is from Sami Badri with Credit Suisse. You may go ahead.
+Sami Badri - Credit Suisse Securities (USA) LLC
+Thank you very much. My first question is for the team here. I just wanted to know. Now that you've achieved the 50% of revenue coming from software and services, and that was the guidepost given at the 2017 Analyst Day, do you guys have a new target in mind and new range? I know you guys introduced some new products and new services and some new investment areas. I'm just hoping to understand to see if you get maybe a new roadmap or a new target that we should hold you guys or measure you against?
+Charles H. Robbins - Cisco Systems, Inc.
+Sami, thanks for the question. And it's been a pretty successful three years as we've been making this transition, and we obviously still have a ways to go, to your question, relative to a new target. We were talking about this in the last week or so, and we feel like we just need to get through this pandemic cycle that we have, and then we'll set some new targets and we'll communicate them to you at that time. So we don't have one yet.
+Sami Badri - Credit Suisse Securities (USA) LLC
+Got it, thank you.
+Marilyn Mora - Cisco Systems, Inc.
+Thanks, Sami. Next question, please?
+Operator
+The next question is from Meta Marshall with Morgan Stanley Investment Research. You may go ahead.
+Meta A. Marshall - Morgan Stanley & Co. LLC
+Great, thanks. Chuck, you referred to kind of changes you were going to make to the portfolio based on conversations you were having with customers. Where do you feel like they are in terms of knowing what their kind of network architectures are looking like when they come back, or just how their budgets are looking for the remainder of the year? Thanks.
+Charles H. Robbins - Cisco Systems, Inc.
+Thanks, Meta. I think that when we think about the network architectures, I think one thing we know is that our customers are living in this multi-cloud environment. And as they went into this work-from-home environment, as I said on our last call, those who had technical debt and those who had not really invested in modernizing their infrastructure, they know they will need to do that and they'll do it at different paces based on their financial abilities.
+I'd say that it's clear that many of our customers do want to consume the technology as a service, so we're currently looking at the entire portfolio to see how deeply we can get into the portfolio relative to delivering as a service, and I think we'll have a lot of that in the marketplace by the end of the calendar year.
+We will also be working with our customers on their network architectures, which are certainly going to be prevalent on or dependent upon cloud security, on SD-WAN and the integration of those, so we're going to accelerate that, as well as helping them navigate this multi-cloud world because I do think that we have seen some customers accelerate that shift as well.
+So the network architectures that we built 15 years ago, as I've talked about, just aren't relevant today because the traffic flows are completely different. And so we'll continue to work with customers, and I think it will be at a different pace just based on how they all come out and how they manage the pandemic.
+Meta A. Marshall - Morgan Stanley & Co. LLC
+Great, thanks.
+Marilyn Mora - Cisco Systems, Inc.
+Next question, please?
+Operator
+Thank you. The next question is from Ittai Kidron with Oppenheimer & Company. You may go ahead.
+Ittai Kidron - Oppenheimer & Co., Inc.
+Thanks. Chuck, when you talk about the portfolio and these changes you need to make over there and the acceleration of R&D in some areas, can you talk about more specifically what areas you feel you need the most adjustment in?
+And also, it feels like the pace of technology evolution clearly is just – it keeps accelerating. And there's so much of it you can do internally and you've been very acquisitive in the past, but I can't help but feel like you need to move much faster and much more aggressive on M&A. I know you've been very disciplined from a price standpoint, and clearly a market like we have today is not necessarily conducive to that. But just given the fact that we're moving much, much faster, are you more open to get a bit more aggressive here on the M&A front to fill in gaps, because it sounds like it feels like the longer you wait on this, the gaps will keep getting bigger, not smaller?
+Charles H. Robbins - Cisco Systems, Inc.
+Ittai, it's a great question. And your first question around the areas that we feel like we need to invest, I think this pandemic is basically just – it's just giving us the air cover to accelerate the transition of R&D expense into cloud security, cloud collab, away from the on-prem aspects of the portfolio. Clearly, we've got a lot of technology that we're working on today to help our customers over the next three, four, five years in this multi-cloud world that they're going to live in, and you'll see more of that come out over the next couple of years.
+But on the M&A question, I think that there's clearly a recognition that the valuations of the assets that are attractive have achieved different levels. And so, I think that we'll continue to be disciplined, but I would say that we're open to looking at the current world and the reality that we live in. So, I think we're open to any and all ideas and we continue to work through different options, and we have a list of potential targets that we maintain on a pretty regular basis. And so, I think the real difference is there has to be a recognition that the valuations have changed, but we'll try to be disciplined and do the right thing at the right time.
+Marilyn Mora - Cisco Systems, Inc.
+Thanks, Ittai. Sue, let's get the next question.
+Operator
+Thank you. The next question is from Jim Suva with Citigroup Investment Research. You may go ahead.
+Jim Suva - Citigroup Global Markets, Inc.
+Thank you very much, Chuck and Kelly. And Kelly, you'll be significantly missed, so thank you for the duration. But looking forward, if my model is right, and maybe it's wrong, it seems like year-over-year revenue comparisons get materially easier, maybe to the tune of 400 basis points year-over-year for the quarter outlook. And like with Huawei being pushed out and Cisco being preferred in many countries, even beyond the United States as well as an incumbency factor coming out of coronavirus, help me bridge your kind of year-over-year revenue growth. And maybe it's still yet to come about, why things aren't more positive because the comps are easier, Huawei is less preferred and Cisco has an incumbency factor, and we're coming out of coronavirus. Thank you.
+Charles H. Robbins - Cisco Systems, Inc.
+Well, I'll comment subjectively, and then I'll let Kelly talk a little bit about the numbers. I wouldn't say that we're coming out of the coronavirus right now. I think that it feels to me very much like it felt 90 days ago. And clearly, in the US, we have not seen – we've seen some areas that have gotten better and obviously some that have not. But I'd say, in general, it feels pretty much the same as it did 90 days ago to us relative to that.
+I think that some of the things you're talking about around service providers around the world and the possibility where we would be getting opportunities that we wouldn't have had before, I think some of those are still to be seen, but we would share that optimism, and we'll have to wait and see how that plays out. Kelly, do you want to talk about the...
+Kelly A. Kramer - Cisco Systems, Inc.
+Yeah, and then from the compares, I mean, Q1 of 2020, so my guide for this next quarter, in Q1 of 2021, that's our toughest compare. Obviously, we had – Q3 and Q4 were very, very tough for us in 2020 because of COVID, so comparing to Q1 of 2020 right now, we still have some tougher compares. But they do get easier as the year goes on, assuming that the pandemic ends. But as you know, Jim, we forecast based on what we see, based on the order rates, and we feel this is a pretty accurate guide.
+Jim Suva - Citigroup Global Markets, Inc.
+Thank you so much, Chuck and Kelly, for the details. And Kelly, thank you so much for your service.
+Kelly A. Kramer - Cisco Systems, Inc.
+Thanks, Jim. I appreciate it.
+Marilyn Mora - Cisco Systems, Inc.
+Next question, please?
+Operator
+Thank you. The next question is from Paul Silverstein with Cowen. You may go ahead.
+Paul Silverstein - Cowen & Co. LLC
+Thanks for taking the questions. Maybe sort of a question, two clarifications. Chuck, to your response to Jim's question, when you talked about it feeling pretty much the same as 90 days ago in the US, you're referring to both enterprise and commercial, your small and medium customers as well as your large customers across the board?
+And then with respect to the $1 billion that you referenced in terms of coming out of costs, will that all be out of OpEx? And I appreciate there's probably some sensitivity if it involves head count reduction, as I suspect it does. But Kelly, I'm hoping you could give us a sense for the timing in that reduction and the nature of the reductions. Is that all in OpEx, or is some of it out of cost of goods sold? Thanks.
+Charles H. Robbins - Cisco Systems, Inc.
+Yeah. Paul, let me just tell you a little bit – I'll give you a little sort of a customer segment and around-the-world view of what it's felt like in the last 90 days or so, so maybe that will help add a little color.
+In the US, in particular, I'd say we saw some strength in the very high end of enterprise. And then sort of as you go down in the marketplace, we just – the weakness got a little bit worse as you just sort of went straight down, as you would expect with small business, medium business, and even smaller-sized enterprises that didn't perform as well as the very largest of enterprises. But we did see strength in the very large enterprise in the US. We also saw some strength in federal in the US clearly, and that was actually really promising because they had a very strong quarter a year ago, so they executed really well.
+Service provider around the world, if you look at Asia and Europe, our service provider business was positive in both of those regions, and it was just slightly negative in the US. It was primarily Canada and Mexico in the Americas that drove the negative here. So overall, that was a bright spot, particularly outside of the United States.
+We did see countries, a few countries that actually began to show some positives, and I'm trying to think through like can we build a model that says Asia went in first and so they're going to come out first, and we did see Japan had a good quarter for us on the demand side. Korea had a good quarter for us on the demand side, and we're seeing some positives. Germany had a good quarter for us. And I'd say if we think about how our European team feels right now, they actually feel reasonably okay. Not great-great, but better than they did 90 days ago. The Americas is still sort of the wild card I'd say that we see right now. So hopefully that gives you a little more color around what we're seeing up and down the stack. And then, Kelly, do you want to?
+Kelly A. Kramer - Cisco Systems, Inc.
+Sure. Where you'll see the costs coming out, I'd say the majority of it in OpEx, I'd say maybe an 80/20 split. We'll certainly have some in COGS too on that side, on the services side, but mostly in OpEx. And in terms of timing, we should see a lot of this, most of this, the bulk of this coming out at the end of Q1 and a little bleeding over into Q2 depending on the country it's in.
+Paul Silverstein - Cowen & Co. LLC
+Kelly, thank you. You'll be missed. Thanks, Chuck.
+Kelly A. Kramer - Cisco Systems, Inc.
+Thank you, Paul. I appreciate it.
+Charles H. Robbins - Cisco Systems, Inc.
+Yes, she will.
+Marilyn Mora - Cisco Systems, Inc.
+Thanks, Paul. Next question?
+Operator
+Thank you. The next question is from Rod Hall with Goldman Sachs. You may go ahead.
+Rod Hall - Goldman Sachs & Co. LLC
+Thanks for the question. I guess I wanted to go back to the linearity of this order trajectory, Chuck and Kelly, on particularly enterprise. I guess if we go back to 2009, we're starting to see commercial order volumes deteriorating into the range we saw back then in that recession. We haven't really seen enterprise do that, and I wonder whether you think that that is where we're kind of headed here. It just feels like this is not turning out to be a V-shaped recovery. It's more like we're headed into a real recession, a prolonged recession. So I'm just curious kind of what you think about the trajectory of those volumes and what they look like at the end of the quarter versus the beginning of the quarter.
+Charles H. Robbins - Cisco Systems, Inc.
+I would say that – I'll make a couple comments and I'll kick it to Kelly to give you a little bit more color.
+I think that as Kelly and I looked at where we expected demand to be from the beginning of the quarter to the end of the quarter, we were pretty much in line. In fact, it was a slight, slight, slight bit better than we had anticipated at the beginning of the quarter. But I would not get too excited about it being slightly better, as you can tell from the guide. And then I think linearity was generally in line, but it was probably a little more back-end loaded than we've seen, and we had a lot of big enterprise activity towards the end of the quarter. So, Kelly, anything to add?
+Kelly A. Kramer - Cisco Systems, Inc.
+The only thing I will add, and Chuck kind of touched on this, again, it is the biggest, biggest premier enterprise accounts, they are still investing significantly and they had very good order rates. But it does – as you go down the tiers in enterprise, it did slow down, and commercial is not surprising. You saw what the commercial numbers are. So I do think it is related to they're waiting to see what comes out of the pandemic and they're pausing their spends. But I think this is why seeing the big, big accounts still investing in their digital transformation I think gives us confidence that once we do get through this, we feel good about how we'll come out of it.
+Marilyn Mora - Cisco Systems, Inc.
+Okay, next question?
+Rod Hall - Goldman Sachs & Co. LLC
+Okay. Can I have a follow-up?
+Charles H. Robbins - Cisco Systems, Inc.
+Sure.
+Marilyn Mora - Cisco Systems, Inc.
+Go ahead.
+Kelly A. Kramer - Cisco Systems, Inc.
+Go ahead, Rod.
+Rod Hall - Goldman Sachs & Co. LLC
+I just wondered if you guys could talk a little bit about what sort of color you're hearing from these enterprise customers. Do you think that they've – because they're investing so aggressively in work-from-home, are they pulling demand forward out of the back end of the year? Are their budgets changing, or are they just kind of robbing from the back end of the year budgets and moving it toward the front end of the year to compensate for work-from-home and all this stuff that's going on?
+Charles H. Robbins - Cisco Systems, Inc.
+I don't think that – I hadn't heard anything about anybody pulling anything forward. I think that the larger the companies are, the more confident they have in their ability to come out at some point, and they're going to continue to invest to position themselves when they come out. And clearly, there are some large enterprises that are not investing, depending on which industries they're in. But I think it's just normal investment cycles that certain large companies have just decided they're going to continue to pursue.
+And I do think Kelly made a good point. As we've given like the number of software license agreements that we did, it says that the portfolio that we have and the strategy we have, I think, whether it's helping them with application visibility as they move more to the cloud, it's going to resonate even more. When you think about the security strategy we have going to the cloud, it's going to be more required in the future. We look at this infrastructure transformation as they deal with this multi-cloud world and these new traffic flows, I think that's going to be super-relevant. And then obviously, the employee and customer experience that they have, which are all areas that we're investing in, I think when we come out of this, those will be even more in demand than they were when we went into it. We've just got to get to the other side of it, and then I feel pretty good.
+Marilyn Mora - Cisco Systems, Inc.
+Okay. Next question, please?
+Operator
+Thank you. The next question is from Simon Leopold with Raymond James. You may go ahead.
+Simon Leopold - Raymond James & Associates, Inc.
+Great, thanks for taking the question, Kelly, we will miss you, and you're too young to retire.
+Kelly A. Kramer - Cisco Systems, Inc.
+Thanks, Simon.
+Simon Leopold - Raymond James & Associates, Inc.
+I wanted to follow up, Chuck, on the Cat 9K, because you did mention the strength there. And I guess I'm trying to discern sort of the macro versus the product cycle issues, and my understanding is that the portfolio has been releasing platforms that are more suited for small enterprises just at the time when those are the weakest customers. So if you could, help us maybe understand the overall contributions of this product and where you are in the product cycle, and maybe even explain what's macro-related versus normal cycle-related. Thank you very much.
+Charles H. Robbins - Cisco Systems, Inc.
+Simon, I'll let Kelly talk about the numbers in a minute, but I'm going to share with you my instinct on this because I've thought about the same thing. Because the one thing that we know is that the campus business that we have, people aren't in their campus offices, so the whole notion of refresh and upgrades clearly are not top of mind for every customer the way they might have been nine months ago.
+However, what I think is that the 9K is for those customers who are either in the process of a real commitment to modernizing their infrastructure and they're continuing to do that, or they've made a decision and they have the financial wherewithal right now to actually embark on that, and the 9K is what they are using to do that in their campus environments. And some of them are using this opportunity with no one in their campus environments to upgrade.
+Clearly, that's not every customer, but I think what it says is those customers who are still on our older platforms, which we didn't see the growth on, it's sort of the story we talked about. They haven't committed to refresh, they haven't committed to that modernization piece, and so that part is not accelerating, but the 9K has continued to accelerate. So it's been a positive story for us. Kelly, do you want to...
+Kelly A. Kramer - Cisco Systems, Inc.
+I think you said it well, and I think, Simon, your point as well. So the products you referenced, the Cat 9200, which was launched for the lower end, the mid to lower end, is in that commercial segment, to your point. But when I look at it individually, that product is still – revenue is growing like amazing double digits, and so that just shows that we're still very early in the transition. When the customers are buying, they are buying the new portfolio hand over fist, and it's just the COVID impact of the overall and again the legacy products falling off is really what's driving it. But that's why we have faith and feel good about the portfolio when we come out of the environment.
+Charles H. Robbins - Cisco Systems, Inc.
+Simon, I think two just comments on top of that. Number one is we still are very early in this whole process. And the 9200, I think it's important to note. It is a small business product, but it's also an access layer product in the enterprise, as it goes into branches, it goes into, in some cases, wiring closets, et cetera. So we will still see some continued demand for that.
+Simon Leopold - Raymond James & Associates, Inc.
+Thank you very much.
+Marilyn Mora - Cisco Systems, Inc.
+Sue, let's go ahead and move to the next question.
+Operator
+Thank you. The next question is from James Fish with Piper Sandler. You may go ahead.
+James E. Fish - Piper Sandler & Co.
+Hey, thanks for the question, guys, and congrats on the retirement there, Kelly.
+Kelly A. Kramer - Cisco Systems, Inc.
+Thanks, James.
+James E. Fish - Piper Sandler & Co.
+For me, I want to bridge a few of the questions that have been asked together. But Chuck, you talked about accelerating the transition towards SaaS. Can you guys give us an update as to where that SaaS revenue is, not the term license contribution, and where you guys think it could accelerate given the investments? And then utilizing Ittai's question from before, do you need to acquire to help accelerate it?
+Charles H. Robbins - Cisco Systems, Inc.
+Well, I'll let Kelly answer the numbers question. We gave you the total software number and we gave you the percent that's coming from subscriptions and SaaS, but I think you're asking specifically about SaaS. And look, I think that we've made a lot of progress. If you do the math on where the software in our portfolio was five years ago and what percentage of it was coming from subscription and SaaS, I don't know, we've certainly increased it significantly over the last four or five years without any major, major revenue-driving acquisitions. So, that would certainly help. And we continue – as I said earlier, continue to look at alternatives in that space. And you should assume that we will continue to look at them, but we'll also be disciplined. So, Kelly, you want to touch on the SaaS numbers or...?
+Kelly A. Kramer - Cisco Systems, Inc.
+Yeah. I mean, we don't disclose the total SaaS number. Again, it's made up of our Webex business, a lot of our portfolio, Duo and Umbrella and security. And again, acquisition, Meraki is a hybrid where we ship an appliance, but then it has the SaaS management, and things like ThousandEyes that we're adding to our networking portfolio and AppDynamics, I mean, that's just going to continue to accelerate. So, I think you're going to see it twofold, right? You're going to continue to see us to be – those are the type of assets that we have been acquiring and will continue to acquire, and you're seeing internally this is also how we are developing product to try to accelerate that. But the growth in the SaaS portfolio has been really good for us.
+James E. Fish - Piper Sandler & Co.
+Understood. Appreciate the color, and congrats again, Kelly.
+Kelly A. Kramer - Cisco Systems, Inc.
+Thanks, James.
+Marilyn Mora - Cisco Systems, Inc.
+Next question, please?
+Operator
+Thank you. The next question is from Jeff Kvaal with Wolfe Research. You may go ahead.
+Jeffrey Thomas Kvaal - Wolfe Research LLC
+Thank you very much and my congratulations again, Kelly. We look forward to seeing you in a new role at some point down the road. I have a question and a clarification. I think the question, Chuck, last quarter you spent a little bit of time talking with us about traction on the webscale side of things. I'm wondering if that traction has seen some follow-through, if you could update us on that.
+And then, secondly, for Kelly, you suggest that the OpEx will come lower by $800 million. Is that a gross number or is that a net number; i.e., you'll take it out by $800 million, but bring some back in the some of the growthier areas in business? Thank you.
+Charles H. Robbins - Cisco Systems, Inc.
+Yeah. Jeff, thanks for asking the question. I would have been in trouble if I'd gotten off this call and not talked about webscale. So, we saw another positive quarter, so that's one of the areas that was really positive for us. It was the third quarter in a row where we've had double-digit growth with the webscale players. And again, as I said last quarter, we have had some traction with the 8K, some traction with our silicon, but nothing that's meaningfully moving the numbers yet. So, it really is just the rest of the portfolio.
+But as I said, I think it speaks to the long-term effort that we've put in over the last few years of rebuilding these relationships, and I think it speaks to their belief in our strategy going forward. And we feel good about where we are, and we believe over the next one to two years that they'll begin to be meaningful contributors, and we're excited about what the teams have done.
+Kelly A. Kramer - Cisco Systems, Inc.
+And on the cost-out, so again, we are taking out gross over $1 billion, so that is gross. But like anything, Jeff, there's puts and takes as we go forward, so whether it's things like the dollars, weaker FX, it's going to be a bit of a headwind this year, we reset the bonus, all that kind of stuff, that will be puts and takes. But that's a real cost-out that we're taking out as we go through and do our planning.
+Jeffrey Thomas Kvaal - Wolfe Research LLC
+Okay. Got it. Thank you both very much.
+Kelly A. Kramer - Cisco Systems, Inc.
+Yeah.
+Marilyn Mora - Cisco Systems, Inc.
+Thanks, Jeff. Sue, I think we have time for one more question.
+Operator
+Thank you. Our last question is from George Notter with Jefferies. You may go ahead.
+George C. Notter - Jefferies LLC
+Hi, guys. Thanks very much. I guess I wanted to kind of go back to the discussion of moving more of the business to a as-a-service model. And could you just put a little bit more meat on the bone in terms of what areas are you specifically thinking about as new candidates to kind of move that direction? And how do you incentivize customers in those areas also? I'm just trying to think about the mechanics of how this works. And then congrats to Kelly also. Thanks.
+Charles H. Robbins - Cisco Systems, Inc.
+Literally, we're looking at everything. We're trying to – we're looking at everything from our compute portfolio to clearly our software assets are already in the midst of that transition, and many of them are already being sold that way. And we're even looking at how we deliver our traditional networking hardware as a service over time. So it is literally across the portfolio.
+And we see an acceleration of some of the work that's already been underway. Obviously, the collaboration portfolio has been transitioning to as-a-service for quite a while. We even launched last, I don't know, two, three quarters ago, we launched our hardware-as-a-service in the collaboration portfolio as a pilot. And we've been working hard on all the operational capabilities and the systems work that needs to be done to do that. So it literally is across the entire portfolio, and we'll give you an update on the next call for sure.
+Marilyn Mora - Cisco Systems, Inc.
+All right, I believe that was our last question. Thanks, George. I'll turn it back to you, Chuck.
+Charles H. Robbins - Cisco Systems, Inc.
+All right, I just want to recap and just thank first of all Kelly for everything and the friendship and all the great work that you've done and reiterate that she's going to stay with us until we actually identify her successor, and she'll help advise us through that process. So we're excited about her sticking around and helping us do that.
+I want to thank the team for executing through a really challenging time. And I really want to reiterate that I think that the strategy that we had going in, I believe when we come out of the pandemic, will be more relevant to our customers than it was six, nine months ago. So I'm optimistic about the future, and we're going to continue to execute through this. And thank you all for joining us today.
+Marilyn Mora - Cisco Systems, Inc.
+Great. Thank you, Chuck. Cisco's next quarterly earnings conference call, which will reflect our fiscal 2021 first quarter results, will be on Thursday, November 12, 2020 at 1:30 PM Pacific Time, 4:30 PM Eastern Time. Again, I'd like to remind the audience that in light of Regulation FD, Cisco's policy is not to comment on its financial guidance during the quarter unless it's done through an explicit public disclosure.
+We now plan to close the call, but if you have any further questions, feel free to contact the Cisco Investor Relations group, and we thank you very much for joining today's call.
+Operator
+Thank you for participating on today's conference call. If you would like to listen to the call in its entirety, you may call 866-429-0574. For participants dialing from outside of the US, please dial 203-369-0916.
+This concludes today's call. You may disconnect at this time.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+7 Authors in the Last 90 Days
