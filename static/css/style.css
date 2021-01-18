@@ -1,0 +1,291 @@
+/* Sticky Footer rules (https://getbootstrap.com/examples/sticky-footer/) */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Padding bottom by footer height */
+  padding-bottom: 80px;
+  background-color: black;
+  min-height: 100vh;
+}
+
+#title{
+  color : gainsboro;
+ 
+}
+.iframeContainer {
+  padding: 20px;
+  border: 1px solid #e3e3e3;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%; /* Set the fixed height of the footer here */
+  height: 10px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  text-align: center;
+  background-color:black;
+}
+
+#sidebar {
+  min-width: 25px;
+  max-width: 25px;
+  min-height: 100vh;
+}
+
+#nav {
+  height: 40px;
+  background:rgba(0, 0, 0, 0.123);
+  font-weight: bold;
+
+}
+
+#topBar {
+  background:rgba(0, 0, 0, 0.938);
+}
+#content {
+  min-height: 90vh;
+}
+
+.wrapper {
+  display: flex;
+  align-items: stretch;
+}
+
+#footer p {
+  margin: 0;
+  font-size: 16px;
+}
+
+.centerElement {
+  height: 400px;
+  overflow: hidden;
+  width: 100%;
+
+}
+.infocard{
+  height : 125px;
+  overflow: hidden;
+}
+
+.neighborhoodCard {
+  height :75px;
+  
+}
+
+.demoCard {
+  height :100px;
+  
+}
+
+.divText{
+  font-size: 10px;
+}
+
+
+.tooltip {
+  position: absolute;
+  width: 90px;
+  height: 70px;
+  padding: 10px;
+  font: 12px sans-serif;
+  text-align: center;
+  color: white;
+  background: rgb(0, 247, 255);
+  border: 0;
+  border-radius: 10px;
+}
+
+
+.chartElement {
+  height: 400px;
+  width: 700px;
+  overflow: hidden;
+
+}
+
+
+.chartElementBig {
+  height: 600Px;
+  width: 750px;
+  overflow: hidden;
+
+}
+.conentRow {
+  width :100%;
+}
+
+
+
+
+.bar1 { fill: aqua; }
+.bar2 { fill: deepskyblue; }
+.bar3 { fill: steelblue; }
+.bar:hover {fill: orange; }
+.axis--x path { display: none; }
+.line {
+    fill: none;
+    stroke: royalblue;
+    stroke-width: 3;
+}
+.dot {
+    fill: royalblue;
+    stroke: royalblue;
+}
+
+.table{
+  font-size :12px;
+}
+
+.container-fluid {
+  min-height: 100%;
+}
+
+.bed-text {
+  fill: gray 
+}
+
+.occu-text {
+  fill: brown;
+}
+
+.income-text {
+  fill: green;
+}
+
+
+.title-text {
+  fill: navy;
+  font-weight: bold;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+ul li {
+	list-style: none
+}
+a, a:hover {
+	text-decoration: none;
+	box-shadow: none;
+	outline: none;
+	-moz-transition: all 0.2s ease-in;
+	-o-transition: all 0.2s ease-in;
+	-webkit-transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;
+}
+
+h1{ text-align:center; margin:30px 0; color:#fff;}
+
+#logo {
+  width: 40px;
+  height: 40px;
+}
+#hls {
+ 
+  background-color: rgba(0, 0, 0, 0.938);
+   
+}
+.hls_sol li {
+	width: 20%;
+	max-width: 100%;
+	display: inline-block;
+	float: left;
+	text-align: center;
+	overflow: hidden;
+	position: relative;
+	height: 400px
+}
+.hls_sol li img {
+	height: 100%;
+}
+.hls_sol ul {
+	padding: 0;
+	display: flow-root;
+}
+.hls_sol li:hover img {
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	-o-transform: scale(1.1);
+	transform: scale(1.1);
+}
+.hls_sol li img {
+	-webkit-transition: transform 0.5s ease;
+	-o-transition: transform 0.5s ease;
+	transition: transform 0.5s ease;
+}
+.hls_sol .hls_sol_data {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	transition: 0.3s ease-in-out;
+	background: rgba(0,0,0,0.28);
+	visibility: hidden
+}
+.hls_sol ul li:hover .hls_sol_data {
+	background: rgba(255,0,4,0.46);
+	transition: 0.3s ease-in-out;
+	visibility: visible
+}
+.hls_data {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	padding: 60px 20px;
+}
+.hls_data a {
+	display: block;
+}
+.hls_title {
+	text-align: right;
+	font-size: 22px;
+	border-bottom: 2px solid blue;
+	padding: 10px 0;
+	margin: 10px 0;
+	color: #fff;
+}
+.hls_title:hover {
+	color: #fff;
+}
+.hls_sol_data h3 {
+	color: #fff;
+	transition: 0.5s
+}
+.hls_sol_data:hover h3 {
+	transition: 0.5s ease;
+	margin-top: 100px;
+}
+.btn-pro {
+	border-radius: 0;
+	color: #222;
+	background: #fff;
+	display: inline-block !important;
+	float: none;
+}
+.btn-pro:hover {
+	color: #fff;
+	background: #222;
+}
+.sec_title {
+	text-align: center;
+	margin: 30px 0 30px;
+}
+.hls_data {
+	left: unset;
+	right: -310px;
+	transition: 1s ease
+}
+.hls_sol_data:hover .hls_data {
+	left: 0;
+	right: 0;
+	transition: 1s ease
+}
