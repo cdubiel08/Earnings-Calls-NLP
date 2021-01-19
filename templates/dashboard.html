@@ -28,7 +28,7 @@
     <script src="static/js/bootstrap.bundle.min.js"></script>
 
 
-
+   
 
 
 
@@ -77,10 +77,6 @@
                         <a class="nav-link my-3 mr-2"  id="nav" href="dashboard">Dashboard</a>
                         </li>         
                         <li class="nav-item">
-                            <a class="nav-link my-3 mr-2"  id="nav" href="analysis">Analysis</a>
-                            </li>  
-    
-                        <li class="nav-item">
                             <a class="nav-link  my-3 mr-2" id="nav" href="nlp">NLP Analysis</a>
                         </li>
                         <li class="nav-item">
@@ -100,11 +96,91 @@
                 <!-- Begin Page Content -->
                 <div class="container-fluid bg-dark">    
                                    
-                    <!-- Content Row -->
-               
-                    <div class="row" class="contentRow mt-3 " >
+                    <div class="row" class="contentRow my-3 " >
                         
-                    </div>                   
+                        <div class="col-xl-4 col-md-8 col-s-12 my-3 infocard">
+                            <div class="card border-left-primary border-top-primary bg-dark  shadow h-100 ">
+                                <div class="card-body">
+                                    <div class="row no-gutters align-items-center">
+                                        <div class="col mr-2">
+                                            <div class="text-s font-weight-bold text-light  mb-2">
+                                               NASDAQ Index</div>
+
+                                        </div>
+                                        
+                                    </div>
+
+                                    <div class="row">
+                                       
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-4 col-md-8 col-s-12 my-3 infocard">
+                            <div class="card border-left-primary border-top-primary bg-dark  shadow h-100 ">
+                                <div class="card-body">
+                                    <div class="row no-gutters align-items-center">
+                                        <div class="col mr-2">
+                                            <div class="text-s font-weight-bold text-light  mb-2">
+                                               Market Sentiment</div>
+
+                                        </div>
+                                        
+                                    </div>
+
+                                    <div class="row">
+                                       
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-4 col-md-8 col-s-12 my-3 infocard">
+                            <div class="card border-left-primary border-top-primary bg-dark  shadow h-100 ">
+                                <div class="card-body">
+                                    <div class="row no-gutters align-items-center">
+                                        <div class="col mr-2">
+                                            <div class="text-s font-weight-bold text-light  mb-2">
+                                               Market Breadth</div>
+
+                                        </div>
+                                        
+                                    </div>
+
+                                    <div class="row">
+                                       
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>               
+                    
+                    <div class="contentRow">
+
+                        <!-- Stock Analysis -->
+                        <div class="col-xl-12 col-auto col-lg-12 col-md-12 col-xs-12 centerElement border-left-primary my-6">
+                            <div
+                                    class="card-header py-1 d-flex flex-row align-items-center justify-content-between">
+                                    <h4 class="m-0 font-weight-bold text-light">Stock Market Analysis</h4>
+                                </div>
+                            <div class='tableauPlaceholder' id='viz1611003425792' style='position: relative'><noscript><a href='#'>
+                                <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;StockMarket2020_16110033104030&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'>
+                                    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+                                    <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+                                    <param name='name' value='StockMarket2020_16110033104030&#47;Sheet1' /><param name='tabs' value='no' />
+                                    <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;StockMarket2020_16110033104030&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' />
+                                    <param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' />
+                                    <param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>
+                        </div>
+
+                      
+                    </div>         
+
 
                 </div>
                 <!-- /.container-fluid -->
@@ -139,6 +215,16 @@
     <!-- Bootstrap core JavaScript-->
  
 </body>
-
+<script type='text/javascript'>                
+    var divElement = document.getElementById('viz1611003425792');
+   
+    var vizElement = divElement.getElementsByTagName('object')[0];  
+    
+    vizElement.style.width='100%';vizElement.style.height='540px';    
+    
+    var scriptElement = document.createElement('script');                   
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';       
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 </html>
 

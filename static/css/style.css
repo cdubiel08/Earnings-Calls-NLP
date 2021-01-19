@@ -120,41 +120,19 @@ body {
 }
 
 
-
-
-.bar1 { fill: aqua; }
-.bar2 { fill: deepskyblue; }
-.bar3 { fill: steelblue; }
-.bar:hover {fill: orange; }
-.axis--x path { display: none; }
-.line {
-    fill: none;
-    stroke: royalblue;
-    stroke-width: 3;
+.infocard{
+  height : 200px;
+  overflow: hidden;
 }
-.dot {
-    fill: royalblue;
-    stroke: royalblue;
-}
+.centerElement {
+  height: 550px;
 
-.table{
-  font-size :12px;
+  width: 100%;
+
 }
 
 .container-fluid {
   min-height: 100%;
-}
-
-.bed-text {
-  fill: gray 
-}
-
-.occu-text {
-  fill: brown;
-}
-
-.income-text {
-  fill: green;
 }
 
 
