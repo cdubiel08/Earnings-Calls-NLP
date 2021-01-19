@@ -41,24 +41,24 @@ def dashboard():
 
 #################################################
 # add the routes for the NLP
-@app.route("/NLP")
+@app.route("/nlp")
 def NLP():
-    return render_template("NLP.html");
+    return render_template("nlp.html");
 ## end NLP() route
 
 
 #################################################
 # add the routes for the Forecast
-@app.route("/Forecast")
+@app.route("/forecast")
 def Forecast():
-    return render_template("Forecast.html");
+    return render_template("forecast.html");
 ## end Forecast() route
 
 #################################################
 # add the routes for the Design
-@app.route("/Design")
+@app.route("/design")
 def Design():
-    return render_template("Design.html");
+    return render_template("design.html");
 ## end Design() route
 
 # add the routes for the Design
