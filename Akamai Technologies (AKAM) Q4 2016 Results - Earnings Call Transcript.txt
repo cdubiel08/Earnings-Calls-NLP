@@ -1,0 +1,357 @@
+Akamai Technologies, Inc. (NASDAQ:AKAM) Q4 2016 Earnings Call February  7, 2017  4:30 PM ET
+Executives
+Tom Barth - Akamai Technologies, Inc.
+Frank Thomson Leighton - Akamai Technologies, Inc.
+James Benson - Akamai Technologies, Inc.
+Analysts
+Mark Mahaney - RBC Capital Markets LLC
+Ed Maguire - CLSA Americas LLC
+Matthew Heinz - Stifel, Nicolaus & Co., Inc.
+Sameet Sinha - B. Riley & Co. LLC
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Keith Eric Weiss - Morgan Stanley & Co. LLC
+Sitikantha Panigrahi - Wells Fargo Securities
+Colby Synesael - Cowen and Company
+James Breen - William Blair & Co. LLC
+Will V. Power - Robert W. Baird & Co., Inc.
+Michael Turits - Raymond James & Associates, Inc.
+Timothy Horan - Oppenheimer & Co., Inc. (Broker)
+Jonathan Schildkraut - Guggenheim Securities
+Sterling Auty - JPMorgan Securities LLC
+Mike J. Olson - Piper Jaffray & Co.
+Operator
+Good day, ladies and gentlemen, and welcome to the Akamai Technologies, Inc. Fourth Quarter 2016 Earnings Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session, and instructions will be given at that time. As a reminder, today's program is being recorded.
+I'd now like to introduce your host for today's program, Tom Barth, Head of Investor Relations. Please go ahead, sir.
+Tom Barth - Akamai Technologies, Inc.
+Thank you, Jonathan, and good afternoon, and thank you for joining Akamai's fourth quarter and year-end 2016 earnings conference call.
+Speaking today will be Tom Leighton, Akamai's Chief Executive Officer; and Jim Benson, Akamai's Chief Financial Officer.
+Before we get started, please note that today's comments include forward-looking statements, including statements regarding revenue and earnings guidance. These forward-looking statements are subject to risks and uncertainties and involve a number of factors that could cause actual results to differ materially from those expressed or implied by such statements.
+Additional information concerning these factors is contained in Akamai's filings with the SEC, including our Annual Report on Form 10-K and quarterly reports on Form 10-Q. These forward-looking statements included in this call represent Akamai's view on February 7, 2016. Akamai disclaims any obligation to update these statements to further reflect future events or circumstances.
+As a reminder, we will be referring to some non-GAAP financial metrics during today's call. A detailed reconciliation of GAAP and non-GAAP metrics can be found under the financial portion of the Investor Relations section of our website.
+And with that, please let me turn the call over to Tom.
+Frank Thomson Leighton - Akamai Technologies, Inc.
+Thanks, Tom, and thank you all for joining us today.
+Q4 was another strong quarter for Akamai with accelerated revenue growth and excellent earnings and free cash flow. Revenue in the fourth quarter was $616 million, up 7% year-over-year on constant currency. The strong revenue result was driven by robust seasonal traffic in Media, the continued rapid growth of our Cloud Security Solutions, and the success of our recently launched new products. Of particular note, revenue from our Cloud Security Solutions was $102 million in Q4, up 41% over Q4 in 2015.
+Non-GAAP EPS for Q4 was $0.72 per diluted share, consistent year-over-year and up 8% when adjusted for the reinstatement of the federal R&D tax credit that benefited Q4 of 2015.
+Cash generation continued to be strong, free cash flow of $106 million in Q4 bringing full-year free cash flow to $550 million, up 72% from 2015 levels.
+As we discussed during our recent calls, our overall revenue growth rates in 2016 were lower because of the do-it-yourself or DIY efforts by a few of the Internet's largest platform companies. If we exclude the impact of Amazon, Apple, Facebook, Google, Microsoft and Netflix from our results, then our Q4 revenue was $558 million, which is up 15% over Q4 of last year in constant currency.
+Revenue for 2016 as a whole was $2.3 billion, up 7% year-over-year and up 15% excluding the six large Internet platform companies. Our exposure to DIY in these accounts continue to diminish as they collectively accounted for less than 10% of our total revenue in the fourth quarter, down from roughly 16% a year ago. As a result, our overall revenue growth rate accelerated in Q4 due to the continued strong growth of our core business.
+As I look back at 2016, I'm especially pleased with the success of Akamai's innovation engine. We released several new products last year, including Bot Manager, Image Manager and Enterprise Application Access, and their reception in the marketplace has been very positive. Bot Manager, in particular, has proven to be our most popular new product in several years. Bot Manager identifies nearly 1,400 types of bots and enables our customers to customize their response to requests based on the type of bot. We sell Bot Manager across all our major verticals and for a variety of uses. I recently spoke to one major enterprise that is saving many millions of dollars a year because of Bot Manager's ability to identify and mitigate price scrapers.
+Our recent acquisition of Cyberfend is intended to further enhance Bot Manager's market-leading capabilities by providing even greater defenses against credential abuse. For many of our customers, a large fraction of the login attempts are from bots checking to see if stolen user credentials are valid on their sites. Validated credentials are then sold to criminal organizations for exploitation. By incorporating the Cyberfend technology into Bot Manager, we can more effectively stop these attacks then tell our customers which user IDs have been compromised.
+Our new Image Manager solution has also gotten off to a very strong start in the market. Image Manager automatically optimizes images by creating and delivering the right size image for each user in real time based on the device type, browser type, and quality of connection. The solution enables our customers to accelerate their time to market, improve performance and conversion rates, especially for mobile apps and also to reduce their costs.
+Last year we formed our Enterprise and Carrier Division, and I'm happy to report that we're now entering the market with two exciting new products to improve enterprise security, Enterprise Application Access and Enterprise Threat Detection.
+Using technology acquired from Soha Systems in October, Enterprise Application Access, or EAA, addresses the growing need for businesses to more easily and securely manage application access for a growing mix of users with different risk profiles. EAA does not require enterprises to poke holes in their corporate firewall to enable access, which greatly improves security over traditional VPN solutions. EAA is also much easier to integrate and use than traditional remote access solutions.
+Close on the heels of EAA is our new Enterprise Threat Protector or ETP service. ETP is now in beta with 15 customers. It helps companies block access to malware sites and data exfiltration botnets. Just like EAA, Enterprise Threat Protector is very easy to set up. Unlike most enterprise security products, ETP can be deployed and configured in under 30 minutes. Nearly all of the customers in our beta program have been able to get it up and running totally on their own.
+EAA and ETP are attractive solutions for a wide variety of enterprises providing Akamai with an opportunity to pursue new customers and verticals. For example, manufacturing companies will be able to use ETP to block threats without needing to deploy and maintain on-prem hardware.
+In addition to our successful new product introductions, our core business also remained strong in 2016 with a especially robust growth in our OTT business. Following a record-breaking Euro 2016 and Rio Olympics, we set a new record for a news event on the night of the U.S. elections, with 7.5 terabits per second of peak delivery, and during the holiday season the Akamai platform achieved a new traffic record of 46 terabits per second, doubling our 2014 peak of 23 terabits per second.
+The global adoption of OTT has continued at a strong pace, not only in the U.S. but also in EMEA and especially in Asia and Latin America. Our experience and expertise in streaming video at scale with quality and reliability around the world means that we are in an excellent position to benefit from the increasing demand for high-quality content online.
+Of course, security remains the most pressing concern for many of our customers, as the scale and sophistication of cyber attacks have continued to escalate along with the potential for disruption and damage. In 2016, the number of DDoS attacks launched against our customers grew by 75% over 2015.
+We're very proud of our excellent track record of successfully defending our customers from some of the Web's largest and most malicious attacks. We believe that our unique approach of leveraging a distributed network of servers at the edge of the Internet, where there is enormous capacity, continues to be a critical differentiator for Akamai.
+Just this morning, we announced our new Web Application Protector service, which is designed to provide online businesses with a low touch way to protect their websites from the most common attacks. We also announced enhancements to our flagship Kona Site Defender solution to defend APIs from a wide range of both DDoS and application layer attacks. APIs are emerging as a popular target for attackers as the usage of mobile devices continues to grow.
+Over the last four years, we've grown our Cloud Security business from a little more than an idea into a $400 million market leader. We believe that our remarkable success in Cloud Security demonstrates that with prudent investment, we can create substantial new and profitable revenue streams beyond our core CDN business.
+As we look to the future, we see several opportunities with similar growth potential, and so we are planning to increase investment in 2017 to capitalize on these opportunities to further accelerate our long-term revenue growth. Our goal is to replicate the success that we've had with our Cloud Security business in other adjacent areas where the scale, resiliency and security of our unique distributed edge platform can enable us to provide compelling cloud solutions to our customers.
+This investment strategy will pressure margins in the near term, but we believe it will help accelerate revenue growth in the longer term. Of course, as always, we'll continue to keep a close eye on overall expense and to carefully track performance as we grow the business. We'll talk more about our plans for product expansion at our Investor Day on March 14, and as we make key investments.
+In summary, I remain confident in our business strategy, our market position and our ability to execute on the significant opportunities for growth that lie ahead. I have never been more optimistic about our future.
+I'll now turn the call to Jim to review our Q4 financial results and to provide the outlook for Q1. Jim?
+James Benson - Akamai Technologies, Inc.
+Thank you, Tom, and good afternoon, everyone.
+As Tom outlined, Q4 was another strong quarter for Akamai on both the top and bottom lines. Q4 revenue came in above the high end of our guidance range at $616 million, up 6% year-over-year or up 7% adjusted for foreign exchange movements. Revenue was up a healthy 15% if you exclude the six large Internet Platform Customers Tom just mentioned.
+Revenue growth continued to be solid across the business with the overachievement versus our guidance driven by a higher-than-expected uptick in holiday season traffic with our Media Solutions and customers. I mentioned in our last call that holiday season traffic would play a large role in where we would land relative to our fourth quarter guidance, and it did. Media-related traffic was particularly strong in the quarter.
+Before I get into the revenue details, please note that all revenue growth rate references will be in constant currency.
+Revenue from our Media Delivery Solutions was $196 million in the quarter, down 10% year-over-year, but up 8% excluding our large Internet Platform Customers. We saw healthy seasonal traffic growth in both our gaming and software download verticals and continued robust growth in video delivery.
+Turning to our Performance and Security Solutions, revenue was $367 million in the quarter, up 17% year-over-year. Within the Solution category, we saw solid growth across all major product lines. As Tom mentioned, we have been seeing strong traction with our recently launched Image Manager and Bot Manager solutions, and we have continued to see significant growth and demand for all of our Cloud Security offerings.
+Fourth quarter revenue for our Cloud Security Solutions was $102 million, up 41% year-over-year, capping off another tremendous year of revenue growth and customer adoption of our security solutions globally. Exiting Q4, our Security business now has an annualized revenue run-rate of over $400 million.
+We are very pleased with the growth and execution of our Cloud Security business over the past few years. This growth was driven by targeted product innovation and go-to-market resource investments, as well as a very successful acquisition. We plan to maintain this aggressive investment posture to further broaden not only our Cloud Security offerings, but also our Web performance and emerging enterprise solution capabilities where we see substantial long-term growth potential.
+Finally, revenue from our Services and Support Solutions was $53 million in the quarter, up 14% year-over-year.
+Turning now to our Q4 customer division results, revenue from our Web Division customers was $300 million, up 14% year-over-year. We continued to see solid growth in this customer base, particularly with our Cloud Security offerings.
+Revenue from our Media Division customers was $301 million in the quarter, roughly flat year-over-year and up 15% excluding the impact of the six large Internet Platform Customers. This strong growth rate was driven not only by Media Division customers driving more holiday season traffic. but also from upgrading and penetrating more of Akamai's solutions deeper into this customer base.
+Finally, revenue from our emerging Enterprise and Carrier Division customers was $15 million in the quarter, up 26% year-over-year.
+Moving on to our geographies, sales in our international markets represented 31% of total revenue in Q4, consistent with the prior quarter. International revenue was $193 million in the fourth quarter, up 19%, driven by continued strong growth in our Asia-Pacific region. Foreign exchange fluctuations had a negative impact on revenue of just under $2 million on a year-over-year basis and a $6 million impact on a sequential basis as the dollar strengthened significantly through the quarter.
+Revenue from our U.S. market was $424 million, up 2% year-over-year. If you exclude the large Internet Platform Customers, which are based in the U.S., revenue growth was a solid 13% across the rest of the business.
+Moving on to costs, cash gross margin was 77%, up 1 point from Q3 levels, consistent with the same period last year and in-line with our guidance. GAAP gross margin, which includes both depreciation and stock-based compensation, was 67%, up 2 points from Q3 levels, consistent with the same period last year and a point higher than our guidance due to the strong revenue achievement.
+GAAP operating expenses were $289 million in the fourth quarter. These GAAP results include depreciation, amortization of intangible assets, stock-based compensation, acquisition-related charges, and other non-recurring items. Excluding these charges, non-GAAP cash operating expenses were $230 million, up $23 million from Q3 levels.
+This was above the high-end of our guidance, driven by increased year-end commission costs associated with the revenue overachievement, as well as a significant uptick in litigation spend associated with our Limelight patent infringement cases.
+Moving in to 2017, we expect to see similar elevated levels of litigation spend.
+Adjusted EBITDA for the fourth quarter was $247 million, up $9 million from Q3 levels, and $10 million from the same period last year. Our adjusted EBITDA margin came in at 40%, down 1 point from Q3 levels and from Q4 last year, and in line with our guidance.
+GAAP depreciation and amortization expenses were $84 million in the fourth quarter. These GAAP results include depreciation associated with stock-based compensation, amortization of intangible assets and amortization of capitalized interest expense. Excluding these charges, non-GAAP depreciation was $74 million consistent with Q3 levels and at the low end of our guidance due to the timing of some network deployments that shifted into Q1.
+Non-GAAP operating income for the fourth quarter was $174 million, up $10 million from Q3 levels and up $6 million from the same period last year. Non-GAAP operating margin came in at 28% consistent with Q3 levels and down 1 point from the same period last year and at the high end of our guidance.
+Moving on to the other income and expense items, interest income for the fourth quarter was about $4 million, consistent with Q3 levels. Non-cash interest expense related to our convertible debt was roughly $5 million. As a reminder, this non-cash expense is excluded from our non-GAAP results.
+Moving on to earnings, GAAP net income for the fourth quarter was $92 million or $0.52 of earnings per diluted share. Non-GAAP net income was $126 million or $0.72 of earnings per diluted share, $0.02 above the high end of our guidance range driven by higher revenues and a slightly lower tax rate. Adjusting for the reinstatement of the R&D tax credit in Q4 2015, earnings grew 8% year-over-year.
+For the quarter, total taxes included in our GAAP earnings were $34 million based on a Q4 effective tax rate of 27%. Taxes included in our non-GAAP earnings were $50 million based on a Q4 effective tax rate of 28% and coming in about 2 points lower than our guidance due to a higher mix of foreign earnings.
+For the full year, the 2016 non-GAAP effective tax rate was just above 29%. Finally, our weighted average diluted share count for the fourth quarter was 175 million shares and in line with our guidance.
+Now I'll review some balance sheet items.
+Day sales outstanding for the fourth quarter was 54 days, down 2 days from Q3 levels. Capital expenditures in Q4, excluding equity compensation and capitalized interest expense were $78 million and slightly below our guidance for the quarter primarily due to the timing of network buildouts that moved into Q1.
+For the full year 2016, capital expenditures came in at 14% of revenue and below our long-term model as we grew into our existing capacity from the significant 2015 buildouts. We expect 2017 capital expenditures to be back in line with our long-term model range.
+Cash flow generation continue to be strong in Q4. Free cash flow was $106 million in the fourth quarter and $550 million for the year or 24% of revenue. Our balance sheet also remains very strong with roughly $1.6 billion in cash, cash equivalents and marketable securities on hand at the end of the quarter. If you'll factor in our convertible debt, our net cash is approximately $1 billion.
+During the quarter we spent $79 million on share repurchases buying back roughly 1.3 million shares. For the year, we spent $374 million buying back approximately 7 million shares.
+In summary, we are pleased with how the business performed in Q4 and we remain confident in the long-term prospects of growth for the company. Looking ahead to the first quarter, we expect to see a normal sequential revenue decline for seasonality, perhaps a bit more pronounced in the recent years due to the particularly strong media performance this past quarter.
+In addition, we expect further currency headwinds from the strengthening U.S. dollar over the past few months. At current spot rates, foreign exchange fluctuations are expected to have a negative impact on Q1 revenue of just under $4 million sequentially and $5 million compared to Q1 of last year.
+Factoring in both of these variables, we are expecting Q1 revenue in the range of $596 million to $610 million. At the higher end of this range, year-over-year growth would be 8% constant currency, a slight acceleration from Q4 levels.
+At these revenue levels, we expect cash gross margins of 76% and GAAP gross margins of 65%. Q1 non-GAAP operating expenses are projected to be $217 million to $222 million, down seasonally from Q4 levels primarily due to less commission spend and fewer customer events.
+Factoring in the cash gross margin and operating expense expectations I just provided, we anticipate Q1 EBITDA margins of 39% to 40%. And as mentioned earlier, we plan to significantly increase our investment levels in 2017 in new product innovation, service delivery enablement and platform scaling – important areas we believe will help us enable to drive accelerated, sustainable long-term growth and scale.
+And while we're not providing specific guidance beyond Q1 during this call, we want to be transparent about our plans to grow investments throughout 2017 at a faster pace than revenue growth. Our goal is to re-accelerate the top-line growth back into double-digit levels in the longer-term. We are confident the success we have had with our Cloud Security investment strategy can be duplicated in other areas of the business, most notably in our new and emerging Enterprise Solutions portfolio. We also plan to broaden our offerings within our Security, Web Performance and Media Solutions portfolios. This deliberate investment strategy will result in EBITDA margins in the high 30s in 2017 and for the foreseeable future.
+Moving now to depreciation, we expect non-GAAP depreciation expense to be between $74 million and $76 million. Factoring in this depreciation guidance, we expect non-GAAP operating margins of 27% to 28% for Q1. And with the overall revenue and spend configuration I outlined, we expect Q1 non-GAAP EPS in the range of $0.66 to $0.69.
+This EPS guidance assumes taxes of $48 million to $51 million based on an estimated quarterly non-GAAP tax rate of just under 29.5%. This guidance also reflects a fully diluted share count of 175 million shares.
+On CapEx, we expect a significant uptick from recent spending levels in both the first quarter and throughout 2017. This increase is driven partly by some platform deployments that shifted from Q1, but mostly by our desire to continue expanding our secure delivery network and increasing capacity to support our rapidly growing Security business. We expect to spend approximately $90 million and $96 million, excluding equity compensation.
+It's also worth noting that our planned investment increases in product innovation and scaling our platform will impact CapEx as well as OpEx as we capitalize more R&D development. As such, we expect CapEx spending to return to our long-term model range of 16% to 18% of revenue in 2017. And with the increasing CapEx, you will also see an uptick in depreciation levels throughout 2017.
+In closing, Akamai accomplished a great deal in 2016, and we remain confident in our ability to execute on our plans for the long term. We look forward to having an opportunity to go into more details with you about the business and future trends at our upcoming Investor Summit in Boston on March 14.
+Thank you. And now Tom and I would like to take your questions. Operator?
+Question-and-Answer Session
+Operator
+Certainly. Our first question comes from the line of Mark Mahaney from RBC Capital Markets. Your question, please.
+Mark Mahaney - RBC Capital Markets LLC
+Great. Thanks. You talked about these – the contribution from the three newer products – Bot Manager, Image Manager and the Enterprise and Carrier Division products. Could you help us think through the revenue ramp? In other words, how widely sold across the verticals are all three of those products? And when do you think that they'll be at a point where they'll be fully penetrated? Does that take 6 months, 12 months, 2 years? Thank you.
+James Benson - Akamai Technologies, Inc.
+Yeah, I'll take that. But as you can imagine with new products, it's going to take a fair amount of time to actually fully penetrate them at installed base. But as Tom said, for both of these products, Bot Manager launched earlier in the year, Image Manager launched mid-year.
+Bot Manager in particular, this is the fastest-growing product we've had in a long, long time, and so the penetration is still early days. But it was a reasonably meaningful contributor to growth in Q4, in particular, our Performance and Security portfolio. You'll see that continue to ramp and further penetrate in 2018, but it's probably going to take a couple of years to see it kind of fully penetrated.
+As an example for Cloud Security, which we've been in market now for a little over four years. I think about 38% of our customers via Cloud Security Solutions. So still a lot of ramp to go even in Cloud Security, so it takes a while to have those customers ramp, but you can certainly see that we started a few years ago from roughly a few million dollars in Cloud Security to now over $400 million.
+So I think these new product offerings are kind of again proof points to Tom's comments that innovation is alive and well, and there's more to sell to the installed base to accelerate growth of the company.
+Mark Mahaney - RBC Capital Markets LLC
+Thank you, Jim.
+Operator
+Thank you. Our next question comes from the line of Edward Maguire from CLSA. Your question, please.
+Ed Maguire - CLSA Americas LLC
+Hi. Good afternoon. I was wondering if you could discuss the competitive environment for your anti-DDoS services, particularly with AWS getting into the market. What sort of competition are you seeing there, and are there also other opportunities where you are seeing cross-selling and attach for the anti-DDoS services?
+James Benson - Akamai Technologies, Inc.
+Yeah. We're in a good position with the DDoS solution because of our unique distributed platform. We're in a position to defend and absorb the largest attacks out there, and we've got a great track record and there's a lot of other folks that offer scrubbing services or DDoS services of one kind or another, and they've all pretty much had high profile failures. AWS, we don't see really much in the marketplace. For DDoS, it would be a different kind of approach. So we don't see that as being a significant threat to the DDoS business.
+And DDoS is relevant for most of our customer base, so there's a lot of cross-selling that takes place and the Security Services, in general, were leading with a sale there and a lot of new accounts where they will join with Akamai because either our DDoS solution or our application layer protection capabilities with Kona and that brings new customers to Akamai.
+Ed Maguire - CLSA Americas LLC
+Great. And just to follow up on the – with the declines in revenue from the Internet Platform Customers, do you believe that you've reached a point of stability where the predictability of the migration away from your platform has reached an equilibrium of sorts?
+James Benson - Akamai Technologies, Inc.
+Yeah. As we talked about, they're now collectively less than 10% of our revenue so the future impact is obviously limited, and we expect to see some further decline, but nothing to scale that we've seen over the last one to two years.
+Ed Maguire - CLSA Americas LLC
+Great. Thank you.
+Operator
+Thank you. Our next question comes from the line of Matthew Heinz from Stifel. Your question, please.
+Matthew Heinz - Stifel, Nicolaus & Co., Inc.
+Hi. Thanks. Good afternoon. Just wondering if you could go in a bit more detail about some of the enterprise opportunities you're investing in outside of security, I guess, specifically on the Web performance side, and how you see those kind of markets transpiring today from a sales standpoint whether there's head count additions you need to make to broaden the distribution and kind of how those products are attaching alongside the Security Solutions?
+Frank Thomson Leighton - Akamai Technologies, Inc.
+Right. As we talked about with Image Manager that's a Web Performance Solution, very pleased with the early traction there. The new Ion 3 (31:30) solution has an SDK for a substantially improved performance especially for mobile devices and prepositioning of content. And as we make major investments this year, we'll talk about those as we make them. And we move into a new product area, then we'll talk about it then. Of course, it will be important that it's synergistic with the existing business and that can leverage Akamai's unique distributed platform.
+Matthew Heinz - Stifel, Nicolaus & Co., Inc.
+Okay, thanks. And then just one other on the share count guidance. It looks like you're kind of looking at a flat year-over-year share count. Just wondering if the increased CapEx expectations is at all kind of limiting the buyback in 2017 relative to what you repurchased in 2016?
+James Benson - Akamai Technologies, Inc.
+Not at all, not at all, that our balance sheet has a lot of firepower to do M&A, to do CapEx purchases and to do our share buyback. And as we talked about, our share buyback is intended to offset dilution, but it's a programmatic trade that buys more shares when the stock price is lower and buys fewer shares when the stock price is higher. But we have ample firepower to do full CapEx purchases, share buyback and M&A.
+Matthew Heinz - Stifel, Nicolaus & Co., Inc.
+Okay. Thank you very much.
+Operator
+Thank you. Our next question comes from the line of Sameet Sinha from B. Riley. Your question, please.
+Sameet Sinha - B. Riley & Co. LLC
+Yeah. Thank you very much. I can understand if you don't want to talk about some of these new adjacencies that you're entering into, but can you give us what the profile of the company would look like? Are these products primarily SaaS-based so that you have an initial CapEx spend, but maybe at a later time that CapEx spend goes down and you get what you listed as a recurring revenue stream?
+And the second question would be, any initial take on net neutrality? Obviously, the new administration is taking a pretty tough stance. Where do you think you stand on that? And do you think you'll benefit from it or potential negatives some point down the line?
+Frank Thomson Leighton - Akamai Technologies, Inc.
+Yeah, of course. We're in a business with recurring revenue streams, and so any new areas we would go into you would think would be consistent with that model. So I wouldn't expect any major deviation there.
+In terms of acquisitions we've done over the past, there's technology tuck-ins. Sometimes there's a product like Prolexic that's an adjacency that fits very well with our existing business, but is a new product that's very synergistic. And occasionally, over our 20-year history we've done some roll-ups. It's less frequent, I would say. And I don't think there would be a major difference in the kinds of things that we're planning to do this year from what we've done in the past.
+With net neutrality, I think there's going to be changes there with the new administration. I think a lot of rules that existed before may go away, and I don't think that really makes much difference to our business. We weren't regulated in the first place, and I don't see anything coming there that would be bad in any way for Akamai.
+Sameet Sinha - B. Riley & Co. LLC
+Thank you
+Operator
+Thank you. Our next question comes from the line of Greg McDowell from JMP Securities. Your question, please.
+Unknown Speaker
+Hi. This is Richard Deloria (35:04) dialing in for Greg. Thanks for taking my question. Just wanted to kind of follow up on the head count question that was asked earlier, I mean because we did see a bit of an uptick in hiring this quarter.
+With the increased product development focus and maybe a little bit more of a vertical focus within the Enterprise Division, how are you thinking about head count going forward not just for next quarter and later into 2017 but kind of beyond that? Can you see a return to normal head count growth that we've seen in the past? Or is it going to be a little more deliberate? And I have one follow-up.
+James Benson - Akamai Technologies, Inc.
+Yeah. We're certainly going to see a step-up in head count investments. You're right that we have a little bit more head count ramp here in the fourth quarter, but we hired for the year about a little over 400 people, I think, including some acquisitions. I think in years past, we averaged more than 1,000 hires per year.
+I think what you're going to see is that this step-up in investment is that our head count ramp is probably going to be more similar to what it's been historically than it was this past year, and as I mentioned it's going to be targeted but very heavily focused in new product innovation.
+There's also investment we're going to need to be making in our service delivery enablement that I mentioned, that our Services business is growing quite rapidly. And we're going to be making investments in continuing to scale the platform. So you should expect head count more similar to what it's been in the past than basically what it's been in 2016.
+Unknown Speaker
+Okay. And then just kind of a quick follow-up. Jim, you did say just in terms of looking at the Q1, we can expect a bigger sequential decline from Q4 to Q1 on a revenue basis than typically we've seen, and just wanted to understand how much of that is being driven by, like you said, the outperformance on the Media side? And how much of that is a continued expectation of – and I know it's not as significant as before but just the continued declines of revenue from the top six Internet Platform Customers?
+James Benson - Akamai Technologies, Inc.
+Well, yeah, I mean, as Tom mentioned that we probably will see continued decline in the Internet Platform Customers in the first quarter; one, because seasonally they declined Q4 to Q1 anyways, because they also have a seasonally stronger Q4. But I'd say the bigger component of it is not that, and it's more that we had a very strong Q4 for Media.
+Media traffic was kind of seasonally very, very strong. We had a large number of gaming releases, a fair number of software download events that the Media business can be a bit spiky that way. So some – I'd say the bigger part of the sequential decline is driven by the Media business, certainly not the performance in Security Solutions.
+Unknown Speaker
+Got it. Thank you so much.
+Operator
+Thank you. Our next question comes from the line of Vijay Bhagavath from Deutsche Bank. Your question, please.
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Yeah, thanks. Hi, Tom, Jim. A consistent question I hear from clients is whether Akamai is an episodic growth story, and I think where they're coming from is the Media Delivery business does extremely well during live events. We saw recently the elections, holiday season, on and on. I think what they're looking for is any data points or trends you could help us with to get all of us comfortable about the slow to mid-teens trajectory for the Media business now that we're lapping to DIY customers. And 2017 is a prime number year, so how would we feel comfortable with no major live events on the calendar this year? Thanks.
+Frank Thomson Leighton - Akamai Technologies, Inc.
+Yeah, I don't know if it has too much to do with prime numbers. Even years there are more events, but as we've talked about in the past, any given event gives us some revenue, but it's not really swinging the needle. Now sometimes with Olympics and so forth new devices will come out and someday like VR, for example, we've started to do some of that, and that can drive traffic levels on a more sustained basis afterwards.
+But I wouldn't read a lot into that, and I think the Media business is very healthy. We're seeing very strong growth in OTT, very strong growth in our gaming customers and just Modulo the very big, the six platform companies that are doing more on their own, the Media business has been very good.
+James Benson - Akamai Technologies, Inc.
+I think it's also fair to comment that even outside of Media that I think the company is certainly much more diversified now than it was kind of even a year ago or two years ago, that our performance in Security business now represents 60% of the company's revenue, you include kind of services, call it 70-plus percent of the revenue. So Media is becoming a much smaller percentage of the company's revenue, and we know that the Media business can have variability just given the nature of the business.
+So I think what you're going to see going forward is that you're going to see more stability in the company's growth rates. I do think that there is an opportunity for Media to reaccelerate growth rates, but I think the catalyst for that is really going to be a significant uptick in Over the Top viewing. And I think we're seeing steady growth in that area right now. But if you see that become more mainstream, I think we're poised to benefit significantly from that.
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Perfect. A quick follow-on would be, do you see any cross-sell, upsell synergies between your gaming customers and DDoS? A common complaint from gamers is performance is weak because of DDoS attacks, hacker attacks, et cetera. And I think, they complain no matter what, but still do you see any synergies in gaming and the Security business? Thanks.
+Frank Thomson Leighton - Akamai Technologies, Inc.
+Yeah, you're right. I think the gaming vertical is probably as attacked as any. And so they are large adopters of DDoS prevention services from Akamai.
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Perfect. Thanks.
+Operator
+Thank you. Our next question comes from the line of Keith Weiss from Morgan Stanley. Your question, please.
+Keith Eric Weiss - Morgan Stanley & Co. LLC
+Excellent. Nice quarter, guys, and thank you for taking the question. Following up on OTT, just to kind of help us mark-to-market, you talked about the steady growth. One, are we getting to a point where it's actually sort of materially driving the numbers in either Media or Performance in terms of that's a significant driver of revenues today?
+And two, when we think about the uptick in CapEx spend into 2017, is that by any means based upon an anticipation of more OTT revenues, or is it more of the traditional businesses that are growing out that (41:48) CapEx?
+James Benson - Akamai Technologies, Inc.
+Yeah, I'll parse that. So, certainly on the OTT side that, yeah, we're seeing very steady growth in OTT. It's been that way for some time, but it's steady growth, so it's much more consistent growth in Over The Top than say gaming or software downloads, which tend to be much more variable based on games that get released or software updates that occur.
+And I'd say that has been the bigger catalyst driving growth in the Media business that those – the gaming and the software download area tends to be much more spiky. And you'll have surges at times and then it won't at other times. So I think the catalyst for growth in the Media business is going to be OTT. I don't think you're going to see the catalyst. You may see even a catalyst, as Tom mentioned, as you see more VR and things like that in the gaming space that require performance to work well, but I think that between things like that and OTT, that's going to be the cause of kind of re-acceleration in the Media business.
+And on your CapEx question, I'm glad you asked, because we certainly are not trying to signal that we're doing a build-out for some anticipation of further OTT. Actually, the build-out that we're doing is, as you can imagine, our Security business now is on an annualized run-rate of over $400 million. It's rapidly growing. And so there's build-out we're doing to support our Security business. And there's also build-out that we're doing with our secure delivery network. More customers want to have their traffic served over a secure delivery network, so we're building out capacity in that area. So it's really for other parts of the business. It's not so much for the Media business.
+Keith Eric Weiss - Morgan Stanley & Co. LLC
+Excellent. Thank you. That was very helpful.
+Operator
+Thank you. Our next question comes from the line of Siti Panigrahi from Wells Fargo. Your question, please.
+Sitikantha Panigrahi - Wells Fargo Securities
+Hi, guys. Thanks for taking my question. On the Security business, you mentioned like it's already $400 million run-rate, while also you invested and you made a few tuck-in acquisition second half of last year and also introduced new products, I'm wondering how big is an opportunity at this point to cross-sell this within your installed base. How much penetrated at this point? And how sustainable is this 40% growth in Security business? And I have a follow-up.
+Frank Thomson Leighton - Akamai Technologies, Inc.
+Well, the cross-sell opportunity is very strong. And as I mentioned earlier, we also entered new accounts leading with security quite often. So it's good both ways.
+Growing at 40% is really great to see. That obviously gets harder as the numbers get larger, but we're excited about Bot Manager and the Cyberfend acquisition, as well as the new products that we're bringing to market in enterprise security. So that's an area where we'll be continuing to make investments in order to maintain strong growth rates.
+Sitikantha Panigrahi - Wells Fargo Securities
+And with this new introduction of those new product and acquisitions, are you making any changes to your go-to-market strategy, or what are the other investments you're planning to do?
+Frank Thomson Leighton - Akamai Technologies, Inc.
+With the new enterprise products, we have an overlay team, but we expect with those products that our existing sales force can sell them. They're both easy to explain. And as I mentioned, easy to use and integrate and get going. And so I think our existing sales force is going to be able to sell those. And right now, we're helping them with an overlay.
+Sitikantha Panigrahi - Wells Fargo Securities
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Colby Synesael from Cowen & Company. Your question, please.
+Colby Synesael - Cowen and Company
+Great. Thank you. You mentioned, too, you're obviously going to be investing in the business, and for the year, we should see EBITDA margins in, I think, you said high 30s. And I think you also mentioned that the intention is to get back up to double-digit growth.
+So I guess my question is for the company to continue to grow at double-digit growth beyond 2017 into the next few years hopefully, do you think that you have to remain in the high 30s and therefore, that's the new long-term operating margin for the business – or EBITDA margin for the business? Or do you think this is more of a one-time investment through 2017, and then as we go into 2018 and beyond, we can potentially get back up to that 40% type EBITDA margin? Thanks.
+James Benson - Akamai Technologies, Inc.
+Thanks for the question, Colby. I mean, we'll cover it more at the upcoming Investor Summit, but I still think the long-term model for the company in the low 40s is the right one. I do think that what you're going to see in 2017, and I said for the foreseeable future, because I think you're going to hear in 2017, you're going to hear about new product adjacencies that we are going to enter. And I think what you're going to see is we're going to make investments in those areas. Those investments are probably going to extend beyond 2017.
+And so I think the interim model for the company, not the long-term model, I think, the interim model for the company is going to be the high 30s. But I do think that once those businesses get to a level of scale, because they'll be kind of early-stage businesses, I think once they get to scale, I think that we will be able to get the company model back to the low 40s EBITDA. But I think that even beyond 2017, we intend to operate the company in the high 30s. And I think that given the nature of the adjacent areas, I think that they have significant opportunities for EBITDA that's more like our Performance and Security EBITDA. But obviously, it's going to take a time for those businesses to ramp to be able to realize that, and I think what we want to do is we don't want to constrain investment. We want to make sure we're investing to capitalize on that because now is the opportunity.
+Colby Synesael - Cowen and Company
+Great. Thank you.
+Operator
+Thank you. Our next question comes from the line of James Breen from William Blair. Your question, please.
+James Breen - William Blair & Co. LLC
+Thanks. Just want to clarify one thing, and then just follow up the question. On the CapEx you talked about significantly going up, but still within the 16% to 18% range? That's my understanding.
+James Benson - Akamai Technologies, Inc.
+Yes, yes.
+James Breen - William Blair & Co. LLC
+Okay.
+James Benson - Akamai Technologies, Inc.
+That means we were 14% in 2016. We'll be back in the 16% to 18% range in 2017.
+James Breen - William Blair & Co. LLC
+Great. And then just on new sales and where the revenue growth is coming from as you look across sort of Security, Performance and Media as three separate segments, is it adding new customers? Is it existing customers taking more services? And does that differ across those segments? Thanks.
+James Benson - Akamai Technologies, Inc.
+Yeah. I would say that the more of the growth has been coming from selling more into our installed base. We've been able to take the offerings that we have and further penetrate them into the installed base. I think Tom's right that Security's been a product category that we've been able to penetrate with new customers, and then once you get in you can Land and Expand them. You can expand it via other offerings.
+But I'd say more of the growth to date has come from penetration into the installed base. And there's still a significant opportunity to do more there. I mentioned earlier that 38% of our customers buy security, so that means there's an opportunity for 62% of customers to actually buy one of our Security Solutions.
+And so I think you're going to see that we're going to further penetrate the offerings, and I think as we bring more innovation to the table, there's more of an opportunity to sell more into the installed base. And then I think you're going to see us do more in the way of new customer acquisition, Land and Expand model, and I think some of the new offerings are actually going to help us with that.
+James Breen - William Blair & Co. LLC
+Great. Thank you.
+Operator
+Thank you. Our next question comes from the line of Will Power from Baird. Your question, please.
+Will V. Power - Robert W. Baird & Co., Inc.
+Great. Thank you. Yeah. Just to maybe come back on the Security area. Tom, you referenced the strength in Bot Manager, that being one of the most successful newer products you've had in the last couple of years. And you've got a couple of the new Enterprise Security products, which I realized are early, but I'm wondering if you could just help us maybe frame how we should think about the market size opportunities for each of those, Bot Manager and Enterprise, perhaps relative to your DDoS market, and what you're doing in Security today?
+Frank Thomson Leighton - Akamai Technologies, Inc.
+I think they're very large. Now Bot Manager fits in with our Kona Site Defender and the Web security product space. And Bot Manager's market is at least as big as Kona, and we're seeing that in terms of the ARPUs with customers that are adopting that.
+EAA and ETP are on the Enterprise side, and that's a new market for us to go into. That's a market that's traditionally used devices that are purchased by the IT manager, operated in the private network. I think as we go to the future, you're going to see those capabilities sold as cloud services in a recurring revenue market, and we're bringing those kinds of products to market now to help that fundamental change in enterprise architecture and enterprise security.
+In the long run, I think the services for enterprise networking and security have a bigger TAM than Web delivery and security. Of course, it's just at the beginning, so it'll take a long time to catch up, but there's a lot more money spent in enterprise networking than there is in Content Delivery. And I think the term often you'll hear in the industry is enterprise networking is turning inside out, and I think you'll be seeing the adoption of cloud services replacing the purchase of devices operated by the IT manager and the WAM (52:07).
+Will V. Power - Robert W. Baird & Co., Inc.
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Michael Turits from Raymond James. Your question, please.
+Michael Turits - Raymond James & Associates, Inc.
+Hey, guys. Good afternoon. Can I see if we could maybe put a finer point on the top six question? I know you said it would decline in 1Q, but is 1Q the point where it bottoms as a percentage of revenue? And is there any – especially the top four because those are the material ones, that might be up for renewal later in the year where there might be some risk to that bottoming out of those six as a percentage of revenue?
+Frank Thomson Leighton - Akamai Technologies, Inc.
+No. As we talked about, I think as a percentage of revenue we expect or certainly prefer to see a decline in percentage of revenue. First, you have the rest of the business, the core business over 90% growing at a very strong clip, and I think these six of which there's really three that are larger today quite possibly could decline in the revenue they pay us, which would mean their percentage would continue to decrease.
+And as we look to the future sort of that's the way we're thinking, of course, we're going to do everything we can to maximize revenue in those accounts. I think we provide them tremendous value and three of them are still sizable customers, and I think will always be sizable customers for Akamai.
+Michael Turits - Raymond James & Associates, Inc.
+And then as I said, any of the top four – I guess, the top three are that ones that you're focusing on, that would be a risk in the back half of the year as far as renewals?
+Frank Thomson Leighton - Akamai Technologies, Inc.
+I don't think there's so much of an issue there and the impact that any one of them can have is now much less than it used to be, so I don't think that's an issue really to be thinking about. I think the key is they're less than 10% today. We're anticipating further declines certainly as a percentage of revenues through the year and potentially in the future. But I don't think there's any giant event in a single quarter associated with any one customer.
+Michael Turits - Raymond James & Associates, Inc.
+I'm going to try and squeeze one more in, sorry, but I don't know if you guys want to, but any thoughts about trying to give us a sense for what depreciation should be for next year, so we end up getting not just EBITDA but below the line right as well?
+James Benson - Akamai Technologies, Inc.
+Well, I think, again, I think you should look at our depreciation expense (54:31) as a percent of revenue to take the depreciation expense that we've been incurring as a percent of revenue. And as you ramp CapEx, as a percent of revenue you should be ramping depreciation as a percent of revenue in a similar way.
+Michael Turits - Raymond James & Associates, Inc.
+Okay. Thanks a lot, guys.
+Operator
+Thank you. Our next question comes from the line of Tim Horan from Oppenheimer. Your question, please.
+Timothy Horan - Oppenheimer & Co., Inc. (Broker)
+Thanks. So just two clarifications. Tom, can you give us your best guess maybe on the top six of what's going on? Is it just one or two that are still kind of really seeing declining revenues and maybe a guess on where they can bottom out as a percentage of revenue? Is it 8% of revenue, 4% of revenue, just any more color around that would be great? And I had a quick follow-up.
+Frank Thomson Leighton - Akamai Technologies, Inc.
+Yeah. No, we're not giving guidance at that level of detail, (55:15) to say we expect some further declines not at the rate we've already seen, obviously, because now they're less than 10% of our total revenue. And this is associated with these companies spend billions of dollars a year in infrastructure generally, and they're doing more the delivery themselves. I think we still provide them significant value. And of course, I'd like to see the revenue there increase as we go forward, but we're not expecting to have that happen.
+Timothy Horan - Oppenheimer & Co., Inc. (Broker)
+Great. And then on the OTT video side, can you maybe talk about why is it accelerating now? What's kind of come together? And a few of the offerings seem to be off to a rocky start in terms of quality, can you talk about it? Is that because of the CDN bottleneck, or is there some other bottlenecks? And maybe just lastly on the OTT front, how do you think your quality is kind of comparing to your competitors in the OTT front? Thanks.
+Frank Thomson Leighton - Akamai Technologies, Inc.
+Yeah. I'd say OTT is growing at a very solid pace. It hasn't exploded. At times people think that might happen, but that's not taken place. I think there's a lot of new offers out there – continue to be new offers. People are going to try lots of different kinds of things, and some will have more success than others in the marketplace. It is a very hard thing to do. Just even the delivery of the videos at high levels of quality is very hard, and that's where we really excel. And so we get a significant share of that market and as it grows, we should be in a position to benefit from it. And there's other things besides the delivery that are complicated technically, things involving ads, with ads supported OTT, very complicated to do, and there's a lot of players in the ecosystem in getting everything to work just right. There's problems sometimes.
+Again, this is where Akamai really helps their customers in being able to make sure that OTT, it is delivered reliably, can handle large-scale at high bit rates, which means high quality pictures and at a reasonable price point because as that industry grows they need to see the cost per bit delivered come down. And so that's a place where we've got great strength, and I'm very optimistic about the future growth of our OTT business.
+Timothy Horan - Oppenheimer & Co., Inc. (Broker)
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Jonathan Schildkraut from Guggenheim Securities. Your question, please.
+Jonathan Schildkraut - Guggenheim Securities
+Good evening. Thanks for taking the questions here. Listen, I'd like to maybe do a little bit of follow-on on to the large Internet Platform question. Even this quarter and last quarter, you've been – the revenue numbers have held a lot better than we were anticipating, and I'm wondering as we think about that customer group if it is still sort of overflow that you're receiving in terms of traffic, or if there's been any sort of change in terms of the workloads maybe that they're handing off to you versus the ones that they're keeping on their own do-it-yourself platform. Or maybe even alternatively, we've seen them push into some of the new product offerings that you guys are out there with. That incremental color would be helpful. Thanks.
+James Benson - Akamai Technologies, Inc.
+Yeah. We don't really operate on an overflow basis. So it's whatever you're seeing is not really attributed to that. I don't think there's really been a fundamental change in the Internet platform companies in terms of their utilization quarter-to-quarter. Generally, the trend that we expect to see is they're going to try to do more of the delivery themselves. Obviously, they'll take the easier stuff and work on that first. That's one thing that we've seen in the past. That said this stuff is hard to do and to do well and actually to do affordably. So I think that we will continue to have business with these customers. I just think it'll be a lower percentage of revenue going forward.
+Jonathan Schildkraut - Guggenheim Securities
+All right. Understood. Thanks a lot.
+Operator
+Thank you. Our next question comes from the line of Sterling Auty from JPMorgan. Your question, please.
+Sterling Auty - JPMorgan Securities LLC
+Yeah, thanks. Hi, guys. So in terms of the increased investment that you're planning on making, I want to understand, I know you don't give guidance beyond the March quarter, but just philosophically, is it a front-end loaded investment in the year where there's more hiring upfront and maybe the non-head count investment happens in the back half? Just how do you layer it in? So do we just step down to the high 30s and then it's a stable EBITDA? Or is there going to be a gradual move down to a trough and then an improvement off the bottom?
+James Benson - Akamai Technologies, Inc.
+No. I think you're going to see a steady increase in investment throughout the year. I think you're going to see that investment occur, it's going to begin in the first quarter. You won't see it manifest itself significantly because it's going to take a while to get the head count on board and the spending to ramp. So I think you're probably going to begin to see that effective in Q2.
+And then my expectation is that, again, it'll stay in the high 30s thereafter. So I think you'll probably – I'm not going to specifically guide for Q2, but as I said beyond the first quarter, which I said 39% to 40%, and I think that it will be 39% to 40% depending upon where our revenue lands in the range. But I do expect that kind of in Q2 and beyond that it's going to operate in the high 30s.
+Sterling Auty - JPMorgan Securities LLC
+Okay. And then my follow-up question is I think you gave us a comment on the top six customers and what you expect in terms of the further decline in the March quarter. I want to make sure I heard you correctly. Does that leave the rest of the customers actually need to accelerate in terms of growth? And if that's the case, where's the source of that acceleration going to come from? Is it the Security side or the Performance or Media side and why?
+James Benson - Akamai Technologies, Inc.
+Yeah. Well, part of that is, again, when you talk about acceleration, you're talking about year-on-year. So as Tom mentioned, the declines we've seen in these large customers were much more significant in 2016. So the wraparound impact of that really began a little bit in Q4 and you're going to see that continue in Q1. And so some of it is the wraparound effect of these customers not having nearly the impact on the company growth rates as they did a year ago. My comment was more of a sequential comment that Q4 to Q1 we always see some seasonal declines in the company revenues and also with these big customers, and I expect to see that happen.
+And as I mentioned, I think some of the seasonal decline is going to be much more notable in the Media business, and I think you're going to see steady growth in the Performance and Security business.
+Sterling Auty - JPMorgan Securities LLC
+So basically at the midpoint of the range outside the top six you're expecting the same performance in March as you just saw in December?
+James Benson - Akamai Technologies, Inc.
+Yeah, roughly, yes.
+Sterling Auty - JPMorgan Securities LLC
+Okay. Thank you.
+Operator
+Thank you. Our next question comes from the line of Brandon Isbell (01:02:22) from Pacific Crest Securities. Your question, please.
+Unknown Speaker
+Hey, guys. Tom, just a quick question. Hey, can you guys talk a little bit about your relationship with Microsoft? And if you're seeing any sort of adoption from public cloud users purchasing your product on their platform?
+Frank Thomson Leighton - Akamai Technologies, Inc.
+Yeah. You can click to buy Akamai Whole Site Delivery on Azure. A lot of companies have done that. It's not a material amount of revenue to us. The Microsoft relationship, on the other hand, is very important to us. We have a substantial number of customers and revenue that flow through Microsoft. And of course, they're a large customer themselves.
+Unknown Speaker
+Great. And then it sounds like you guys are seeing a little bit more success maybe on the outbound sales side, particularly with Security. What do you need to do to sort of turn that equation around to get more of a pull in effect? I know you guys are stepping up your sales force to go after that growth, but if you could talk a little bit about that, that would be great.
+Frank Thomson Leighton - Akamai Technologies, Inc.
+Yeah, we have a new CMO, Monique Bonner, and really making substantial progress in our digital marketing effort, and I think that'll help quite a bit in terms of generating more efficient inbound sales.
+Unknown Speaker
+Okay. Great. Thanks.
+Operator
+Thank you. Our next question comes from the line of Mike Olson from Piper Jaffray. Your question, please.
+Mike J. Olson - Piper Jaffray & Co.
+Hey, good afternoon. Just to clarify, when you talked about getting back to double-digit revenue, were you suggesting that happens in 2017 or beyond 2017, or you weren't saying any timeframe at all?
+James Benson - Akamai Technologies, Inc.
+I wasn't referring to a specific timeframe. I think you know the company has been operating in double-digit revenue growth. This is actually the first year we have not. I think you know that certainly the driver of that has been what's been going on with these large Internet Platform Customers. The company growth rate outside of them has been growing in the mid-teens.
+So we have been growing in the double-digits. I think that my point was that as we make these investments, these investments are going to take a bit of time to see revenue ramp, and so you're going to see the dividends from these investments more in 2018 and 2019. And I think that is what's going to lead to consistent double-digit growth for the company.
+Mike J. Olson - Piper Jaffray & Co.
+Okay. Thanks. And then for international, it's been growing, but it still remains around 30% of revenue. Is part of the investment in 2017 focused at all on initiatives that maybe over-indexed internationally? It seems like that could be a huge opportunity. Is product set or getting the right sales team in place the key factors to drive international to a higher percent of revenue?
+James Benson - Akamai Technologies, Inc.
+We're pretty pleased with our international growth, but you're right that our international growth has been growing very fast and growing very fast particularly in our Asia-Pacific region. So our investments are much more weighted, I would say, on R&D innovation, to be frank. Our investments are not heavily weighted towards more go-to-market. I actually think the go-to-market side of the equation – we will make some investments there. It's a matter of giving our existing sales force more products to sell.
+Our sales force is pretty confident that penetrating our products into their installed base set of customers is a matter of giving them more products to sell, and I think that by stepping up investment in R&D, getting more products announced, I think will lead to kind of more revenue. And we've proven we can do that, Security being the most recent example.
+Tom Barth - Akamai Technologies, Inc.
+Jonathan, I think we have time for one more question.
+Operator
+Certainly. Our final question comes from the line of Jeff Van Rhee from Craig-Hallum. Your question, please.
+Unknown Speaker
+Yeah, hey. Good evening, guys. This is Ryan (01:06:13) sitting in for Jeff. Just for Ion, I know at the last Analyst Day you mentioned 53% penetration with the product in your customer base. Any update you can provide on base penetration? Or where you see the penetration peeking out? And the price uplift you're seeing from that?
+James Benson - Akamai Technologies, Inc.
+Yeah. I mean, I think in general that we continue to get good traction in upgrading Ion to our customers that buy our Web performance products that you can imagine that it's kind of a hierarchy of – it starts with customers that really, really care about performance. And so I think we have a further room there, but I think that kind of the customers that are going to buy Ion – many of them are already buying their products.
+While there's more to sell there, I'd say that probably not a significant, significant opportunity there. And, yeah, we have seen when customers upgrade to Ion that there is an ARPU uplift at times, but I also think there's other things to sell for our Web Performance Solutions. As Tom mentioned, Image Manager is another offering to sell into the installed base.
+So if they're buying Ion, now they can buy Image Manager. If they're DSA, now they can buy Imagine Manager. And I think you're going to see us have other adjacencies like that within Web Performance as well.
+Unknown Speaker
+Great. Thanks. And then back to the top six customers of platform customers, is there any change you guys are seeing in terms of your share of the traffic that you're delivering relative to what the platform company may be doing themselves for using a multi-CDN strategy for?
+Frank Thomson Leighton - Akamai Technologies, Inc.
+With the top six, we have obviously lost share to the do-it-yourself effort. We're not seeing lost share to other third-party CDNs. It's an issue with the DIY, which is the big company has their own platform and they want to try and do more of it themselves.
+Unknown Speaker
+Okay. Thanks.
+Tom Barth - Akamai Technologies, Inc.
+Okay. Thank you, everyone, and we appreciate you joining us for today. And in closing, as Jim mentioned, in addition to our 2017 Investor Summit on March 14, we will be presenting at a number of investor conferences in February and March and details of these can be found on the Investor Relations section of akamai.com.
+Thank you all for joining us, and have a wonderful evening.
+Operator
+Thank you, ladies and gentlemen, for your participation in today's conference. This does conclude the program. You may now disconnect. Good day.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+2 Authors in the Last 90 Days

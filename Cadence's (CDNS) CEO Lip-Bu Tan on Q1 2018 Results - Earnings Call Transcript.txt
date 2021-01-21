@@ -1,0 +1,238 @@
+Cadence Design Systems, Inc. (NASDAQ:CDNS) Q1 2018 Earnings Conference Call April 23, 2018  5:00 PM ET
+Executives
+Alan Lindstrom - Senior Group Director of IR
+Lip-Bu Tan - CEO
+John Wall - SVP and CFO
+Analysts
+Gary Mobley - Benchmark
+Monika Garg - KeyBanc Capital Markets
+Jay Vleeschhouwer - Griffin Securities
+Farhan Ahmad - Credit Suisse
+Rich Valera - Needham & Company
+Tom Diffely - DA Davidson
+Sterling Auty - JPMorgan
+Mitch Steves - RBC Capital Markets
+Operator
+Good afternoon. My name is Jessy, and I'll be your conference operator today. At this time, I would like to welcome everyone to the Cadence First Quarter 2018 Earnings Conference Call. [Operator Instructions] Thank you.
+I will now turn the call over to Alan Lindstrom, Senior Group Director of Investor Relations for Cadence. Please go ahead.
+Alan Lindstrom
+Thank you, Jessy, and I'd like welcome everyone to our first quarter 2018 earnings conference call. I am joined by Lip-Bu Tan, CEO; and John Wall, Senior Vice President and CFO.
+A webcast of this call is available through our Web site, cadence.com, and will be archived through June 15, 2018. A copy of today's prepared remarks will also be available on our Web site at the conclusion of today's call.
+Please note that today's discussion will contain forward-looking statements and that actual results may differ materially from those expectations. For information on the factors that could cause a difference in our results, please refer to our filings with the Securities and Exchange Commission. These include Cadence's most recent reports on Form 10-K and Form 10-Q, including the company's future filings, and the cautionary comments regarding forward-looking statements in the earnings press release we issued today.
+In addition to financial results prepared in accordance with Generally Accepted Accounting Principles, or GAAP, we will also present certain non-GAAP financial measures today. Cadence management believes that in addition to using GAAP results in evaluating our business, it can also be useful to review results using certain non-GAAP financial measures. Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with their most direct comparable GAAP financial results. The reconciliations are available at the Investor Relations section of cadence.com.
+Copies of today's press release dated April 23, 2018 for the quarter ended March 31, 2018, related financial tables, and the CFO commentary are also available on our Web site. Finally note that our 10-Q will be filed later this week.
+Now I will turn the call over to Lip-Bu.
+Lip-Bu Tan
+Good afternoon everyone. Thank you for joining us today. I am very pleased to report that Cadence achieved excellent operating results for the first quarter. Based on the strength [Ph] of our Q1 business and continuing momentum, we are raising our guidance for the year. John will provide details in a moment.
+The data-driven economy is being propelled by key technology waves of mobile, cloud/datacenter, edge computing, automotive, and more significantly, machine learning. These technologies create massive amount of data, which need to be processed, analyzed, transmitted, and installed. This require power-efficient processing, high bandwidth transmission, and high density storage, which in turn are driving an increase in design activity and broad based demand for our innovative System Design Enablement solutions.
+Now I will review some of the highlights from Q1. Our System Design Enablement strategy enabled us to increase our footprint with system companies, and tailor our solution for vertical market segments. One of this vertical segments is Aerospace and Defense, where in Q1, we expanded our business with large orders from these companies.
+Turning to products, our digital and signoff business continued its strong market momentum in Q1. We collaborated with Imec, an international research and innovation hub on the industry-first three nanometer test chip tapeout using Cadence Innovus Implementation Systems, and Genus Synthesis Solution. We continue to proliferate our digital solutions within market-shaping customers, and we have brought in adoptions amongst other customers, including a major defense contractor that would use our digital flow for in-house chip design. Both a leading networking company and a top communication processor company adopted our digital flow for seven nanometer design, continuing our momentum at the most advanced process nodes.
+We achieved strong performance with our system design and verification solutions in Q1. The Cadence Verification Suite marked a strong quarter as the business grew over 20% year-over-year. Palladium added five new customers, and we booked 17 repeat orders. And Protium S1, targeting the prototyping market continue to ramp as customers realized faster design bring up due to common front-end [Ph] with our Palladium Z1 platform.
+During the quarter, we added four new Protium customers and booked five repeat orders. Our hardware products nicely complement the software solutions in our Verification Suite; Xcelium for parallel simulation and JasperGold for formal verification. Thirteen additional customers adopted Xcelium in Q1.
+Our custom and analog design business continue to do extremely well, and we lead the market with our flagship Virtuoso product line. We introduced major enhancements to our virtual also custom IC design platform. That improved electronic system and IC design productivity. A new set of innovative methodologies and technologies including support for five nanometer nodes lead to a modern 3X reduction in FinFET layout efforts. One of our automotive customers, Bosch, endorsed a new system saying that their long-term collaboration with Cadence has lead to crucial innovation in both electrical-aware and the new electrical-driven layout design. Customers including defense contractors, analog semiconductor companies, and mobile chipmakers are adopting our Virtuoso System Design platform, especially for products using heterogeneous multi-die integration.
+Our IP business with this refined strategy and augmented roadmap is well-positioned to take advantage of continuing our sourcing trends. Momentum for our flagship DDR and PCIe products continue with significant wins, especially for seven nanometer designs. We announced a new Tensilica Vision Q6, our latest processor for embedded vision, and on device AI applications built on the new faster processor architecture. The Vision Q6 built upon our highly successful Vision P6 that is used in many leading application processors, including Kirin 970 SoC from HiSilicon.
+Finally, I want to talk about the culture we are building at Cadence that underlines all our success. We are committed to driving an innovative and incisive culture that embrace the diversity of our global workforce. The strength of our culture is highlighted by the recognition we received from Fortune. We earned the number 38 spot on the list of Fortune's Top 100 Best Companies to Work For, and are proud to make the list for the fourth year in the row. Our commitment to innovation can be seen in more than 20 significant new products that Cadence team has developed in the past three years. We are also focused on supporting our global community, and have been recognized by the Fortune as the Best Workplace for Giving Back.
+Since I joined the company, one of my top priorities had been building a culture that differentiates Cadence. We can be proud of how we have accomplished. I am encouraged by the progress we are making, and we will continue to make our culture central to our business strategy.
+Before turning it over to John, let me quickly summarize my comments. We drove excellent results through consistent execution and broad based proliferation and adoption of our solutions to meet the needs of the data-driven economy. We are raising our guidance for the year on the strength of our business. Our growing Aerospace and Defense business had a strong quarter. We continue to grow adoption of our digital flow for seven nanometer designs. And we introduced a major upgrade of our flagship Virtuoso product line for custom analog designs, and a new higher performance Tensilica processor for Vision and AI applications.
+With that, I would now turn the call over to John to review the financial results and provide our updated outlook.
+John Wall
+Thanks, Lip-Bu, and good afternoon everyone. I am very pleased to report we exceeded all of our key operating metrics in Q1. As a result of strong execution across our business, we are increasing our outlook for fiscal 2018.
+Before we get into Q1 results, I would like to remind you that Cadence has now adopted the new revenue accounting standard known as ASC Topic 606 for fiscal 2018. These new rules as we often refer to them are now GAAP to Cadence. The numbers I present for our first quarter are based on these new rules unless otherwise stated. Please also keep in mind that the numbers for 2018 under the new rules are not directly comparable to those of 2017 which were reported under ASC Topic 605, or for ease of reference, the old rules.
+Cadence use the modified retrospective transition method on adoption of the new rules. Under this transition method, rather than recast prior periods, we are required to do report our 2018 results. So, alongside our new GAAP rules, we will also provide you today our first quarter results for 2018 as reported under the old rules. These results under the old rules are directly comparable to 2017.
+Having covered that, let's go through the key results for the first quarter starting with the P&L. As reported under the new rules, total revenue was $517 million. Non-GAAP operating margin was 27.8%. GAAP EPS was $0.26, and non-GAAP EPS was $0.40. Under the old rules, for direct comparison against our Q1 2017 results, total revenue was $525 million. Non-GAAP operating margin was 29.5%. GAAP EPS was $0.30, and non-GAAP EPS was $0.44. Please note that approximately $0.04 of the year-over-year improvement in our non-GAAP EPS is directly attributable to the reduction in our effective tax rates resulting from the recent U.S. Tax Cuts and Jobs Act. Please also note that $6 million of the $8 million difference in revenue for Q1 between new rules and old rules is attributable to changes in revenue recognition for IP.
+Now turning to the balance sheet and cash flow, cash and short-term investments were $752 million at quarter-end, of which, approximately 30% was on-shore. Debt outstanding at quarter-end was $695 million. Operating cash flow was $158 million. During Q1, we used $50 million for share repurchases and $40 million to pay down borrowings under our revolving credit facility. As reported, the DSOs were 41 days. Under the old rules, DSOs were 38 days.
+I will now provide our updated guidance. On the heels of strong execution in our first quarter and continuing momentum for our business, we are raising our outlook for the year. We now expect revenue growth of approximately 8% for 2018 on an apples to apples basis under the old rules.
+For Q2, we expect the following results: revenue in the range of $510 million to $520 million, non-GAAP operating margin in the range of 27% to 28%, GAAP EPS in the range of $0.20 to $0.22, non-GAAP EPS in the range of $0.39 to $0.41, and DSOs of approximately 40 days. Our updated guidance for fiscal 2018 is: revenue in the range of $2.055 billion to $2.085 billion, non-GAAP operating margin in the range of 27% to 28%, GAAP EPS in the range of $0.86 to $0.94, non-GAAP EPS in the range of $1.57 to $1.65. We are increasing operating cash flow to a range of $510 million to $550 million, an increase of $25 million at the midpoint. And we expect to continue to repurchase Cadence common stock at the rate of $50 million per quarter during 2018.
+Please note that we expect revenue under the old rules will be approximately $30 million higher than under the new rules, with $20 million of that difference attributable to changes in revenue recognition for IP. There is no impact to our cash flows, or to how we operate our business. As a result, our implied 2018 guidance at the midpoint under the new rules or under the old rules is now revenue of approximately $2.1 billion, representing growth of 8% compared to the previous estimate of 7%, non-GAAP operating margin of approximately 28.6%, GAAP EPS of $1.01, and non-GAAP EPS of $1.70. This quarter, I especially urge you to read through our CFO commentary, which was included with our 8-K filing today, and is available on our Web site. There you will find additional information and comparisons and reconciliations for the new and old revenue accounting rules. And you can see how all of our lines of business perform throughout the first quarter of 2018.
+[Technical difficulty] verification had a particularly strong quarter with great momentum across the entire verification suites. We continue to see strength across all lines of our core software business, and our IT business is performing in line with my expectation that it will prove to be the fastest-growing part of our business for 2018 on an apples to apples basis.
+To sum up today's call, I want to highlight that I am pleased with our performance across all lines of business. I would like to thank the extended Cadence team for their financial discipline and for their drive and passion to make our customers successful [technical difficulty] projections to 8% for the year. The hard work is starting to pay off.
+With that, Operator, we will now take questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Your first question comes from Gary Mobley with Benchmark. Your line is open.
+Gary Mobley
+Good afternoon everyone. Thanks for taking my question, and congrats to a good start to the year. I wanted to start off the question about capital allocation. You mentioned that you raised your cash flow outlook for the year. You have 10 percentage points more of your cash in the U.S. now versus at the end of the year. I'm just curious why you are not getting more aggressive on your share buyback? And with respect to capital allocation, how would you characterize the M&A environment out there with respect to valuation expectations from some of the targets and whatnot?
+John Wall
+That's good question, Gary. I will take the first part, and then I will ask Lip-Bu to take the second part on M&A. But board and managements at Cadence are laser-focused on creating shareholder value. And as you know, we regularly review capital structure and capital allocation to balance investment needs, risk, liquidity, and capital returns. Also, as we said in the last call, in the first-half of this year we plan to review our overall tax position in light of the new Tax Act, including our options for the use of repatriated cash. So, that's all in focus right now.
+Lip-Bu Tan
+Yes, on the M&A front, Gary, I think the board and the management are laser-focused on creating shareholder value, strategic-driven, and disciplined approach. And our M&A philosophy had always been very disciplined, and we have to tie into our EDA's STE strategy, and also focus on customer with differentiating technology products and in attracting the best talent in term of managerial, technical talents, and also able to provide a compelling return on investment and acquisition. We have [indiscernible] with our board, with our management, who else [Ph] are accountable for all the key acquisitions. And so, that have been our discipline for doing that. So I think we're going to continue laser-focused on our internal development and using M&A to supplement our organic growth.
+Gary Mobley
+Okay. A question about the mix between systems, companies, and merchant IC companies, I know you probably get asked the question a lot, and I don't know if you have an exact figure you can state from your Q1 results, but what do you estimate your mix between systems, companies, and merchant IC companies was for the first quarter? And I guess even more specific, what would you guesstimate your non-IC design revenue contribution in Q1?
+John Wall
+So Gary, I can tell you that we haven't drilled into the mix for Q1, but the last time we measured the mix, it was around 40% system companies. I know that it hasn't changed in a while, but that's because we have seen growth from both the systems business and also our semiconductor business.
+Lip-Bu Tan
+Gary, if I can add is our system and IC business are doing well, and we put a more focus on the -- our twin [Ph] IP supporting the IC customers. And meanwhile, we will approach the System Design Enablement to tailor some of our solution in IP to meet the customer in the system side in term of driving some of the success, especially in the PCB and the System Integrity Analysis side. And now we are starting to really pursuing the automotive, and we have great success in this quarter and last quarter. Same thing with Aerospace and Defense that we highlighted this quarter, that we received multiple large orders from several defense and contractor, and aerospace companies. We are delighted some of this vertical market we are pursuing. And same thing with automotive, and in the last quarter we highlighted in a very strategic relationship with market shipping automotive maker, and income of software and hardware IP service solutions. And then the other part, we also filed last year in the beginning a large design IP with a major semiconductor customer, automotive customer. And then the other part, we are also very pursuing the cloud/datacenter, the optimization, and in term of driving some success and solution for them. You know, clearly nusemi is a great acquisition for us that we can really provide that ultra high speed connectivity for them.
+Gary Mobley
+Okay. Thank you for that. I will turn the floor over to somebody else. Thanks.
+Operator
+Your next question comes from Monika Garg with KeyBanc. Your line is open.
+Monika Garg
+Hi, thanks for taking my question. The first on the IP, though you said just looking on the ASC606, IP is kind of down $10 million year-over-year, could you maybe give us an idea how much of it is just due to accounting ASC606, and what would have in the revenue otherwise?
+John Wall
+Hi, Monika, thanks for the question. Yes, in Q1 of 2017, if you remember, it's part of our transition to the new revenue accounting standards. We recognized an extra quarter of royalties that added about $5 million to IP revenue back in Q1 2017. So yes, allow for that when you are considering growth. Also IP revenue recognition was impacted most by the 606 revenue transition; $6 million of the $8 million difference between 605 and 606 revenue for Q1 was related to IP. So, on an apples to apples basis, IP was actually up year-over-year, but -- and I made a point in my script to call out the fact that I still expect that to be the fastest-growing part of our business for 2018, and that's despite the fact that in our 10-K we highlighted that the acquisitions that we did in 2017 are not expected to generate significant revenue in 2018.
+Lip-Bu Tan
+And then Monika, I think just to add on, you know, clearly this -- where I said about IP business and also same trend is continuing. And clearly, we have some of the most differentiating IP under this new refi augmented strategy and focus on the most advanced notes. And then the other part is some of the Tensilica, we highlighted new, you know, the Q6, and then also the nusemi acquisition for the high speed 30, and then also the DDR and PCIe. So, we have a very good portfolio to drive some of the success for our system and semiconductor customers.
+Monika Garg
+Thanks for details. Lip-Bu, then as a follow-up, I think you talked in your comments about Tensilica processor for Vision, could you provide details on interest you are seeing from customers regarding this product?
+Lip-Bu Tan
+Yes, we just announced recently. And so far, the response from customer is very positive, because clearly this is based upon the success of the Vision P6. They are very broadly adopted for the application processor. And meanwhile, this is a higher performance, and also we are quietly building up our software capability to aggregate [Ph] them capability, and that we are providing the overall solution for not just the vision, not just the audio, and now we can really drive some of the embedded vision, and then on-device artificial intelligent application that will be broadly -- and hopefully will be broadly adopted.
+Monika Garg
+All right. Just the last one, after the muted performance in emulation last year, of course, given a very strong performance in '16, Q1 was very, very -- seems very strong in the functional verification, maybe could you provide more details? Thank you.
+Lip-Bu Tan
+Sure. So, I think as I highlighted, clearly we are very pleased with our System Verification suite. And that grow 20% year-over-year. And with that, clearly, our hardware business as John highlighted, we have a strong backlog from last year, and then Q1, also a very strong quarter both for Palladium and Protium. We highlighted the five new customer and then seven teams, we did order for Palladium. And then for Protium, that is a prototyping -- we are also very delighted with four new Protium S1 customers and five repeat orders. And in Xcelium, I do recall is an integration of Rocket Tag [Ph] and Incisive, and then we completely integrate together. We are delighted this quarter we have 30 new customers adopting it. So, we overall, I think verification is critical for order complex design. I think we have an entire suite from hardware and software able to provide to customer the most compelling. And also clearly, customers see the benefit of the quicker design using the same front-end as the Palladium Z1 that is very attractive for them.
+Monika Garg
+Thank you so much.
+Lip-Bu Tan
+Thank you.
+Operator
+Your next question comes from the line of Jay Vleeschhouwer with Griffin Securities. Your line is open.
+Jay Vleeschhouwer
+Thank you. Good evening. John, first, couple of questions and then finish up with Lip-Bu on the end market. John, were there any unusual increments to upfront or perpetual revenues in the quarter besides hardware, which obviously did quite well, and it looks like -- just quick inference if you might even had a record quarter for emulation, but you mentioned A and D a number of times, and strengthened -- it's an end market, and historically in EDA, Aerospace and Defense tend to prefer upfront licenses unless that's changed? So perhaps you could comment on any increment of that kind in the quarter from upfront licensing?
+And then for Lip-Bu, you highlighted some advances in sub-10 nanometer. And I'm wondering if the deal -- sorry, the flows from prior contracts carry forward into sub-10 nanometer? In other words, were the implementations done for 14 and 20, and so forth, extensible down to under-10 or are we going to see a whole new round of selection for seven and below that you are going to have to compete for? Thanks.
+John Wall
+Jay, I will take the first part of your question. I was certainly pleased with the performance of all our lines of business in Q1. Approximately 90% of our revenues recognized over time, and that was no different for Q1. So there was nothing unusual. And as you know, with our ratable model, the strong Q1 has a bigger impact on the entire year, but -- so you'll see that the Q1, the strength in Q1 has carried through into strong guidance for the year, and we continue to see strength in our custom IC and digital software business to -- let's pass it off to Lip-Bu.
+Lip-Bu Tan
+Yes. So I think, Jay, a couple of points, and one I think I highlighted with Imec collaborations, we announced three nanometer quadruple patterning test shipment successfully tapeout. We are very pleased with that. And then clearly our volume business is in the 14, 16 nanometer in term of more customer point of view, but we are moving very rapidly into the seven and five nanometer. A lot of design activity, a lot of IP engagement is in the seven and five nanometer. And so far, in every new process node, there is opportunity for us to help our customers to win in the marketplace so that they can proliferate. And so, clearly, we are excited about the opportunity in front, the tool with distributor, the processing, and then the massively parallel, that have been our advantage. And right now, we are using machine learning, learning to even drive further advantage in terms of PPA one-time, and also some of the verification we are applying our machine learning planning capability into our tool. At the end of the day, it is supporting our customers to faster to design and verify, so that they can go for production and winning the marketplace.
+Jay Vleeschhouwer
+Just to finish off with John, could you talk about your philosophy on pricing, specifically as part of your management, which you call, "Deal Quality Metrics," are you looking at pricing, or let's -- to be more specific, suboptimal pricing in the case of any specific customers more than account level, or you think in terms of pricing more broadly in terms of how you might apply price increases or less discounting, and so forth?
+John Wall
+Hi, Jay. Yes, we are very disciplined and value-driven, and very focused on pricing for Cadence, but it is a competitive business, and pricing can vary from sector-to-sector, and product-to-product. But we believe the best way to drive value from that is our products to collaborate deeply with customers to deliver innovative and clearly differentiated solutions, and that make our customer successful.
+Jay Vleeschhouwer
+All right, thank you.
+Operator
+Your next question comes from Farhan Ahmad with Credit Suisse. Your line is open.
+Farhan Ahmad
+Thanks for taking my question. Can you just talk about the division and guidance for the year, from last quarter to this quarter, what are the specific parts of the business that you think are stronger now compared to three months ago?
+John Wall
+Hi, Farhan. This is John. Yes, strength in the quarter was broad based. Functional verification had a particularly strong quarter with great momentum across the entire Verification Suite, as Lip-Bu mentioned earlier. But we continue to see strength as well in our custom IC and digital software business. And our IP business performing in line with our expectation that is going to be the fastest-growing part of Cadence on an apples to apples basis. So, it's pretty broad based.
+Farhan Ahmad
+Sorry, I meant for the year, not just for the quarter.
+John Wall
+Similarly, it's pretty broad based across the year. We expect -- I think we said last quarter that we expect all of our businesses to grow this year.
+Farhan Ahmad
+Got it. And then in emulation, Mentor Graphics recently claimed that they have taken leadership and market position in emulation. Can you just talk about the competitive dynamics in the -- within the emulation market? And how are we in terms of the product introduction cycle?
+Lip-Bu Tan
+Yes. So Farhan, this is Lip-Bu. And clearly, the hardware business -- and we are very pleased with our performance, and in term of Z1 and also our Protium S1, this is a prototyping site, and clearly in the verification, this is very important for verifying -- design. And we are excited, you know, our hardware and software would complement the full suite to really providing our customers. So I think overall we are very excited about what we have, and we made great progress 20% year-to-year growth. And we respect our competitors in what they are doing. And so, we continue to compete in the marketplace.
+Farhan Ahmad
+Got it. And then one last question on the OpEx linearity through the year, can you just talk about how we should model OpEx for the year?
+John Wall
+Right. So with the transition to the new revenue rules, if you are using the 606 numbers, that -- you would expect the commission expense to be more flat throughout the year. But -- so I think that will probably take away some of the expense profile. It should be reasonably flat throughout the year.
+Farhan Ahmad
+Got it. Thank you. That's all I have.
+John Wall
+Okay, thank you.
+Operator
+Your next question comes from Rich Valera with Needham & Company. Your line is open.
+Rich Valera
+Yes, thank you. I'd just like the follow-up on the emulation question. It seems like it's a pretty dramatic turnaround, you know, the whole category of verification was down about 5% year-over-year last year, I believe you said in your last call, and presumably hardware was down meaningfully more than that, given the relative stability of software. And now it seems like hardware is probably up quite sharply in the first quarter. So just wondering if you can give any color on what might account for that dramatic turnaround year versus year? Was it simply a matter of just really difficult comparisons in '17 off the real strong '16? Or is there anything else you could point to in the product or the marketplace for that pretty dramatic turnaround? Thank you.
+Lip-Bu Tan
+Yes, this is Lip-Bu, Rich, and thanks for the questions. And as I mentioned multiple times, hardware is a very lumpy business. And we have -- last year I think the first-half has a little soft start, but we have finished very strongly in the Q4, and that momentum carry us in the Q1. As I mentioned, we have hardware Palladium Z1, we have five new customers, and 17 repeat customers, and then orders, and then the Protium, you know, we have four new Protium customers and five repeat customers. And so, overall I think it's not just the hardware, and also our software Xcelium we have 30 new customers in this quarter. Finally, we put it together with the Rocket Tag [ph] integrations, and for the parallel simulation. And then the other part is the former verification for JasperGold. So overall, I think it's like John mentioned, across the border, the whole verification is strong, and we are delighted to provide that entire verification suites for our customers.
+Rich Valera
+Got it. And then, you specifically in 4Q called out I think real strong bookings, real strong hardware bookings, and clearly that's translated into a nice Q1. Anything you would say specifically about bookings? I know you've said numbers of customers, new customers and repeat customers, but we would you say that you had another strong bookings quarter for the hardware business in Q1?
+John Wall
+I would say that again we don't talk about bookings on a quarterly basis. And hardware is a very important component of our entire portfolio. We typically view it as the complete verification suite that I would say that we've been very disciplined and value-driven on pricing to ensure that we get the value that we believe the hardware is worth.
+Rich Valera
+Great. And then just one more, if I could on digital, I don't know if you said specifically how fast digital grew, it looks like it was kind of a double-digit number, but did you say that specific number, John?
+John Wall
+No, it was 9%.
+Rich Valera
+I'm sorry, 9%. Okay. So yes, I know that was double-digit last year. Would you be willing to hazard whether you think that might be a double-digit growth business again this year, or not willing to go there at this point?
+John Wall
+No, we are generally not going to guide or comment on individual product line growth rates for 2018, other than to say that we thought IP would likely be the fastest-growing group.
+Lip-Bu Tan
+Yes, if I can add, we are excited about our digital flow. And as I mentioned, a couple of very successful one we have, the leading networking company adopting us, and then the top provider of the communication processor adopting us on the seven nanometer. Last quarter, we highlight a premium, and the hyper scale and moving into the seven nanometer, they're using our entire suite. And overall I think it just continued our proliferation with market shipping customer, and we will continue to expand that footprint; just stay-tuned.
+Rich Valera
+Got it. Thanks very much, and very nice quarter, gentlemen, thanks.
+Lip-Bu Tan
+Thank you.
+John Wall
+Thank you.
+Operator
+Your next question comes from Tom Diffely with DA Davidson. Your line is open.
+Tom Diffely
+Yes, good afternoon. Another question on the IP front, so it sounds like 606 has about a 10% impact IP this year, I'm wondering does that reverse next year, or are there additional one-timers in the out year that would impact that as well?
+John Wall
+So, on last quarter, we talked about the -- that our expectation for the difference in total revenue between the two sets of rules was $40 million. And we thought in 2019 that would drop into about $25 million in 2019, but now we think it's $30 million at a similar proportion for the out years. And I think that if you look at IP, we think 20 of the 30 is IP for this year haven't drilled into impact in 2019, but all are saying is that we expect the impact between 606 and 605 is slightly smaller than we thought it would have been last quarter.
+Tom Diffely
+Okay. You said that same ratio roughly holds in for the year…
+John Wall
+I think so, yes.
+Tom Diffely
+Okay, and the same ratio of IP as a percentage?
+John Wall
+That's a good guess.
+Tom Diffely
+Okay. So I guess, when you look at the new kind of refined IP strategy in the market that you are serving overseas before, are you -- do you believe you are growing in line with double-digit market growth or you're going slower or faster that at this point?
+John Wall
+We are not going to specific…
+Lip-Bu Tan
+Yes, I think, you know, clearly, as we mentioned that this refined strategy and augmented growth map, just like to highlight to you, we are pursing more scalable and more profitable focus. And we are focusing on the most advanced nodes. And we are focused on customer success, and we are focus on the star IP like the 10 silica, the new semi third higher -- ultra high speed to 30. So we are going to continue to build on that. The high differentiating IP, they are the most leading-edge, and then we really focus on scalability. We don't do that kind of one-off type of things, and really focus on the quality.
+Tom Diffely
+Okay. And then just looking broader FEIT market, what is the penetration of outsource or merchant IP, and what percentage is still done in-house, and where do you think that percentage goes over time?
+Lip-Bu Tan
+Yes, I think as I mentioned, the outsourcing trend continue. I think clearly from our customer point of view, unless they are really need to have that their IP to differentiate their product offering, somewhat the industry standard, and has gone as a reliable in out -- that's how we want to position our self as a reliable, trusted, high-quality IP provider. I think over time that's a lot of room for growth, and we are excited, as John mentioned, this will be a higher percentage of growth in term of our product line. And we are excited about this IP and especially applying to some of the key vertical, either the hyper scale datacenter, the distributor datacenter, vertical datacenter, the automotive, and in term of the new aero-related area, that's a lot of very unique IP that will over time we can build and acquire to do that.
+Tom Diffely
+Okay. So, at this point you think we are at the halfway point in from an outsourcing trend line?
+Lip-Bu Tan
+Yes, I can't put down where we are, you know, -- I would -- all I can say is like the baseball terminology and still in the early round.
+Tom Diffely
+Okay, all right. Thank you.
+Lip-Bu Tan
+Thank you.
+Operator
+Your next question comes from the line of Sterling Auty with JPMorgan. Your line is open.
+Sterling Auty
+Hey, guys. Thanks. Just want to follow-up on the line of questions of IP, and I apologize if you said earlier, I'm bouncing between calls, but I get lots of questions around the autonomous driving, artificial intelligence et cetera, what is the core IP that you built at this point and what kind of demand traction are you seeing for those elements within the IP franchise?
+Lip-Bu Tan
+Yes. So I think, Sterling, first of all, we are focusing on some of this, we call it the high speed connectivity side, and either the USB or PCIe or high-speed 30, addressing some of the data storage related requirement, and then using that 10 silica to drive some of the AI autonomous driving and know how to work with vision senor-related. So I think we have two part, one is to providing our tool and IP to help our customers to design some of this EDAs and then some of this requirement for autonomous driving. And last quarter, we highlight the premium automotive maker adopting some of our key IP for doing that.
+And then the other part is really addressing some of the AI, on the vision, audio, and then on this on-device AI application and beyond, and so there is a lot, and the AI machine learning is so broad that you can move into beside the datacenter, beside the mobile autonomous driving, and even some of the medical genomics sequencing. That's a lot. It's fascinating, and we are just touching the surface. And so there's a lot of room to grow there.
+Sterling Auty
+And on those types of opportunities, has anything changed in terms of the mix of contract structure you are getting in terms of upfront versus annual subscription versus kind of the perpetual payment for that capability?
+Lip-Bu Tan
+No, not much. I think it's pretty much the same, and their requirement for their design, and so clearly there's a lot of opportunity as I mentioned earlier; I just want to add on to it, the whole silicon photonics, the whole the quantum computing and with AI, and so there's a lot of new complete [Ph] architecture come out on the hardware and software, and we are fascinatingly exciting. They are going to drive the semiconductor development growth. We see that design activity increased a lot to us.
+Sterling Auty
+That's great. One last question, we talk about digital in your growth and kind of the improvement in that space; you don't talk as much about the analog side where you guys have been so dominant through the years. Have you seen anything change on the competitive landscape in the analog franchise?
+Lip-Bu Tan
+Not a lot. Clearly that would triple down on our leadership, and then that's why we highlighted Virtuoso customizing new platform is a significant major enhancement that able to drive all the way down to five nanometer process nodes, and then with our leading partners in the foundry. And also I think we drive some of the new innovative methodology and technology that drives more than 3X [technical difficulty] asset. [Technical difficulty] in terms of customer's love, and we just highlighted one of the customer, Bosch, and they see tremendous value for that. And we also defense contractor analog semiconductor company, mobile chipmakers -- adopting our Virtuoso new tool that we just announced and the respond had been overwhelming.
+Sterling Auty
+Great, thank you.
+Lip-Bu Tan
+Thank you.
+Operator
+Your last question comes from the line of Mitch Steves with RBC Capital Markets. Your line is open.
+Mitch Steves
+Hey guys, thanks for taking my questions. So I wanted to touch really quick in the systems side. So I know you guys can't disclose customers, but is there anyway maybe give us some information on how they spend, meaning that when a systems company spins to kind of create their own chip, do they spend any differently than the kind of a standard semiconductor customer?
+Lip-Bu Tan
+In general, pretty much the same. They all want to design the silicon or their system, and then we have a very unique position, beside our tool we have IP and we also have the PCB side and the system simulation, especially the power are critical for them. And then the only different on the system guy and time to market is more critical for them, because they want to win in the marketplace. First move advantage is critical for their success. And they are more focused on the time to market, and also they are focused more on the quality of the products. And clearly to appreciate the value that we provide, and so I think we are delighted to work with them. Our job is basically make sure that our 2N IP will help them to design the most complex chip, the most complex system they have. And in some way we panel with some of our partners like Mathworks, and we are delighted to work with them and are clearly with our PSpice, and with their tool we make up more integrated solution from the system level design order chip for implementation. That is a really good outcome from automotive and then some of the new aerospace. And we are delighted. And we also, last quarter we did an acquisition on SFM and really driving the ECAD-MCAD library creation, and this whole mechatronics is really ticking off. So we are excited about all this opportunity in front of us.
+Mitch Steves
+Got it. And then just one small one, a couple of years ago, you guys have talked about system essentially increasing as a percentage of revenue, but it sounds like that's stayed the same. So maybe I guess what happened in the last couple of years that essentially cause that to be essentially the same versus original expectation of growing as a percentage of revenue?
+Lip-Bu Tan
+Yes. So far you know, overall revenue is growing and so our semi growing, and our system also growing very fast. And so we are delighted. I think both engine are growing nicely, and then John you may want to highlight.
+John Wall
+Yes. Just to highlight, so we haven't updated the analysis and the mix for Q1, but at the end of last year the mix was still around 40% for system companies and it's exactly as Lip-Bu highlighted that both system -- the growth that we are seeing across system companies and the semiconductor business is pretty much the same.
+Mitch Steves
+Okay, perfect. Thank you.
+Lip-Bu Tan
+Thank you.
+Operator
+That's all the questions that we have for today. Lip-Bu Tan, I will turn the call back to you.
+Lip-Bu Tan
+In closing, through continuous innovation and execution, we are well-positioned with our System Design Enablement strategy to further proliferate our solution with broad based of customers. And we are proud of the innovative and inclusive culture that we are building at Cadence. I will like to take this opportunity to thanks all our shareholders, customer and partners, Board of Directors, and hardworking global employees for their continued support. Thank you all for joining us this afternoon.
+Operator
+Thank you for participating in today's Cadence first quarter 2018 earnings conference call. This concludes today's call. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

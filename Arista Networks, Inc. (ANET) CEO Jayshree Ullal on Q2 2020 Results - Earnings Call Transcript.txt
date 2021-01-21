@@ -1,0 +1,329 @@
+Arista Networks, Inc. (NYSE:ANET) Q2 2020 Earnings Conference Call August  4, 2020  4:30 PM ET
+Company Participants
+Curtis McKee - Director, Corporate and Investor Development
+Jayshree Ullal - President and Chief Executive Officer
+Ita Brennan - Chief Financial Officer
+Anshul Sadana - Chief Operating Officer
+Conference Call Participants
+Rod Hall - Goldman Sachs
+Erik Suppiger - JMP Securities
+Jason Ader - William Blair
+Meta Marshall - Morgan Stanley
+Amit Daryanani - Evercore
+Paul Silverstein - Cowen
+Jim Suva - Citigroup
+Aaron Rakers - Wells Fargo
+Simon Leopold - Raymond James
+Woo Jin Ho - Bloomberg
+Jeff Kvaal - Wolfe Research
+Samik Chatterjee - JPMorgan
+Tal Liani - Bank of America
+James Fish - Piper Sandler
+Ryan Koontz - Rosenblatt Securities
+Ben Bollin - Cleveland Research
+George Notter - Jefferies
+Sami Badri - Credit Suisse
+Vinod Srinivasaraghavan - Oppenheimer
+Operator
+Welcome to the Second Quarter 2020 Arista Networks’ Financial Results Earnings Conference Call. During the call, all participants will be in a listen-only mode. After the presentation, we will conduct a question-and-answer session. Instructions will be provided at that time. [Operator Instructions] As a reminder, this conference is being recorded and will be available for replay from the Investor Relations section at the Arista website following this call.
+I will now turn the call over to Mr. Curtis McKee, Director of Corporate and Investor Development. Sir, you may begin.
+Curtis McKee
+Thank you, operator. Good afternoon, everyone and thank you for joining us. With me on today’s call are Jayshree Ullal, Arista Networks’ President and Chief Executive Officer and Ita Brennan, Arista’s Chief Financial Officer. This afternoon, Arista Networks issued a press release announcing the results for its fiscal second quarter ending June 30, 2020. If you would like a copy of the release, you can access it online at our website.
+During the course of this conference call, Arista Networks management will make forward-looking statements, including those relating to our financial outlook for the third quarter of the 2020 fiscal year, longer term financial outlooks, the potential impact of COVID-19 on our business, industry innovation, our market opportunity, the benefits of recent acquisitions and the impact of litigations, which are subject to the risks and uncertainties that we will discuss in detail in our documents filed with the SEC, specifically in our most recent Form 10-Q and Form 10-K and which could cause actual results to differ materially from those anticipated by these statements. These forward-looking statements apply as of today and you should not rely on them as representing our views in the future. We undertake no obligation to update these statements after this call. Also, please note that certain financial measures we use on this call are expressed on a non-GAAP basis and have been adjusted to exclude certain charges. We have provided reconciliations of these non-GAAP financial measures to GAAP financial measures in our earnings press release.
+With that, I will turn the call over to Jayshree.
+Jayshree Ullal
+Thank you, Curtis. Thank you, everyone for joining us this afternoon for our second quarter 2020 earnings call. To start with, I would like to address the once in a 100-year coronavirus global pandemic and reiterate our commitment to employee safety and customer response. At Arista, we recognize our role and responsibility in supporting global communications and cloud infrastructure during these mission-critical times. We are adjusting to the new work from home norm and expect this will continue throughout 2020 until vaccines or therapeutics emerge. We are working closely with our supply chain and contract manufacturers to improve lead times and support our customers in their business continuity initiatives.
+Back to Q2 specifics, we delivered revenue of $540.6 million for the quarter with a non-GAAP earnings per share of $2.11. A-Care services and software support renewals completed approximately 22% of revenue. Our non-GAAP gross margins were 64.7% influenced by software and services mix. We registered a record number of $1 million customers as a direct result of our enterprise vertical traction and continue to march towards our goal of 1 to 2 new customers a day in the second quarter. In Q2 2020, cloud tightness was the largest vertical. The enterprise is once again our second largest performer, followed by Tier 2 cloud service providers and financials tied for third space and service providers in fourth place.
+Our vertical mix in the second quarter was consistent with the prior trends that we have shared with you in May: cloud titans, approximately 40% of the mix; enterprises, including financial services approximately 35% of the mix; and providers, approximately 25% of the mix. In terms of geography, international contribution was 19% with the Americas at 81%. Regional EMEA traction was smaller than normal due to push-out of big customer decisions and reduced international cloud titan spend in the quarter. As we predicted, Arista’s Cognitive Campus portfolio met its first year 100 million objective ending June 30, 2020. While we are pleased with the traction, we believe that our new enterprise prospects will take time, especially in this COVID era. We remain hopeful and optimistic to double in the next five to six quarters to $200 million, of course, depending on market conditions.
+In terms of new innovations, last week, Arista introduced the cloud EOS router for the edge, supporting dynamic part selection services across all major cloud providers. Some of the key features include AWS transit gateway integration for seamless, automated provisioning, elastic consumption of cloud EOS across the three main cloud providers, AWS, Azure and GCP, declarative provisioning of multi-cloud through Hashi Cox terraform; and a dashboard based on Arista’s CloudVision for centralized visibility of enterprise and cloud resources.
+As we review 2020 at the midyear point, there are clearly macro issues outside our control. The number of confirmed COVID-19 cases has increased sharply in July. The economic recession is looming and trade wars are escalating. Despite this, Arista experienced a cloud titan recovery and enterprise strength in Q2 offset by extended sales cycles in the campus sector. We are also pleased with the recent leaders recognition in both Forrester’s Wave for open programmable switches in business-wide SDN with the top score in strategy category and with Gartner’s Magic Quadrant for data center and cloud networking. Gartner designated us a Magic Quadrant leader for the sixth consecutive year. These statements truly validate Arista’s premier status in networking. I believe we are well positioned in cloud networking for data center, routing, campus and new multi-cloud monitoring capabilities, enabling network migration from legacy to modern. In these unprecedented times, customers sneak our compelling advantages and we expect to emerge even stronger than many of our industry peers. We hope you are all being safe and well.
+I will now turn the call to our CFO, Ita Brennan, for financial details. Ita?
+Ita Brennan
+Thanks, Jayshree and good afternoon. This analysis of our Q2 results and our guidance for Q3 2020 is based on non-GAAP and excludes all non-cash stock-based compensation impacts, certain acquisition-related charges and other non-recurring items. A full reconciliation of our selected GAAP to non-GAAP results is provided in our earnings release.
+Total revenues in Q2 were $541 million, down 11% year-over-year, but at the upper end of our guidance are $520 million to $540 million. Approximately, 6% of this decline related to the recognition of $38 million of product deferred revenue in the second quarter of 2019. In addition, while overall demand in Q2 was reasonably healthy, we continue to experience some COVID-19 related supply challenges, resulting in extended lead time and somewhat constrained shipments for the quarter. Service revenues represented approximately 22% of total revenues, up slightly from 21% last quarter. International revenue for the quarter came in at $104.7 million or 19.4% of total revenues, down from 23% in the first quarter. While the shift in geographical mix on a quarter-over-quarter and year-over-year basis was largely due to the location of deployments by our cloud titan customers, we did see some push-out of larger opportunities in our in-region businesses also.
+Overall, gross margin in Q2 was 64.7% above the midpoint of our guidance of approximately 63% to 65% compared to last quarter at 65.6%. Operating expenses for the quarter were $144.1 million or 26.7% in revenue, down from last quarter at $149.3 million. R&D spending came in at $91.6 million or 17% of revenue consistent with last quarter. Sales and marketing expense was $41.9 million or 7.8% of revenues, down from $46 million last quarter, with lower marketing and travel-related spending. Our G&A costs come in at $10.6 million or 2% of revenue, down from last quarter of approximately $12 million.
+Our operating income for the quarter was $205.7 million, or 38.1% of revenues. Other income and expense for the quarter was a favorable $8.3 million and our effective tax rate was approximately 21.9%. This resulted in net income for the quarter of $167 million, or 30.9% of revenue. Our diluted share number was 79.3 million shares resulting in a diluted earnings per share number for the quarter of $2.11, down 13.5% from the prior year.
+Now, turning to the balance sheet. Cash, cash equivalents and investments ended the quarter at approximately $2.8 billion. We did not repurchase shares of our common stock during the second quarter. As a reminder, we have previously repurchased $494 million or 2.4 million shares against our Board authorization to repurchase $1 billion worth of shares over 3 years commencing in Q2 ‘19. We expect to continue to execute opportunistically against the remaining authorization. We generated $138 million of cash from operations in the second quarter, reflecting solid net income performance somewhat offset by incremental working capital investments. We expect to continue to strategically increase inventory levels through the end of the year as we look to improve lead times and help buffer against any future COVID-related supply chain disruptions.
+DSOs came in at 65 days, up from 61 days in Q1, reflecting the linearity of billings in the period. Inventory turns were 2.3x, down from 2.5x last quarter. Inventory increased to $327 million in the quarter, up from $262 million in the prior period. Our total deferred revenue balance was $578 million, down from $597 million in Q1. As a reminder, our deferred revenue balance is now almost exclusively services related. The level of services deferred revenue is directly linked to the timing and term of service renewals, which can vary on a quarter-by-quarter basis. Accounts payable days were 59 days, up from 43 days in Q1, reflecting the timing of inventory receipts and payments. Capital expenditures for the quarter were $2.1 million.
+Now, turning to our outlook for the third quarter and beyond. We continue to closely monitor the impact of COVID-19 around the world. Local operating restrictions remain in flux and it is unclear when and how these restrictions will finally be resolved. While we made good progress on supply chain and manufacturing during the quarter, we still have some work to do to slowly return to normal lead times. On the gross margin front, we would reiterate our overall gross margin outlook of 63% to 65%, with customer mix being the key driver. We expect to recognize some incremental COVID related freight and supply chain costs in Q3 and Q4. With all other things being equal, we’d bound gross margins closer to the midpoint of our range. On the spending side, we will continue to manage spending and investments carefully, prioritizing key projects and customer engagements, while benefiting from a natural COVID-related reduction in travel, marketing and related expenses. You should, however, expect to see us add investments back into the model as incremental revenue solidifies.
+Finally, our guidance for Q3 reflects our current understanding of COVID-19 and its impact in our business and supply chain. This is however an inherently uncertain situation and we will need to continue to monitor and attempt to mitigate new challenges as the situation unfolds. With all of this as a backdrop, our guidance for the third quarter, which is based on non-GAAP results and excludes any non-cash stock-based compensation impacts and other non-recurring items, is as follows: revenues of approximately $570 million to $590 million, gross margin of 63% to 65%, operating margin of approximately 37%. Our effective tax rate is expected to be approximately 21.9%, with diluted shares of approximately 79.6 million shares.
+I will now turn the call back to Curtis. Curtis?
+Curtis McKee
+Thank you, Ita. We are now going to move to the Q&A portion of the Arista earnings call. Due to time constraints, I would like to request that everyone please limit themselves to a single question. Thank you for your understanding. Operator, please take it away.
+Question-and-Answer Session
+Operator
+We will now begin the Q&A portion of the Arista earnings call. [Operator Instructions] Your first question comes from the line of Rod Hall from Goldman Sachs. Your line is open.
+Rod Hall
+Yes, hi, thanks for the question. I wanted to start off with their revenue trends and just ask on the verticals whether you are seeing since we didn’t see the seasonality on the quarter’s last year, whether what you have seen here is normal or similar to what you observed last year in terms of the cloud and other verticals movement from Q1 to Q2? And then secondly, I wondered if you guys could comment on the supply impacts, I know that you have said there was or we calculated about $14 million of impact last quarter. Are those – as that will come back to you here and is there any further ongoing impact on revenues in the guidance from supply chain issues or are those mostly solved now?
+Jayshree Ullal
+Hi, Rod. This is Jayshree. So in terms of seasonality, I think things got better in Q2 than this year from COVID in general. We obviously experienced a very strong come back from the cloud titans, but we also had strong traction on all the other four verticals as well. And they pretty much continued in a fairly linear fashion throughout the quarter. And in terms of manufacturing, we are still experiencing inventory issues. We have very long lead times, where we have improved – we are improving them, we look to improve them, but we don’t expect it to be back to normal till probably Q4.
+Rod Hall
+Okay. You are still getting a little bit of drag on revenues, Jayshree because of the supply chain, but maybe it sounds like maybe not as much as last quarter?
+Jayshree Ullal
+Yes, we are improving from Q1 to Q2, we will improve again from Q2 to Q3, but we won’t get back to normal till Q4.
+Rod Hall
+Great. Okay, thank you.
+Jayshree Ullal
+Thanks, Rod.
+Operator
+Your next question comes from the line of Erik Suppiger from JMP Securities. Your line is open.
+Erik Suppiger
+Yes, thanks for taking the question. Back on the supply chain, did it prevent you from shipping from upside – further upside in the quarter or were you able to – because I think you had indicated last quarter that you had inventory – sufficient inventory for the June quarter, did your supply chain prevents you from being able to make the shipments that you anticipated to make?
+Jayshree Ullal
+Well, given the guide we gave, Erik, we were able to make our quarter, but if you are asking could we have made more? We could have made more if we had more inventory.
+Erik Suppiger
+Okay, very good. Thank you.
+Jayshree Ullal
+Thanks, Erik.
+Ita Brennan
+Thanks, Erik.
+Operator
+Your next question comes from the line of Jason Ader from William Blair. Your line is open.
+Jason Ader
+Yes, thank you. Good afternoon, guys. Can you talk about the demand environment for the enterprise data center? I am not talking specifically about campus, but about data center. It seems like you had another good quarter there. Just a little bit of why you are winning there? What are some of the learnings Jayshree that you have had over the last several years selling into that market, because I know, it’s a pretty competitive market with a major incumbent. So, just talk about your success there, environment and why you are winning?
+Jayshree Ullal
+No, I think we are winning, because of really three reasons, quality and support. Customers are seeing us as being superior to our peers in every which way in that department. Our innovation is getting stronger and stronger. And then our market recognition both from industry analysts and our customers and customers tell other customers, so many of these enterprises were aware of us and are now starting to make real decisions on us both existing ones with greater land-and-expand opportunities as well as new ones. Sales cycles in the enterprises can be long. And so this is really work in progress that’s been going on for several quarters that we are seeing materialize in Q2. This may sound obvious, but also another aspect of our enterprise’s success is that the familiar customers are deepening their expansion with us for many more use cases. So not only are we winning new prospects, but we are also getting more land-and-expand opportunities. So, I think we have always pointed to the enterprise being our shining star and our brightest opportunity and now we are seeing that across the board in all the regions.
+Jason Ader
+Okay, thanks.
+Ita Brennan
+Okay. Thanks, Jason.
+Operator
+Your next question comes from the line of Meta Marshall from Morgan Stanley. Your line is open.
+Meta Marshall
+Great, thanks. I just wanted to kind of get an update on how you thought COVID was changing, how Tier 2s were thinking about build versus leveraging public cloud just given the acceleration some of them might have seen due to kind of COVID or work from home? Thanks.
+Jayshree Ullal
+Yes. No, I think, there is two ways to really look at Tier 2 cloud meter. Sometimes, they make investments and from a cost perspective, they can very much justify their investments as much more cost effective in the long run than going to the public cloud. But other times, they have a hybrid combination of also going to the public cloud to manage their cost structures. So you see a bit of both. It’s very cyclical in nature. And it really depends on which Tier 2 cloud you are talking about. So, some start on their own cloud and continue to grow the workloads and we experienced some of that in Tier 2 and others slow down a little and we experienced some of that too throughout the year as we did have some delay decisions that we hope we can pick up in the second half of the year. I think a piece of Tier 2 cloud that’s doing well for us is especially CDN. With the work from home, as you rightly mentioned, the aggregates of all that video bandwidth is starting to create investment. Not that the video itself is large, but all of all of the 4k and 8k flows that up to an aggregate bandwidth.
+Meta Marshall
+Great, thank you. Thank you.
+Jayshree Ullal
+Thank you, Meta.
+Operator
+Your next question comes from the line of Amit Daryanani from Evercore. Your line is open
+Amit Daryanani
+Thanks for taking my question. I guess Jayshree a question for you in the last couple of quarters. We have seen your revenue decline, 10% to 12%, year-over-year, while hyperscale CapEx has continued to go higher, and I totally realized hyperscale Capital is a lot more things than just Arista spend. But as we get into the back of this year, Expectations hyperscale CapEx will slow down someone and in that context should we be comfortable that Arista revenue decline starts to diminish and shrink as we exit the year or how do we think about that? 
+Jayshree Ullal
+Well, Amit first of all, you are absolutely right to say there is no one to one correlation between network CapEx and the massive cloud titan CapEx. But if you look at the cloud titan CapEx that was reported some are very high some are strong some are flattish some were down and so I think the Titans did experience a strongest spend overall, and that did affect our Q2. But as we said in the last call, and I want to reiterate, we originally thought we would be flat to down because of the strong CapEx, we now feel good about flattish, which is an improvement from down. So of course we’ll monitor this in the second half. But we believe that the overall for the year will be flat for cloud titans.
+Amit Daryanani
+Got it. Thank you.
+Jayshree Ullal
+Thank you. 
+Operator
+Your next question comes from the line of Paul Silverstein from Cowen. Your line is open.
+Paul Silverstein
+Good evening guys. Jayshree relative to long standing concern among investors but you are getting kicked off to one extent or another, whether from internally developed/white box solutions or from third-party competitors like Cisco and Arista specifically obviously referring to cloud titans. Any insight you can share with us regarding your competitive position any changes for better or worse?
+Jayshree Ullal
+Thanks, Paul, not changed for better or worse in the quarter as, Arista introduced the switch abstraction interface. So we continue to have a long history of commitment on Linux, SDK, containerized EOS, virtual. EOS, this ag EOS, SONiC support, FBOS support, O&L support, so we embrace white boxes and customers embrace Arista’s blue boxes too.
+Paul Silverstein
+Jayshree just to be clear, I’m not just referring to decisions that impacted the quarter revenue, but decisions that might have been made that could impact the latter half of this year or next year for that matter?
+Jayshree Ullal
+Yes. We don’t – I don’t know, maybe Anshul, if you are there, we can get you to give some color, but we don’t see any change in second half go ahead, Anshul?
+Anshul Sadana
+So, there is a lot of noise around this topic, and obviously created by parties that don’t have much to lose. But look, we are engaged our judgments on multiple projects, including a lot of the roadmap for our customers. So it’s not just a box they have to choose they have to build a network that scales for their business, and we are very heavily involved in their 2021 and 2022 architectures. So the high level message I would give is don’t worry, we will be fine.
+Paul Silverstein
+Anshul I apologise, but does that don’t worry, notwithstanding share loss, you will be fine because there’s so many projects you will grow notwithstanding others gaining some ground, or you saying that there will be incremental projects and you will not lose share?
+Jayshree Ullal
+Well I think we can continue in detail, but I think the message you are getting is a fundamental thesis is unchanged. We are not seeing architectural shifts or competitive losses. In fact, recent data validates that we are number one spots for the third consecutive year on 100-gig. So and our share is increasing every quarter.
+Anshul Sadana
+Thanks, Paul.
+Operator
+Okay. Your next question comes from the line of Jim Suva from Citigroup. Your line is open.
+Jim Suva
+Thank you so much. Maybe if we just look even, longer term with 400-gig coming up yet we have a coronavirus pandemic that we are working through to and it is harder to meet and have teas and coffees with people and such. Any visibility you have on 400-gig coming, whether it be discussions, are they more fruitful taking longer testing labs, how should we think about that?
+Jayshree Ullal
+Right. Thanks, Jim. Well, I think we have always told you 400-gig trials began at the end of last year, but as we said last quarter, we will be delayed from 2020 to some of them may go into 2021 due to all the things you mentioned COVID-related slowdown. You just can’t deploy 400-gig over a virtual collaboration conference. You have to do new product qualification. You have to get the optics in. That said, we are very pleased with our progress in 400-gig and we are winning tens of customers. In fact, to-date, we won over 50 customers in 400-gig. So, we are pleased with the progress, but many of them are in trials and early deployment cycles.
+Jim Suva
+Thank you so much.
+Jayshree Ullal
+Thank you, Jim.
+Operator
+Your next question comes from the line of Aaron Rakers from Wells Fargo. Your line is open.
+Aaron Rakers
+Yes, thanks for taking the question. I just want to go into the numbers a little bit, can you help us understand or appreciate the variables to gross margin? At 59.5% product gross margin, it looks like it's the lowest level we have seen. And I think, if my memory is correct, your mix between the verticals really didn't change sequentially. So, can you give some the impact that you are seeing on gross margin and how we think about product gross margin going forward? Thank you.
+Jayshree Ullal
+Yes, I mean, I think there's, the biggest driver is still the customer mix, right but you are right, it wasn't that dislocated between Q1 and Q2. I think, if you look at the last quarter, we have talked a lot about, being able to sell some inventory that previous we thought we couldn't sell or we wouldn't sell and that has given us some pickups on the gross margin side. All of that type of stuff will flow through product margins not obviously not for the services. So, now as you think about this quarter, and honestly into Q3 and Q4, we have some implemented COVID costs that we are also covering around freight logistics, just supply chain costs of kind of prioritizing supply over, over cost structure, right. So, we are going to carry some, some burden of cost around those activities through the end of the year that will all show up in that product line, right. So, I think that will move around a bit even outside of the, just the normal kind of customer mix that we have been seeing shortly.
+Aaron Rakers
+I guess just to be clear, there has been no change in pricing dynamics competitively in the market as you say.
+Ita Brennan
+I mean, is always put some face on pricing, that’s how the market was, but nothing out of the ordinary right, nothing anything new or different, right.
+Jayshree Ullal
+Yes. And just to clarify what he just said, we are experiencing COVID related greater cost structures, no changing competitive or pricing dynamics.
+Aaron Rakers
+Perfect. Thank you.
+Jayshree Ullal
+Thank you.
+Ita Brennan
+Okay.
+Operator
+Your next question comes from the line of Simon Leopold from Raymond James. Your line is open.
+Simon Leopold
+Thank you very much for taking the question. Jayshree, I appreciate you giving the guidance comment on the cloud titans. I was hoping you could clarify what baseline you are using when you talk about flat given that you had the significant revenue recognition last year, I guess the number we had been thinking you meant was a base of about $840 million in 2019, but I want to make sure I understand what you mean by flat what you are comparing it to? Thank you.
+Jayshree Ullal
+Yes, that’s actually a great question, Simon. I was just simply computing year-over-year relative to the revenue we have given, but I didn’t get into the color of deferred. Ita, you want to help me with that?
+Ita Brennan
+Yes, as you know, that commentary, Simon, is very much around demand, right. So it’s not adjusting how is the deferred. So, if you think about the cloud business year-over-year and you say, okay, it was the demand was flat, you still need to adjust out the $118 million of deferred on top of that, right. So, you will still see a decline on a revenue basis for cloud year-over-year even with the demand as Jayshree described being flat.
+Simon Leopold
+Could you tell us what dollar value you are using just to keep our life simple?
+Ita Brennan
+Off the top of my head, no, but if you take the percentages that we gave you roughly for the mix of the building this and then adjust the deferred you will get there, right. I mean, you know how much the difference is $118 million, what the spirit of the business was on a demand basis. So you can get there. We can pick it up afterwards if you want, but it's pretty straight forward.
+Simon Leopold
+Okay. Thank you very much.
+Operator
+Your next question comes from the line of Woo Jin Ho from Bloomberg. Your line is open.
+Woo Jin Ho
+Alright, great. Thank you for taking my question. So it seems you may have a new competitor in the switching market, Nokia and it’s not a competition question, more so of a market demand question. I am just curious if the telco providers have changed their purchasing or their thoughts on switching, because I know that’s been a sore spot for you guys for quite some time now and one thing that 5G is finally coming into solution for switching business for you?
+Jayshree Ullal
+Well, I think – but, I think there is very few details on exactly what the product is, but Nokia, certainly a good service provider company. And I believe while their entry into the data center and the fifth player will be difficult, and it will be tough to compete, and I don’t really see any 400-gig products available despite the marketing. We do think we have respect for them as a service provider, and especially combined with optical companies, they might find some used cases there. So I don’t think we will see, like you rightly pointed out, I don’t think we will see a direct competition with them, but they may find some use cases combining with optical.
+Woo Jin Ho
+Well is there is there an opportunity for that telco data center to finally emerge when 5G starts rolling out or you guys?
+Jayshree Ullal
+We, we are already seeing opportunity with a telco data center independent of 5G rolling out, but we certainly see that as a independent on Nokia. That’s a very real use case that Arista today participates strongly in the service provider segment.
+Woo Jin Ho
+Thank you.
+Anshul Sadana
+Thank you.
+Operator
+Your next question comes from the line of Jeff Kvaal from Wolfe Research. Your line is open.
+Jeff Kvaal
+Thank you very much, everyone. I was hoping to ask about the trajectory in cloud titans in traditionally of course, obviously, you all have been very smooth with growth in the cloud titan vertical in the last couple of years. It’s been a little less. So I think many of us have been hoping that 2021 would be back to the smooth trajectory. And I am wondering if the push out in 400-gig differs that a little bit or we should be just a little careful about how we look at 2021 given that 400-gig might come no late in the first half, or even in the middle of the year, rather than at the top of the year? Thank you.
+Jayshree Ullal
+Thank you, Jeff. I am going to say a few words and pass it to Anshul when you look at 400-gig, as I said, that’s not one, you can buy over a cup of coffee. So there is intense level of testing and, proof of concept labs that go on. And while our cloud visibility and demand is much better understood for 2020 I think it, will still take time to make this migration and from 100 to 400-gig and different cloud titans are in different stages of that migration. There are certainly all in varying forms of files, but I think you are right to say some of them will get off to a good start in 2020 late 2021 and some of them will take longer. I think what I can confidently tell you is the combination of 100-gig and 400-gig is going to be the mainstream deployment for most of our customers. Anshul you want to add to that on the 400-gig?
+Anshul Sadana
+Absolutely. Jayshree, you mentioned there is no real stall effect for 400 in the cloud, because the cloud needs to deploy capacity, they would buy whatever is available in the market and qualifies today, the market is going to bifurcate going from 100-gig into 200-gig, 400-gig and 2/400-gig in the next 1 to 2 years. And I think we will participate very well in all of these form factors. But again, the cloud is not waiting. They just build with whatever they have today. 
+Jeff Kvaal
+Okay, thank you very much.
+Jayshree Ullal
+Thanks Jeff.
+Operator
+Your next question comes from Samik Chatterjee from JPMorgan. Your line is open.
+Samik Chatterjee
+Hi, thanks for taking my question. Jayshree you mentioned you are seeing a strong comeback from the cloud earlier. And I am just wondering how you feeling ready to visibility in terms of getting back to more of a mid teens growth rate and spending from cloud customers that you had communicated at the 2019 Analyst Day and how does this set us up for 2021, where I think consensus seem to be largely embedding in a double-digit growth rate with the cloud? Thank you.
+Jayshree Ullal
+Thanks Samik. I don’t think I am ready to say we are going to grow double-digit or mid-teens on the cloud. Our numbers are so large. We will be happy to grow in the cloud period, right? I think our faster growth and traction is clearly coming from the enterprise, but the large numbers are clearly being contributed from the cloud. So time will tell, but there is too many variables to make a direct correlation for that in 2021.
+Ita Brennan
+Yes. It’s a little early to start trying to call a 2021 view just yet, with everything as all the uncertainty that there is right.
+Samik Chatterjee
+Thank you.
+Ita Brennan
+Thanks.
+Jayshree Ullal
+Thanks, Samik.
+Operator
+Your next question comes from the line of Tal Liani from Bank of America. Your line is open.
+Tal Liani
+Hi, guys. Hopefully you can hear me okay.
+Jayshree Ullal
+Yes, we can. Hi, Tal.
+Tal Liani
+Hello. I am going back to lot of the questions that kind of danced around it. Last year if I look at Q1, Q2 and Q3, you grew year-over-year 26%, 17% and 16%, pretty nice growth and this quarter, yes, you beat the numbers, but year-over-year growth is double-digit decline. So, I am trying to understand the color of the numbers beneath the surface, meaning last quarter you provided us with the numbers for the cloud vertical and I was able to see what was the growth ex-cloud vertical. I am trying to do the same thing to see where is this strength, where is the weakness and get some color around it? So can you help us with two things, first is what’s the growth with and without cloud, just so we understand the growth in the other verticals? And second, can you give us color on the profile of the cloud growth, meaning is this an existing customer that started to deploy new architectures, you mentioned in the past and because of that the demand is going up or is it just demand just after a decline you see kind of snap back in demand, etcetera. I am trying to see if there is any big trend behind the recovery in cloud? Thanks.
+Ita Brennan
+Yes. I mean, Tal, I don’t think we are going to go kind of down to that level of detail. I think if you take kind of the year-over-year growth, you have about 6% of that that relates to the deferred revenue being recognized last year. You have a step down on Facebook, which I think we have talked about before, right. They were very active in the first half through Q3 actually last year and then we saw that step down in the fourth quarter, right. And we know they are running at a lower level, we have shared that previously through this year. So, those are kind of your big drivers on the cloud without us trying to get into different use cases and products and stuff, because we are not going to do that. But those are the key kind of drivers around the cloud. And then we have seen strength in some of the other verticals and Jayshree gave the mix of the verticals again this quarter, there was nothing that unusual in the mix versus – but the breakdown that we gave you on the last call in the quarter just gone in Q2, alright. So, enterprise continues to do well, continues to grow and, cloud was better than we had expected, but still when you look at it over the year, it’s not a – it’s not a breakout, it’s solidly kind of flattish on a demand basis now versus being down when we thought coming into the year.
+Tal Liani
+And any color – maybe my second question, any color about the growth in the cloud vertical?
+Ita Brennan
+I think you can get there on the math, right. If you take out the deferred and you look at the growth on the – certainly on the revenue basis you can get there, right. We are saying for the year, we are saying the demand will be flattish for the year, right. So I am not sure there is much else that we can give you at this point.
+Tal Liani
+What I was referring to was in the past, you noted that some of the declines were because customers were looking to deploy new types of servers and as a result they reduced spending. I am trying to understand whether there is any correlation between that part and between the growth in cloud, is it just a reversion to the mean, or is there any big trend beneath it and new architectures are deployed, etcetera and that's why demand is going up?
+Jayshree Ullal
+So look, we have a number of use case expansion, Tal in 2020. And usually they come in multiple flavors either it’s adding an additional spine layer, where they are building a super spine or regional spine. It could be expanding racks to increase their server density on the network IO. And these two especially or it could be – but they are building out new data centers. So, these are the three most popular use cases we see. And we definitely saw that this quarter and we expect to see more of that this year.
+Tal Liani
+Great. Thanks so much.
+Operator
+Your next question comes from the line of Alex Kurtz from KeyBanc. Your line is open.
+Unidentified Analyst
+Hi, this is Michael on for Alex. Thanks for taking the question. As we enter the second half of the year and we start to get to the OpEx level for fiscal year ‘21, I guess how would you start to think about the timing of fiscal ‘21 leverage and the return to more normalized growth? Thanks.
+Jayshree Ullal
+Yes, I mean, I don’t know that you should expect us to drive a ton of leverage. I think we will – we talked about kind of reinvesting and bringing back some of the investments, that we talked about taking out last quarter as we see revenue and solidifying revenue growth solidify. So I think, the operating margin targets that we have out there in the long-term model is roughly the 35%, plus or minus we guided to 37% for Q3, so I don’t know that we are looking to, drive operating margins that are much higher than that. So we will continue to invest for fortunate to see kind of top line growth.
+Unidentified Analyst
+Great, Thanks 
+Operator
+Your next question comes from the line of James Fish from Piper Sandler. Your line is open.
+James Fish
+Hey, ladies, congrats on the quarter. But I just want to understand where you mainly saw the traction on the campus side is specifically on the geos given what’s going on lately in this environment because most of us are sitting at a campus anymore, and if I can just sneak in one related to this. Were there any push outs related to cloud titans? I just want to understand correctly. If the push outs were primarily just related to cloud titans internationally, is that the right way to think about it or was it something else? 
+Jayshree Ullal
+Okay, let me understand there. I get confused when there is more than one question. So let’s start with the campus first. So your question was, how did we achieve our goals when nobody’s in the office? Well, quite simply, when nobody’s in the office is everybody’s making planning decisions it’s easier to install them in the office, because no one’s there to interrupt with it. So what we found is that the engagements we have had with both existing customers and new prospects in 2019 really helped us achieve our first year goals through the first three years and there was very strong demand. And, I can’t even point to a theme on verticals. It ranged all the way from mid market enterprise to some of our large customers who are familiar with us, who really influenced our decision to be in the campus. And one of the main reasons they want us in the campus is single EOS, high-quality, one cloud vision so, and then one ability to manage both your wired and WiFi. What was your question James on the cloud titans?
+James Fish
+I just wanted to make sure I was thinking about it correctly with the push out related. It sounded like you guys said it was related to cloud titans internationally, is that correct 
+Jayshree Ullal
+No, no, no what he tried to say, was our EMEA business was weak, because the cloud titans did not order in that country. So the European piece of our cloud titan was weak and there were some push outs of European customers that pushed out a Q2, which made that number weaker than normal.
+James Fish
+Got it Thanks for the color Jayshree.
+Jayshree Ullal
+Sure. Okay. 
+Operator
+Your next question comes from the line of Ryan Koontz from Rosenblatt Securities. Your line is open. 
+Ryan Koontz
+Great, thanks for the question. circle back to your campus opportunity there can you may be walk us through some of your, your channel strategy? How much is direct versus you’re looking for a third party integrators and such to work with you? Thanks.
+Jayshree Ullal
+Yes. Now that’s a good question. Ryan. Our channel strategy is still in very early stages and evolving. In fact, if you do channel checks, I think most of you don’t hear enough about Arista. So I would say a lot of our first year success was definitely due to our direct customers focus maybe as not as 80%. However we fulfilled through the channels and through our fulfilment through the channels is also 80%. But the impact of channels I think, will kick in more in the second and third year than it did the first and I got to give a shout out to Chris Smith, Ned Chapin and a number of folks who are working on a suite of channel for [indiscernible] extremely competitive all over the world.
+Curtis McKee
+Thank you, Ryan. Operator, next caller?
+Operator
+Your next question comes from the line of Ben Bollin from Cleveland Research. Your line is open. 
+Ben Bollin
+Good evening everyone. Thank you. for taking the question Jayshree, I was hoping you could talk a little bit about how you feel the increased mix of work from home employees across broader enterprise is likely to impact longer term investments in the campus from the enterprise customer and then also you mentioned a little bit about video service provider but I’m interested if you think there is any corresponding impacts as more people are at home and that might be influencing service provider investments? Thanks.
+Jayshree Ullal
+Ben, both are very good questions. I think it really depends on how long you think work from home is going to go on. And it’s going to go on indefinitely. I think the campus investments will take longer. It will still happen. We were expecting to double every year and maybe we won’t double every year, but we will attempt to double every 18 months to 2 years. So there is very much a campus requirement, whether you call it the headquarters campus or the regional offices or the branches and Arista’s technology where we are able to unify wired and wireless in a single pane of glass is powerful. But I think we will see the decision-making take longer. So I still see the opportunity as vibrant, but the time being longer. In terms of video and service providers, again, it’s a really good question. When you look at our Tier 2, both cloud providers and service providers, the ramp in video traffic by itself, because it’s compressed workflows, aren’t that great. But the aggregate bandwidth is definitely causing more investment in both Tier 2 cloud providers and service providers. It’s a colo or peering point or a content provider. So, we are seeing that the work from home is creating an aggregate demand for bandwidth.
+Ben Bollin
+Thank you.
+Jayshree Ullal
+Thanks, [indiscernible].
+Operator
+Your next question comes from the line of George Notter from Jefferies. Your line is open.
+George Notter
+Hi, thanks very much. I guess I was going to ask about, I guess some of the bigger picture drivers, you talked about 400-gig earlier, but Intel recently delayed their 7-nanometer program around CPUs, including server CPUs. And I guess I am wondering if that impacts the server refresh model that many big internet content providers were kind of following. How do you sort of think about that bigger picture? Thanks.
+Jayshree Ullal
+Thanks, George. I think when it comes to building a network the philosophy many of the top enterprise and cloud clients take and Anshul alluded to this is build with what we have. So, we haven’t seen any delays in putting the network together because of server depreciation cycles or product acquisition cycles. So, we don’t think the Intel slip will have an immediate impact it could factor in, in 2021 or 2022, but right now, I think we don’t see any impact of the 7-nanometer, because they need IO, they need IO independent of which CPU it is. So, we feel pretty good in the near term.
+George Notter
+Thank you.
+Jayshree Ullal
+Thanks.
+Operator
+Your next question comes from the line of Sami Badri from Credit Suisse. Your line is open.
+Jayshree Ullal
+Hi, Sami.
+Sami Badri
+Hey, sorry about that. Thank you for the question. I just wanted to ask a little bit about the international opportunity there. We have seen a couple of quarters of year-on-year decline and you talked about some push-outs. However, the European region – some of the other regions that are probably going through something very similar as the United States with more cloud application consumption and people working from home, etcetera. I just want to understand what is it about the other regions that are not seeing the same magnitude of demand for the same dynamics as the U.S. from an architecture perspective, from a product perspective, how Arista inserts into it? Could you just give us any color on what explains the decline versus some of the other regions that are holding up relatively well?
+Jayshree Ullal
+Yes. So I would say three things, Sami. I think first, we just got a late start on international investments and we still see – we are still looking to see that payoff country by country and each country has its dynamics. It’s hard to lump Europe as one. The second is both quarters that you are referring to was influenced by the cloud titan and how they purchased. So, they just tended to purchase more in the United States than they did in in-country, in the region and that’s affected it. And then the third thing I would say is in general, Chris Schmidt and Ashwin Kohli and Anshul and the whole team were having more and we are having greater enterprise traction in the U.S. and bigger bets in the U.S. and we want to see the same and we have every belief and hope that we will see the same, but it’s taking a bit longer in the international locations.
+Sami Badri
+Got it. Thank you.
+Jayshree Ullal
+Thanks, Sami.
+Ita Brennan
+Thanks, Sami.
+Operator
+Your next question comes from the line of Vinod Srinivasaraghavan from Oppenheimer. Your line is open.
+Vinod Srinivasaraghavan
+Hi, thanks for taking my question. I just want to talk about your outlook to the extent that you are embedding supply and demand headwinds, would you say that the headwinds are mostly say like 75%, 80% supply chain related or are you seeing you are expecting some demand weakness or slowdown in any vertical?
+Jayshree Ullal
+Thanks, Vinod. That’s a loaded question that I may not be able to answer to your satisfaction, but I would say at least as it pertains to Q2, demand was strong and I wish we could have shipped more. And I think we will run into a little bit of that in Q3 as well albeit it’s a slow summer cycle. So, we don’t yet know about next year or we don’t know enough about Q4, but certainly Q2 –Q1, Q2 were pressured by supply chain and the second half we hope to respond to that supply chain and create more demand.
+Vinod Srinivasaraghavan
+Okay, thank you. And is there – what would you say – can you just give us a sense of your backlog, like how much of that has kind of been held up?
+Jayshree Ullal
+Yes, no, we don’t talk about backlog, but it’s safe to say we have some.
+Vinod Srinivasaraghavan
+Thank you.
+Jayshree Ullal
+Thanks, Vinod.
+Curtis McKee
+So this concludes the Arista Q2 2020 earnings call. We have posted a presentation, which provides additional information on our fiscal results, which you can access on the Investors section of our website. Thank you for joining us today and everyone be safe.
+Jayshree Ullal
+Thank you.
+Operator
+Thank you for joining us. Ladies and gentlemen, this concludes today’s call. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+2 Authors in the Last 90 Days

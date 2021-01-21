@@ -1,0 +1,265 @@
+Advanced Micro Devices, Inc. (NASDAQ:AMD) Q2 2020 Earnings Conference Call July 28, 2020  5:00 PM ET
+Company Participants
+Ruth Cotter - SVP, Worldwide Marketing, Human Resources and IR
+Lisa Su - President and CEO
+Devinder Kumar - SVP, CFO and Treasurer
+Conference Call Participants
+Mark Lipacis - Jefferies
+Vivek Arya - Bank of America
+Matt Ramsey - Cowen and Company
+Harlan Sur - JPMorgan
+Joe Moore - Morgan Stanley
+Stacy Rasgon - Bernstein Research
+Aaron Rakers - Wells Fargo
+Timothy Arcuri - UBS
+Mitch Steves - RBC Capital Markets
+Ross Seymore - Deutsche Bank
+John Pitzer - Credit Suisse
+Operator
+Hello and welcome to the AMD Second Quarter 2020 Conference call. At this time, all participants are in a listen-only mode. [Operator Instructions] A question-and-answer session will follow the formal presentation. As a reminder, this conference is being recorded.
+It is now my pleasure to turn the call over to Ruth Cotter, Senior Vice President, Marketing Human Resources and Investor Relations for AMD. Ms. Cotter, please go ahead.
+Ruth Cotter
+Thank you and welcome to AMD's Second Quarter 2020 financial results conference call. By now you should have had the opportunity to review a copy of our earnings release and slides. If you've not reviewed these documents, they can be found on the Investor Relations page of AMD's website amd.com.
+Participants on today's conference call are Dr. Lisa Su, our President and Chief Executive Officer and Devinder Kumar, our Senior Vice President, Chief Financial Officer and Treasurer. This is a live call and will be replayed via webcast on our website.
+Before we begin today, please note that AMD is scheduled to participate in several Wall Street events during the third quarter. On Tuesday, the 1st of September, Mark Papermaster, Chief Technology Officer and Executive Vice President, Technology and Engineering, will participate in the Jefferies Virtual Semiconductor IT Hardware & Communications Infrastructure Summit.
+On Tuesday, September 15th, Forrest Norrod, Senior Vice President and General Manager Datacenter and Embedded Business Solutions Group will participate virtually in the Deutsche Bank Technology Conference. In addition, our third quarter 2020 quiet time is expected to begin at the close of business on Friday the 11th of September. Today's discussion contains forward-looking statements based on current beliefs, assumptions and expectations speak only as of the current date and as such involve risks and uncertainties that could cause actual results to differ materially from our current expectations.
+Please refer to the cautionary statement in our press release for more information on the risks related to any forward-looking statements that we may make. We will refer primarily to non-GAAP financial metrics during this call, the non-GAAP financial measures referenced are reconciled to their most directly comparable GAAP financial measure in today's press release and slides posted on our website amd.com.
+Now with that, I'd like to hand the call over to Lisa. Lisa?
+Lisa Su
+Thank you, Ruth and good afternoon to all those listening in today.
+For the last five years, we have built the technical, operational and financial foundation required to drive our long-term growth strategy. We consistently executed on our product road maps, established deep partnerships with an expanded set of customers, ramped multiple products in leading edge manufacturing technologies and significantly strengthened our balance sheet.
+Our strong second quarter results and increased full-year revenue guidance demonstrate how we are successfully scaling our business through our consistent execution. Looking at the second quarter, revenue grew 26% year-over-year to $1.93 billion, driven by strong demand for our leadership server and client processors.
+We accelerated our server and mobile processor businesses significantly in the quarter, resulting in Ryzen and EPYC processor revenue more than doubling year-over-year. Importantly, we met our double-digit server processor market share goal, as data center products accounted for more than 20% of our second quarter revenue.
+Turning to our Computing and Graphics segment, second quarter revenue increased 45% year-over-year to $1.37 billion as growth in Ryzen processor sales more than offset lower graphics sales.
+We delivered our highest client processor revenue in more than 12 years. Increased working and schooling from home due to COVID-19 resulted in a strong PC market in the quarter, although, we believe our growth was largely driven by our 11th straight quarter of market share gains.
+Desktop processor sales decreased sequentially as anticipated, while revenue in ASP increased year-over-year, as demand for our higher-end Ryzen processors drove a richer mix. In mobile, we had record quarterly notebook processor unit shipments and revenue.
+Sales of our latest Ryzen 4000 series processors grew significantly in the quarter, resulting in mobile revenue growing by a strong double-digit percentage sequentially and more than doubling from a year ago as both unit shipments and ASP increased significantly.
+Multiple third party reviewers have consistently highlighted that our latest notebook processors deliver superior performance and longer battery life, compared to the competition. As a result of this strong performance, I'm pleased to report that Ryzen 4000 processor revenue has ramped faster than any mobile processor in our history.
+There are now 54 Ryzen 4000 powered notebooks in the market. We expect to continue accelerating our mobile processor business in the second half of the year as HP and Lenovo ramp their first commercial notebooks powered by Ryzen PRO-4000 Series processors and the second wave of more than 30 ultrathin, premium and gaming consumer notebooks launch from multiple OEMs.
+In Graphics, second quarter revenue declined year-over-year, as a strong double-digit increase in mobile GPU sales was more than offset by lower desktop channel sales. While desktop GPU shipments were lower year-over-year, channel sellout accelerated in the quarter. Mobile GPU revenue growth was driven by adoption of our RDNA GPUs, highlighted by the launches of new Apple professional and Dell gaming notebooks, featuring our Radeon 5000M series mobile GPUs.
+Data center GPU revenue decreased year-over-year. We expect revenue to increase in the second half of the year, as additional cloud-based visual computing wins ramp and we launch our new CDNA data center GPU architecture optimized for next-generation exascale and machine learning workloads.
+Turning to our Enterprise, Embedded and Semi-Custom segment, revenue of $565 million decreased 4% year-over-year due to lower semi-custom sales. Sequentially, revenue increased 62%, driven by record quarterly server processor sales and increased semi-custom product revenue.
+In semi-custom, we passed an important milestone in the second quarter as we began initial production and shipments of our next generation game console S0Cs. We expect strong second half semi-custom growth as we ramp production to support the holiday launches of the new PlayStation 5 and Xbox series X consoles.
+Turning to server, our focus since launching our EPYC processors has been on building a solid foundation to drive long-term growth. Our strategy is grounded in driving broad, high volume adoption with widespread support from industry-leading cloud and hardware providers.
+We passed a significant milestone in the quarter, as we achieved our double-digit server processor unit share goal, based on broad adoption across cloud, enterprise and HPC customers.
+In cloud, multiple hyperscale customers ramped second generation EPYC processors into high-volume production in the quarter to power both their internal infrastructure and publicly-available instances. Microsoft announced they have added EPYC processors to power their Office Online applications used by more than 200 million monthly users.
+Tencent ramped up multiple millions of EPYC processor-powered virtual machines to support enhanced collaboration services. Google announced that EPYC processors were being used exclusively to power their unique Confidential Computing VMs that encrypt data while it is being processed. And AWS launched global availability of new compute-optimized EPYC-based EC2 instances. In enterprise, we have significantly expanded our TAM as the number of AMD platforms has increased by more than 40% so far this year.
+Recent additions include Dell and HPE introducing multiple hyperconverged infrastructure solutions, Lenovo launching dual socket servers for financial, retail and manufacturing markets and Nvidia selecting AMD EPYC processors to power its latest DGX AI platform.
+We also secured new HPC wins based on the leadership performance and scalability of second Gen EPYC processors. Public highlights include new wins with leading research institutions including Indiana University, Purdue and CERN, as well as Amazon, IBM, Microsoft and Oracle all announcing cloud-based HPC offerings powered by EPYC processors.
+We are pleased with the momentum in our server business and expect to continue gaining share as additional 2ndGen EPYC platforms and cloud deployments ramp to volume in the second half of the year. We remain on track to begin shipping our next-generation “Milan” server processor featuring “Zen 3” late this year.
+In closing, I want to thank our employees and partners for the strong execution during this unprecedented time as we continue to focus on delivering on our commitments. While there continues to be some macroeconomic uncertainty and pockets of demand softness, our product portfolio is very strong and our markets are resilient. We are on track to deliver strong growth in the second half of the year, driven by our current product portfolio and initial shipments of our next-generation “Zen 3” CPUs and RDNA 2 GPUs that are on-track to launch in late 2020. 
+I am very proud of the progress we have made over the last few years, placing AMD on a long-term growth trajectory. I am even more excited about the opportunities in front of us as we enter our next phase of growth driven by accelerating our business in multiple markets. We remain focused on consistently gaining share across the $79 billion market for our high-performance products. We are investing significantly and have added resources to further extend our leadership IP and go-to-market capabilities, as we pursue our ambitious goal to make AMD a best-in-class growth franchise.
+Now I'd like to turn the call over to Devinder to provide some additional color on our second quarter financial performance. Devinder?
+Devinder Kumar
+Thank you, Lisa and good afternoon everyone.
+We executed the second quarter very well. Amidst the COVID-19 backdrop, we delivered strong financial results, introduced industry leading products and gained CPU market share. The second quarter results and increased full-year revenue guidance highlight our ability to consistently deliver on our commitments as we continue to drive long-term financial growth.
+Second quarter revenue was $1.93 billion, up 26% from a year ago and 8% from the prior quarter. Year-over-year growth was driven by strong Ryzen and EPYC processor sales. Gross margin was 44%, up 330 basis points from a year ago, driven by client and server processor sales. Operating expenses were $617 million, compared to $512 million a year ago, primarily due to ongoing investments in the business.
+Operating income more than doubled year-over-year to $233 million, up $122 million from a year ago, driven primarily by revenue growth. Operating margin increased to 12% as compared to 7% a year ago. Net income was $216 million, up $124 million from a year ago and diluted earnings per share were $0.18 per share compared to $0.08 per share a year ago.
+Now turning to the business segment results. Computing and Graphics segment revenue was $1.37 billion, up 45% year-over-year, driven by significant growth in Ryzen processor sales. Computing and Graphics segment operating income was $200 million or 15% of revenue, compared to $22 million or 2% of revenue a year ago.
+Enterprise, Embedded and Semi-Custom segment revenue was $565 million, down 4% year-over-year due to lower semi-custom sales, which were largely offset by higher EPYC processor sales. EESC segment operating income was $33 million, or 6% of revenue compared to operating income of $89 million a year ago.
+Turning to the balance sheet, cash and cash equivalents totaled $1.8 billion, including $200 million from our revolving line of credit, which was fully repaid in the third quarter. Inventory was $1.3 billion, up 25% from the prior quarter in anticipation of the revenue ramp in the second half of 2020 and new product launches.
+Free cash flow was $152 million in the second quarter. I am very pleased with our cash performance in the quarter, which resulted in the first half of the year being free cash flow positive. 
+Let me now turn to the outlook for the third quarter of 2020. Today's outlook is based on current expectations and contemplates the current COVID-19 environment global economic backdrop and customer demand signals.
+We expect revenue to be approximately $2.55 billion plus or minus $100 million, an increase of approximately 42% year-over-year and approximately 32% sequentially. The year-over-year and sequential increases are expected to be driven by higher Ryzen and EPYC processor sales and next-generation semi-custom products.
+In addition, for Q3 2020, we expect non-GAAP gross margin to be approximately 44%, non-GAAP operating expenses to be approximately $660 million, non-GAAP interest expense, taxes and other to be approximately $25 million and the diluted share count in the third quarter is expected to be approximately 1.23 billion shares.
+For the full-year 2020, we now expect higher annual revenue growth of approximately 32% driven by the strength of our PC, Gaming and Datacenter products. We continue to expect gross margin of approximately 45% for the full year, up two points from the prior year.
+In closing, while there continues to be global economic uncertainty due to COVID-19, we have significant opportunities ahead of us with strong product demand across multiple markets. We are in a good position to accelerate our financial momentum, expand gross margins and generate significant cash.
+With that, I'll turn it back to Ruth for the question-and-answer session. Ruth?
+Ruth Cotter
+Thank you, Devinder and operator please poll the audience for the question-and-answer session.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question today is coming from Mark Lipacis from Jefferies. Your line is now live.
+Mark Lipacis
+A question for Lisa. You've said in the past that your customers - they don't buy CPUs but they buy roadmaps and I was hoping that you could tell us about your roadmaps particularly in servers going forward, how it compares to your competition and does your - as part of that is your view of the competitive environment change after your biggest competitor last week noted a pushed a 7-nanometer process. Thank you.
+Lisa Su
+Hi, Mark. Yeah, thanks for the question. So look, we've been very focused over the last couple of years on our road map and our strategy. And for sure when we talk to our customers, it's about ensuring that they understand we have a consistent road map that is pushing the leading edge performance and ensuring that we deliver the performance improvements that we promise.
+As you know with these road maps, many of these decisions are made years in advance and so we look at process technology, as well as designing architecture and leading-edge packaging. So we feel good about our road map, we just - we updated our road maps at our Financial Analyst Day in March and we continue to be very focused on executing to our road maps.
+Mark Lipacis
+And on the - when you talk about the - your focus bodes on your transistor or the process and the architectural lead. Can you give us a sense to what extent the share gains that you're taking right now are driven by one or the other or both in would you expect to maintain a lead in both as you launch Milan and further on to in ' 21 and '22?
+Lisa Su
+Well, I would say that the road map is dependent on all of those factors. So you have to get the process technology and manufacturing right. We feel good about our road map there and our partnership with TSMC. And you also have to make the right design and architectural decisions and we feel good about our CPU roadmap.
+So right now we are on Zen 2 with Rome, we saw a very nice acceleration of our data center business due to some of the key customers that have launched. We are on track or we expect to start shipping Milan here late this year. And then we're also working in development on Zen4 which is slated for 5-nanometer.
+Operator
+Our next question today is coming from Vivek Arya from Bank of America. Your line is now live.
+Vivek Arya
+Thanks for taking my question and congratulations on the strong growth despite all the headwinds. Lisa, for my first one, when I think back to the last time AMD was really big in the server market was in that 2004 to 2006 timeframe, when market share went from 7% to 26% and kind of that 3-year or so period. How would you contrast the current environment right from whether it's from a competitive perspective or just a customer willingness to adopt your platform. What will it take for your market share to kind of approach those peaks, what are the puts and takes and how different or similar is their experience now?
+Lisa Su
+Yes, sure, Vivek, thanks for the question. So look, the server market we've said is very strategic for us. We think there is a high demand for - so we're pushing the leading edge performance. When I look at our roadmap right now, I feel very good about our roadmap. I think we have executed well to our roadmap. I think we are differentiated in terms of the performance that we're offering in the server market.
+We've always said that the datacenter market is a bit of a journey. And so this is about putting together multiple generations of strong execution. So we're pleased with where we are with Rome and the progress that we've made this year. I would say, we're still in the early innings of what we believe we can do in the server market.
+I think Rome is a very, very competitive product. I think as we go into, Milan we see that as also a very competitive product and our goal is to really satisfy a broad swath of the server workloads and we think we have the capabilities of doing that.
+Vivek Arya
+For my follow-up Lisa, so you raised full year growth outlook to 32% or so, I believe from 25%. Could you give us some more color on what's driving that upside, how much of that is coming from PCs, how much from server, how much from semi-custom and I noticed that you kept the gross margin outlook kind of steady. And I'm wondering how do we think about gross margins going forward how sensitive is that to your success in the server market? Thank you.
+Lisa Su
+Yes, so we did update full-year guidance. When we look at sort of what's changed over the last 90 days, when we were sort of talking to you in April, we were actually expecting that there might be some COVID-19 related weakness in the second half due to macroeconomic factors or other things like that. What we see now is better visibility into the second half of the year.
+And so we had originally assumed that the PC market would be down in the second half and we now expect that PCs that we will grow in the PC - in PC processors for the second half compared to the first half. We also see datacenter growing from the second half to the first half.
+And then we have our game console ramp that is a strong ramp here in the second half. So I think it's a number of factors, we do believe that the market is a little bit better than we thought 90 days ago, but we also believe that our product traction is strong and we're seeing that come through with our customer demand. So those are the reasons for the guidance.
+Vivek Arya
+Anything on gross margins?
+Lisa Su
+Oh, I'm sorry, yes. On gross margins, I think that depends a lot on mix, that depends on certainly your question was about server. Server is certainly accretive to margin. I think in the PC business, the second half of the year tends to be a bit more consumer-focused and notebook focused. And so that's some of the mix relation there.
+And then we said that the consoles are decretive to margin. We expect that consoles will be very strong in the third quarter. And although the fourth quarter will be lower for consoles, it's still going to be a very strong - strong second half of the year. So those are the puts and takes there, but we feel that the mix is about right for the annual guide at 45%.
+Operator
+Our next question today is coming from Matt Ramsey from Cowen and Company. Your line is now live.
+Matt Ramsey
+Lisa, I wanted to ask about the PC market and you just gave some comments about maybe some stronger trends and you might have anticipated 90 days ago in the back half, but pretty remarkable for the notebook business to more double than and for the second quarter to be your record client sales. I wonder if you might talk about the momentum particularly in the notebook market of the 4000. And then how are you feeling the pull of the enterprise notebook market and what's the traction like there so far into of the back half? Thank you.
+Lisa Su
+Sure, Matt. So the PC market was strong for us and the PC business was strong for us in the second quarter and as we look into the second half. What we saw was that desktops were down as expected, but the COVID-19 type phenomena has increased overall the PC market and we see a strong shift from desktop to notebooks. At the same time, I think our notebook portfolio particularly the Ryzen 4000 has done extremely well.
+We've seen strong adoption. We have over 50 platforms in market. We watch the sell-through and the consumption of those and I would say it has been very strong even exceeded our expectations for the early ramp. And our view is that the second half will continue to be good for notebooks and PCs overall and that's part of this idea that PCs are now essential.
+And so we see strength in consumer, we see strength in gaming notebooks, which we had previously been underrepresented. We have a nice commercial ramp and we do see good pipeline around commercial PCs, as well as the education market is quite strong as well. So you put that together and I think the PC business has performed well for us.
+Matt Ramsey
+As a follow-up maybe a piece of the business that's been asked about a little less frequently over the last few quarters is your gaming GPU business. And I'm interested if you could just put into context what the expectations are for improvements and new opportunities for big Navi as you launch later this year and maybe size those opportunities from a data center perspective versus what you might expect in the gaming channel. Thanks.
+Lisa Su
+Yes. So I think the graphics as we mentioned in the prepared remarks was down year-over-year. We saw a nice ramp of mobile as we launched some of the Navi based mobile products. But the desktop channel was lower. This was somewhat as expected from the standpoint of the second quarter is usually a lower quarter for the desktop channel. What we did see is that sell-through was pretty good.
+So I think gaming overall is good. We are in the process of a product transition. We are on track to launch RDNA 2 or as you call it big Navi late this year. We're excited about the RDNA 2 architecture. I think it's a full refresh for us from the top of the stack through the rest of the stack. And so I think that will be more of a contributor here as we go into later this year and into next year.
+Operator
+Your next question today is coming from Harlan Sur from JPMorgan. Your line is now live.
+Harlan Sur
+Good job on the quarterly execution. Good to see the team hit the double-digit percentage market share targets and a broadening out of the end market penetration with EPYC. Lisa just given your customer and design win pipeline and roll out of “Milan” in the back half of this year, how are you thinking or how should we be thinking about further EPYC share gains over the next 12 to 18 months?
+Lisa Su
+Sure, Harlan. So, look, we are optimistic about our product positioning in the server market, much of what we've been doing up through now frankly is making sure that our customers were ready to take advantage of Rome and EPYC. And so we saw some nice traction here in the first half of the year, particularly in the second quarter around some top cloud accounts that have started to ramp in good volume.
+As we look forward to the second half of the year, there are more platforms coming with Rome. We have a number of OEM platforms that are in the process of being launched and we have additional cloud platforms as well. So I think Rome is going to continue to be a strong driver of our growth into the second half of this year, as well as next year.
+We're excited about Milan. Milan is looking good in the labs. We're working with our customers on Milan and we expect to start shipping that later this year. So I think the way to think about our server business is again it's a journey and we're pleased with where we are today, but there is a significant opportunity for us if we continue to execute well over the next, I would say, more than 12 to 18 months. But really we see this as a multiyear opportunity.
+Harlan Sur
+Absolutely. And then as a follow-up, we do an annual CIO survey here at J.P. Morgan. For the past three years, we've been asking Global CIOs, are thinking about or planning to use EPYC based platforms for on-prem. And then the most recent survey that we did in June, we actually saw a 60% year-over-year increase in the number of CIOs that are thinking about using EPYC for on-prem our interpretation is that interest level and mind share is growing quite rapidly. I guess my question to you Lisa is the AMD - what is the AMD team seeing from an actual adoption perspective and what's your sense of your enterprise mix sort of two to three years from now?
+Lisa Su
+Yes, actually Harlan I saw that data and I thought it was good data. So the - what I would say is that we are making progress in the Enterprise business and that comes from a number of different factors. But first is the availability of platforms and we have a very diverse set of platforms from our OEM partners that are now in market. We've also done quite a bit on the ecosystem and ensuring that we have the partnerships with the ISVs. And then just basically feet on the street where we're talking directly to some of these enterprise customers.
+So, I feel good about the progress that we've made. Again, I would refer to the fact that mindshare is a leading indicator, but there is a lot for us to do to convert that into market share and revenue growth, but we feel like we're on a good path and we're going to continue to focus on both cloud and enterprise growth. And I'll also mention HPC is another key vector for us where we're very focused on showing a strong value proposition for those sort of toughest, more scientific workloads.
+Operator
+Our next question today is coming from Joe Moore from Morgan Stanley. Your line is now live.
+Joe Moore
+As a segue from the previous question, can you talk a little bit about your enterprise prospects on PC client side. Can you give us a sense for how much at this point your business is skewed to consumer and how much progress you're making there in terms of penetrating enterprise business?
+Lisa Su
+Sure Joe, no question. Our business is more consumer-weighted today. I will say, we're growing nicely in commercial PCs. I think the strength of the Ryzen 4000 product has been good for us. I think there is a lot of positivity around the performance, the battery life, the capabilities there. We continue to expand our go-to-market efforts there, we're partnering very well with our top OEM partners. So I would say that we're still under-represented in commercial, but no question that commercial notebook is a big focus for us and we're going to continue to invest and hopefully make progress in that sub-segment.
+Joe Moore
+Great. And then as a follow-up, there's been a bunch of press about console builds getting revised up meaningfully by several million units coming from Nikkei and yet your upside for the year seems fairly balanced across the segments. Can you give us just color on what's happening in that console segment, is there that much upside and could your numbers prove conservative as we move through the back half?
+Lisa Su
+Yes, so I will say that our upside is balanced across the segments. There is no question that there is a strong ramp in the second half of the year for consoles. We're continuing to increase supply to meet - to meet that demand. But overall, I view it as again consoles are multi-year cycle. And the first year I mean there is a lot of pent-up demand for consoles, but we should think about this as really a multi-year cycle and this is just the beginning of the ramp.
+Operator
+Our question today is coming from Stacy Rasgon from Bernstein Research. Your line is now live.
+Stacy Rasgon
+I wanted to follow up on that capacity point What is your capacity and supply situation look like? And is any of the full-year raise related to capacity freeing up at your foundry partners and maybe put another way, are you supply rather than demand limited at this point, what is that capacity situation look like?
+Lisa Su
+Yes, sure, Stacy. So look, we have a strong supply chain. There is no question, it's been a very dynamic year if you just think about all the puts and takes over the last four or five months. I've said before and I'll say again, 7-nanometer is tight and we continue to partner closely with our - with TSMC - to ensure that we can satisfy our customer demand.
+When you ask about the full-year raise, the full-year raise is because demand has gone up from our initial expectations and some of that is due to the market and some of that is due to the strength of our product traction. We are increasing capacity to meet those needs, but it is tight and I would say that as we continue to increase capacity, we see opportunity there. So from that standpoint demand is strong.
+Stacy Rasgon
+So my follow-up, your competitor was talking about data center, potential for data center digestion in the second half. I understand you're coming from a different place with the new product launch ramps and everything. So I understand why you are growing into the second half where they are not, but what are you seeing just broadly with your customers, are you seeing signs of the market within hyperscale entering the digestion phase even if it's not impacting you for the well understood reasons?
+Lisa Su
+Yes, Stacy, I think it's a bit hard to generalize and from our visibility what I would say is we have some customers that we see demand increasing in the second half versus the first half. We have some customers who are a little bit lower. The main thing for us and I think you said it, it's about the ramping of our platforms.
+And so I'm not sure I would point to a particular digestion phenomena. I would say it's very customer-dependent and depending on how much they built out in the first half and some customers will be up and some customers will be a little bit down, but overall we see an opportunity to grow in the second half.
+Stacy Rasgon
+Is that the same across like hyperscale and enterprise or is it mostly hyperscale driving it?
+Lisa Su
+So my comment was hyperscale comment and that's what you are asking about. When I look at enterprise, what I would say about enterprise is, it’s also different things happening. I would say in terms of enterprise and HPC, we continue to see build out. And as I said, we have new platforms ramping that I mentioned in the prepared remarks. There is a bit of softness in SMB or some of the transactional business. And again, we were not very exposed to that portion of the market.
+So I don't see it as it's going down. It's just perhaps not increasing as fast as we wanted it to. But overall, it really depends on customer-specific stuff and we don't see sort of this large scale people slowing down, I would say that way. I think there is a need for infrastructure and we see people continuing to invest in infrastructure.
+Operator
+Our next question today is coming from Aaron Rakers from Wells Fargo. Your line is now live.
+Aaron Rakers
+Congratulations on the quarter. I wanted to ask about the data center GPU business. I know you talked about the past for the CDNA product going forward. I'm just curious as you look to your cloud opportunities, how do you gauge or how are you thinking about the ability to kind of participate in some of the AI opportunities in the data center GPU business. And do you have any update on kind of ROCm- and how that has opened up opportunities or what we should expect from a software platform perspective?
+Lisa Su
+Yes, sure. Aaron. So look, I think the data center GPU business is a - it's sort of a mid-term growth vector for us. This year I mentioned in the second quarter that revenue was lower year-on-year, but the second half we expect it to go up modestly. I think the - the view is, we have good design wins in cloud gaming, we have good design wins across sort of cloud VDI type instances, very strong in supercomputing and HPC, around Frontier and El Capitan as sort of our anchor supercomputing wins.
+As it relates to machine learning and AI, we continue to invest in ROCm, we continue to work sort of our strategy around machine learning is partner deeply with a couple of large cloud vendors who can invest in the software with us and we see that as a multi-year opportunity, but it will, it's not a big revenue contributor here in 2020. But we see growth opportunity as we go into 2021 and beyond.
+Aaron Rakers
+And then as a quick follow-up, we talked a lot about kind of just ramping EPYC in a roadmap. I'm just curious of how you've invested in the support organization to support this expansion. How has that progressed, has that been at all a limiting factor to some of your ability in the server CPU market?
+Lisa Su
+Yes, I think in server CPUs, it just takes time. There is a - there is a customer qualification process that takes time. What we have, we've been very pleased with sort of the efforts on both the part of our customers, as well as sort of our own support teams. We're continuing to invest. So if you look at our OpEx, we're continuing to invest.
+One of the key areas is building out not just that support infrastructure, but just overall sales and go to market for the enterprise business. So, I feel good about where we are, our strategy was always to go through some of the top cloud customers first and I'm really pleased to see some of those get to high volume production and we'll continue to build out that infrastructure in both cloud, as well as enterprise.
+Operator
+Our next question today is coming from Timothy Arcuri from UBS. Your line is now live.
+Timothy Arcuri
+I guess, Lisa, I wanted to ask maybe in the past month or six weeks or even two months since it's become probably more apparent to the customers that your competitors having some manufacturing issues. Can you speak a little bit to the tenure of the customer conversations? Has it changed at all? Have you felt them incrementally more willing to adopt products? Thanks.
+Lisa Su
+Yes, I don't think I would say, I mean, four to six weeks is kind of a short time. I think I would back up a little bit and say over the past couple of quarters what have we seen? And I think over the past couple of quarters, what we have seen is - they've seen our performance capability and we feel very good about where our products are positioned. I think what we've also said is, look, you can count on us for consistent roadmap and we're going to show you each of those data points.
+I think the Milan point is an important point for us and that's why we're very focused on ensuring that that ships here later this year. I think the Zen 4 general point, we've already started engaging customers, customers are very eager to understand what the long-term roadmap is. And so what I would say is it's not sort of a short-term thing, it's more the notion of we feel that customers are very open across cloud, OEM enterprise, it's on us to execute and we think about that every day.
+But in terms of where the roadmap is, what are we trying to accomplish, where the customers are, there is a pull from customers to engage with us across a number of workloads, we feel well positioned.
+Timothy Arcuri
+And then I guess also in data center, I think you've highlighted before that a potential bottleneck might be to build out your software capabilities. And can you - are there any metrics you can give us in terms of your ability to attract talent, has that improved recently, sort of in terms of the number of software engineers you've hired anything like that to help? Thank you.
+Lisa Su
+Yes. So I think if you're talking about software, it's more of a GPU data center GPU statement versus a CPU statement. I think we feel actually that our CPU tools infrastructure and all that stuff is actually pretty well built out. There is some work that we do with some of the applications in the ISPs to optimize and tune our software, but I think that's going very well. As it relates to the data center GPU, yes, I think there is more mindshare. I think the supercomputing wins in the data center GPU side have really helped raise the profile of our GPU capabilities and our software capabilities.
+So I think we are in a good position there. And from our standpoint, again this is about building out sort of multiple vertical applications and doing that very well. So we continue to invest in the datacenter, it is a very strategic part of our business, but we're making good progress.
+Operator
+Our next question is coming from Mitch Steves from RBC Capital Markets. Your line is now live.
+Mitch Steves
+I wanted to focus on a little bit on a different topic, kind of comparing x86 and ARM. So I'm sure you guys saw the announcement that Apple is displacing Intel with its own ARM-based chip and historically the reason why you couldn't really use an ARM-based chip because there was no real developer around it. So I guess is there any risk or how do you guys think about ARM-based service becoming a potential competitive threat in the future? How would that impact the x86 market and Intel as well? So do you have any comments on that in terms of Apple's potential entrant in developing an ARM-based ecosystem?
+Lisa Su
+Yeah, I think what I would say is, no, there are going to be some people who develop their own chips, Apple announced it in the MAC space and there are some who are building their own in the datacenter space. I still believe this is not about ARM versus x86, I think it's more about what performance do you offer, what capabilities do you offer? Where the overall ecosystem is?
+And in that sense, I think we still feel quite confident that both the PC market, as well as the server processor market are predominantly x86. I think there is a very good set of offerings out there that are available. And it's on us, frankly on us, to make sure that the performance that you get, the power that you get, the performance per dollar, the capabilities are very, very competitive, so that we're offering, sort of the best in class processors in the market.
+Mitch Steves
+And just one small one follow-up just on the data center comment 20% of revenue, is still the data center graphics piece still a small part of the business or was that better this quarter, just trying to get a qualitative understanding what happened there?
+Lisa Su
+Yes, Mitch. So we did say that overall data center revenue was over 20% of revenue this quarter and it was predominantly CPUs. So the GPU portion of that is still relatively small.
+Mitch Steves
+So just to be clear, GPUs were not or basically flat sequentially or were they up?
+Lisa Su
+There were actually down sequentially.
+Ruth Cotter
+Operator, we'll take two more questions, please.
+Operator
+Certainly. Our next question today is coming from Ross Seymore from Deutsche Bank. Your line is now live.
+Ross Seymore
+Thanks for letting me ask a question and congrats on the strong results. Lisa, I had one short-term question and one long-term question for you. On the short-term side of things, you have some significant moving parts with new product launches et cetera in both the third and fourth quarters. So I was hoping on the 32% sequential guide if you can give a little color by the two end markets, the C&G and the EESC side. And then similar sort of thing when you go into the fourth quarter, you said semi-custom will be down sequentially which is kind of typical seasonality, but the ability for you guys to still grow sequentially. What's really driving that? And then I'll follow up with the long-term question.
+Lisa Su
+Sure. So let's see let me try to do that. So I think, so when you talk about the Q3 guide, so 32% sequentially, there is a large component of that which is game consoles, so the game console revenue was relatively modest in the second quarter and it's going to become larger here in the third quarter, but we do see PCs growing sequentially, as well as server CPUs growing sequentially.
+And then as we go into the fourth quarter, I mentioned earlier that we expect that semi- custom will be down a bit, probably not as much as it's historically down frankly because it's the first year of the launch, but it should be down a bit. And then we do have product launches that we stated around sort of the Zen 3 product families, as well as the RDNA 2 product families that would drive some of the sequential growth in the fourth quarter, does that - did I answer that?
+Ross Seymore
+Yes, that's exactly what I wanted, thank you. And then maybe this one, I'll be a little clear on the long-term side of things. An earlier question was asked about OpEx and expanding your capabilities et cetera and you gave a thoughtful answer to that. But generally speaking it seems like your opportunity is to take share in aggregate just improved due to your competitor's missteps.
+So when you look at that opportunity, how do you think about organic investment with OpEx staying at say 29% of revenues like you're talking about for this year be a good way to capitalize on that opportunity as opposed to going down to the 26% or 27% you mentioned at your Analyst Meeting or within that would you keep that a little bit tighter in line with your Analyst Meeting and maybe even consider going inorganic and tapping into the M&A market now that you have some cash in a very attractive currency to use as well?
+Lisa Su
+Yes, so yes, let me - let me answer it this way. So look, we are very excited about our organic growth opportunities. I think we want to stay sort of at that sort of very significant growth in that over 20% CAGR for the next couple of 3 or 4 years. I think the way we manage the business is the prudent way to manage the business. And so OpEx will grow, OpEx will grow and you've seen it in the dollar numbers, but it's going to grow little bit slower than revenue.
+And we think that's the right thing to do just to make sure that we do see some leverage. That being the case, because the business is growing so much, I mean we are - we are investing quite heavily in OpEx across the business in both R&D and go to market. So what was the second part of your question, Ross?
+Ross Seymore
+With just the inorganic way, would that be an avenue to broaden your offering to some of your customers?
+Lisa Su
+Well, yes, look, I think we have been focused on the organic growth path, because there is so much opportunity there. We'll look - we'll always keep an eye open for other opportunities to enhance the portfolio or do some skills acquisition, if that makes sense. But I think we're very focused on executing the organic growth path.
+Operator
+Our final question today is coming from John Pitzer from Credit Suisse. Your line is now live.
+John Pitzer
+Thanks for squeezing me and congratulations on a strong quarter. Lisa, it's really great to see embedded and the implied fourth quarter guide, a gross margin that needs to go up about 200 basis points sequentially to meet your full year guidance. And especially with gaming consoles being down less than seasonal, I'm wondering if you could just help me unpack that a little bit. When you think about the gaming console cycle, is there gross margin improvement available to you as that cycle ramps and matures? And I guess more importantly when you look at both the PC market and the server fleet, where are you relative to optimal product mix vis-à-vis kind of longer-term gross margin aspirations?
+Lisa Su
+Yes, sure. So, obviously there's a lot to happen between now and the fourth quarter, but I think from the guide what you get is, we see the server and PC growth generally positive. If you think about what we have planned from now through the rest of the year, we do have some significant new products that will start shipping, that will be positive from a gross margin standpoint.
+On a console basis, it is true that the console margins typically improve over the first sort of four to six quarters because you would expect that as we ramp into higher volume that there are improvements in manufacturing costs and so on and so forth.
+So those are the factors that are in there. A lot will depend on mix and the mix of the business being, what is the mix of consumer versus commercial on the PC side and then on the datacenter side, the mix between cloud and enterprise. And so we have to see how some of those things play out as we go out through - through the end of the year. But overall I think the trend is such that you should see sequential growth in the gross margins as we go into the fourth quarter for some of the reasons that I mentioned.
+John Pitzer
+That's helpful. Then Lisa as a follow-on, you've always talked about this being a marathon more than a sprint. And you guys have had a pretty methodical strategy to which you've executed to. But I just - given the revelations of Intel's missteps last week, what might you do differently from here to try to take advantage of it?
+Lisa Su
+Well, John, I think the most important thing for us is to execute to our commitments to customers and that by the way, that's been the same focus for us over the last few years and it will continue to be the same focus for the next few years. I think consistency in roadmap, consistency in performance, expectations being capable of ramping across basically what we're asking is for people to trust us with their most important applications.
+And so our focus is very much execute on the roadmap that we've committed to and that's, that's key for us. And no question there is a lot of, a lot of things to do in engineering to get that - to make that happen, but I think we're very clear on what we want to deliver and we're excited, frankly, about the roadmap we have in front of us.
+Ruth Cotter
+Thank you everybody for joining the call today, we appreciate it and we look forward to seeing many of you virtually throughout the quarter. Operator, if you can close the call please.
+Operator
+Certainly, that does conclude today's teleconference. You may disconnect your line at this time and have a wonderful day. We thank you for your participation today.
+[AMD Official Use Only - Internal Distribution Only]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+11 Authors in the Last 90 Days

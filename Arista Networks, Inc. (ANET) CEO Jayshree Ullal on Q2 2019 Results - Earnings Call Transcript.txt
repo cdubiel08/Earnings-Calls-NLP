@@ -1,0 +1,443 @@
+Arista Networks, Inc. (NYSE:ANET) Q2 2019 Earnings Conference Call August  1, 2019  4:30 PM ET
+Company Participants
+Chuck Elliott - Director of Business & Investor Development
+Jayshree Ullal - President & Chief Executive Officer
+Ita Brennan - Chief Financial Officer
+Anshul Sadana - Chief Operating Officer
+Andy Bechtolsheim - Founder, Chief Development Officer & Chairman
+Conference Call Participants
+Jason Ader - William Blair
+James Fish - Piper Jaffray
+Rod Hall - Goldman Sachs
+Ittai Kidron - Oppenheimer
+Alex Kurtz - KeyBanc Capital Markets
+Aaron Rakers - Wells Fargo
+Jeff Kvaal - Nomura Instinet
+Tejas Venkatesh - UBS
+James Faucette - Morgan Stanley
+Paul Silverstein - Cowen & Company
+Alex Henderson - Needham
+Jim Suva - Citi
+Simon Leopold - Raymond James
+Samik Chatterjee - JP Morgan
+Mitch Steves - RBC Capital Markets
+Hendi Susanto - Gabelli Research
+Brian Young - Deutsche Bank
+Operator
+Welcome to the Second Quarter 2019 Arista Networks Financial Results Earnings Conference Call. During the call, all participants will be in a listen-only mode. After the presentation, we will conduct a question-and-answer session. Instructions will be provided at that time. [Operator Instructions] As a reminder, this conference is being recorded and will be available for replay from the Investor Relations section at the Arista website following this call.
+I will now turn the call over to Mr. Chuck Elliott, Director of Business and Investor Development. Sir, you may begin.
+Chuck Elliott
+Thank you, operator. Good afternoon, everyone, and thank you for joining us.
+With me on today's call are Jayshree Ullal, Arista Networks President and Chief Executive Officer; and Ita Brennan, Arista's Chief Financial Officer. This afternoon, Arista Networks issued a press release announcing the results for its fiscal second quarter ended June 30, 2019. If you would like a copy of the release, you can access it online at the company's website.
+During the course of this conference call, Arista Networks management will make forward-looking statements including those relating to our financial outlook for the third quarter of the 2019 fiscal year, industry innovation, our market opportunity, the benefits of recent acquisitions, and the impact of litigation, which are subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC, specifically in our most recent Form 10-Q and Form 10-K and which could cause actual results to differ materially from those anticipated by these statements.
+These forward-looking statements apply as of today, and you should not rely on them as representing our views in the future. We undertake no obligation to update these statements after this call. Also, please note that certain financial measures we use on this call are expressed on a non-GAAP basis and have been adjusted to exclude certain charges. We have provided reconciliations of these non-GAAP financial measures to GAAP financial measures in our earnings press release.
+With that, I'll turn the call over to Jayshree.
+Jayshree Ullal
+Thank you, Chuck. Thank you, everyone, for joining us this afternoon for our second quarter 2019 earnings call. Our profitability growth combination was once again demonstrated with a non-GAAP revenue of $608.3 million, while non-GAAP earnings per share grew to a record $2.44. Services contributed 15.6% of revenue.
+We delivered non-GAAP gross margins of 64.7% influenced by our solid performance from our enterprise vertical. We registered record number of new customers in calendar Q2 and continue to drive new customer logo expansion at the rate of one to two per day throughout the quarter.
+In terms of verticals, the cloud titan segment remained our largest vertical. The modern enterprise high-tech segment is now consistently becoming our second largest with financials in third place, Tier 2 specialty cloud providers and service provider, coming in at fourth and fifth place.
+In terms of geography mix, in Q2, 2019, the international contribution was 27%, while the Americas were at 73%. We had a band a quarter for new products in Q2 2019. We launched two 400 Gigabit product families during Q2 with the Arista R3 Series for modular 7,500 and 7,280 models, as well as a brand new Arista 7,800 chassis family for 400 gig switching and routing based on the Broadcom Jericho2 silicon. This is enabling our flagship EOS and uncompromising multi terabit capacity and availability.
+We have now launched 10, 400 gig platforms, and Arista has more 400 gig products than any other peer. We have begun active product qualification with more meaningful 400 gig revenue really expected next year in 2020. Given the recent industry news, I wanted to take this opportunity to comment on 400 gig optics.
+So to join me on this is Andy Bechtolsheim, our Chief Development Officer, and Chairman, who will speak more about this. Andy?
+Andy Bechtolsheim
+Thanks, Jayshree. The first observation on optics, is that in the cloud, particle optics have led to the disaggregated business model between the switch and the optics vendors with virtually all optics in the cloud being purchased directly from optics vendors. Cloud providers typically qualify at least three optics vendors to ensure lowest cost and diversity of supply and we don't see that changing with 400 gig.
+In the case of 400 gig CR, which is the long distance optics that one ship in volume until mid 2020, we are aware of one dozen optics module vendors that plan to offer compatible 400 gig CR modules competing on the basis of price, quality and volume availability. We do believe that 400 gig CR will be a very competitive market with competition that will drive unprecedented price performance improvements for 400 gig coherent optics.
+We work closely with our largest customers to qualify all 400 gig optics including 400 gig CR that are relevant to them with the objective to deliver the most cost effective 400 gig optic solutions to the market.
+Jayshree Ullal
+Thank you, Andy. So speaking of new products, we also introduced Arista's first entry into the cognitive campus edge with our 720XP Power over Ethernet switches and our new WiFi6 offerings, all of which are supporting CloudVision for the campus, flow based telemetry and security segmentation services. With this Arista establishes an exciting and formal complete cognitive portfolio addressing the transitional changes in the campus security and IoT era. We are in early field trials now and we expect more results in the second half 2019.
+So speaking of second half 2019, as you all know, we experienced some turbulence in Q2, 2019 with the pause of a specific cloud titan set of orders. They have now resumed spending, and we expect stabilization in second half 2019 for the overall cloud titan spent.
+Certainly, second half will be an improvement over the first half, but we do not expect the cloud momentum to be a repeat of second half 2018. Naturally, these trends are consistent with the annual cloud CapEx forecast reported in recent weeks.
+Our enterprise segment is healthy with growing interest in our campus and multi-cloud migrations. On June 6, 2019, we celebrated our five year IPO anniversary at the New York Stock Exchange with both our premier customers and analysts.
+Our deep collaboration with Microsoft was evidenced with CEO, Satya Nadella joining me at our special event as our chief guest. Together, the two companies share a synergistic vision in cloud area networking. We announced Microsoft Azure cloud integration including V WAN and IoT Center.
+As our customers migrate to a cloud-led strategy, bringing holistic client to any cloud experience, we are seeing a compelling conviction in Arista as their strategic partner. I am proud to share that for the fifth consecutive year, we have also attained a status as the leader in Gartner's Magic Quadrant for Data Center networking, with our strongest showing yet in both vision and ability to execute.
+And with that, I'd like to turn it over to Ita for more financial specifics.
+Ita Brennan
+Thanks, Jayshree, and good afternoon. This analysis of our Q2 results and our guidance for Q3 2019 is based on non-GAAP and excludes our non-cash stock-based compensation impacts, certain acquisition-related charges and other non-recurring items. A full reconciliation of our selected GAAP to non-GAAP results is provided in our earnings release.
+Total revenues in Q2 were $608.3 million, up 17% year-over-year and above the midpoint of our guidance of $600 million to $610 million. Service revenues remained strong, representing approximately 15.6% of revenue, up from 15.1% last quarter, reflecting a healthy level of renewals activity.
+International revenues for the quarter came in at a $162 million or 27% of total revenue, up from 26% in the prior period. Overall gross margin in Q2 was 64.7% above the midpoint of our guidance of 64% to 65% and up from 64.5% last quarter. Gross margin in the period benefited from a lower cloud contribution combined with healthy enterprise and services performance.
+Operating expenses for the quarter were $158.7 million or 26.1% of revenue, down slightly from last quarter at $160.7 million. R&D spending came in at $101.7 million or 16.7% of revenue, down from $106.5 million last quarter. This reflected lower levels of new product related NRE and prototype spending in the period.
+Sales and marketing expense was $45.1 million or 7.4% of revenue, up from last quarter with increased headcount, somewhat offset by some reductions in other sales costs.
+Our G&A costs were $11.9 million or 2% of revenue, up slightly from last quarter. Our operating income for the quarter was $235.1 million or 38.7% of revenue. Other income and expense for the quarter was a favorable $13.8 million and our effective tax rate was lower at approximately 20%. This resulted in net income for the quarter of $198.6 million or 32.7% of revenue.
+Our diluted share number for the quarter was 81.3 million shares, resulting in a diluted earnings per share number for the quarter of $2.44, up 26.4% from the prior year.
+Now turning to the balance sheet. Cash, cash equivalents, and investments ended the quarter at approximately $2.3 billion. We repurchased $100 million of our common stock during the quarter at a weighted average price of $246 per share.
+As a reminder, our Board of Directors has authorized a three-year $1 billion stock repurchase program commencing in Q2 2019. The program allows us to repurchase shares of our common stock opportunistically and will be funded from operating cash flows.
+We generated $196 million of cash from operations in the second quarter, reflecting strong net income performance, offset by increased working capital requirements and a reduction in deferred revenue.
+DSOs came in at 51 days, up from 41 days in Q1, reflecting the timing of billings in the period. Inventory turns were 2.4 times, down slightly from 2.5 last quarter. Inventory decreased to $314.2 million in the quarter, down from $347.2 million in the prior period.
+Our total deferred revenue balance of $502.2 million, down from $536.5 million in Q1. Our product deferred revenue balance decreased by approximately $38 million in the quarter, reflecting customer acceptance of new features.
+Accounts payable days were 37 days, down from 38 days in Q1, reflecting the timing of inventory receipts and payments. Capital expenditures for the quarter were $3.4 million.
+Now turning to our outlook for the third quarter and beyond. As expected, we experienced some softness in demand from our cloud customers in the second quarter. While early indications are for improved demand from these customers in the September period, we believe that second-half growth in this business will remain somewhat muted as compared to prior years. We expect our enterprise and financial verticals to continue to perform well, offset by some declines in the service provider business.
+On the gross margin front, we would reiterate our overall gross margin outlook of 63% to 65% with customer mix being the key driver. We will continue to manage investments in the business carefully, prioritizing growth in sales headcount and resources, as we look to expand our market coverage. With this as a backdrop, our guidance for the third quarter, which is based on non-GAAP results and excludes any non-cash stock-based compensation impacts and other non-recurring items is as follows.
+Revenues of approximately $647 million to $657 million, gross margins of approximately 63% to 65%, operating margin of approximately 36%, our effective tax rate is expected to be approximately 20.5%, with diluted shares of approximately $81.9 million.
+I will now turn the call back to Chuck. Chuck?
+Chuck Elliott
+Thank you, Ita. We are now going to move to the Q&A portion of the Arista earnings call. Due to time constraints, I'd like to request that everyone please limit themselves to a single question.
+Question-and-Answer Session
+Operator
+We will now begin the Q&A portion of the Arista earnings call. [Operator Instructions] Your first question comes from Jason Ader with William Blair. Your line is open.
+Jason Ader
+Thank you. Jayshree, on the campus side, can you provide any metrics, customer winds, anything that is worth investment you -- investor community knowing about, in terms of tracking your progress there.
+Jayshree Ullal
+Thanks, Jason. As you know, we introduced the products in June at the end of the day in June 6, and we said most of them would be available in Q3. So, it's a little early to be giving customer winds, but I can say with confidence that we are in very many early field trials with customers to the tune of 10s of them, and Anshul and the team have been having very, very good interactions, and I fully expect that we'll have more results in Q3, Q4, and certainly much of next year.
+Jason Ader
+And how do you respond to somebody that says, okay, you guys have done well on the enterprise side with data center switching, but the campus side is a much more complex sale from the standpoint of typically channels or -- channels are involved. A lot is wireless, there's potentially security. This is a lot more going on with the campus, a major campus deployment. How do you help people get comfortable that you guys will be able to replicate some of the success you've had on the data center side?
+Jayshree Ullal
+Yeah. So step back for a moment and ask when did we get our success in the data center with enterprise. It was five years after we started shipping products. We didn't even report much on the data center. We mostly focused on the niche of financials and the cloud in the early years, right?
+So I'm pretty sure we won't take five years to enter the campus market, but I'm here to say that the traction with enterprise really come in three categories, the early adopters, who already love our EOS, and therefore, that's going to be the fastest place of attraction.
+The CloudVision, don't underestimate that, where they're looking for that single point of management and single pane of glass, and then to your point, the third one will be new channels, new partners, new systems integrators.
+So, if you look at those three segments, we can start playing in two out of the three already. And so my response would be that the campus technology in many ways is no different than the data center. It's very similar in Layer-2, Layer-3 protocols, and customers who have appreciated us for the last five years with EOS and CloudVision are the first points of success for us.
+The second point of success, which is new customers and new logos will take longer, and -- but campus for us is a multi-year journey, and as I said many times before, I'd be very happy if we did, our first year was $100 million, because I think it sows the right seeds for $0.5 billion and $1 billion in the future, but none of us should think this is an overnight one quarter journey, this is a three to five year journey.
+Jason Ader
+Thank you.
+Jayshree Ullal
+Thank you, Jason.
+Operator
+Your next question comes from James Fish with Piper Jaffray. Your line is open.
+James Fish
+Hi. Congrats on the quarter. Just one for me is Ita. How should we think about the impact of the 25% tariff on the gross margin guide? Obviously you're reiterating to 63% to 65%. But if we were to get a trade deal tomorrow, I guess, how much would gross margins be positively impacted? And or have you done enough to kind of offset it from a supply chain perspective. Thanks.
+Ita Brennan
+Yeah, I mean, I think we've been working on improving the supply chain and addressing some of the issues with the supply chain and at the same time, obviously, we've had an adder to customers, which we've also been managing, and as the tariff rates have changed, we've been fortunate enough we've made enough progress that we've been able to kind of hold or marginally increase that customer adder.
+And I think with the new news that we heard just before the call, I think that's still the case. Right. We believe that we've done enough from a supply chain perspective that we should have minimal impact. But I wouldn't think that there is a big swing in gross margin, one way or the other, if either it went away completely tomorrow or we continue to see some changes in it. I think we've done enough work where it's kind of mostly neutral from a gross margin P&L perspective.
+Jayshree Ullal
+Yeah, James. Just to add to that, with a 63% to 65% range, we think the tariff can have impact on the gross margin, but it will be within that range of 63% to 65%, and as Ita said, the manufacturing team has done the tremendous amount of work. We are not immune to the tariffs. We absolutely are affected by it. And, but I think the effect will be minimal.
+James Fish
+Yeah. Got it. Appreciate the color. Thank you.
+Jayshree Ullal
+Thank you.
+Operator
+Your next question comes from Rod Hall with Goldman Sachs. Your line is open.
+Rod Hall
+Yeah, hi guys, thanks for the question. I guess, I'd just ask you, you had said that the large cloud titan orders had dropped to almost zero in the middle of March. And you didn't really have good visibility on when those might return. It seems like they resumed spending per your comments. When would you expect spending there to be back to normal, or is there some new level normal? Can you just give us some kind of an idea of what sort of visibility you have? And how you see that progressing over the next few quarters?
+Jayshree Ullal
+Well, I think, first of all, Rod. The new level of norm has changed. We shouldn't use 2017 and 2018 as our frame of reference, right? So, first half was a real adjustment for us to the norm in 2017 and 2018. Having said that, I think we – you've all seen the CapEx reports and depending on whose CapEx you're talking about, they have all gone from double-digit growth to single-digit and some of them are negative. So you can expect that the new norm is no more double-digit growth and it's going to hover in the low single digits. Anshul, would you like to add some more to that.
+Anshul Sadana
+Sure. We mentioned this last time, but I want to reiterate, which is there was no design loss. The cloud titan has un-paused, or they're back to normal spending that they do and the allocations were unchanged. Which is why – 
+Rod Hall
+Is this the reason -- that you guys had called out?
+Jayshree Ullal
+Sorry, can you repeat the question, Rod?
+Rod Hall
+You guys, just to clarify Jayshree, you guys had said there is an inventory and they were using inventory last quarter. I just wondered where we are in the process of them utilizing that inventory. Is it all done or they're still utilizing out of inventory as well?
+Jayshree Ullal
+I don't think we made an explicit comment that they had extraordinary inventory levels. It's difficult to have some. The real reason for our Q2 turbulence was a very conscious decision on the part of a specific cloud titan to put orders on pause, and those have resumed. And they've resumed at levels that are improved over the first half, but nowhere close to the second half of 2018. So – 
+Rod Hall
+Okay. Thank you very much. Appreciate it.
+Jayshree Ullal
+Inventory was not the reason.
+Rod Hall
+Right, got it. Thank you.
+Jayshree Ullal
+Thanks, Rod.
+Operator
+Your next question comes from Ittai Kidron with Oppenheimer. Your line is open.
+Ittai Kidron
+Thanks, congrats ladies, and Andy, and Anshul, I guess so everyone. Great quarter.
+Jayshree Ullal
+Well, there is a broader definition of ladies now.
+Ittai Kidron
+Yes, that is true. I guess, I do want to kind of drill down again on the cloud. I just want to make sure I understand that you claim stabilization. I guess, I'm kind of wondering, has there been a change in the way they communicate with you? Because it was a surprise last quarter. I guess, what makes you comfortable that they're not going to surprise you here, and I know anything can happen, but has there been a change in the way you communicate with them such that gives you confidence that there is a stabilization?
+Jayshree Ullal
+Ittai, that's a good question. I'm not trying to imply that they couldn't make further changes on their business side, right? What I am trying to say and again Anshul can clarify is, we're literally taking this one quarter at a time. And at this point, we see stabilization in Q3. And anything can change in Q4, but if we had to predict, I think with the stabilization in Q3 could carry on to Q4, that's what they're saying, who knows what's going to happen in 2020, your guess is as good as mine, but maybe Anshul knows better, you want to add something.
+Anshul Sadana
+But I don't know anything about the future.
+Jayshree Ullal
+Good one.
+Anshul Sadana
+The Q2 communication was sudden, but it was a very rare event for them. And otherwise, our communication has been very normal back and forth that you expect between our customer and us and the engineering collaboration as well as planning for next gen designs. So, nothing really extraordinary there, everything is very, very normal now.
+Ittai Kidron
+Very good, and Ita, just so you don't feel lonely here. A question on the OpEx, at the midpoint of your guide, there is quite a significant increase quarter-over-quarter and expenses, help me, I know, you probably want to be some conservatism built in there, but nonetheless, is there an unusual level of prototyping that's happening every quarter? Help me get my hands around, how would I explain out about a $20 million to $24 million quarter-over-quarter increase in OpEx, which is something that you've never really done?
+Ita Brennan
+Yeah, I mean, I think there is definitely some reserving the right to make some investments If you want to included in there, and then I think the rest of it is we did push hard on R&D, we talked about them in the last call that we would prioritize sales and marketing and maybe, push a little bit harder in R&D, just given the quarter that we were heading into, and obviously the intention is to kind of not to continue to do that. So you will see some increase in R&D as we move through this next quarter.
+Ittai Kidron
+Great. Best of luck.
+Jayshree Ullal
+Our R&D cycles, Ittai, with new product, right. So we can always time it and we've got so much new product coming out of our years is one of the things we're very proud of and that has a natural impact on prototype expense.
+Ittai Kidron
+Got it. Good stuff. Good luck.
+Jayshree Ullal
+Thank you.
+Operator
+Your next question comes from Alex Kurtz with KeyBanc Capital Markets. Your line is open.
+Alex Kurtz
+Yeah, thanks. Can you guys hear me okay?
+Jayshree Ullal
+Yeah.
+Alex Kurtz
+All right. Just a clarification and a question. So, Jayshree on your comments about the large cloud titan and the resumption in the second half, do you see them changing how they use their networks and like the capacity in the utilization and quote unquote how hot they run their networks? Because that one cloud titan obviously is chasing other cloud titan for business and I think the underlying investor assumption is they'll continue to invest to compete. And so I'm just try to understand, do you think given all the understanding of their network that you have, are they making a pivot and how they run their network?
+Jayshree Ullal
+Again, Alex, I'll comment, and Anshul's closer to it. So he can give more detail. We have not seen any appreciable changes on gosh, I'm going to optimize for the last megabit of bandwidth or anything like that. There has been a general increase in spend due to the 100 gigabit common denominator across all layers of the Leaf-Spine network, including the data center interconnect that will vary on 400 gig. Some cloud titans may stay on 100 gig longer, some may go to 400 gig faster, some actually pick 200 gig. So we do see the sort of the personality performance changes, but we don't see any major bandwidth planning down to the megabit at all.
+One thing I'll add and Anshul can comment to that, is one thing we also see is, I've always said, we're in the early innings, but that counts on the fact that the cloud titan is going to continue to invest in new regions and new locations for data centers. More than your performance bandwidth, I expect, we will see more planning around where they put their data centers, and some of them may not open new data centers and some may rely on a more incremental strategy.
+Anshul Sadana
+Yes. Alex, most of the commentary in the industry right now about optimizations so I believe is tied more to compiler computer virtualization optimizations. As you know the networking spend on switches and routers, it is in the range of 6% to 7% of their total CapEx. So they're not going to try and squeeze that and create a bottleneck, which impacts the remaining 93%. So the network has to run error free and no one is trying to try and optimize beyond what we have managed to do by providing a very competitive offering.
+Alex Kurtz 
+Thank you, Anshul. Then Ita, on the maintenance support number, it looked like it missed the consensus estimates by a pretty wide margin. You obviously did well on product, was there something that's -- there was some mix on the balance sheet as far as deferred or that we should understand as far as why there was a disconnect there, anything that we should be aware of contextually around the maintenance and support execution in the quarter?
+Ita Brennan
+No, I mean, I think if you look at the percentage of revenue, it's pretty consistent, right, quarter-over-quarter. You're talking about the services revenue on the…
+Alex Kurtz 
+Yes.
+Ita Brennan
+Yes. I mean I don't think there is anything unusual there. We don't guide it specifically. Right?
+Alex Kurtz 
+Yes, I know.
+Jayshree Ullal 
+I mean, it tends to be high in Q1 or Q4, because this is very normal -- yes, this is very normal, Alex.
+Ita Brennan 
+Percentage of revenue, it wasn't that different. So I'll go back and look at the consensus numbers, but I think it's not a number we guide and I don't think the quarter-over-quarter trend looked particularly different to what we would have expected.
+Alex Kurtz 
+Okay, just checking. Thank you very much.
+Ita Brennan 
+Yes. Okay, thank you.
+Operator
+Your next question comes from Aaron Rakers with Wells Fargo. Your line is open.
+Jayshree Ullal
+Aaron?
+Aaron Rakers
+Yes. Can you hear me?
+Jayshree Ullal
+Now we can, you're a bit choppy. Go ahead.
+Aaron Rakers
+Yes. I apologize for that. So congratulations again on the quarter.
+Jayshree Ullal
+Thank you. 
+Aaron Rakers
+My question is actually on the enterprise -- the traditional enterprise market. There's clearly been some recent signals of a lot of choppiness. One of the enterprise system companies pre-announced tonight. We saw Intel's chopping results, et cetera. I'm curious of how you, what you've been seeing in that market? And what gives you confidence that that market will continue to grow at what sounds to be a very healthy pace through the back half of the calendar year?
+Jayshree Ullal
+Well, I think the enterprise is a small -- we are new to this market, right? And we are a recent entrant, so we're not operating of the large base where we are a market leader or anything we're the newcomer. So because we have a large TAM, and because we have highly differentiated products. And I think also because there is an awful lot of enterprise fatigue with existing dominance of one vendor and lack of quality and all of that. We are seeing a unique situation, despite the macro. Now not to say if there is a really bad macro we wouldn't see it, but I think despite the macro, we're enjoying a little oasis in the desert, if you will.
+Aaron Rakers
+Thank you.
+Jayshree Ullal
+Thank you, Aaron.
+Operator
+Your next question comes from Jeff Kvaal with Nomura Instinet. Your line is open.
+Jeff Kvaal 
+Yes, a question and a clarification, I guess, for me, please. On the question, I'm wondering if you all have applied the same methodology to coming up with your guidance, as you have in prior quarters. It is sometimes tempting to adopt a more conservative assumption on close rates or what have you after a guide down?
+And then secondly, the clarification is when you say back to sustainable levels in 3Q, Jayshree were you meaning over the course of the third quarter we'll be back at sustainable levels or we're at full run rate August 1, game on?
+Jayshree Ullal
+So both your questions are intriguing. I'm still kind of processing them. So the first one is, did we guide like we normally do and were we been conservative. I'm just translating your question, is that what you asked?
+Jeff Kvaal 
+Yes, yes.
+Jayshree Ullal
+Okay. So I think this word conservative in the label we have is a little bit of a misnomer. I think we're guiding as best as we can, and there is very little sandbagging going on. Particularly, of course, we have customer concentration, but particularly with the enterprise, there is so many more customers and so much more to forecast, we do our best in analyzing that forecast and this is our best effort. I wouldn't think there's a lot of buffer in that. That would be my question to you, Jeff.
+And in terms of as a game on August or is it going to happen through the quarter? It's very difficult to ever predict a quarter, especially in it's weakest slowest summer months in some parts of the world, so I wouldn't say it's game on in August. I would say it's going to be a process through which, we will need all three months of the quarter to execute on this one.
+Jeff Kvaal
+Okay. Thank you. Thank you all.
+Jayshree Ullal
+Thanks, Jeff.
+Operator
+Your next question comes from Tejas Venkatesh from UBS. Your line is open.
+Tejas Venkatesh
+Thank you. I wonder if you can comment on what you expect your largest customer to be as a percentage of sales in 2019. Jayshree, I think earlier in the year, you had indicated it would go back to historical levels, which many of us interpreted as 16% of sales instead of the 27% in 2018. But as we get closer to the end of the year, you must have better visibility. So I'm curious to hear that.
+Jayshree Ullal
+Yeah. That's a good question. I think my prediction of teens, mid to high-teens is still what I think is our best estimate, 27% was wonderful, but a rare event, yeah.
+Tejas Venkatesh
+Thank you. And then a follow-up on 400 gig. I know you generally said you expect that in 2020, but early part, latter part and then can you parse how you're thinking about 400 gig between cloud routing and cloud switching? Thank you.
+Jayshree Ullal
+Okay. Good question. Well, 400 gig, as you can tell from Andy and my talk, we are ready with the products. No problem with that, but we have been often slowed down by the optics. And as Andy said, I think he is predicting some of the optics to be in 2020. You want to comment on that, Andy?
+Andy Bechtolsheim
+Yeah, one of the most important use cases for 400 gig is actually the 400 gig CR data center interconnect and those optics will not be in volume production until mid 2020. But we do expect customers to qualify these optics way before that. So we cannot predict the exact timing here, but it's going to be in 2020.
+Jayshree Ullal
+Yeah. And as of switching versus routing, because a large number of these use cases will be data center interconnect, it will be both. It will be hard to parse one versus the other. They'll almost always want an option for routing or start right with routing in the beginning.
+Tejas Venkatesh
+Thank you.
+Jayshree Ullal
+Thanks Tejas.
+Operator
+Your next question comes from James Faucette with Morgan Stanley. Your line is open.
+James Faucette
+Thank you. I want to follow-up on that 400 gig question. Just I understand in terms of the availability of optics, but can you help us understand what the -- what stage of evaluation of your equipment customers are in or potential customers are in? And can they fully evaluate and qualify the products without the availability of those, commercial availability of those optics?
+Andy Bechtolsheim
+Sure. James, the way to look at this is many of the new products 400 gig are based on Jericho2 or Tomahawk 3 or other silicon, and the many-form factors with 100-gig ports as well. So customers are busy qualifying them as 100-gig switches and routers first. They use them in existing designs, but with more efficiency with these new products. And then they'll wait for optics like the ZR optics or DR or FR optics to show in volume before they can really use them as 400-gig. But the transition has already starting in qualification, but again, you can expect 100-gig closed, and I think from a material impact on revenue in the industry, I would think of the second half 2020.
+James Faucette
+Great. And then just as a quick follow-up. Jayshree, you talked about your go-to-market on enterprise. But I'm wondering how you're thinking about today your needs for sales and support around those new products. Is that something that you feel like you'll need to ramp up personnel ahead of sales or can you continue to be really efficient bringing on headcount to support those customers kind of after commitments are already made?
+Jayshree Ullal
+Actually, that's a very good question. I think we will ramp up sales people ahead of sales. But we can ramp the systems engineers and some of the support engineers post sales after we get the wind. So, a little bit of both.
+So we are not applying the same discipline and conservatism, James that you saw us do in the data center. We are definitely adding headcount, and if you look at our sales and marketing as a percentage of revenue, it has increased, maybe not appreciably, because we are still holding the bar pretty high. And making sure that the caliber and quality is not compromised just because we want to higher a bunch of people.
+The other big thing, I think that's going to play a huge part in this is partners. We've never been viewed as a partner friendly company, but we are very friendly with partners at the moment. And I think the campus is a key piece of that strategy and the partner see us as a key piece of that. So, the two will go hand-in-hand.
+James Faucette
+All right. That's good. You shouldn't have any problem being friendly with people. So, good luck.
+Jayshree Ullal
+Thank you, James.
+Operator
+Your next question comes from Paul Silverstein with Cowen & Company. Your line is open.
+Paul Silverstein
+Before I ask my questions. I'd just like to ask you to talk faster in the next call. 
+Jayshree Ullal
+I can do Paul.
+Paul Silverstein
+I've got a handful of questions if I may.
+Jayshree Ullal
+Yeah, Paul. She's trying to go from 100-gigabit to 400-gigabit speed.
+Paul Silverstein
+Yeah. She is doing a good job of it. Most of these questions are clarifications, but let me fire away first off, regionally, what are you seeing with respect to the quality of in-demand on a regional basis. I appreciate that good chunky revenue comes from cloud.
+So, perhaps the regional concept doesn't quite apply. But to the extent you have regional exposure; it looks like your non-U.S. and your U.S. were about the same growth rate of the high teens. What are you seeing regionally? And then I've got some follow-ups.
+Jayshree Ullal
+The growth rate is very good, especially in enterprise customers across all regions. We're seeing better growth rate in terms of new customer acquisition in the international regions. So, the big bet in larger customers tend to be more U.S.-driven and the new customer logos tend to be more international-driven, but all regions are growing nicely.
+Paul Silverstein
+Jayshree, and again I appreciate that you guys are sure gainers or so, you're less economically, less macro-sensitive, but to an extent you are sensitive like any other company to a degree to macro trends in terms of the quality of budgets, quality of spends, any thoughts on what you're seeing.
+We've seen from a number of other companies, most recently NetApp today in terms of weakness from an in-demand perspective, any thoughts on that? Once again, I appreciate that you're sure gainers or so, maybe you don't see it the same way or any thoughts you can share with us?
+Jayshree Ullal
+My experience with macro issues is we certainly won't be immune. But the way we will see it is that a lot of the activity we are seeing may not result in fast decisions. So, probably prolong decision making would be my biggest worry should a macro set in, because usually when a macro sets in, customers tend to get conservative and then they don't want to make new decisions.
+Paul Silverstein
+Have you seen that elongation yet? Is that just a concern at this point or you're already seeing?
+Jayshree Ullal
+Yes, I'm addressing a theoretical concern. We have not seen it yet.
+Paul Silverstein
+All right. And then on service revenues, does it go without saying that the growth in your service revenue is going to slow consistent with the moderation growth and new product revenue?
+Jayshree Ullal
+Yes, I think there is a linearity associated with that.
+Ita Brennan
+Yes, I mean you'll get some offset just from renewals and stuff, but overall, it will trend as the product.
+Paul Silverstein
+All right. Two more clarifications. Jayshree on your comment or your reiteration I think from the June Analyst event on the $100 million forecast for enterprise campus, my sense is that that's drifted out a little bit from a timing perspective, when you're talking $100 million is that a calendar 2020 outlook or is that the departure point September, I recognize we're not talking about a ton a time in terms of the difference
+Jayshree Ullal
+Yes, exactly Paul.
+Paul Silverstein
+But when you said $100 million, what period of time.
+Jayshree Ullal
+No, what I said at the Analyst Day, which was only six weeks ago still holds, which is four quarter starting from Q3. So Q3 -- second half of 2019 and first half of 2020 unless something changes substantially, but we're still bullish on that and optimistic that we have the activity to result in that number. Got it.
+Paul Silverstein
+Got it. Ita going back to the OpEx question which was asked earlier. I would have thought your answer would have been as simple as enterprise costs more money. One of the beautiful things about cloud, not just the concentration spin, but it was a relatively inexpensive market to address, enterprise has got a bulk of your salesforce, your channel, and that cost money. Not that you're projecting a dramatic increase, but correct me if I'm wrong, you're projecting an increase from 7.5% to 10% on sales and marketing with operating margin going down to 35%. Are those still the operative numbers going forward and is that what's going on in terms of the increase in spend?
+Ita Brennan
+Yes, I mean I think quarter-over-quarter; it's above the things in there like we talked about R&D and stuff, just from the quarterly trend. I think over the longer term when you think about the model, I think that's what we described at the Analyst Day and that's the right way to think about it. But again we're not going to get 10% overnight. I mean we're growing. And then we're adding incrementally as a percentage of revenue, but it's not, it's not, it won't become 10% overnight. But that is the model, think about that number.
+Jayshree Ullal
+Paul, can we do that in the call back.
+Paul Silverstein
+Absolutely, no worries. Thank you.
+Jayshree Ullal
+Thank you.
+Operator
+Your next question comes from Alex Henderson with Needham. Your line is open.
+Alex Henderson
+I'm sure, I'm going to ask the question, Paul was going to ask. So, I was hoping you could talk a little bit about the market share trajectory. So, there are two or three variables that were always the kind of underpinnings of the company story. One was the cloud growth obviously that slowed quite a bit.
+The other one was the ability to gains considerable amount of share annually, your share is fairly low. Can you talk about excluding cloud, what's your expectation for the overall market growth for switching to be, and whether you can continue to pick up a point to two or three on market share annually?
+And a follow-up on that question is, does there any change in that as we go into the 400-gig. I think you've been pretty clear that you think you will continue to grow based on your software advantages 400-gig, could you address those two together? Thanks.
+Jayshree Ullal
+Sure Alex. It's always difficult to predict market share, but I don't think anything has substantially changed on total available market. Yes, the cloud spend has reduced. So, we may see some shifting of TAM between one quarter and another, and I think our position, both in the cloud, and in our rate of enterprise design winds is only getting stronger.
+So, from a market share gain, since we've gone from zero to the teens rather quickly, probably a rate of gain -- rate of gain will be slower, maybe more like one to two rather than two to three on an annual basis, but I believe we will continue to be a share gain, both in overall high performance switching and especially in 100-gigabit Ethernet switching.
+Alex Henderson
+Great. If I could throw one more question in. The Luxtera and our Acacia acquisitions over at Cisco, if Andy is still around.
+Jayshree Ullal
+Yes, Andy is here.
+Alex Henderson
+Any thoughts on why he did that -- they did that and how that might affect you? And is there any concerns that as optics need to get closer to the switch chip that they may be positioning to have an advantage as we get to the 53 terabits switch chips that require the chips to but up against the optics, can you give us any thoughts on where they're going with that? Thanks.
+Andy Bechtolsheim
+Great. So we, obviously, don't want to speculate on a competitor's motivations or actions here. But what I will say is that the optics field is intensely competitive. There's plenty of suppliers, both with silicon photonics, technology, the 400 gig DSPs that you need for the CR that we don't see the competitive environment of optics changing at all, and the pluggable form factor in particular has just taken over the market over the last 10, 20 years, and we don't see that changing for all kinds of reasons. And in particular, your question on 51.2, our plan is to deliver that product with conventional pluggable optics, which are well-understood and will be the time-to-market product. I mean, we do understand that certain people excited about core packaging, but there is so many problems with co-packaged optics, I don't even know where to start. So I'll leave it at that.
+Alex Henderson
+Okay. Thank you very much for your answers.
+Jayshree Ullal
+Thank you, Alex.
+Operator
+Your next question comes from Jim Suva with Citi. Your line is open.
+Jim Suva
+Thank you very much. It was great to hear Andy on the call at the beginning as well as pretty recently, but Arista does a lot of things very much on purpose. So having Andy on the call as well as addressing the 400 gig topic. Can you help us just maybe understand a little bit better, are you trying to like clarify some misperceptions or show that Arista is likely to gain more share? Or, there was a definitely a temple change to the speaking at the beginning of this call versus previously with Andy, and I appreciate, I’m just trying to figure out why and the excitement behind it as far as competitive standpoint or share or figure out that the change in tone. Thank you.
+Andy Bechtolsheim
+Yeah, Jim, if you look at the analyst forecasts for 400 gig, like the lower forecast, in particular. The mix showed projections on where 400 gig will actually deployed. The vast amount of 400 gig forecast is in cloud, obviously, cloud, large cloud and small cloud. So given our strong footprint in that market, we are very, I shouldn't say optimistic, but confident that we will have a good share of that business going forward.
+400 gig as a technology is actually almost overkill for traditional enterprise. I don't think you're going to see much 400 gig adoption in the enterprise anytime soon. So this is a very much a cloud story, and it's really when the cloud customers, the large cloud customers are starting to deploy this when you see the big ramp, and we do expect that in 2020.
+Jayshree Ullal
+And we have Andy frequently as a guest speaker. I don't think there's any deliberate intent to do it differently than any other quarterly call except investors love hearing from Andy and we love Andy, and I think sometimes the 400 gig gets overhyped, and I think bringing a dose of realism that Arista, the market leader in high performance switching and especially 100 gig has more products than anyone else in 400 gig and is ready for that transition, but it will take time is a pragmatic message.
+Jim Suva
+Great. Thanks so much for the detail Jayshree, Andy. That's all my questions. Thank you.
+Jayshree Ullal
+Thanks, Jim.
+Operator
+Your next question comes from Simon Leopold with Raymond James. Your line is open.
+Simon Leopold
+Great. Thanks for taking the question. Maybe to follow-up on the 400 gig theme, understanding the cloud will be the primary adopter. I'd like to hear your thoughts on maybe compare and contrast, the 400 gig cycle versus the 100 gig cycle for you. Reflecting on time, and I guess where I'm coming from is you're now the incumbent with 100 gig, you're sort of the one everybody wants to be. So it's a different position, you're not the underdog anymore. So I want to get that perspective.
+And just as a clarification within this context, my impression is that right now the 400 gig switches are being deployed as just really, really good 100 gig, high density 100 gig. So not necessarily awaiting the optics, and I just want to make sure that understanding is correct? Thank you.
+Jayshree Ullal
+I'm going to kick it off, and I'd love Anshul and Andy's detail on it as well. When I step back and look at 10-gig migration, it took about eight years to happen, and why did it take so long. There’s a very long tail, because 1-gig was good enough and the compute and storage wasn't fast enough or large enough to require any better IO and the cloud hadn't happened.
+The advent of cloud really pushed 25-gig, 40-gig, 50-gig and especially 100-gig. So the 100-gig cycle instead of taking eight years, only took two or three years. And this is why we became such a market leader so quickly. It all happened between 2016 and 2019.
+When I look at 400-gig, I think you'll have to look at it as split it between the 10-gig cycle and the 100-gig cycle. It will likely take three to four years to happen, it will start first in the cloud. And then it'll migrate over time to other high-tech enterprise and cloud specialty providers as well. So hopefully that gives you a sense of why 10-gig took too long, 100-gig happened very fast and 400-gig maybe somewhere in the middle.
+Andy Bechtolsheim
+If I could add to that. So the 100-gig is still ramping as you may know.
+Jayshree Ullal
+Exactly.
+Andy Bechtolsheim
+So we’re expecting very significant growth into next year, and maybe even to 2021 on 100 gig ports, no mistake about that. The reason why cloud company would deploy 400 gig is because it's more cost effective than 100 gig on a per-bit basis, right. And as you know, the -- our 400 gig products save typically double the cost performance for 400 gig than 100 gig. However, the optics, they are not at that level. Right? So because the optics are still too expensive and arguably just not available in volume, a cloud company, if they wanted to could not deploy 400 gig to the volume. It's just not possible.
+And keep in mind, 100 gig is deploying in the cloud at the rate of, call it 10 million ports a year, and it takes a long time to get to those kind of volumes on the optics. So this is why we've been saying all along that it's a 2020 story and even get to meaningful revenue in 400 gig. Go ahead Anshul, sorry.
+Anshul Sadana
+This is important for everyone to understand that when we came out with 100 gig products in 2016 with a $7500, our competition had already announced their 100 gig products.
+So it wasn't as if we had some huge advantage and we were the only one with the product and so on. The market was very competitive, but you win on your own merit, on software, on partnership with the customer, on solving real world problems, on quality, on support, and so on.
+And the exact same thing will repeat here, and we feel very good about our position and you've seen the kind of collaboration we've done with companies like Microsoft and Facebook recently, and I believe that will continue.
+Simon Leopold
+And is competition or the competitiveness, the price pressure any different in this cycle because your competitors are saying that they're going to take market share and 400 gig. Should we think this is any different than 100 gig?
+Anshul Sadana
+No, we've always competed against tough competitors. That will continue. I don't believe there's any different in dynamics so far.
+Jayshree Ullal
+I mean, we're not seeing new competition. So it's the same competitors being aggressive.
+Simon Leopold
+Great, thank you for taking my questions.
+Jayshree Ullal
+Thank you, Simon.
+Operator
+Your next question comes from Samik Chatterjee with JP Morgan. Your line is open.
+Samik Chatterjee
+Hi, thanks for taking the question. I just wanted to ask at a higher level Jayshree, how are you thinking about kind of given the sluggishness in the cloud spend that you are seeing how thinking about diversification in the customer mix, and particularly if you have any views of strategically where you want the customer to mix to be kind of five years from now, is there more of an effort to kind of steer the business toward the particular customer mix to kind of mitigate some of the volatility around the cloud?
+And just a quick follow-up for Ita, maybe you addressed this, there is some headline today about incremental tariffs on products that were exempt earlier. Can you just clarify if there are any products that you're shipping from China that were exempt earlier? Thank you.
+Jayshree Ullal
+Yes, Samik, I think this is a good question. Our sales and go-to-market strategy is really shaping to be one that was on focused verticals to a horizontal enterprise where we will be much broader from a coverage, from a geography, and from addressing a broader enterprise perspective.
+And I think this will provide important diversification. Campus was an important piece of that diversification. Two years ago, we asked our customers should we be in the campus and they said no. And then this year when we asked them they said you're late.
+So that tells you the thirst and the hunger for Arista technology to go beyond the data centers. So addressing a broader TAM and going out of our normal comfort verticals into a horizontal go-to-market is an important piece of this. And Ita you were going to answer the tariff question?
+Ita Brennan
+Yes, I think the way to think about it is, yes, we will have some impact, but between kind of the improvements we're making on the supply chain and other stuff, I think from a financial perspective, it's kind of balances out, right. So it's a pretty minimal impact from a financial perspective, even though we're continuing to churn the supply chain to respond.
+Samik Chatterjee
+Great, thank you.
+Operator
+Your next question comes from Mitch Steves with RBC Capital Markets. Your line is open.
+Mitch Steves
+Hi, just a quick question from me, you guys have talked about the annual numbers in terms of like the street estimates. So I just wanted clarity there, are you guys comfortable where street estimates are at this point? Just to get an idea for kind of what seasonality in the back half looks like.
+Jayshree Ullal
+No, I think you guys have been more aggressive than we have in our guidance. We're going one quarter at a time, but you all started the year at 30%, and we at Analyst Day, as you know Ita guided to a mid to high teens depending on the cloud spend, right, so.
+Ita Brennan
+Yes, I think, Mitch, the manner is that we're taking this a quarter at a time from our perspective. It's difficult for us to go beyond that at this stage. Just kind of running the business a quarter at a time.
+Mitch Steves
+Got it. And then just to clarify on the Q4 kind of expectations. So I'm trying to just to understand the half on half commentary is, how -- is it going to be essentially a few points below seasonal trends or do you think that it's going be more than that?
+Ita Brennan
+Yes, I mean I think the comments were kind of clear that we think second half over second half, it's a very different environment. Right? I mean if you think about where we were at the second half last year, there was very strong demand, we're building deferred, etc.
+I think it's significantly different when you look at where we are and in the second half of this year. I think that's what we're trying to communicate. To put a specific number on it? We're not ready to do that for Q4 yet, but I think there has been significant changes in the momentum and the growth in the cloud, part of the business.
+Mitch Steves
+Got it. Thank you.
+Operator
+Your next question comes from Hendi Susanto with Gabelli Research. Your line is open.
+Hendi Susanto 
+Good evening and thank you for taking my one and only question.
+Jayshree Ullal
+Thank you, Hendi. Thank you for following the rules.
+Hendi Susanto
+Hi, Jayshree, your cognitive campus will have general availability in Q3 2019. Do you have updates and would you be able to share goals, timing, and milestone in terms of early trials, early adopters, in terms of verticals, integration with Mojo, and building an ecosystem of channel partners?
+Jayshree Ullal
+Yeah, I think we'll have more updates and results toward the latter half of 2019. In terms of activity, it's been very high. We've integrated Mojo into the company, that's been a year now. We've integrated it into our CloudVision. The combination of our 720XP-P or E-Switch in Mojo is really redefining a new cognitive campus layer. The X3 Splines have been very well received. So what you're seeing here is Arista is having to position the new architectural shift to the next-generation campus in terms of network design, and have the products tested at the same time. So the activity level is very, very high. The results will definitely share more with you in Q3 and Q4.
+Hendi Susanto
+Thank you, Jayshree.
+Jayshree Ullal
+Thank you, Hendi.
+Operator
+Your last question comes from Brian Young with Deutsche Bank. Your line is open.
+Brian Young
+Hey, thanks for squeezing me in. I also had a question on the campus opportunity. So I've been hearing more and more of that new enterprise campus deals are often led by discussions around WiFi solutions. Is that what you're seeing as well? And if so is your – I know you have the – the Cognitive WiFi portfolio in Mojo, but is the Wireless portfolio right now a pretty robust or is that an area where you are thinking about or would need to expand?
+Jayshree Ullal
+It's a good question. In the smaller enterprise sites, we often see that the conversation is led with WiFi, because they want to start with a small configuration of campus and they don't need to think of all the protocols. We feel we have a very complete portfolio, particularly with the introduction of WiFi6, but in larger enterprises, it's actually the other way around. Often the WiFi has to integrate with other partners like ClearPass, and we lead more with the X3 Splines. So it depends on the nature of the enterprise customers, but we see a bit of both.
+Brian Young
+Okay. Thank you.
+Jayshree Ullal
+Thank you, Brian.
+Chuck Elliott
+This concludes the Arista Q3 2019 Earnings Call. Thank you for all the good questions and for the opportunity to highlight our financial results and corporate achievements for you.
+I also want to mention that we have posted a presentation, which provides additional information on our fiscal results which you can access on the Investor section of our website. We look forward to continuing the conversation with you during the quarter.
+Operator
+Thank you for joining, ladies and gentlemen. This concludes today’s call. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+2 Authors in the Last 90 Days

@@ -1,0 +1,234 @@
+Analog Devices, Inc. (NASDAQ:ADI) Q3 2019 Earnings Conference Call August 21, 2019 10:00 AM ET
+Company Participants
+Michael Lucarelli - Director, Investor Relations
+Vincent Roche - Chief Executive Officer
+Prashanth Mahendra-Rajah - Chief Financial Officer
+Conference Call Participants
+John Pitzer - Credit Suisse
+Tore Svanberg - Stifel, Nicolaus & Co.
+Mitch Steves - RBC Capital Markets
+C.J. Muse - Evercore ISI
+Craig Hettenbach - Morgan Stanley
+Stacy Rasgon - Bernstein Research
+Vivek Arya - Bank of America Merrill Lynch
+Operator
+Good morning, and welcome to Analog Devices Third Quarter Fiscal Year 2019 Earnings Conference Call, which is being audio webcast via telephone and over the web. I’d like to now introduce your host for today’s call, Mr. Michael Lucarelli, Director of Investor Relations. Sir, the floor is yours.
+Michael Lucarelli
+Thank you, Sheryl, and good morning, everybody. Thanks for joining our third quarter fiscal 2019 conference call. With me on the call today are ADI’s CEO, Vincent Roche; and ADI’s CFO, Prashanth Mahendra-Rajah. For anyone, who missed the release, you can find it, and the relating financial schedules at investor.analog.com.
+Now on to the disclosures. The information we are about to discuss, including our objectives and outlook includes forward-looking statements. Actual results may differ materially from these forward-looking statements as a result of various factors, including those discussed in our earnings release and in our most recent 10-Q. These forward-looking statements reflect our opinion as of the date of this call. We undertake no obligation to update these forward-looking statements in light of new information or future events.
+Our comments today about ADI’s third quarter fiscal 2019 financial results and short-term outlook will also include non-GAAP financial measures, which exclude special items. When comparing our results to historical performance, special items are also excluded from these prior quarter and year-over-year results. Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures and additional information about the non-GAAP measures are included in today’s earnings release.
+I also want to point out that during the third quarter we improved our method to more accurate estimate the end market classifications for shipments to distributors. This has opened to some modest changes from historical end market revenue breakdown, but did not changed our total revenue or EPS. We have posted a quarterly end market look back based on this improved method to our investor website. 
+Okay. With that, I’ll turn it over to ADI’s CEO, Vincent Roche. Vince?
+Vincent Roche
+Thanks very much, Mike, and good morning to you all. Well, in what continues to be a challenging macroeconomic environment, we executed soundly in our third fiscal quarter and delivered solid results. Revenue of $1.48 billion in the third quarter came in above the midpoint of our guidance. Our B2B markets decreased 3% year-over-year, given the weaker macro conditions and performed well relative to the market. This performance is testament to the diversity of our franchise and investing ahead of secular trends to drive ongoing share gains and some expansion.
+Operating margins of approximately 41%, were above our guidance as we moved quickly to reduce expenses given the ongoing market weakness. All told, adjusted EPS was a $1.26. Over the past 12 months, we've generated approximately $2 billion in free cash flow or 33% of revenue. And during the same time period we've returned more than 100% of free cash flow to our shareholders after debt repayments.
+Now while there are clearly a number of near-term external challenges we're navigating through, ADI has always been and remains focused on delivering sustainable long-term profitable growth. To that end, before Prashanth covers our financial results in more detail, I'm going to continue our quarterly practice of providing a deeper level of insight into one of our markets. The trends influencing its future and how we are positioned to capitalize on these trends over the long-term.
+So today I'd like to discuss the emerging automotive electrification ecosystem that is supporting a number of underlying industries, from energy to transportation to manufacturing and indeed beyond, and paving the way for the transition to cleaner energy sources.
+ADI is also focused on making the most efficient use of energy in both our products and operations, and I am proud to say that we are playing an important role in this new wave of electrification. We approach automotive electrification from an ecosystem perspective that is to say the electric vehicle is just one element.
+For ADI, the origin of our journey starts with the formation of the battery. It then extends to the ongoing management of an installed electric vehicles battery system and then to powering the supporting electrical infrastructure needed to fuel EVs. The common thread woven through all of these applications is the precision signal processing, control and power management capabilities they require, capabilities indeed in which ADI excels.
+So let me explain a bit more. Our value journey starts with battery formation and test, a time-consuming and complex chemical process where extremely precise measurement means the difference between a safe, high quality battery and the low-quality one. The lithium-ion batteries that power electric vehicles represent nearly a third of the entire cost of the vehicle. So OEMs place a high premium on battery quality and reliability.
+Our portfolio of fully integrated precision signal processing, control and power products allows ADI to offer customers the highest levels of accuracy, safety and reliability for their battery formation and test process. Our solutions reduce battery formation cost by two-thirds, by shrinking our customers equipment footprint by 4x and enabling up to 95% power reuse, which reduces environmental impact as well.
+Once the battery system has been manufactured, our opportunity grows with the electrification applications within the vehicle itself. Here our technology is a key enabler in the transition from combustion engines to cleaner electric vehicles, which are projected to grow from the current 2% worldwide vehicle sales to more than 20% over the next decade or so.
+In the vehicle, the battery management system or BMS provide precise monitoring and control of the complex charge and discharge cycles of the battery system. Accuracy and safety in the BMS are critical, since overcharging or undercharging can lead to the battery's destruction and render it useless. The accuracy of the BMS is also a major determining factor in the performance of EV as it directly affects the miles per charge an electric vehicle can safely deliver. And to add to the challenge that accuracy needs to be maintained through extreme environmental conditions and harsh interference over the 10 plus year lifecycle of the car.
+Such an application challenge is a perfect fit for ADI where we once again leverage our deep heritage and accurate precision measurement to provide optimized solutions for battery management. We’ve got the industry's broadest IC portfolio supporting all battery voltages from 48 volts to 800 volts, covering the full range of premium electric vehicles right down to the entry-level.
+Our products are also designed specifically for harsh automotive environments enabling us to deliver up to 20% more miles per charge than our competition. We deliver the highest level of automotive functional safety, another full suite of powerful safety diagnostics that are easy to integrate and use. So thanks to these advantages, we now have a leadership position across key customers in the U.S., Europe and Asia, giving us confidence that we can continue to grow BMS revenue at a double-digit annual rate, and we continue to push the innovation curve.
+Future generations on our BMS roadmap include architectural innovations that will improve the way power density, accuracy and weight challenges are solved, including the ability to wirelessly and robustly communicate. And finally our opportunity extends beyond the car to the charging station infrastructure that sources stores and transfer the energy that powers electric vehicles.
+Charging stations represent the unique challenge for electric grids due to their intermittent and substantial demand peaks. And it must also effectively and cost efficiently meet the fast charging requirements consumer demand for their EVs. As a result, charging stations rely on battery powered energy storage systems to accurately and quickly charge a vehicle.
+Here the precision of our BMS solution can reduce the total cost of ownership of the energy storage system by a third, by extending the battery life by up to 2x and lowering maintenance costs. As demand for batteries rises we’re beginning to see a push towards extending a battery’s useful life by enabling a second life for EV batteries and infrastructure applications. We believe ADI's best-in-class measurement capabilities will become increasingly important as this market matures and the second life deployments begin to scale.
+So in closing, electrification represents a highly valuable market for ADI for the long-term. It presents a number of difficult challenges for our customers, challenges that our portfolio and people are transforming into opportunities every day. Through our battery management, power conversion, connectivity and isolation technologies we’re delivering innovative solutions that position us to capture revenue growth opportunities throughout the electrification ecosystem today and well into the future.
+And so with that, let me hand over to Prashanth, who will take you through the financial details.
+Prashanth Mahendra-Rajah
+Thank you, Vince. Good morning, everyone. And let me add my welcome to our third quarter earnings call. My comments today with the exception of revenue and non-op expenses will be on an adjusted basis, which exclude special items outlined in today's press release.
+Before I get to the results for the quarter, I wanted to provide some details related to the ongoing situation with Huawei. A few weeks into our third quarter, the Commerce Department added them to the BIS entity list. ADI immediately suspended shipments of all products. After a thorough review of the export administration regulations and the entity list restrictions, we determined that we could lawfully resume shipping selected ADI products to this customer.
+We're closely monitoring this dynamic situation and feel that we are well-positioned to adapt as the circumstances evolve. The scope, duration and long-term financial impact of the export restrictions remain unclear and difficult to predict. But at least for the near-term, our Huawei demand has taken a step down from previous level.
+As a result, we are planning for sales to this customer to be meaningfully below our previous mid single-digit percentage range, which we discussed with you last quarter. This is reflected in our guidance which is published in our earnings release.
+So now let's get onto the quarter. ADI delivered a strong third quarter with revenue, operating margin and EPS, all above the midpoint of guidance. Our B2B revenue was down a modest 3% year-over-year as growth in communications was balanced by ongoing weakness in industrial and automotive markets.
+The industrial market which represented 51% of sales in the quarter decreased 4% year-over-year. And while most applications were down year-over-year, we saw continued strength in our aerospace, defense, healthcare and electronic test and measurement businesses.
+Communications represented 21% of sales during the quarter and grew 7% year-over-year. While both wireless and wired results were impacted by Huawei, our wireless sales still increased double-digit year-over-year driven by record revenue across multiple customers, a testament to our balanced and market leading position in advanced radio systems used in the 5G infrastructure.
+Automotive represented 15% of sales and was down 9% year-over-year, reflective of the ongoing decline in global vehicle sales. Year-to-date, our auto revenue is down [technical difficulty] digits year-over-year, outperforming a declining SAAR due to strength in BMS, which has increased double digits over the time and the ongoing momentum in our power franchise.
+And lastly consumer made up 12% of sales and increased 18% year-over-year. So now let's go the P&L. Revenue for the quarter was above the midpoint of guidance at approximately $1.48 billion, down 5% year-over-year. Gross margins came in at 70.4%, down 20 basis points sequentially due to lower back to utilization and in what is normally a higher OpEx quarter due to our merit increases, we reduced OpEx by $6 million sequentially to $438 million.
+And as we continue to navigate these challenging times, you can look for us to keep a tight rein on discretionary and nonessential spending. Our prudent OpEx spend offset slightly lower gross margins and resulted in op margins of 40.8% above the midpoint of guidance.
+Non-op expenses in the quarter were down $4 million sequentially, driven by lower interest expense as we continue to reduce debt. And the tax rate for the quarter was 14% in line with our outlook. All told the adjusted diluted earnings per share for the third quarter came in above the midpoint of guidance and a $1.26.
+Let me comment on the balance sheet. We exited the quarter at 129 days of inventory above the high-end of our target range of 115 to 125. This increase related primarily to weaker quality demand and as we discussed with you in the first quarter earnings call the initial build of our bridge inventory to support the planned closure of two manufacturing facilities in early 2021.
+As a reminder, we expect to generate 100 million of cost of goods synergies related to these facility closures. And during this transitional phase we expect to carry an additional 5 to 10 days of inventory to support our customers. Channel inventory was just over eight weeks as we exited the third quarter and CapEx return to a normal level of 4% of sales were $58 million as much of our co-location activities are now complete.
+We generated approximately $2 billion of free cash flow over the trailing 12 months and during that time we’ve returned more than 100% of our free cash flow to shareholders through dividends and buybacks after debt repayments. Specifically in the third quarter we repaid $300 million of debt, paid $200 million in dividends and repurchased over 100 million of our stock.
+So now let's move to guidance, which with the exception of revenue and non-op expenses will also be discussed on an adjusted basis. Revenue is expected to be $1.45 billion, plus or minus $50 million. And at the midpoint, we expect our B2B market of industrial automotive and communications in the aggregate to decrease low to mid-single digits year-over-year.
+And as a point of reference, if we back Huawei way out of our year-over-year Q4 compares, B2B is roughly flat. Operating margin is expected to be approximately 40% at the midpoint and non-op expenses are expected to decline sequentially by approximately $5 million and the tax rate will remain in the 13% to 15% range. Based on these inputs, adjusted EPS is expected to be a $1.22 plus or minus $0.07.
+So in closing, we are pleased with our quarter results given the current macro and geopolitical climate. And during these uncertain times, we will carefully manage our expenses, while also investing strategically in areas that continue to position us to deliver profitable growth over the long-term.
+So let me hand it back to Mike, so we can start our Q&A.
+Michael Lucarelli
+Thanks, Prashanth. Let’s get to the Q&A session. Please limit yourself to one question. After our initial response, we will give you an opportunity for follow-up question. Sheryl, can we have our first question please.
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions] Our first question comes from John Pitzer from Credit Suisse. Please go ahead. Your line is open.
+John Pitzer
+Yes, good afternoon -- good morning, guys. Thanks for letting me ask the question. Congratulations on the solid results given the backdrop. Vince, I wonder if you could help me better understand, clearly I think one of the consequences of the trade dispute between China and the U.S., is that Huawei is more intent to kind of be able to build a base station with non-U.S suppliers. I’m wondering if you can help me understand from your perspective and the sockets you play in, how easily can Huawei do that? Do you view Huawei just a transitory issue for the company, or do you think there could be some long-term real socket share loss as Huawei tries to lessen its dependence on U.S. component suppliers?
+Vincent Roche
+Yes. Thanks, John. We’ve been as a company we’re in business almost 55 years now, and we’ve been competing with players from all over the globe in all areas of our business, different players in different spaces. But what I will say is, in general, we’ve taken the highest performance position in 5G base stations, in the radio systems. And whether that’s Chinese OEMs that are absorbing our products, European, whatever, Korean, that’s our game. And as these systems become ever more complex, performance matters more and more and more and more when you're trying to really put more information density through every radio, that’s where we play and nobody competes with us at that level. There are perhaps different ways to solve the problem. You can sacrifice performance, perhaps. But if you're looking for the best-in-class 5G radio performance, its ADI, that the OEMs are coming to. 
+And one of the thoughts I want to leave you with, John is that whatever happens -- you know, whatever happens the ongoing situation with regard to Huawei, we are very well penetrated as a corporation across the globe with all the OEMs. So no matter what happens, we will grow in 2020. That’s the expectation. So, competition is just a facet of doing business and we're more than well prepared with the portfolio of products we already have, and the products that we have coming. So -- and I want to make it clear as well that the restriction that we're experiencing with regard to shipping into Huawei specifically is around 5G. Our legacy 4G products have been shipping and as far as I understand will continue to ship. So -- also it's an evolving situation and we are doing everything we can to be able to satisfy the needs of all our customers. And in China, specifically, we are in the process of seeking the licenses that we need to support our products in the short to medium-term here. So hope that answers your question, John.
+Michael Lucarelli
+Hey, John, do you have a follow-up?
+John Pitzer
+It does. That’s helpful. Yes, just one quick [indiscernible] in your prepared comments, Prashanth mentioned that excluding Huawei your B2B business would be kind of flat year-over-year in the October quarter, which is meaningfully better than your peers. Is that mainly still just a comms phenomenon, which I believe is well understood by investors, or can you talk about bottoms up drivers in the industrial and auto that might be helping you guys drive that outperformance on year-on-year growth?
+Prashanth Mahendra-Rajah
+Yes, I think industrial is -- it is much more than comms. I think we are very pleased with how strong our industrial business is, but let me have Mike kind of breakdown how to think about it on a year-over-year basis, if you back out Huawei.
+Michael Lucarelli
+Yes. So, John, good question. So if you look at our outlook, it kind of assumes, I would say, pretty much flattish year-over-year in industrial. If you move on to automotive, its down about 10% and comms is also down by 10%, but if you have to back out Huawei, comms is up once again year-over-year, that is -- with mark kind of I think our 11th and 12th quarter in a row of year-over-year growth in comms, and that kind of goes as what Vince said about the breadth of our portfolio across customers. And if we move away from B2B and the consumer its down double-digits and it kind of [raise line] [ph] for the year down about 20%. I don’t know, Vince, you want to talk about industrial and kind of the strength we’re seeing there and why we’ve been better than our peers.
+Vincent Roche
+Yes. So I think if you look at industrial in kind of two pockets, we’ve our more fragmented broader base business, specifically automation. And I would say that business right now given its high-intensity CapEx needs is weaker, pretty much across all geographic spaces at this point in time. I don't think it will be a great surprise to tell you that the memory test business has been weak now almost for a year and that persist remains at least tepid. But I think the areas where we're seeing most strength right now are aerospace and defense. And in fact that's increasing just about 20% year-on-year, given the record defense budget that has just been passed in the U.S. we are seeing good growth across all the sub applications within aerospace and defense. And one of the real point of strength for ADI and what's driving a lot of the growth is the combination of the microwave and RF technologies from Hittite with the mixed-signal products from ADI and we are starting to bring LTC more aggressively into that space as well. So that’s the future growth dimension in that aerospace and defense business. Health care continues to grow nicely. I think, in general, I’ve been pretty public that I think that’s a space whose time has really come and I think this digital health area in general is just an inflection point. It's just at the knee of the curve, so to speak. So that’s doing well for us across the board, whether it's big iron or clinical grade patient monitoring type systems. And given again the growth in areas like 5G, BMS, very, very high-frequency automotive radar safety systems, the electronic test and measurement side of things is performing well also. So I think that helps unpack the industrial story hopefully for you.
+Prashanth Mahendra-Rajah
+Thanks, John.
+Michael Lucarelli
+Thanks, John.
+Operator
+Thank you. Our next question comes from Tore Svanberg from Stifel. Your line is open.
+Michael Lucarelli
+Good morning, Tore.
+Tore Svanberg
+Yes. Yes, good morning and congratulations on the execution in this environment. First question is on communications, Vince. You said you expect to grow pretty nicely in calendar '20. I was just hoping you could elaborate a little bit on what’s driving that? I mean, is that when 5G kind of really kicks in, because obviously up until now a lot of the growth has been more 4.5G. So if you could elaborate on that please.
+Vincent Roche
+Yes. So, thanks, Tore. The -- look, I think the way to think about 5G is one of the most exciting new platforms to be introduced in the world of information and communications technology for several years. So it's very -- I believe, it will be very pervasive. It's in the early stages of deployment and we're looking at a multiyear cycle here. One of the things I think that's important to remember with 5G is that, it's really designed to enable B2B users to modify their business models and their offerings to their customers, whether it's an industrial, whether it's in healthcare, where critical connection to the system is really important. So I think it's less about the consumer, more about B2B. Data is doubling every couple of years, so the need for bandwidth and very low latency is real and its necessary, and that –won’t abate, that will continue to intensify over time. And you know the only way to solve that is by delivering more spatial, or spectral efficiency. So, I think what we’re seeing is very, very early stage deployment and the radio is one of the most critical element in the development and deployment of these new 5G systems. And I think over the next 3, 4 years we will start to see the virtualization of the network and a more aggressive introduction of the microwave technologies as well that will be the next generation of 5G. So I think as you know, as I said in the -- in an earlier comment there, we're very well-positioned technologically. The problems are getting tougher and tougher in the base station from a performance standpoint. So the portfolio lines very well gets ahead of our customers' needs there. And we're very well penetrated across the board in terms of the breadth of our portfolio and the depth of our portfolio. I will also point out that the power portfolio from LT is nicely fitting in as well. So that's another wave of growth that we will begin to see materialize during 2020, 2021. 
+Michael Lucarelli
+Hey, Tore, do you have follow-up?
+Tore Svanberg
+Yes. Thank you for that, Vince. As a follow-up, you talked about the electrification and BMS. I’m just wondering when you’re talking to your automotive customers right now and especially given the sort of challenging SAAR environment, are you seeing an acceleration in the designs for BMS and EV?
+Vincent Roche
+Very definitely, Tore. I think it's -- whether it's European, U.S., Japanese or Asian OEMs, there's a pervasive move towards electrification of the powertrain. So the -- we're very confident that the BMS portfolio that we have, we are on our 5th generation incidentally. And having met several of these OEMs over the last quarter too, I can tell you that there's a level of intensity and urgency to move more towards electrical powertrains. And given that BMS or electric powertrain today represents around 2% of all the vehicles built, that’s likely to increase by an order of magnitude over the next decade or so. So, I think it's very real. I certainly -- growing in confidence that this trends that we're seeing is becoming more intense and it's something that we're very well-positioned to take advantage of. I mentioned as well in the prepared remarks that we're moving on to yet another generation, we’re changing the way the connectivity of the information is rendered in the car with our new wireless BMS architecture, which we’ve introduced to the market and we will start to see, I think significant revenue accrue there in the kind of '20, '21 timeframe.
+Michael Lucarelli
+Thank you, Tore.
+Tore Svanberg
+Very helpful. Thank you.
+Michael Lucarelli
+Sheryl, our next caller, please.
+Operator
+Our next question comes from Mitch Steves from RBC Capital Markets. Your line is open.
+Mitch Steves
+Hey, guys. Thanks for taking my question. So I think that one of the more interesting things by ADI is just kind of the ramp in the content you guys are seeing on 5G. So I just want to clarify what you guys are talking about for 2020? So, if we assume that Huawei is entirely banned, do you guys still believe you are going to see, I guess, a notable growth within communications, is that fair?
+Vincent Roche
+Yes. Yes, absolutely. Yes, Mitch, so -- it goes to, one, we have very good share across the ecosystem, and two, is the additional content we see in these systems. There's two flavors really of 5G out that is the subset gigahertz, and those systems, our silicon content is about 4x that of a traditional 4G. And then as you move to higher frequency millimeter wave, the additional content on top of that 4x, that's also an opportunity for ADI. That's really the ADI Hittite portfolio and also Linear bringing in there as well.
+Mitch Steves
+Got it. Okay. And then secondly, I kind of want to turn real quickly to the industrial segment. I mean, it looks like you guys are gaining share there. I'm curious again, what you guys think the overall market is doing within industrial, and if you guys think this is something you can sustain over the next few quarters as well? So I'm not saying that the Industrial segment will grow, but more just in terms of you guys being able to continue to gain share against companies like TI?
+Vincent Roche
+Yes. Well, this is an area where -- I mean, this is the core of area in many ways and it represents about half of the company's total revenue. About seven, eight, nine years ago, we retooled the entire investment portfolio of the company from an R&D and from a go-to-market perspective, just focused more intensely on B2B applications and industrial has been the priority there. So I think what we are seeing now is the benefit of the new product crop that we've been able to introduce there. We’ve a lot of exciting new things coming that are in the pipeline, that are in the cusp of materializing into revenue. So -- also our customer engagements are continuing to evolve from, I would say, seven, eight, nine years ago, we were largely a component provider. Now we are providing different forms of solutions, collections of components, more -- highly integrated products for different types of applications. So I think in many, many ways, what we are seeing now is the culmination of many, many years of very targeted activity to become stronger in industrial.
+Prashanth Mahendra-Rajah
+Mitch, I might just add that, remember this particular market is very sticky. So the momentum that we’ve, as Vince talked about, has taken several years to build and once you have it, you kind of roll with it, and I would expect to see that continued strength versus the broader market play out over the coming years.
+Mitch Steves
+Okay, perfect. Thank you very much.
+Michael Lucarelli
+Go to next caller, Sheryl, please?
+Operator
+Our next question comes from C.J. Muse, Evercore. Your line is open.
+C.J. Muse
+Yes, good morning. Thanks for taking the question. Vince, you talked in great deal on the BMS side. I was hoping just to follow-up there. As you think about increasing technology requirements within the portfolio and how you're investing and proceeding there, I guess, two questions. One, I think it's about 5% of your revenues today, where do you think that could be five years from now? And then two, how are you seeing changes in the competitive landscape as we proceed both electric vehicles and hybrid from here?
+Vincent Roche
+Yes. Thanks, C.J. First and foremost, we are playing on the high-end. Our portfolio is targeted at kind of mid-to-high end applications where the problems are focused [ph] and we're able to leverage our strength in precision signal processing. That really has been the mainstay of the company for the last five decades. I would say, in terms of what you can expect in terms of growth, my sense is this will be a double-digit growth area for several years to come.
+C.J. Muse
+Great. And I guess, as a follow-up for Prashanth, at what point in terms of outstanding debt would you focus 100% of your free cash flow on buybacks and dividend as opposed to paying down debt?
+Prashanth Mahendra-Rajah
+Yes. Good question, C.J. I don't want to lock us into a specific position, but I will say a couple of comments. One, this is a business that generates a tremendous amount of cash flow. So compared to how the Company was run several years ago, we are very comfortable with debt on the balance sheet, and I don't see us ever moving to kind of the large cash surplus that we used to be at. What is -- we are really focused on maintaining that investment grade rating, so we are going to be mindful of what the broader interest rate environment looks like and how the ratings agencies view us to ensure that we are doing what's necessary to kind of maintain that investment grade. Having said that, we're going to throw off a lot of cash. We just did a refi to -- I would say, a quarter ago where we moved some of our 5-year term into a shorter duration. So expect us to kind of continue moving to drive that down. And I'd highlight that we’ve been meaningfully taking down our share count in 2019. I think you can expect us to continue to do that in 2020.
+Michael Lucarelli
+Thanks C.J.
+C.J. Muse
+Very helpful. Thank you.
+Michael Lucarelli
+Let's move to the next question please.
+Operator
+Our next question comes from Craig Hettenbach, Morgan Stanley. Your line is open.
+Michael Lucarelli
+Good morning, Craig.
+Vincent Roche
+Okay, Craig.
+Craig Hettenbach
+On auto electrification, in terms of your positioning and long-term growth drivers, a number of suppliers have noted just near-term weakness in China just from a subsidy perspective and uncertainty around demand. Any color that you have in terms of what you're seeing in the China market on a near-term basis?
+Vincent Roche
+Hey, Craig. Yes, I mean, we -- in the market, we’ve market-leading position cross geos. China is a big market for us. What I will say is, yes, last quarter we did grow year-over-year, but it was less than 2Q in BMS, we still did grow. But it's a lumpy deployment base business. And if you look over the year-to-date, we're up double digits and we expect to grow year-over-year, again in our fourth quarter even with what's going on in China.
+Craig Hettenbach
+Got it.
+Prashanth Mahendra-Rajah
+And Craig, I do want to maybe reiterate the prepared remarks that Vince mentioned. For us, it is much more than just about managing the battery as efficiently as possible. We enjoyed growth with the processors who form and test the batteries. We have the LTC capabilities that helped drive efficient use of that power to help extend the range and we are also in the charging station. So as the whole ecosystem continues to build out to support electric vehicles, for us it's a much bigger play than just focusing on the batteries.
+Michael Lucarelli
+Do you have a follow-up Craig?
+Craig Hettenbach
+Understood. Thanks for that incremental color. Yes, I guess a follow-up, Prashanth, just on the manufacturing and some of the things you're doing with the footprint consolidation. Any update in terms of gross margin impact of when you would expect to see some synergies from that?
+Prashanth Mahendra-Rajah
+Yes. Thanks for the question, Craig. So, as I mentioned in the prepared remarks, our inventory is a little bit higher this quarter, because we are starting to put the bridge inventory that’s necessary for us to be able to close the facilities in Singapore and California. So we will need that bridge inventory so that we can continue to serve customers, while we take those facilities down. We are targeting those savings to start coming through the P&L in 2021 -- early 2021 and that -- as we’ve been public in several calls, that should be about an incremental $100 million on a run rate basis, that's all flowing through cost of goods sold.
+Craig Hettenbach
+Great. Thank you.
+Michael Lucarelli
+Thanks, Craig. Sheryl, next question, please?
+Operator
+Thank you. Our next question comes from Vivek Arya from Bank of America. Your line is open.
+Vincent Roche
+Vivek? Good morning. Vivek. Okay. Vivek, we are going to go to the next caller.
+Operator
+Thank you. Our next question comes from Stacy Rasgon from Bernstein Research. Your line is open.
+Vincent Roche
+Good morning. Stacey.
+Stacy Rasgon
+Let's start with OpEx. So obviously, you mentioned being a little more concerned on expenses given the environment. Can you talk a little bit about how you see that OpEx trajectory going into Q4? Are you sort of bottomed at this point given where variable comp is on the metrics, or is there room to still take OpEx down? I guess, what are the implications for OpEx, given the continued weak environment that you’ve seen?
+Prashanth Mahendra-Rajah
+Yes. Thanks for the question, Stacy. So I think the way to -- first, as a reminder, we don't guide gross margins anymore. If I answer OpEx question, I am implicitly giving you that guidance.
+Stacy Rasgon
+But qualitatively.
+Prashanth Mahendra-Rajah
+Yes, the way to think about it is, we are -- we have made a meaningful reduction in our OpEx versus our Q2. So we had a sequential improvement going into Q3. We are looking for that to kind of carry roughly flattish for the fourth quarter. We will focus on the variable cost that we can control and continue to exercise OpEx discipline. As we’ve said before, one of the levers we do have is our compensation system, which is meant to act as a flywheel as businesses go up and down and that will certainly be an element of the Q4.
+Stacy Rasgon
+Got it.
+Prashanth Mahendra-Rajah
+Thank you.
+Stacy Rasgon
+I do. Thank you. So in the prepared remarks, Vince mentioned that obviously the macro environment is still challenging, isn't getting better in the near-term. Would you say that from your perspective versus where your expectations were three months ago? Have things gotten worse versus where your prior expectations had been? I guess, just where have you been expecting things to kind of go into the year-end and are things worse than that are they sort of similar to where you had expect them to be three months ago?
+Vincent Roche
+Yes, Thanks, Stacy. Well, I would say the uncertainty and the trade tensions between America and China have obviously ratcheted up. I think it's indeterminate. What will actually happen there, in the short-to-medium term, PMI indices as well as GDPs are falling somewhat. So I think that headwind has increased somewhat, I think, since the last quarter. I think when I try to classify how customers are thinking about the world, the world of technology is gearing up. There's more and more innovation, the R&D budgets are very, very strong across the globe in all the sectors. So I think customers remain optimistic about the future, but I would say right at this point in time, the people who commit the CapEx, commit the investments, are probably a little less optimistic about the future than they were, say, a quarter ago. So that’s pretty much the best commentary I can give you Stacy.
+Stacy Rasgon
+Okay. And I guess, in our conference at the end of May, Vince, you had sounded pretty positive about potentially getting a trade deal, it doesn't sound like were there anymore?
+Vincent Roche
+Well, who really knows. I think both sides are working on it. I think incidentally, both sides want the deal, but I think it depends on the conditions. And what’s out there in the public domain is that both sides are digging their heels in at this point. So, yes, I would say Stacy, to answer your question directly, the sense of a trade deal by the end of the summer, which is looming very quickly here, is less likely than it was when you and I spoke back in May.
+Michael Lucarelli
+All right, Stacy. Thank you for the three questions [indiscernible] in there. Operator, we are going to try to go back to Vivek, if we can. And that will be our last question today.
+Operator
+Okay. Your next question is from Vivek Arya from Bank of America. Your line is open.
+Vivek Arya
+Thank you. Can you hear me now?
+Vincent Roche
+We can, Vivek.
+Vivek Arya
+Okay. Sorry for the screw up before. So first question, how should we think about seasonality going into your January quarter? Historically, it's a positive quarter, but I know you've had consumer volatility and this time, there's also the Huawei and trade war volatility. So I’m just curious, how is your visibility kind of one quarter out right now?
+Michael Lucarelli
+I will tell you, typical seasonality. I would say it's not a typical time. I will caveat with that and we are not giving guidance for a quarter out. Typically first quarter is a weaker quarter for us in B2B. Industrial is typically down -- almost typically down. I do think -- and the comms market, we talked about it being weaker here in the fourth quarter. It was very volatile and I think you see a quick acceleration back there in the first quarter and consumer will update you on next call, kind of our outlook for 2020. But I think you can expect this soon to be down again in 2020, but to a lesser degree than '19.
+Vivek Arya
+All right.
+Michael Lucarelli
+Do you have a follow-up, Vivek?
+Vivek Arya
+And then the other -- yes, thank you. The other thing, Vince, I know there's a lot of macro uncertainty right now, but when I look at your automotive and industrial businesses, so they were down kind of 6% year-on-year for the last couple of quarters. If I look at the guidance you're giving for October, it's down about -- I think about 2% year-on-year and you are saying industrial can be actually flat year-on-year, which is much better than what we’ve seen in the last few quarters. So I’m just trying to reconcile all the uncertainty in the macro environment versus the October quarter, kind of, industrial outlook. That seems somewhat more positive when I look at it.
+Vincent Roche
+Yes, we’ve a couple of specific areas where we’re seeing strength, aerospace and defense being kind of top of the list there. For a range of reasons, it's a combination of budgets being increased in the area of aerospace and defense, and also the strength of the technology portfolio that we bring. And I mentioned earlier on that healthcare continues to grow for the company. It's an area, again, where we've been increasing investments over the last 5, 7 years, and that's an area that I continue to be very optimistic about and think it will be a very good source of growth for the company for many, many years to come. So there are the two areas, Vivek, that are most meaningfully contributing on the industrial side right now to the strength we're seeing relative to the market.
+Prashanth Mahendra-Rajah
+And Vivek, I know you asked specifically about the change in trajectory in Q4, but I would want to remind you that kind of on a year-to-date basis, those numbers you quoted have been substantially better than the broader market. So we’ve outperformed, although the industrial market has been down on a year-to-date basis for us. We've generally outperformed the broader market.
+Vivek Arya
+Yes, absolutely.
+Michael Lucarelli
+Okay.
+Vivek Arya
+Thank you.
+Michael Lucarelli
+Thank you, Vivek. Thanks everyone for joining us this morning. A copy of the transcript will be available on our website and all of our reconciliations and information can also be found there. Thanks again for joining us and look forward to talking to you in 90 days.
+Operator
+This concludes today’s Analog Devices conference call. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+2 Authors in the Last 90 Days

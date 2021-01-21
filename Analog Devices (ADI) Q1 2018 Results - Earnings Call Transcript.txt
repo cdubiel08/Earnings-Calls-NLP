@@ -1,0 +1,248 @@
+Analog Devices, Inc. (NASDAQ:ADI) Q1 2018 Earnings Call February 28, 2018 10:00 AM ET
+Executives
+Michael C. Lucarelli - Analog Devices, Inc.
+Vincent T. Roche - Analog Devices, Inc.
+Prashanth Mahendra-Rajah - Analog Devices, Inc.
+Analysts
+Craig M. Hettenbach - Morgan Stanley & Co. LLC
+Ambrish Srivastava - BMO Capital Markets (United States)
+Stacy Aaron Rasgon - Sanford C. Bernstein & Co. LLC
+Toshiya Hari - Goldman Sachs & Co. LLC
+Vivek Arya - Bank of America Merrill Lynch
+Harsh V. Kumar - Piper Jaffray & Co.
+Harlan Sur - JPMorgan Securities LLC
+Operator
+Good morning, and welcome to the Analog Devices First Quarter Fiscal Year 2018 Earnings Conference Call, which is being audio webcast via telephone and over the web.
+I'd like to now introduce your host for today's call, Mr. Michael Lucarelli, Senior Manager of Investor Relations. Sir, the floor is yours.
+Michael C. Lucarelli - Analog Devices, Inc.
+Thank you, Jennifer. And good morning, everybody. Thanks for joining our first quarter 2018 conference call. With me on the call today are ADI's CEO, Vincent Roche; and ADI's CFO, Prashanth Mahendra-Rajah.
+Anyone who missed the release, you can find it and relating financial schedules at investor.analog.com. This conference call is being webcast live and a recording will be archived at the Investor Relations section of our website.
+Now on to the disclosures. The information we're about to discuss, including our objectives and outlook, includes forward-looking statements. Actual results may differ materially from these forward-looking statements as a result of various factors, including those discussed in our earnings release and our most recent 10-Q. These forward-looking statements reflect our opinion as of the date of this call. We undertake no obligation to update these forward-looking statements in light of new information or future events.
+Our commentary about ADI's first quarter financial results will include non-GAAP financial measures, which exclude special items. When comparing our first quarter results to our historical performance, special items are also excluded from the prior quarter and year-over-year results. Available reconciliations of these non-GAAP measures to their most directly comparable GAAP measures and additional information about our non-GAAP measures are included in today's earnings release and on our web schedules, which we've posted under the Quarterly Results section at investor.analog.com. And lastly, I'd like to remind investors that our first quarter was a 14-week quarter.
+Okay. So, with that, I'll turn it over to ADI's CEO, Vincent Roche. Vince?
+Vincent T. Roche - Analog Devices, Inc.
+Thanks, Mike, and good morning, everyone. Well, the first quarter of fiscal 2018 was another very successful quarter for ADI with momentum continuing across our business, and I'm very pleased to share our results with you now.
+Revenue in the first quarter came in at the high end of our guidance as strength across our B2B markets offset the expected decline in our consumer business. Our strong execution as a combined company delivered substantial growth and operating margin expansion compared to the year ago quarter, resulting in a 50% increase year-over-year in our non-GAAP diluted earnings per share. And our combined company adjusted free cash flow margins over the trailing 12 months continues to place us in the highest tier in the S&P 500.
+So digging into our markets. The industrial end market, consisting of a diverse, highly fragmented set of applications, represented approximately 50% of sales in the quarter. Our sales into this market have been stellar, increasing an average of 8% annually over the past five years, outperforming GDP by 2 times to 3 times.
+I'd like to spend some time today now providing a little insight into why we believe we've outperformed in this market and why we remain excited for the future. On a broad level, we believe we've gained market share by targeting the right applications, developing the right products, and bringing our domain expertise to bear as we engage with our customers at a more system-oriented level.
+For example, in our instrumentation business, our cutting edge mixed-signal RF and microwave and power solutions are enabling the most advanced test solutions for 5G data center operations and battery formation and deployment for new and existing customers.
+The aerospace and defense sector continues to be a strong growth market for ADI also. This business is driven largely by fleet modernization and the development and deployment of complex applications that require the highest performing electronics such as phased array radar. The combination of ADI's mixed-signal Hittite Microwave and LTC's power portfolios enables us unprecedented levels of integration across the signal chain and more than doubles our available market.
+Our industrial automation and process control business continues to benefit as factory floors transform to become more flexible and more automated. Customers are striving for higher overall productivity and a higher variety of output. In this changing landscape, our technology breadth and domain expertise is positioning us to win more of the BOM with customers worldwide who are engaged in brownfield upgrades and greenfield installations.
+Looking to the future of automation and process control, also referred to as the industrial IoT, we believe that our customer engagements combined with emerging trends such as artificial intelligence-enabled machines, sensor-to-cloud data processing, ubiquitous sensing, and true real-time connectivity will enable consistent content expansion for ADI.
+For example, on the factory floor of the future, robots and cobots will increasingly require more sensing modalities such as vibration, proximity and depth sensing as well as the highly-synchronized real-time communications capabilities that we are bringing to market. These developments open the opportunity to expand our dollar content by a factor of 5.
+In short, we see continued momentum across our industrial applications, as we move into 2018. And that, coupled with the underlying sector trends I've just described, should position us for profitable growth over the long-term in this area.
+So, turning now to the communications market. This sector represented 19% of sales in the first quarter and benefited from strong growth in wireless compared to the year ago quarter while wired demand remained weak. Our wireless business has increased at a high single-digit rate over the trailing 12 months due to share gains from recently released products co-designed with Hittite, strong demand for our integrated transceiver solutions and our position in virtually all emerging 5G and Massive MIMO trials.
+We remain excited about our wireless infrastructure business, as we continued to grow share and increase content, despite a relatively flat CapEx environment. ADI's portfolio of RF and microwave, high-speed signal processing and power management is unmatched in breadth and depth. This portfolio, combined with our deep customer focus in the bigger verticals as well as in the broad market, is fueling our success.
+Turning now to our automotive business, at 17% of sales, it performed better than our typical seasonality in the first quarter on strength from the infotainment and powertrain application areas. Our powertrain solutions that improved efficiency of both combustion engines and electric vehicles grew stronger than seasonal. We see this business becoming increasingly important for us, particularly as OEMs embrace broad electrification of their fleets.
+Our infotainment application area has grown at a high single-digit rate over the past five years, thanks to our market leadership in high performance audio and video solutions that improve the passenger experience. We see continued momentum with our innovative A2B technology, which has secured design wins at major OEMs in every geographical region and is enabling creative new audio architectures that will come to market over the next few years.
+So these businesses combined with our organic and technology acquisitions for next-gen sensing technologies necessary, for example, in Level 3 and beyond safety systems for autonomous vehicles, gives me great confidence that we're well positioned to grow at our long-term model of 2 times to 3 times SAAR.
+In our consumer business, revenue decreased as expected, both sequentially and compared to our year-ago quarter and represented 16% of sales in the first quarter.
+So before I hand the call over to Prashanth, I'd like to give you an update on our LTC integration progress. It's been nearly a year since we closed the acquisition, and we've made tremendous progress integrating and building something that we believe is greater than the sum of its parts by following a best of both approach.
+At this point, everyone in our company across the entire organization, sales, engineering operations, manufacturing and so on, is working towards a common goal of delivering long-term profitable growth. And when you look at traditional measures of M&A success, our exceptional employee retention and strong financial results over the past year speak for themselves.
+So we're on track to achieve the initial cost synergies we targeted when we announced the deal, and we continue to believe that we can realize meaningful revenue synergies over the long-term given the complementarity of our customer bases and products. As a rule of thumb, we believe that for every dollar of mixed-signal content ADI sells into a system, there's at least an equal value power opportunity that ADI can now more fully address.
+With our sales and engineering teams now integrated and working together, our opportunity pipeline continues to expand, giving us more confidence in converting that $1 billion-plus synergy opportunity into revenue.
+So to wrap it up, fiscal 2018 is off to a very strong start. Analog Devices' capabilities to effectively and efficiently bridge the digital and physical domains are needed more than ever as the world becomes more digital, more autonomous and more connected. With our ability to address opportunities from sensor-to-cloud, DC to 100 gigahertz and beyond, and nanowatts to kilowatts, we're confident in our ability to create shareholder value for years to come.
+And so with that, let me hand it over to Prashanth.
+Prashanth Mahendra-Rajah - Analog Devices, Inc.
+Thank you, Vince. Good morning, everyone, and let me add my welcome to our fiscal 2018 first quarter earnings call. With the exception of revenue and non-op expenses, my comments on the P&L line items will be on a non-GAAP or adjusted basis, which excludes special items outlined in today's press release.
+Before I get to our results for the quarter, I want to address three items. First, our recent announcement aimed around the streamlining of our global operations; second, the impact from the Tax Cuts and Jobs Act; and lastly, an update on our progress deleveraging.
+Last month, we announced our intention to close our Hillview wafer fab and Singapore test operations. Following a careful and thoughtful analysis, we validated this decision based on the capabilities and overall strength of the world-class supply chain that we have built organically and through acquisition. It will take us about three-plus years to wind down these operations and ensure a smooth transition for our customers.
+Once complete, these two factory closures represent a significant portion of the additional $100 million of cost synergies we outlined at our Analyst Day in June 2017. Our current quarter GAAP results include a charge of $57 million, the majority of which relate to this action and will be cash. The overall program, which will include some expenses in future periods, will have a good payback of approximately one year.
+Next, I want to summarize the impact of the Tax Cuts and Jobs Act on ADI, with the caveat that these are our initial estimates and could change as we refine our analysis. Investors should assume no change to our previously discussed long-term non-GAAP tax rate of approximately 12%, a level which we expect to return to in fiscal 2019. This comprehends the benefits of a lower statutory rate offset by a higher rate on foreign earnings.
+However, our 2018 non-GAAP tax rate is forecasted to be in the range of 6% to 8% as the higher rate on our foreign earnings does not take effect until our next fiscal year. So let me take a moment to reconcile our first quarter GAAP to non-GAAP tax rate.
+In the first quarter of 2018, our GAAP tax expense included a net charge of $47 million related to tax reform. This charge included an approximately $690 million accrual on the tax on indefinitely reinvested earnings, which was almost completely offset by approximately $640 million non-cash reduction in our deferred tax balances. We plan to pay this tax over eight years beginning in fiscal 2019, and we expect to pay approximately $60 million in each of the first five years and the remaining balance over the following three years. The end result from tax reform is that ADI can more optimally utilize the entirety of its cash position and continue to delever and return value to shareholders, which brings me to my last topic, leverage.
+We exited our first fiscal 2018 quarter with a net debt-to-EBITDA ratio of 2.4 times, down from 2.6 times in the prior quarter and down from 3 times at the close of the LTC deal last year. Given our strong cash flow generation capabilities, the momentum across our business, and the benefits associated with tax reform, we have confidence that we can reduce our debt by at least $1 billion annually, and we now expect to achieve our 2x leverage milestone exiting the fourth fiscal quarter of 2018. And once we achieve this leverage ratio, we will revisit our capital allocation strategy to ensure that we continue to optimize shareholder value.
+So now, let's discuss the quarter. As Vince mentioned, the 14-week first quarter of 2018 was a very strong quarter for ADI. Revenue was 1.52 billion, above the midpoint of guidance and increased 54% year-over-year while declining 1% sequentially in the seasonally slower first quarter.
+Looking at the combined company and excluding or backing out the benefit of the 14th week, our B2B revenue increased 10% year-over-year led by growth in the industrial market, which increased to mid-teens compared to the same quarter a year ago. Gross margins of 71% came in at the upper end of guidance and increased slightly compared to the fourth quarter.
+Op expenses in the first quarter were $446 million or 29% of revenue. And on a 13-week basis, op expenses declined about 5% sequentially. We've now completed the OpEx synergies outlined in our LTC deal announcement. Strong revenue growth and operating leverage delivered operating margin of 41.7% at the upper end of guidance.
+Non-op expenses in the first quarter were $66 million. We expect our non-op expenses to be approximately $60 million in our second quarter and a decline by $2 million to $3 million per quarter in fiscal 2018. Our first quarter non-GAAP tax rate was 6%. And as previously discussed, we expect our non-GAAP tax rate for 2018 to be in the range of 6% to 8% before increasing to the long-term expected rate of approximately 12% for fiscal 2019.
+Non-GAAP diluted EPS for the first quarter was $1.42, and this included a benefit of $0.09 related to our lower tax rate. Excluding this benefit, our non-GAAP EPS came in at the upper end of the guided range.
+That wraps of the P&L, and I'll move to the balance sheet. Inventory increased 2% sequentially or $9 million, primarily the result of our decision to keep production levels commensurate with bookings to maintain the customer service levels based on the B2B demand environment. As a result, days of inventory increased to 124, and we expect days to decline over the balance of the year beginning in the second quarter.
+Distribution inventory was approximately 7.5 weeks, up slightly compared to the year-ago quarter, but in line with our outlook. We generated free cash of $325 million in the quarter. And in the trailing 12 months, adjusted free cash flow for the combined company was $1.8 billion.
+CapEx additions in the fourth quarter were $63 million, and we expect CapEx in fiscal 2018 to run at our model of about 4% of sales. During the quarter, we paid $167 million in dividends. Our board of directors approved yesterday a 7% increase in the quarterly dividend to $0.48 per share, which represents an annual dividend of $1.92.
+So now, I'll move to the outlook and expectations for the second quarter of fiscal 2018, which with the exception of revenue, are also on a non-GAAP basis and exclude items outlined in today's release. We're planning for revenue in the second quarter to be in the range of $1.43 billion to $1.51 billion, an increase of 22% compared to the year-ago quarter at the midpoint. As a reminder, first quarter was a 14-week quarter and second quarter is back to a normal 13-week quarter.
+Adjusting for this, we are planning our B2B markets, which include industrial, automotive, and comms in the aggregate to increase at a high single-digit rate sequentially and thus represent a larger mix of business. We're planning for gross margins to be in the range of 71% to 71.5% due to a more favorable mix and as we capture the final amount of our initial tranche of COGS synergies.
+We expect OpEx to be in the range of $430 million to $440 million in the second quarter. And at the midpoint of this guidance, this implies a sub 30% OpEx as a percentage of sales once again. Based on these inputs, we expect operating margins in the second quarter of 2018 to be in the range of 41% to 42.5%, and for diluted EPS, excluding special items, to be in the range of $1.30 to $1.44.
+So to summarize, we're off to a great start for the year. Industrial continues to have momentum across all our application areas. We're outperforming in comms driven by our strong position in wireless. In automotive, we're making great progress on putting the combined company on a strong growth trajectory. As Vince mentioned, the LTC integration is going very well, our innovation pipeline is rich, and we are just getting started.
+With that, let me turn it over to Mike for our Q&A session.
+Michael C. Lucarelli - Analog Devices, Inc.
+Okay. Let's get to our Q&A session. Please limit your self to one question and after our initial response, we'll give you an opportunity for a follow-up question. Operator, can we have our first question, please?
+Question-and-Answer Session
+Operator
+Our first question comes from Craig Hettenbach from Morgan Stanley.
+Craig M. Hettenbach - Morgan Stanley & Co. LLC
+Yes, thank you. A question for Vince, just your commentary about market share gains, can you provide any specific examples there in kind of how you view where you are in that process in terms of it translating into revenue?
+Vincent T. Roche - Analog Devices, Inc.
+Yes. Well, I think we're able to talk about market share gains in several sectors, Craig. If I just go to the industrial sector, for example, I think we've talked before about aerospace and defense being an area of increasing opportunity, system complexity and a place where we're able to combine the rich portfolio of the Hittite Microwave technologies with ADI's mixed-signal. And we're seeing continued digitalization in that space, fleet upgrades, and we're benefiting from that enormously.
+And also, in automation, just the sheer breadth of what we have and the focus that we've had over the last several years in tuning the R&D portfolio, resteering our sales force globally into making sure that we keep our leadership position at the large customers is benefiting enormously, the whole growth story.
+Also with a combination of LTC, as you know, the market overlaps were quite high between LTC and ADI. But the actual areas where our sales forces were playing were pretty complementary. So we're gaining, I think at the large customers, the small customers, with more breadth and depth in terms of portfolio than we've ever had.
+If you look at the communications sector, I think again, the – we're starting to see the benefit now of the – particularly in the wireless area of the co-designed products with Hittites combined with ADI's, again, strength on the mixed-signal side in traditional macro base stations.
+Our integrated transceivers are becoming, if you like, the standard now for massive MIMO developments in these hybrid macro small cell systems, where phased array antenna systems are being used with traditional antenna systems. So our software-defined transceiver is really being the standard, the benchmark now in that sector.
+And as the trials begin for massive MIMO and 5G, we're in virtually all those trials globally. So I think those are just two – some subsets in the industrial area, particularly in the wireless area in communications where we have demonstrable gains, I believe, in market share.
+Michael C. Lucarelli - Analog Devices, Inc.
+Thanks for the question, Craig.
+Craig M. Hettenbach - Morgan Stanley & Co. LLC
+Great. Thank you.
+Operator
+Your next question comes from the line of Ambrish Srivastava with BMO.
+Ambrish Srivastava - BMO Capital Markets (United States)
+Yeah. Hi, sorry I'm just running around in a public space, so I apologize a little bit. My first question was can you just help us understand the deltas you had in the business segments? Just help us understand what happened as the quarter progressed in terms of the guidance that you had provided and the results that you ended up with?
+Prashanth Mahendra-Rajah - Analog Devices, Inc.
+Can you clarify that question, Ambrish? Are you asking sequentially how the business did in the reported results?
+Ambrish Srivastava - BMO Capital Markets (United States)
+Yeah. My question is you had guided to certain results for – expectations for the – for all the segments, but the results came in different for each of the segment, particularly in automotive and also in industrials. So what transpired that your results were different than what you were expecting initially?
+Prashanth Mahendra-Rajah - Analog Devices, Inc.
+Okay. Yeah, yeah. Thanks, Ambrish. So as a reminder, we no longer give guidance at the segment level, so we did not provide that for the first quarter. We did provide some broad indications on how B2B would do versus consumer. But now that the results are actual, Mike can kind of walk you through how each of the B2B segments -or each of the components of our B2B did on a year-over-year basis, which across the board were very good.
+Michael C. Lucarelli - Analog Devices, Inc.
+Yes, so Ambrish, we guided the B2B to be down mid single-digits. B2B came down 3% sequentially on a combined company basis, but I think they're pretty good results in the first quarter. And if you look at our automotive business, it was down 2% sequentially, which is a bit better than typical seasonality. We – Vince highlighted in his prepared comments, infotainment, powertrain application areas were stronger.
+Our communications business, it's tough. There's really no seasonality in that business, but I think what's important there (25:58) it grew year-over-year, and it really was led by our wireless growth, which is up double digits year-over-year (26:02). And industrial was down about 3% sequentially on an adjusted basis or up mid-teens percent year-over-year, once again, very good strong growth there. In consumer, we thought it'd be weak. It was weak. It performed as we expected.
+Prashanth Mahendra-Rajah - Analog Devices, Inc.
+Thanks for the questions, Ambrish.
+Ambrish Srivastava - BMO Capital Markets (United States)
+(26:20).
+Michael C. Lucarelli - Analog Devices, Inc.
+Do you have a follow-up?
+Ambrish Srivastava - BMO Capital Markets (United States)
+Yes, I did. So, yeah, my question was on the inventory side. Inventories were up. And I think if I look back at the last several years, typically in the quarter, inventories are either flat or down on a dollar basis, but you said that you built inventory, but as you go through the year, you – in terms of days, you expect inventories to come down. So just kind of help us understand what are you seeing and then why should inventory be trending down as we go through the year? Thank you.
+Prashanth Mahendra-Rajah - Analog Devices, Inc.
+Okay, thanks Ambrish. Thanks for the question. So inventory was up 2% or about $9 million quarter-over-quarter. Most of that $9 million was built for the B2B market, and that was driven by a strategic decision we made to keep the production levels sort of commensurate with the bookings idea – bookings outlook that we had. Driven by, one, making sure that we can maintain the high levels of customer service that are needed and to target our lead times sort of in that four- to six-week range; B, like everyone looks at inventory levels as a indicator or as a canary in the coal mine of what demand looks like, and I would say that all the other indicators we're following remain very green. Our book-to-bill is above parity, both with and without consumer. Lead times remain stable, and we see no change in cancellation activity.
+Part of that $9 million was a small, but relatively immaterial amount due to an accounting policy that we harmonized between LTC and ADI. But in general, we feel very good about where we are on inventory in light of the demand we see for Q2 and we expect days to decline at a normal pace over the balance of the year.
+Vincent T. Roche - Analog Devices, Inc.
+Yeah, I'll add one other...
+Ambrish Srivastava - BMO Capital Markets (United States)
+Okay. Thanks for all the details.
+Vincent T. Roche - Analog Devices, Inc.
+I'll add another...
+Ambrish Srivastava - BMO Capital Markets (United States)
+Yeah, sorry, Vince.
+Vincent T. Roche - Analog Devices, Inc.
+Yeah, (28:16) Ambrish. So, the internal fabs are the largest supply line for our industrial business. And what we're seeing there, of course, is the book-to-bill is positive, has been now for several quarters. And as Prashanth said, we're eager to make sure that we keep our lead times at a level where we can supply the upside demand here. So I think that's worth considering when you think about why we kept our internal fabs running at a higher clip than we would normally do for the first quarter.
+Prashanth Mahendra-Rajah - Analog Devices, Inc.
+Thank you, Ambrish.
+Ambrish Srivastava - BMO Capital Markets (United States)
+Okay, thank you.
+Michael C. Lucarelli - Analog Devices, Inc.
+Jennifer, next question, please.
+Operator
+Our next question comes from the line of Stacy Rasgon with Bernstein Research.
+Prashanth Mahendra-Rajah - Analog Devices, Inc.
+Good morning, Stacy.
+Vincent T. Roche - Analog Devices, Inc.
+Go for it, Stacy.
+Stacy Aaron Rasgon - Sanford C. Bernstein & Co. LLC
+Hello. I'm sorry, I was on mute. I'm sorry, I was on mute. My bad.
+Vincent T. Roche - Analog Devices, Inc.
+Okay.
+Stacy Aaron Rasgon - Sanford C. Bernstein & Co. LLC
+Thanks for taking my questions. Could you walk us through puts and takes on free cash flow in the quarter? I know there's a bunch of stuff going on with the tax law and everything else. The number itself was a little lower than I might have expected. And I want to – I just want to see if you can give us a walkthrough with all the puts and takes. I think there's more going on there than normal this quarter.
+Prashanth Mahendra-Rajah - Analog Devices, Inc.
+Yeah, absolutely. So for free cash flow, the – we had the hat-trick in Q1. Three items that were sort of buried in there. First, we make our large annual payment to the IRS, so federal taxes were paid in the first quarter. Second, we make our once every two-year payment for the employee bonus program. And then, we also make our once every two-year payment for our interest debt. So some big outgoing items that hit us with some lumpiness. The way to look at cash flow, as we do, is on a trailing 12-month basis, generating $1.8 billion over the last 12 months, continue to see very strong expectations on cash flow. The model has not changed. We convert a high amount of the profitability to cash, and you'll see strength there for second quarter in the cash flow number.
+Stacy Aaron Rasgon - Sanford C. Bernstein & Co. LLC
+Got it. Thank you. That's helpful. For my follow-up, I had a question on the longer-term synergies around the fab closures. So you're looking at three to five years to cull these factories. In the past, when you've closed your own factories, it didn't take three to five years. It was more like one to two years when you closed Sunnyvale or Limerick or Cambridge. Why did it take three to five years to close the Linear facilities?
+Vincent T. Roche - Analog Devices, Inc.
+Well, it tends to take three years. There's – given the multiple recipes that we have in our foundries and the back-end operations, it does tend to take about three years typically, and that's what I believe will be the case with the LTC Singapore and Milpitas closures as well. Our job, number one, is to make sure that we keep our service and quality levels high for our customers across the many thousands of customers and hundreds and hundreds of applications and the – as I said, the myriad of recipes that we've got. So it will take most likely three years, but obviously, we're trying to push as hard as we can for the efficiencies to kick in earlier. But that's the rule of thumb, three years.
+Prashanth Mahendra-Rajah - Analog Devices, Inc.
+And Stacy, maybe just a quick comment I would add is that, the net result is the two closures, but what's going on under the covers is quite a bit of process movement among multiple facilities, internal and external. So, you're seeing the – we're talking about the net output, but under the cover, it's a lot more complex than just shutting down the two operations.
+Stacy Aaron Rasgon - Sanford C. Bernstein & Co. LLC
+Got it. Thank you, guys.
+Michael C. Lucarelli - Analog Devices, Inc.
+Thank you, Stacy.
+Vincent T. Roche - Analog Devices, Inc.
+Thank you.
+Operator
+Your next question comes from the line of Toshiya Hari with Goldman Sachs.
+Toshiya Hari - Goldman Sachs & Co. LLC
+Yeah. Great. Thanks for taking the question. I had a question on the consumer business. In the past, I think you guys talked about fiscal year 2018, consumer revenues being down somewhere between 20% and 30%. I was just curious, does that range still hold? And if not, what are some of the things that are driving the potential change there?
+Vincent T. Roche - Analog Devices, Inc.
+Yeah. So, thank you. Well, look, our 2Q guidance would imply that consumer will be down somewhere in the region of 10% quarter-on-quarter on a 13-week basis. And down about, again, 10% on a year-over-year basis. So our expectations remain unchanged. We believe that 2018 will be down meaningfully over 2017 in terms of, at least, the portable consumer revenue. And the first half is now shaping up within the range of our expectations. And we're expecting weakness in the second half on an annual basis. So the number we've given you of a 20% to 30% overall decline in the business still stands. And as I said, that's driven by our portable business. Our prosumer A/V, the audio/video, non-portable side of things is in good shape and continues to go grow for the company.
+Toshiya Hari - Goldman Sachs & Co. LLC
+Great. And then I had a – yeah, I had a follow-up for Prashanth. It's – I guess, it's been several months since you joined ADI. I guess, the question is what are some of the things that you've learned about the company and about the industry during this timeframe that you perhaps didn't fully appreciate prior to joining the company? And what are some of the changes that you hope to drive in terms of the financials of the company going forward? Thank you.
+Prashanth Mahendra-Rajah - Analog Devices, Inc.
+Sure. Thanks. That's a very long question if I wanted to give you a thoughtful answer, but I'll give you a quick item, which I continue to reflect on. The correlation of the ADI business to the B2B markets and the stability that we have in our customer base is something that I'm continuously impressed on. The – this is not a business that, given how embedded we are and how close we are to our customers and the broad spread of products that we are incorporated in, I think sometimes investors don't fully appreciate that we will follow much more closely to a different set of markets than other, perhaps, semi-companies that operate in the digital space, and that's something that we're going to continue to have to help the investor community appreciate as the strength of this business.
+Michael C. Lucarelli - Analog Devices, Inc.
+Our next question, Jennifer?
+Operator
+Your next question comes from the line of Ross Seymore with Deutsche Bank.
+Unknown Speaker
+Hey, this is Gerald (35:13) on behalf of Ross. Got two quick ones. First, on OpEx, I see you guys guided OpEx down. I think we're expecting it to be down a little bit more. Understand, it's basically guiding it back to the October range, but other than the 14- and 13-week quarter, what's the trajectory for OpEx going forward?
+Prashanth Mahendra-Rajah - Analog Devices, Inc.
+Right. So the way to think about the OpEx is that for the – now, starting in the second quarter, you'll begin to see the impacts of some of the normal items that flow in, including our merit increases, which start to come in and the impact of the performance bonus metrics. The second quarter, you'll see, is more aligned to where we were in the fourth quarter if you adjust out some of the noise of the 14th week that we had in the first quarter as well as the – there's some sort of seasonal slowdown of spending that happens in the first quarter.
+So, I would guide you that OpEx in the second quarter, as we put – we expect kind of be in the sub 30% of revenue, which we think is a great target for us as we continue to drive the conversion of the cash, so conversion of the profit. But nothing more notable really in the OpEx spend.
+Michael C. Lucarelli - Analog Devices, Inc.
+Yeah, Gerald (26:42) and I get to add one thing there. I mean, if you look at our combined company, Linear and ADI, we're – our guidance implies a high single-digit year-on-year growth. And the OpEx is flat over that time. That's a good result. And what that is, is we're managing our expenses and we're capturing synergies. If you look in the back half of the year, typically, I would say OpEx is up a little bit in 3Q because of merit increases and maybe it'll flat in the fourth quarter. I think we'll strive to do even better than that this year given the synergies.
+Unknown Speaker
+Thanks for that. And as a follow-up, I just want to ask a question on auto growth. And I think it's probably safe to say that your auto business probably under grew the industry as a whole last year in 2017. But what gives you confidence that you can grow 2 times to 3 times SAAR? Is that a fall off or a flattening in the declines in the passive safety business? Or what gives you confidence in that regard?
+Vincent T. Roche - Analog Devices, Inc.
+Yeah, good question. So, let me parse the business a bit for you. So, we have roughly a $900 million automotive business today across the combination of ADI and LT. ADI is roughly two-thirds of that; LT, a third. The ADI portion of that business has been growing in line with the 2 times to 3 times SAAR target. And in 2017, that part of our business grew in the high single-digits. And also, in the first quarter of 2018, as Mike said in one of the prior answers, our automotive business was actually better than seasonal, typically year-over-year in the first quarter. So the ADI portion is growing high single-digits and the LT piece is growing in the low single-digits.
+But we believe, given the opportunity pipe that we're seeing and the opportunity pipe that we inherited from LT, that even though the LT part of the business is growing more modestly, that over the coming couple of years, at least the power piece of that will get into the higher single-digit area, at least into the model. And everywhere that – as I mentioned in the prepared remarks, we use a rule of thumb that for every dollar of mixed-signal or legacy ADI Hittite content, there's at least a dollar of LT power.
+I will tell you as well that we're already starting to see revenue synergies on the LT side. We're winning designs for power management. And as we kind of retune the business logic on the LT side, we tune the organization and the business for profitable growth, we're already beginning to see the start of synergies there.
+The BMS sector, well, we said before that was a trouble spot for ADI in 2017, the battery management area. But it has stabilized and is now in the recovery phase. So we're expecting to be able to grow the battery management part of our business in double-digits this year. And as I said, that is at the beginning phases of what I think will be a strong recovery during the second quarter.
+Michael C. Lucarelli - Analog Devices, Inc.
+If you take a step back, I would say 2017 was – grew about low single-digits year-on-year as a combined business. I think 2018 is shaping up to be better than that, given our book of business.
+Unknown Speaker
+Thanks so much.
+Michael C. Lucarelli - Analog Devices, Inc.
+Okay. Jennifer, next question please.
+Operator
+Our next question comes from the line of Vivek Arya with Bank of America.
+Vivek Arya - Bank of America Merrill Lynch
+Thank you for taking my question. Vince, (40:31) your industrial sales have sort of been off the charts over the last couple of quarters. What's your level of visibility into the consumption of these parts? In that when you look at this kind of growth, we have not seen that before, but you have mentioned a couple of very strong drivers, aerospace, defense and industrial automation and so forth.
+Vincent T. Roche - Analog Devices, Inc.
+Yeah.
+Vivek Arya - Bank of America Merrill Lynch
+But what are the metrics you look at just to convince yourself that this kind of growth rate is sustainable and then there isn't some kind of inventory or other risk building up somewhere?
+Vincent T. Roche - Analog Devices, Inc.
+Yeah, it's a good question. I think primarily, we as a company, pay very careful attention to the end consumption. We look at sell-through in measuring the performance of our business, not what we ship into the channel, but what we sell-through and what customers are consuming. So I would say, first and foremost, that's the case. When you look at the backdrop, our market growth is very broad-based and all applications and geographies are up in double-digits year-over-year.
+So again, you look at the PMIs, they're still in expansion phase globally. And GDP is converging across the globe, across all the major geographies into an expansionary phase. So also, we pay a lot of attention to what our customers are saying. And that, I would tell you that our customers across the board in all the regions are pragmatically optimistic. And their belief, given the macro environment, the macro backdrop, the PMI situation and the vast deployment of high-end machinery into the Asia region in particular, that 2018 is going to be another good year and that we'll see momentum continue from 2017, which we are experiencing right now.
+Michael C. Lucarelli - Analog Devices, Inc.
+Vivek, thanks for the question. I will just add, book-to-bill is looking very good. Lead times are stable and short, and we also are very conscious of what inventory in the channel is and it does not give us concern.
+Jennifer, can we go to the next question please.
+Operator
+Our next question is from Harsh Kumar with Piper Jaffray.
+Harsh V. Kumar - Piper Jaffray & Co.
+Hey, guys. First of all, congratulations on some very strong results.
+Vincent T. Roche - Analog Devices, Inc.
+Thank you.
+Harsh V. Kumar - Piper Jaffray & Co.
+Vincent, and I had a quick question for you. Sort of piggybacking on to what the previous question was, doing extremely well in industrial, could you characterize, I mean, the end markets that you play in, do you think it's a function of that, or do you think it's some other things that you guys as a company are doing to garner over the top growth?
+Vincent T. Roche - Analog Devices, Inc.
+Yeah. It's a good question. I think we as a company retooled our strategy several years ago and primarily decided that we were focusing ADI's investments in the B2B space and pointing our sales force at the B2B area. Industrial is one of the first calls on our R&D, and the crop of products that I think, we have now is the strongest that it's ever been. So we are getting more content gain across all our industrial customers, both big and small.
+And I will tell you as well that in the areas of aerospace and defense and instrumentation, the combination with Hittite has really – that's catalyzed content gain. And I think we're able to solve our customers' problems at a level that others can't in these areas. We're able to take a complete system, be it nanowatts to kilowatts, sensor-to-cloud, microwave to bits. So I think a large part is the sheer arsenal of technologies and products that we've got and we bring to bear, the focus that we've got as a company and how we're serving our customers' needs, being able to build more complete solutions for them, and we do that globally.
+And as I mentioned earlier, the combination of the LT sales and application force with ADI just strengthens our position and enables to cover ever more customers. So I think it's a case of converging innovation engine working well. Our customer engagements are stronger than they've ever been, and we've been focused and making sure that we are able to gain share and build competitive advantage now for several years in the industrial area.
+Prashanth Mahendra-Rajah - Analog Devices, Inc.
+Thanks for the question, Harsh. I would – maybe I'll just wrap up saying, we have a very good progress internally on selecting where we choose to invest and where we choose to innovate. And as a Vince mentioned in his prepared remarks, you see that paying off by placing the right bets and where we see the secular trends growing as well.
+Jennifer, let's go to our last question.
+Operator
+And our final question comes from Harlan Sur with JPMorgan.
+Harlan Sur - JPMorgan Securities LLC
+Good morning. Thank you for taking my question and great job on the quarterly execution. Just wanted to kind of take a step back here and look at the underlying demand trends for the business, and just get a sense on how broad-based it was from a geographical perspective. Macroeconomic demand trends remain relatively healthy. Maybe if you guys could just talk about the year-over-year growth trends in the different geographies?
+Prashanth Mahendra-Rajah - Analog Devices, Inc.
+Mike, do you want to take that?
+Michael C. Lucarelli - Analog Devices, Inc.
+Yeah, sure. First, I'll caution you. I mean, looking at the geography trends for us is not as useful as we base geography revenue on design-in activity. But in general, our strength is broad-based, it's up double digits in every region in industrial. Our wireless business did good across the globe as well. I mean, this is definitely, I would call it global synchronized growth scenario that we are benefiting from. And really, we've been doing better than I would say, given what Vince has talked about, given our share gains, our portfolio and where we're selecting to play. Do you have a follow-up?
+Harlan Sur - JPMorgan Securities LLC
+Great. Thanks for the – yeah. On the mil-aero side, the move to phased array radar-based systems for both civil and defense-related applications, your guys' dollar content per engagement goes up there, I think, pretty significantly, and I think that there's only one other competitor in that space. Have some of these programs started to fire or is it more of a 2019 driver? And then if you can just remind us of the dollar content step up relative to prior generation architectures. Thank you.
+Vincent T. Roche - Analog Devices, Inc.
+Yeah. Well, look, there's many, many different sub applications within the aerospace and defense area. And I would say the recent history and the prognosis for those sectors remain strong in terms of the digitalization, fleet upgrades, for example, in the aerospace area. And, we've highlighted in past conversations the area of these phased array antenna systems, digitalizing the old Analog radar systems used in civil and commercial aircraft systems.
+The content gain there goes from, we believe, the SAM goes from probably $100,000 in the past to probably $2 million in the future, somewhere in between depending on the types of architectures and deployments. So the upside demand we're seeing for these phased array systems and the opportunity is very, very compelling.
+A – [072DK6-E Mike Lucarelli]>: Thank you, Harlan.
+Prashanth Mahendra-Rajah - Analog Devices, Inc.
+Okay. Thank you all for joining us this quarter. As always, Mike is available for those of you who are unable to get through on today's Q&A session. Jennifer, we can wrap up the call.
+Operator
+This concludes today's Analog Devices conference call. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+2 Authors in the Last 90 Days

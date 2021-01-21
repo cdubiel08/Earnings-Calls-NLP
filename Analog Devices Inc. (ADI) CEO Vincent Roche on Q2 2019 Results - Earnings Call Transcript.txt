@@ -1,0 +1,210 @@
+Analog Devices, Inc. (NASDAQ:ADI) Q2 2019 Earnings Conference Call May 22, 2019 10:00 AM ET
+Company Participants
+Michael Lucarelli - Director, Investor Relations
+Vincent Roche - Chief Executive Officer 
+Prashanth Mahendra-Rajah - Chief Financial Officer
+Conference Call Participants
+Tore Svanberg - Stifel, Nicolaus
+Vivek Arya - Bank of America
+Harsh Kumar - Piper Jaffray
+Harlan Sur - JPMorgan
+Ross Seymore - Deutsche Bank
+William Stein - SunTrust
+Ambrish Srivastava - BMO
+Operator
+Good morning, and welcome to the Analog Devices First [sic] [Second] Quarter Fiscal Year 2019 Earnings Conference Call, which is being audio webcast via telephone and over the web. I’d like to now introduce your host for today’s call, Mr. Michael Lucarelli, Director of Investor Relations. Sir, the floor is yours.
+Michael Lucarelli
+Thank you, Sheryl, and good morning, everybody. Thanks for joining our second quarter fiscal 2019 conference call. With me on the call today are ADI’s CEO, Vincent Roche; and ADI’s CFO, Prashanth Mahendra-Rajah. For anyone, who missed the release, you can find it and relating financial schedules at investor.analog.com.
+Now on to the disclosures. The information we are about to discuss, including our objectives and outlook includes forward-looking statements. Actual results may differ materially from these forward-looking statements as a result of various factors, including those discussed in our earnings release and in our most recent 10-Q. These forward-looking statements reflect our opinion as of the date of this call. We undertake no obligation to update these forward-looking statements in light of new information or future events.
+Our comments today about ADI’s second quarter fiscal 2019 financial results and short-term outlook will also include non-GAAP financial measures, which exclude special items. When comparing our results to historical performance, special items are also excluded from the prior quarter and year-over-year results. Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures and additional information about our non-GAAP measures are included in today’s earnings release.
+Okay. With that, I’ll turn it over to ADI’s CEO, Vincent Roche. Vince?
+Vincent Roche
+Thanks very much Mike, and a very good morning to everybody on the call. Before I get into my recap of the quarter, I wanted to briefly touch of recent developments. As you’re no doubt aware, the U.S. Government announced last week that it’s restricting a large communications company from acquiring U.S. products and technology. While this will have at least a short-term impact on our communications business our business is global, broad, and robust and we’ll manage through this.
+Prashanth will give a bit more insight into the anticipated financial impact of this development during his particular section. So, now on to our highlights. The second quarter of fiscal 2019 was another successful quarter for ADI with revenue from our B2B markets increasing year-over-year once again. This represents the twelfth consecutive quarter of annual B2B revenue growth, which is really a testament to the diversity of our franchise and our ability to innovate ahead of secular growth opportunities.
+Revenue of $1.53 billion came in at the high-end of our guidance led by strong year-over-year growth from our communications applications across multiple segments. Adjusted gross and operating margins increased, compared to last quarter to 70.6% and 41.5% respectively. All told, adjusted EPS was $1.36, which was also at the high end of outlook.
+Now, over the past 12 months, we’ve generated approximately $2.1 billion in free cash flow or 34% of revenue, and during that time period we’ve returned more than 100% of free cash flow to our shareholders after debt repayments. Now, before we move on to the financial section of our call, I’d like to continue our discussion around ADI’s key markets, their trends, and ADI’s strategic initiatives positioning us to capitalize on these opportunities.
+We previously discussed our strong position in the wireless market, particularly in massive MIMO and 5G where our content opportunity is up to 4x compared to traditional 4G systems. So, today I’m going to talk about the other third of our comms business, namely the wireline market. The wireline market is very profitable. It’s a steady growth business for ADI with the combined company having grown at a high-single-digit rate annually for the past five years.
+The market and its challenges around precision, control, and power are a perfect match for ADI's comprehensive portfolio and domain expertise. There are many applications within the wireline business, but today I want to focus on the fastest-growing segment namely the optical market. The primary driver of the wireline market is unsurprisingly exponential growth in demand for digital data.
+IP traffic across carrier networks and data centers is doubling every 2.5 years, driven primarily by Cloud Compute, backhaul of 4G and 5G networks, and consumption of data rich content. This extraordinary growth represents a significant challenge for the carrier networks and data centers that transport and manage this data as it’s not possible to lay new optical fiber, our double data center floor space every two years. So, their challenge is ADIs opportunity.
+The two primary ways to solve their data throughput problem are increasing the speed of the existing fiber network and reducing the form factor of data ports to increase data density. Carriers are increasing their speed of their networks by upgrading from 100 gigabits per second to 400 GPS, and in some cases, to more than a terabit per second. At the same time, optical modules are being scaled down by 2x, 4x, and even 10x.
+At this level of data throughput, our customers are pushing the optical components and subsystems such as lasers, modulators, and coherent signal processing to their physical limits. Precisely controlling throughput, managing synchronization, compensating for signal impairments, and reducing system noise is critical to overall system performance. By partnering closely with our customers, we’re developing highly optimized optical control and power management products that match the smaller form factor required in next-generation optical systems.
+Importantly, for every 4x increase in speed in an existing network, our control content opportunity increases by more than a third. This 400-gig control port space is the fastest-growing segment of our optical business, largely driven by the rapid growth in data center port traffic, but a high precision signal chain only solves part of the problem in these next-gen carrier and data centric networks.
+Denser optical networks create power and thermal challenges that our customers must also mitigate to avoid harmful impact on the network’s potential speed and data throughput, not to mention, impact on their operating expense as power and cooling represent over 30% of a data center’s total cost of ownership. Now, that’s a huge opportunity for our power portfolio. We’re taking our core power franchises, namely µModule and Silent Switcher technologies for example and leveraging ADI’s market leading position to broaden our customer reach and develop optimized solutions for this market.
+In addition to optical port solutions, we also supply innovative power sequencing and hot swap products. These technologies enable our customers to mitigate costly downtime and avoid disruptions by managing the highly complex power chain of network and servers and routers. The addressable market for these solutions continues to grow as port and data traffic density continues to increase.
+Now, as said in the past that for every dollar of signal chain we sell into a system, there’s at least a dollar of power opportunity, and the wireline market is no different. Since our combination with LTC, we’ve seen our pipeline in power for the wireless market expand very significantly.
+So, in closing, we expect continued profitable growth over the long-term in the wireline market as control and power challenges intensify in response to the market’s densification with ever increasing bandwidth demand. And as providers shift to silicon photonics, we expect even more opportunity for ADI as control and power solutions are necessary to compensate for the lower inherent performance of these silicon-based photonic solutions.
+And with that, let me hand it over to Prashanth.
+Prashanth Mahendra-Rajah
+Thank you, Vince. Good morning everyone and let me add my welcome to our second quarter earnings call. My comments today with the exception of revenue and non-op expenses will be on an adjusted basis, which excludes special items outlined in today's press release. Now, on to the quarter. In the face of geopolitical uncertainty, we are pleased to report strong second quarter results with revenue, operating margin, and EPS all coming in above the midpoint of our guidance.
+As usual, I will cover the end markets before moving to the P&L. Our second quarter B2B revenue increased approximately 3% year-over-year, driven by strong growth in our communications business. The industrial market, which represented 50% of sales in the quarter performed as expected, decreasing mid-single digits, compared to the year ago quarter.
+Strength in aerospace and defense was outweighed by the anticipated weakness in our automation and memory test businesses. The comms market represented 24% of sales during the quarter and experienced very strong double-digit year-over-year growth led by ongoing strength in wireless, while our wireline franchise also continued to grow nicely. Our results this quarter reflect ADIs higher content and share in 5G.
+We believe 5G remains in the early stages and our technology remains a key enabler. And as Vince just highlighted in his section, our wireline business is well-positioned to continue to grow profitably in the years ahead. Our auto business represented 16% of sales and was relatively flat, compared to the year ago quarter. Strength in BMS, which increased well over 20% year-over-year and momentum in our power franchise helped to mitigate the overall weakness in vehicle units during the quarter.
+And lastly, our consumer business represented just 10% of sales in the quarter, the lowest consumer mix since 2016. As expected, this segment decreased on a year-over-year basis. And now moving to the P&L, revenue for the quarter was at the high-end of our guidance at approximately 1.53 billion, down 2% year-over-year. Gross margin came in at 70.6%, up 30 basis points sequentially, but lower year-over-year, primarily due to market mix. And in what is normally a higher OpEx quarter, OpEx decreased sequentially to $443 million.
+Operating margin of 41.5% came in stronger than our guided mid-point. Non-op expenses in the quarter were $61 million, slightly higher sequentially with the increase primarily related to a one-time expense in the quarter. Interest expense decreased quarter-over-quarter and year-over-year. Tax rate for the quarter was better than forecasted at approximately 11%. And all told, adjusted diluted earnings per share from the second quarter came in at the high-end of guidance at $1.36.
+Now moving onto the balance sheet, as is normal in the second quarter, inventory dollars and days increased slightly sequentially, and our channel inventory also increased sequentially and year-over-year, but still remain comfortably in our target range. CapEx in the second quarter was $75 million or 5% of sales for the full-year. We expect CapEx to be temporarily higher and remain at approximately 5%. This additional spend his to support future growth opportunities, especially for our power franchise, as well as the colocation of our product and business development teams.
+Free cash flow was approximately $2.1 billion on a trailing 12-month basis, an increase of 6% year-over-year, despite the additional CapEx outlay. Over the past 12 months, we have returned more than 100% of our free cash flow to shareholders through dividends and buybacks after debt repayments. In the second quarter, we repaid $250 million of debt, paid $200 million in dividends, and repurchased over 100 million of our stock.
+Now before moving to guidance, I want to give some context around the additional uncertainty impacting this quarter's outlook. As Vince mentioned, the U.S. Government recently announced export restrictions to a large communications company. Our third quarter guidance takes into account the estimated impact on ADI from these restrictions, including no revenue from that customer for the remainder of the quarter.
+We are currently reviewing our ability to resume shipments under the recently announced temporary general license. And while we do not talk about specific customers, I will say that ADI has an extremely diverse business. The communications market is a bit more concentrated, but still over the trailing 12 months, our largest communication customers only represented mid-single digits or less as a percentage of total ADI sales.
+So, now onto the outlook, which with the exception of revenue and non-op expense are on a non-GAAP basis and exclude special items outlined in today's release. Third quarter revenue is expected to be $1.45 billion, plus or minus $50 million. And at the midpoint, we expect our B2B markets of industrial automotive and communications in the aggregate to decrease low single digits year-over-year.
+At the midpoint of guidance, we expect third quarter operating margin to be approximately 40.5%. Non-op expenses are expected to decline sequentially to approximately 56 million and we are improving our projected tax rate to be in the range of 13% to 15% for the year. Based on these inputs, diluted EPS, excluding special items is expected to be $1.22, plus or minus $0.07.
+So, overall it was a very successful first half of the year for ADI, especially when you overlay it with an uncertain economic and political backdrop. I remain very confident that investments we have made and continue to make will position us for continued outperformance over the long-term.
+Let me hand it back to Mike, to start our Q&A.
+Michael Lucarelli
+Okay. Let’s get to our Q&A session. Please limit yourself to one question. After our initial response, we will give you an opportunity for a follow-up question. Sheryl, give our first question please.
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions] And our first question comes from Tore Svanberg from Stifel, Nicolaus. Your line is open.
+Vincent Roche
+Good morning, Tore.
+Tore Svanberg
+Thank you. Yes, good morning. Thank you. I was hoping maybe you could talk a little bit about your core business, excluding communications. So, obviously I know that’s a very specific situation, but if you look at, especially industrial and auto, are those markets starting to show a path of a recovery? So, if you could add some color there, that would be great. Thank you.
+Vincent Roche
+Yes, sure. Thanks, Tore. Well, let me start with industrial. So, I think it's true to say that business has stabilized across the board. We see our customers' inventory levels being very, very normal. And also, channel inventory, which is often a proxy for what's going on in the industrial market, is in line also with our targets. I think overall, when the macro turns, I think we see a lot of upside improvement to the business as confidence improves and CapEx is deployed at higher rates.
+So, if I try to unpack it a little bit for you, so in terms of the second quarter, it performed pretty much as we expected. And particularly, we were pleased with the results that we achieved in the aerospace and defense area, where the combination of the Hittite and ADI signal processing solutions are really coming to the fore there, where we're taking share as a company and we see that as a good steady growth driver for many, many years to come.
+Geographically, I think it's true to say where a lot of our industrial business is centered at Europe and America, we're up year-on-year, fairly stable. And, you know, the areas of weakness we saw were largely in Asia, all the various major regions of Asia. So, looking out a little bit here, we're seeing stabilization. And I think we will see some annual growth in the third quarter here as well.
+So, I think that's kind of the shape of the industrial business. If I just talk about the automotive sector for a little bit here. So, our performance on revenue was much better than units, than SAAR. And we did see a very modest build in channel. As you know, we're on POA accounting these days when we report to The Street. And we did see a little bit of growth there. But the performance was driven by our growing position in battery management systems for electric vehicles. I think also, I'm very pleased to say that our power business is improving across the board. We did better in power than SAAR, for example.
+So, when we look at our performance, power did better than the unit growth in terms of vehicles sold. And also, our A2B solutions in the infotainment sector continue to ramp gradually here. So, I think if you look at more SAAR-exposed applications, steady-state applications, infotainment, for example, they were down high-single digits. And that represented about two-thirds of the overall business. I think the portfolio is very balanced. We've got many new things coming onboard that help us to outgrow any particular weaknesses in SAAR.
+Michael Lucarelli
+Tore, I'll add one point. You asked about kind of stabilization. We are already seeing stabilization in the industrial market. I think what we're excited about is, it is kind of a better decline year-over-year we expect in the third quarter versus our second quarter results. So, we declined about 6% in the second quarter. We think it gets better in the third quarter on a year-over-year basis. Do you have a follow-up?
+Tore Svanberg
+Yes. Thank you for that color. Really helpful. As a follow-up, if we look at the communication customer that we're talking about here, how long would it take for a company like ADI to maybe requalify some of that business with all their potential customers? Thank you.
+Vincent Roche
+Well, I think we're in a very, I would say, great situation here, Tore. We're very well covered as a company across all the various major OEMs with good penetration. In fact, historically high penetration across all the various OEMs. So, I think I should start up the conversation by saying that generally speaking, 5G is a [indiscernible] technology that is yet really to begin. I think we're seeing trials in Japan and Korea at this point in time, but it is really yet to begin in earnest in any volume. And that's probably going to come in the 2020 time-frame.
+So, no matter what happens in terms of puts and takes, you know carrier and OEM relationships, I think the company is well-positioned. And specific to China, I guess it's a question of when deployments happen rather than if they happen. And we still have to navigate a lot of uncertainty here in terms of the trade ban. So, we're going to know a lot more, I think, over the next 2, 3 months. But as I said, I think it's a case of when deployments happen globally rather than if. And we're in a good position in terms of the dollar content we've got in the various OEMs and our position across all the OEMs at this point in time.
+Michael Lucarelli
+Thank you. We’ll move to our next caller please.
+Operator
+Thank you. Our next caller comes from Vivek Arya from Bank of America. Your line is open.
+Vivek Arya
+Good morning. Thanks for taking my question. And good job on maintaining the profitability despite all these macro and the Huawei headwinds. Vince, it's interesting that your comments on industrial sound somewhat more optimistic than some of your peers who have, you know are looking at all this tariff situation and they are sounding somewhat more downbeat. Is it some company-specific product cycles? How are you sounding a little more optimistic than what we are hearing from some of your peers?
+Vincent Roche
+Yes. It's a good question, Vivek. We, as a company, I think have been more focused than our peers in terms of R&D deployment and customer engagements over the last decade. And I think we are, generally speaking across the board, both at large, say, automation customers, tests and lab equipment-type companies and aerospace and defense, which I've talked a little bit about just a little earlier on, I think we are in a better share position now than we've ever been. It's a big, big part of who we are as a company.
+So, there's tremendous engagement and focus and with many, many tens of thousands of customers. So, I think bringing LTC into the fold as well, we increased the strength of our franchise in terms of signal processing, but also the power set of things with LT. So, I think it's the combination of all those things that has positioned it. It's largely intrinsic or endogenous things we've done over the last decade position us to take share here. So, I think it's the strength of our franchise, strength of our customer relationships and the combination with LTC at this point.
+Vivek Arya
+Got it.
+Michael Lucarelli
+Do you have a follow-up, Vivek?
+Vivek Arya
+Yes. Thank you. So, for the follow-up, I just wanted to make sure we are kind of all level set on what this ban to Huawei actually means, right? So, let's assume that, that ban stays in place. Hopefully, it gets resolved. But for just the purpose of kind of recordkeeping, there is no more Huawei – your July quarter kind of takes out Huawei. What should we assume from the following quarters? Should we just assume Huawei goes to zero after that? What is the right way to kind of de-risk the model from a Huawei perspective? Thank you.
+Prashanth Mahendra-Rajah
+Sure. Yes. So, for the current quarter, Q3, we've presumed no more shipments. And if you take – I think your assumption is, let's assume that, that ban stays in place, then it's likely that we would be prohibited from continuing to sell to that customer for subsequent quarters. But as Vince has mentioned several times, we are largely customer-agnostic. We have high share in all of the carriers. It's a very different situation than what we had in 4G. So, as that demand shifts to other wireless infrastructure carriers, depending on where that deployment happens, we expect to continue to do quite well in providing the necessary technology to enable the deployment of 5G and the continuing deployment and growth of 4G.
+Vivek Arya
+Alright. Thanks, Prashanth.
+Michael Lucarelli
+We’ll go to our next question please.
+Operator
+Thank you. Our next question comes from Harsh Kumar from Piper Jaffray. Your line is open.
+Michael Lucarelli
+Hi, Harsh. How are you?
+Harsh Kumar
+Hi, good. Thank you. I want to echo my congratulations as well, fantastic job in this rather turbulent environment. I want to follow up on the Vivek's question. Last time we saw this, the song and dance was ZTE getting banned and the expectation was that Huawei would step up and take share. So, basically, if I hear you correctly, what I think you're saying is that the customer in question, Huawei, if that's banned, you are suggesting that others, including ZTE, might step up and take share and the impact would be much less than perhaps the direct business that you do with Huawei. Is that the correct way to think about it?
+Vincent Roche
+Potentially, yes. I think it really depends now on how the Chinese government and the various carriers, when they reflect on things, how they decide to handle the timing of 5G release at this point in time. But there are options. I think 5G conforms to a standard. And I think all the carriers have different options. They probably have favorites. They've got the first favorite, the second favorite. But there are options. And the way we view it, we are well-positioned in terms of our technology portfolio.
+In fact, many of the things we're doing, particularly in 5G, are highly differentiated, with more content, more coverage in the radio systems than we've ever had. So, look, it will certainly help a lot if this trade – this ban is lifted in a reasonable time period here. But I think irrespective, as I said, in my earlier comments, the rollout of 5G is unquestionable. And it will really be a question of timing rather than if the system gets deployed. So, yes.
+Michael Lucarelli
+Yes. Harsh, so just to, I'll say, unpack a little bit from kind of a number standpoint. The things we looked at when we put together our guidance was there's three factors. One was the actual shipments to that customer. Two were the secondary impact to other customers who ship to that customer. And third would be, additional demand picked up by competitors on that customer. And we put all that together, that's how we came up with our guidance. And we kind of think the second, too, so the secondary impact or the additional share impact kind of neutralizes zero. So really, it's all about that customer going to zero in our outlook.
+Harsh Kumar
+Fair enough. Very helpful. And then for my follow-up, we've been trying to talk to other semiconductor companies. And they're all very confused because of just it all happened so recently. A lot of the companies are saying, well, they sell directly to Huawei, but they also sell a whole bunch through distri. Would you tell us if you guys are prohibited from selling through distri to Huawei as well? Or is there a chance that shipments could be moved around a little bit and perhaps – I'm not saying the full impact is mitigated, but some partial impact is mitigated at this point?
+Vincent Roche
+No, I'd say like we're as confused as everybody. The information flow is [indiscernible] and it can be often confusing. So, I think the coming days, the coming weeks will bring a lot more clarity to what's actually in the ban, what's out of the ban. But as Mike said very clearly right now, our interpretation is that we will be upholding the ban to the fullest extent and we won't be shipping anything to Huawei for the foreseeable future.
+Michael Lucarelli
+And for the avoidance of doubt, we have no channel revenue in the midpoint of our guidance that we expect to go on to this communications customer.
+Harsh Kumar
+Understood. Very helpful. Thanks guys.
+Michael Lucarelli
+Harsh, thanks for the questions. We’ll take the next one.
+Operator
+Thank you. Our next question comes from Harlan Sur from JPMorgan. Your line is open.
+Harlan Sur
+Good morning. Thank you taking my question. The defense spending budget for this year has been a real tailwind for the team. And it's actually been quite broad-based, right, modernization, aircraft, ground systems, missile defense and so on. A&D obviously has been doing well for the team. Can you just help us understand how A&D has been growing on a year-over-year basis? And then how has the budget focus on modernization helped to kick off maybe some new potential initiatives for the team?
+Prashanth Mahendra-Rajah
+Yes. Harlan, we don't talk much at the specific segment level in terms of numbers, but I will share that our aerospace and defense has been doing particularly well. And it was one of the items that helped us offset some of the decline we saw in other industrial. The overall, sort of in the second quarter results, the year-over-year growth was pretty substantial, I call it north of 25% on a year-over-year basis for aerospace.
+We are benefiting from those record military budgets that you've meant. So, it's across all of our application areas, the communications, the UAVs, radars, space exploration areas. The combination with Hittite also helps bring a lot of new technologies that we can take advantage. So, it's been a great business for us. And we see that continued modernization of defense is going to pay dividends and growth for ADI for several quarters to come.
+Michael Lucarelli
+Yes. And just to level set on the call, our industrial business is 50% of sales, but it's very diverse within that 50%. So, I'll just remind everyone that aerospace and defense is about 20% of industrial, automation is about 20% of industrial, instrumentation is about 20% to 25%, health care is just about 10%, and it is a remainder across a bunch of, I'll call it, smaller customers. So, it's a very diverse business within industrial for us. Do you have a follow-up, Harlan?
+Harlan Sur
+Yes. Appreciate the insights. So, within the comms business, really appreciate the insights on some of the new opportunities in optical, especially around signal processing and control. I believe that within wireline though over the past couple of quarters, you've seen some weakness in 100-gig for optical networking targeted at cloud data centers on the well-known sort of capacity digestion by the hyperscalers. Are you guys starting to see fundamentals in 100-gig starting to improve kind of near term?
+Michael Lucarelli
+Yes. Our wireline business has been growing. In the last quarter, it grew mid-single digits year-over-year. And the quarter before that was about 10% year-over-year. So, I think it is impacting some. Our wireline business had been a quite steady growth market for us. It's been overshadowed by the wireless, I'll say, [it has to] grow much faster. But the wireline for us and optical within that has been growing.
+Vincent Roche
+Yes. I think data centers are today still largely 100 gig-based. But the fastest growth we're experiencing is in 400-gig. And that's both the kind of the metro long-haul, as well as data centers. So, as this data need continues to double every 2.5 years, we're going to continue to see an aggressive move into 400-gig, and in fact, into terabit and beyond over the coming few years here. So, I think it's a mixture. And we're seeing strength across the board in our portfolio.
+Harlan Sur
+Thank you very much.
+Michael Lucarelli
+Next caller please.
+Operator
+And our next question comes from Ross Seymore from Deutsche Bank. Your line is open.
+Ross Seymore
+Hi guys. Thanks for letting me ask my questions. First, congratulations on the automotive business being flat year-over-year. It's a solid quarter by any measure. I know, Vince, you gave the color on some of those drivers with BMS, et cetera. But from a bigger-picture perspective, you guys had been underperforming for a few years. And now, you're outperforming. Is this a sign of an inflection point that you think like going forward, you can go back to at least performing in line with peers or even outperforming? Or do you view this as just kind of one quarter of improvement in that regard?
+Prashanth Mahendra-Rajah
+So, Ross, let me level set how we did in the first half. And then let Vince kind of talk more broadly. So, first, remember that we run our business on a – we run the channel really on a POS basis, but we report our revenue on a POA basis. So, in the second quarter, POS was down just slightly, very low single digits, but much better versus units. So, we did see a little bit of modest build in the channel. And that helped growth. But within that, certainly very strong performance in BMS, power and A2B. Vince mentioned that we've got the cabin electronics and some other businesses exposed to SAAR.
+So, as we look forward to the second half of this year, a little bit of that channel build that we saw in the first half is probably going to provide some headwind because again we do manage the business on a POS basis. But the optimism that we have been talking about for over a year now and the inflection in our auto business that we really expect to start in 2020, that remains a high conviction. And I'll let Vince maybe talk more about what's behind that.
+Vincent Roche
+Ross, if we go back several years, you know we withdrew R&D and support. We still ship some sensor products. But we've largely seen the, I think, the tailing off of some of our more commoditized MEMS sensing business begin to stabilize there. If I look at the areas where we're seeing the growth come from as a company, I think our infotainment business remains very, very strong. It's been growing year-on-year now for several. BMS, still a very, very small penetration of electric vehicles in overall SAAR. And by the month, we get more and more convinced that, that's going to be a very significant business for the company. And that's – that business is doing better and better for us. In fact, we have been capitalizing that business as well. 
+We – in comparison, if you'd like, the portfolio from LTC, so we've been capitalizing the business in terms of R&D and equipment to make sure that we can meet the upside demands here for new products as well as supply line for the long term. I mentioned a little bit earlier on as well that our power business, the LT portfolio is doing increasingly better when compared to the market at large. And when you take these new, emerging Level 3, Level 4 sensing systems that need, call it, modalities like IMUs, that need these advanced image quality radar systems and LIDAR, we are in virtually all the really important high-end solutions that are emerging at Level 3 and above. So, I think our business has been largely the – the headwind on our business from the sensor side of things is abating. And these new product modalities are getting stronger and stronger in terms of traction. So, that's kind of the story in automotive for you.
+Michael Lucarelli
+Do you have a follow-up, Ross?
+Ross Seymore
+Yes. I just want to pivot back to the comms side of things and appreciating all the uncertainty and the details you've given on the call thus far. One other aspect that investors are focused on is the inventory in that area. And I know it's difficult to discern, but how are you viewing any pre-buying that might have been occurring specifically from the now-banned customer? And I think what people are concerned about is even if the ban ends, was there enough pre-buying buffer that the snapback afterwards might not actually occur? So, any color you could have on the inventory in that channel and specifically any pre-buying would be appreciated. Thank you.
+Vincent Roche
+I think the inventory in general, Ross, across the board, all are OEMs in the communications area, these new advanced architectures. I think the inventory is very, very well balanced. I don't see anything untoward or anomalous. And I think things are in good balance there.
+Michael Lucarelli
+Yes, Ross. I'll say even before the ban came in place; we expect our communications business – we thought before that ban was going to grow sequentially. So, I don't think pre-buying was a big worry of ours, given our good share across the board. Now that obviously has changed. And we think it's not going to grow sequentially. And probably on a year-over-year basis, it's only up slightly. Kind of help you for some context there.
+Vincent Roche
+Yes. I think the way to think about this as well in terms of inventory balance, like most of ADI's portfolio, it's really more a question of when the inventories that we have sold rather than if. I think that's generic to all these core B2B businesses for ADI.
+Ross Seymore
+Thanks guys.
+Michael Lucarelli
+Alright, we’ll go to our next caller please.
+Operator
+Our next question is from William Stein from SunTrust. Your line is open.
+William Stein
+Great, thanks for taking my questions. First, I'm wondering if you've analyzed or if there's any impact, we might expect from additional stop ship orders that have been speculated in the press. For example, I think it's pronounced HikVision. I might not be getting that right, but I'm wondering if you have an exposure to these surveillance companies in China that look like they could potentially be customers.
+Prashanth Mahendra-Rajah
+Well, it's a good question. I would emphasize that the rest of the ADI business is very broad and diverse. So, as more companies may be identified, there will certainly be some analysis that we will have to do, but unlike the communications business, which is among our most concentrated, the diversity of our franchise and the large number of customers that we sell to provide great insulation against having kind of macro shocks from these political impacts.
+William Stein
+And that's really helpful. One more if I can? Can you talk about both for the quarter, just posted in for the guidance, the trends within the consumer business and specifically the split between your traditional prosumer business and the more volatile handset part of the business? Thank you.
+Prashanth Mahendra-Rajah
+Yes. So, we originally said that consumer is going to be down 10% to 20% in 2019. Our forecast is really now at the high end of that. We expect to be down 20% year-over-year. We continue to see some weakness in the portables market. We are seeing a little bit of unanticipated weakness in prosumer. And how much of that is driven by the macro environments and such, we're trying to assess right now. But we do think that kind of the worst is behind us and that the long-term growth for the prosumer business should really align closer to GDP. And it's really similar to our B2B business.
+Michael Lucarelli
+Yes. From a standpoint, as we exit this year, we expect our portables business and our prosumer business to be about equal in size, so as to provide to some more stability to the consumer business for us going forward. Alright, Sheryl we’ll go to our last question please.
+Operator
+Thank you. Our last question comes from Ambrish Srivastava from BMO. Your line is open.
+Ambrish Srivastava
+Hi, thank you very much for squeezing me in. I just wanted to make sure I understood the exposure to the large customer and in terms of the model, Prashanth. Should we be then thinking – you gave us a trailing 12-month number, but should we be thinking high single digit? And then based on your answer to an earlier question in terms of de-risking the model, should we assume for the next 2, 3 quarters, you get none of that and then you start to – other customers to pick up slack maybe 2, 3 quarters down the road? Is that the right way to think about the model and then the OpEx impact as well?
+Michael Lucarelli
+Hi, Ambrish. I'll answer the first part of your question. So, I think we were pretty clear on the prepared remarks saying our largest customers within comms was mid-single digit at most in the trailing 12 months. We did have a couple weeks of shipments, I would say, in this quarter. So that won't repeat next quarter. And after that doesn't repeat in 3Q, I would put 0 in going forward until the ban is lifted.
+Ambrish Srivastava
+And the OpEx trajectory, how should we think about the OpEx?
+Prashanth Mahendra-Rajah
+Look, the OpEx is we're going to continue to invest in the business. Of course, where appropriate, we're going to look at our discretionary cost. But I wouldn't make a meaningful change to how we think about the OpEx. The first lever that absorbs the chock of a revenue decline is our variable compensation. So, that will, of course, be impacted by decline in revenue. But beyond that, we're going to – we're committed to investing today for products and technologies that come to market several years out.
+Vincent Roche
+I think the way to look at it, Ambrish, is that the demand for our technologies is absolutely unprecedented. So, we're keeping our eye on the long term in terms of making sure that we have aggressive funding in place to fund all the R&D programs that we think are critical to the company's future, the same with our customer engagements. And I mentioned a little while ago also, we ramped our capital expenditures to make sure, particularly on the LT side of the business, that we have what we need to get our products to market faster and get the supply to our customers. We know the opportunity is there, so we're keeping our eye on the long-term prize here.
+Michael Lucarelli
+Do you have a follow-up, Ambrish?
+Ambrish Srivastava
+I do. Thank you for all the clarifications. Just a quick one then. In your B2B guide, I think, Vince, you mentioned, you gave the color on the industrial. And then should auto – we should expect that to be up year-over-year in the current quarter of that period? Thank you.
+Michael Lucarelli
+Yes. Ambrish, Vince gave some comments. Industrial actually should be down year-on-year, but the growth will be better than the second quarter is how to think about industrial first off. Auto also, I would say, probably down year-over-year, but much better than what I would say units are doing out there to the thing we talked about in the other Q&A remarks, BMS and power and A2B ramping. And communications, we also discussed it should be about, I would say, flat to up slightly year-over-year. So, that should kind of help you get to that low single-digit guide for B2B as a combination.
+Ambrish Srivastava
+Awesome. Thank you.
+Michael Lucarelli
+Okay. With that, thank you, Ambrish, and thank you everyone, for joining us this morning. A copy of the transcript will be available on our website. And all available reconciliations will also be on the website. Thank you, and we'll talk to you guys soon.
+Operator
+This concludes today's Analog Devices conference call. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+2 Authors in the Last 90 Days

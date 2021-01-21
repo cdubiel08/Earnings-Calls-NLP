@@ -1,0 +1,248 @@
+Cadence Design Systems, Inc. (NASDAQ:CDNS) Q2 2017 Earnings Conference Call July 24, 2017  5:00 PM ET
+Executives
+Lip-Bu Tan - President and CEO
+Geoff Ribar - SVP and CFO
+John Wall - Corporate VP Finance and Controller
+Alan Lindstrom - Senior Group Director, IR
+Analysts
+Rich Valera - Needham and Company
+Jackson Ader - JPMorgan
+Mitch Steves - RBC Capital Markets
+Farhan Ahmad - Credit Suisse
+Jay Vleeschhouwer - Griffin Securities
+Krish Sankar - Bank of America Merrill Lynch
+Tom Diffely - D.A. Davidson
+Monika Garg - KeyBank Pacific Crest
+Operator
+Good afternoon. My name is Devon and I will be your conference operator today. At this time, I would like to welcome everyone to the Cadence Design Systems Second Quarter 2017 Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session. [Operator Instructions]. Thank you.
+I will now turn the call over to Alan Lindstrom, Senior Group Director of Investor Relations for Cadence Design Systems. Please go ahead.
+Alan Lindstrom
+Thank you, Devon, and welcome everyone, to our second quarter 2017 earnings conference call. With me today are Lip-Bu Tan, President and CEO; Geoff Ribar, Senior Vice President and CFO; and John Wall, John Wall, Corporate Vice President Finance and Controller.
+The web cast of this call can be accessed through our web site, cadence.com, and will be archived through September 15, 2017. A copy of today's prepared remarks will also be available on our web site at the conclusion of today's call.
+Before we start, I want to call your attention to our CFO commentary, which was included in our 8-K filing today and is available on our Investor Relations web site at cadence.com. The CFO commentary should be referenced with both today's conference call remarks and the earnings press release issued today.
+Next, please note that today's discussion will contain forward-looking statements and that our actual results may differ materially from those expectations. For information on the factors that could cause a difference in our results, please refer to our filings with the Securities and Exchange Commission. These include Cadence's most recent reports on Form 10-K and Form 10-Q, including the company's future filings and the cautionary comments regarding forward-looking statements in the earnings press release issued today. Also note, that this afternoon we filed our 10-Q for the quarter ended July 1, 2017.
+In addition to the financial results prepared in accordance with Generally Accepted Accounting Principles or GAAP, we will also present certain non-GAAP financial measures today. Cadence management believes that in addition to using GAAP results in evaluating our business, it can also be useful to review results using certain non-GAAP financial measures. Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with their most direct comparable GAAP financial results, which can be found in the quarterly earnings section of the Investor Relations portion of our web site.
+Additionally, a copy of today's press release dated July 24, 2017 for the quarter ended July 1, 2017 and related financial tables can also be found in the Investor Relations portion of our web site.
+Today, following Lip-Bu's remarks, John Wall will present the financial results and outlook. Then Lip-Bu, John and Geoff will all be available during the question-and-answer session.
+Now I'll it over to Lip-Bu.
+Lip-Bu Tan
+Good afternoon everyone and thank you for joining us today. We are steadily executing our system design enablement or SDE strategy. SDE offers additional growth opportunity, as we expand beyond semiconductors and tap into significantly larger markets with system companies and vertical market segments, such as automotive, aerospace and defense.
+In Q1, we booked our largest design IP contract ever with a major customer in automotive semiconductor sector. In Q2, this momentum continued with an ADAS system company licensing our PCIe Express gen-IV IP on the new 7 nanometer SoC; and another major customer licensing Tensilica for automotive radar application.
+Also in the automotive space, Rohm adopted our ISO 26262 compliant functional safety verification solution, and we received ISO-26262 certification for our PCB flow. Overall, four of the top five automotive semiconductor companies are now using Cadence IP.
+In aerospace and defense, adoption of our Palladium Z1 emulation system increased with purchases by several significant system customers, providing integrated system level solutions is also a key goal of our SDE strategy.
+In Q2, we released the Virtuoso system design platform, which optimize design integration between our chip, package and board flows.
+We also expanded our partnership with MathWorks through a new integration between Virtuoso ADE and MATLAB, that will enable customers to accelerate analysis of large data sets, when modifying custom RF and mixed signal design.
+Digital and signoff revenue grew 14% year-over-year, driven by growing proliferation with market shaping customers.
+Innovus is rapidly becoming the implementation solution of choice for CPU, GPU and SoC designs for networking, wireless, consumer, automotive and IoT.
+In addition to the momentum on the digital products that increasing traction on the adoption of the full flow by digital and mixed signal customers.
+Our full digital flow is now used by over 70 customers, performing advanced node design, including more than 20 full flow customers designing at the 7 nanometer nodes.
+Next, I want to talk about our IP business, which is the key element of our SDE strategy. As we have stated, the IP market opportunity remained strong, due to growing [indiscernible] trend. IP revenue grew 15% year-over-year as our refined strategy gains momentum. Multiple smart speakers are using Tensilica processor for AI, audio, and Wi-Fi.
+In Q2, we had multiple Tensilica Vision processor wins for drone, handset and industrial applications, and we introduced the Tensilica Vision C5, is the first dedicated rural network DSP IP.
+Now for system design and verification; while overall, hardware revenue was less than anticipated for the first half, we expect hardware revenue to be a little stronger for the second half.
+Palladium Z1 remains the most advanced emulator on the market. In Q2, we expanded our partnership with HiSilicon on Palladium Z1 with significant add-on on emulation capacity.
+We are also pleased with the earlier customer reception of Protium S1 FPGA-Based prototyping system. Momentum continued, as we received an important endorsement of our technology and integrated hardware approach, with a competitive win at the leading North American semiconductor company, that is one of the largest users of the Palladium Z1. Overall, we have several repeat orders and five new logos.
+Before turning over to John, let me quickly summarize my comments. Consistent execution drove excellent financial results for Q2. System design enablement is expanding our opportunity and expanding our customer reach. Software and IP were particularly strong and proliferation of our digital and sign-off solutions is growing with market shaping customers.
+We continue to innovate and introduce new products like Tensilica Vision C5 DSP targeted at neural network applications.
+Now I will turn the call over to John to review the financial results and provide our outlook.
+John Wall
+Thanks, Lip-Bu and good afternoon everyone. Consistent execution drove excellent financial results for the second quarter, highlighted by revenue near the high end of our guidance range and operating margin, EPS and operating cash flow, all exceeding expectations.
+Specifically, here are some key results for the quarter; total revenue of $479 million; non-GAAP operating margin was 27%; GAAP net income per share was $0.25; non-GAAP net income per share was $0.34; and operating cash flow was $162 million.
+Also, please note that the recurring revenue mix was approximately 90%; DSOs were 31 days, down six days from Q1 on strong collections. Our DSO target remains approximately 35 days.
+For geographies and products, Asia continued as our fastest growing region, with revenue up 18% year-over-year. As Lip-Bu mentioned, digital and sign-off revenue was up 14% year-over-year, as we benefit from proliferation with market shaping customers and IP continued to rebound from 2016, with revenue up 15%.
+Functional verification revenue was down from last year, as overall hardware revenue was less than anticipated for the first half. However, we expect hardware revenue to be a little stronger for the second half.
+Now let's turn to our outlook. We are increasing our revenue and EPS outlook. For fiscal 2017, we now expect revenue in the range of $1.91 billion to $1.95 billion; non-GAAP operating margin of approximately 27%; GAAP EPS in the range of $0.98 to $1.04; non-GAAP EPS of $1.36 to $1.42; and operating cash flow in the range of $430 million to $470 million.
+For Q3, we expect revenue in the range of $475 million to $485 million; non-GAAP operating margin of 26% to 27%; GAAP EPS in the range of $0.24 to $0.26; and non-GAAP EPS in the range of $0.33 to $0.35. Approximately 90% of revenue is expected to come from beginning backlog. You will find guidance for additional items in the CFO commentary.
+Next, I will take a moment to review our capital allocation priorities. As we have said before, the company regularly reviews its capital structure, balancing our needs for investment, the appropriate level of risk for our business model and operating environment; maintaining adequate liquidity and the opportunity to return cash to shareholders.
+In January of this year, the board authorized the repurchase of $525 million of our common stock. We did not repurchase shares in the first half of the year, but we do expect to repurchase some shares in Q3.
+I also want to provide a few additional comments before we take questions. As a reminder, hardware and IP have become a larger portion of our business, which may lead to more variability in our results from quarter-to-quarter. Only about 5% of our revenue is in currencies other than the U.S. dollar, primarily the Japanese yen. But about 30% of our costs are in currencies other than the dollar. So weakening dollar would generally be a headwind to operating profits, and conversely, a strengthening dollar would be a tailwind. The dollar further weakened in Q2, but so far, we have been able to manage through this challenge.
+As you know, we have been reviewing the new revenue recognition standard that we will implement for 2018, and we are confident that we will substantially maintain recurring revenue or revenue over time treatment.
+To conclude, we are pleased with our second quarter results, including strong financial performance, software and IP growth, and growing proliferation of our digital and sign-off solutions with market shaping customers.
+Looking forward, we are excited about the new opportunities resulting from our system-design enablement strategy, and we are confident that we will continue to drive strong financial and operating results.
+And with that operator, we will now take questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions]. Your first question comes from Rich Valera with Needham. Please go ahead. Your lines is open.
+Rich Valera
+Thank you. First question, it relates to the decision to start buying back stock. I think as recently as a few weeks ago, in public appearances, some management were saying that, you guys were going to be doing a five year strategic plan, and sort of at the conclusion of that, you decide whether you'd be starting to buy back stock or not. So I am taking based on your decision, that you have actually kind of concluded that plan. So I am wondering, if there is anything you can share with us about that plan, as it relates to opportunities for M&A on your side, presumably that you are buying back stock. I guess you might conclude that you don't see much opportunity for M&A. But just wondering if you can share anything about that five year strategic plan and how it relates your decision to start buying back stock? Thank you.
+Lip-Bu Tan
+Rich, this is Lip-Bu. First of all, I think just wanted to highlight that last year, we completed our $1.2 billion repurchase program, and then the board have approved and authorized $525 million buyback in 2017. And then clearly, our approach usually is focused on business requirement, and also the appropriate risk along to -- [indiscernible] to business model and operating environment, and we also want to provide the flexibility for us to continue to execute a plan, and clearly returning to capital -- return to the shareholder is top priority from my point of view.
+So overall, I think we continue to review that and with our board. The board just approved a new purchase, starting in Q3.
+Rich Valera
+Okay. And I guess, I'd like to move on to hardware/emulation. You mentioned it was a little lighter in the first half than you had expected. If you could just comment on why it was lighter, and if there has been any competitive changes in the markets particularly, as it relates to mentors, new strato platform? And then presumably, something came in stronger than you expected in the first half, I am wondering if that's IP or digital, that sort of backfilled for that slightly lighter hardware revenue? Please comment on that. Thank you.
+Lip-Bu Tan
+Sure, thank you, Rich. On the hardware side, clearly, we didn't do as well as we had anticipated in the first half. As you know, this is a very lumpy business, and we expect to do a bit stronger in the second half. And saying that, I think clearly, we are still the most advanced emulator on the market, and our capacity can scale up to 9.2 billion gigs and a concurrent 2,300 plus users. So clearly, it's still very well received, 16 out of top 20 semiconductor using them, our hardware emulation. Nine out of 10 smartphone players are using the hardware Z1.
+So overall, I think we are happy with our product offering, and now we have the S1 [ph], that is the prototyping FPGA versions, and that is -- very good and encouraging reception from our customers. We mentioned above, repeat orders, and also we have five new logos, and using the same compiler, so that customers have that flexibility from FPGA to very scalable hardware platform.
+And so I do overall we like what we have, which is to continue executing, just to highlight, it's a very lumpy business. Saying that, I think Q2 is a good quarter for us. The software, we have done quite nicely. And then just to highlight a few points, the digital side, we are growing year-to-year 14%. IP, with a renewed focus, we grew 15% year-to-year, and then custom analog, we are clearly the leader, we grew 9% year-to-year, and then the SPB, 7% growth.
+So overall, software and IP is very strong, and hardware is just a very lumpy business, and we continue to really focus on customer requirement and customer focus. And so stay tuned second half, a little bit stronger.
+Rich Valera
+Okay. Thank you, Lip-Bu. Appreciate it.
+Lip-Bu Tan
+Sure.
+Operator
+Your next question comes from Jackson Ader with JPMorgan. Please go ahead. Your line is open.
+Jackson Ader
+Hey guys. Yeah, it's Jackson on for Sterling tonight. If we can just circle back to the buyback that you're anticipating to start in the third quarter. So what exactly is different about the third quarter, the second half of 2017 versus the first half, when you were expected not to repurchase any shares?
+Lip-Bu Tan
+Yeah. As I mentioned earlier, last year, we completed a very big $1.2 billion of buyback. And the board, even though approved for the $525 million for this year. And clearly, we want to have the flexibility. Clearly, the timing, you have to reflect on the business market conditions, corporate and regulatory requirements, and also look at the acquisition opportunity and other factors. So I think we put that into total picture.
+We discussed at length in every quarter with our board. We decided that Q3 is -- we are going to -- starting to buy.
+Jackson Ader
+Okay. And then just a quick follow-up; within functional verification and hardware which you just mentioned, were there any deals that maybe you expected to close from the first half, that slipped into the second half, or do you just see more demand building in the second half of the year?
+Lip-Bu Tan
+Yeah. I think clearly, as I mentioned it's a lumpy business. But still the most advanced emulator. So we continue to work with the customer and we basically also want to drive the value, in terms of the customer needs, and make sure that we fulfill them. And meanwhile, we don't want to sell aggressively than to clearly just want to meet the customer requirement, hardware which [indiscernible] plan is a long term business.
+Jackson Ader
+Okay. Thank you.
+Operator
+Your next question comes from Mitch Steves with RBC Capital Markets. Please go ahead. Your line is open.
+Mitch Steves
+Hey, thanks guys. Just two quick questions for me. So actually kind of first on the strategic side; I know you guys are looking for a new CFO. Do you guys mind just providing a quick update on the process there?
+Lip-Bu Tan
+Sure. First off all, Geoff committed to March 2018. So we have enough time to get the best CFO on board. And in saying that, clearly, we have strong internal talents, and also, we continue looking at the very -- we have access to the high qualified external talent. Geoff commit to me [ph] have a smooth transition, and so we continue to work on that, and that is kind of our game plan.
+Mitch Steves
+Got it. And then secondly, I am going to circle back to the hardware side of it. I think that just generally speaking, Mentor should be losing share it seems like to both you guys and Synopsys; and my basic understanding is that, you guys are actually more comparable in terms of the emulator and what products you compete against, particularly in the smartphone side. So I guess, why would that slow down, I guess this quarter and then reaccelerate next quarter?
+Lip-Bu Tan
+Yeah, as I mentioned, it's a very lumpy business and we continue to drive value in terms of customer requirement. And also, it's a place that, based on their capacity requirement, we want to plan properly on that. But a lot of respect for our competitor Synopsys and Mentor, and so clearly, we are keeping a close eye. Meanwhile, we just continue executing our plan on hardware emulation and also our newly introduced S1 on the FPGA prototyping and using the same compiler and then we can scale on both side. So stay tuned, and we continue to execute and meet the customer requirement.
+Mitch Steves
+Perfect. Another great quarter. Thanks guys.
+Lip-Bu Tan
+Thank you.
+Operator
+Your next question comes from Farhan Ahmad with Credit Suisse. Please go ahead. Your line is open.
+Farhan Ahmad
+Hi. Thanks for taking my question. My first question is on the hardware side. On the emulation, your first half sales are coming in a little bit stronger, and then I look at Synopsys, they are the hardware sales that are actually coming in quite a bit stronger. So is there some market shift going on firstly between you and Synopsys? And secondly, can you talk about what are the end markets that you saw weakness in, and what gives you the confidence that it comes back in the back half of the year?
+Lip-Bu Tan
+Yeah. So I think -- first of all, I think the hardware emulation side, as I mentioned, we have a lot of respect for our competitors, Mentor and Synopsys. Clearly, on the hardware emulation side, we compete more with Mentor. Clearly, we continue to be the most advanced emulator in the marketplace. So it's more the timing of the customer requirement.
+On the Synopsys side, clearly a lot of respect for them. They have the FPGA versions, and clearly, we have our own S1 FPGA. And so earlier reception from our customer is very encouraging. As I mentioned, we have repeat orders, and also have five new logos that we are very proud of. And in fact, I mentioned that also, one very important point, it's a very important endorsement technology wise and hardware integration approach, with a very competitive win at the leading North American semiconductor company that is very large -- one of the largest user of Palladium Z1. But they endorse us on the FPGA S1, and that is a very-very important endorsement. Hopefully, we will continue that momentum, and then scaling it up.
+John Wall
+And Farhan, this is John Wall here. I'd just like to add that and remind you that, Q2 2016 was a record year for hardware, and that we continue to see a secular trend, and increasing customer need for emulation and acceleration products. But just want to point out.
+Farhan Ahmad
+Got it. Thank you. And then for the emulation business, do you still expect it to be a growth for you this year? Because if I recollect correctly, at the beginning of the year, you were expecting that the business will grow?
+Lip-Bu Tan
+Yeah. As I mentioned, the first half didn't do as well as we had anticipated. But as I mentioned, we expect it to -- little stronger in the second half.
+Farhan Ahmad
+Got it. And then in terms of the growth that we are seeing in digital and then system interconnect, you have pretty impressive growth there, more than 15% year-on-year. How sustainable is that, and how should we think about that portion of the business in the second half of the year?
+Farhan Ahmad
+Yeah. Very good question. We are very proud of our innovation approach to our digital flow. As I mentioned in my remarks and the -- Innovus, it became the platform of choice for the place and route for multiple applications, and that has a very big platform. And so, we are very excited about that in terms of the performance, area, power and then also the runtime. You clearly see the big improvement and customer adoption is very rapidly, with the market shaping customers. And so we are very encouraged on that.
+And then second part is, clearly, our other part of the digital flow, the Genus and on the Synthesis side and Voltus on the timing, the Tempus on the sign-off and the power, so I think those, and I will come together with our new tool, Pegasus, we have a really end-to-end pool flow and we are very excited, 70 customers are endorsing us and using our improved rating on the full flow. And we are extremely excited, 20 of them are for the 7 nanometer.
+So overall, I think we are excited about digital flow, and the custom analog side, 9% is very-very strong for the analog and custom flow, and clearly, we are the leader on that. And then the -- even with a little bit less and anticipated on the hardware side, our form of verification, Jasper have been great. And then, our Xcelium, that is a simulation with Rocketick integrated new tool, we have more than 20 customers adopting, and we are scaling and we will continue to drive the performance and scalability and capability.
+And so I think overall, I think, we have pretty good solution for the most advanced node for the digital and the mixed signal customer, and so we are excited about the overall portfolio on the software and also the IP also coming up very strong.
+Farhan Ahmad
+Thank you. That's all I had.
+Lip-Bu Tan
+Thank you.
+Operator
+Your next question is from Jay Vleeschhouwer with Griffin Securities. Please go ahead. Your line is open.
+Jay Vleeschhouwer
+Good evening. Couple of short term questions to start; first for Geoff and John, then [indiscernible] question for Lip-Bu. For Geoff and for John, you reiterated your cash flow guidance for the year. Yet, through the first half of the year, you have already done about 60% of the low end of your guidance range for cash flow, and I am wondering, what you are seeing in the second half of the year, that perhaps cash flow might be less than in the first half, hence the reiteration of the current range? And then secondly, back to the emulation question, just to clarify what you mean by stronger, is that -- it increased in absolute terms, first half to second half, or are you talking about year-over-year increase in the second half versus pretty easy comp versus second half of last year? And in order for you to grow your emulation business for the year, it looks like your second half would have to be up by about a third in total or more, if you could comment on that?
+John Wall
+So Jay, this is John, I will take that first question on the cash flow. I'd just point you to the DSOs, that we had a six day decrease in DSO from Q1. A number of large payments came in after the end of the first quarter, driving a more favorable comparison between the quarters. So Q2 ended up being a very strong quarter for us, for collections. But so you will see a little bit more, a shift to the first half for cash collections. But our guidance reflects our confidence in the business, and takes into account everything we know at this time. So we reiterated the cash flow guidance.
+Lip-Bu Tan
+Yeah. And Jay, on the hardware side, as I mentioned, the first half is lower than anticipated. As I mentioned, is a very lumpy business, and we expect to do a little stronger in the second half. That's what we see in the -- and again, we want to really preserve the value, and we want to make sure that we provide and protect the value, rather than just selling for whatever price. So we want to keep the value, and then drive a more manageable growth.
+Jay Vleeschhouwer
+For you Lip-Bu, a couple of market and customer questions. Number one, is about the length of your current product cycles or adoption cycles. We have seen now, for the past roughly two years that the implementation business, both yours and Synopsys' have done well, and I am wondering how long you think this cycle might last? The reason I ask it that way is, when we look at the last big product cycle for you in PCB, that lasted for about three years, 2012 to 2015? And I know it's not the same technology or even the same customers necessarily, but you think that maybe just another year or so to go, to fulfill this adoption or upgrade cycle and implementation, then you are going to have to see some other category pick up?
+Lip-Bu Tan
+Yeah. It's a good question, Jay, and clearly, as you know, the complexity of the design is increased substantially, when you move down the geometry to 10 to seven to five, and we are very aggressive on the -- the 10 to seven and five and beyond. And so clearly, this is -- we are very committed to drive the technology leaderships, and so we continue to drive the innovation.
+I am very proud of my team, that in the last three years, we have 23 organically developed products that are very disruptive, and that's why we continue to drive the success in the implementation.
+As I mentioned, complexity has increased. So I don't see any slowdown, and also some of the new exciting application, in terms of machine learning, deep learning, cloud infrastructure changes, and then the whole opportunity in autonomous driving, on the automotive side. And so I think all are going to be driving new runtime, the new performance, power is going to be a big challenge, and then we continue to innovate, continue working closely with the customer, providing the best tool and [indiscernible] first time pass requirements.
+So I think overall, the adoption cycle, I don't see any slowdown, and because of this -- or this new requirement, the complexity, and also the more deeper advanced nodes, that doubling, tripling pattern. So I think all in all, I think I am excited about the future, and I think most important for Cadence, is to try the leadership in technology. And with that, we are really-really focused on customer, make sure that we are trusted upon for them to go forward, and they can count on us to go forward.
+Jay Vleeschhouwer
+Okay. Thank you very much.
+Lip-Bu Tan
+Thank you.
+Operator
+Your next question comes from Krish Sankar with Bank of America Merrill Lynch. Please go ahead. Your line is open.
+Krish Sankar
+Yeah hi. Thanks for taking my question and congrats on a good quarter. I had a few of them, first one either for Lip-Bu or John; I mean, I don't want to ask the same question on buyback, but I am trying to figure out a different way. Your capital allocation or capital return policy; in the last six months, you didn't do any buyback, and there is always speculation, whether it's a takeover or M&A happening or something. So from your standpoint, why weren't you considering a dividend, so that, you don't have to worry about timing the buyback?
+Lip-Bu Tan
+Yeah, so Krish, I think clearly, capital allocation is a topic that every board meeting I discuss with my board. Geoff and I, and John, this is a topic that we review quarterly. And so, in terms of buyback, in terms of dividends, and all this have been discussed with our board. But so far right now, the board authorized for $525 million buyback, and we review that, provide the flexibility, we look at our business requirement, and then after that $1.2 billion buyback we completed last year, we decided in Q3, we are going to start buyback again.
+Krish Sankar
+Got it, got it. All right. And then on your hardware business, can you roughly say the split between emulation and FPGA prototyping, is it like an 80-20 split or am I in the ballpark?
+Lip-Bu Tan
+Yeah, we don't provide the breakdown. As you can [indiscernible], we don't want to give the information to our competitors. But clearly, hardware emulation is our current volume productions. And the S1, we just announced recently, and then we are excited with the earlier reception from our customer with repeat orders and then with five new logos and then one very important and very strong competitive win, that enable to use our FPGA and they adopt us and that will be carrying the momentum going forward.
+John Wall
+And Krish, this is John here. I just want to add that, we have great products in the hardware space. And note, that we delivered excellent financial results for Q2, software and IP were both strong, and we increased our outlook for the year. So software and hardware in the first half is only part of what is a really good story.
+Krish Sankar
+Got it. And then a final question for Lip-Bu, if you look at the market, obviously, you have all these exciting technologies, like AI and deep learning, autonomous driving. Is there a way you can quantify what the EDA or Cadence opportunity is? Either as a percentage of the market size for AI or a percentage of -- or a dollar value of the percentage of what the chip market could be for those? Is there a way you can help us quantify the EDA opportunity in this trend?
+Lip-Bu Tan
+Yeah. It's a good question. It will be difficult for us to quantify it at this moment, but I can share some of my excitement. Clearly, the machine learning, deep learning AI, could be changing our semiconductor industry, and then the application is very broad. And then autonomous driving is just one of the application. Machine learning, deep learning, that can be a very huge impact to the datacenter in cloud infrastructure. And then also for the industrial IoT, and even the medical genomic sequencing, and then there is a lot of compute that our brain can function that fast, and with so much data; and as you know, the big data is massively -- is a lot of data from -- not just compute, and also from video is massive, and then clearly, the next 10-20 years, the data is going to be -- how to manage a data is going to be the biggest opportunity and challenge. And so that can be a lot of implication to our customer and customers, and that they had the design, based on that to do the data analytics from training to influence. So they are going to be a new requirement for a lot of our EDA solution to provide them to optimize their calculation and data management.
+So, we are excited about it, and it's very hard to quantify and stay tuned. And if we have the insight, we'd like to share with you. But right now, it's just an exciting opportunity in this emerging new market. The application is going to be very broad and is very exciting.
+Krish Sankar
+All right. Thanks Lip-Bu. Thanks John.
+Lip-Bu Tan
+Sure.
+Operator
+Your next question comes from Tom Diffely with DA Davidson. Please go ahead. Your line is open.
+Tom Diffely
+Yeah, good afternoon. Just following up on that last question, when we get into an environment, and guys like NVIDIA are building these huge chips, is the bigger opportunity for you on the hardware side, or do you think the EDA software side is a bigger opportunity on an incremental basis?
+Lip-Bu Tan
+Very good question, and clearly, we have a lot of respect for NVIDIA, and what they have done is fabulous for the industry, continued that innovation engine that they have. And so, seeing in general, I think clearly, the machine learning, deep learning, as I mentioned, it's a huge impact to our semiconductor industry. Besides, the memory that we are now seeing a lot of impact into the memory side, again, tied into that whole data management and the storage related area.
+So I think on the -- back to your question in terms of NVIDIA as an example, and then broadly into the whole AI machine learning, not just the hardware. Hardware is just for the verification, whatever the design, but a lot are going to be driving the IP, like our Tensilica will be a very great platform, because it's programmable, low power, and is very good for a lot of industrial application for autonomous driving that I highlighted in my remarks, and also for the whole datacenter cloud infrastructure.
+So I think they are going to require more optimization from a true point of view, and also the speed and the runtime of our design flow, and the most advanced note. And so those massive parallelism is going to be critically required, and that's why we are excited, we are so well positioned in terms of many of our new tools, completely rewrite, able to scale to massive parallel in terms of processor core to optimize the solution that the customer is looking for, and that is something that we are very well positioned.
+Tom Diffely
+Okay. And I know we have spent a lot of time talking about the leading edge, but as we look into things like IoT and the pervasiveness of sensors and the like on the low end, how are you positioned to benefit from that versus the unit growth and the design growth at the low end?
+Lip-Bu Tan
+Yeah, very good question. So I think on the low end IoT and also the devices that can collect the data, and then, we also have a very unique offering, because Tensilica is very low power, programmable, and then the other part is, one of our expertise is the low power in our flow. Either it's a custom flow or a digital flow, that's one of the area that we are driving. Low power is going to be the key for some of this industrial IoT, that will be able to collect data, and in some ways, they can replace the batteries, so that you can last longer, and that's some of the technique, some of the approach that is very strong Cadence offering we have in our tools.
+Tom Diffely
+Okay. So when you put this all together, is your expectation then as this starts to develop over the next few years, that the growth in your served market actually accelerates from where it is today?
+Lip-Bu Tan
+Yeah. I think we are kind of looking forward to that, and one thing that I wanted to highlight is our analog mixed signal, and that is -- a lot of this IoT or data collection on the end products, that is critical for the low power on analog mixed signal side, and that is our expertise. We are going to be offering that to the customer. And in fact, a couple of important customers in those area have been adopting us, and then, using our full flow for doing that.
+Tom Diffely
+Okay. I guess then, moving over to -- obviously the Asian market was very strong for you over the last year. Curious though, was most of that growth from core EDA, the hardware or the IP side of the business? As you think that trend continues, whatever it is?
+Lip-Bu Tan
+Yeah. Asia-Pacific is a very important region outside U.S., and couple of areas that we really like and we really focus on, like in Japan, the system company and then the automotive semiconductor area, they are doing very well. We are very well positioned with those customers, and so we [indiscernible] now and then. And then the other part of Asia, clearly, Korea is a very important market for us. We have a lot of success in that, in the digital flow, hardware emulation and the IP front. And then the other part is, the big engine is China. We are very well positioned in our China position.
+Clearly, the government have a very big initiative in terms of driving the domestic semiconductor industry, and then with a massive-massive investment in the hundreds of billions building that. We are very well positioned to partner and then collaborate and support, that is very broad, the digital from EDA flow and also the IP and also the hardware emulation. And so it's all total solution that we can provide to some of these leading companies. I think I mentioned, on the hardware emulation side with HiSilicon, in terms of the add-on capacity that was required, and one of the winning company. And in the past we also mentioned a couple of others, and then quite a few Chinese companies are going to be the world class companies, and we want to be part of that and support them globally, and just like any of our U.S. company and European company and Japan company.
+Tom Diffely
+Okay. And then just finally, going forward, do you think the FPGA prototyping product will be sold or packaged with emulation or are those separate sales?
+Lip-Bu Tan
+Yeah. It depends on customer requirement. Hardware emulation that have the scale or capacity of like 9.2 billion gigs, and that is very attractive for many leading large companies; because hardware emulation is the most accurate in terms of whatever you design, you want to modify that. Then secondly, I think FPGA for prototyping, and that is a very good way to do that, and we offer both; using the same complier that is very attractive for customer can go one way or the other, depends on the application, depends on their needs, and then they can scale it, whether they then have to do it separately, they can do it all in the same compiler, and that is very-very compelling. So I think we can provide that, and we continue to scale, continue to drive the next generation for that, and that we will announce when we are ready, and then continue to drive the capacity, lower the power and scale, and then for the FPGA and the emulation side.
+Tom Diffely
+Okay. Thanks for your time.
+Lip-Bu Tan
+Thank you.
+Operator
+Our final question comes from Monika Garg with KeyBank Pacific Crest. Please go ahead. Your line is open.
+Monika Garg
+Hi. Thanks for taking my question. The first is on R&D; if I look at R&D as a percentage of revenue. First half of this year is somewhere 37.3%, which is higher than previous year. So is it the normalized R&D level to think about going forward, or how should we think about what is the R&D level?
+Lip-Bu Tan
+Yeah I think let me start and then John can chip in. So first of all, I should know, there is not much out there to buy for EDA tool. And so a lot of customers are shifting to us, with the assumption that we will double down, triple down on R&D, so continue to drive the solution, that can help them to design the most complex chip. So we basically had to continue investing and especially right now, we have a couple of areas, we try to drive leadership in some of the digital flow and some of the verification flow, we want to drive the leadership. And also the proliferation to some of the leading customer, we need to invest and work with them, and that some of them are game-changing and then 7 nano nodes and 5 nano nodes are going to defining going forward, who own the biggest flow for the customer.
+So I think those are critical in this period that we have to continue investing, and then the -- in the past, [indiscernible] talked about, every time we put an investment, we are already looking at ROI. In terms of customer commitment to us, to our flow, before we put resources behind. And so besides doing that innovation for the product leadership, providing the proliferation on the customer to win and then thirdly, until the customer commit to us, and make the commitment before we put the money behind in terms of R&D and FEE support.
+So I think so far, we continue to drive the efficiency, so it's not just continue increasing. Each of the R&D team know very well. We also asked them to drive the efficiency, drive cost reduction. And so we are mindful of the overall return, and that's why we continue to guide the operating margin from 26% to 27% this year, and so far we are on track on that.
+John Wall
+Yeah Monika, this is John. I'd just like to add that, the R&D investment that we are making now is for future years. But our strategic priority is to develop innovative products and help our customers be successful, capture market segment share, and bring our solutions to market shaping customers. But we are continuing to build on our innovation and take action to drive growth and deliver results for our customers, all of which should enable us to deliver value to shareholders. Geoff, I don't know if you want to add anything?
+Geoff Ribar
+Just from an expense perspective, in the first half of the year, we had higher social security payments, both for the employees and on the company's behalf and less vacations and more vacations in the second half. So usually, the expense moderates in the second half.
+Monika Garg
+Got it. And then, you have talked about $525 million share repurchase authorization from the Board. Maybe, can you discuss how you are thinking about share repurchase for the second half of this year?
+John Wall
+Yes. As we said, we'd like to maintain more flexibility with the most recent authorization. The company regularly reviews its capital structure, balancing our needs for investments. The appropriate level of risk for our business model and operating environment, maintaining adequate liquidity, and the opportunity to return cash to shareholders. Board and management make their decisions through the lens of shareholder value. We purchased shares in the first half, but we do obviously expect to repurchase shares in Q3.
+Geoff Ribar
+And we are not specifying the amount of time nor the method at this time.
+Monika Garg
+Okay. Then just the last one, eight-nine months since Siemens announced the acquisition on Mentor closed almost four months. Have you seen any change in competitive dynamics in the market? Thank you so much.
+Lip-Bu Tan
+Sure Monika. First of all, I think the Mentor product is going to remain competitive under Siemens ownership. Siemens is a very big company, $100 billion company, they have tremendous resources, a lot of respect for them. And then so, we continue monitoring the product competing with us, and we don't anticipate any less. And so we treat them the same, and maybe even more.
+Monika Garg
+Thank you so much.
+Lip-Bu Tan
+Thank you.
+Operator
+This concludes the question-and-answer session of today's call. I will now turn it back over to President and CEO, Lip-Bu Tan.
+Lip-Bu Tan
+In closing, through innovation and execution, we are well positioned to build on our success and to further proliferating our solutions with market shaping customers. I would like to thank all our shareholders, customer and partners, board of directors and very hardworking employees for the continued support. Thank you for joining us this afternoon.
+Operator
+Thank you for participating in today's Cadence Design Systems second quarter 2017 earnings conference call. This concludes today's call. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

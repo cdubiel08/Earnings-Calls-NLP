@@ -1,0 +1,235 @@
+Cadence Design Systems Inc. (NASDAQ:CDNS) Q3 2018 Earnings Conference Call October 22, 2018  5:00 PM ET
+Executives
+Alan Lindstrom - Senior Group Director, Investor Relations
+Lip-Bu Tan - Chief Executive Officer
+John Wall - Senior Vice President and Chief Financial Officer
+Analysts
+Gary Mobley - Benchmark
+Mitch Steves - RBC Capital Markets
+Monika Garg - KeyBanc
+Rich Valera - Needham & Company
+John Pitzer - Credit Suisse
+Sterling Auty - JPMorgan
+Tom Diffely - D.A. Davidson
+Jay Vleeschhouwer - Griffin Securities
+Operator
+Good afternoon. My name is Erica and I will be your conference operator today. At this time, I would like to welcome everyone to the Cadence Third Quarter 2018 Earnings Conference Call. [Operator Instructions] Thank you. I would now like to turn the call over to Alan Lindstrom, Senior Group Director of Investor Relations for Cadence. Please go ahead.
+Alan Lindstrom
+Thank you, Erica and I would like to welcome everyone to our third quarter 2018 earnings conference call. I am joined today by Lip-Bu Tan, CEO and John Wall, Senior Vice President and CFO. The webcast of this call is available through our website, cadence.com and will be archived through December 14, 2018. A copy of today’s prepared remarks will also be available on our website at the conclusion of today’s call.
+Please note that today’s discussion will contain forward-looking statements and that actual results may differ materially from those expectations. For information on the factors that could cause a difference in our results, please refer to our filings with the Securities and Exchange Commission. These include Cadence’s most recent reports on Form 10-K and Form 10-Q, including the company’s future filings and the cautionary comments regarding forward-looking statements in the earnings press release we issued today.
+In addition to financial results prepared in accordance with Generally Accepted Accounting Principles, or GAAP, we will also present certain non-GAAP financial measures today. Cadence management believes that in addition to using GAAP results in evaluating our business, it can also be useful to review results using certain non-GAAP financial measures. Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with their most direct comparable GAAP financial results. The reconciliations are available at the Investor Relations section of cadence.com. Copies of today’s press release dated October 22, 2018 for the quarter ended September 29, 2018 related financial tables and the CFO commentary are also available on our website.
+Now, I will turn the call over to Lip-Bu.
+Lip-Bu Tan
+Good afternoon, everyone and thank you for joining us today. I am very pleased to report that broad-based customer demand across our cloud EDA, hardware and IP product lines enable Cadence to achieve excellent operating results and financial performance in the third quarter. We live in data-driven world that is propelled by key technology waves such as cloud datacenter, 5G and machine learning. AI machine learning fueled by big data and sophisticated data analytics algorithm along with the move to domain-specific accelerators is transforming many industries, including transportation, healthcare and manufacturing. All of these lead to increasing demand for high-performance compute, high-speed connectivity and dense storage, which in turn drives strong design activity and broad demand of our innovative system design enablement solutions. Our SDE strategy continues to open up new growth opportunities as we expand our focus beyond semiconductors to systems and customers in newer verticals. As a result of these factors, we are increasing our outlook for the year. John will say more on this in a moment.
+I will now review the Q3 highlights starting with IP business. Our IP business had a strong quarter with double-digit growth driven by increasing royalties for Tensilica and robust demand for our memory products. Additionally, we launched two important new IP products. First, earlier today, we announced the industry’s first silicon-proven long-reach 112G SerDes IP in 7-nanometer technology. This innovative SerDes technology based on nusemi acquisition is essential to enable next generation cloud connectivity to move to 200 gigabits and beyond in the hyper-scale datacenter. We have been working closely with early adopting customers and are already taking orders as we begin to engage broadly with customers. Along with our leading DDR and PCIe solutions, we now offer the most compelling portfolio of essential IPs for the hyper-scale datacenter.
+Second, we also significantly enhanced the Tensilica product line with the DNA 100 Processor, which is a deep neural-network accelerator. Its innovative architecture enables the DNA 100 to deliver leading performance and power efficiency, while scaling across a broad range of compute needs. The DNA 100 is ideal for embedded inferencing applications, where latency and lack of connectivity maybe an issue, such as surveillance, drones, AR/VR, and automotive sensor fusion.
+Next, I will discuss highlights of our System Design and Verification solutions. The Cadence Verification Suite had another strong quarter with year-over-year revenue growth of 9%. Palladium Z1 also had a strong quarter as demand for increasing hardware capacity continues. Two customers significantly expanded their installation of Palladium Z1 and overall we added 5 new logos. Our new Palladium Cloud offering, which provides on-demand cloud-based emulation capacity is ramping up nicely and contributed meaningfully to orders in Q3. Adoption of our Xcelium Simulator continues to grow as we added several new customers, including a large commitment to our technology from a market shaping customer.
+Digital and Signoff continues to perform well, with revenue up 9% year-over-year. Proliferation of our digital and signoff solutions continue with existing market shaping customers as well as wins with the new customers. We added 19 new logos in Q3 for our digital and signoff products. Customers tape out more than a dozen 7-nanometer designs in Q3 using Innovus. In total, more than 50 customers are using Innovus for implementations at the 7-nanometer node. We are actively engaged with very early adopter customers on their 5-nanometer designs and have started work with partners to get ready for 3-nanometer. We won 4 Partner of the Year awards at the TSMC Open Innovation Platform, including on 5-nanometer design infrastructure collaborations.
+Last quarter, we introduced Cadence Cloud in collaboration with major cloud industry players, Amazon Web Services, Google Cloud and Microsoft Azure. Our offerings have already been deployed in production with customers and interest in using cloud for semiconductor design is growing. We are pleased with the customer reception and have a healthy pipeline of opportunities. In October, Cadence collaborated with TSMC to launch their virtual design environment. Cadence Cloud was certified as a storefront for mutual customers desiring to develop SoCs using TSMC IP in the cloud. The endorsement is further evidence of the growing interest in using the cloud for semiconductor and electronic systems design.
+Now, before turning it over to John, let me quickly summarize comments. Cadence achieved excellent results through consistent execution of our System Design Enablement strategy across our core EDA, IP and hardware businesses. IP had an excellent quarter and we announced two new exciting IP products. Important market shaping customers expanded their use of both the software and hardware-based products in our Verification Suite. And our digital signoff solutions continue to proliferate with market shaping customers and we are deeply engaged with customers and partners on 5-nanometer and 3-nanometer development.
+With that, I will now turn the call over to John to review the financial results and provide our updated outlook.
+John Wall
+Thanks, Lip-Bu and good afternoon, everyone. As Lip-Bu said, broad-based customer demand across our major product lines enabled Cadence to achieve excellent operating results and financial performance in the third quarter. I am pleased to report that we exceeded all of our key performance metrics. We expect strong demand and cash flow to continue into the fourth quarter and as a result, we are raising our outlook for fiscal 2018 and increasing stock repurchases to $75 million for the fourth quarter.
+Before we get into Q3 results, I would like to remind you that Cadence adopted new revenue accounting standard known as ASC Topic 606 for fiscal 2018. These new rules, as we often refer to them, are now GAAP for Cadence. The numbers I present for our third quarter are based on these new rules unless otherwise stated. Please also keep in mind that this is our transition year to the new rules and our results under the new rules are not directly comparable to those of 2017, which we reported under ASC Topic 605 or the old rules. To provide a more direct comparison against our 2017 results, we will show our quarterly results as reported under the old rules for all four quarters of 2018.
+Now, let’s go through the key results for the third quarter starting with the P&L. As reported, total revenue was $532 million, non-GAAP operating margin was 32%, GAAP EPS was $0.35 and non-GAAP EPS was $0.49. And under the old rules, for direct comparison against Q3 2017, total revenue was $526 million, non-GAAP operating margin was 32%, GAAP EPS was $0.34 and non-GAAP EPS was $0.49.
+Next, let us turn to the balance sheet and cash flow. Cash and short-term investments totaled $550 million at the end of Q3 with approximately $135 million of that cash here in the U.S. Debt outstanding at quarter end was $350 million. Operating cash flow in Q3 was $110 million. During the quarter, we repurchased $50 million of Cadence shares and paid off our existing $300 million term loan. As reported, DSOs were 42 days. Under the old rules, DSOs were 39 days.
+Looking ahead, we expect strong demand to continue into the fourth quarter and as a result, we are increasing our outlook for fiscal 2018. For Q4, we expect the following results: revenue in the range of $545 million to $555 million; non-GAAP operating margin of 29% to 30%; GAAP EPS in the range of $0.27 to $0.29 and non-GAAP EPS in the range of $0.46 to $0.48. For fiscal 2018, we now expect revenue in the range of $2.113 billion too $2.123 billion, non-GAAP operating margin of 29.5% to 30%, GAAP EPS in the range of $1.15 to $1.17, non-GAAP EPS in the range of $1.80 to $1.82 and operating cash flow in the range of $550 million to $580 million.
+Our Q3 results and outlook for the second half are significantly better than we expected this time last quarter. Design activity is healthy and we experienced broad-based customer demand across our core EDA, hardware and IP product lines. Upside in our hardware and IP product lines are the primary contributors to the upside in our revenue guidance for 2018. Some of our customers requested earlier delivery of hardware systems and we saw an uptick in our IP royalty revenue. Our second half also has upside resulting from a number of one-time benefits on the expense side, almost all of which fell into our third quarter. The upside in our expenses for Q3 was primarily due to timing of new hires and one-time credits to professional services expense.
+For fiscal 2018, we now expect the difference in revenue under the new and old rules to be approximately $12 million, most of which is due to IP. This means that under the old rules, our implied 2018 guidance at the midpoint is now expected to be revenue of approximately $2.13 billion, non-GAAP operating margin of approximately 30%, GAAP EPS of approximately $1.18, non-GAAP EPS of approximately $1.85 and operating cash flow in the range of $550 million to $580 million. We expect our operating cash flow to be the same under both the new and old rules. One thing, I would like to point out is that our fourth quarter earnings release will be scheduled for February 19, 2019 due to the additional work required to complete our year-end accounting for the first time under both the new tax law and the new revenue accounting rules.
+To sum up, I am very pleased with our progress in 2018. It is shaping up to be a great year for Cadence and I would like to thank the entire Cadence team. Their operational discipline and their drive and passion to make our customers successful are truly inspiring and have played a large part in allowing us to raise our guidance throughout the year. On an apples-to-apples basis, we are now expecting annual revenue to increase by more than 9% and on the back of that revenue growth, we now expect non-GAAP operating margin on the basis of the old rules to improve to approximately 30% for the year.
+And with that operator, we will now take questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Your first question comes from Gary Mobley from Benchmark.
+Gary Mobley
+Let me first extend my congratulations to Lip-Bu for your 10-year anniversary.
+Lip-Bu Tan
+Thank you.
+Gary Mobley
+I want to start off by asking a question about Cadence Cloud. Can you give us a sense of what percent of your fourth quarter revenue outlook might be generated from Cadence Cloud and then as well maybe kind of a preview into fiscal year ‘19? And John, last time we had this call and I asked the question you mentioned you don’t expect a material difference in revenue recognition with Cadence Cloud versus traditional customer delivery. Is that still the case?
+Lip-Bu Tan
+Yes. So, I think you have two questions. Let me answer the first one. So first of all, last quarter, we introduced the Cadence Cloud with collaboration with Amazon, Google Cloud and Microsoft Azure and we are very delighted that by now our offerings are already deployed into production by customer interest using the cloud for design is growing. We are very excited about the customer reception and we have a healthy pipeline of opportunities. And I just have to say that we are in the very beginning of the inning for the baseball right now in the World Series now. So, we are still in the beginning of the inning. And then early October, we are delighted to collaborating with TSMC launch their virtual design environment and I should note moving to the cloud, foundry partners is important, so they make sure that their IP are also in the cloud, the TSMC Cloud offering, so that now customer can use that and using our tool in the cloud to developing the SoC, this is very exciting. So overall, we are excited about the opportunity, but we are in the very beginning of the inning.
+John Wall
+And Gary, just to address your second question, there is no material impact from the Cadence Cloud on Cadence revenue although Cadence Cloud is a valuable addition to our product portfolio for both customers and Cadence. It’s not a material impact to our revenue in Q3 or expected to be a material impact in Q4.
+Gary Mobley
+Okay. As a follow up question, I wanted to ask about the memory IC industry, I think it’s widely known that we have seen some pretty steep drops in NAND flash pricing and maybe a stagnant DRAM market and I know historically memory has not been a heavy user of EDA tools, but can you give us a sense of what percent of your revenue comes from memory IC companies?
+Lip-Bu Tan
+Yes, I don’t think we disclosed the memory IC percentage of our revenue, but I think clearly in this data-driven world, it’s all about big data and then also how to do the data analytics beside the compute, because the workload have changed. So, I think this memory and in-circuit memory, some of this application become very critical. So, we have a very strong footprint with the memory IC player and we are delighted to work closely with them for their next generations design and then some of this, I should note that NV, non-volatile memory side is ticking off in the hyperscale side and also all – it’s all about data, I mean, from the IoT to the Edge to the automotive driving, the ADAS and all the different IoT for the industrial 4.0, data become very essential and then how to address the latency and speed of time to get the data and then able to make some intelligent decision, those are critical. So I think there is a lot of disruptive innovation R&D is working on and we are very well-positioned with the memory key players and we are delighted on the tool and the IP front to work closely and close collaborating with them.
+Gary Mobley
+Okay. That’s it from me. Thanks guys.
+John Wall
+Thank you.
+Operator
+Our next question comes from Mitch Steves from RBC Capital Markets.
+Mitch Steves
+Hey, guys. Great quarter and thanks for taking my question. I had two. First one is actually kind of on the ASC 606. So I remember at the beginning of the year, you kind of expected like a $40 million impact. Now, it sounds like it’s like a $12 million difference and it seems like the total impact is almost positive for you guys. Maybe you can help us understand what happened there and what changed throughout the year?
+John Wall
+Yes, so Mitch, this is John. Yes, the difference is down to $12 million and it’s mainly due to how IP revenue is recognized under 605 and 606. Under 606, the new rules, we recorded IP revenues we delivered the IP to the customer. Under 605, the old rules, some IP cannot be recognized until all of the IP committed in the contract are delivered to the customer. As a result, we recorded IP revenue during Q2 and Q3 under the new rules that will show up in Q4 revenue under the old rules. Just for clarity we expect the revenue under the old rules to be $12 million higher than revenue under the new rules, but just wanted to make that clear.
+Mitch Steves
+Okay, got it. Thank you. And then the second one is actually on the overall macro and we have seen some negative news about semiconductor volumes. And I wanted to see if anything has changed in terms of the R&D you guys are seeing or in terms of the engineering hires you are seeing in the space just broadly from a macro perspective?
+Lip-Bu Tan
+Sure. Mitch, let me answer the questions on the environment. And so clearly, the design activity is quite healthy and basically driven by couple of things that I mentioned earlier, the data-driven and with the big data and the machine learning, deep learning that using the big data and then do the data analytics. And also kind of moving toward this, I call it domain-specific application, that’s very broad application to the very multiple industry from transportation to healthcare, drug discovery, manufacturing and of course the automotive related area. So, I think this all driving more and stronger design activity from the big companies and also the small company from the service provider. They want to optimize and differentiate their service. So, they are starting to quietly building up silicon development. So, we are embracing and partnering, collaborating with them deeply and of course our FTE strategy starting to really play big time in addressing some of this new growth opportunity, so that we can really focus on helping the customer to design that. So, I think overall answer your question, all these are driving the design activity, we see a very nice increase on our collaboration with our customers.
+Mitch Steves
+Perfect. Thank you.
+John Wall
+Thank you.
+Operator
+Our next question comes from Monika Garg from KeyBanc.
+Monika Garg
+Hi, thanks for taking my question. First, if you look you are guiding almost 10% growth on 6 of 5 bases, how to think about growth next year?
+Lip-Bu Tan
+Yes. First of all, I think, Monika, as you know that we don’t provide guidance for next year, wait for January and we will provide that. John?
+John Wall
+Yes. And Monika, I wouldn’t focus too intensely on any one quarter, I mean, revenue growth should be strong in Q4, but in Q3, we had a number of one-time benefits that don’t follow through into Q4. Expenses in Q3 benefited from the timing of new hires and some one-time credits to professional services expense. But that said, I mean, I am very pleased with what we are expecting in non-GAAP operating margin of approximately 29.5% to 30% for this year.
+Monika Garg
+Then could you maybe talk about how do you see impact of tariffs impacting semi industry and could you see EDA industry, any impact from that?
+Lip-Bu Tan
+Can you repeat your question again, I missed the first part.
+Monika Garg
+We are seeing kind of tariffs between U.S., China and other geographies, your comments regarding how could that impact semi industry and in turn could you see any impact on the EDA industry from that?
+Lip-Bu Tan
+Yes, I think it’s a very important topic that tariff landscape is very fluid and very difficult to predict with our guidance is everything we know and also reasonably estimate. Clearly, we watch very carefully. Overall, we have done well in China and then China is a very growing opportunity for us and we have a big team over there to support our customer. At the end of the day, I think we are just really laser focused on supporting our customer globally in their design activity.
+Monika Garg
+And then just the last one, John operating margins very strong at 30%, close to 30%, where do you think operating margins could be next 2 to 4 years? Thank you.
+John Wall
+Nice try, Monika, yes, but we are not guiding beyond this year for 2018.
+Monika Garg
+Thank you so much.
+Lip-Bu Tan
+Thank you.
+Operator
+Our next question comes from Rich Valera from Needham & Company.
+Rich Valera
+Thank you. Let me add my congratulations for the strong results gentlemen. So I think this question for John around you mentioned you had some one-time benefits and expenses in Q3. And also I think you mentioned early hardware shipments, which may have contributed to the strength in Q3, but I wanted to just say if you look at the year as a whole, including Q3 and Q4, is there anything we should think of as one-time that wouldn’t make for a clean comparison to 2019, even though I know you are not guiding just is there anything we should sort of back out as we are looking at 2019?
+John Wall
+Yes, good question, Rich. But what I would highlight is that we delivered hardware in Q3 for which we won’t collect payment until the following quarter. And if you have a look at our CFO commentary, we are expecting that to happen again in Q4, but in our CFO commentary, we have called out that we expect DSOs to rise to about 45 days at year end and that’s mainly because some customers have requested delivery of hardware in 2018, for which we don’t expect to get paid until early 2019, but yes, I mean, taking the year as a whole, that’s what I have been trying to point out.
+Rich Valera
+So if you looked at coming into this year versus last year, because you actually had a really strong, I think bookings hardware quarter in the fourth quarter of last year. Did you have that same effect where you had kind of deferred hardware revenue coming into the year that was recognized early this year and now you kind of have that same impact likely going into ‘19, is that fair?
+John Wall
+Well, what we saw at the end of last year was an acceleration of hardware bookings into the end of the quarter – at the end of 2017. And like you say, for that contrast with 2018 is this year some customers are requested earlier delivery of hardware in Q4 2018 for which we are not expecting to get paid until Q1 2019, but with all that said, we are not guiding beyond the end of 2018.
+Rich Valera
+Okay. But you will see some revenue in presumably the first quarter of ‘19 from hardware that you will ship in the fourth quarter of ‘18, is that fair?
+John Wall
+We trigger revenue on delivery of the hardware. So if we ship hardware in Q4, we will recognize revenue on the hardware in Q4.
+Rich Valera
+Okay, okay. Thank you for the clarification. Appreciate it. And then Asia-Pac seemed to show up as a notably strong geography in this quarter, is there anything there that we should be aware of is there or is that just kind of noise in the numbers?
+John Wall
+Yes, I mean, we continue to see strong growth in Asia and for the quarter, the growth, if you look across the business groups, it was mainly in most of the revenue upside for the second half is in Verification and IP and that’s merely because those segments benefit from upfront revenue recognition on delivery of the IP and hardware. We had strength across all product lines.
+Rich Valera
+Got it. Okay, thanks for taking my question, gentlemen. Appreciate it.
+John Wall
+Okay, thanks.
+Operator
+Our next question comes from John Pitzer from Credit Suisse.
+John Pitzer
+Yes, good afternoon guys. Thanks for letting me ask some questions. Congratulations for the strong results. John, I apologize if I missed this, but relative to the one-time benefits of OpEx in Q3, did you quantify them across SG&A and R&D? I am trying to figure out relative to your initial guidance of op margins being down over a couple of 100 basis points sequentially, they were up and I am just trying to figure out what drove the difference and how I should think about sequential op margin growth into the fourth quarter?
+John Wall
+Yes, fair question, John. I mean what can I say that the second half is just really strong for us, that I mean there has been no change in how we do our guidance or anything, it’s just design activity is healthy. But I wouldn’t read too much into any one quarter, even one half, a lot of the things that are going in the right direction for this year, especially in the second half on both the revenue and expense side. We are operating the business for the long-term, Q3 in the second half does include as you said a number of one-time items. But even adjusting for those, I am very pleased with how the second half of the year is playing out.
+John Pitzer
+So John is it fair to say that ex the adjustments that may be operating margins would have been about half as strong relative to guidance, so if they were 500 basis points above, about half is one-time, half was operational or can you help there?
+John Wall
+So yes, of course, yes, sorry, John, yes, that’s correct. About half was due to the one-time expense items and half due to the revenue growth.
+John Pitzer
+Perfect. That’s helpful. And then maybe as a follow-up, just going back to the Cadence Cloud, if you think about the long-term potential for this distribution channel, how big do you think it becomes as a percent of revenue? Is this something that you think your traditional customers exploit or is this really an avenue to kind of grow the customer base of design activity and you talked about rev/rec not being changed by Cadence Cloud, is the dollar of opportunity different between buy versus cloud when you think about project-based revenue?
+Lip-Bu Tan
+Yes. So let me answer the first question and then John can answer the second question. So on the first question, as I mentioned earlier, this is kind of an early inning, but we are very excited with the customer reception and also we have the healthy pipeline of opportunity and then clearly, our partner with industry leader in the hyperscale cloud have been really very good and we are very happy with the collaborations. And then clearly, if you look at from the design point of view, if you can partition and then over the multiple unlimited server that cloud infrastructure offer, clearly the PPA run-time improvement is substantial and we already see that in benefit on that and the customers see that. And so in some way, we can make the faster and better performance for the customer. And so I think stay tuned, we are going to continue to drive that especially with the TSMC virtual design platform and using our tool and also the IP in the cloud that can be very exciting and we are going to do that also for other foundry partners. So, they make it available to our customers, whichever way they pay on the hyperscale, whichever they pay on the foundry, we will be there to support them and our tool will be optimized for their solution design.
+John Wall
+And John, to take the second part of your question, Cadence Cloud doesn’t change our business model it offers customers another way to optimize their investment in Cadence tools. But in saying that the Palladium Cloud is probably the best opportunity in the nearer term for incremental revenue, because it taps into customers who traditionally have not had the capital budgets to purchase emulation hardware and we had some revenue contribution from Palladium Cloud in Q3.
+John Pitzer
+And John, if I could squeeze one more quick one in, Lip-Bu, what percent of your revenue today is domestic Chinese? And I guess just relative to trade war concerns, do you see any evidence of those customers perhaps ordering more than they need for fear that the trade war escalates?
+Lip-Bu Tan
+Yes, I don’t think we break down on the percentage of the customer from China domestic customer, but clearly, we are engaging quite heavily. Our philosophy is to support the leading customer in their most complicated design globally and then China is included and there are some world-class companies from China. We went collaborating closely with them. There lie our true partnership trusted arrangement and then with the best design on the tool and IP and so we are going to continue doing that and then so far have been okay.
+John Pitzer
+Thank you.
+Lip-Bu Tan
+Thank you.
+Operator
+Your next question comes from Sterling Auty from JPMorgan.
+Sterling Auty
+Yes, thanks. Hi, guys. I think the strength in the upside in the quarter, as you mentioned was both verification emulation as well as IP. On the verification emulation side, can you give us a little bit more color, is this existing customers buying more, is this new customers, what was the balance, just what’s the source of the strength that you saw in the quarter?
+Lip-Bu Tan
+Yes, let me start it first, Sterling and a couple of things. One, clearly the customer increasing the demand on the hardware capacity continue, we mentioned two large customers significantly expand their installation of Z1, purely multiple factor, but one of the key reason is a lot of complex design, they need more capacity for verification. And then talking about that, clearly also driving our verification suite and then we are delighted on the Xcelium side we have one large commitment to our technology from a market shaping customer. So, I think all-in-all, I think is a good quarter across hardware emulation Z1 and also Xcelium and then we continue to drive large-scale design, this is a must have and they are able to scale and then clearly, it’s a good balance between the existing customer and also new logos that we highlight that we have 5 new logos, the customer that are new customer to us, they see the benefit of the usage of Z1.
+Sterling Auty
+Yes. And when looking at the fourth quarter, I want to make sure I am clear, the guidance that you gave is the driver for the new guidance again more kind of the emulation IP, so things that have upfront revenue recognition that’s driving the fourth quarter changing guide or am I missing that?
+John Wall
+So Sterling, this is John. Yes, revenue exceeded internal expectations across all our major product lines, but yes, most of the revenue upside is in verification and IP when you look at the half and that’s because those segments benefit from upfront revenue as you just said.
+Lip-Bu Tan
+And then Sterling just to add on, I think we mentioned the broad-based EDA hardware and IP and then by the way, the digital and signoff had a wonderful quarter, 9% growth. And then we have mentioned about 12, more than 12, the 7-nanometer design win on the Q3. And then clearly, we go deep into the 5-nanometer with our partners and customers and then we are getting ready on the 3-nanometer, so continue driving the improvement on the various different tool, so it’s very broad based.
+Sterling Auty
+Okay, great. And then last question just to clarify the previous caller, John, you mentioned Palladium Cloud, I thought there would be a difference in revenue recognition going from upfront when you ship a box under current model versus I thought the cloud model would be more of a ratable or transaction based?
+John Wall
+Yes, that’s a good clarification, Sterling. Yes, revenue contribution from Palladium and the cloud would be ratable, yes.
+Sterling Auty
+Perfect. Thank you, guys.
+John Wall
+Thanks.
+Operator
+Our next question comes from Tom Diffely from D.A. Davidson.
+Tom Diffely
+Yes, good afternoon. First, let me go back to an earlier question on the memory side, we have seen some pricing declines in the memory. I know you had really strong relationships with the customers there, but since we have seen them push-out some capacity has delayed a few projects, just curious have you seen any delays or any slowdown in there, this design activity because of that?
+Lip-Bu Tan
+Yes, good question, Tom. And so far the feedback is from our partnership with some of the key customers, we don’t see any delay in the design, actually they increase, because there is a lot of new requirement they need and I highlight the NVMV [ph] related area and then the disaggregation of the storage that a hyperscale guy needs. And so there is a lot of innovation in the new material is happening. And then – so that you can really squeeze more bits into the memory cell. And so I think there is a lot of new development while heavily engaging with other key players. I think we don’t see the delay.
+Tom Diffely
+Okay. So I guess that being said, would the pricing decline be good for your business in the sense that it would open up new opportunities or new used cases for memory?
+Lip-Bu Tan
+Possible, but hard to tell, but so far, we are more related to that design activity and we see increase in that design activity and memory is so essential on the whole big data and the whole AI machine learning. And then latency is the scale-out the storage is significantly required, because such a big massive data from autonomous driving, IoT to the Edge and the requirement has significantly increased, so in some ways, put a lot of more pressure for the memory innovations and that should be good for us.
+Tom Diffely
+Yes, okay. And then John you talked several times about the one-time OpEx benefits in the quarter was there ever a discussion not to include those in the non-GAAP numbers?
+John Wall
+No, but we didn’t discuss not including them.
+Tom Diffely
+Okay. Was it more of just a timing issue than kind of…
+John Wall
+That’s all. Like I say, yes, it was just the timing issue like even when I look at – if I look at the second half without those we are still very pleased how the second half of the year is playing out.
+Tom Diffely
+Okay. And then just based on the really strong operating margin improvement this year versus the revenue growth of 9%, was that projected or predicted based on just the leverage in the model or was that a much stronger operating margin improvement than you would have thought?
+John Wall
+Well, approximately half of the operating margin improvement in the third quarter came from the revenue upside and about half of it came from expense benefits like primarily due to the timing of hires and those one-time credits. Yes, those were the major impacts. But like I say, I wouldn’t focus too intensely on any one quarter, like I say, when you look at the second half of the year, we are very pleased of how that’s playing out.
+Tom Diffely
+Okay, thank you.
+John Wall
+Thank you.
+Operator
+Our final question comes from Jay Vleeschhouwer from Griffin Securities.
+Jay Vleeschhouwer
+Thank you, John. Let me start with you with a couple of questions regarding pricing and separately expenses, then a follow-up for Lip-Bu. So on pricing, since you assumed the role of CFO, one of the things that you have been focusing on is what you call deal quality metrics and relatedly improving in areas of sub-optimal pricing where it exists. Could you give us an update on how you think you are doing in terms of those metrics? And then relatedly on pricing, to what extent do you think that new technology is helping you with either bookings or incremental pricing like, for example, Voltus XP as a source of incremental business?
+John Wall
+So, Jay, on the pricing front, yes, we will continue to focus on pricing. We are always disciplined and value-driven typically and we get pricing improvements from add-on contracts from customers, but we typically do renewal with the customer every approximately 2 to 3 years. And then throughout the duration of the contract, you will get add-on opportunities and that’s where we often see the pricing improvement.
+Lip-Bu Tan
+Just to add on to what John is saying, I think clearly, Jay, I think the customers are paying for the value that we provide. And then that’s why we do a lot of innovations. Every year, I think you can see 6 to 8 new products organically developed and then clearly it’s driving the tool performance and so that we can really focus on the value to the customer. And then running the PPA, the run-time and then in the early days that last few years, we have been very focused on rewriting some of our tool on parallelism and then the next step we are using AI machine learning across applying into all our different tool and products whether we can drive better performance and throughput for the customer. And then lately as we highlighted to you, we are moving quite a bit into the cloud so that we can use the unlimited server to begin partitioning appropriately to scale the performance and run-time. So, I think clearly the customer willing to pay for the value that we provide.
+Jay Vleeschhouwer
+Now, with regard to expenses, in doing our monthly spot checks, your job openings as well as for your principal competitors across the board for the EDA Big 3, there has been a substantial increase over the last number of months in terms of total openings, yourselves, Synopsys, Mentor, in your case your current number of job openings, as we have looked at today is up by about a third from 6 months ago and more than double a year ago and we see similar trends again with Synopsys and Mentor. Could you talk about where you are looking to add and given the broad demand within the industry for engineers, AEs and the like? Could you talk about your ability to in fact bring people on at the rate that you want given the competition for headcount?
+John Wall
+So, Jay, I will start and I will let Lip-Bu then chime in with where we are adding, but yes, you are correct that if you look at our CFO commentary you will see there was an uptick in Cadence headcount and much of that from the beginning of September that which was part of the delayed hiring. That’s what benefited Q3. And then on the expense side, that was a one-time benefit to Q3, but of course, we ramped up hiring, so that expense turns up in Q4. And then I just want to refer back to why we didn’t non-GAAP out the one-time credits for professional services, that’s – and that was because we need to be consistent with the use of non-GAAP definitions and they won’t change on a quarter-to-quarter basis.
+Lip-Bu Tan
+Yes. Just to add on John’s description, I think clearly we are hiring more in toward the R&D and FAE side. And then FAE clearly we want to make sure that we support our customer and then have a deep collaboration with them. On the R&D front, we see a great opportunity for further innovations basically more into the data science and into the machine learning, deep learning and also some of the new tools that we have some new idea how to drive more success in term of PPA and run-time to serve our customer better.
+Jay Vleeschhouwer
+Lastly on technology, since you used the word rewrite, Lip-Bu earlier at a Cadence customer event at DAC 4 months ago, there was a very interesting panel discussion where customers such as NVIDIA in particular talked about their need for substantially greater capacity in the tools and I know this is a 30-year issue in EDA, it never ends, but customers like them and others on the panel were talking about multiples of increase in block capacity within the tools. And I am wondering where you stand in terms of being able to deliver against those kinds of substantial increases in capacity that they are now talking about?
+Lip-Bu Tan
+Yes. So, I think clearly the design complexity has increased substantially based on the various application I just mentioned earlier, big data and data analytics. And so the capacity requirement, how to address the interconnect high-speed and also some of this memory scale-out and all of these are going to be critical and besides of our tool how to scale it and also some of the compact design how to use the cloud to address some of this requirement. And then the other part is also in our emulation – hardware emulation, clearly we are developing the next generation too early to give you the guidance, I mean, so far, we are making good progress on the next products and then going to be continued to increase the capacity to meet the customer. Same thing with our FPGA prototyping, stay tuned, we are going to have more announcements in term of increasing the capacity and the scale-out to provide the customer needs like the company like you mentioned earlier, NVIDIA and any large-scale design like massive parallelism and AI machine-learning application in some of the big infrastructure switch – network switch related require varied capacity increase and also developing the design is getting a lot more complex and also meanwhile pushing into the 5-nanometer and 3-nanometer. So I think this is all exciting for us and we work closely and listen very closely with the customer and collaborating with them and supporting them.
+Jay Vleeschhouwer
+Thank you very much.
+Lip-Bu Tan
+Thank you.
+Operator
+And there are no further questions at this time.
+Lip-Bu Tan
+And so let me start, first of all, in closing through continuous innovation and execution, our system design enablement strategy has positioned us to capitalize on multiple technology waves and further proliferate our solution with a broader base of customers. We are proud of the innovation and inclusive culture we are building at Cadence. And I would like to take this opportunity to thank all our shareholders, customers and partners, Board of Directors and hardworking employees globally for their continued support. Thank you all for joining us this afternoon.
+Operator
+Thank you for participating in today’s Cadence third quarter 2018 earnings conference call. This concludes today’s call. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

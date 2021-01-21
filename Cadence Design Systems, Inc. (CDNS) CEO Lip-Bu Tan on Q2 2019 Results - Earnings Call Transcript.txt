@@ -1,0 +1,268 @@
+Cadence Design Systems, Inc. (NASDAQ:CDNS)  Q2 2019 Earnings Conference Call  July 22, 2019  5:00 PM ET
+Company Participants
+Alan Lindstrom - Senior Group Director, IR
+Lip-Bu Tan - Chief Executive Officer
+John Wall - Senior Vice President and Chief Financial Officer
+Conference Call Participants
+Tom Diffely - D.A. Davidson
+John Pitzer - Credit Suisse
+Gary Mobley - Wells Fargo Securities
+Jay Vleeschhouwer - Griffin Securities
+Sterling Auty - JP Morgan
+Rich Valera - Needham & Company
+Mitchell Steves - RBC Capital Markets
+Gal Munda - Berenberg Capital
+Jason Celino - KeyBanc Capital Markets
+Krish Sankar - Cowen
+Operator
+Good afternoon. My name is Erica and I will be your conference operator today. At this time, I would like to welcome everyone to the Cadence Second Quarter 2019 Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session. [Operator Instructions] Thank you.
+I will now turn the call over to Alan Lindstrom, Senior Group Director of Investor Relations for Cadence. Please go ahead.
+Alan Lindstrom
+Thank you, Erica, and I would like to welcome everyone to our second quarter 2019 earnings conference call. I am joined today by Lip-Bu Tan, CEO; and John Wall, Senior Vice President and CFO. The webcast of this call is available through our website, cadence.com and will be archived through September 13, 2019. A copy of today’s prepared remarks will also be made available on our website at the conclusion of today’s call.
+Please note that the discussion will contain forward-looking statements and that actual results may differ materially from those expectations. For information on the factors that could cause a difference in our results, please refer to our filings with the Securities and Exchange Commission.
+These include Cadence's most recent reports on Form 10-K and Form 10-Q, including the Company's future filings and the cautionary comments regarding forward-looking statements in the earnings press release that we issued today. 
+In addition to financial results prepared in accordance with Generally Accepted Accounting Principles or GAAP, we will also present certain non-GAAP financial measures today. Cadence management believes that in addition to using GAAP results in evaluating our business, it can also be useful to review results using certain non-GAAP financial measures.
+Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with their most direct comparable GAAP financial results. The reconciliations are available at the Investor Relations section of cadence.com.
+Copies of today's press release dated July 22, 2019 for the quarter ended July 29 – excuse me June 29, 2019, related financial tables and the CFO Commentary are all available on our website.
+Now I will turn the call over to Lip-Bu.
+Lip-Bu Tan
+Good afternoon, everyone. Thank you for joining us today. Cadence achieved strong operating results for the second quarter of 2019, delivering 12% year-over-year revenue growth on broad-based strength across our product line. Based on the strength of our business, we are raising our outlook for the year. John will provide more details shortly.
+While there is a ongoing global economic and geopolitical uncertainty, we remain confident about the multiple long-term trends that continue to drive strong design activity driven by strength at – driven by trend, such as Artificial Intelligence or AI, 5G, autonomous driving and IoT, design activity is being fueled by workload-specific computing, system companies building custom silicon, new silicon startups and digital transformation of industries such as automotive, aerospace, medical and other industrial applications.
+Our Intelligent System Design strategy will enable us to provide more capabilities and value to our customers, while also expanding our current total addressable market from about $10 billion to estimate $30 billion over the next five years.
+The foundation of the strategy is design excellence, which is comprised of our core EDA and IP business. In addition, we are building upon our core competency in computational software to expand into two new areas. 
+The first one is system innovation where we are expanding into new system domains with products like Clarity, our new 3D EM Solver that was launched last quarter. Clarity has received considerable customer interest with numerous evaluations underway. 
+And second new area is Pervasive Intelligence where we are beginning to apply AI and our algorithmic knowledge to our core business and specific verticals. 
+Now let us turn to our quarterly highlights for our core business. Our innovation engine continued to deliver as we introduced four significant new products in the quarter. We grew revenue in Digital and Signoff by double-digit year-over-year through both ongoing proliferation with market-shaping customers and adoption by new customers at advanced nodes. 
+Samsung Austin R&D Center, a leader in high performance design has selected Cadence Digital Implementation Solution for a next-generation, high-end mobile CPU core design.
+Cadence state-of-art Innovus-based flow delivered the best quality of results for that design enables Samsung Austin R&D Center to meet its advanced process node objectives. 
+Innovium, a leader provider of innovative datacenter switching solutions adopted Innovus for its highly scalable TERALYNX Ethernet switch design. There were more than 40 tapeouts at seven nanometer and below using our full digital flow in the first half of 2019. And Innovus, our Digital Implementation Solution has over 18 active customers for seven nanometer and below designs including ten at five nanometer. 
+Next I want to discuss highlights of our system design and verification solutions for which revenue grew 7% year-over-year. Our hardware-assisted verification products, which are an integrated part of our verification suite had an another good quarter with the addition of Protium S1, we also provide comprehensive solutions across IP and SOC verification, hardware, software regressions, system validation and earlier software developments. 
+Palladium Z1, our flagship emulation platform, added six new customers and had nine repeat orders. Habana Labs, a leading AI processor startup say that Palladium was instrumental for the development of Gaudi, the industry’s first AI training processor that natively integrate Ethernet and RDMA and for their GOYA Inferencing Chip. 
+Fungible, a data-centric computing use a combination of Palladium Z1 and Protium S1 systems in the development of the DPU family of products. The DPU is a new type of microprocessor that will revolutionize the performance, reliability and economics of datacenter at all scales. 
+We introduced the Protium S1, enterprise prototyping platform which is the first datacenter optimized FPGA based prototyping system and provides multi megahertz speed for billion-gate designs accelerating earlier software development and hardware software convergence. 
+Customer reception of Protium S1 has been very positive with earlier adoption from some market-shaping customers including NVidia. Protium S1 and X1 also added three new customers and received seven repeat orders. 
+We also delivered the smart JasperGold Formal Verification Platform that delivers an average of 2X faster proofs out of the box and 5X faster regression runs by leveraging new machine learning enable smart proof technology. 
+STMicro has been able to significantly boost its verification productivity with Smart JasperGold. Custom Analog grew a strong 11% year-over-year. 
+In the quarter, we introduced an important new product, Spectre X Simulator, which is next-generation massively parallel circuit simulator design to provide up to 10x performance gains while solving 5x larger designs and while maintaining the golden accuracy, customer expect from 25 years of Spectre industry leadership in analog, mix signal and RF applications. Spectre X was endorsed by MediaTek, Mellanox, Renasas, and Silicon Works. 
+Now let me make a few comments on the geopolitical situation. We have and will continue to comply with the United States Department of Commerce Export Control Regulations. The situation is fluid and we will continue to closely monitoring it. 
+While there is an ongoing uncertainty, thanks to our strategy, continued innovation and operational execution. We are well positioned to capture growth opportunities arise from the longer-term trends driving strong design activity. 
+While we do not provide details about any specific customer, I do want to emphasize that we have a very broad diversified and global customer base. 
+With that, I would now turn the call over to John to review the financial results and provide our updated outlook. 
+John Wall
+Thanks Lip-Bu, and good afternoon everyone. I am pleased with our Q2 results for Q2 and our updated outlook for fiscal 2019. Q2 was a little unusual due to the export limitations that were imposed during the quarter. The export limitations that took effect on May 16 and June 24 in respect to certain customers remain in place today. 
+We are aware that this is a very fluid situation. So for the purpose of providing guidance for the second half of 2019, we have assumed that these current export limitations remain in effect for the remainder of the year. 
+Now let me walk you through the key results for Q2 beginning with the P&L. Total revenue was $580 million. Non-GAAP operating margin was 33.6%. GAAP EPS was $0.38, and non-GAAP EPS was $0.57.
+Next, turning to the balance sheet and cash flow, at the end of the quarter, cash totaled $633 million while the principal value of debt outstanding was $350 million. Operating cash flow for Q2 was $246 million. DSOs were 38 days. And during Q2, we repurchased $75 million of Cadence shares.
+Now, I will provide our updated guidance. For Q3, we expect the following results: Revenue in the range of $570 to $580 million; non-GAAP operating margin of approximately 30%; GAAP EPS in the range of $0.32 to $0.34; and non-GAAP EPS in the range of $.050 to $.052.
+Our updated guidance for fiscal 2019 is now as follows: Revenue in the range of $2.315 billion to $2.335 billion; non-GAAP operating margin in the range of 31% to 32%; GAAP EPS in the range of $1.44 to $1.50; non-GAAP EPS in the range of $2.11 to $2.17; operating cash flow in the range of $680 million to $720 million; and for the year, we continue to expect to use approximately 50% of free cash flow to repurchase Cadence stock. 
+You will find guidance for additional items, as well as further analysis in the CFO Commentary available on our website.
+In summary, I’m pleased with our execution so far this year. We are living in uncertain times and I am proud of how we are adapting to a fluid environment. Our improved outlook speaks to the diversification of our customer base, the underlying strength of demand for our technology and solutions and the continued focus of our employees throughout the company on achieving our key financial metrics. 
+I would like to thank our customers, partners and of course our employees. We look forward to updating you on our progress throughout the second half of 2019.
+And with that, operator, we’ll now take questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Your first question comes from Tom Diffely with D.A. Davidson. 
+Tom Diffely
+Yes, good afternoon. I was wondering if there is any way you could do more of a quantification of the impacts from the different exports controls in China right now, kind of the relative size of that or the impact of earnings are? Maybe anything you can give would be great. 
+John Wall
+So, Tom, we wanted to provide clarity in relation to second half guidance and expectations without speculating on what may or may not happen with regard to current export limitations. While we don’t provide details on what that speculation might be, we do want to emphasize that we have a very broad diversified and global customer base. 
+Tom Diffely
+Okay. So is there a way to size it in case it does come back to give us a sense of what the upside potential could be to your guidance?
+John Wall 
+It’s very hard to say. We don’t want to speculate. 
+Tom Diffely
+Okay. And then moving on, maybe you could talk about the margins in the quarter versus the guided margins about 10% lower. Is it just mix or is more going on there?
+John Wall 
+Yes, certainly, Q2 was – there was more profitable mix in revenue. We were happy with the performance in Functional Verification. We continue to expect modest growth for 2019 and even considering the impact of those export limitations. We expect gross margins of course like Q2 was a little unusual to the export limitations. 
+We’d expect the gross margins for the second half to return to more typical levels. We are investing in opportunities to expand our business with market-shaping customers and investing in TAM expansion opportunities. So that's why the op margin is, for the second half is forecasted at approximately 30%.
+Tom Diffely
+Okay. And then finally, when you look at the growth in Intelligent System Design over the next several years, does that meaningfully change the model for either a margin or cost structure point of view versus Traditional EDA?
+John Wall 
+Well, we are not guiding out beyond 2019, everything we know is included in our guidance for 2019. We take a longer term view over things again with a focus on any one quarter, I tend to – like compare current results against our current midpoint of guidance against 2016, and I think I would expect the model to be pretty consistent.
+Tom Diffely
+Okay. Thank you.
+Operator
+Your next question comes from John Pitzer with Credit Suisse. 
+John Pitzer 
+Yes, good afternoon guys. Thanks for taking the question. John, just a follow-up on the gross margin. I want to make sure I understand what was unusual about the June quarter? I thought I heard you say from the last question, it had to do with the export tariffs, but then you are saying that the gross margin to return back to normal in the back half of the year despite the fact that it looks like you are still excluding some business related to the tariff issues. 
+John Wall
+Well, Q2 was a little unusual in that the export limitations took effect on May 16 and again on June 24 in respect to certain customers and like you say those remain in place today. And then, I mean, we had a few things in terms of hardware results, hardware results were more profitable than we expected. Services, revenue was a little bit more profitable than we expected. 
+And just generally like that wouldn’t – it was great it was a profitable quarter for Q2. But I wouldn’t extrapolate that into any kind of future guidance that we expect non-GAAP gross margin to return to more typical levels in the second half of the year. 
+John Pitzer 
+That’s helpful and maybe as kind of a follow-up for Lip-Bu. Clearly, China is going to continue to be a long-term strategic customer for you. I am just kind of curious, given the heightened tension, U.S. China trade, is there any concern that we should have that China might try to do EDA on their own or are there barriers to entry to that business just so high it would be difficult for them to kind of generate domestic sources for what you provided. Any sort of longer term and that would be very helpful.
+Lip-Bu Tan
+Sure. So I think, clearly to have a number of China-based EDA companies offering field point tool solutions. And clear we are not going to speculate in the broader hypothesis, but clearly we focus to be the best partner for our customer and include China. 
+John Pitzer 
+Thank you. 
+Operator
+Your next question comes from Gary Mobley with Wells Fargo Securities.
+Gary Mobley
+Hey guys. Thanks for taking my question. Can you hear me alright? 
+John Wall
+Yes.
+Lip-Bu Tan
+Yes.
+Gary Mobley
+All right. Good. John, I want to ask you a question about your fiscal year 2020 outlook. I know you are not going to say anything with respect to revenue growth or margins or anything at all relating to 2020. But as you enter your budget meeting, whatever that is, are you still going to use the guiding principle of the rule of 40 in terms of looking at the revenue growth – some of the revenue growth in operating margin? 
+John Wall
+Yes, Gary. Certainly, I mean, the model we have we expect to apply consistently and we report you is being something we’ve looked at across the different business groups. But with that, we're guiding for 2019 and we are not guiding beyond.
+Gary Mobley
+Understood. Understood. And with respect to your market-shaping customer, I presume that you are still in the investment mode with this customer. Is it fair to assume that you haven’t recognized any revenue from the relationship at this point? And if that's the case when would you expect you to bring the product to full fruition and be able to recognize revenue?
+Lip-Bu Tan
+Yes, so I think, Gary, we mentioned quite a few market-shaping customers. That’s a quite few important one, the leader in the industry. And I think I assume that you refer to the marquee U.S. semiconductor company. 
+Clearly, we have a breakthrough and wide-ranging win with this U.S. based semiconductor company while we have a breakthrough and wide-ranging win. We are in the early stage of partnership while very heavily engaging with them across the product line, the breadth of our engagement. So we are excited about it. But we continue to stay on close and focused. 
+Gary Mobley
+Okay. Thank you for taking the questions.
+Lip-Bu Tan
+Sure.
+Operator
+Your next question comes from Jay Vleeschhouwer with Griffin Securities.
+Jay Vleeschhouwer
+Thanks. Good evening. Lip-Bu, let me ask you a competitive question regarding Mentor. That is it’s becoming recently apparent that since the acquisition two-and-a-half years ago, they’ve been doing quite well with news well beyond what they last reported in 2016 and particularly in the areas for which they were always the market leader including verification, TSP and it looks most recently also in hardware. 
+The question is, have you encountered that before? And have you had to make competitive adjustments, let’s say, to the fact that Mentor is in fact doing so much better than they were pre-acquisition? And then couple of follow-ups.
+Lip-Bu Tan
+Yes, Jay, first of all, we respect Mentor tremendously and right now part of Siemens is a very big $100 billion company. So we don’t take them lightly and meanwhile we respect them and a lot and then clearly, there are some products that are competing with us. I think you mentioned earlier the hardware verification emulation side and of course their caliber products. So, I think clearly, we continue to respect them, but we are effectively competing with them and so we treat them that business as usual. 
+Jay Vleeschhouwer
+All right. And you’ve grown your headcount pretty substantially year-to-date and also in Q1 could you talk specific about how well you’ve been able to bring on applications to engineers. We’ve talked about this that for I believe the last year going back to this product, you’ve had a significant increase to open REX, your AEs particularly domestically. 
+And we are now looking for AEs well beyond the number of good items - Mentor were looking for. So, I imagine you’ve been able to onboard some, but can you talk about how you are doing in terms of bringing those kinds of people on. And then, lastly for John, you’ve talked about last number of years about deal quality, price optimization and so forth. 
+When you think about your base of customer contracts in cohort terms or aging of the cohort of the contracts, how do you think you’ve done so far in terms of optimizing to the base of contracts or how much is left to be done in terms of outstanding contracts at renewal you can optimize?
+Lip-Bu Tan
+Yes, so, Jay, let me answer the first question and then John will answer the second question. So on the headcount, and we pretty much – that is pretty much on plan in terms of how we are going to bring on board in terms of the talent and also the AE and the engineering talent we continue to bring in and John and I we are very thoughtfully trying to bring in the talent with our executive team to really drive our focus on customer success. 
+And so, clearly, now we have a lot of multiple market-shaping customers we are proliferating and we need to have AEs to support the customer success. And that’s something that we are very focused on that. In terms of the AE resources increase, clearly not just domestically, also internationally to support our customer. 
+So I think all in all, I think it’s pretty much on plan and we continue to drive that and as we always say, only when we see the green light from the customer in terms of commitment, in terms of proliferation with us, then we add the AE and engineering talent to support it.
+John Wall
+Yes, and Jay, in respect to your questions about deal quality and optimizing pricing, I mean, we are very disciplined and value-driven and we believe the best way to derive value for our products is to collaborate DPU customers and deliver innovative and clearly differentiated solutions. 
+And as Lip-Bu highlighted, we are investing in opportunities to expand our business with market-shaping customers and we are investing in TAM expansion opportunities, the result from our intelligence system design strategy. I mean, in the end, it’s all about innovation which means attracting, retaining and incentivizing top talents. 
+Jay Vleeschhouwer
+Thank you.
+Operator
+Your next question comes from Sterling Auty with JP Morgan. 
+Sterling Auty 
+Yes. Thanks. Hi guys. I want to start off by circling back to the export control, the quantification. I understand you don’t want to speculate on what might come back in, but is there a way to look backwards and just give us some quantification of how much contribution we got from these customers in the past?
+John Wall
+I guess, Sterling, I mean.. 
+Lip-Bu Tan
+So let me start first, I think, John.
+John Wall
+Yes, go ahead.
+Lip-Bu Tan
+First of all, I think, Sterling, we clearly complying the regulation and limit some of our relationship with some of the – any customer that maybe on that entity list and clearly we read all the product portfolio to determine which are the products and related support subject to the limitations. 
+So I think this is something that we really focus on what are the maintenance and support we can provide and we wanted the best customer and we want to do the best we can. But meanwhile, very important is to comply with the regulation.
+John Wall
+Yes, we are not going to speculate on if and when either the regulations may change, our ability to service those customers under the existing regulations may change. That’s our allocated guidance for fiscal 2019 assumes no change either positive or negative to current export limitations. But we would want to highlight that and emphasize that we have very broad diversified and global customer base. 
+Sterling Auty 
+Okay. And then on the margin guidance for the back half the year, you talked about the gross margins, but is there anything out that would kind of dictate why the operating margin would be – I mean the startup in operating margins should stand kind of down for the third quarter or even the second half since the beginning and usually that’s kind of counterintuitive when we think about when you cycle rolls-off and some other timing of investments we’ve usually thought about you guys like most enterprise software is being more profitable in the back half than the front half. 
+So, just looking at the margin guide for next quarter. Other than gross margins, is there anything else that we can look to describe why the operating margins will be down sequentially?
+John Wall
+Of course, Sterling, yes. And like you say, I’d like to point out most of that’s expectation of a reversion to me and kind of for the gross margins. But on the op margin side, we are investing in opportunities with market-shaping customers and in our TAM expansion opportunities. 
+We also have the annual pay increases for employees are effective in July here at Cadence. So, that kicks in for the second half of the year. And that’s what’s taken us to an expectation of 30% for the second half. 
+Sterling Auty 
+It’s perfect. Thank you. 
+Operator
+Your next question comes from Rich Valera with Needham & Company. 
+Rich Valera 
+Thank you. Lip-Bu, you referenced geopolitical tension in your prepared remarks which I think most would agree has increased probably over the last quarter or so. And notwithstanding the fact that your business remains obviously very healthy. Have you seen any change in any customer buying patterns your demand due to this increased tension already any perhaps unexpected customer attrition?
+Lip-Bu Tan
+Yes, so far, now we don’t see that. But clearly, process for long, and then clearly we'll see some impact. But clearly, right now, so far we don’t see any impacts. And then we have a very broad based customer, as John mentioned, and we are happy in serving those customers. 
+Rich Valera 
+Got it. And then, so custom analog was particularly strong this quarter, I think 11% was the growth rate that you provided. Is there anything you can point to sort of justify why that was I think sort of above trend and should we think of this as somewhat anomalous? Or do we think that this business might be growing at a faster rate than it has historically?
+Lip-Bu Tan
+Yes, we are very delighted with that 11% growth with the big base we have. And then clearly, it reflects our – the leading products that we have and the tools that we have and the customer really is calling on us to delivering the design. And then meanwhile, a lot of applications that I mentioned earlier in the 5G and some of the IoT and autonomous driving and they are all mixed signal. 
+And so, that is really a strong combination of our strength in the analog and now a very strong portfolio that we have in digital and then make it very compelling to grow that the mix signal RF area. 
+John Wall
+And there is always, we’d encourage you not to focus on any one quarter, but you kind of have to look at the results over a longer period. And then certainly I wouldn’t focus on – if you are picking one quarter, I wouldn’t extrapolate Q2 given the unusual nature of the impact of export limitations imposed during the quarter. 
+Rich Valera 
+Got it. And then, just a follow-up on the Q2 gross margins. Just a little confused, it sounds like you are suggesting that the export limitations bumped up the gross margins and just trying to understand why that would be? Did you ship less hardware than you expected to and that helped your mix or just if there is any color you could provide on why the export restrictions would actually help gross margins?
+John Wall
+Certainly, it’s not just export restrictions. Essentially, it’s a combination of events in the quarter. Like you say, the quarter was a little bit unusual in that respect. But hardware is a little bit more profitable than we originally anticipated. Services revenue was a little bit more profitable than we originally anticipated. And then just Q2 was unusual in itself given the export limitations imposed during the quarter. 
+That’s what I am saying I wouldn’t focus on – I wouldn’t focus on extrapolating Q2, but it’s focus on any one quarter, but you look at the year really. 
+Rich Valera 
+Got it. Okay. Thank you.
+Operator
+Your next question is from Mitch Steves with RBC Capital Markets. 
+Mitchell Steves 
+Hey guys. Thanks for taking my question. So, if I look at your China revenue growth, you guys are up 20%, 21% sequentially. And then in your prepared remarks, you don't really say that you couldn't ship. So when you say that there is a anomaly in Q2, was that a actual negative in the quarter or did it not actually impact the revenue volume?
+John Wall
+So, China is up, yes of course, yes. Yes, China was up, it was up – it was 12% of our revenue in Q2 in comparison to 10% in Q1. But of course that’s down from 13% in Q4. And the nature of hardware and IP is a bit lumpy in nature anyway. But like I say, we wouldn’t read into any one quarter. But, yes, our forecast for the second half of the year assumes that the export limitations that are in place today remain in effect for the rest of the year. 
+Mitchell Steves 
+Sure, yes. It’s just to clarify that. So I realize that you are assuming a neutral environment as of today, but it was a negative for Q2 results?
+John Wall
+Yes, I think our results would have been higher if there were no limitations. 
+Mitchell Steves 
+Okay. Perfect. Thank you. 
+Operator
+Your next question is from Gal Munda with Berenberg Capital.
+Gal Munda 
+Hey guys. Thanks for taking my question. Just to follow-up on that China argument. So it’s up to 12% of our revenue today versus a year ago, 8%, it was kind of trending between 8% and 10% except for the Q4 which probably was hardware heavy. 
+Can you just talk a bit more about the overall growth? Is it the big players that are driving it or is it a lot of the smaller players that are basically trying to ramp up their semi space? Where are you seeing demand there if we kind of ignore the trade restrictions for a particular customer for now?
+John Wall
+Sure. Like you say, I mean, our China revenue mix over the past five quarters has ranged below 8% in Q2, 18% to high of 13% in Q4 2018. Well, I am not inclined to attribute motivation. Our China business has been strong over the past several quarters, but for now our ability to deliver products and services to certain customers that are on the BIS entity list is limited. So we’d expect the percentage of revenue in China to be lower for the second half of fiscal 2019 than the first half. 
+Gal Munda 
+Okay. That makes sense. Thank you. And then, just as a follow-up, if I think about, without thinking about a particular number, but just for margin outlook in the future, recently we've had this bump in gross margin helping and the mix helping. 
+But going forward, would you expect the gross margin to start contributing to the operating margin improvement as well, or do you think it’s mostly based on the continued operating leverage, the business you are thinking about?
+John Wall
+Yes, I would expect non-GAAP gross margin to return to more typical levels in the second half of the year. And then the reason we expect operating margins to be 30% is because we are investing in new employees as we invest in opportunities to expand our business with market-shaping customers and the TAM expansion opportunities we have and also because the annual pay increases for employees were effective in July. 
+That’s impacting our Q3 and Q4 op margins. But I wouldn’t – I expect gross margin to return to more typical levels in the second half of the year.
+Gal Munda 
+John, if you look maybe a year or two ahead and now asking for the guidance we are just kind of try and analyze, is there a potential in gross margins that contributes to operating margin improvement in the future? Is it mostly going to be from operating leverage?
+John Wall
+Again, everything we know is in our guidance for 2019 and we are not guiding beyond 2019. 
+Gal Munda 
+Okay. Thank you. Thanks guys. 
+Operator
+Your next question comes from Jason Celino with KeyBanc Capital Markets.
+Jason Celino
+Hey guys. Can you hear me okay?
+John Wall
+Yes.
+Lip-Bu Tan
+Yes. Thank you.
+Jason Celino
+Yes. Just a quick one from me. So, I appreciate your comments around kind of investing in your market-shaping customers and your TAM expansion opportunities. But as you think about these investments, over the next second half and longer term, is there one area that you feel is going to be more investments near term and then one area assuming more investments long-term. Or is there going to be kind of equal?
+John Wall
+We assess that regularly as part of our normal review of annual operating expenses. But and really back to Gary’s comment earlier in terms of rule of 40, our approach is to invest in the areas where we think we have the highest revenue growth. I am not saying 40 is the right number, because actually we're not guiding beyond 2019. 
+But essentially, the whole premise on the rule of 40 is you add your operating margin to revenue growth. So, basically the – where we have areas of more revenue growth we will invest a little bit heavier there where we have less revenue growth opportunities, we will look for more profitability. 
+Jason Celino
+Okay. Thank you.
+Operator
+Your final question comes from Krish Sankar with Cowen. 
+Krish Sankar
+Yes. Hi. Thanks for taking my question. I have two of them for either Lip-Bu or John. Number one is on your IP business, especially with your hyperscale customers, are you guys doing anymore customized projects or is it all mostly done behind us at this point? 
+And then the second question is, on the PCB business, have you seen any incremental design activity in PCB over the last few months and if so, do you think is that just a short-term blip? Or do you think there is something else interesting in the horizon longer term on PCB? Thank you. 
+Lip-Bu Tan
+So, I would add, Krish, let me address these two topics and then John will add some color. First of all, IP and that was a very lumpy business and clearly, if you look at first half it’s a double-digit growth for us and that we like that. And then secondly we just announced our Tensilica Q7. 
+We are very excited about that whole double vision and then AI performance for automotive AI, VR, mobile and surveillance applications and so we just put a release on that. And we have couple of design wins in the datacenter, mobile and automotive application. And then the other part we like a lot is this 30, high speed 30, 112 gig 30 at 7-nanometer. 
+And we have very strong customer demand and then we are working very intensely with them. So overall, we like the IP business and we continue to build that as part of our whole – we call it the design excellence in core EDA and IP. That is our strategy. 
+In terms of the PCB, interconnect side, also very good and a solid business and clearly the whole system interconnect and the system analysis side and we have double-digit growth in that area and so clearly the whole system analysis that will increase in our 4.5 billion TAM market and then our Clarity to 3D Solver, very well received by customers. We have numerous evaluations and a strong customer engagement and interest. 
+So, all in all, I think we are pretty solid on that. 
+John Wall
+And I would just add that, IP as Lip-Bu says, it can be lumpy in any single quarter. But looking at the first half of IP, we had double-digit growth there and we are happy with that. But – and with regard to system interconnect, it was a strong quarter for our PCB IC packaging and security analysis products and again, as Lip-Bu said, we had double-digit growth there. So, we are very pleased with the results there. 
+Krish Sankar
+Okay. Thanks, Lip-Bu. Thanks, John. 
+Lip-Bu Tan
+Thank you.
+John Wall
+Thanks. 
+Operator
+If there are no further questions at this time, Mr. Lip-Bu your closing remarks please.
+Lip-Bu Tan
+Thank you all for joining us this afternoon. Next phase of our strategy intelligence system design brings new opportunities in the design excellence, system innovation and pervasive intelligence and an expand the total addressable market. Of course, Cadence was complying with all export regulation and will continue to access and adapt to the situation. 
+In summary, we are capitalizing on the multiple technology waves and further proliferating our solutions with a broader base of our customers. In closing, I would like to thank all our shareholders, customers and partners, Board of Directors and our hard working employees for their continued support. 
+Operator
+Thank you for participating in today’s Cadence second quarter 2019 earnings conference call. This concludes today’s call. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

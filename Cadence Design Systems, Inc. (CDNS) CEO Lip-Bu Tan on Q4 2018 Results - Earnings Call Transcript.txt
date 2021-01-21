@@ -1,0 +1,243 @@
+Cadence Design Systems, Inc. (NASDAQ:CDNS) Q4 2018 Earnings Conference Call February 19, 2019  5:00 PM ET
+Company Participants
+Alan Lindstrom - Senior Group Director of Investor Relations
+Lip-Bu Tan - Chief Executive Officer
+John Wall - Senior Vice President and Chief Financial Officer
+Conference Call Participants
+John Pitzer - Credit Suisse
+Mitch Steves - RBC Capital Markets
+Rich Valera - Needham & Company
+Tom Diffely - D.A. Davidson
+Jay Vleeschhouwer - Griffin Securities
+Gal Munda - Berenberg Capital Markets
+Gary Mobley - Benchmark
+Monika Garg - KeyBanc Capital Markets
+Sterling Auty - JP Morgan
+Operator
+Good afternoon. My name is Gigi and I will be your conference operator today. At this time, I would like to welcome everyone to the Cadence Fourth Quarter 2018 Earnings Conference Call. [Operator Instructions] Thank you. I would now like to turn the call over to Alan Lindstrom, Senior Group Director of Investor Relations for Cadence. Please go ahead.
+Alan Lindstrom
+Thank you, Gigi and I would like to welcome everyone to our fourth quarter 2018 earnings conference call. I am joined today by Lip-Bu Tan, CEO and John Wall, Senior Vice President and CFO. The webcast of this call is available through our website, www.cadence.com and will be archived through March 15, 2019. A copy of today’s prepared remarks will also be available on our website at the conclusion of today’s call.
+Please note that today’s discussion will contain forward-looking statements and that actual results may differ materially from those expectations. For information on the factors that could cause a difference in our results, please refer to our filings with the Securities and Exchange Commission. These include Cadence’s most recent reports on Form 10-K and Form 10-Q, including the company’s future filings and the cautionary comments regarding forward-looking statements in the earnings press release we issued today.
+In addition to financial results prepared in accordance with Generally Accepted Accounting Principles or GAAP, we will also present certain non-GAAP financial measures today. Cadence management believes that in addition to using GAAP results in evaluating our business, it can also be useful to review results using certain non-GAAP financial measures. Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with their most direct comparable GAAP financial results. The reconciliations are available at the Investor Relations section of cadence.com. Copies of today’s press release dated February 19, 2019 for the quarter ended December 29, 2018 related financial tables and the CFO commentary are also available on our website.
+Now, I will turn the call over to Lip-Bu.
+Lip-Bu Tan
+Good afternoon, everyone and thank you for joining us today. We are pleased to report that cadence achieved excellent operating result for 2018 delivering 10% year-over-year revenue growth and 30% non-GAAP operating margin with broad base strength across product lines.
+While the overall macro environment remain mixed, we remain confident in the technology trends including AI machine learning, cloud data center and 5G that continue to drive strong design activity.
+Our system design enablement strategy is to continue growing our core EDA and IP business broaden our reach in system companies and targeted verticals and importantly, expand into newer adjacent areas.
+I'm delighted to report that we have continued to make significant progress in all these areas.
+We achieved strong growth across our product lines in our cloud business, which included a breakthrough wide ranging when with a marquee US semiconductor company.
+In Q4, we expanded our relationship with Samsung through their broader adoption of our digital, custom and verification products. We expanded our long-term partnership with Analog Devices for the development of mixed signal solutions for IoT, automotive, medical and industrial applications, including the adoption of several of our new digital and verification products.
+We made good progress in vertical segments such as the datacenter cloud, automotive and particularly in aerospace and defense. We have won business with some of the top companies in this space including GE Aviation and BAE Systems and we finished the year with major core EDA and IP contract with a major aerospace and defense contractor.
+Earlier in the year, we won a significant research contract with DARPA and have made very good progress developing advance machine learning technologies to enhance automation and productivity.
+And as we look at expanding beyond EDA, I'm very excited about our new strategic partnership with the Green Hills Software. Cadence invested about 150 million in Green Hills, representing an ownership interest of approximately 16%.
+Our investment is important because safety and security are some of the greatest concerns in the increasingly hyper connected world, especially in the critical industries, such as aerospace and defense, automotive and medical. Green Hills is the leading player in the embedded safety and social security software space with its INTEGRITY-178B real-time operating system having been certified to EAL6+, the highest Common Criteria security level achieved for an operating system.
+Green Hills products are broadly deployed across multiple application domains, particularly in aerospace and defense, with customers including with customers including Boeing and Lockheed Martin, and in automotive, with many top OEM and Tier 1 customers including Toyota and Ford. We expect to leverage the strength of both companies to drive embedded system, soft security and safety, open up new market opportunities and accelerate growth for both companies.
+I will now reveal other highlights for Q4 and 2018 beginning with functional verification, which remains the fastest growing challenge for our customers. Cadence verification suite had a good 2018 with revenue growth in the high teens led by strong demand for Palladium Z1. Palladium Z1 won 22 new customers during the year with significant expansions at similar existing customers and Protium, our FPGA-Based Prototyping solution also grew steadily.
+Growing adoption of our Xcelium simulator was highlighted by several market shipping customers expanding the commitment to our technology during the year. The IP outsourcing trend continued and strong execution of our refined IP strategy deliver double digit growth for our IP business in 2018.
+Tensilica had a good year with strong loyalty growth and we maintain our lead in audio applications with growing adoption in vision and key wins in automotive surveillance and augmented reality applications. We have engaged with several customers for our new Tensilica DNA hundred processor, which is ideal for embedded influencing applications and will be generally available to customers in the first half of the year.
+For the cloud datacenter market, earlier in the year we announced the first DDR5 test chip and in Q4 we began selling our new 112 gig long-reach SerDes IP in 7-nanometer technology. On digital and Signoff, we are particularly pleased with the growing proliferation of our solutions at the most advanced notes with market shipping customers. We grew our relationship with MediaTek to include the food digital flow from Synthesis through Signoff
+Customers tape out more than 80 7-nanometer designs in 2018 using our digital solutions and we had 23 full flow wins. We're actively engaged with very early adopted customers on the 5-nanometer design and we delivered two 3-nanometer test chips in 2018.
+On the custom analog front, we have growing adoption of both our Virtuoso RF and photonic solutions. And one of the very last remaining large customers that was not using our flagship Virtuoso layout solutions committed to adopting it.
+Last June, we introduced Cadence Cloud in collaboration with major cloud industry players, Amazon Web Services, Microsoft Azure and Google Cloud. We are pleased with the adoption momentum as we continue to lead the industry transition to the cloud.
+Now, before turning it over to John, let me quickly summarize my comments. Continued execution of our system design enablement strategy led to a broad strength across our product lines and particularly in aerospace and defense verticals. I'm very excited about our new strategic partnership with Green Hills Software, the leader in embedded safety and security software. And it was a good year for our Verification Suite products and as well as our IP business.
+With that, I will now turn the call over to John to review the financial results and provide our outlook.
+John Wall 
+Thanks, Lip-Bu and good afternoon everyone. Cadence exceeded all of its key operating metrics and delivered strong financial results for the fourth quarter and fiscal year 2018. Before we get into Q4 results, let me remind you that Cadence adopted the new revenue accounting standard known as ASC 606 for fiscal 2018.
+The numbers I present today for our fourth quarter and 2018 are based on these new rules unless otherwise stated. 2018 was our transition year to ASC 606 and to provide a more direct comparison against our 2017 results. We show our quarterly and annual results under both sets of rules for 2018.
+Now let's go through the key results for the fourth quarter and the year starting with the P&L. As reported, total revenue was $570 million for the quarter and $2.138 billion for the year. Q4 and 2018 both benefited from the shift and timing of revenue recognized on some hardware systems that we previously expected to deliver in 2019.
+As a result, non-GAAP operating margin was just over 31% for the fourth quarter and just over 30% for the year. GAAP EPS $0.35 for the quarter and $1.23 for the year and non-GAAP EPS was $0.52 for the quarter and $1.87 for the year.
+For the old rules which can be directly compared to 2017, total revenue for the fourth quarter was $579 million and $2.146 billion for the year and also benefited from the earlier than expected delivery of hardware systems in q4 2018.
+As a result, non-GAAP operating margin was just over 30% for both Q4 and the year. GAAP EPS was $0.36 for the quarter and $1.25 for the year. Non-GAAP EPS was $0.51 for the quarter and $1.88 for the year.
+The recurring revenue mix for the full year was approximately 90%. The mix for Q4 was approximately 85%, slightly lower than usual due to the extra hardware systems delivered in Q4.
+Now turning to the balance sheet and cash flow, cash totaled $533 million at year end. Toward the end of December we drew down $100 million on our revolving credit facility to fund the investment in Green Hills Software. As a result, debt outstanding at quarter end was $450 million.
+Operating cash flow in Q4 was $132 million and $605 million for the full year. DSOs were 48 days; under the old rules DSOs were 46 days. Our DSO target for 2019 remains 45 days. And during Q4 we were repurchased $100 million of Cadence shares.
+Now for our guidance, note that we have completed the transition to the new revenue accounting rules. So going forward, all numbers will be reported on an ASC 606 basis. For fiscal 2019, we expect revenue in the range of $2.27 billion to $2.31 billion representing growth of approximately 7% at the midpoint compared to 2018.
+We expect non-GAAP operating margin of 30% to 31%, GAAP EPS in the range of $1.33 to $1.43, non-GAAP EPS in the range of $1.97 to $2 .07. We expect operating cash flow to be in the range of $640 million to $690 million. And we expect to use approximately 50% of our free cash flow to repurchase Cadence common stock during 2019.
+For Q1, we expect revenue in the range of $565 million to $575 million, non-GAAP operating margin of approximately 30%, GAAP EPS in the range of $0.36 to $0.38 non-GAAP EPS in the range of $0.48 to $0.50. You will find guidance for additional items as well as further analysis in the CFO commentary available on our website.
+In conclusion, I'm pleased with our execution, financial performance and progress across all of our businesses. Our investments are paying off in our system design enablement strategy is driving results and creating value for customers and shareholders.
+And with that operator, we'll now take questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Your first question comes from John Pitzer from Credit Suisse. Your line is now open.
+John Pitzer 
+Yeah, good afternoon, guys. Thanks for letting me ask the question. Congratulations on the solid results. John, I just want to go through the gross margin for December and then how we should think about it in March. For the December quarter, was that all just the impact of having higher hardware sales or was there anything else going on in there? And as you look at the mix towards the March quarter, I know you gave us up margin guidance. But how do we think about gross margin sequentially in the March.
+John Wall 
+Yeah, John, gross margins consistently being like 90% or 91% every quarter and it dropped to 88% for Q4. That was entirely due to the shift in Palladium Z1 hardware shipments that shifted from 2019 into 2018. For Q1 and for 2019, we expect to go back to normal.
+John Pitzer 
+That's helpful and then the maybe I can ask you the question. You guys continue to put up solid results. And I think one of the strengths of your model and the EDA industry is just the lack of volatility despite some of the volatility that your customers are enjoying – are going through right now. If you look at the guidance for growth for this fiscal year of about 7% year-over-year, how do you think that's being impacted by the macro, by some of the uncertainties in China? What could it be if you think some of these had in the – kind of resolve themselves and what end markets that you participate in you think will be most impacted by the macro backdrop right now?
+Lip-Bu Tan 
+Yeah, thanks John, for the questions. And clearly in our we have less volatility because we are very focused on the design front end of the development and even though the environment kind of mix, but we remain confident that some of this AI machine learning, cloud datacenter, 5G, autonomous driving they are driving a very strong design activity and especially we are very focused on the market shipping customer and then also in other SD strategy that we put in place that provide not only the opportunity into the system and the vertical markets that we serve and that opened up a tremendous opportunity for us so that we can drive better success and engaging with our leading customer. And in terms of the end market impact clearly Asia Pacific is a very good opportunity and good growth for us. We can continue to benefit that and so some of these challenges that we see, we are much more in the design front end, so we don't see some of these manufacturing impact some other company will have.
+John Wall 
+And John, it's John Wall here. You'll see some revenue mix by geography information on page four of our CFO commentary. On that you'll see that Asia ticked up to 28% for 2018. Of that 28%, just under 10% of that was from China. I know you asked that in the last call.
+John Pitzer 
+Perfect, thanks guys. Congratulations.
+John Wall 
+Thank you.
+Operator
+Thank you. Our next question is from Mitch Steves from RBC Capital Markets. Your line is now open.
+Mitch Steves 
+Hey guys, thanks for taking my question. I just really had two. The first one is actually just focusing on the hardware, so obviously you guys gave out a very, very good full year guide, but what is embedded in terms of hardware assumptions there, not looking for exact numbers, but I mean it's been kind of three or four years in this cycle now and so what's kind of the expectation that business relative to the rest of the core EDA?
+Lip-Bu Tan 
+Yeah, so let me get started first. And clearly the function verification is very challenging for our customers I mentioned and we will be providing the Cadence Verification Suite and that providing a very nice platform for our customer, providing the whole Verification Suite not just the hardware and also the Xcelium, the Jasper, the VIP, so the whole package cannot be very compelling for customer. And on the hardware side, we have a great 2018 and we won 22 new customers. The demand is very strong for my existing customer to increase the capacity and for the advanced note design customer just love that scale and more predictable and find a box earlier and that's critical for the design.
+John Wall 
+And Mitch, in relation to your question with regard to what's included in guidance for 2019, I mean, 2018 was a very strong year for functional verification. And of course, it benefited from that shift of hardware revenue that we were originally expecting to deliver in 2019 and we delivered it in 2018. So that's going to make 2019 and tough compare for functional verification.
+Mitch Steves 
+Got it and then secondly, in terms of the margins here, I mean, you guys have been above 30% now twice in a row. I guess, you've had a longer term target of being around this range. So I mean, is that essentially coming up now, if you guys get a higher revenue base, let's say three or four years out?
+John Wall 
+Yes, Mitch, we're very pleased with our results for 2018 and feel very confident and happy with our guidance for 2019. Naturally, there was an operating margin impact of that shift in hardware revenue from 2019 to 2018 on both years, but we're very pleased with the progression we're making.
+Mitch Steves 
+Got it, thank you.
+Operator
+Thank you. Our next question is from Rich Valera from Needham & Company. Your line is now open.
+Rich Valera 
+Thank you. My understanding Lip, we've seen really good demand in the AI and I think autonomous and electrified vehicle areas. Both of those areas have had a lot of startups that have emerged over the last few years. I'm just wondering with some of the market turmoil and weaker demand, particularly in China, have you seen any of those startups experience stress or potential attrition in the current environment.
+Lip-Bu Tan 
+Yeah, so I think, Rich it's a good question. AI machine learning is very dear to my heart, because I think we're moving into this data driven economy and it's very broad application to medical, to the datacenter, to the intelligent energy management and across the auto vertical and so the impact is significant. And we're addressing not just for the startups, I think startup I think you saw some of them raise a lot of money, the Graph Call, Habana Lab and many others and so I think they'll continue to do well. We haven't seen any shake up yet because application market is so big. And now on the other hand, some of the high – the very big company that in the hyper scale player and also some of the system player, they are deploying massively into the AI machine learning R&D deployment, we are delighted to support them with our tool in IP and clearly we have a lot to offer. Besides our tool, EDA tool we actually apply the AI machine learning into our tool we see significant improvement on that and customer love it and encouraging us continue to put dough on it. And then the other part is clearly our Tensilica turned out to be a very, very important for the embedded influence applications and also for the augmented reality applications. So the DNA 100 have been very well received. We are excited about it. So I think overall stay tuned, I think this AI machine learning impact is going to new compute in not only the training and also the in front side.
+Rich Valera 
+Got it and then maybe this is for you John. I wonder if you could give us the growth rates for the functional verification and IP segments in 4Q and then if you'd be willing to say with respect to 2019 where you'd expect them to grow relative to the 7% that you put out a sort of the corporate bogey.
+John Wall 
+Sure Rich, yeah, I mean for – let me see, for functional verification it was high teens that for – actually high teens for functional verification and mid to high teens for IP for the year in 2018. Let me see for the – and then in relation to next year. I think the key thing to point out here is that we've pretty much an inline quarter for Q4 with the addition of that hardware shift that came out of '19 into '18. So therefore for '19, I think the knock on impact there is, we think it's a tough compare for functional verification. But we think the rest of the businesses should all perform strongly to get us to average at 7%.
+Rich Valera 
+Got it, okay. Thank you.
+Operator
+Thank you. Our next question is from Tom Diffely from D.A. Davidson. Your line is now open.
+Tom Diffely
+Yeah good afternoon, so first quick question for John, when I look at the guidance, the non-GAAP guidance, it looks like there's an unusually high impact from taxes going from GAAP to non-GAAP, curious what was behind that?
+John Wall 
+I'll have to get back to you on that Tom.
+Tom Diffely
+Okay. Alright and then maybe look through – it sounds like you had some nice wins in the aerospace defense market. Yeah, how big is that market for your core products and what is it behind your products or what enabled you to gain some share in that space?
+Lip-Bu Tan 
+Yeah, so I think clearly we're excited. And aerospace and defense space area, this is a vertical that we're targeted and we don't have a breakdown income of the market potential, but you can see that there's a lot of activity especially in the AI machine learning development that's why we're excited about our contract with DARPA and also we have a couple of really significant customer, they are working with us and we mentioned couple of them that we have successful and also we signed a very big major aerospace and defense contractor with four significant EDA and IP contract. So I think overall we're excited about this vertical, we kind of focus on three verticals cloud datacenter, automotive and aerospace and defense and so this is the one that we have a very good 2018.
+John Wall 
+And Tom just come back to you on the difference between GAAP and non-GAAP tax impact, it may need to do with share based compensation, but with the share price doing so well this year we picked up a lot of share based comp expense that we could use in our tax return, but that's not in our non-GAAP results but it's in our GAAP results.
+Tom Diffely
+Okay that's helpful and finally when you look at the Green Hills acquisition and sounds like their additional focus is on the Aerospace Defense market as well it sounds like it's your belief that with this technology kind of developed for this really security critical space that you're moving over into the cloud into other automotive sectors is where regional goes eventually.
+Lip-Bu Tan 
+Yeah, Tom, I think first of all, this is not an acquisition and this is a strategic investment that we make, 150 million investments for 16% of the company and I would join the board and I think, this is something that we're very excited. First of all, it ties in very well with system design and implement strategy and that we try to expand beyond our core business. This embedded software is the nearest adjacency and this is the next level up to the system spec being closed tight to the underwriting hardware and this is now exploring the new opportunity for us. That's about 3 billion estimate, 3 billion embedded system safety and security. And with this hyper connected world, the safety and security become a critical challenge for many of the industry expertise a critical industry like the aerospace, automotive, industrial and medical, they are very well positioned as I mentioned in my script that they have been certified at the highest e EAL6+ security level and so we are very excited. This will open up a lot of doors for us in terms of combining Green Hill and Cadence expertise and that providing that very unique differentiating value to our customers and shareholders.
+Tom Diffely
+Okay, that's helpful. Appreciate it. Thanks.
+Lip-Bu Tan 
+Thank you.
+Operator
+Thank you. Our next question is from Jay Vleeschhouwer from Griffin Securities. Your line is now open.
+Jay Vleeschhouwer
+Thank you. Good evening. Lip-Bu, could you talk about the evolution of your mix of semiconductor and systems customers over the last couple of years, and perhaps more importantly, talk about any discernible differences in how you serve those customers or how they behave as customers in terms of buying patterns, what they select in terms of their tool mix one versus the other. We also noticed that over the last year, you have been significantly increasing your opening for AEs, which is post case in AE – in EDA, but especially so for you over the last year, would that for instance be largely connected to your systems business particularly domestically or is that a broader requirement for AEs globally, then I had a follow up?
+Lip-Bu Tan 
+Yeah. Thanks so much Jay for the two very important questions. So first question you have about the semiconductor to the system, company and even service provider, the differences of supporting them. Clearly they are all demanding customer, we love them and in terms of system companies they are some differences. They are looking at the total performance power envelope and the system modeling and requirement and we are very well positioned for providing that beside the EDA tool, we also have packaging, PC board layout and system modeling and system simulation that is really, really compelling for them to come to us. And then the other part we're also understanding their requirement better in terms of how to serve them and support them and they are very much – time to market is more important to them and then we're able to meet their schedule, meet their timetable and then deliver the product. From the system level they are more comprehensive and that they are satisfying the requirement that is critically important to them. And then also as you can tell, many of our service providers they're also building up their silicon and the subsystem ASIC model to meet their requirement and we are excited about doing that. So I think what overall, we – both semiconductor and system side we're doing very well. The semiconductor side I highlighted couple of them, Samsung, clearly broader adoption of our tool, MediaTek adopting our full digital flow from Synthesis to Signoff and of course we are very, very excited about our marquee semiconductor US company and that explain to you why we have increased of the wreck for the AE because the demand, the requirement to support this, I call it game changing opportunity for us. We had to support them and then in a very timely fashion and we had to meet the requirement on performance and scalability. And that's why we're increasing our AE support that we need to drive the success, yeah.
+Jay Vleeschhouwer
+As follow up, you mentioned Protium and Xcelium, but could you speak more broadly about the momentum you're seeing with the US and UM portfolios. For instance, Genus, Pegasus Tempus, Voltus, is the momentum seen in digital largely Innovus for PnR or are you in fact seeing a broad adoption of the other newer products in digital that you've introduced over the last few years?
+Lip-Bu Tan 
+Yeah, so I think it's a good question and clearly as we mentioned earlier the hardware emulation and our Protium also it's steadily increasing adoption, we're very pleased with that. In terms of the digital flow, clearly I think you point out our Innovus Place & Route is very successful many leading market shipping customer adopting them and then we also excited about Innovus, for example MediaTek from Synthesis, Genus all the way to Tempus and also same thing with Samsung, broader adoption for our for digital flow and that we are excited about. So I think we kind of want to be the best of tool in every category and besides the Place & Route sometime it takes time to the maturity and now our Synthesis Genus I think will kick off and now our Signoff I think will kick off because it is very critical in terms of production. Signoff is very critical and it will take a little bit longer time, finally, I think we turned the corner. We have 23 full flow win for 2018, stay tuned we are working very hard on 2019. We have more too exciting to share with you as the time count go by.
+Jay Vleeschhouwer
+Thanks very much.
+Lip-Bu Tan 
+Thank you
+Operator
+Thank you. Our next question is from Gal Munda from Berenberg Capital Markets. Your line is now open.
+Gal Munda 
+I thanks for taking my questions. The first one, I just like to expand a bit on what Jay said and be a bit more specific just in terms of the contribution and the growth of each semi versus systems, how have we seen that developing in 2018 and maybe if you can kind of share maybe John, what proportion of revenue today represents versus maybe last few years?
+Lip-Bu Tan 
+Yeah, I think as I mentioned earlier, both are doing very well for us. The semiconductor side, as you can tell, over time, we will share with you some of the marquee and market shipping customer. They are the leader in their sector and we are winning and we are broadly proliferating in the most advanced notes. And clearly because of the performance, scalability not the PPA and run time and they are very happy to see the performance we have, using the parallelism and also using our AI machine learning approach and now moving to the cloud and that they can see significant improvement and the scalability they look for. On the system and service provider, we are very excited, we have a lot of opportunity in front of us and we are engaging heavily and stay tuned, from time to time we will highlight in our success. Stay tuned.
+John Wall
+And Gal, the mix of our business that comes from systems companies is approximately 40%. That's been pretty consistent the last two or three years. That's because the system is businesses growing, but so is our semiconductor business.
+Gal Munda 
+That makes sense. Thank you. And then just as a follow up, I'd like to focus a bit on the cloud, obviously it's growing probably very fast you can tell me maybe how fast from a lower base and just like to understand what the base is now and how do you think this opportunity could grow maybe in the midterm, how big the addressable market is. Thank you.
+Lip-Bu Tan 
+Yeah, we've mentioned earlier last June and in that – on STAC [ph], this is the largest industry conference and exhibition and we launched our Cadence Cloud with three major leaders Amazon, Microsoft and Google. We are excited about that partnership and collaboration. We have adoption momentum and we are very pleased with that. And clearly we're taking the lead in terms of industry transition to the cloud and it's not just for the sake of cloud, it's really focused on driving the performance and the productivity for our customers and we work very closely with our customers, with the selected cloud enabler and then so that we're providing and really focus on driving the performance and productivity of our customers and provide them the security that they can scale within their own organizations.
+Gal Munda 
+Do you have maybe have an idea of what proportion of the workloads could flow in the future kind of move on to the cloud for those customers? Or is that kind of we'll have to wait and see?
+Lip-Bu Tan 
+I think you have to wait and see because it's still early, only last June and we have the growing momentum of adoptions and we want to make sure that we really drive the performance and productivity from the customer. And then clearly the simulation, characteristics, workload is now quite broadly adopted by some of the customer to the cloud. And then the Palladium cloud is also happening. So we're kind of doing tool by tool and then driving the performance and just make sure that our customers see the benefit of having that.
+Gal Munda 
+Thank you so much.
+Lip-Bu Tan 
+Thank you.
+Operator
+Thank you. Our next question is from Gary Mobley from Benchmark. Your line is now open.
+Gary Mobley 
+Good afternoon, gentlemen. Thanks for taking my question. A couple of questions about your IP business, the first one relates to well, it's just really more of a verification of growth in the IP business that roughly $8 million revenue haircut from ASC 606 was almost all of that in the IP business and hence growth for the IP has been more like 13% versus 12%.
+John Wall 
+So Gary that – the IP business grew 16% in 2018, approximately 16% in 2018 and h in terms of the shift from 605 to 606 that's – the 8 million, the reason that it's – the reason it's 8 million and not 40 million as we thought earlier in the year was because we kind of underestimated our ability to write business under the new rules in a very, very consistent revenue timing way. So we ended up with very much the same revenue timing. So that 8 million difference was kind of spread across all businesses, it wasn't all IP in the end.
+Gary Mobley 
+Okay. Al right, that's helpful. And with respect to the proliferation of open source process for IP, how is it impacting the ability to license the Tensilica course with RISC-V and myths now being open, architected options out there. And how from a strategic standpoint do you guard against or invest in this adoption of open source?
+Lip-Bu Tan 
+Yeah, I think clearly Tensilica is a very strong position in the audio as I mentioned and now moving to vision and also automotive, surveillance and augmented reality, so it really depends on applications. And in some cases, we coexist and in some cases we shine and so clearly we are excited about our IP, it's a double digit growth for us. And then Tensilica DNA 100 is very well received for the embedded processing. And then RISC-V is another architecture and our tool support all the different architecture and so we are coexisting very well, we support them. And IP is – we embrace open source and clearly we support any different architecture and by more really – right now we are moving towards I call it domain specific, workload specific processor and application. And so we open with that. And then also I think the other big opportunity is this high speed connectivity. So the high speed 3000 and 112 gig [ph] at the 7-nanometer for the long-reach that is very well received and in the datacenter and cloud this is a must have and it's a silicon proven we're excited about that opportunity also.
+Gary Mobley 
+Okay, got it. Thank you, guys.
+Lip-Bu Tan 
+Thank you.
+Operator
+Thank you. Our next question is from Monika Garg from KeyBanc Capital Markets. Your line is now open.
+Monika Garg 
+Thanks for taking my question. First, I'm looking for more details on your partners with Green Hills, what are you looking to achieve with the partnership? Could you talk about products what you're looking to develop up with them? And when do you expect to have any contribution from this?
+Lip-Bu Tan 
+Yeah, so Monica, first of all I'm very excited about this I call it the world class for the security and safety embedded system and clearly they have a lot to offer, this real time operating system and also software development tools and middle way and with this very proprietary partitioned [ph] architecture that not protecting hardware [ph] you need to protect in a very highly reliable security and performance and we are excited about it. We take ownership in it. I just joined the board and we are exploring couple of areas of collaborations. First of all is the go-to-market and this is a very good software and then how do we proliferate into some of the different verticals defend and secure – defense and aerospace clearly is their strong hold and then besides that clearly in the automotive and medical and there's many areas that we can explore how to go-to-market. And then secondly, the technology collaborations in terms of clearly we are the industry leader in providing to end-to-end EDA and semiconductor IP solution. They are very strong in embedded safety and security software solution that each one bringing something really unique and we can leverage our respective strengths and collaborate in multiple fronts. In terms of the technology collaborations clearly we can explore collaboration with our Verification Suite, our IP and others so that we can serve our system vertical markets together in a more effective way. And also we can also look at some of the co marketing activity in the future. So all this – we just had this agreement finalized and we have multiple meetings to explore how can we do and how do we prioritize that so that we can really increase the revenue from both companies and I'm excited about it and then the customer that we're exposed to the can't wait to get us together to work on it and for something that we – stay tuned and then we will be reporting as you go.
+Monika Garg 
+And then John, you just posted 10% goal for 2018 but you're guiding 7% midpoint for '19. Are you being conservative? I mean in – even if I adjust for 15 million revenue from emulation from '18 to '19, you're still kind of did like 9% less than '18 and guiding like 7.5 ish percent for '19?
+John Wall 
+Yeah, Monica, I think the thing to remember there is that shift and hardware revenue from 2019 to 2018, while it benefits 2018, has doubled the impact on 2019. Like say, it was an inline quarter with the exception of that. So you're talking about a $20 million shift from 2019 into 2018. It's got like a 1% impact to revenue growth for 2018. So without it, we'd be closer to 9% revenue growth in 2018, but has doubled the impact. It's like a 40 million swing on 2019, 2019 would be 9% revenue growth if that $20 million of hardware revenue had fallen into '19 instead of '18.
+Monika Garg 
+Got it and then if I look generally, CapEx for Cadence has been somewhere around 60 ish million range, but you are guiding to 90 million, nine zero for 2019, kind of any specific hard expenses for '19 you're thinking about?
+John Wall 
+Yes that's correct Monica that were investing in R&D and field engineering resources to support expansion of our footprint and market shipping customers. And that's what you're seeing flow through there on the on the CapEx side.
+Monika Garg 
+Does that – should it normalize back to 60 ish million range by 2010 then?
+John Wall 
+Well, it's hard to say we're not guiding 2020 right now.
+Monika Garg 
+Hardest, then the last one, I mean, we have seen very strong operating margin improvement last two years, almost 400 bps, you are getting 5200 bps for '19. Is that the way to think about longer term margin expansion? Thank you so much.
+John Wall 
+Again, we're not guiding beyond 2019 and everything we know is included in our guidance.
+Monika Garg 
+Go it, thank you.
+Operator
+Thank you. Our final question comes from Sterling Auty from JP Morgan. Your line is now open.
+Sterling Auty
+Yeah, thanks. Hi, guys. Thanks for squeezing me in. And just a couple of questions here, one of the questions I still get a lot from investors is helping them understand as they go through the earning season and see the different results whether it be AMD on one end or video on the other end, can you help give a sense as to your exposures across the semi landscape and how they should put that into context?
+Lip-Bu Tan 
+Yeah, Sterling, that's a good question. And again, as I mentioned earlier, is a very mixed environment, clearly we are supporting the customer, clearly that the leader in the industry and so far we are very happy with our engagement with them and they are the leader in the sector. So we kind of highlight to you that is our high priority to support that. In terms of the exposure, I think we're heavily engaging with some of this leading sector, AI machine learning that I mentioned earlier, the cloud datacenter infrastructure that we are very well positioned there and clearly is autonomous driving, the Tier 1 OEM and then also the 5G, some of the leading customer and we are engaging and then renting from cell phone all the way to the infrastructure provider. And so overall I think we're well position, we are very diversified, very broad in terms of our customer base and clearly we're also in a new area that we are excited is the whole SDE, System Design Enablement, thereby increasing our system companies and also some of the vertical market like the Aerospace Defense and then clearly in the automotive side and we have a lot of success there and also clearly one thing that over time we're going to be also expanding is a medical related that's another big area of opportunity for us. So overall, I think we're very broad, we don't expose to any specific sector or specific company and then the design activity remains very strong across semiconductor system and vertical market.
+Sterling Auty
+Alright, great. The other hot topic in terms of conversations is while Synopsys reported their fourth quarter, they came out gave a three year margin target. I think one of the earlier questions on the call was alluding to it. I just want to hit it head on. You guys were one of the first ones to give a margin target back when you started your subscription transition all the way back in 2008, given the success that you've had and over 30% operating margins as you pointed out, is there a thought and when if you decide to might we expect you to come out and kind of give an update to a new long-term target whether it be three years in the future, five years et cetera?
+Lip-Bu Tan 
+Yeah, Sterling, it's a very good question. If you followed me for the last 10 years, I will continue to guide you at the time that we see it and now if you recall we initially guiding you from a very disaster year 2008 and '09 and then we starting to point to the teen and then point to the mid 20 and then now we are reaching 30 and then stay tuned – and at the right time we will highlight to you where we are going. We're continuing to drive efficiency, R&D, G&A, in every sector and then meanwhile we also continue to invest for the success for the long-term shareholder and clearly you can see that we have been investing in the right place and you can see that our digital implementation side is a lot of success right now. Our custom analog continues to be – had the leadership and we're investing in the future, in the 5-nanometer, 3-nanometre with a leading customer, we move into the cloud and now we're moving to the SD and we also focus on some of the vertical system and service provider and those take investment. And so we continue to drive efficiency and drive success. And then with the AE support, stay tuned, when the right time comes, we will guide you the longer term operating margin that we like to shoot for.
+Sterling Auty
+Excellent and just one last little housekeeping question for John. The Green Hills investment, I didn't catch. How does this actually get accounted for? What will we actually see in the non-GAAP income statement in terms of where it's accounted? And any just general sense of the revenue run rate at Green Hills at the moment?
+John Wall
+So Sterling we're not disclosing anything about revenue run rate at Green Hills, they're a private company, but we'll account for the investment in Green Hills using the equity method of accounting. So you'll see our portion of Green Hills results flow through the other income and expense line for GAAP only, so it won't be in our non-GAAP results. Green Hills is profitable, has a broad base of top customers and especially proliferate – and is especially proliferated industries where the highest levels of safety and security are required such as aerospace and defense and automotive. But yes, there'll be nothing in our non-GAAP results. It'll show up in GAAP only on our other income and expense line.
+Sterling Auty
+Got it, thank you guys.
+John Wall
+Thank you.
+Operator
+Thank you. And we have a follow up question from Mitch Steves from RBC Capital Markets. Your line is now open.
+Mitch Steves 
+Hey, guys, thanks for putting me back in. Just really quickly, one of the other topical items has been the kind of US, China trade dynamics. Have you guys seen any change in terms of your sales there or any sort of I guess different negotiations or is it still essentially business as usual?
+Lip-Bu Tan 
+Yeah. So I think Mitch, good question. We have done well in China and we continue to representing – has continued to representing a growing opportunity. And in China we remain committed to build out on domestic semiconductor industry. And so we are well positioned there. And we are supporting our global customer throughout. And so I think stay tuned, business as usual and we continue to support our customers.
+John Wall
+And Mitch, we've seen steady growth in revenue in China. If you are referring to page four of our CFO commentary there, you'll see in Asia, Asia drove 24% of our revenue in 2016, 27% in 2017, 28% in 2018, but of that roughly 8% of 2016 revenue is China. 9% of 2017 revenue is China and now it's just under 10% in 2018.
+Mitch Steves 
+Perfect, thank you.
+Operator
+Thank you. I would now like to turn the call back over to Lip-Bu Tan, CEO for closing remarks.
+Lip-Bu Tan
+Thank you. In closing through continuous innovation and execution our system design enablement strategy has positioned us to capitalize on multiple technology wins and further proliferating our solutions with a broader base of customers. We're proud of the innovative and inclusive culture we are building at Cadence. The strength of our culture is highlighted by the recognition we received from Fortune magazine a few days ago, as we're proud that for the fifth year in the row we make the list of Fortune Top 100 best companies to work for. I would like to thank all our shareholders, customers and partners, Board of Directors and our hardworking employees globally for their continued support. Thank you all for joining us this afternoon.
+Operator
+Thank you for participating in today’s Cadence fourth quarter 2018 earnings conference call. This concludes today’s webcast. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days
