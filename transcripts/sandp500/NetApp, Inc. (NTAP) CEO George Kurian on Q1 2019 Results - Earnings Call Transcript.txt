@@ -1,0 +1,390 @@
+NetApp, Inc. (NASDAQ:NTAP) Q1 2019 Earnings Conference Call August 15, 2018  5:30 PM ET
+Executives
+Kris Newton - Vice President, Corporate Communications and Investor Relations
+George Kurian - President and Chief Executive Officer
+Ron Pasek - Executive Vice President and Chief Financial Officer
+Analysts
+Rod Hall - Goldman Sachs
+Mehdi Hosseini - Susquehanna International Group, LLP
+Srini Nandury - Summit Insights Group
+Katy Huberty - Morgan Stanley
+Aaron Rakers - Wells Fargo Securities LLC
+Tim Long - BMO Capital Markets
+Sherri Scribner - Deutsche Bank
+Andrew Nowinski - Piper Jaffray
+Lou Miscioscia - Daiwa Capital Markets America, Inc.
+George Iwanyc - Oppenheimer & Co.
+Jim Suva - Citigroup
+Ananda Baruah - Loop Capital Markets
+Nehal Chokshi - Maxim Group
+Simon Leopold - Raymond James
+Irvin Liu - RBC Capital Markets
+Nikolay Todorov - Longbow Research
+Eric Martinuzzi - Lake Street Capital Markets
+Robert Cihra - Guggenheim Partners
+Erik Suppiger - JMP Securities LLC
+Operator
+Good afternoon, ladies and gentlemen. Welcome to NetApp’s First Quarter Fiscal Year 2019 Financial Results Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will be given at that time.
+I will now turn the call over to Kris Newton, Vice President of Corporate Communications and Investor Relations. Ms. Newton, you may begin.
+Kris Newton
+Thank you for joining us on our Q1 fiscal year 2019 earnings call. With me today are our CEO, George Kurian; and CFO, Ron Pasek. This call is being webcast live and will be available for replay on our website at netapp.com.
+In Q1, we adopted the new accounting standard ASC 606, a historical financial results have been restated to confirm for the new accounting revenue recognition rules. Reconciliations of our previously reported GAAP results to the restated 606 GAAP results as well as 606 GAAP to non-GAAP results for fiscal 2017 and 2018 by quarter are included in our Q1 earnings release, which is posted on our website, along with our financial tables and guidance, a historical supplemental data table, and the non-GAAP to GAAP reconciliation.
+As a reminder, during today’s call, we will make forward-looking statements and projections with respect to our financial outlook and future projections, such as our guidance for the second quarter and full fiscal year 2019, our expectations regarding future revenue, profitability, cash flow and shareholder returns, and our ability to grow and expand our opportunities, all of which involve risks and uncertainty. We disclaim any obligation to update our forward-looking statements and projections.
+Actual results may differ materially from our statements and projections for a variety of reasons, including global political, macroeconomic and market conditions and our ability to expand our total available market, introduce and deliver new and differentiated products and services without disruption, manage our gross profit margins, capitalize on our market position in cloud strategy, maintain execution, and continue our capital allocation strategy.
+Please also refer to the documents we file from time to time with the SEC and available on our website, specifically our most recent Form 10-K for fiscal year 2018 and our current reports on Form 8-K. During the call, all financial measures presented will be non-GAAP and 606, unless otherwise indicated.
+I’ll now turn the call over to George.
+George Kurian
+Thanks, Kris. Welcome, everyone. Thank you for joining us today. We delivered a very strong first quarter and are starting fiscal year 2019 in a stronger position than we’ve been in for years. Revenue, gross margin, operating margin and earnings per share were all above our guidance. This performance reflects our success with customers, who increasingly view us as a critical strategic partner for their data-driven digital transformation.
+Enterprises see the value of our Data Fabric strategy and are signaling strong confidence in NetApp by making long-term investments in our software IP to enable the Data Fabric across their entire enterprise. The world is being transformed by digital technology. To succeed in this data-driven economy and radically improve business performance, customers need real-time insights and secure access to their data, regardless of where it resides.
+The NetApp Data Fabric empowers our customers to do so, while taking advantage of capabilities in the cloud across multiple hyperscalers, operate with hyperscaler cloud-like infrastructure, and modernize traditional IT with flash and connections to the cloud.
+These capabilities underpin the biggest market transitions as customers shift to cloud, new forms of converged infrastructure and flash, and we continue to expand our opportunity by innovating with the Data Fabric, broadening its reach by delivering the next-generation of flash-empowered SAN and integration with the hyperscalers, as well as increasing its value with new applications and services such as artificial intelligence, machine learning, and analytics.
+We continue to deliver software-differentiated innovation and maintain strong momentum across our key priority areas, all-flash arrays, new forms of converged infrastructure, and cloud data services, which represents the biggest opportunities for NetApp to grow and reset the landscape of our industry.
+The market transition to flash, which is still in the early stages, creates enormous new opportunity for us as we consolidate and displace competitors’ legacy equipment, gain share in new workload deployments, and upgrade our installed base with our cloud connected all-flash solutions.
+At the start of Q1, we expanded our all-flash array innovation leadership with the introduction of the AFF A800, designed for high-performance in cloud to power artificial intelligence and data-intensive applications like machine learning. The AFF A800 supports the industry’s first end-to-end NVMe architecture, combining NVMe’s solid state drives with NVMe over Fiber Channel to deliver lightning fast response times.
+Based on the new SPC-1 benchmark results, performed under real-world conditions with deduplication and compression-enabled, the AFF A800 is the top performing enterprise all-flash array among the industry’s leading storage providers. With the latest version of ONTAP, which we shipped during the quarter, we continue to expand our SAN technology leadership by delivering NVMe over Fiber Channel capability as a non-disruptive software upgrade on current-generation AFF platforms.
+NVMe over Fabric gives customers the performance of server-attached storage with all the benefits of shared network storage. Our leadership in this area allows us to further expand our opportunity by displacing direct attached storage over time.
+In Q1, our all-flash array business, inclusive of all-flash FAS, EF, and SolidFire products and services grew 50% year-over-year to an annualized net revenue run rate of $2.2 billion. Validating the innovation leadership and momentum of this part of our business, Gartner again recognized NetApp as a leader in its Magic Quadrant for Solid-State Arrays. Another way we’re expanding our opportunity is through participation in the rapidly growing area of artificial intelligence.
+Earlier this month, we announced ONTAP AI, a solution combining NVIDIA DGX supercomputers and the AFF A800 to create a seamless data pipeline across edge, core, and cloud for deep learning deployments.
+The unique scope and reach of the Data Fabric enables customers to lay down the right foundation to collect and bring together all their distributed data and then apply artificial intelligence and machine learning techniques to it. By helping customers unify all of their data for AI, we empower them to deliver better business outcomes.
+Enterprises are choosing our converged and hyper-converged solutions to build out their private clouds, because they’re simple, standardized, and rapidly deployed.
+FlexPod continues to be a platform for customer innovation and investment protection. In the first quarter, we announced new FlexPod solutions to simplify the delivery of cloud infrastructure and deliver focused industry-specific applications.
+With NetApp HCI, customers are able to accelerate digital transformation by developing a next-generation cloud architected infrastructure that manages data and services as one integrated resource, supporting both public and private clouds. A European-based financial services firm chose NetApp HCI to be the foundation for its private cloud.
+Our ability to provide a future-proof platform to host current workloads and support future multi-cloud requirements, enables us to win against Nutanix. With cloud like simplicity, NetApp HCI offers enterprises the ability to run multiple applications with predictable performance, as well as scale compute and storage resources independently to avoid costly and inefficient over-provisioning, capabilities that the first generation HCI vendors cannot match.
+Our cloud data services partnerships with Microsoft, Amazon, and Google are unique to the industry and are game changing for NetApp’s long-term opportunity. Not only are we able to participate in enterprise workloads that are moved to the cloud, we can address born in the cloud workloads and customers, and our entire portfolio is made stronger by being cloud connected. 
+Five years of delivering ONTAP as software in the hyperscaler marketplaces has given us the unique understanding of the requirements in the cloud. We have identified how to deliver high-performance, highly scalable cloud data services with a robust feature set and support for protocols the cloud does not natively provide. Because of the leverage in our R&D we have been able to bring hundreds of engineers to bear on this problem without negatively impacting innovation in other areas of our business or expanding our OpEx stack.
+Only NetApp has partnerships with all the leading hyperscalers and a complete cloud data services strategy for customers. In July, Microsoft announced the public preview of Azure NetApp Files, an Azure native service powered by NetApp technology, enabling enterprises to overcome the challenge of deploying file-based workloads to the cloud.
+Also in July, we announced expanded availability for NetApp cloud volumes for Google Cloud platform to help customers deploy workloads, such as DevOps, video rendering, databases and commercial high-performance computing. In Q4, we began onboarding customers with NetApp cloud volumes for AWS.
+To bring to life, why a customer would choose NetApp in the cloud, I’ll share with you two examples: one, that is a cloud-only solution; and the other a customer of our on-premises solutions expanding into the cloud. The first is a large genomic information company that shows NetApp cloud volumes for AWS and plans to go live with NetApp Services in other clouds.
+They selected us, because our high-performance, shared storage service enabled them to gain dramatic improvements in processing and complete analyses that they could never finish before, all while lowering their compute costs. They are recommending that their customers, pharmaceutical companies and hospitals adopt cloud volumes. With cloud volumes, they offer consistent performance and advanced functionality, while allowing their customers freedom of choice on the cloud.
+The second example is a global fashion brand taking its first steps into the cloud. Because of our multi-year relationship with the customer, we were able to help them understand the value of our cloud data services, while reducing their sense of risk. In addition to the purchase of SaaS backup services from NetApp, they expanded their footprint of on-premises all-flash arrays.
+Fiscal 2019 is a foundational year for the SaaS part of our business. And I’m pleased to report that based on Q1, our annualized monthly recurring cloud data services revenue is approximately $20 million. We are transforming our business to reflect the way customers want to consume our technology.
+The world is steadily moving from being compute-centric to data-centric, and customer consumption patterns are shifting from data center equipment to hybrid cloud services. Our competitors are struggling to adapt to the new cloud era and continue to fall behind.
+With demonstrated leadership in key market transitions, we are reshaping our industry. We will share more industry changing news with you at our Insight Conference this October. Our results are evidence that we have the right strategy and are driving success with focused innovation and relentless execution.
+As we continue to grow and transform, we will maintain our focus on efficiency and shareholder value. At our last Analyst Day, we laid out a compelling long-term model and capital allocation plan. And as you can see by our strong Q1 results and capital returns, we are on track to deliver against this plan.
+I’m honored, excited and humbled by the opportunity ahead. I want to thank the entire NetApp team and our partner ecosystem for all they do to help drive our success.
+With that, I’ll now turn the call over to Ron to walk through our Q1 financial performance and go-forward expectations. Ron?
+Ron Pasek
+Thanks, George. Good afternoon, everyone, and thank you for joining us.
+As a reminder, we adapted the new revenue recognition rules ASC 606 this quarter. Our historical financial results have been restated to conform to the new accounting rules. Reconciliations of our previously reported GAAP results to the restated 606 GAAP results, as well as our 606 GAAP to non-GAAP results for fiscal 2017 and 2018 by quarter are included in our Q1 earnings release. As a reminder, I’ll be referring to non-GAAP results unless otherwise noted.
+Our Q1 results reflect the increasing strategic importance of NetApp to our customers, as they undertake digital transformations and embrace multi-cloud architectures. We expect continued progress throughout fiscal 2019 towards the long-term business model we laid out at our Analyst Day.
+Before discussing guidance, I’ll provide detail on our performance for the first quarter. Net revenues of $1.47 billion grew 12% year-over-year, driven by product revenue of $875 million, which increased 20% year-over-year.
+Product revenue came in higher than expected, reflecting the continued strength of our all-flash array business, as well as roughly $16 million from strategic enterprise agreements, which we did not include in the Q1 guidance. Enterprise license agreements or ELAs or enterprise-wide deals where NetApp is a key strategic partner in implementing the customer’s broader digital transformation.
+From a revenue recognition perspective, the new 606 standard requires the software product components of ELAs to be recognized upfront. Under the old 605 standard, these software licensing agreements were recognized ratably across the life of the deal, typically three years. The increase in ELAs reflects our strategic presence within large global accounts and there’s strong confidence in the value of the NetApp Data Fabric.
+While a clear positive for our business momentum, the structure of these ELAs, coupled with the upfront revenue recognition, makes their financial impact lumpy and difficult to predict. We did, however, include about $30 million of revenue from ELAs in the guide for Q1. Moving forward, we will continue to take a conservative approach in predicting the timing and size of these strategic deals. As such, we will not be including ELAs in our guidance for Q2 nor the remainder of fiscal 2019.
+Moving down the P&L, software maintenance revenues of $229 million increased 3% year-over-year, reflecting traction of our cloud data services portfolio and continued growth in our installed base. Hardware maintenance and other services revenues of $370 million were flat year-over-year. As a reminder, we said that the combination of software and hardware maintenance revenues should not be a headwind in fiscal 2019.
+Gross margin was 66%, above the high-end of our guidance range. Product gross margin of 56% increased 6 points year-over-year, reflecting the benefit from the software portion of the ELAs and continued sales force discipline. Excluding ELAs, product margin was approximately 51%, up 1.5 points year-on-year. Hardware maintenance and other services gross margin was up 2 points year-on-year due to the benefits from ongoing transformation efforts.
+Operating expenses of $650 million were in line with our expectations. We remain committed to strong OpEx discipline and expect operating expenses for fiscal 2019 to be roughly flat year-over-year. Operating margin of 22% was above our guided range. We had a strong start to the capital allocation plan we announced at our Analyst Day. During the quarter, we repurchased 6.7 million shares at an average price of $74.37 per share for a total of $500 million.
+Weighted average diluted shares outstanding were $269 million, down $4 million sequentially and $9 year-over-year. EPS of $1.04 was up 75% year-over-year, predominantly driven by the healthy growth in product revenues and expansion in product gross margin.
+We closed Q1 with $4.8 billion in cash and short-term investments. Similar to Q4, we again saw healthy growth in deferred and finance unearned services revenue, which increased 4% year-over-year. During the quarter, we paid out $105 million in cash dividends. Our fiscal Q2 cash dividend of $0.40 per share is payable on October 24.
+As highlighted at our Analyst Day, we remain committed to increasing our dividend over time. Our cash conversion cycle of negative 20 days improved to 28 days year-over-year, reflecting a 23-day increase in days payable outstanding and an eight-day decrease in days inventory outstanding, partially offset by a one-day increase in DSO. DSO decreased by 20 days sequentially from Q4.
+We had another outstanding quarter of cash generation with cash flow from operations of $326 million, an increase of 30% year-over-year. We generated strong free cash flow of $262 million in the quarter, which represented 18% of net revenues and as an increase of 22% year-over-year.
+Now on to guidance. To clarify, we remain confident in our mid single-digit fiscal 2019 revenue growth forecast before any benefit from Q1 ELAs or any additional ELAs we may realize throughout the year. In addition, we are raising our guidance for fiscal 2019 margins and EPS to reflect the better than expected Q1 results. Gross margin guidance increases to 63% to 64%, up from 63%, and operating margin guidance increases to approximately 22%, up from 20% to 21%.
+In fiscal 2019, we are now committed to delivering EPS growth in the mid-20s the versus the original guidance of greater than 15%. Our fiscal 2019 effective tax rate of approximately 18% remains unchanged.
+We expect to continue to generate meaningful free cash flow in the range of 19% to 21% of revenues, enabling our disciplined approach to investing in growth, as well as our continued commitment of returning significant capital to shareholders. We also remain confident in our long-term three-year growth forecast for revenue and profitability.
+Now on to Q2. As a reminder, Q2 guidance excludes any benefit from ELAs. We expect net revenues to range between $1.45 billion and $1.55 billion, which at the midpoint implies a 6% increase year-over-year, including more than a half a point of currency headwind.
+We expect Q2 consolidated gross margin to range between 63% and 64%. We expect fiscal Q2 operating margin to range between 20% and 21%. We expect earnings per share for the second quarter to range between $0.94 and $1 per share.
+In summary, I’m confident regarding our growth opportunities, especially as it relates to our compelling cloud strategy. Additionally, I’m very pleased with the disciplined execution of our team. We are well-positioned to continue to deliver on the commitments we’ve made to our shareholders, partners and customers.
+With that, I’ll hand it back to Kris to open the call for Q&A.
+Kris Newton
+I’ll now open the call for Q&A. Please be respectful of your peers and limit yourself to one question, so we can get to as many people as possible. Thanks for your cooperation. Operator?
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions] Our first question comes from Rod Hall with Goldman Sachs.
+Rod Hall
+Yes. Hi, guys, thanks for the question. I guess, I wanted to dig into the product gross margins, which are quite a bit stronger than we expected them to be? And see if you guys can tease out maybe what some of the moving parts there were? So in other words, with NAND price declines, did that help the margins? Are there mix effects going on? Just maybe give us a little bit more color on what drove those strong margins? Thanks.
+George Kurian
+So, Rod, I think it’s a couple things. Obviously, it was benefit of the ELAs this quarter, that was about 2 points when you do the bridge year-over-year. We also had a little bit of favorable FX, and we had a little higher software mix this quarter. The NAND pricing definitely did help a little bit, but it gets offset when you have to take the hit to resell. So there might have been some benefit initially, but then you have to write the inventory down as the standard decreases.
+Rod Hall
+Could you also just say on that front, are you passing NAND pricing through pretty much, or what’s your thinking on that as we go on through the rest of the year?
+George Kurian
+Our intent will be to eventually pass on the price decreases, yes.
+Rod Hall
+Great. Okay, I appreciate it.
+Kris Newton
+Thanks, Rod. Next question?
+Operator
+Thank you. Our next question comes from Mehdi Hosseini with SIG.
+Mehdi Hosseini
+Yes. Thanks for taking my question. George, when you look into January and April call of next year, I’m not I asking for any guide. I just wanted to see what your views are in terms of the continued upgrade that is going on within your enterprise customers? This has proven to be a multi-year upgrade cycle? And I want to see how much – how do you see this upgrade cycle sustaining beyond the October quarter that you just guided to? Thank you.
+George Kurian
+We see that enterprise IT spending, as you have noted, is benefiting primarily from the strength of the global economic outlook. IT spending, we’ve always believed is correlated with economic outlook. Within that, we benefit from a few different specific situations relative to our business.
+From a portfolio of technology perspective, we have shifted our investment and our portfolio and consequently our revenue mix into high-growth areas of the market. We see that we can benefit uniquely when customers spend either on the public cloud or on-premises unlike competitors that we have that remain only on-premises.
+And finally, as businesses become more data-intensive and builds more data-intensive environments like machine learning, high performance storage, and data services are benefiting from spending intentions. So, we think that this will continue for a period of time. I think, at the macro level, IT spending will be correlated to economic growth. So if economic growth slows down, I think it will impact IT spending in aggregate.
+Mehdi Hosseini
+Thank you.
+Kris Newton
+Thank you, Manny. Next question?
+Operator
+Thank you. Our next question comes from Srini Nandury with Summit Insights Group.
+Srini Nandury
+All right. Thank you for taking my question. On the AFA sales, can you give us some color of what percentage of installed base has already moved to the new AFA? And then, can you also give me some color on in terms of competition in unit pricing in general? Thank you.
+George Kurian
+AFAs are now 14% of our installed base, so it still remains a small percentage of the installed base. As we said, we have continued to gain share in the market and outpace the overall market. This is the 15th consecutive quarter of market outperformance and reflects the strength of our offering.
+Relative to competition, I think we see the broad mix that’s available in the market. Dell, HP, Pure, and Nutanix are the most common ones. I think, we have a really good competitive position against all of them, both because of the capabilities of our specific solutions as well as the unique benefit we bring by allowing customers to deploy our solutions on the public cloud or in their data center, something that we call the Data Fabric, so our win rates have been strong, and we’re excited to expand the range of competitive situations we engage in.
+Kris Newton
+Thank you, Srini. Next question?
+Operator
+Thank you. Our next question comes from Katy Huberty with Morgan Stanley.
+Katy Huberty
+Thank you. Good afternoon. Just a quick clarification and then a question. On the clarification, I believe the prior EPS guidance of 15%-plus reflected no assumption around share repurchase. Just curious whether the mid-20% EPS guidance does include buyback or not?
+And then secondly, can you just give us some guardrails around what you expect in terms of range of potential outcomes for ELAs in future quarters? Will there be quarters with zero ELA revenue and then quarters like July, where it could be $50 million to $100 million? What’s sort of the ranges of outcomes as we think about modeling that through in the next couple of quarters? 
+Ron Pasek
+Sure. Katy, to answer the first part of your question, we assumed the guide for EPS assumes no further share repurchase. So it’s just what we’ve done in Q1 and the benefit of that from a diluted share comp perspective.
+Secondly, with respect to ELAs, this is really difficult to predict when they’ll happen. And to your point, yes, there will be quarters when they will be zero, which is precisely why I said, I would not guide them. It’s – even when you think you might get one, it’s hard to predict and the timing is very difficult. And they are so large that if you include it and you miss it, it would be a big miss. I’m trying to think of that – was there one other part?
+George Kurian
+This is why, I think, we – as we laid out the plan for the year, we are reconfirming that our revenue outlook is mid single-digit without ELAs. ELAs would be additive to the revenue baseline that we have established. And so if you think about it, we’re essentially guiding upward for the rest of the year.
+Katy Huberty
+Okay, understood. Thank you.
+Kris Newton
+Thank you, Katy. Next question?
+Operator
+Thank you. Our next question comes from Aaron Rakers with Wells Fargo.
+Aaron Rakers
+Yes, thank you, and thanks for taking the question. Yes, I wanted to ask about the HCI product. I think, one of the pieces of the story has been the strong growth that you’ve been able to report quarter-after-quarter in your flash business.
+I’m curious as we think about HCI and the competitive landscape against Nutanix and others, is that an incremental revenue stream that we could look at over the next couple of quarters that starts to get broken out? And is there any framing or any kind of qualitative or quantitative commentary you can provide of how big that business is today? Thank you.
+George Kurian
+With regard to whether we will breakout HCI or not, we’ll provide you that clarity when we do it. At this point, HCI is a part of our product revenue. We have seen a broader number of competitive engagements and we are winning our share, right?
+So we feel very confident about the value proposition that we bring to the market. We see that it’s a meaningful expansion of the total addressable market that we serve, and we’re going to continue to stay focused on innovation and consumer expansion. We’ve had good competitive wins against all the leading competitors in that category. And it reflects the architectural difference that we bring to enterprise grade hyper-converged.
+And so we’ll give you more details. Come to NetApp Insight, we have some really exciting product announcements at NetApp Insight, and you’ll see how we build NetApp HCI into our compelling Data Fabric story there. So look forward to it.
+Aaron Rakers
+Thank you.
+Kris Newton
+Thank you, Aaron. Next question?
+Operator
+Our next question comes from Tim Long with BMO Capital Markets.
+Tim Long
+Thank you. Just one and a follow-up, if could. First, on the cloud data services. Thanks for providing the run rate there. Is – I think the thinking – the logic was this could add something like 100 basis points of growth this year. Could you talk a little bit if you would have to ramp from these levels? Could you talk a little bit about the pipeline and how quick quickly you think this business could ramp?
+And then second, just some clarification on the ELAs. I get the difficulty to predict, but could you talk a little bit about the other benefits, whether it’s increasing installed base, more equipment sales, that are ancillary benefits of these larger strategic deals that you’re signing? Thank you.
+George Kurian
+Let me just start with the cloud data services business outlook. As we said, we are off to a good start. We’re excited about the value we bring to customers. We talked about both cloud native customers, who we’d never served, as well as expanding large footprint with both – with enterprise customers who we’ve served in the past and both of those opportunities are in front of us.
+With regard to the availability of our offerings that we said, we are – generally available with AWS. We are in private preview with Microsoft, and we are in pre-data with Google. So we are in an early stage of customer trials. All of these offerings should be generally commercially available this quarter.
+So you’ll see much broader availability of those offerings this quarter, and the pipeline is healthy. We are excited at what we see going forward in terms of the used cases, DevOps, analytics, as well as database as a service on the public cloud.
+With regard to the ELAs, let me just say that I’ve been involved in these transactions. As Ron mentioned, they are strategic relationships with the largest customers in the world, where they standardize on our software across a broad part of their enterprise. It is a validation of the strategic value of our NetApp Data Fabric that customers are buying into a broad footprint standardizing on the Data Fabric.
+But as Ron mentioned, these are complex transactions, where they can shift between CapEx and ELA and a variety of different structures within the ELA. One of the things that you see with this year’s ELA form is that, our operating system is now a standard part of the ELA, which is an indication that our Data Fabric now becomes seeded in a very large footprint in the biggest customers in the world.
+And so we’re excited. We think this is bullish for NetApp. And Ron can tell you more about how we think about it specifically in terms of the financial aspect of our business.
+Ron Pasek
+I think, it is a validation of our technology. It’s something that we’re really happy about. They are long-term commitments and agreements of these customers. And just to give a little perspective, they’ve really grown from when we started adding the OS portion into the ELA offerings.
+Last year, when we did the restatement in FY 2018 for 606, the full-year was only $20 million in ELA. So growing now to at least $90 million just in Q1, you can see, it’s a big uptick, so very, very important. It will make our results from time to time within the year little lumpy. So you can see a little more volatility in gross margin, but over the long-term really no effect.
+Tim Long
+Thank you.
+George Kurian
+It also doesn’t change the fundamental seasonality of our business, right? I think it just reflects the nature of transactions that are lumpy and hard to predict, but it doesn’t change the fundamental seasonality of our business.
+Tim Long
+Okay. Thank you.
+Kris Newton
+All right. Thank you, Tim. Next question?
+Operator
+Our next question comes from Sherri Scribner with Deutsche Bank.
+Sherri Scribner
+Hi, thank you. Just thinking about the gross margin guidance for the full-year, it seems pretty low considering how high margins were this quarter. I understand the ELAs helped significantly in the quarter. But how should we think about margins rolling through as we move through the year?
+Ron Pasek
+So it – what I did Sherri was I kept the same guide we had previously gave at Analyst Day for the year, and simply added the benefit of the Q1 over achievement, nothing else has fundamentally changed to George’s earlier point, the underlying seasonality is still the same.
+George Kurian
+I think one thing to note Sherry is that, our product revenue is growing much strong, much faster than service revenue. So if you model it on a year-on-year compare, the mix continues to save a product, which is at a lower gross margin than services, right?
+And so we continued to push towards the long-term commitments that we had made around product gross margins in the 55% range. We’re making progress, but it’s the mix of product and services that are affecting the full-year gross margin picture.
+Sherri Scribner
+Thank you.
+Kris Newton
+Thanks, Sherry. Next question?
+Operator
+Our next question comes from Andrew Nowinski with Piper Jaffray.
+Andrew Nowinski
+Great. Thank you and nice quarter tonight. I just wanted to get more color on your AFA growth basis. So you’re the only vendor shipping an end-to-end NVMe solution right now. And you’re the only vendor that separated your hardware from software enabling customers to support hybrid cloud environment, and you also have the HCI option.
+So I’m wondering if the acceleration in your AFA growth rate from just – more from just existing NetApp customers that converted off last this quarter, or is it the additional offerings like HCI in the cloud services that you have? Did that alter your win rate versus vendors like Pure Storage and EMC that don’t have those offering more often to accelerate your new customer growth?
+George Kurian
+I think, if you look at the installed base penetration of the AFA, they’re at 14%, which is a small number. This represents the fact that the majority of our wins are in new workloads and at existing customers or net new customers. The strength of our hybrid cloud story is a major part of our value proposition, because simply speaking, we allow customers to do what no one else can.
+You can start to build a high-performance machine learning environment in the public cloud and when you’re comfortable with doing so, you can move it on-premises with your data completely intact and secure or conversely you can build a secure data lake in your own data center and give you a data scientists public cloud work spaces that are compliant with GDPR regulations.
+So we have a really unique value proposition in the marketplace. With end-to-end and NVMe, we are also able to attack direct attack server workloads, because we offer the same performance of server connected storage with all the benefits of shared network storage, efficiency, single point of management, better fault-tolerant and so on. And so that’s an additive part of the market that we are able to go after.
+And then with the broadening of our portfolio across flash, converged, hyper-converged and cloud, we are now able to address a full platform of customers use cases. And the strategic ELA is that customers are signing with us is simply the reflection of the elevation of our value proposition with them. And so we are excited at what that means in terms of the traction of the Data Fabric, not only with the hyperscalers, but now with our largest customers in turn.
+Andrew Nowinski
+Great. Thank you.
+Kris Newton
+Thanks, Andy. Next question?
+Operator
+Our next question is from Lou Miscioscia with Daiwa Capital Markets America.
+Lou Miscioscia
+Yes. So thanks for taking my call. So just two quick questions. The first one is on guidance. I know that you’re actually guiding to mid single digits year-over-year growth, but I guess, last quarter you did also talk about sequential growth. And if I look at my model, if I’m modeling this correctly, if you actually grow sequentially at a normal, let’s call it, 5% or 6%, you should actually be at the high-end of the range. So maybe you can give us just some puts and takes and thinking as to why from a quarter-to-quarter basis, the balance isn’t a bit higher here? And congratulations obviously on good numbers.
+Ron Pasek
+So, Joe [sic] [Lou] the – as I said earlier, the benefit in Q1, we had a large ELA benefit that blew away the guide we gave for the quarter. The underlying seasonality is still there. As I tried to indicate, the ELAs will make some of the seasonality a little more lumpy.
+So you’re right. Sequentially, it is down from Q1 to Q2. However, Q2 guide that we gave is up year-over-year, I’d say, 6% with a little bit of currency headwind. So you’re going to see a little bit of some anomalies as we go forward. When we have these ELAs, they’re going to make things a little bit less predictable.
+Lou Miscioscia
+Okay, great. Thank you. In the press release you did mention StorageGRID twice. I’m just wondering if that product is starting to see traction in the sense that object storage has been a little bit slow to take off and obviously you’re doing so well in some of the other areas, but it’d be nice to get a little visibility here?
+George Kurian
+StorageGRID is now a recognized leader in objects storage. We see a range of use cases for StorageGRID either for new object deployments or coupled with the file system as an archival tier using our FabricPool technology. We will provide more details of the applications of StorageGRID at our Insight User Conference.
+There are some interesting use cases for automotive and some other IoT examples, where a highly scalable solution like StorageGRID has really interesting applications. I will tell you more at Insight.
+Lou Miscioscia
+Okay. Thank you.
+Kris Newton
+Thank you, Lou. Next question?
+Operator
+The next question is from George Iwanyc with Oppenheimer.
+George Iwanyc
+Thank you for taking my question. George, your mature products are doing very well. Can you give us a sense of what’s driving the strength there and how sustainable the outlook is?
+George Kurian
+So as we said, the headwind from mature are – have dissipated. The mature product category used to contain three components: OEM, our legacy 7-Mode technology and add-on storage, driven either by 7-Mode or our clustered storage systems in all-flash arrays.
+OEM has done – has had a good quarter. It can be lumpy through the course of the year depending on the performance of our OEMs, but we had a strong quarter this quarter. 7-Mode is basically not being sold anymore, so it’s no longer relevant to our business. And add-on storage had a strong quarter, reflecting the strength of our all-flash array business.
+So what I would tell you is, categorizing mature and strategic as separate items is no longer relevant, right? Because a large part of the mature business is now being driven by the strength of our strategic products. And so I think that’s a better way to look forward is just to look at the aggregate product revenue, which you can see is very strong.
+We don’t think that mature is going to be a headwind anymore. And as we said last year, could be also a tailwind to our position this year. And so we’re excited at the start. We think that we should continue to see good progress in our mature – in the mature bucket.
+George Iwanyc
+Thank you.
+Kris Newton
+Thank you, George. Next question?
+Operator
+Your next question is from Jim Suva with Citi.
+Jim Suva
+Thank you very much, George. The all-flash array traction you have has been absolutely fantastic. It’s, as you know, a very dynamic marketplace, where a lot of up-and-coming companies have claimed victory and going to really disrupt things. Yet, some of the more traditional companies who’ve been innovating throughout time how much yourself have continued to gain share and knock them off, so to speak.
+Can you talk a little bit about the all-flash array landscape and how you see it? Is there still a lot more new start-ups innovation? Do you think it’s going to be a consolidating market? How should we view it? I assume that large corporations want established companies such as yourself and others. But can you just walk us through about the all-flash array, from where you sit as CEO, the marketplace you see?
+George Kurian
+We see that, first of all, the core value in the all-flash array market is in world-class software that allows customers to deploy a range of media, but to drive their business process for advantage, right? And I think, we have really good software. And I think, any other company that wants to compete in that market has to have really good software.
+We see that the 3D NAND environment will continue to materially benefit flash over performance drives over the next few years. As we have said consistently, as prices ameliorate for 3D NAND, which we are starting to see clearly, that performance drive, the 10-K drive segment will concede to the all-flash array segment.
+There are future derivatives of flash, capacity flash or things like persistent memory, Optane DIMM, for which we have really good solutions for. And I think, we feel that what customers will need is a single way to manage your data across, not only all of these types of media, but all the places you put data in, which we call the Data Fabric, right?
+I think, the legacy competitors are in a variety of states of challenge. I think, if you look at the large players like EMC or HP, they’re still trying to rationalize their lead flash portfolio, because none of their products is complete. If you look at players like IBM and Hitachi and Fujitsu and Oracle, they basically conceded and are no longer in sort of new deployment considerations. They’re essentially defending the installed base and the start-ups are challenged.
+They have essentially been fast on product innovation, and they don’t have the market reach to compete. So it will be, I see some sense of consolidation coming up in the marketplace and we will benefit from that, because we’re very well-positioned. And it’s a matter of keeping your head down and executing, and that’s what we’re doing.
+Jim Suva
+Thank you so much for the detailed clarification.
+Kris Newton
+Thank you, Jim. Next question?
+Operator
+Our next question comes from Ananda Baruah with Loop Capital.
+Ananda Baruah
+Hi, guys. Congrats on the solid results. Hey, if in case I missed it, have you yet begun to see a positive benefit in your all-flash array sales when NAND ASP declines? And then could you just quickly give us an update as you get begin to see inside the cloud data services customers come back to you, kind of almost as you – well, when we start to see them come back, so obviously I look at your hardware products after getting it safe to cloud data services? Thanks.
+George Kurian
+On the benefits of NAND price declines, we’ve seen a little bit. I think, you will see the mix shift from hybrid flash to all-flash, right? We have said that as the prices went up, we saw a mix shift towards hybrid disk/flash system. You’re starting to see the early reversal of that trend back in the all-flash arrays. And I think, over the next few quarters, there’s no question that we see all-flash arrays become a bigger part of our mix.
+With regards to the CDS buyers, there are customers that have got our cloud data services in one cloud provider that are looking to now expand it to another cloud provider as a multi-cloud strategy. There are also customers that have started out with workloads in the public cloud that are coming back to an on-premises environment as a complement, right?
+So we have seen a range of competitive displacements where we start the dialogue with the customer in the public cloud for used cases like DevOps and ER, that then come back and buy a complementary production environment in their primary data center. So we’re seeing both multi-cloud, as well as on-premise extensions, and we’re excited at the prospect of using CDS to drive our overall portfolio.
+Ananda Baruah
+Do you think George that can become a – can become material over time that sort of reference pipeline there?
+George Kurian
+We’ve said that CDS itself would, in our long-term guide, we said that it would be between $400 million to $600 million on an annual recurring run rate by the end of fiscal 2021, right? So that in if – in and of itself is a material add to our portfolio. This year, we said it contributes an incremental 100 basis points.
+I think that in terms of its strategic value to customers, it is reflective of the fact that we outperforming virtually everybody and virtually every segment we compete in. This idea of a hybrid cloud Data Fabric list all of the pieces of our portfolio in competitive situations.
+Kris Newton
+Thank you, Ananda.
+Ananda Baruah
+Thanks so much.
+Kris Newton
+Next question, please?
+Operator
+Next question is from Nehal Chokshi with Maxim Group.
+Nehal Chokshi
+Yes. Thank you and congratulations on great results. That sounds like that was a really massive ELA. Is that – previously that was the biggest ELAs signed in NetApp’s history?
+Ron Pasek
+Nehal, it was actually several. That was more than just one. There were probably half a dozen in that number, which is why it’s difficult to predict.
+Nehal Chokshi
+Okay. And what were the products that were included within that ELA other than the operating systems SKU?
+George Kurian
+It’s standardizing on our operating system and software. It’s a broad range of offerings. Everything in our portfolio could be bought against that ELA as part of consumption of capacity. So these are strategic agreements to standardize on our Data Fabric. You typically recognize the software component upfront, and there’s a commitment to buying forward capacity and customers consume that capacity over time. So it’s – we’re excited, These agreements lift all the elements of our portfolio going forward.
+Nehal Chokshi
+And that $20 million in run rate in cloud data services, how – what percent of that came from the ELAs?
+George Kurian
+None.
+Nehal Chokshi
+Great.
+Kris Newton
+All right. Thank you so much. Next question, please?
+Operator
+Thank you. Our next question comes from Simon Leopold with Raymond James.
+Simon Leopold
+Great. I first wanted to follow-up on the ELA contribution as a – just to clarify, was that a significant portion of the reason mature products were up 15% year-over-year? You’ve talked a little bit about that, but just want to see if the ELA was a contributor to that? And then in terms of the bigger trending question, I wanted to see how you thought about the use cases for NVMe in that – one of your competitors talks about a much broader set and claims that most of the market has very narrow use cases. Can you talk about the opportunities and applications that you see for NVMe? Thank you.
+Ron Pasek
+So none of the ELAs are in mature. There’s really only two things in mature, which is add-on business and OEM. So all of the ELAs are in strategic.
+George Kurian
+With regards to NVMe, it’s essentially a broad range of used cases, where the customer wants really fast, meaning, very low latency for their applications. The most common ones are high-performance databases. It could be, for example, where somebody wants to go to a shared storage array, rather than using a solution like an Exadata or a database appliance, right? And so that’s why we see the early opportunities to position the solution.
+Simon Leopold
+And does that include the artificial intelligence that you were talking about? Is that sort of a classic use case?
+George Kurian
+It could be a service that’s applied to a data-intensive environment like a database or an artificial intelligence – or a data lake for machine learning. So those are some of the examples.
+Simon Leopold
+Great. Thank you for taking my questions.
+Kris Newton
+Thank you, Simon. Next question?
+Operator
+The next question is from Amit Daryanani with RBC Capital Markets.
+Irvin Liu
+Hi, this is Irvin Liu dialing in for Amit. Now that you’re in the October quarter. Can you share with us any thoughts on what U.S. federal government budget flush dynamics are going to look like for you, especially given expectations for increased government IT spend in calendar 2018?
+George Kurian
+We have modeled a fairly typical year-end budget flush for the public sector – U.S. public sector.
+Irvin Liu
+Got it. Thanks. And just a quick follow-up then. I have another question about your hardware and software maintenance businesses. You indicated that these businesses shouldn’t be a headwind for you in fiscal 2019. Any thoughts on why maintenance shouldn’t be a contributor to growth, given recent product – recent quarters of product revenue strength and then you also have a net new revenue stream such as cloud data services coming online?
+Ron Pasek
+Yes. Irvin, just to be clear, we indicated it would not be a headwind to growth. So it should actually be a contributor as the installed base continues to grow. We just don’t guide that piece discretely.
+Irvin Liu
+Got it. Thanks. That’s all I had.
+Kris Newton
+All right. Thank you, Irvin. Next question?
+Operator
+Our next question is from Joe Wittine with Longbow Research.
+Nikolay Todorov
+Hi, thanks for taking the question. This Nik Todorov on behalf of Joe. From a strategic point of view, do you see the need to have a composable architecture in your portfolio? And how would you juxtapose that the architecture, which your HCI offering, which I think has some similarities in terms of resource scaling?
+George Kurian
+Yes. I think, there’s a variety of term. I think, the customers want simplicity of their architecture and they want to be able to, at least, in our belief not to be tied into monolithic scaling of compute and storage, right, that the early vendors in HCI had. And so different people call things differently.
+Our solution has many of the elements of composable in it. And so we feel very good about the positioning of our solution. What we have seen with our customer wins is a reflection of the value of that particular aspect of our architecture.
+Nikolay Todorov
+Thank you.
+Kris Newton
+Thank you, Joe. Thank you. Next question?
+Operator
+Our next question comes from Eric Martinuzzi with Lake Street.
+Eric Martinuzzi
+Yes. I want to revisit the buyback. You spent $500 million this quarter on share repurchases. Could you recap there what’s the amount and timeline remaining here?
+Ron Pasek
+So we have $3.5 billion left to go, and I’m just giving no indication of the timing. As I said at the Analyst Day, I’ll give you how much we repurchased on calls like this after the fact..
+Eric Martinuzzi
+And then as far as current share price, is this opportunistic purchases or do you have a separate amount for quarter?
+Ron Pasek
+We’re – we do opportunistic. We don’t do any accelerated share repurchase. We tend to take advantage of dislocations.
+Eric Martinuzzi
+Okay. Thank you.
+Kris Newton
+Thanks, Eric. Next question.
+Operator
+Our next question is from Rob Cihra with Guggenheim Partners.
+Robert Cihra
+Hi, thanks very much. Just wondering with flash prices starting to decline again, are you seeing or perhaps what you think your customers are going to do in terms of like elasticity of demand? I mean, do you expect people to buy more capacity now at the – for the same dollar amount or same capacity at a lower price? Just wondering how you maybe expect that to play out? Thanks.
+George Kurian
+I think they well clearly shift the mix from hybrid flash systems to all-flash systems. I think that we saw the reverse trend happen as prices went up. So it’s not like people will spend less, they will just spend the project amount and buy more flash as opposed to disc to consume that budget.
+Robert Cihra
+Okay. But do you think the amount of capacity of flash they buy, does that change, or do you think it’s there, like are they looking for a particular capacity of flash, or a dollar amount of flash, I’m just curious if that helps better?
+George Kurian
+They – at least, based on what we saw last year, we saw people have a dollar amount and then buy the capacity associated with that. So they would buy x percentage of flash and y percentage of disk. I think that x was smaller last year than it would be this year. And it will be – y will be smaller this year than it was last year. So we saw what customers had a project budget and they would spend it and they would optimize the ratio between flash and disk and we see that going in favor of flash for the next several years now.
+Robert Cihra
+Great, great. Great answer. Thank you.
+Kris Newton
+Thank you, Rob. Next question?
+Operator
+Thank you. And our final question comes from Erik Suppiger with JMP Securities.
+Erik Suppiger
+Yes. Just staying on the flash pricing theme, can you just comment how much pricing has come down in terms of your sale price? And how much you think that could still come down?
+George Kurian
+We don’t communicate exactly how and when we pass through savings to customers. As I’ve said, we were the first to raise prices in the market and we are not going to be the first to lower prices in the market. We have a differentiated offering and we are looking to maximize the value that we get for our offering. We have done so in the gross margin trajectory on product gross margin this quarter, and you’ll continue to see us stay disciplined on it.
+I’m not suggesting that we will never lower the price. But I’m suggesting that we’re not going to be the first to do so. And we monitor the competitive landscape. We monitor what other people are selling, and we’ll make the right choices at the right time.
+Erik Suppiger
+Do you reduce pricing when you see others that are discounting more aggressively or what prompts you to make the change?
+George Kurian
+Every deal can be competitive. We will make the right tradeoffs between whether we see this to be a strategic account that we want to capture versus whether this is a broad-based market shift. And it’s called market and comparative intelligence that we are highly disciplined about. We have a very good read on the market. We have a lot of customer interactions that give us that information right.
+And so, as I said, we have a clear interest in extracting as much value for our technology as we can. And that value is embedded in the performance and the software capabilities of our systems. And so we’ll be judicious about how we pass through savings to customers. Yes, commodity saving, the philosophy has been that we pass it through, but we can time how we do that.
+Erik Suppiger
+Very good. Thank you.
+Kris Newton
+All right. Thank you, Erik. I’ll pass it back to George now for some final remarks.
+George Kurian
+Thanks, Kris. We delivered a very strong start to the year and introduced substantial innovation across our portfolio, expanding our industry-leading cloud data services and introducing new partnerships, products and solutions to help data-driven organizations thrive.
+With our compelling Q1 results and expectations for the remainder of the year, we are off to a strong start in delivering against the long-term model we laid out at our Analyst Day last April. We raised fiscal year 2019 guidance for gross margin, operating margin and earnings per share. We maintain our expectations of mid single-digit revenue growth before any benefit from ELAs, and we continue our strong commitment to shareholder return, evidenced by the 500 million of share repurchases in Q1.
+We will introduce more exciting innovations at our Insight User Conference in Las Vegas in October. We will be hosting technology sessions for the investment community with NetApp executives and we hope to see you there. Thank you very much.
+Operator
+Ladies and gentlemen, thank you for participating in today’s conference. This does conclude the program. You may all disconnect, and have a wonderful day.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

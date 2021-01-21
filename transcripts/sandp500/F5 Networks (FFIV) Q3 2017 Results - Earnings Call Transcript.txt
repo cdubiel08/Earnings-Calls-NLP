@@ -1,0 +1,276 @@
+F5 Networks, Inc. (NASDAQ:FFIV) Q3 2017 Earnings Call July 26, 2017  4:30 PM ET
+Executives
+Jason Willey - F5 Networks, Inc.
+Andrew Reinland - F5 Networks, Inc.
+François Locoh-Donou - F5 Networks, Inc.
+Ryan Kearny - F5 Networks, Inc.
+Analysts
+Jess Lubert - Wells Fargo Securities LLC
+Brian J. White - Drexel Hamilton LLC
+Jim Suva - Citigroup Global Markets, Inc.
+Paul Silverstein - Cowen & Co. LLC
+Rod Hall - JPMorgan Securities LLC
+Troy D. Jensen - Piper Jaffray & Co.
+Meta A. Marshall - Morgan Stanley & Co. LLC
+Jeffrey Thomas Kvaal - Nomura Securities International, Inc.
+Alex Henderson - Needham & Co. LLC
+Operator
+Good afternoon and welcome to the F5 Networks Third quarter and Fiscal 2017 Financial Results Conference Call. At this time, all parties will be able to listen only until the question-and-answer portion. Also, today's portion is being recorded.
+I'd now like to turn the call over to Jason Willey, Director of Investor Relations. Sir, you may begin.
+Jason Willey - F5 Networks, Inc.
+Thank you, and good afternoon, everyone. As Eve said, I am Jason Willey, F5's Director of Investor Relations. François Locoh-Donou, President and CEO of F5; and Andy Reinland, Executive VP and CFO, will be the speakers on today's call. Other members of F5's executive team are also on hand to answer questions following the prepared comments.
+If you have any questions after the call, please direct them to me at 206-272-7908 or j.willey@f5.com. A copy of today's press release is available on our website at www.f5.com. In addition, you can access an archived version of today's call from our website through October 25, 2017. You can also listen to a telephone replay at 800-964-4650 or 203-369-3682.
+In today's call, our discussion will contain forward-looking statements which include words such as believe, anticipate, expect and target. These forward-looking statements involve uncertainties and risks that may cause our actual results to differ materially from those expressed or implied by these statements. Factors that may affect our results are summarized on our quarterly release and described in detail in our SEC filings. Please note that F5 has no duty to update any information presented in this call.
+I will now turn the call over to Andy.
+Andrew Reinland - F5 Networks, Inc.
+Thank you, Jason. For the third quarter of 2017, our revenue of $518 million was up 4% from the third quarter of fiscal 2016, but below our guided range of $520 million to $530 million, driven primarily by lower-than-expected results in EMEA and Japan. GAAP EPS of $1.52 per share was above our guidance of $1.47 to $1.50. Non-GAAP EPS of $2.03 per share was within our guidance of $2.01 to $2.04 per share.
+Product revenue of $235 million in the third quarter was up 2% year-over-year and accounted for 45% of total revenue. Service revenue of $283 million grew 7% year-over-year and represented 55% of total revenue.
+Looking at revenue by theater, Americas accounted for 57% of the total, up 6% from the third quarter of fiscal 2016. EMEA, which represented 23% of revenue, grew 4% from the third quarter of last year. APAC accounted for 15% of revenue and grew 3% year-over-year. And Japan revenue representing 4% of the total declined 8% from a year ago.
+Sales to enterprise customers represented 65% of total sales during the quarter. Service providers accounted for 20% and government sales were 14%, including 6% of total sales from U.S. federal. In Q3, we had three greater than 10% distributors: Westcon, which represented 19.1% of total revenue; Ingram Micro, which accounted for 16.8%; and Tech Data, representing 12.2%.
+Our GAAP gross margin in Q3 was 82.7%. Our non-GAAP gross margin was 84.1%. GAAP operating expenses of $289 million were within our target range of $286 million to $296 million. Non-GAAP operating expenses were $250 million. GAAP operating margin was 26.9%. Our non-GAAP operating margin was 35.8%. Our GAAP effective tax rate for Q3 was 31.1%. Our non-GAAP effective tax rate was 30.3%.
+Turning to the balance sheet, cash flow from operations was $163 million. In Q3, we repurchased 1.2 million shares of our common stock at an average price of $129.37 for a total of $150 million. $324 million remains authorized under the current share repurchase program.
+We ended the quarter with over $1.2 billion in cash and investments. DSO at the end of Q3 was 51 days. Inventories were $31 million. Capital expenditures for the quarter were $7.5 million. Deferred revenue increased 10% year-over-year to $944 million. We ended the quarter with approximately 4,515 employees, flat with the prior quarter.
+As we review Q3 and look to the fourth quarter, in Q3, we saw iSeries adoption rates continue to previous appliance refreshes, which resulted in healthy sequential growth from total appliance sales. Security continues to be a driver of our overall business, both the Gi firewall in telco and application security in on-prem and cloud environments. Also, we saw no change in the competitive landscape during the third quarter and our win rates remained strong and in line with historical levels.
+Conversely, we're not assuming immediate improvement within the EMEA theater. We believe the short-term spending environment remains negatively impacted by Brexit, forthcoming GDPR implementation and general macro uncertainty. Our current federal pipeline and sales activity are in line with seasonal expectations. However, there is uncertainty in the timing with the federal budget that could impact sales cycles.
+And while we are very encouraged with the trends and sales with our customers that have more mature cloud architecture strategies in place, we continue to see delays in projects with those customers who are still evaluating their application architectures as they relate to hybrid and public cloud deployments. With these comments in mind, for the fourth quarter, our revenue target is $530 million to $540 million.
+GAAP gross margin is anticipated at or around 83%, including approximately $5.5 million of stock-based compensation expense and $2 million in amortization of purchased intangible assets. Non-GAAP gross margin is expected to be at or around 84.5%.
+For Q4, we anticipate GAAP operating expenses in the range of $283 million to $293 million, including approximately $38.5 million of stock-based compensation expense and $0.8 million in amortization of purchased intangible assets.
+We are forecasting a GAAP effective tax rate of 33% and a non-GAAP effective tax rate of 31%. Our GAAP EPS target is $1.64 to $1.67 per share. Our non-GAAP EPS target is $2.20 to $2.23 per share.
+We believe our cash flow from operations will be at or around $200 million. Product revenue growth remains our number one priority, and we remain committed to delivering strong profitability and cash generation.
+With that, I will turn the call over to François.
+François Locoh-Donou - F5 Networks, Inc.
+Thank you, Andy, and good afternoon, everyone. While we delivered year-over-year growth of 4% and strong profitability in the third quarter, our product revenue performance fell short of our expectations. The reacceleration of product revenue growth remains our number one priority, and we believe we are well-positioned to deliver on this over the coming periods.
+Customer adoption of our recently introduced products remains strong and our revenue is increasingly coming from more diverse sources, including Virtual Editions, public cloud solutions, and application security.
+On the overall demand environment for our core ADC solutions, the cloud continues to cause some degree of pause while certain customers evaluate their application architectures and deployment options.
+Our conversations indicate many organizations are still trying to assess the true benefits of the cloud balanced against the true cost. Additionally, some customers remain undecided about how to work with large cloud service providers and avoid lock-in with one vendor, which we believe is increasing the exploration of hybrid and multi-cloud deployment.
+Over the long term, we believe the complexities and security risk of multiple deployment environments play to our strength. They require the types of advanced application services we excel at providing.
+As customer needs evolve, we are accelerating our efforts to meet their requirement for our solutions across various deployment environments and consumption models. While we have already made significant progress on these fronts, we recognize the need to move even faster to ensure we provide our secure application services in the way customers demand now and in the future.
+Taking a closer look at third quarter results, the EMEA theater again underperformed relative to our expectations. Conditions in the UK did not improve during Q3, and we saw headwinds in this market from a further slowdown in government activity.
+In addition, we are seeing several European-wide regulatory initiatives around data protection and usage creates short-term disruption in spending. We have taken a number of steps to ensure our resources are properly aligned to growth opportunities across territories and customer verticals.
+Our security solutions delivered solid growth in the third quarter. We saw strength in our firewall offerings into the service provider vertical where we believe we continued to gain market share. We saw additional purchases from a large U.S. service provider who is deploying VIPRION Gi firewalls across their mobile switching centers, as they provide significant scalability and performance over the customer's legacy vendor.
+In North Africa, a major telecom provider building out its LTE network is utilizing a VIPRION deployment to support multiple features, including Gi firewall, DDoS and application security. Within the enterprise vertical, attach rates for security modules remain high, and we had a number of wins around our web application firewall offering. This includes a large North American IT services management company that is implementing our WAF solution across iSeries appliances to protect against layer 7 attacks and provide compliance with security audits and PCI.
+As mitigating application level threats and ensuring policy consistency takes on increasing priority for our customers, security has become a key driver for F5. As it relates to supporting customers that have begun to make architectural decisions around moving workloads to the cloud, we are encouraged by the early signs. It is clear from our conversations with customers that they value the programmability and flexibility that TMOS and iRules provide.
+During Q3, we completed a deal with a large U.S. federal agency as a part of their process to lift and shift some of their applications to the public cloud. This involved the purchase of a significant number of VE licenses as the customer transitions some of their applications from our hardware ADC platform to our virtual offerings, both on-prem and in the public cloud.
+During the third quarter, we introduced several exciting new solutions aimed at helping our customers manage their applications in a multi-cloud world. These solutions give customers the freedom to deploy any application anywhere with consistent application services and enterprise-grade security.
+Key new releases included BIG-IP Virtual Edition for the Google Cloud Platform. This release means that organizations can now deploy F5 services in all major public clouds with Bring-Your-Own-License offers for instances ranging from 25 megabits per second to 5 gigabits per second.
+Container Connector supports the easy deployment of application services in containerized environments and simple integration of capabilities into management and orchestration systems. Application Connector inserts application services from the edge of the public cloud and securely connects any public cloud provider to the customer's interconnection or data center. In the case of AWS, Application Connector can automatically discover workloads for application services insertion.
+I want to take a moment to share some of my impressions from my first four months at the company and my thoughts on the significant long-term opportunity I see for F5. Since joining in early April, I have spent considerable time meeting with customers across verticals and theaters. Throughout these conversations, customers told me F5 is a key partner as they evolve their application architecture to support emerging hybrid and public cloud environments. They value F5's ability to enable consistent application services across environments, ensure applications are fully secured and compliant and protect them against cloud lock-in.
+One of the changes we are seeing is the demand to consumer technology in multiple deployment models, including private cloud, public cloud, software-only and various subscription and pay-as-you-go models. I believe these new environments and consumption models for application services will create a meaningful opportunity for growth in our market. As a company, we have already begun to refocus our energies around supporting the varied application deployment environments and consumption models our customers are demanding.
+This focus is evident in our recent product introductions that help customers better navigate a multi-cloud world. It is also evident in the new subscription pricing for Virtual Editions we introduced at the beginning of July. By putting more structure around our subscription offering, we can better engage customers across a spectrum of potential consumption models. Improving the ease of consuming our solutions is expected to open new customer opportunities and we are encouraged by the initial response.
+We are at the early stages of an evolution from a largely appliance-based ADC company selling perpetual licenses to a diverse secure application services company with a breadth of hardware, software and subscription-based services. While this evolution will not happen overnight, ensuring we are taking the necessary steps to remain the clear leader in delivering application services is where I am devoting my time and where we as a company will be devoting our development and go-to-market resources.
+Before concluding, I want to recognize the contributions of Julian Eames, F5's Chief Operations Officer and Executive Vice President, who will be retiring after the end of our fiscal year. Julian joined F5 in 2000 when the company boasted just over 500 employees and became part of the executive team in 2001.
+Julian has been a driving force behind developing a world-class services organization that now stands at over 1,200 people and generated over $1 billion in revenue in fiscal 2016. Julian will remain actively involved in his day-to-day operations until his retirement, and we have begun the process of finding his successor. I know I can speak for the entire F5 team in expressing my gratitude for Julian's contributions and wishing him the very best in his retirement.
+Finally, I'd like to thank the entire F5 team, our partners and customers for their support last quarter.
+With that, we'll now hand the call over for the Q&A.
+Question-and-Answer Session
+Operator
+Thank you. Our first question is from Jess Lubert of Wells Fargo Securities. Your line is now open.
+Jess Lubert - Wells Fargo Securities LLC
+Hi, guys. Thanks for taking my question. Two questions, actually. First, for François, I was hoping you could provide some additional details to help us understand. How come at this point in the cycle we aren't seeing better product growth? And given the shift to workloads to the cloud likely to present a longer term market dynamic, I was hoping you could help us understand what gives you confidence product growth is likely to improve over the next few quarters. What needs to happen for that to occur?
+And then, for Andy, in the past, you suggested that if product growth didn't reaccelerate with the current cycle that you would potentially consider other ways to unlock shareholder value. So I was hoping you could update us on to what degree now might be the time to look at more aggressively buying back stock, paying a dividend or potentially even considering strategic alternatives.
+François Locoh-Donou - F5 Networks, Inc.
+Thank you, Jess. Look, I'll take the first one on product growth. So where we are in the iSeries refresh cycle, we're about three quarters into the cycle. And typically, in the past, we've seen an acceleration in product growth once we are further into the cycle and iSeries represent a higher percentage of our sales.
+We are tracking – as you look at the percentage of our appliance sales that are represented by iSeries, we're actually tracking to prior growth cycles or prior product cycles. And that's part of what gives us the confidence that we can have product revenue growth in coming quarters.
+Andrew Reinland - F5 Networks, Inc.
+Yeah. And Jess, on unlocking shareholder value, I think it's fair to say that, as an organization, we've always been open to looking at different ways to give back be it buyback or dividend, but we've always considered our self a growth company. And so, specific to your question why – is now the time or not the time, I think you'll find that under François' leadership, we'll continue to be that organization that assesses that.
+But, to his comments, we still feel very positive about our future opportunities in this space. And as we look out at our discussions with our customers, we talk a lot about this pause impact that we're seeing and we've seen that in previous cycles. We still think these complex workloads demand the services that we bring to the table and we continue to attack the market with that in mind.
+So, will we look at those alternatives? Definitely, and we'll continue to discuss them with the board. And I think you have to assess everything that also comes at you at the same time. But our focus is on driving the top line growth as we said, still managing for strong profitability and cash flow and executing to the best of our ability with these opportunities in front of us.
+Jess Lubert - Wells Fargo Securities LLC
+Can you perhaps touch to what degree the shift to virtual is changing the dynamics of this product cycle and our legacy offerings falling off faster than we've seen in the past product cycles, because historically, as we moved into this point in the cycle, you are seeing acceleration. So I'm just trying to kind of understand what's holding it back, given the iSeries is doing well.
+François Locoh-Donou - F5 Networks, Inc.
+Yeah, Jess. I think the shift to virtual isn't necessarily what we think is holding us back. As it relates to this quarter in particular, we didn't have the performance that we expected out of a couple of geographies; EMEA and Japan, but EMEA more specifically. And that's fairly specific to some macro environment challenges in the EMEA, some to do with the regulatory environment, specifically in the UK and more pronounced in the finance vertical.
+So that's what really, for us this quarter, led us to not be in the range that we expected in revenues. But, generally, our appliance sales are tracking as we expected it to be. We continue to see growth in our Virtual Edition offerings, both because of private cloud and now increasingly because of public cloud. And as we get further into the cycle, our expectation is to continue to see product revenue growth.
+Andrew Reinland - F5 Networks, Inc.
+And Jess, in our comments last quarter, we talked about, we think of the timing of the rollout when we compare it to past cycles, we kind of message, we think if this is going to take off the way we've been talking about the end of Q4 and then going out stretching over the next 18 to 24 months. So we think it's playing out as we anticipated it would. We do see some headwinds that might mute the impact of it in this quarter, but we see the uptake in line with previous cycles. We like what we're hearing from our customers and our salespeople about how the new platforms are being received. And it's up to us to execute and get the revenue up.
+Jess Lubert - Wells Fargo Securities LLC
+Thanks, guys.
+Operator
+Thank you. Our next question is from Brian White.
+Brian J. White - Drexel Hamilton LLC
+Yeah. François, I'm wondering if you could just get us straight here on what's happening in the cloud. We're talking about a pause. Do you feel like F5 is being marginalized as workloads go to the cloud or do you feel like this is something that you're going to – their customers are going to come back and they're going to go through refresh and they're going to purchase F5 products? The other thing is, I don't hear this. I don't really hear this pause from other IT vendors. So maybe if you could just explain why this is unique maybe to the ADC market at F5. Thank you.
+François Locoh-Donou - F5 Networks, Inc.
+Thank you, Brian. So, a couple of areas. So, first of all, let me comment on the pause and then I'll come back to your comment on marginalization. No, we are definitely seeing that some deals are getting pushed out as some of our customers think through their architectures. And we have customers across the spectrum, so we have a number of customers who 9 or 12 months ago would have said, hey, we're moving everything to the cloud, and it created a significant pause in the their spend.
+And they've now made that decision, they've moved to the cloud and come back and their spend is actually healthier with us than it was prior to them going through the cycle. We have a number of customers and we're seeing more of them that are now going through the cycle and, as a result of that, are pushing decisions because they're revisiting their architecture decisions. In a number of cases, these are not deals that we're losing. We have visibility into these deals, we're not losing them, but they're being pushed out. And that's why we're using this term that we're seeing a pause.
+As it relates to marginalization, to your point around do we feel F5 is being marginalized, I don't think so. And I think you have to parse the market a little bit. For the customers that we have typically served and, typically, those customers have large and complex workloads, when they're moving to either private cloud environment or a combination of private cloud and public cloud, we are involved in the conversation, and we feel we have a very strong win rate and we have relevant offerings to support them. So I don't feel that there's any marginalization going on with our existing customer base.
+There are, however, a number of applications that are being basically bought in the cloud, but created directly in the cloud that are perhaps typically less complex workloads than we have served. These are, for us, significantly new opportunities, as the world goes more digital, more and more applications. And I would say, yes, in that environment, we are not yet participating to the degree that, eventually, I would like us to participate, but that's essentially an opportunity for us to extend our addressable market that we are going to look at how we can execute against that.
+Brian J. White - Drexel Hamilton LLC
+So is it reasonable to assume since this is a pause that we can see an acceleration in revenue not next quarter but, say, a year out, within a year?
+François Locoh-Donou - F5 Networks, Inc.
+Brian, we're not guiding for next year. But I would say we're pretty confident we will see product revenue growth in 2018.
+Brian J. White - Drexel Hamilton LLC
+Okay. Thank you.
+Operator
+Our next question is from Jim Suva of Citi. Your line is now open.
+Jim Suva - Citigroup Global Markets, Inc.
+Thanks very much. And just following up on your statement about some product push-outs, Europe has been a challenge and Japan for several quarters now and you've got to think about how long can you keep pushing and pushing and pushing to where you wonder is there something structural or fundamental with the sales process or the product itself.
+So it sounds like you believe that people are just pausing. Are you making changes to your go-to-market strategy or it sounds like you said that you expect product growth to continue into next year. How can you be sure, how can you be confident that it's truly not something more structurally in nature?
+François Locoh-Donou - F5 Networks, Inc.
+Thank you, Jim. So, I think there are two effects in Europe from what we're seeing. One is a bit of the uncertainty that the regulatory environment is creating. There are things like regulation around data protection and all the regulatory, specifically, in the finance vertical, that is causing folks to think about location of data centers, what their hybrid cloud environments are going to look like, et cetera. That's the macro environment and we don't control that or how a real prediction into that other than we know that a lot of this regulation should be settled in the early parts of 2018.
+There are also some things that we believe have more to do with the execution of F5, so the more internal. And on those aspects, yes, we are taking actions. We believe that, in some cases, we have probably too many people in some geographies where there's not enough opportunity and not enough people and geographies where we see growth opportunity. So we are realigning our resources against the best geographies and verticals.
+I think as I said on the last call, because it's Europe, this typically takes a significant amount of time. It's not – it doesn't happen overnight. And we're also making sure that we're enabling our teams in Europe, both enabling and training our teams in Europe for the new opportunities that we're seeing around hybrid cloud environments, for an example. So, there are some things we're doing internally that we believe will help and contribute. And then the macro environment, we think, for the next six to nine months, we don't expect a significant improvement in the macro.
+Jim Suva - Citigroup Global Markets, Inc.
+And then my follow-up question is on your guidance, specifically on sales. Since the results came in even below the low-end of your guidance, have you reassessed the process or reassessed your discounting or how you're rolling up your guidance so we can just kind of see how much credibility there is behind the guidance for the September quarter after the shortfall this quarter which was pretty noticeable?
+François Locoh-Donou - F5 Networks, Inc.
+We have a pretty strong process that goes bottoms-up against pretty much every geography and vertical, and we continue to be thorough about it. We're being a bit more cautious about EMEA this quarter. We're not expecting, as I said, any improvement in the region, and so we've factored that into our guidance. But the process has been quite thorough as it had been from prior quarters.
+The other area that I would flag is in the federal space, there's a bit of timing uncertainty linked to the delay in the budget approval here in the U.S. And we have factored that uncertainty in the federal space as well in our guidance.
+Jim Suva - Citigroup Global Markets, Inc.
+Thank you so much for the details and clarification. That's greatly appreciated.
+François Locoh-Donou - F5 Networks, Inc.
+Thank you, Jim.
+Operator
+Our next question is from Paul Silverstein of Cowen & Company. Your line is now open.
+Paul Silverstein - Cowen & Co. LLC
+Guys, I have just a couple of very quick detailed questions. I'm hoping you'll bear with me. But, first off, François and Andy, I appreciate the questions about U.S. federal, but when I look at the numbers, if I'm looking at the numbers accurately, it looks like your non-U.S. federal is actually down a little over 7% year-over-year and down 11% sequentially.
+It's been an area historically that's been a fairly strong, albeit obviously not the largest bucket of revenue. But I'm curious what's going on there, if anything, in terms of secular versus transitory issues. And then specific questions that speaks to forward business. Andy, if you said it, I apologize, but if you didn't can you update us on average deal size, large deal activity?
+And if I recall, I don't think it's come up recently. But, historically, you had cited Virtual Edition impact, I think, as being 80% in general on average of the ASP of hardware, obviously, better gross margin in that it would net out as a wash in terms of bottom line or operating profit impact. Can you update us on that and what percent of revenue today is virtual? I appreciate that. Thanks, guys.
+François Locoh-Donou - F5 Networks, Inc.
+I'll start on the – Paul, on your first question. Andy will take the second one. On the non-U.S. federal, I think in the UK, we also saw this quarter some delays. Well, I mentioned the delays in certain deals earlier. In the UK, we had some government deals that were delayed a little bit. Our non-U.S. federal number isn't very large, so there'll be an element of ebbs and flows quarter-on-quarter. But, specifically, this quarter, I think that was a factor.
+Andrew Reinland - F5 Networks, Inc.
+Yeah, Paul. And then on a couple of your other questions; so our average deal size, we actually saw it pull back a little bit. Last quarter, it was around $125,000. And this quarter, it was $115,000. But, really, we didn't see anything in that. We've kind of been in this band for two to three years that would say is in this $110,000 to $125,000 range. So nothing jumped out at us there.
+Our large deals – our largest deals were good in that they were a little bit larger, but there was a pullback on the number of them. If we look above $500,000, we think that we'd like to see more than we had in the quarter, but I wouldn't describe it as a major issue that's been highlighted. We just have been watching that.
+And then the software versus hardware trade-off, there's two ways that we look at that. We don't break it out other than talk about software generally. But if we're talking VE versus hardware, the way they're priced, if we look at the different levels of throughput against the different appliances that we think is the trade-off, in gross margin dollars, we think it's pretty much neutral.
+We do see – if you also look at it from the perspective of just when people buy software only versus hardware, does that bring the average deal size down? And in the broader context, usually, we see them buy more iterations of software so it can be net neutral. We have seen though some outlying deals that are just smaller deals of less VEs that has brought it down, but we believe that will lead to more VE deals later. And in fact, as François talked about, if we can leverage those into more licensing type deals, we think we can accelerate that even quicker. So...
+Paul Silverstein - Cowen & Co. LLC
+Andy, if I may very quickly because I think this is really important. Speaks to what you guys are talking about. If we look at close rates, to your point that there's been this pause as more and more companies or a meaningful number of companies evaluate public cloud. If we look at your close rates, both measured by number of deals and by the timing – the timeframe of going from opportunity to close, can you give us any quantification that speaks to these delays?
+Andrew Reinland - F5 Networks, Inc.
+Just in terms of how long the cycle is?
+Paul Silverstein - Cowen & Co. LLC
+Yeah, how long the cycle is. And I trust it's probably already quantified, but if I looked at your pipeline, if you said you're making the argument that the deals are still there, but they're just not closing. If we looked at your pipeline, any quantification you'd give us?
+Andrew Reinland - F5 Networks, Inc.
+Yeah, I think I'd approach it more from just a qualitative perspective and talk about visibility, right? And we do believe these deals that we see slip out – it's hard to say that while we're just seeing a shift from 90 days sales cycle to 150. And so that's how it will work through. I couldn't give you strong metrics like that to rely on.
+I just look at it in terms of visibility. And as we meet and talk with our sales teams over specific deals and watch how they're executing, we know that the verbiage around them in a lot of cases revolves around them still assessing how they believe they want to leverage cloud or hybrid and what they're going to do, and it does make it a longer selling cycle with less visibility and when the PO's going to come in the door, and that's this pause that we're talking about.
+Paul Silverstein - Cowen & Co. LLC
+I appreciate it. I'll pass it on. Thank you.
+Andrew Reinland - F5 Networks, Inc.
+Thanks.
+Operator
+Our next question is from Rod Hall of JPMorgan. Your line is now open.
+Rod Hall - JPMorgan Securities LLC
+Yeah. Hi, guys. Thanks for the question. I guess I've got one question and then I'll have a follow-up too. But I was just looking at Westcon plus Ingram. And the quarter-on-quarter growth there is, if you add the two together, like 12%. Those two were down 3% last quarter.
+So it feels like they're kind of bucking the trend. And I wonder is that sort of quantitative evidence of this cloud trend that you're talking about? In other words, that smaller deals are doing fine, but maybe big enterprises that you have more direct relationships are not doing as good or can you just help us understand what's going on with channel versus non-channel growth? And then, like I said, I've got a follow-up to that.
+Andrew Reinland - F5 Networks, Inc.
+Yeah. So, the reality is, if we look at our top four distributors, Arrow is also another distributor that rolls in and out of our top 10% distributors. And really, we don't – we're not seeing any correlation to any broader issues to make there than just other, the ebb and the flow and lumpiness of business quarter in and quarter out with the geographies. If you look at Westcon, which this quarter peaked at 19%, I think, roughly two years ago, there was a quarter where they were at 19% too. And we've seen Ingram strong, so nothing that I would draw from a correlation there.
+Rod Hall - JPMorgan Securities LLC
+So you don't see these – when you add the distributors up, you don't see the same acceleration pattern you see from the stuff you disclosed to us?
+Andrew Reinland - F5 Networks, Inc.
+No. No.
+Rod Hall - JPMorgan Securities LLC
+Okay. Thanks for that. That's helpful, Andy. And then the other thing I wanted to ask you is, you – earlier, I think, in response to Jess' question, you said you're three quarters the way through the product refresh. But then you also made this comment that you guys still have pretty high hopes for the refresh looking forward. Can you juxtapose those two things just kind of clarify what you're seeing there?
+It sounds like you're quite a way through the product cycle from your point of view, but then again, you still have a lot to look forward to. So where are we exactly in that cycle from an outsider looking in point of view?
+François Locoh-Donou - F5 Networks, Inc.
+Rod, yeah, just a correction, what I said was that we were three quarters into the cycle not three quarters of the way through. And it's typically eight quarters – six to eight quarter cycle. So we haven't reached the midpoint of the cycle yet. We've just actually crossed the point where iSeries this quarter represented more than 50% of our appliance sales. In the past, we've typically seen that acceleration when we're closer to the 80% mark of our total appliance sales. So, to be clear, we think it's an eight-quarter cycle and we're about three quarters into it.
+Rod Hall - JPMorgan Securities LLC
+And François, just on that, you guys had – I know you had released these products closer together. Thanks for the clarification, by the way, because I misunderstood what you said. You had released products closer together to kind of compress the cycle, but it sounds like you're thinking that this cycle is kind of more of a normal link at this stage. Has that thinking changed over time or is it, from your point of view, things still more compressed than they would have been maybe the last time you refreshed?
+François Locoh-Donou - F5 Networks, Inc.
+I think if you look at how this cycle is tracking and we track that fairly closely in terms of what percentage of our total sales are with the new platform. It's tracking very, very closely to what we saw in the prior cycle. So it looks to be taking the same shape. There are some differences in the – obviously, in the environment.
+Last time we did a refresh, ACE replacement actually happened – the Cisco ACE replacement happened in the similar timeframe and so that gave us an additional boost. That's much less the case here. And also, as we've said before, we're saying that some of the deals getting pushed out as a result of the evaluation of cloud architecture. So, there are some things in the environment that are different to what we had a few years back. But in terms of how the cycle is tracking relative to what we've done in the past is very similar.
+Rod Hall - JPMorgan Securities LLC
+Great. Thanks a lot.
+Operator
+Our next question is from Troy Jensen of Piper. Your line is now open.
+Troy D. Jensen - Piper Jaffray & Co.
+Yeah, thanks for sneaking me in. Quick question for, Andy. Did you say in your prepared remarks that the head count was flat for the quarter?
+Andrew Reinland - F5 Networks, Inc.
+Yeah. Quarter-over-quarter, we were essentially flat.
+Troy D. Jensen - Piper Jaffray & Co.
+So was your intention coming into the quarter to hire 100-plus?
+Andrew Reinland - F5 Networks, Inc.
+No, I think we guided up to 60 and we just would assess it as we went along. As we executed on the quarter kind of two dynamics happened. We had some strategic investments we wanted to make that made us pull back a little bit on the head count. And then, as we were executing through the quarter, we just – as we were watching what was going on around the world we pulled back and were a little more cautious in managing expenses, and that resulted in people choosing to pull back on head count.
+Troy D. Jensen - Piper Jaffray & Co.
+So I apologize if I missed it, but did you say what your intentions are for hiring in the September quarter?
+Andrew Reinland - F5 Networks, Inc.
+No, I actually didn't put it out there because it was flat. But like we do every quarter, we're going to watch how we're executing and bring people on board as we can. And I think if you go to the website, you'll see that we're hiring against a healthy pipeline of head count out there, and it will give you an indication of our activity.
+Troy D. Jensen - Piper Jaffray & Co.
+Okay. I guess my thought would be that kind of the lack of hiring kind of doesn't really correspond with your thoughts if there is growth in the industry and investing for growth anymore. So, it would just...
+Andrew Reinland - F5 Networks, Inc.
+I actually – no and I can get – totally understand, Troy, why you're asking the question. But I would counter that with discussion on the way we've always managed the business and with the focus on profitability as we've executed against revenue. And I think more you're seeing a short-term dynamic here than a long-term belief about this space.
+François Locoh-Donou - F5 Networks, Inc.
+And the other thing, Troy, is you're looking at an aggregate number. You heard me talk about Europe, and I said we're realigning resources against opportunities. When we talk about the evolution of our offering towards subscription, virtual environment, et cetera, again, that requires some alignment of resources towards these opportunities. So don't mistake the total number in quarter for a lack of activity around hiring folks on what we believe are some very exciting growth opportunities for the company.
+Troy D. Jensen - Piper Jaffray & Co.
+All right. Understood. Good luck, gentlemen.
+François Locoh-Donou - F5 Networks, Inc.
+Thank you, Troy
+Operator
+Our next question is from James Faucette of Morgan Stanley. Your line is now open.
+Meta A. Marshall - Morgan Stanley & Co. LLC
+Hi. This is Meta Marshall for James. A couple of questions. Have you during the refresh seen kind of any realignment of customers who might have opted for best last time opting for kind of good or better this time? And second question, just you mentioned that the transition to cloud is kind of an inhibitor right now or just that decision-making process. Are there any partnerships or acquisitions that you guys have looked at to kind of help customers speed that transition or decision process? Thanks.
+François Locoh-Donou - F5 Networks, Inc.
+Thank you, Meta. On the first question, yes, actually, we are seeing a higher demand for best bundle than we would have in prior cycles, and that's largely because securities is important and increasingly important.
+One of the things that the cloud does is it dissolve the perimeter, and our solutions for security are application centric; they're not perimeter-based solution. And that's actually one of the reasons we're doing well with security and seeing more and more opportunities. So, the best bundle is actually the – we're seeing higher demand for that, which you can translate into we're seeing a higher security attach rates to our solution, which we actually think is a very good growth driver.
+As it relates to partnership and acquisitions, look, our philosophy about this has been and frankly is going to be, we want to have very strong organic plans for addressing the high-growth opportunities in our market, which essentially revolve around the cloud and security. And part of the resource shift that we talk about really relates to how we accelerate our execution organically against these opportunities.
+That being said, if we believe there's opportunities to accelerate that inorganically that makes sense for us, whether it's partnership or acquisitions, we will do that. We have a number of partnerships in place already in the ecosystem both with cloud providers and a number of IT – other IT players that help us, but we won't roll out doing some things in the marketplace if and when we see an opportunity.
+Meta A. Marshall - Morgan Stanley & Co. LLC
+Great. Thank you.
+Operator
+Our next question is from Jeff Kvaal of Nomura Instinet. Your line is now open.
+Jeffrey Thomas Kvaal - Nomura Securities International, Inc.
+Yes. Thank you. And perhaps, gentlemen, I might return to the cycle question. Would you mind running through what it is exactly you mean by the iSeries tracking in line with prior cycles because I think it would be easy for us to sit here on this side and say, okay, well, F5 isn't quite delivering on the revenue expectations that you would all like to be delivering on, and so it seems at some level it's a little bit behind. So if you could clarify that a little bit for me that would be wonderful. And as part of that, I'm hoping that you could tell us why the 80% rate is where the inflection has come in prior cycles.
+François Locoh-Donou - F5 Networks, Inc.
+Sure, Jeff.
+Jeffrey Thomas Kvaal - Nomura Securities International, Inc.
+Does that make sense? Yeah.
+François Locoh-Donou - F5 Networks, Inc.
+Yeah. No, it makes sense. I understand the question. Couple of things. So, the reason we're saying it's tracking after prior cycle is really a key metric for iSeries is the adoption of the product in the customer base as in do our customers see good reasons to adopt this new platform and refresh their environment?
+And the best way for us to measure that is to look at the percentage of our total appliance sales that come from this new platform. And when you look at that percentage quarter-on-quarter, we're tracking pretty much exactly with prior quarters. Now, to your second question, which was...?
+Andrew Reinland - F5 Networks, Inc.
+Why 80% is the level we focus on.
+François Locoh-Donou - F5 Networks, Inc.
+Thank you, Andy. That's largely because, in the past, that has been the point at which customers have made the initial deployments of this new platform, they've done the necessary software upgrades and test and proof-of-concept, they're a bit unfamiliar with the platform and they get into the mode of more repeat purchases and that's where we typically see an acceleration. That's what we have seen in the past and that's why we've looked at that 80% marker as a good indicator of the point in the cycle where we see this.
+As I said, again, the environment is different now than it was in the past, but if you look at these metrics we're tracking. The only thing, Jeff, that I would add is, whilst we look at the refresh cycle as a growth opportunity for F5, I think we also want to be clear that that is not solely what we see as the medium to long term growth driver for the company. And I want to be very, very clear with that, that we see the number of applications being deployed in private and public cloud and specifically in virtual ADC market, we see that as a growth market. And a big priority for us is to make our solutions easy to consume, remove any friction there is in consuming our solutions in different environments because we believe that is going to open additional opportunities for us, specifically, in the virtual ADC space. And that I see as a growth driver for the company.
+The other important growth driver is application-centric security. It is a bigger issue. We're seeing more and more attach rates to our solutions. We're seeing more security stand-alone opportunities. We have best-in-class web application firewall capabilities. We're seeing strong demand for that. And we think, with the cloud, there's going to be even more of a need for application-centric security. So, beyond the refresh, I see these two as important drivers for the medium to long term for us.
+Jeffrey Thomas Kvaal - Nomura Securities International, Inc.
+Thank you, gentlemen.
+Jason Willey - F5 Networks, Inc.
+Operator, I think we'll take one more question.
+Operator
+Thank you. Our next question is from Alex Henderson of Needham. Your line is now open.
+Alex Henderson - Needham & Co. LLC
+Sneaking in under the wire. So, just to be clear, when you're talking about disruption in Europe relative to data protection, that's not the GDPR initiatives? That's where they put their data centers, correct?
+François Locoh-Donou - F5 Networks, Inc.
+So GDPR is one of the elements that we've seen as uncertainty – yes, creating some uncertainty in Europe.
+Alex Henderson - Needham & Co. LLC
+Okay. So, the second question, if I could, the sales force, you're seeing any acceleration in churn in your sales force or other operational staffing levels as a result of the recent choppiness in your performance?
+François Locoh-Donou - F5 Networks, Inc.
+No. Attrition are in line with historical levels. In fact, attrition is much better than it was even a couple of years ago. So, no, we're not seeing that.
+Alex Henderson - Needham & Co. LLC
+Okay. Then one on the technical side. So, micro segmentation, containerization, is that causing any change in the way people are thinking about how to deploy your products, particularly as they try to look to single binary code architectures? And does that impact your business on that – as that transition happens to more of a DevOp delivered orientation?
+And then, second off – hanging off of that on the security front, almost every security company is talking about the importance of platform and, on the other side of the coin, talking about the importance of large data sets in order to do advanced analytics, can you talk about your positioning on those two subjects, please?
+François Locoh-Donou - F5 Networks, Inc.
+Yes. So, I'll take the security question and Ryan Kearny will talk about what we're doing about containers. So, yeah, the position that we have that's actually quite unique in the security space is, as I said, number one, that we – unlike a number of other players, we're not a perimeter security company. We're more of an application security player.
+And one of the benefits that that gives us is we have the ability to see data in the line of the application of between the user and the application. And because of the capabilities in BIG-IP in terms of scale and throughput, we also have an ability to analyze the in-line data in real-time. So that gives us the opportunity to do some interesting things with the data, which we think is important and probably will play into our future. Ryan, on the containers?
+Ryan Kearny - F5 Networks, Inc.
+Yeah, sure. Yeah, Alex, good question. Container – containerization in micro-service environments have definitely been a hot topic and have shifted many customers' future architectures of their applications into these environments for some of the obvious benefits.
+One of the things François mentioned in kind of the opening comments is two major releases, two major technologies we released actually this quarter to actually address container and micro-service environments. One of them was the application services proxy, which sits inside micro-service environments to link those micro-services together, and then also, the container connector, which sits inside those environments, which is able to orchestrate effectively F5 technology, BIG-IPs in the north-south footprint, right?
+So, this quarter, we made some pretty major technology releases to address these environments that we've seen customer demand over the last – definitely over the last year for. I will mention one thing though about at least the micro-service environment. There's a lot of the – a lot of our customers are in architecture stage or development stages, and we've not seen production, we've not seen significant production environments in micro-service environments, but I do see that is coming. It's definitely coming and there's a major interest in it from our customers and is a major focus of our product development, technologies and road map.
+Alex Henderson - Needham & Co. LLC
+Given we got only a couple of minutes left and you said you were going do this last question, maybe I'll stick one in if I can on a really much broader subject. So, this company slowed down to a snail's pace, it's in the middle of the major product cycle and it's barely growing what it declined in the year ago. Get it that you want to say that there's accelerated growth. But you've always focused on being 100% oriented to being a pure ADC play in this one area.
+When companies slow down, sometimes you need to change your strategy. If you were to look at your second strength, which is your ability to deliver a great brand name and super distribution reach, why not become a little mini Cisco in the application layer, which is where Cisco would like to be and start to be – use your acquisition and your cash position to acquire companies that would then be able to leverage through your sales force to reinvigorate your growth rate?
+That's something that obviously happened at Ciena. Ciena wouldn't be where it was today if it wasn't for the acquisition of the Nortel MEN network.
+François Locoh-Donou - F5 Networks, Inc.
+Thank you, Alex. Good reflections. Listen, one of the – I think where you are correct is, one of the key, I'd say, intangible assets of F5 is our understanding of applications and the concentration of application networking talent that exists at F5 is – I think is unparalleled in the industry. And you've heard me say before that I believe we have an opportunity to expand the breadth of application services that we offer. And security is actually one of these domains.
+Our philosophy around this is that we have to have strong organic plans to do that and there's a number of things we're doing organically that we've started executing on that we'll be able to discuss at a later stage, not today. But we're doing a number of things organically to expand our addressable market beyond perhaps the traditional solutions that we offer today.
+If and when we see some good opportunities to extend that inorganically, as I said, we will not rule that out. But it's got to start with some organic execution. And we have a priority, as I said, to grow the top line. We said that's our number one priority. We do see product revenue growth next year and we've got a number of exciting organic propositions that we're executing on that we believe will contribute to that.
+Alex Henderson - Needham & Co. LLC
+Great. Thanks for fitting me in.
+François Locoh-Donou - F5 Networks, Inc.
+Thank you, Alex.
+Jason Willey - F5 Networks, Inc.
+So thanks, everyone, for their participation today, and we look forward to talking to you again in three months.
+Operator
+Thank you. And that concludes today's conference. Thank you for your participation. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+2 Authors in the Last 90 Days

@@ -1,0 +1,326 @@
+Fortinet, Inc. (NASDAQ:FTNT) Q3 2020 Earnings Conference Call October 29, 2020  4:30 PM ET
+Company Participants
+Peter Salkowski - Vice President of Investor Relations
+Ken Xie - Founder, Chairman & Chief Executive Officer
+Keith Jensen - Chief Financial Officer
+Conference Call Participants
+Brian Essex - Goldman Sachs
+Fatima Boolani - UBS
+Shaul Eyal - Oppenheimer
+Brad Zelnick - Credit Suisse 
+Saket Kalia - Barclays
+Andrew Nowinski - D.A. Davidson
+Calvin Patel - Morgan Stanley
+Justin Roach - Piper Sandler
+Patrick Colville - Deutsche Bank 
+Alex Frankiewicz - Raymond James. 
+Operator
+Welcome to the third quarter earnings call. I would now like to hand the call over to Peter Salkowski. Please go ahead. 
+Peter Salkowski
+Thank you, Michelle. Good afternoon, everyone. This is Peter Salkowski, Vice President of Investor Relations at Fortinet. I'm pleased to welcome everyone to our call to discuss Fortinet's financial results for the third quarter of 2020. Speakers on today's call are Ken Xie, Fortinet's Founder Chairman and CEO; and Keith Jensen our Chief Financial Officer.
+This is a live call that will be available for replay via webcast on our Investor Relations website. Ken will begin our call by providing a high-level perspective on our business. Keith will then follow that with a review of our financial and operating results for the third quarter, before providing guidance for the fourth quarter of 2020. We'll then open the call for questions.
+During the Q&A, we ask that you please keep your questions brief and limit yourself to one question and one follow-up question, to allow other to participate.
+Before we begin, I'd like to remind everyone that on today's call we will be making forward-looking statements and those forward-looking statements are subject to risks and uncertainties which could cause our actual results to differ materially from those projected. Please refer to our SEC filings, in particular, the Risk Factors in our most recent Form 10-K and Form 10-Q for more information.
+All forward-looking statements reflect our opinions only as of date of this presentation and we undertake no obligation and specifically disclaim any obligation to update forward-looking statements. Also all references to financial metrics that we make on today's call are non-GAAP, unless stated otherwise. Our GAAP results and GAAP-to-non-GAAP reconciliations is located in our earnings press release and in the presentation that accompanies today's remarks, both of which are on our Investor Relations website. Lastly, all references to growth are on a year-over-year basis, unless noted otherwise.
+I'll now turn the call over to Ken. 
+Ken Xie
+Thanks, Peter, and thank you to everyone for joining today's call to review our third quarter 2020 results. We are very pleased with our third quarter performance. Billing increased 20% to $750 million. Our SD-WAN solution more than doubled year-over-year and represent over 13% of total billings. Total revenue increased 19% to $651 million, with product revenue growth accelerating quarter-over-quarter to 14% and service revenue up 22%.
+Recently, Fortinet was the only vendor recognized as a leader in both the latest Gartner Magic Quadrant for WAN Edge infrastructure and Gartner Magic Quadrant for network firewalls. Fortinet's FortiGate SD-WAN is the only organically built solution that provides networking and security integrated into a single appliance that delivers leading protection, performance and cost saving for the largest customer base and fastest revenue growth among major players in the space.
+The COVID-19 pandemic has accelerated digital transformation. And organizations has to deal with new challenges to secure the whole infrastructure in the zero-trust environment, whether it's a WAN, cloud, data center, network, branch or home edge. Fortinet is helping customers solve these issues through security-driven networking and our platform approach.
+FortiGate Security Fabric which combine networking and security across the entire connect environment provide protection whether on-premise, virtual or cloud-based environment. Our recent Fortinet survey of cybersecurity leaders showed almost 70% of organizations have concerns about insider threat.
+Today, Fortinet announced a FortiGate 2600F for enterprise-level internal segmentation and hyperscale data center in multi-cloud environment. Powered by the new NP7 security processor, the FortiGate 2600F offer the highest performance with a secure computing up to 10 time higher than our competition.
+Gartner has stated that over the next few years, edge and immersive technologies will begin to replace cloud and mobile. The release of several new appliance called by our latest FortiASIC SPU, together with cloud and software-based virtual machine could replace security anywhere, will enable Fortinet to capitalize on this investment and will fuel our growth going forward. Before turning the call over to Keith, I would like to thank our employees, customers, partners worldwide for their continued support to manage our response to the ongoing COVID-19 pandemic.
+Keith?
+Keith Jensen
+Thank you, Ken. Let's start the third quarter review with revenue. Total revenue of $651 million was up 19%. Product revenue of $224 million was up 14%, benefiting from strong demand for secure SD-WAN, high-end FortiGate and cloud solutions. Service revenue increased 22% to $427 million. FortiGuard service revenue increased 22% to $235 million. FortiCare service and other revenue increased 21% to $192 million. The revenue mix shift from 8x5 to 24x7 support was 11 points, with 24x7 now representing over 65% of the mix.
+Moving to the mix of FortiGate and non-FortiGate revenue. FortiGate product and service revenue increased 16%. Non-FortiGate products and service revenue grew 27%, driven by growth in cloud and fabric solutions. Given the continuing strong growth of our non-FortiGate or fabric platform, it's worth noting the absolute size of this business.
+For example, during the trailing 12-month period, ended September 30 2020, non-FortiGate products and services totaled $668 million, an increase of 26.5% when compared to the previous 12-month period. Revenues and solutions include the complete range of form factors and delivery methods including physical and virtual appliances, cloud, SaaS and perpetual software as well as hosted and non-hosted solutions.
+Combined with our FortiGate business, we offer our customers the needed range of security solutions and form factors enabling them to provide security across their entire IT infrastructure, whether it's at the WAN, cloud, data center, network branch or even home office edge. Our third quarter performance illustrates the benefits of our diversification across geographies, customer segments and industry verticals.
+Looking at revenue by Geos. As with the second quarter, our geographic revenue performance aligned with the economic impact of the pandemic and with it highlighted the geographic diversification of our business. As summarized on slide 5, revenues in Asia Pacific, increased 27.5% as many Asian countries and economies have been able to remain largely open.
+Revenue growth for the Americas of 13%, continue to reflect the impact of the pandemic, especially in Latin America as well as a very difficult year-over-year comparison. Revenue growth for the Americas in the third quarter of 2019 was over 24%, the highest of all three geographies.
+If we shift to billings, total billings increased 20% to $750 million. Looking at billings by solutions segment; FortiGate billings increased 16% and accounted for 72% of total billings. As shown on slide 6 high-end FortiGate posted strong billing growth in the quarter. Non-FortiGate billings increased 29%, with strong demand for fabric and cloud solutions.
+As with revenue, our billings performance by geos aligned with the economic impact of the path of the pandemic. APAC billings outperformed all geos, followed by Europe, and then the Americas, including Latin America.
+Now turning to billings by customer segments. As we experienced in the second quarter, we saw solid billing growth in the SMB, a large enterprise segments. SMB posted strong growth across all geos, illustrating the strength of our channel programs, the solid execution by our channel employees and partners, and the large diverse makeup of this multinational customer segment.
+Moving to worldwide billings by industry verticals. Our top five verticals continue to account for about two-thirds of total billings. The worldwide government sector topped all verticals at 20% of total billings and grew at over 40%. We experienced solid performance internationally and in the U.S. at the local levels.
+Service providers and MSSPs accounted for 16% of total billings. Financial services with 14% of total billings also had a very strong billings growth quarter at 27%. Education with 9% of total billings rebounded in the third quarter as schools prepare for secure e-learning in the fall semester.
+Now looking at deals by dollar size. We had 48 deals over $1 million in the third quarter, compared to 53 deals in the third quarter of 2019 and 30 deals in the third quarter of 2018. Secure SD-WAN accounted for seven of the deals over $1 million and while down from eight deals over $1 million a year ago, total SD-WAN billings more than doubled, and as Ken mentioned, accounted for approximately 13% of total billings.
+Moving back to the income statement. As shown on slide 4, gross margin improved 130 basis points to 79.5%. Product gross margin improved 220 basis points to 62.9%. Product gross margin continued to benefit from the lower direct cost of our newer generation of FortiGate products, offset slightly by higher indirect costs.
+It's worth noting that for five quarters in a row, including two pandemic quarters, product gross margin has been over 60%. Operating margin for the third quarter increased 90 basis points to 27.4%, benefiting from the improvement in gross margin and continued lower travel and marketing program expenses related to the shift towards virtual events, offset by the addition of new team members.
+Total head count ended the quarter at 8,075, a 23% increase driven by the increased investments we've made to grow our business. Given the strong operating income performance, net income for the third quarter was $145 million.
+And earnings per diluted share increased $0.21 to $0.88 per diluted share. On a GAAP basis, we reported net income of $123 million or $0.75 per diluted share versus GAAP income of $80 million or $0.46 per diluted share a year ago.
+The strong performance this quarter is the result of the diversification of our business and the strategic long-term investments we've made to expand our global sales force, to invest in our channel partners and to expand our product offerings and provide a truly integrated security platform enabling automation.
+Moving to the statement of cash flow summarized on slide seven and eight. Free cash flow came in at $186 million. As we commented previously, we are leveraging the strength of our balance sheet as a competitive advantage to support our partners and our customers as they experience the economic challenges of the pandemic.
+As a result average days sales outstanding increased to 76 days, up three days sequentially and 13 days year-over-year in line with our expectations and reflecting our decision to provide geographically targeted extended payment plans.
+We expect extended payment terms and higher inventory balances to be in effect as we move through at least the first half of 2021. Inventory turns decreased to 2.1x as we increased our on-hand inventory to mitigate supply chain risk.
+Capital expenditures for the third quarter were $35 million including $26 million related to construction and other real estate activity. We estimate capital expenditures for the fourth quarter to between $40 million and $50 million and for all of 2020 to between $130 million and $140 million.
+The lower full year CapEx range is due to utilities and other delays in the construction of our new campus building that are pushing more spending to 2021. Our move in date has moved to mid-2021.
+The average contract term for the third quarter was 26 months, flat year-over-year as well as sequentially. We expect full year cash taxes to be approximately $40 million and our full year non-GAAP tax rate to be 21%.
+As we look forward, I'd like to review our outlook for the fourth quarter summarized on slide nine which is subject to disclaimers regarding forward-looking information that Peter provided at the beginning of the call.
+For the fourth quarter, we expect billings in the range of $890 million to $920 million. Revenue in the range of $710 million to $730 million. Non-GAAP gross margin of 78% to 80%. Non-GAAP operating margin of 27% to 29%. Non-GAAP earnings per share of $0.95 to $0.97, which assumes a share count of between 157 million and 169 million. We expect a non-GAAP tax rate of 21%.
+Having said that, based on this fourth quarter guidance, we expect to achieve the rule of 40 for the full year making 2020 the third consecutive year in the ninth year of the last 11 years that we've been able to achieve this milestone.
+So, along with Ken, I'd like to thank our partners, our customers, and the Fortinet team for their support and hard work during these difficult and unique times. I'll now hand the call back over to Peter to begin the Q&A.
+Peter Salkowski
+Thank you. Operator please open the call for Q&A.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question comes from Brian Essex of Goldman Sachs. Your line is open.
+Brian Essex
+Hi, good afternoon and thank you for taking our question and congrats on a nice quarter of results. I was wondering maybe if you could touch on what you're seeing in the spending environment. Particularly it sounded like you had a really nice quarter of fabric growth and SD-WAN demand. But we also picked up physical firewall strength in the quarter. So, maybe from the standpoint of what you're hearing from CIOs and what actually surprised you the most about the demand in the quarter? 
+Ken Xie
+Yes. Brian, this is Ken. That's a good question. We also closely monitor watching the whole since change in the space. Basically so that's where we're keeping promoting we call secure-driven networking. And also that's the concept we try to the thinking we have in the last 20 years.
+So, you can see the definitely the SD-WAN starting -- come to the networking side and probably in the next three years can grow over $20 billion. So that will be huge. We want to be the leader number one in the space hope to target next year.
+And at the same time the security is at Zero Trust concept starting to get very popular. So, we need to make the whole infrastructure very secure. And also the work for home also starting changing a lot. Like in early this year once the pandemic just started and people -- enterprise just try to see how IT can supporting work from home.
+Now, they're starting to try to see what's the long-term solution whether some service-based SASE or some other way they call the home is the new branch right? So, that's where we can have the FortiGate installed in the home can manage much broader device.
+It can also like traffic shaping like many different priority for different application, different users and at the same time can secure the whole infrastructure that sometimes they also call the SD branch solution. That's where managed Wi-Fi and manage other switch other networking equipment altogether and also even the printer or the other home appliance. So, that's we're starting to see.
+Some -- even some big enterprise or some -- working with whatever service provider some companies started offer the employee because this is what they call the new branch. They not only give them some kind of FortiGate planning, but also including the internet access including like whether 4G, 5G, 3G, 4G, 5G or some other things altogether. It's kind of a packaged solution and to help them secure it they call them the whole infrastructure security.
+So, that's why we see both kind of approach. So we're closely working with service provider, whether to the service base SASE or to this kind of a whole infrastructure security approach, but the new branch – home's-the-new-branch approach. So it's definitely changing the whole environment. So the security no longer just secure the gateway the border and we expect the whole infrastructure. And at the same time, the network also need to be more application awareness, like based on application like SD-WAN, or some other based on the content like there are certain content and provider also starting to add in the security space. So that's what keep us saying the secure-driven network is starting to kind of ramp up quickly. 
+Brian Essex
+Got it. That's super-helpful. And maybe just a follow-up on that SASE comment. Any – and I know, I'm going to mispronounce this, but any initial traction with OPAQ or OPAQ through MSSP channel and how much progress have you made with that relationship so far?
+Ken Xie
+Yeah. We acquired OPAC last quarter, and we're working together to make it the whole solution for the SASe. Also, we work closely – working with a lot of service provider, because we do keep it same for a few years. The service provider has the best position to offer a lot of service. So we help them. And also FortiGate is one of the best platform they can build whether within their POP or even extend into the branch or extend to – inside the company. So it's a good change in the space.
+Brian Essex
+Got it. Thank you very much.
+Ken Xie
+Thank you.
+Operator
+Next question comes from Fatima Boolani from UBS. Your line is open. 
+Fatima Boolani
+Thank you for taking the question. Keith, I have two for you. Just looking at your outlook and your billings guidance I wanted to unpack that a little bit and get your sense of where you are being a little bit more cautious relative to the performance quarter and how we should think about some of the puts and takes into the guidance that implies a deceleration from the third quarter performance you just put up? And I have a follow-up as well. 
+Keith Jensen
+Sure. Look, I think it's shown 2020 has shown to be a very interesting year for setting guidance. Q1 was very, very strong. Q2 was challenging. Q3 is a nice bounce back. It's really a function of watching media reports almost on a daily basis in terms of what's happening with the pandemic whether – what we see happening in the U.S. We can also layer into that the U.S. election, but also what we're seeing in Europe. And I think in the current environment, I think the guidance does a pretty good job of trying to reflect our current understanding of the pandemic.
+Fatima Boolani
+Fair enough. And just a bigger picture question for you. As I think about the complexion of your 2021 margin profile, if I look at 2020 you're head and shoulders above the sort 25% operating margin watermark that you've spoken to historically. So I'm wondering, as we think maybe longer term over the next couple of quarters what are some of the structural versus temporal impacts on the margin trajectory from here considering the pandemic trade-off and some of the acceleration you've undertaken on the sales hiring front? I would love to parse through that out with you. That would be really helpful. Thank you.
+Keith Jensen
+Yeah. I think the – to kind of start top-down on that I think the product gross margin and probably why we made reference to it in the call being over 60% for I think five quarters in a row. There were some periods of time there it was probably in the higher 50s. We like very much in terms of the structure that we're seeing in terms of our pricing and our cost structure and gross margin. And even as we continue to introduce new products, hopefully, we'll be successful at that 60% gross margin number. And as you kind of move your way down to the income statement, I think it's really a sales and marketing conversation in terms of spending.
+Clearly, we're continuing to get the benefit of not having salespeople travel and not – the financial benefits excuse me of having salespeople not travel as well as marketing programs being virtual. And to the extent that the world stays that way we're going to continue to get that benefit.
+Now, obviously and I think we've talked previously that we're very committed to use this as an opportunity to bring in more salespeople. We talked about our head count growth of 23%. Hopefully, that we timed this right such that when those newer salespeople are coming online they're fully productive. It will be around the time that they're adding to the top line at the same time travel and marketing programs revert to historical norms. 
+Fatima Boolani
+Appreciate the detail. Thank you, Keith.
+Operator
+Our next question comes from Shaul Eyal of Oppenheimer. Your line is open.
+Shaul Eyal
+Thank you. Good afternoon, guys. Congrats on the solid performance and outlook. I had a question on the SD-WAN opportunity. And given the ongoing strength you're seeing. Have you started to see some displacement opportunities given potential disruption that one of your competitor's smaller competitors in the space could be seeing given a consolidating market?
+Ken Xie
+This is Ken. No. We still see very strong interest and no competitor comes close to what we have. So we see that it's more than double year-over-year. And also we are the only one who has two Magic Quadrant both on SD-WAN also the network firewall come for the same appliance. And at the same time, it's 13% of last quarter's billing, but we have a huge installation base. A lot of customers even enable that one. We are not quite even confident on that one.
+So we believe we are a much bigger user base about like -- we call secure SD-WAN solution. And also going forward, I'd say the work-from-home also will be helping driving this whether you treat home as a new branch or whatever this kind of solution. So we feel we have a market position technology and also the only one build internal organically and also have ASIC to accelerate the performance on average about 10 times faster than any other competitor. So that's where we see is a huge opportunity. And the market grow like 50% year-over-year and we grew more than double year-over-year. It's -- we keep gaining market share. 
+Keith Jensen
+Yes. Shaul, it's Keith. I think Ken's spot on with that. I think if we look forward in terms of the opportunities what Ken is referring to is look I think there's still the opportunity in front of us to -- to help the service providers unpack their existing relationship with their incumbents on the SD-WAN side and that's something I think we're very focused on and as we start to see the SD-WAN is a critical component of SASE and the cloud on-ramp. So I think to Ken's point that market is going to continue to expand for us. 
+Shaul Eyal
+Got it. Got it. No that is super helpful. And maybe a question on the Americas performance. Keith when you isolate the mixed Latin American performance and strictly focusing on the northern part of the Americas how would you characterize the performance slightly more in line with your internal expectations heading into the quarter?
+Keith Jensen
+Yes. I think the U.S. -- well there's three components to the Americas -- Latin America which is a very difficult place currently. And we saw that in the numbers. We expect a difficult quarter of Latin America. And we've certainly got that.
+Canada on the other hand has actually done fairly well throughout this. It's just a different footprint in terms of the pandemic. To your specific question related to the U.S. I think the U.S. did much better in the third quarter than it did in the second quarter. But clearly I would not say that we're at pre-pandemic levels for the U.S. There's still opportunity there for us. 
+Shaul Eyal
+Got it. Thank you so much. Good luck. Good job.
+Keith Jensen
+Thank you. 
+Operator
+Our next question comes from Brad Zelnick of Credit Suisse. Your line is open.
+Brad Zelnick
+Grea. Thanks so much and congrats on the acceleration of the business. It's great to see. My first question for you Ken. I wanted to ask about the impact of 5G on your business. It seems we're approaching a tipping point in terms of broader 5G coverage. So my question is how should we think about the benefits of your business and why you feel that Fortinet is competitively advantaged as we approach this tipping point? 
+Ken Xie
+5G so far it is more connect to the device than connect to the people like 3G, 4G in the past. And also it depends on the vertical industry. And we're also leading a lot of our OT/IoT security. But also, like when work-from-home could be also a good back half for this like WAN access. But it's -- so we see quite a lot of successful case on international right now that seems more a little bit ahead on some of the 5G deployment and also working closely with the carrier service provider. Like I said in the last quarter earnings it's kind of growing faster than we expected and probably still on a very small base. But we do believe next year could be material the 5G contribute for our growth. 
+Brad Zelnick
+Great to hear. Thank you. And for Keith, last quarter you mentioned the discounting had picked up for the first time in a couple of quarters. How do you characterize discounting in Q3 at this point? Thanks.
+Keith Jensen
+Flat. Consistent with what it was a year ago. Nothing to call out. So I guess the way to give that color I think we felt a little more pressure in the second quarter. We do not feel that same pressure in the third quarter. 
+Brad Zelnick
+Great to hear. Thank you so much for taking my questions, guys.
+Keith Jensen
+Thanks, Brad.
+Operator
+Our next question comes from Saket Kalia of Barclays. Your line is open. 
+Saket Kalia
+Hey, guys. Thanks for taking my questions here. Keith, maybe first for you a housekeeping question. Can you just talk about some slight changes to the deferred revenue balance historically? I know there's a footnote in the earnings slide, but maybe you could just expand on what the adjustment is and how that impacted deferred and billings just so that we're all on the same page? 
+Keith Jensen
+Yes. We had a little housekeeping to go through with a subset of our FortiCare contracts. Historically and this goes back many years, we probably should have been recognizing revenue a little bit sooner starting the amortization period than we had been. So there's a little bit of a pickup on quarterly FortiCare service revenue. Its range is very small. It ranges from 0.1% to about 0.5% of revenue for any particular period. When we file the 10-Q there'll be a long footnote that shows every possible period and so forth. But that's all just a little bit of housekeeping to pick up some revenue there. 
+Saket Kalia
+Okay. Got it. So just to be clear the billings that was reported in the quarter the $750 million that really it wouldn't have been impacted by sort of that change right? 
+Keith Jensen
+No, no, no. 
+Saket Kalia
+Okay. Got it. I understood. The follow-up for you Ken just on the product side -- I guess as OPAQ becomes a bigger part of the offering how do you think about the strength of the FortiGate line that maybe helps differentiate when you're offering a SASE solution? Does that make sense? 
+Ken Xie
+Yes. I think, FortiGate is a very important part of SASE because they are the best firewall or SD-WAN or the other things can be positioned within the pop or sometimes we can working with service provider to use the FortiGate to be part of their service their solution there. And at the same time, we also do believe sometimes you also need to have a kind of a different approach like appliance can be in the home or can be in the branch or can be in the -- within the data center and the secure its traffic.
+So that's where we see FortiGate as a very good platform for keeping expanding we call the -- whether the whole infrastructure security or secure-driven networking, including both inside SASE POP all kind of secure the other part of infrastructure.
+Saket Kalia
+Very helpful. Thanks guys.
+Ken Xie
+Thank you.
+Operator
+[Operator Instructions] Our next question comes from Sterling Auty of JPMorgan. Your line is open.
+Unidentified Analyst
+Hi, guys. This is Matt on for Sterling. Thanks for taking the question. I wanted to ask a little bit more on SD-WAN. I was wondering if you guys could give additional color on what you make of the competitive landscape currently and what you've seen on pricing on that front? Thanks.
+Ken Xie 
+Yes. We offer the most the best pricing performance and also more functional SD-WAN than any other competitors. And SD-WAN is the probably one of the fast-growing area also one of the biggest market potential. So there's multiple research say, would be reached over $20 billion in like five to 10 years probably even bigger than the network security. And that's for us, also we want to combine these two together. So you see the same platform for both.
+So that's where compared to other competitor, which is only the software approach or sometimes even to weather the -- we call the universal CP or loading some other appliance. So we have this ASIC-dedicated hardware and plus like -- both in the low mid to high-end range can be within the POP or go to the home branch or go to -- within the data center inside the cloud. So that's where we see it's a huge advantage compared to other competitors. And also from the Gartner Magic Quadrant from the growth we have and we do believe we'll be the number one leader in the space.
+Keith Jensen 
+Yes. Matt I -- Ken's spot on with that. I think he's probably being a little bit humble, because I think really what's going on is because of the ASIC strategy and what he's built he's been able to increase the capacity in the firewall ritually each and every year. And it's a matter of how you use that capacity. Different SD-WAN vendors have different pricing methods. But for Fortinet it's embedded in the operating system and firewall. We do not charge for it separately. When you purchase a firewall you receive the SD-WAN functionality. So I don't really think that -- and certainly, we did not see anything in terms of our discount as we talked about that suggested any sort of change.
+Unidentified Analyst
+Great. That's very helpful. And then just one quick housekeeping question. So, going back to Saket's question on billings. If we just take the change in deferred on the balance sheet and the revenue, it seems like there's a disconnect to that and what you reported on billings. I was wondering if there was anything there to kind of unpack?
+Keith Jensen
+No. I don't think so. I mean it's a pretty darn good definition. Billings is really defined as being revenue plus or minus the change in deferred revenue unless you have an acquisition or something like that. There should not be a difference there.
+Unidentified Analyst
+Okay. Thanks guys.
+Ken Xie 
+Yeah. Thank you.
+Operator
+Our next question comes from Andrew Nowinski of D.A. Davidson. Your line is open.
+Andrew Nowinski 
+Great. Thank you. Congrats on the nice quarter. So you called out strength in high-end billings this quarter, but it's actually been very strong for the last three quarters, which is somewhat surprising given that we're in the middle of a pandemic. So can you just provide any more color on what's driving that consistently strong growth in high end?
+Ken Xie
+There are some related to the new NP7, because -- as compared to NP6, they improve in the performance by almost 5x and also now can process like a 200-gig traffic per ship compared to the 40 gig and also more function there. So that's where we're starting to roll out the new NP7 with -- NP7 product only go to the high and middle range.
+And at the same time we do see certain vertical also help drive some high end like the finance service, some government sector, which they mostly buy the high end which has a less impact by the pandemic. Maybe Keith has other point.
+Keith Jensen
+No. I think I would point the 1100E -- 1100F, excuse me. Yes. The product that's been out here for about a year now and it's done very, very well. It performed extremely well in the third quarter and I think it's been ramping up as we expect typically with the high-end products.
+Ken Xie
+Yes. Also SD-WAN in probably half or probably -- come from the high-end contribution. 
+Andrew Nowinski
+That makes sense. Thank you. And then why do you think you saw fewer $1 million deals this quarter given the strength in the high-end billings that we've seen?
+Keith Jensen
+Yes. I think it's a very good question. We came into the quarter looking at the pipeline and actually had a little bit of risk, I thought because we had a larger mix of larger deals. And then when we got through the quarter, obviously, that -- the mix actually shifted on us a little bit.
+I mean, we've all read reports that maybe in general that deals are getting a little bit smaller and what have you and maybe that has something to do with it. But I really don't have good information in terms of why -- what ended up -- I mean what you get every quarter always differs from the pipeline. I don't know why is that particular item different this time. 
+Ken Xie
+But the deal over $500000 has increased a lot right? And also compared to one year ago. Q3 last year we grew -- one year ago we grew $1 million deal quite a large number. So that's a very small comparison. 
+Keith Jensen
+Yes. And Ken makes a very good point. In fact if you look at deals of over SD-WAN deals over $250000 those were up well over 200% year-over-year. 
+Andrew Nowinski
+That makes sense. Thanks guys.
+Operator
+Our next question comes from Hamza Fodderwala of Morgan Stanley. Your line is open.
+Calvin Patel
+Hi, guys. This is Calvin Patel on for Hamza. Congrats on the quarter. And thank you for taking the question. I was wondering if you could first comment a bit more on invoice durations and how you see that trending in your more recent conversations as we go forward. 
+Keith Jensen
+Invoice duration was that -- I'm sorry was that the question? 
+Calvin Patel
+Yes. 
+Keith Jensen
+Yes. We've been right at that, despite what maybe some other competitors expected to see one year 1.5 years ago. I think we've been very consistent throughout that time frame at about 25, 26 months. 
+Calvin Patel
+All right. Perfect. And then just as a follow-up, if you could comment a bit more on the competitive landscape in firewall this time not just on the SD-WAN segment? And if you think that there will be some level of digestion to occur over the next year or not? 
+Ken Xie
+We're keep gaining market share quickly in the firewall market. But also I believe going forward, we keeping saying this for a long time. Almost since beginning of -- we started the company 20 years ago. So the new networking will be more secure-driven. So instead the networking routing switch all about connectivity and speed they need to make sure they can give with application. That's why SD-WAN is application based on the routing networking and also they can deal with all the content and also user device level. That's all security handling.
+So that's where we see probably the traditional -- whether the traditional network security which is on a security border or the traditional networking probably also need doing some transition change. So the network security is still about $20 billion market probably. And the traditional networking may be $70 billion, $80 billion market. But they probably will starting merging and transitioning change. We feel we're leading this changing. And there will be -- we're also in very good position very good technology to really address the new secure-driven networking. 
+Calvin Patel
+Thank you guys.
+Operator
+Our next question comes from Rob Owens with Piper Sandler. Your line is open.
+Justin Roach
+Hey guys, this is Justin on for Rob. I just had a quick one on the federal government vertical strength in the quarter just how it was trending relative to your expectations? And maybe if there is anything that we could impact on what drove the strong quarter? 
+Keith Jensen
+Yes. It's not -- if you go back and look at the phrase very closely we're not talking about U.S. Federal. We're talking about government which for us is more international government as well as local governments. U.S. Fed is not a large part of our business. 
+Justin Roach
+Got you. And then also just a quick follow up maybe just on your pipeline relative to where it's sitting now relative to last year and how you feel going in the fourth quarter just given it's usually historically your biggest? 
+Keith Jensen
+Yes. Well pipeline is probably the biggest input to the guidance setting process right? And there's all kinds of different ways of slicing and dicing it when we go through that whether it's deal size whether it's new logo versus an existing customer whether it's a new deal versus a renewal deal or what have you. And I think that clearly the pipeline supports the guidance. 
+Justin Roach
+Got it. Thank you.
+Operator
+Our next question comes from Patrick Colville of Deutsche Bank. Your line is open. 
+Patrick Colville
+Thank you for taking my question. And congrats on a very impressive quarter. Can we just talk about SD-WAN again? The result you guys put out was super-impressive doubling of growth year-on-year. We have been hearing the media on checks around some firms kind of closing or rationalizing their branch offices. So clearly that hasn't had any effect on your business. But can you just talk me through whether you've heard that amongst your customers, or anything related to that point would be great? 
+Ken Xie
+Yes. Because it's a huge benefit for forward and the price of some other customers even including the home user consumer to us SD-WAN as it costs probably more than a 50% cost saving. And also they offer like how to manage multiple links among different kind of application and because the fixed connection whether the MPLS or some other one has a difficult time to manage like different application based on different cloud or kind of a different dynamic environment.
+So SD-WAN is the technology they can manage the traffic based on different applications even different content or some other security need as FortiGate's doing. It's a huge benefit for the user. That's driving the growth even during this pandemic. And also we believe the long-term work-from-home can also quickly expand into a lot of consumer home user base. And just try to improve in the service supporting level from that angle, we should be working with a lot of service provider or some big enterprise right now. 
+But as a long term we do believe they may change in the home networking space. It's just like whether you can software define or whatever application or content-based networking which can offer a lot of additional benefit compared to the fixed network kind of VPN access. So it gets a lot of customer interest. That's the reason the market grow like 50%. And I believe probably I don't know how long maybe 10 years or could be sort of longer eventually we do believe half of majority of the whole networking space mainly this kind of SD-WAN approach based on application content without the traffic. 
+Patrick Colville
+Great. That's very clear. I mean one of the points you made was around I guess the devices at the branch office. I mean how often does the FortiGate SD-WAN solution sits alongside a traditional router? And how often is it a replacement of the traditional router? 
+Ken Xie
+We only need one FortiGate replace our router out of security or the Wi-Fi access controller all these kinds of thing. It's a single device as a multifunction can replace like a three, four, five device including router, including the SD-WAN and including the security gateway, VPN and then also the Wi-Fi controller. 
+Patrick Colville
+And just a clarification. Is your point that in most cases FortiGate is a replacement for those devices? 
+Ken Xie
+Yes. Replaces multiple device altogether and become only device to stay there. 
+Patrick Colville
+Got it. Thank you so much for your time. Really appreciate it.
+Ken Xie
+Thank you.
+Operator
+Our next question comes from Gray Powell of BTIG. Your line is open.
+Q – Unidentified Analyst
+This is Stefan on for Gray. Thanks for taking my question. Piggybacking off the last question about the branch office. Have you seen any meaningful change in demand or mix of growth between the branch office and data center firewalls? 
+Ken Xie
+Yes. And that's where you can see sort of vertical whether retail or whatever we still see pretty strong growth. I think I believe Keith mentioned maybe grow 40% something like that. And also the bigger potential is really the home is the new branch. So that's we're probably even bigger. But that's still in early stage because you still need help in the home user to manage some of that. I know service a lot of service providers right now are working with us, but at the same time certain enterprise also try to do that. 
+Q – Unidentified Analyst
+Thank you. And as a follow-up, can you just talk about the linearity that you saw in the third quarter? There was some mention of deal delays in the U.S. Did those end up landing this quarter? 
+Keith Jensen
+I think you're talking about deals from Q2 that delayed. Do they come in the third quarter? The answer to that would be yes. We were pleased with what we saw. Well, we were pleased with what we saw in July in terms of the start that we got in the quarter. 
+Q – Unidentified Analyst
+All right. Thank you.
+Operator
+Our next question comes from Adam Tindle of Raymond James. Your line is open.
+Alex Frankiewicz
+This is Alex Frankiewicz on for Adam. Thanks for taking my questions. I just wanted to touch on SD-WAN one more time. I was wondering how important is your ASIC in bake-offs? How important is that performance boost to customers and on SD-WAN? Are you finding that it's becoming more of a driving factor in purchasing decisions or do other core capabilities and functionalities come first when a customer is making a decision? 
+Ken Xie
+Yes. The ASIC gives them like almost 10 times more computing power. So that's where they can add like a security function manage other like Wi-fi some other device and at the same time can process traffic much quicker and can also like working with service providers some other one make sure that it's a total infrastructure security solution. So that's a huge advantage compared to the other software approach which they have a limited CPU computing power to many whether security or SD-WAN or some other like the platform which can only handle single function compared we build this for the ASIC versus FortiOS can handle multifunction replace multiple device. So that's where we see as a huge advantage. 
+Alex Frankiewicz
+Okay. Thanks. And then just a follow-up. Looking ahead, more than just a few quarters looking kind of a couple of years out what kind of rule of 40 margin profile are you targeting? Are you focused solely on top line growth, or could you expect -- could we expect to see some margin drop-through to the bottom line? 
+Keith Jensen
+Yes. I'm managing Ken very closely. 
+Ken Xie
+He's many me very closely. 
+Keith Jensen
+We talked about our midterm range of being we want to have 25% operating margin right? The strategy remains the same balancing growth and profitability. We started the year believing that we would tilt towards growth. As we went through the year, I think the pandemic obviously impacts the ability to grow in a couple of those quarters. But longer-term, we still believe it's a balanced strategy towards balancing profitability and growth. We do believe there is an opportunity for growth no doubt about it. 
+Alex Frankiewicz
+Okay. Perfect. Thank you, guys.
+Ken Xie
+Thank you.
+Operator
+Our next question comes from Fatima Boolani of UBS. Your line is open.
+Fatima Boolani 
+Thank you, gentlemen for letting me to hop back in. I wanted to double back on the billings questions earlier on. The calculated billings based on your deferred revenue disclosure and disclosed reported revenue sum to $720 million in the quarter. And so I just wanted to appreciate that $30 million delta between what you have in the press release and in the reported numbers and calculating the billings off the balance sheet deferred revenue metrics? 
+Keith Jensen
+Sure. When you have some housekeeping going on Fatima, I'll jump into. This is Keith. You can have one or three things. You can have something that's so small you just run it through in the current period. You can have something so large that you restate the prior period financial statements. You can have something in the middle, which is called a little R where you're going to recast financials. That's what this is. That $30 million when you see the 10-Q will come out of the opening retained earnings back in December 31 of 2017 I believe it is. And just from that point forward that the amortization starts being corrected.
+So internally, we have the information for you to actually track right now with the billings recalculation of that you need to see Q2's number as recast, right? And that's not in the financials that you have, right? So $30 million came out of deferred revenue three years ago for something that's been going on for many, many years in this small transaction type. And it finally became large enough to correct, right? The number that we reported is based upon recast revenue and recast deferred revenue for billings.
+Fatima Boolani
+Fair enough. So it's essentially a cumulative impact that we'll see the details for -- in the filings at least?
+Keith Jensen
+Yes. That's why I gave the quick sound bite earlier that the quarterly impact to revenue typically runs for each of the quarters that we looked at between 0.1 points and about 0.5 point of revenue. It's a very small item in any one quarter. 
+Fatima Boolani
+Understood. That's very clear. Thank you. And since I have you, Ken a question for you just around the SD-WAN discussion. From a product standpoint, I think there's a debate that's brewing between the thin branch architecture versus a thick branch deployment architecture within the SASE paradigm. So I'm wondering how Fortinet is positioned in the former. So in the thin branch arena if we think about the thick branch environment may be under potential duress in an increasingly uncertain macro environment. And that's it for me. Thank you.
+Ken Xie
+I think both branch can fit into different environment. The thin branch sometimes it can stop certain mobile device issue. And the thick branch also can process the things locally in the real-time a lot of application need that. So the FortiGate is more like a POP in local whether in home or whatever in the office or it's in the POP and SASE environment. Which you can see how they process the traffic within the SASE infrastructure. That's how our FortiGate is the key point to really get this processed.
+So that's also because our -- it's an advantage. We have huge computing power advantage over other approach, which give us a kind of much better performance also lower cost. So that's where we had the flexibility converted to the appliance and on-premise or can be the virtual fit in the cloud or be part of the POP/SASE solution. So give us the flexibility and also can extend beyond some other competitor, other players can do which -- because if they're only limited for the software approach, they can only sit in certain server within the POP in the data center.
+So we can extend beyond that one go to the edge, go to the home and go to a lot of even other remote location. And that's also kind of using my quote from the Gartner is really -- so in the next few years that's what comes from Gartner research. They say the edge and the immersive technology will replace in the cloud and mobile. So that's where you see you need to have more computing everywhere in the real-time application environment. So that's where we developed is ASIC and all these different technology to working with our different service providers or different kind of vertical space to address this issue, especially the infrastructure keep changing with 5G with all this like. That's where the ASICs have more advantage compared to the software-only approach.
+Fatima Boolani
+Very clear. Thank you so much.
+Ken Xie
+Thank you.
+Operator
+Our next question comes from Patrick Colville of Deutsche Bank. Your line is open.
+Patrick Colville
+Hi, there. I'm copying Farima and hoping back in. Appreciate you letting me ask another question. How much did the Gartner's conclusion of Fortinet in the top-right corner of the SD-WAN MQ influence customer decision making? This time a year ago, you guys were just outside of the top-right corner and now you are in it. And so was that something that in your opinion might have changed the dialogue a bit and got Fortinet on more RFPs?
+Ken Xie
+It helps on certain enterprise, but we also have a much broader sector and also the geo diversity. It's probably now that -- depending too much on the Magic Quadrant. But it's -- and we also have a -- like because -- like the new Magic Quadrant only come on end of the quarter. It's come up in September 30, the last day of the quarter. So I don't think…
+Keith Jensen
+We don't close that fast.
+Ken Xie
+Yeah. Sorry, I don't think we can't get that much business in the last day of the quarter in Q3. But it's helped probably more going forward.
+Keith Jensen
+We certainly expect it's going to be helpful and a tailwind for us going forward yes.
+Patrick Colville
+Great. Thank you so much.
+Keith Jensen
+Thank you.
+Operator
+There are no further questions. I'd like to turn the call back over to Peter Salkowski for closing your remarks. 
+Peter Salkowski
+Thank you Michelle. I'd like to thank everyone for joining today's call. Fortinet will be attending conferences by the way -- attending conferences in the fourth quarter. The Credit Suisse conference is on November 13th, as well as December 2nd, Raymond James conference on December 7th, the UBS conference on December 8th, and a Barclays conference on December 9th. Events with presentations will be webcast and the links will be available on our website the Investor Relations website at Fortinet. If you have any follow-up questions please feel free to contact me. Have a great day. Thank you very much. Take care.
+Operator
+Ladies and gentlemen, this concludes the conference. You may now disconnect. Everyone have a great day.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+3 Authors in the Last 90 Days

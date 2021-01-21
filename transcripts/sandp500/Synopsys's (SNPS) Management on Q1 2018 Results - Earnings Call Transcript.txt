@@ -1,0 +1,259 @@
+Synopsys, Inc. (NASDAQ:SNPS) Q1 2018 Earnings Conference Call February 21, 2018  5:00 PM ET
+Executives
+Lisa Ewbank - Vice President, Investor Relations
+Aart de Geus - Chairman & Co-CEO
+Trac Pham - CFO
+Analysts
+Gary Mobley - The Benchmark Company
+Rich Valera - Needham & Company
+Brent Thielman - D.A. Davidson
+Farhan Ahmad - Credit Suisse
+Sterling Auty - JPMorgan
+Jay Vleeschhouwer - Griffin Securities
+Monika Garg - KeyBanc Pacific Crest
+Mitch Steves - RBC Capital Markets
+Operator
+Ladies and gentlemen, thank you for standing by. And welcome to the Synopsys Earnings Conference Call for the First Quarter Fiscal Year of 2018. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session, and instructions will be given at that time. [Operator Instructions] Today's call will last for one hour. Five minutes prior to the end of the call, we will announce the amount of time remaining in the conference. And as a reminder, this conference is being recorded.
+I would now like to turn the conference [Technical Difficulty].
+Lisa Ewbank
+Thank you, Susan. Good afternoon, everyone. With us today are Aart de Geus, Chairman and Co-CEO of Synopsys; and Trac Pham, Chief Financial Officer.
+Before we begin, I'd like to remind everyone that during the course of this conference call, Synopsys will discuss forecasts, targets and other forward-looking statements regarding the company and its financial results.
+While these statements represent our best current judgment about future results and performance as of today, our actual results and performance are subject to many risks and uncertainties that could cause actual results to differ materially from what we expect.
+In addition to any risks that we highlight, important factors that may affect our future results are described in our most recent SEC reports and today's earnings press release. In addition, we will refer to non-GAAP financial measures during the discussion. Reconciliations to their most directly comparable GAAP financial measures and supplemental financial information can be found in the 8-K, earnings press release, and financial supplement that we released earlier today.
+All of these items, plus the most recent investor presentation, are available on our website at synopsys.com. In addition, the prepared remarks will be posted on the site at the conclusion of the call.
+With that, I'll turn the call over to Aart de Geus.
+Aart de Geus
+Good afternoon and thank you for joining us. Q1 was an excellent start to the year as we delivered double-digit growth in both revenue and earnings. Revenue was $769 million and non-GAAP earnings per share were $1.10 both above our target ranges. We continue to return capital to shareholders initiating a $200 million share repurchase and we closed the important acquisition of Black Duck Software. Trac will discuss the financials in more detail.
+The market we serve through our three customer groups; semiconductors, systems companies, and software developers had a very strong 2017. The semi industry grew 19% and I'm always forecast a positive outlook for 2018 and beyond with growth expectations in the high single digits. Driving the market are three important dynamics; smart everything, sophisticated hardware software interaction and the universal need for software security.
+First, the new age of smart everything or digital intelligence is unfolding rapidly. Applying machine learning to massive quantities of big data requires dedicated high-performance processing, huge storage capacity, and broad connectivity bandwidth. Innovation and investments in AI chips are growing rapidly moreover digitization and early results in verticals such as automotive, industrial, medical, financial, virtual reality and many others are readily visible.
+The race is very much home and Synopsis is front and center with tools and IP to support the development of extremely advanced machine learning chips. Second, the intersection of dedicated high-performance hardware with vast amounts of sophisticated software is at the core of both challenges and opportunities manifested in particular with systems companies. Simply stated, faster compute enables more sophisticated software and rapidly advancing software demands still faster compute. The intersection of hardware and software is the center of gravity of Synopsis strategy and verification, emulation and prototyping.
+And third, the proliferation of connected devices across virtually every aspect of life makes finding security vulnerabilities early in the software development process an imperative. This is certainly paramount for systems that touch human life society's infrastructure and high value industrial and financial system. Here too Synopsis has carved out a unique technical and market leadership position and our Software Integrity Group has been growing well.
+Summarizing the opportunities, Synopsis is in a position today to address all of these dynamics and participate in this exciting way. We have a unique combination of leading technologies reaching from Silicon to Software with particular emphasis on the intersection of the two. Our company is global with a strong and experienced feel and support team and over the years we've executed well while having the courage to invest in adjacent growth opportunities ahead of the curve.
+Now to some Q1 product highlights spanning Silicon to Software. At the foundation of Silicon, Synopsis continues to help drive the development of state of the art new technologies enabling the most complex chips. FinFET designs require highly advanced performance, area, yield, and low power capabilities. As a pioneer and leader in FinFIT the design enablement, we are relying on for over 90% of these chips. Supporting development of the most advanced devices, our TCAD, technology computer aided design continues to advance to smaller and smaller circuits. Now including five, three and two nanometer nodes.
+These dimensions traditional TCAD needs to evolve in order to simulate individual layers of atoms. Over the last two years, Synopsis has invested in this capability and our TCAD is now capable of doing so-called atomistic simulation. Our digital design platform centered around synthesis, place and route and sign off continues to drive advanced customer results and growth.
+During the quarter, we won a business-critical AI targeted design and had a significant competitive displacement at a high-profile US systems company both driven by excellent low power results. Success with advanced process technology also continues. One example was a competitive win on an ARM CPU implementation in China driven by better total power consumption results. Reflecting the compelling benefits of integration of physical verification into our core digital flow IT house known for its A6 for industrial automotive and medical technology selected IC Validator replacing incumbent tools.
+Our custom analog product group also posted a strong quarter. Custom Compiler continues to grow, we've made inroads into larger Asian semiconductor companies expanding our footprint versus the incumbent. In addition, demand for our mixed signal simulation in memory and automotive segments is high as customers accelerate their move into next generation DRAM and 3D NAND memory design.
+Now to verification where we continue to deliver outstanding results and grow. Our Verification Continuum platform is the most comprehensive solution in the market today utilizing the fastest engines across the board and with the number one position in both software and hardware verification. In Q1 our franchise VCS simulator displaced the incumbent at a marquee US systems company and a large broad-based semiconductor provider.
+Our hardware based ZeBu emulation and HAPS prototyping again delivered very strong growth and broad-based customer adoption. In Q1 ZeBu deployments included leading companies such as AMD, Broadcom, HiSilico and NXP.
+In addition, we announced a partnership with the French alternative energies and atomic energy commission, a key player in technology research. The partnership enables advancements of ZeBu as the leading SOC emulation tool for the European automotive industry. Moving to our IP product, we continue to deliver double-digit revenue growth with strength across the board. Our excellent results are derived from the high reliability and quality of our broad portfolio of interface, memory, analog, security and processor IP along with our very skilled and dedicated global support teams.
+Over the past several months, we further expanded our IP portfolio with the acquisitions of Kilopass and Sidense augmenting our non-volatile memory offering. Solid adoption of our security IP continues, with significant wins at several leading semiconductor companies, one of which is using our IP for its high-value autonomous driving SoCs. Also in automotive, we see continued traction of our embedded vision processor and certified interfaces.
+Let me pause for a moment on automotive. While many verticals are racing towards a world of smart everything, automotive is simultaneously moving to car electrification and autonomous driving, while having to maintain and extend safety and security requirements. The tongue-and-cheek quip of the car becoming a computer on wheels is actually not an exaggeration at all. In the last few years, we have therefore significantly increased our focus on this sector.
+Today a growing customer base, ranging from car OEMs, to tier 1 suppliers, to semiconductor providers, to AI chip and algorithm specialists, rely on Synopsys across our EDA, IP and Software Integrity platforms. Synopsys tools are used to address critical safety and security requirements across the automotive development lifecycle, including virtual prototyping and verification to aid in system development, safety-standard certified IP, ISO certified EDA tools, optical solutions for automotive lighting, and software security testing to drive secure, high-quality code.
+Which leads me to our Software Integrity group, whose goal it is to provide products and services to build security and quality into the software development lifecycle, and across the entire cyber supply chain. Our strategy to accomplish this is two-fold. First, offer a Software Integrity platform that covers a broad range of programming languages and security testing solutions. In this highly fragmented market, with scores of point tools for sale, a comprehensive platform from a global, reliable supplier is highly valuable.
+And second, provide company leaders with high-level consulting and benchmarking to help them assess their current threat environment, and devise plans of attack to address the security problem throughout their software development process.
+In the last four years, we've systematically built our Software Integrity Group to critical mass through both organic execution and strategic acquisitions. Top off by the acquisition of Black Duck this quarter, our brand is solidifying, and industry experts are recognizing the strength of Synopsys' strategy and portfolio.
+At this point, we've been rated by Gartner as a Leader in their Magic Quadrant for application security testing. Just last quarter, we were also named a Leader in the Forrester Wave for static application security testing, while we also achieved a Leadership designation in IDC's Marketscape for quality analysis. These recognitions make a difference, as they facilitate gaining access to the top levels of company executives across many industries. We experienced product strength across the board and continued to close large new and renewal contracts with companies and industries ranging from financial service to automotive. Our consulting business group is working at capacity, and the value of our engagement is steadily increasing.
+As mentioned, we closed the acquisition of Black Duck, a leader in open source testing for both security vulnerabilities and license compliance. The integration is progressing smoothly with bookings and revenue well on track. The highly respected Black Duck brand and market position have also brought further positive attention to Synopsys as the emerging software quality and security company.
+In summary, we started fiscal 2018 on a strong note, exceeding expectations and raising our full-year guidance; we're seeing very good momentum with our EDA platforms, continued strength and expansion of our IP portfolio, and excellent progress in Software Integrity as we continue to invest and broaden our TAM in this emerging market.
+Let me now turn the call over to Trac.
+Trac Pham
+Thanks, Aart. Good afternoon everyone. Q1 results were very strong and we continue to see good momentum in the business. Our financial results met or exceeded our expectations across all key metrics. Let me provide a few highlights from the quarter. We achieved our highest quarterly revenue and non-GAAP earnings per share to date, even when excluding the impact of an extra fiscal week, which contributed $46 million to revenue and $0.07 to EPS.
+We also initiated a $200 million accelerated share repurchase, continuing our commitment to a balanced strategy of internal investments, M&A for long-term growth, and buybacks. Based on our record Q1 operating performance and the favorable new corporate tax rate, which I'll discuss in more detail shortly, we are raising our 2018 revenue and non-GAAP EPS outlook.
+Now to the numbers, as I talk through the results and targets, all comparisons will be year-over-year unless I specify otherwise. Total revenue increased 18% to $769 million. The results were above our guided range and reflects strength across our broad product portfolio. Excluding the extra week in Q1, revenue grew 11%. The weighted average license duration was approximately three years, which we forecast to be our annual average as well.
+Total GAAP costs and expenses were $662 million. Total non-GAAP costs and expenses were $573 million, with operating margin at 25.5% percent. GAAP earnings per share were negative $0.02 cents, reflecting a one-time, GAAP-only expense due to tax reform. The impact was two-fold; a $46 million write-down of our deferred tax assets to reflect the new U.S. statutory rate, and a one-time transition tax of $73 million on our offshore earnings that remained after we repatriated cash in Q4. Non-GAAP earnings per share were $1.10, a 17% increase that includes an $0.08 benefit from a lower non-GAAP tax rate.
+Let me pause for a moment on taxes. Because of the reduction in the U.S. statutory tax rate, our non-GAAP rate decreased from 19% to 13% for fiscal 2018. As certain parts of U.S. tax reform and various international changes take effect in fiscal 2019, we expect the non-GAAP rate to increase next year. At this time, we expect the rate to be below our previous 19% normalized rate, but we are still working through the details and will provide a more definitive projection later in the year.
+Operating cash outflow was $59 million for the quarter, due to our normal year-end incentive 
+compensation payout, partially offset by strong collections. We ended the quarter with cash and cash equivalents of $606 million with 24% onshore, and total debt of $572 million. Including the $200 million ASR that we launched in Q1, our trailing twelve-month buyback as a share of free cash flow is greater than 100%. We have $200 million remaining on our current authorization and are reaffirming our goal of using buybacks and keep share count roughly flat with last year.
+M&A was also a significant use of cash in the quarter, as we closed two acquisitions, Black Duck and Kilopass. As we mentioned in December, we expect Black Duck to contribute roughly $55 million to $60 million in revenue, which reflects a purchase-accounting deferred revenue haircut of about $20 million to $25 million. We expect it to be $0.12 dilutive to 2018 non-GAAP EPS, reach breakeven in the second half of 2019, and be accretive thereafter.
+Before I turn to guidance, I'll briefly comment on the upcoming transition from Accounting Standard Topic 605 to Topic 606, which will go into effect for us in fiscal 2019 beginning in November. Because the actual impact of the transition will depend on future bookings throughout this year, we cannot provide concrete guidance on the expected impact. However, based on what we know now and our expectations for the year, we expect the revenue impact to be immaterial. We will provide more definitive commentary with our fiscal 2019 guidance. And as a reminder, this is an accounting change only, and will not impact our cash flow or how we think about our business.
+Now to second quarter and updated fiscal 2018 guidance. As we mentioned in December, we expect first half revenue and earnings to be greater than the second half. Because of a shift in timing of customer hardware requirements, Q2 is expected to be even stronger than our original expectations, creating a more pronounced difference between first and second half. As you've seen in the past couple of years, as our hardware revenue has grown, the profile of revenue has become more variable and will fluctuate due to changes in customer schedules.
+For Q2, the targets are revenue between $765 million and $790 million, total GAAP costs and expenses between $637 million and $653 million, total non-GAAP costs and expenses between $575 million and $585 million. Other income between minus $1 million and positive $1 million, a non-GAAP tax rate of 13%, outstanding share between $153 million and $156 million, GAAP earnings of $0.69 to $0.77 per share; and non-GAAP earnings of $1.06 to $1.10 per share.
+For 2018, the revised guidance are revenue of $2.92 billion to $2.95 billion, an increase of $40 million over our previous target. Other income and expenses between minus $6 million and minus $2 million, and annualized non-GAAP tax rate of 13%, outstanding shares between 153 million and 156 million, GAAP earnings of $1.59 to $1.69 per share, non-GAAP earnings of $3.67 to $3.74 per share, due to the favorable effects of tax reform. Capital expenditures of approximately $110 million, and cash flow from operations of $500 million to $550 million.
+To summarize, we delivered a record quarter for revenue and non-GAAP earnings. Based on our excellent Q1 performance and strong 2018 outlook, amplified by favorable tax reform, we're raising our guidance for 2018. Finally, we continue to execute well on our capital allocation strategy striking an appropriate balance of organic and inorganic investments, plus returning capital to shareholders, to drive sustainable, long-term value.
+With that, I'll turn it over to the operator for questions.
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions] And the first question comes from the line of Gary Mobley with Benchmark. Your line is open, please go ahead.
+Gary Mobley
+Hi guys, thanks for taking my question. Congrats on a strong start to the year.
+Aart de Geus
+Thank you.
+Gary Mobley
+So, if I do the math right it looks like if you adjust for the additional week in Q1, your guidance implies the second half that is what 6% lower than the first half and could you give any - confirm that first of all and give us the parameters that is causing you to be so conservative with respect to second half?
+Aart de Geus
+That's right Gary, you are looking at the first half that is going to be stronger than the second half. I would characterize the second half has been weak as more just a fact that the timing of our hardware shipments has skewed more to the first half as a result of what the customer schedules are requiring.
+Gary Mobley
+And just to confirm, so Software Integrity Group on pace for what roughly $260 million considering the purchase accounting headwind and what roughly $300 million without the headwind.
+Aart de Geus
+Well, we haven't disclosed the exact numbers. We've given you pretty good hints as we acquired different companies over the years. All of this area is growing above 20% per year organically and of course the acquisitions have accelerated to that. Fundamentally you're in the right ballpark, but we don't disclose the specifics. But I would say that our sense is that this business has definitely reached critical mass, meaning that the ingredients that we have, the technical position but also our ability to leverage the acquisitions well in the field support the customer as well on a global basis has definitely strengthened substantially and this quarter for us was a very clear sign that the group is well managed and that we see upside going forward.
+Gary Mobley
+Okay. I'm assuming your guidance included the consideration for the additional week, so considering that it looks like you reported roughly by 2% of revenue upside and organic revenue growth of 11%. And can you point out one or two factors that are driving the revenue acceleration of the revenue upside for the quarter?
+Trac Pham
+Gary, you're right. The guidance did include the extra week and your calculations in the ballpark. I would say that across the board is very good quarter, we had good growth across all the business lines. We did see little bit more strength in the Software Integrity business and to a less extent hardware as well.
+Gary Mobley
+Okay. I'll hop in the queue. Thank you, everyone.
+Aart de Geus
+Thank you.
+Operator
+And the next question comes from the line of Rich Valera. Your line is open, please go ahead.
+Rich Valera
+Thank you. Just following-up on that same line of questioning. Core EDA was particularly strong in the quarter on a year-over-year basis. Can you highlight what were some of the drivers of the strength in the core EDA business?
+Aart de Geus
+Well, I think it's useful to start with the big picture which is fundamentally we're still in a very strong high-tech market and specifically semiconductor related market for really no surprising reasons the acceleration towards the world changing towards a smart everything investment sets that will literally impact every vertical is continuing.
+Now, I think we will over the year see some up and down for semiconductors which is normal but in aggregate it's sort of a strong phase of the industry within that every aspect of our business is putting to tasks to actually help with this and it starts with the fact that there's a whole bunch of new chips being designed specifically in AI on the premise that while general computing has brought us reasonably far and graphics chips have moved it even further.
+If one could create chips now that we're still much faster one could still do much more AI and I think that will continue and so that's where we see new entrants, we see investments in sophisticated chips and across the board both in the design side in the IP and the verification all of this is pretty much all in the state of the art FinFET group. So that drives pretty much the whole front.
+Rich Valera
+Got it. And then Trac was any of the $40 million that you raise the guidance by from the couple of small acquisitions you made I think Kilopass and Phoenix?
+Trac Pham
+No, it was not. I mean, I'm sorry to a modest extent but from the most part organic growth.
+Rich Valera
+And sort of similarly, it looks like if you lower the tax rate by the 6% roughly there that you'd get around I think $0.26 of benefit. You're raising your EPS guide by a bit less than that. Are you kind of electing to reinvest a little bit of that upside from the tax rate into the business or is there may be a little dilution from those acquisitions?
+Trac Pham
+I wouldn't turn it to the dilution. From the most part, we're off to a good start for the year with the results in Q1. We're giving the best outlook we have at this point based on our visibility. And I think that's pretty early in the year, so we've got several questions left to deliver on.
+Rich Valera
+Fair enough. Thanks. Congratulations on the nice quarter.
+Operator
+Thank you. And I apologize Mr. Valera was from Needham and Company. The next question comes from the line of Tom Diffely from D.A. Davidson. Your line is open, please go ahead.
+Brent Thielman
+Hi, good afternoon. This is actually Brent Thielman for Tom. Thanks for taking my questions. First one on your IP business, how much of it is it currently ratable up front?
+Trac Pham
+I'm sorry, we missed that question.
+Brent Thielman
+On your IP business, how much of that business is currently ratable versus upfront?
+Trac Pham
+I would say more than two-thirds of that is time based and I'm being specific about time base rather than ratable because there's a good portion of consulting or consulting business that is recognized on a percentage of completion basis.
+Brent Thielman
+Okay. Thank you. And then Asia Pacific was actually the only reason that declined sequentially during the quarter, can you give us any color as to how China is doing in particular in the Software Integrity business side and then are there any emerging trends that are perhaps different from the rest of the geography?
+Trac Pham
+You know, I think looking at the quarter-by-quarter in our business while may be giving you some insight is actually not the best way to look at Synopsis. Everything we ourselves always look at is at a minimum of trailing 12-month basis and if you did that for Asia Pacific, you would find that it's far and away the highest growing region and China in general is one of the hard drivers, positive drivers for that.
+So, I would not read anything into a specific quarter at all. Fundamentally, we're doing extremely well in those areas.
+Brent Thielman
+Okay. Great, thank you. And then one last question regarding M&A. Over the past year and a half given opportunistically acquiring a few companies in IT and software. How are those trailing under your current portfolio and then how are those being integrated at this time?
+Trac Pham
+Well, you know the integration is something that we already look at during the process of doing the acquisition because fundamentally we try to follow what we call the rule of adjacency which is trying to find businesses that are different from what we have, but close enough to minimize risks and leverage what we have and the adjacency falls into the technical adjacency, channel adjacency or customer adjacency.
+And so, from that perspective, the minute a new team joins us we try to integrate quickly all the infrastructure functions, all the business functions when it makes sense and when it goes to the same customers typically the same sales people deal with it and this is a process of making sure that that it's like two trains in movements merging at the same time and doing that without losing any of the speed, I guess there is some Olympic analogy here somewhere.
+And so, I think we've done quite well with these acquisitions and to take the largest one that is ongoing Black Duck right now, while it is not all that long ago that we closed. We can already say that it has had a very positive impact on our relationship with customers because Black Duck has an outstanding market position, but also an outstanding brand. And it fits very well and is extremely complimentary to what we already have and so that's a good example of what we try to do in the different areas and you were correct to highlight that we did a number of those in the Software Integrity Group as well as in the IP group and it's essentially the same story there.
+Brent Thielman
+All right great. Thank you and then one last one if I, one quick follow up if I could. I guess with the amount of cash that you have right now in hand, what are the pieces of technology are you looking to acquire over the next several months?
+Trac Pham
+Well this is one of those questions where we always mumble our way through it, as we don't really want to indicate what our next steps are. Let me just generalize it, as you know over the years we have never been shy to acquire but we're also not shy to invest ourselves and so we try to do balance between R&D investments and acquisitions to keep us on the leading edge and also to allow us to sometimes enter domains that would take too long to do on our own.
+And this is only possible if one continually looks at the opportunities around the vast majority of the things that one may be interested in actually never materialized and such a relatively small percentage that ultimately gets acquired but that percentage is harvested over a long period of time. And so, we're on the lookout but we won't necessarily give you the next names yet.
+Brent Thielman
+Alright. Thanks a lot.
+Trac Pham
+You're welcome.
+Operator
+The next question comes from the line of Farhan Ahmad with Credit Suisse. Your line is open please go ahead.
+Farhan Ahmad
+Thanks for taking my question and congrats on the result. My first question is regarding the tax reform. We have the tax reform passed recently and as part of that now you have access to all your ongoing free cash flow generation without worrying about what's onshore versus offshore. So, how are you thinking about the capital structure of the company and is there any change in how you view the business given the tax reform in the onshore versus offshore cash submission?
+Trac Pham
+Hi Farhan, this is Trac. So, you're right. The tax reform does provide more flexibility to us however, if you look at our history over the years we've done a pretty job of balancing on between investing in the business while doing buybacks and acquisitions. That's been fairly successful to-date, so I would expect that we continue on that path.
+Farhan Ahmad
+Got it. And then one question just on the linearity of the yields and I look at the guidance, the guidance for the full year, the second half fiscal seems like you are pretty much flat year-on-year for revenue growth. How much of it is conservatism versus just something really going on with the hardware business, because it seems like the growth has been more than 10% for about six quarters and now suddenly you are going from like 14% implied in the quarter you have brought to basically 0% in second half of the year?
+Aart de Geus
+I would first point you to the guidance for the full year where we've raised our revenue range for the year from 7% to 8% growth. I think that's very healthy growth. What you are seeing in the second half is just the shift of the time in hardware, I wouldn't characterize it as being conservative or just anything wrong with the software business.
+As I said in our initial remarks we're seeing very good execution across all of our businesses whether you're talking by products or by region. So, it's just a function of profiling of course in the quarter.
+Farhan Ahmad
+Got it. And just one gridlock question. Have you given any thought to starting to report your Software Security business? It's obviously becoming almost like 10% of your revenues and it's not yet profitable. So, it's kind of I would argue that we are not getting any credit for it in terms of how investors are looking at the business.
+So, have you given any thought to just expediting the business or at least in the sense from a segment reporting point of view?
+Trac Pham
+Yes, this year we are very much focused on integrating Black Duck and executing that plan. We're excited about the fact that we are hitting critical mass in that space and throughout this year as we evaluate how best to manage that business the reporting I think will fall out of that. So, we'll have more to describe later in the year as we have more clarity on that.
+Farhan Ahmad
+Thank you. That's all I have.
+Trac Pham
+Thank you.
+Operator
+Thank you. The next question comes from the line of Sterling Auty with JP Morgan. Your line is open, please go ahead.
+Sterling Auty
+Yes, thanks. Hi, guys. Just want to start with the upfront revenue just want to make sure you talk strength in ZeBu, was the hardware the main component in the upside and the upfront revenue in the quarter or was there strength in other parts as well?
+Trac Pham
+As I said previously, there were strength across the board. But when, if you're looking at the upfront portion specifically that's where hardware will show up.
+Sterling Auty
+Okay. But relative to your expectations how would you characterize the strength in that revenue line. How much do you see or you think was hardware versus other items?
+Trac Pham
+Marginally. I think most of the upside was across very good strength across all of the businesses.
+Sterling Auty
+Okay. And then given the transition tax and other, can you just talk about the cash flow in the quarter what items may have kind of weighed down the cash flow in the quarter and obviously a good deferred revenue contribution. But what were the things that maybe took away from some of the cash flow strength?
+Trac Pham
+Yes. For Q1 specifically, keep in mind that's when we payout our variable comp from last year. So that really weighs mostly on the Q1 results. Sterling is that what you are referring to?
+Sterling Auty
+Yes. But even looking at it on a seasonally adjusted basis, it was more than I would have expected. So, I don't know if there was actually cash tax payment timing with repatriation or other items that maybe would have weighed on cash flow in the first quarter.
+Trac Pham
+No, the biggest part is that we typically do see a negative outflow in Q1 related to variable comp. There are some other puts and takes, but that would be the largest component of that.
+Sterling Auty
+Okay. And then last question again, just around cash flow. You are raising the full year revenue by $40 million, but you're leaving the cash from operations range unchanged. Is there anything to be read into that?
+Trac Pham
+No, it's really frankly early in the year and cash flow typically is the hardest one, hardest metric for us to project. Keep in mind that when you look at the full year that there's a few unusual items, last year we had a one-time benefit from a $30 million for a top tech and then this year we've got a couple of unusual items that we've highlighted before.
+So, at this point we're off to a good start but it is pretty early to make a call on cash flow.
+Sterling Auty
+Okay, thank you.
+Trac Pham
+You're welcome.
+Operator
+Thank you. The next question comes from the line of Jay Vleeschhouwer from Griffin Securities your line is open. Please go ahead.
+Jay Vleeschhouwer
+Thanks. Good evening. Aart let me come back to the question regarding core EDA software momentum, Rich asked about that earlier. And the question is this historically if you go back over the last two or more decades in EDA, when there's been a good product category the momentum was lasted rough average two to three years and then things begin to cool for a particular category at least that's the history. We've now seen for the last one to two years or longer some good momentum and implementation for synthesis which specifically helps you and a couple of other categories.
+And so, the question is, is there something different now that might suggest that certain categories that have already had one or two good years of momentum might just keep going contrary to perhaps historical trends with regard to specific categories?
+Aart de Geus
+Well, in many ways we have long moved beyond the individual products determining what quarters look like or even years as companies such as ourselves our defacto providing much more complete solutions and an intersect with our customers on the basis of multi-year agreements.
+And so, both of those comments both lead to the same thing, which is its fundamentally smoothest curves and makes them more stable and that is also supported by the fact that for some of the very large customers stability of relationship in both directions is very important because one tends to not see under the numbers the fact is also very big human interaction by virtue of support and being on the most advanced projects almost on equal terms with the employees of the customer.
+And so, well certainly certain technology drives are related to new needs I don't think that the renewal of certain products are necessarily driving big waves. If I can highlight an example of a new need though, in verification we have seen substantial high growth rate now for multiple years in the whole area of trying to prototype systems in a combination of software and hardware or more and more hardware and that's relates to truly a problem that is growing and that is the problem of can you get the software to run on the hardware before you have the hardware because once you have the hardware, you don't want to wait for the software to be debugged or fully optimized.
+And I think that is an area that will continue to grow and is of super high interest also when you look at all the AI processors that have one objective, run software faster than before. And so, that would be essentially the gradual coming about of a new category but even there it's sort of grew out of software simulation before it became hardware. But overall, we've seen a continual growth of our run rate across the board and I think it's just we are in good technology times right now.
+Jay Vleeschhouwer
+I'll ask my two remaining questions together so both for you. So, number one, one of the things that we've seen from the geo-perspective that's really interesting over the last one to two years is the recovery in Japan. Your numbers are looking better sequentially and year-over-year on a trailing 12 basis in Japan and it broadly true for the industry and certainly if that's the opposite of what had been a very long draught for EDA in that market. And so, the question is what's changed there and you think that keeps going?
+And then lastly, just a year ago you bought Cigital as a necessary step to provide services for SIG and how are you thinking about the long-term services intensity of that business? You got the nucleus of services just over a year ago with that acquisition, but do you think over time or for at least the time being SIG becomes more services intense or perhaps might have become services intense over time?
+Aart de Geus
+Well, two very different questions. Starting with Japan, you are absolutely correct that it used to be called the lost decade and I think the added and it became the lost decade in which Japan went to really really tough hi-tech times and a renewal of workforce recombination or consolidation of many companies that had many cuts and itself a little bit like the beatings will stop when the morale improves. I think the good news is, I think the morale has improved, they are in the number of companies' sort of fresh, more modern, more western organized managements that is looking at growing the businesses.
+And so, it feels better in Japan still if I look at our numbers it's still the slowest growing region in the world over at least trailing 12 months area. I think that there is more rebound possible in Japan, but it took literally a redo of the hi-tech industry I would say.
+Regarding Cigital, the service group is very much focused on managed services which is the ability to not necessarily be physically apt a customer but deliver it over the crowd. And secondly, I think the services will continue for quite a while because the problem statement of what does security mean and how do you do it is one that is not only evolving rapidly by a constant new vulnerabilities that also demands a degree of sophistication that many companies don't half and therefore the quality educations of the seventies and eighties are now replaced by the security educations of the 2010 and with that I think we can not only align better with customers but ourselves or learn what it's like to have to modify companies from within with our tools and I think it's very well aligned with the rest of our business.
+Operator
+The next question comes from the line of Monika Garg from KeyBanc services. Your line is open, please go ahead.
+Monika Garg 
+Hi, thanks for taking my question. First track on the operating margin side, you've raised your revenue guidance 7.5%, the midpoint somewhere 7.5% to 8%. But if we model as what you've guided your operating margins would be down almost 130, 140 basis points year-over-year. Why are we not seeing more leverage in the margins?
+Trac Pham
+You know Monika, we can go through the model with you in more specific details. But right now, the way we're managing is to keep margins relatively flat with last year. And then excluding the impact of Black Duck as we've commented previously organic margins would have gone up to absorb that dilution.
+Monika Garg
+Okay. And then, if I look at all those software security acquisitions you have done Black Duck, Cigital all the previous ones. If I add all of them together, when do think this company, this whole business together it could be breakeven and profitable?
+Aart de Geus
+Well, we are essentially executing on the same business algorithm with each acquisition, which is these acquisitions typically come in either not being profitable or needing substantial investments because there's great growth opportunity and we followed the sort of same recipe which is a; we have to deal with the accounting haircut and b, with the integration cost and the potential desire to invest have always the same objective turn each of these acquisitions positive from a profitability point of view within the first 18 to 24 months.
+And I would say we're on track with all of those. And at the same time, this is a business that clearly has great long-term opportunity and having been able to assemble in about four years a really strong position, I think bodes really well for the long-term return of value to the company.
+Monika Garg
+And then the last one here, Aart you had talked about some new cases in autonomous driving could you talk in detail how Synopsis is looking to deploy and develop AI machine learning solutions and then can you talk about IP vision processing, talk about if your customers who are looking to develop solutions with the same any design wins you can share? Thank you.
+Aart de Geus
+Sure. Well let me take the gel topic of AI and we are both a participant and user ourselves and of course a supporter in many ways of the development and the advancement of AI. As a user, we have a number of projects that we apply to our own tools with an objective to see which one of the AI algorithms can actually make the tools run faster or better or diagnose things more smoothly and there's a host of projects that I won't go into here but look promising.
+And at the same time, I think there's also a learning curve to see which one of these projects has the highest return on investment. As a supporter, we touch many aspects and for starters, I mentioned it earlier we have now seen a rapid progression of some successful AI algorithms on general processors to the graphics processors to now specialized processors. And I was talking just two weeks ago to one of the CTOs of companies that's developing one of the most advanced AI processor cores in the world for sure and he was saying a lot unbelievably promising because here they can do our computations that are probably going to be 100 to 1000 times faster than what was possible before except they really want another billion times faster.
+And that certainly [ph] how I feel about it which is that we have opened the door to a category of computations that in the long long term aims to rival what's fundamentally the human brain can do and in order to do that you need a degree of computation that is not anywhere close to what we have today and therefore I think the enhancements are going to continue at a very very rapid pace for a long period of time. So, in that context these people all very quickly navigate to the most advanced silicon to the launch largest possible chips they can design and by the way they wanted on market yesterday therefore they're in a hurry and those are perfect customers for our tools, for our IT, and for our support.
+In addition to that, in order to check this thing out, they want to run software on mock ups of prototypes and by the way the software has to be secured too. So, sort of everything we touch is somehow in the soup and we're trying to stir it as fast as we can. But it's certainly very interesting to see how rapid the evolution of learning is in this field.
+Monika Garg
+Thank you so much.
+Trac Pham
+Thank you.
+Operator
+The next question comes from the line of Mitch Steves with RBC Capital Markets. Your line is open, please go ahead.
+Mitch Steves
+Hi guys, thanks for taking my question. I had two, kind of first on the Software Integrity side. So, now that you guys have a lot of assets and there you are getting close to kind of a $0.25 billion dollars of revenues. Is there any sort of seasonality to be aware of in terms of the combined entity just so we get a clarity on kind of the seasonality except for the full year?
+Trac Pham
+Hi Mitch, the Software Integrity business won't really effect seasonality. It's mostly time based and so, you will see variations driven by that business on the margin.
+Mitch Steves
+Yes, does that include the deferred write-off in all that as well?
+Trac Pham
+Yes.
+Mitch Steves
+Okay. And then the second one was kind of just in terms of the overall markets. So, based on what Aart was saying it sounds like the entire industry is kind of hits critical mass, so what would be the rough market share you guys think you have and then what is the total addressable market the entire Software Integrity portfolio at this time?
+Trac Pham
+You know, I was just looking at That a few minutes ago and I concluded for myself over and over again. Even determining what the TAM really is, is virtually impossible. We can put a number right now at about $2 billion or so, but to be honest I'm not sure that how many of the software companies in the world this encompasses that sooner or later are going to run into the necessity to have their software checked out for vulnerabilities.
+And this is where it ties actually indirectly to electronics. Electronics in simultaneously connecting pretty much everything in the world to everything else therefore everything is a potential entry point for vulnerabilities and no matter how innocuous sales from software is in some coffee maker or god knows what you know once it's connected to a network somewhere it can be an entry point.
+And therefore, I think that the notion of software quality and security will continue to just broaden itself. Now having said that of course the market doesn't grow infinitely fast and I think we are in a good position because we have found this combination of organic growth from M&A growth, but most importantly to try to build a position that is strong for the long term and is trusted for the long-term. And that implies being able to execute well against needs of the customer. [Technical Difficulty].
+Operator
+Hi, this is Susan, the operator. I apologize I got disconnected. It is at the five-minute mark, so I'd like to turn the conference back over to your host.
+Aart de Geus
+Okay. Well, let me apologize for what happened, we have no idea what it was but you probably heard the same beeping and I just came down, I guess this is the beeping of the end of this event. So, let me thank you for participating you heard hopefully that we executed well this corner and feel good about Q2 and the year's outlook.
+And as usual, I will be available for the individual comments in the aftermath. Apologize again for the abrupt ending, but we appreciate your participation.
+Operator
+Ladies and gentlemen this does conclude our conference. We thank you for your participation today and for your patience and also for using AT&T executive teleconference. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

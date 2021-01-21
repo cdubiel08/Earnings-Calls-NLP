@@ -1,0 +1,238 @@
+Twitter, Inc. (NYSE:TWTR) Q3 2019 Results Earnings Conference Call October 24, 2019  8:00 AM ET
+Company Participants
+Krista Bessinger - Vice President, Investor Relations
+Jack Dorsey - Chief Executive Officer
+Ned Segal - Chief Financial Officer
+Conference Call Participants
+Douglas Anmuth - JPMorgan
+Lloyd Walmsley - Deutsche Bank
+Heath Terry - Goldman Sachs
+Ross Sandler - Barclays
+Justin Post - Merrill Lynch
+Eric Sheridan - UBS
+Youssef Squali - SunTrust
+Mark Mahaney - RBC
+Brian Nowak - Morgan Stanley
+Operator
+Good day, ladies and gentlemen. And welcome to the Twitter Third Quarter 2019 Earnings Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will follow at that time.
+I would now like to turn the call over to your host, Krista Bessinger, Vice President, Investor Relations. Please go ahead.
+Krista Bessinger
+Great. Thank you. Hi, everyone. And thanks for joining our Q3 earnings conference call. We have Jack and Ned with us today. Before they start, I wanted to remind everyone of the format of our call. We published a shareholder letter on our Investor Relations website and with the SEC about an hour ago and hope everyone had a chance to read it. Because the letter has a lot of detail, we’ll keep our opening remarks brief and then dive right into your questions.
+We’ll also take questions asked on Twitter, so please tweet us @TwitterIR using the #TWTR. Also during this call we will make forward-looking statements. Those are things like our outlook for Q4 and the full year of 2019, and our operational plans and strategies.
+Our actual results could differ materially from those contemplated by our forward-looking statements and you should not consider our reported results as an indication of future performance. We’re making these forward-looking statements based on information available to us as of today, and we disclaim any duty to update them later unless required by law. Please take a look at our filings with the SEC, especially in the Risk Factors section, in our most recent 10-K and in our 10-Qs for a discussion of the factors that could cause our results to differ.
+Also, during this call, we will discuss certain non-GAAP financial measures. We have reconciled those to the most directly comparable GAAP financial measures in our shareholder letter. These non-GAAP measures are not intended to be a substitute for our GAAP results. And finally, this call in its entirety is being webcast from our Investor Relations website and an audio replay will be available on Twitter and on our website in a few hours.
+And with that, I’d like to turn it over to Jack.
+Jack Dorsey
+Good morning. Thanks for joining our third quarter call. A few highlights for me and Ned before we get to your questions. We’ve talked for quite some time about how our focus on increasing relevance and ease-of-use will compound into sustainable growth.
+Today, we’re proud to share that nearly half of the 19 million daily customers we have added since the fourth quarter of 2018 can be attributed to the steady refinement of Twitter. This also fueled our results this quarter of 17% year-over-year increase of daily usage to bring us to 145 million mDAU. This is an incredibly strong foundation to build upon.
+The steady refinement is just one part of our development portfolio. In parallel, we are rethinking the fundamentals of how Twitter works in order to better address the problems we’re seeing.
+One example of this is our work on public conversation health. At the beginning of this year, we resolved to break from only acting on reports of abuse and harassment, to proactively identifying tweets and conduct that violates our terms of service.
+Today, we’ve crossed another threshold. Over half of the enforcement actions we take in any given week for violating our abuse rules is now proactively identified and verified by our agents before a victim or bystander has to report the violation.
+We will continue to refine this work to steadily increase that percentage. This is important because it removes the burden of reporting from victims and paired with a much more robust appeals process increases our correctness of enforcement.
+Another example of rethinking the fundamentals is where we have taken on some notable experiments this quarter, which might lead to far greater outcomes. In health, we launched the ability for folks to moderate replies to their tweets by hiding them from the main conversation view, while still allowing moderated tweets to be seen behind the button press.
+This is now live in the US, Japan and Canada. Our Global rollout is forthcoming. More broadly, we have evidence to show that people see Twitter as an interest network and spend a bunch of time focused on finding and following accounts that match their interest. From on-boarding to daily use, we have opportunity to make this much easier.
+To address this, we went back to a feature only Twitter experts make use of lists. This quarter we made less easier to create, and most importantly, easier to consume. We’ve added the ability to pin lists directly to your home timeline, enabling a fast switch between your home timeline and list of accounts you want to keep on - keep up with, but don't directly follow. Expect lists creation to get more powerful capabilities over time.
+We’re also experimenting with following topics right from your timeline. In option to follow a topic will be appended to relevant tweets. A tweet about the Golden State Warriors for instance, would now have a prompt to follow the topic, which allows us to include all relevant tweets matching the topic, without having to follow the various accounts that produce them. Of course, you can un-follow any time and this is an area we will continue to add more capabilities around. Finally, and Ned will explain more on this, revenue.
+Unfortunately, we had some missteps and bugs in our map ads, admits greater than expected seasonality in July and August. Despite that, we saw strong September results and good advertiser momentum.
+Our goal in rebuilding our core add and map technology stacks was to address exactly these sorts of issues and increase engineering agility. Because of this work, we are much better equipped to identify and fix issues we come across today than we were just 1 to 2 years ago. Still painful, but no longer existential as it was in our past.
+I believe our company is in its strongest position ever, we are learning faster, prioritizing better, shipping more and hiring people who are out of reach before. All of this has increased our confidence, we can meet the larger challenges facing us in our industry, including misleading information and then ever evolving regulatory environment. We’re approaching all these problems in a deeply principled way and commit to addressing them openly in a way that benefits all not just Twitter.
+Thank you. And with that, I’ll pass it over to Ned.
+Ned Segal
+Thanks, Jack. Before we get into Q&A, I want to highlight a few things which are in the letter, but merit mentioning at the outset of the call. In aggregate, issues relating to our revenue products reduced the year-over-year growth by three or more points in Q3. We discovered and took steps to remediate bugs that largely affected our legacy MAP product. These bugs affected our ability to target ads and share data with measurement and add partners. We also discovered that certain personalization and data settings were not operating as expected. These issues were in our control and we will work to do better.
+We also experienced greater than expected add seasonality that began in July and continued until August. We believe our core value propositions of launching something new and connecting with what’s happening on Twitter continue to resonate with advertisers and a slower business over this summer was in part due to a relatively lighter slate of big events and launches in July and August compared to 2018. One example of this is comparing the Men’s World Cup in 2018 with the Women’s World Cup in 2019.
+We were pleased ad revenue growth rebounded to double-digits globally in September with the most pronounced recovery in the United States, advertiser sentiment remained strong.
+Looking ahead, while we are taking steps to remediate the product issues we described, we expect them to continue to weigh on the overall performance of our ads business in the near term. Specifically, we expect the moderate performance in MAP and issues discussed in our personalization and data settings will likely result in four or more points of reduced year-over-year growth for total revenue in Q4 from three or more points of impact in Q3, reflecting a full quarter impact in Q4 versus only a partial quarter impact in Q3. This is incorporated into our guidance.
+As in prior quarters, our guidance reflects the most likely range of outcomes based on our current visibility. We have considered the rebound in our ads business in September, the strength of our bookings and the organic events and product and service launches that have already happened or that were expected in Q4, along with the lingering headwinds we expect from the previously discussed product issues.
+We remain confident in the fundamental strength of Twitter and believe we are focused on the right priorities across the company. In fact, the issues we saw this quarter reinforced our confidence in our strategy, both in consumer and ads.
+We're especially excited to see such strong product driven mDAU growth year-to-date and continue to see a tremendous opportunity in front of us to deliver increasing value for advertisers and to get the whole world to use Twitter.
+With that, we’re ready to take your questions. Operator?
+Question-and-Answer Session
+Operator
+[Operator Instructions] Your first question comes from the line of Douglas Anmuth of JPMorgan. Please go ahead. Your line is open.
+Douglas Anmuth
+Thanks for taking the questions. I have two. First just Ned on MAP, could you just help us understand a little bit more about kind of when you learned of the issues around MAP, around targeting and then sharing data and then the degree to which they’ve been fixed at this point and how that kind of informs the four points of impact that you’re talking about for 4Q?
+And then secondly, it looks like you’re on track to do nearly the 20% OpEx outlook that you’ve discussed for this year, and I know it's early. But do you expect the same big four investment priorities next year and how do you think about OpEx growth for 2020? Thanks.
+Ned Segal
+Okay. Thanks, Doug. I'll take both. Jack can add anything afterwards, if it makes sense. First on the question on the product related issues. So these came up over the course of the quarter and it wasn’t one particular day, there were more than one of these things.
+Let me give you a couple of examples, which can help them come to life. The first is, we asked people a series of questions when we put them – before we put you into a timeline when you are new to Twitter. Among the questions, we asked our - if we can use your device settings to figure out the best ads to show you.
+It turns out that that setting wasn’t working as expected and we were using device settings even if people had asked us not to do so. So when we discovered that, when we tweeted about it which we often do to try to be transparent with people when things aren’t working as expected.
+And two, we turned off the setting, so that it would work as expected. That has a negative impact to revenue, because it’s one less input you’ve got, when you are figuring out which ads to show people. So instead of getting a partial quarter impact, you get a full quarter impact in Q4.
+A second example is specific to MAP, where we typically will share data with measurement partners who will then share with advertisers, so that they can see the effectiveness of their campaigns, not just on Twitter, but across platforms.
+And another one of the questions that we ask people before we put them into a timeline, is if we can share their data with measurement partners. That setting also was not working as expected and we were passing on data, which we have not intended to. So, we stopped doing that and although we are working on remediation, there isn’t remediation yet in place, and so the effects of that will continue into Q4.
+As you can imagine, the remediation would be sharing aggregated data, as opposed to personalized data when people have asked us not to share their data. So those are two good examples which hopefully helped the issues come to life a little bit, but this wasn't one thing, there were things that we found out over the course of the quarter and then when you get a full quarter’s impact of them even if you’re working to remediate there can be negative impact to revenue.
+Secondly, you asked about expenses and although it’s too early to talk about 2020, I just point back to some of the comments in the letter and in our opening remarks where we look at the things that we saw this quarter, both the DAU growth and the issues on the revenue product side and they really reinforce our strategy.
+We are really pleased with our hiring this quarter, retention was better than it has been and our ability to attract people to Twitter to come work here was better than it has been. So we continue to believe we can grow head count 20% or more and that expenses will grow about 20% as we’ve talked about in the past.
+So, no real changes there and as we think about next year, we think about a similar set of priorities from a big picture perspective, but it’s too early to lay out our specific plans or think about how that will all play out.
+But do keep in mind that we hope that all the people we’ve hired this year will stay with us next year. We hope that we will give merit increases to people who get promoted and cost of living increases and so on and so there is a natural increase to expenses, just based on decisions that have already been made.
+Douglas Anmuth
+Thank you, Ned.
+Krista Bessinger
+Thank you. Next question please.
+Operator
+Your next question comes from the line of Lloyd Walmsley of Deutsche Bank. Please go ahead. Your line is open.
+Lloyd Walmsley
+Thanks, Two if I can. First, just when we looked at the – you know, I think Ned said nearly half of - or Jack Sorry, you said nearly half of the user growth came from product refinements. Can you just give us a sense for where the other half, If I understood that correctly came from?
+And then when you look at the acceleration in DAU growth, do you have any sense for how much of that is coming from the better on-boarding specifically, you know, you started to talk about that something you’re investing in, but I think it was more of a 2020 focus. So do you still feel like it's early innings in your ability to drive product improvement faster on-boarding in DAU growth?
+Ned Segal
+Thanks, Lloyd. Let me start and I’ll turn it to Jack on the on-boarding question. So we typically talk about three levers when we think about ways that we can bring people to Twitter, give them a great experience and help it become part of their daily lives.
+The first one is product improvements. You mentioned Jack's comments. Well, that was almost half of the improvement over a longer period of time. When we make product improvements they compound over time, the people who are new to Twitter this quarter benefited from all the product work that we’ve done over the last many years and watching that compound, watching the pace of our innovation improve and watching how we continue to drive better relevance, whether it’s around notifications or the home timeline or on-boarding, it's great to see the real impact that that’s having.
+The second one are the events that are happening all around the world, that drive people to the service. Now if we don't give them a good experience when they get there, they are going to leave and may not come back or may not come back for some time. So these are opportunities that are at best for us, but events are - they continue to be a driver when we think about ways that we’re adding people to the service.
+The third one, which is smaller, but is still an important lever is marketing, the marketing is a great way to bring people to service, but again it all comes back to the product, because if we don’t give people a good experience when they get there, they may not come back as frequently as we’d like. Let me turn it to Jack on on-boarding.
+Jack Dorsey
+So, Lloyd on on-boarding. As you know, we’ve been talking about on-boarding for quite some time and I would say that we’ve had a lot of fits and starts in the approach there.
+One of the things that gives us a lot of confidence is again going back to my opening remarks, we do believe Twitter works best when people see it more, as an interest network, they're able to quickly find and follow their interest and right now if we do a lot of work to find and follow related accounts.
+So we have been both testing and also deploying tools around topics and interest to make it much easier to get into your interest faster without having to do all the work to find and follow those related accounts.
+So right now, they’re in app all of those experiments. But the intention is that we bring up right to on-boarding. So if you do show up into the app or in the website expressing a particular interest like basketball or deep learning or cryptocurrency, you will find, say immediately a list or be able to pick from a topic that will give you a rich set of accounts and also tweets immediately into your timeline, which we think will help pretty dramatically.
+So we’re still in the phase of testing and experimenting a lot with interest in topics. And then as we get confidence around that we’ll bring into every surface area of the app and the surface.
+Lloyd Walmsley
+Thank you.
+Krista Bessinger
+Thank you. Next question please.
+Operator
+Your next question comes from the line of Heath Terry of Goldman Sachs. Please go ahead. Your line is open.
+Heath Terry
+Great. Thanks, Jack. I’m curious, maybe more from a big picture level, how you’re thinking about Twitter's access to data. I mean to the extent that the access to these two pieces of data had such a major impact on your ability to monetize inventory this quarter does - I know data and privacy is a bit of a toxic topic at this point.
+But does Twitter have the access to the data that it needs to be able to do the kind of targeting and measurement that advertisers, particularly direct response advertisers in the kind of longer tail advertisers that you need for monetization expect for you to be able to grow revenue in pace with the kind of 17% user growth that you’ve got and 23% engagement growth that you’ve got?
+Jack Dorsey
+Yeah. Heath. So first and foremost, we have led a lot of our work on the consumer side and how we think about our revenue products with number one, making sure that people have visibility into what data we’re using and also control over it. So that's step one and all that is easily accessible within settings and we continue to work to refine our controls and our visibility and transparency to make clear the value exchange people are giving us as we utilize their data.
+This doesn't represent a lack of access as these represents bugs and these are issues that we identified quickly and are working quick to fix. And I will say that I have a lot more confidence in our abilities in our team today then looking back just two years ago, we have a lot more agility because of all the hard work we’ve done to rebuild our core ad stack.
+Our focus on MAP is much more intense, and something that we intend to get right. A lot of – you know, we - we have seen bugs in the past, dealing with the tech that we’ve had and the ad stack in particular, and the most important thing is where we built agility and we can move fast to fix them. So that’s to what I'm looking for, and this is not access to data problem, this is bugs that we discovered in our remediating.
+Heath Terry
+Thank you.
+Krista Bessinger
+Great. Next question please.
+Operator
+Our next question comes from the line of Ross Sandler of Barclays. Please go ahead. Your line is open.
+Ross Sandler
+Great. Thanks, guys. Just a question on going back to the four point headwind in the fourth quarter. So I know we’re not going to talk about specific guidance for 2020 here. But would it be fair to assume that some of these technical issues that are causing the headwinds are going to persist in to next year?
+And you mentioned in the letter that the US had recovered in September. So, was that from sorting out some of the issues or was that just a better event month and hence the recovery? That's my first question.
+And then the second question is you are seeing in a very strong international DAU growth. So can you talk about which regions of the world of that upside is coming from. And along those lines, your international ad revenue is trailing in US, a little bit.
+So is that’s because the bugs are causing deceleration in places like Japan or is it that the users are coming in country [ph] but that may not offer as higher monetization potential. Any color there on international would be helpful? Thanks.
+Jack Dorsey
+Thanks, Ross. I counted four questions, but we can call it two and I’ll take a crack at them. So on the four points of impact to Q4, the four or more points that we talked about, there will be some bleed over from those into future periods. It’s too early to quantify at both because we’re working hard on remediation, also because we’re not giving guidance for 2020 yet, but there will be some continued impact from these things.
+The second is the recovery that we saw in September, really wasn’t from remediation, this was - that there was, if you think about our two things that we talked about advertisers, launching new products and services and connecting of what’s happening, those along with the always-on advertising that you'll often see when you come to Twitter, they just rebounded nicely to double-digits, led by the United States, but not just in the United States in September.
+That’s what gives us the comfort that the issues that we saw in July and August were more pronounced seasonality than we had anticipated. Even when we incorporate the ongoing product issues that continued into September. The fact that we saw that double-digit growth that gave us solace.
+Then your next set of questions was around international, so a couple of things to point out there. The first is, we saw a real breadth in terms of DAU growth, we grew DAU double-digits in all 10 of our top 10 markets and we were thrilled that the improvements that we’re bringing to the service are being felt by people all over the world, people who are new to Twitter, people who have used Twitter in the past, but have use it less frequently, both continue to be real opportunities in areas where we’ve had success.
+The last part of your second question was around, Japan, an international more broadly from a revenue perspective. Just to give you a few numbers there. So international revenue grew 7% year-over-year, but inside of that is our second largest market Japan, where I think some context would help. So we were down 1% year-over-year in Japan. Remember last year we grew 44% year-over-year in the third quarter.
+We built up a really big business that we’re very proud of In Japan, both with lots of people who use the service, great relationships with the largest agencies and having really connected with the advertisers with MAP and with video ads.
+Now, MAP is a bigger part of our business there than it is in other geographies. So it was more impacted by these MAP issues that other geographies were, so that down 1% is both - up against a tough comp and also more pronounced in its impact from MAP.
+We continue to be really excited about the opportunity in Japan. I’m actually headed there, to see some of our partners this weekend. We have the Olympics coming up in 2020 and we continue to work hard to bring out an improved version of MAP, although the impact will be felt gradually. We do expect that impact to begin in 2020 in Japan ought to be one of the primary beneficiaries.
+Krista Bessinger
+Great. Thank you. Next question please.
+Operator
+Our next question comes from the line of Justin Post of Merrill Lynch, please go ahead. Your line is open.
+Justin Post
+Great. I’ll ask two. I guess, first, are you seeing improvement in churn with your user base, is that one of the metrics that is helping drive your DAU growth? And then second, we hear from advertisers that their spend bounces around month-to-month, I know it's event driven.
+But what can the company do to get more always-on advertisers on the platform and be more consistent on your monthly growth and make that more consist each quarter? Thank you.
+Jack Dorsey
+Hey. Thanks, Justin. We haven't really talked about churn. But when we look at what drove DAU, it was lots of things, including that people who have used the service in the past are - but maybe hadn't made it a part of their daily lives are using it even more number one.
+And two, the people who are new to the service are finding benefit from it faster, because we are surfacing accounts or topics to them faster, because the home timeline has increased relevance, because we’re giving them better notifications and making it easier to follow up conversations, these things are all driving benefit. But I wouldn't point to any one particular- underlying metric when we think was driving DAU growth because we’re seeing benefit from many of them.
+Secondly, we are seeing lots of always-on advertising. When you open your timeline, you will see ads from companies who were there all the time connecting with the events of that day, connecting with the people who are on Twitter where they believe can benefit from their services or products are already do.
+But you would also see that when they want to launch a new product or service, when they want to connect with the big event, whether it’s the Women's World Cup or the end of the baseball season that we are a terrific place for them to do that and we’ve been a big beneficiary of that is those messages have really resonated.
+When you add up all of those product launches, when you add up all of those events across different types of topics, across geographies, you end up with what's happening on Twitter every day that our opportunities for advertisers to connect with their customers on the service.
+Justin Post
+Thank you.
+Krista Bessinger
+Great. Thank you. And we'll take the next question from Twitter. The question comes from the account of @BitcoinMunger. And the question is when will you enable topic following, it would not only improve the user experience, but also improve on-boarding and retaining of new users?
+Ned Segal
+Thanks for the question BitcoinMunger. As I - as I mentioned in my opening remarks, we have been experimenting with both interest and topics, more broadly. One example of this is making better use of list, a lot of people construct list around a topical area, so it includes a number of accounts that might fit a particular topic.
+So for instance I follow a crypto list that has all the folks within crypto and I can pin that right to the top of my home timeline. So I can quickly swipe to it to see it. The other thing that we’re doing and experimenting with right now on iOS, it's a small rollout so far, but we intend to expand it soon. Is whenever we see a tweet that might match a particular topic, we’ll put a prompt in that appended to it and you'll be able to hit a button and follow that topic.
+So in this case, you’d be able to follow bitcoin if you saw Bitcoin related tweet. And then more tweets around the Bitcoin topic will appear in your timeline and you can go to your DASH and unfollow that topic at any point.
+So we're in our early test right now, but we do think this is a very strong feature and approach for us and I think we'll add a ton of capability and strength to the service.
+Krista Bessinger
+Thanks, Jack. Operator, we'll take the next question please.
+Operator
+Our next question comes from line of Eric Sheridan of UBS, please go ahead. Your line is open.
+Eric Sheridan
+Thanks so much. Maybe two with respect to the advertising metrics. As you discovered some of the product issues through the quarter, did you reduce the amount of inventory in the auction that could go against MAP as an ad product or did you see people adjust their bidding and the prices dropped on MAP adds as people became aware of the problem?
+And then you highlighted the dynamic between MAP pricing and video pricing, but if video becomes a bigger portion of the mix and people get more familiarity with it. Is video pricing also increasing on a sequential or year-on-year basis? What is some of the dynamics around video pricing in the auction? Thanks so much, guys.
+Ned Segal
+Well. Thanks, Eric. I’ll take those. So we didn’t make any changes. One of the great things about having an auction based service is that things adjust naturally. And so if there is less demand from one type of ad format or fewer inputs for advertisers across different formats, they'll use other inputs that bid the right - the price that makes sense for them. And sometimes things move from one format to another and other times advertisers pause and wait for things to change before they come back or they take their campaign elsewhere.
+If you step back and look at the metrics that we’ve share, you see our engagements increased about 23% that continues to grow greater than DAU which tells you that we’re selling better formats that we’re selling more relevant ads or putting more relevant ads in front of people, so pleased about that.
+And then cost for ad engagement was down 12%. That largely reflects a mix shift from MAP to video, really would think more about that than I would about changes around for like pricing.
+When you think about ad formats and opportunities around these just generally, there is still lots of opportunity for us to continue to improve relevance, to continue to come out with better ad formats and improved versions of our existing ad formats like MAP. But there's also opportunity without selling one more ad to just put better copy in the ads that exist today.
+We still have more than half of our video ads being served at longer than 15 seconds. As you’d imagine on a service like Twitter, the completion rates for video ads that are 6 seconds are much better, they are much more effective for the advertiser, they’re much more compelling for the person watching them that knows that are 15 seconds or longer.
+That’s a great example of something we can do that doesn't require selling one more ad but can help everybody and certainly would improve ad engagements and all the associated metrics.
+Since you're probably wondering and we've talked about it a bit CPMs have been up for the last period of time here because of the product related issues that we’ve talked about, it should be no surprise that CPMs were actually down this quarter.
+Krista Bessinger
+Thank you. Next question please.
+Operator
+Our next question comes from the line of Youssef Squali of SunTrust. Please go ahead, your line is open.
+Youssef Squali
+Great, thank you. Two questions from me please. First to Ned can you speak to the cost elements from the bug issue? Were there any additional costs incurred in Q3, what kind of guidance is baked into Q4 and as we look at 2020, what kind of an impact do you think we should also bake in [ph]
+And maybe Jack, as we look at 2020 as a big political spend year, can you remind us again how big was it in 2016 and are you putting any restrictions on kind of political ads as you start getting them I guess pretty soon? Thanks.
+Ned Segal
+Okay. So the first question around cost from the bugs. There - I wouldn't say that we're more costs from the bugs. The biggest impact from a resourcing perspective, when things like this come up is that we end up shifting where people are spending their time, sometimes where we work on remediation when we may have preferred to work on other things. So that can have a different kind of impact.
+But when we think about these product related issues that we really feel we are in our control. We look at them as a validation of where we've been investing and that 20% or so headcount growth that we've talked about the 20% percent expense growth for this year, those are going against things like rebuilding the ad server, they are going against coming out with a new version of MAP, things that should help us address the product related issues that came up over the course of the quarter.
+Jack Dorsey
+So 2020 elections and the integrity of the conversations around them is our first priority within health and how we think about conversation on health. So we are paying a lot of attention to all the dynamics at play, specifically looking at misinformation and misleading information and how that affects, haven't broken out what we did with 2016, but we do – we have put a lot of focus on our transparency sooner, making sure that people have visibility into how people and who is spending for political, both candidate and also issue ads.
+On the service, we intend to continue to look for opportunities to increase our transparency and then look broadly at the role of political advertising on the service and where we can improve it. We will of course update you all with any decisions or findings, we make, but this remains our top priority.
+Ned Segal
+Hey, Youssef. A couple of things to add, just to give you some financial to go with Jack's comments. We talked already, its out there about the 2018 mid-terms and political ads were less than $3 million for us.
+We try to be really principled about the decisions that we make around advertising, whether it's political or otherwise. And those numbers just give you a sense for the impact and how from one election.
+Of course there are elections happening on Twitter all the time, all over the world and so we get the opportunity to think through to improve our policies to improve how we give a great experience to people, not just in the United States, but all over the world, all the time.
+Youssef Squali
+Okay. Thank you.
+Krista Bessinger
+Thank you. Next question please.
+Operator
+Our next question comes from the line of Mark Mahaney of RBC. Please go ahead. Your line is open.
+Mark Mahaney
+Thanks. A couple of quick questions. Could you quantify the impact in the revenue missed this quarter between the product mishaps in seasonality, what percentage of the shortfall was due to one versus the other.
+Secondly, MAP products -like what percentage of ad revenue would you think that they account for. And third, the seasonality doesn't really seem like it seasonality, it seems like it's more there is a new term for it or we need to come up with one like eventuality or something, you just didn't have a large number of traffic driving or interest driving events and therefore, you had a bit of a shortfall, maybe that's just part of Twitter going forwards, if you have big events, World Cup or political elections or whatever you have, you're going to have more traffic.
+Am I thinking about that right? It seems like you maybe there were some events that you thought were going to happen that didn't happen. Just help us think through the dependency of the business, the ads business, the ad revenue business on having key events, it seems pretty straightforward, that seems like the issue rather than seasonality?
+Ned Segal
+Thanks, Mark. So, couple of things there. First on the impact from the couple of things that we pointed out, so the three or more points that we mentioned that was all from the product related issues that we went through. Seasonality - more pronounced seasonality than we had anticipated in July and August would be on top of that.
+We haven't broken out MAP as a percentage of the business. It varies from quarter-to-quarter, from geography-to-geography, from the year-to-year. It is not an area where we've seen as much strength in the recent past, as we continue to work to come out with a new version of it, we think that that will give us, not just a better opportunity around mobile application promotion, but also around more direct response advertising more broadly because the same work in helping people launch campaigns faster, around doing better targeting, around more compelling formats and ultimately fewer impressions to realize their objectives are the same things that should help with more down the funnel advertising.
+Then, your second question was around the new term that you came up with, I don't think I think about it as just about the events that happened. This is a combination of things where sometimes it's one event comps against another one like the Men's World Cup in '18 versus the Women's World Cup in '19.
+They're terrific examples of great events that bring people to the service, to talk about what's happening, to see the goals right after they are scored, there are great advertising opportunities as well. But when we just add up the things that happened this July and August and when we compare them to last year and when we think about how we expected them to play out and how they ended up playing out. They ended up just not being where we had expected to be.
+So I'm not sure I read much more into it than that and the fact that our September rebounded to double-digits with particular strength in the United States with a similar set of product related issues that gives us confidence in that. Hope that helps.
+Krista Bessinger
+Thank you. And I will take the next question from Twitter, it comes from the Twitter account of Scott Kessler. And it's about uses of cash, he says, can you address uses of cash going forward. I'm noting that you're remaining debt matures in 2021 and 2024. So what about other potential uses for your healthy balance sheet like M&A, there have been no material acquisition since 2015 and/or stock purchases.
+Jack Dorsey
+Thanks, Scott. So we did generate about $167 million of cash this quarter but we also repaid a convert and that $935 million that we repaid. We repaid it largely or completely from a financing that we did last year to pre-fund this maturity, which is a little more than $1 billion.
+When we think about uses of cash, we think about being able to run the business through any environment. We think about and often challenge ourselves around the optimal use in terms of benefiting our shareholders. So we always look at other ways that we should be using our cash.
+We also think about acquisitions, but when we think about acquisitions, we think about acquiring people and teams. We've done nine of those this year, just to give you a sense, it's a terrific way for us to add great teams and great people to the company who can further our purpose.
+We think about adding terrific technology where we can acquire something faster than we can build it. We've done a few of those in the recent past as well and we often challenge ourselves around, but haven't done as much in terms of acquiring products.
+We see so much opportunity to get the rest of the world to use Twitter that we have to carefully balance anything that we see from an acquisition perspective against the opportunities in front of us to continue to improve the service to drive the DAU growth that we've been delivering, to continue to improve the ad formats and ad products so that we can deliver great outcomes for advertisers.
+So no changes to our thinking around cash although the balance has moved around a bit based on the repayment and the cash generation.
+Krista Bessinger
+Thanks, Ned. And operator, we'll take the next question please.
+Operator
+Our next question comes from the line of Brian Nowak of Morgan Stanley. Please go ahead. Your line is open.
+Brian Nowak
+Thanks for taking my questions. I have two. Just, Ned, to kind of go back to that question on the auction market and sort of the changes that you saw, given that you talked about how just sort of it naturally adjusted and advertiser demand adjusted.
+How should we think about the steps, you have to take in order to improve the overall auction bidding density, whether it is fixing specific bugs or getting different sets of data as you try to kind of work your way through the headwind into 2020 and how long will that take?
+And then the second one, I know in the past, you talked about efforts to bring on more advertisers and DR advertising, just talk us through some of the one or two key steps still to take to bring on more advertisers and really crack into the DR budgets? Thanks.
+Jack Dorsey
+Thanks, Brian. So on the first question around auction dynamics and what we can do. So, first one you step back, we still feel like we're more demand constrained and supply constrained when we look across the service, across surface areas, across geographies, across times of year. So continuing to make the case to advertisers, we're in $125 to $130 billion digital ads market that grows 20% a year, that they should launch more new products and services and invest more against those launches on Twitter that they should do more to connect with what's happening on Twitter.
+One way to think about it is if you go back to the Super Bowl, we had 30 of the 38 advertisers from the Super Bowl on Twitter at the same time, but there are 8 to whom we still need to make the case, that they ought to be on Twitter. That along with continuing to improve relevance, better formats and moving down the funnel in terms of the types of advertising that is available, those are all things that ought to help us from the auction dynamics perspective.
+Think about MAP, if we can help people realize their objectives with fewer impressions that leaves more impressions for other things without changing how many ads we show to somebody or anything like that.
+Your next question, I answered a little bit of already, but what can we do around direct response and bringing more advertisers to the service. So our MAP work should lead to more direct response type opportunities over time. And in terms of bringing more advertisers to the service, we have a nice business where we help smaller advertisers in reaching their customers on Twitter.
+But that's not an area that we have prioritized improvements around in the recent past. It's a place where we know that there is millions of small businesses throughout the service, where we could help them more in reaching our customers on Twitter. But we've got to do the engineering work and make the case to them better than we are today. And right now, we've chosen to prioritize other things first.
+Brian Nowak
+Great. Thanks.
+Krista Bessinger
+Thank you, operator. I think we are pretty much out of time. So I think that will be our last question. Thank you.
+Jack Dorsey
+Okay. Thanks for joining us. We appreciate your interest in Twitter and we look forward to speaking with you next quarter. We'll report our Q4 earnings and the full year on February 6, before the market opens. We'll see you all on Twitter.
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now disconnect.
+
+
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+8 Authors in the Last 90 Days

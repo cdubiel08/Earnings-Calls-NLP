@@ -1,0 +1,348 @@
+Fortinet, Inc. (NASDAQ:FTNT) Q1 2019 Earnings Conference Call May  2, 2019  4:30 PM ET
+Company Participants
+Peter Salkowski - Vice President of Investor Relations
+Ken Xie - Founder Chairman & Chief Executive Officer
+Keith Jensen - Chief Financial Officer
+Conference Call Participants
+Fatima Boolani - UBS
+Shaul Eyal - Oppenheimer
+Hamza Fodderwala - Morgan Stanley
+Andrew Nowinski - Piper Jaffray
+Saket Kalia - Barclays Capital
+Brad Zelnick - Credit Suisse
+Dan Bartus - Bank of America Merrill Lynch
+Mike Casado - KeyBanc Capital Markets
+Walter Pritchard - Citi
+Patrick Colville - Arete Research
+Gray Powell - Deutsche Bank
+Taz Koujalgi - Guggenheim Partners
+Ken Talanian - Evercore ISI
+Robert Breza - Northland Capital Market
+Daniel Ives - Wedbush
+Operator
+Good day, ladies and gentlemen, and welcome to the Fortinet First Quarter 2019 Earnings Announcement. At this time, all participants are in a listen-only mode. Later we will conduct a question-and-answer session and instructions will be given at that time. [Operator Instructions] As a reminder, this conference call may be recorded.
+I would now like to introduce your host for today's conference Mr. Peter Salkowski, Vice President of Investor Relations. Sir, you may begin.
+Peter Salkowski
+Thank you, Crystal. Good afternoon, everyone. This is the Peter Salkowski, Vice President of Investor Relations at Fortinet. I'm pleased to welcome everyone to our call to discuss Fortinet's financial results for the first quarter of 2019.
+Speakers on today's call are Ken Xie, Fortinet's Founder Chairman and CEO; and Keith Jensen, Chief Financial Officer. This is a live call that will be available for replay via webcast on our Investor Relations website. Ken will begin our call today by providing a high level perspective on our business. Keith will then review our financial and operating results and conclude by providing our guidance for the second quarter of 2019 before opening up the call for questions. During the Q&A session, we ask that you please keep your questions brief and limit yourself to one question and one follow-up to allow others to participate.
+Before we begin, I would like to remind everyone that on today's call we will be making forward-looking statements and these forward-looking statements are subject to risks and uncertainties, which could cause actual results to differ materially from those projected. Please refer to our SEC filings, in particular, the risk factors in our most recent Form 10-K and Form 10-Q for more information. All forward-looking statements reflect our opinions only as of the day of this presentation and we undertake no obligation and specifically disclaim any obligation to update forward-looking statements.
+Also all references to financial metrics that are made on today's call are non-GAAP unless otherwise stated. Our GAAP results and GAAP to non-GAAP reconciliation can be found in our earnings press release and in the presentation that accompanies today's remarks, both of which are posted on our Investor Relations website. Lastly all references to growth are on a year-over-year basis unless otherwise noted. I'll now turn the call over to Ken.
+Ken Xie
+Thanks, Peter, and thank you to everyone for joining today's call to discuss our first quarter 2019 results. We are pleased with our strong first quarter results. Billings increased 19% or $552 million and then revenue was up 18% or $473 million, driven by solid growth in service revenue. In April, Fortinet hold its annual Accelerate 2019 conference. This year's event was a huge success, with turnout in customer attendees up over 37% from last year.
+At Accelerate, Fortinet management described external trends impacting the security landscape and define how Fortinet is best positioned within this trend for future growth. The internal trust room has disappeared. A state of trouble offset company network to mobile to the edge and to the cloud, security has followed the data flow and applications between networks device and users.
+As a result, security and networking are converging into what Fortinet calls security-driven networking. We believe this trend is accelerating the security industry move into the third generation of infrastructure network security. Security requires 10x to 100x more computing power compared to networking for the same network throughput.
+This requirement makes network security slower and more expensive. Fortinet SPU ASIC technology delivers 10x the performance of other software approaches, eliminating the performance gap and a lower cost than our competition. At Accelerate we announced the industry's first SD-WAN ASIC the FortiSPU SoC4 available in the FortiGate 100F, the next generation firewall. The 100F provide SD-WAN functionality and advanced security in a single appliance with high-performance.
+As our relations consolidate towards few vendors, our security cyber approach with its open API and connected technology has experienced increased adoption by enterprise customers. We continue to grow our ecosystem of more than 57 fiber-ready partners to one of the largest in the industry including a close partnership with Symantec. The explosion of IoT and immersive technology are accelerating the movement of data and computing to the age.
+According to Gartner, 70% to 80% of each data never gets the data center to be processed. And within the next two years 40% of large enterprise will integrate edge computing up from 1% in 2017. The ability to offer security through the networking focused on provision and the edge is low latency and high performance is critical, especially with the deployment of 5G network.
+Fortinet provides the broadest set of security solutions for both the edge and multi-cloud environment. We continue to progress in driving innovation and accelerate the announced Forti OS 6.2 with more than 300 new innovations. This innovation include the artificial intelligence and machine-learning ability for protection from the edge to the network core and across multi-cloud environments.
+In addition to our investment in innovation, we continue to make sales, marketing and channel investment. We expect to spend on cybersecurity as a percentage of all IT budget to continue to grow. This increase in spending coupled with three key drivers positions Fortinet for faster growth than the market over the next few years.
+First with a portfolio of integrate secure WiFi SD-WAN and 5G product, we're leading the transition to the security-driven networking. Second, Fortinet security fairly offers the most broad, automated and integrated security for end-to-end protection as automation consolidate towards a few security vendors.
+And third, our SPU, ASIC technology, provide us with continued cost and performance competitive advantage. Our advantage has increased this recent announcement of new SD-WAN ASIC, the FortiSPU SoC4. I want to thank the Fortinet team and our partner for their ongoing hard work and our customer for their support.
+Now I will turn the call over to Keith for a closer look at our first quarter performance and our second quarter of 2019 guidance.
+Keith Jensen
+Thank you, Ken. Before I start, I'd like to note except for revenue, all financial figures are non-GAAP and growth rates are based on comparisons to the first quarter of 2018 unless otherwise stated. The slide references I make reference to the presentation posted on the Investor Relations website.
+I'd now like to provide a summary of our strong first quarter performance. Total revenue of $473 million was up 18%, driven by strength in EMEA and APAC. Product revenue of $163 million was up 14%. Growth was driven by a mix shift to the midrange FortiGates and increasing software revenue. Service revenue grew 21% to $310 million and was driven by a 24% increase in FortiGuard security subscriptions to $170 million. FortiCare technical support and other services increased 17% to $140 million.
+About 60% of total first quarter revenue was provided by the deferred revenue balance at the beginning of the quarter, providing a high level of revenue predictability. In the second quarter, we expect a similar percentage of our total revenue to come from our existing deferred revenue balance. Total deferred revenue increased 26% to $1.8 billion, short-term deferred revenue increased 21% to $991 million.
+Now turning to Billings. Billings grew 19% to $552 million, benefiting from strong growth in the Japan and APAC regions. Average contract term was flat quarter-over-quarter and year-over-year at 25 months. Service providers and MSSPs remained one of our top customer segments accounting for 40% of our top 25 deals in the quarter. There were 35 deals over $1 million in the quarter versus 34 in the year-ago period. The dollar value of the deals over $1 million increased 20%.
+In the quarter, we closed a seven-figure operational technology-focused transaction with an EMEA based power and water utility company. The deal included FortiGates, secure SD-WAN capabilities and centralized management functionality enabling visibility and integration with a customer's OT network. In the Americas, we closed a seven-figure secure SD-WAN deal with a major school district. We won this deal due to the ability of our solution to provide direct Internet connectivity to each of the school district's 80,000 students along with simple management and simple deployment and importantly the integration of our solution with existing third-party security technologies.
+FortiGate products and service billings increased 17% and accounted for three quarters of total billings. Billings for non-FortiGate products and services grew faster than FortiGate billings. Benefiting from our strong growth in FortiGate virtual machines and play-as-you-go billings, private and public cloud Billings outpaced infrastructure fabric billings.
+Infrastructure fabric is still the largest component of non-FortiGate offerings and benefited from strong growth in Latin America and APAC. The infrastructure fabric includes hardware software and services.
+Moving back to the income statement. First quarter gross margin improved 50 basis points to 77.2%. Driving the increase in total gross margin, services gross margin improved 130 basis points to 87.1%. Illustrating our commitment to better-than-industry average revenue growth. Headcount for sales and marketing at the end of the quarter was up 16%. Total headcount increased 14% to 6,015. Operating margin increased 270 basis points to 20.4% despite a decrease of 125 basis points and the commission benefit associated with last year's change in accounting. The operating margin improvement reflects the increase in gross margin, gains and operating leverage and increase sales productivity. Given the strong operating income performance, net income was $81 million. Diluted earnings per share increased 39% to $0.46.
+Moving to the statement of cash flow summarized on slide 7 and 8. Free cash flow was $191 million, up 49% year-over-year. The increase reflects seasonally strong first quarter collections, continued inventory management, operating profit expansion that flowed through to net income and growing deferred revenue. In the quarter, we repurchased approximately 779,000 shares for a total cost of $56 million on an average per-share price of just over $72.
+At the end of the first quarter, the remaining share repurchase authorization was $677.5 million, and is set to expire at the end of this year. Capital expenditures for the first quarter were $10 million, below the low end of our guidance range. Including construction spending, we expected second quarter capital – we expect second quarter capital expenditures to be between $25 million and $35 million. We are maintaining our prior 2019 capital expenditures guidance of between $120 million and $140 million.
+As I turn to the guidance provided on slide 9, I'd like to remind everyone that the forward-looking disclaimer Peter presented at the start of the call applies to the guidance I'm about to provide.
+For the second quarter, we expect Billings in the range of $585 million to $605 million. Revenue in the range of $505 million to $515 million. Non-GAAP gross margin of 75.5% to 76.5%. Non-GAAP operating margin of 22% to 22.5%. Non-GAAP earnings per share of $0.49 to $0.51, which assumes a share count of between $177 million and $179 million. We expect a non-GAAP tax rate of 24%. We are seeing healthy pipeline growth and we believe we are well positioned to continue to grow faster than the security market in 2019.
+For 2019, we expect Billings in the range of $2.470 billion to $2.520 billion. Revenue in the range of $2.070 billion to $2.100 billion. Total service revenue in the range of $1.340 billion to $1.360 billion. Non-GAAP gross margin of 75.5% to 76.5%, non-GAAP operating margin of 22.5% to 23.5%, and non-GAAP earnings per share of $2.10 to $2.15 which assumes a share count of between 178 million to 180 million. We expect our non-GAAP tax rate to be 24%. We expect cash taxes to be between $53 million and $59 million.
+Before I turn the call back over to Peter, I'd like to thank our partners, our customers and the Fortinet team for all their support and hard work.
+I'll now hand the call back over to Peter.
+Peter Salkowski
+Thank you, Keith. We'd like to open the call for questions operator please?
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions] And our first question comes from Fatima Boolani from UBS. Your line is open.
+Fatima Boolani
+Good afternoon. Thank you for taking the questions. Maybe I'll start with you Ken. Just around some of the strength you saw in the virtual portfolio that Ken alluded – sorry -- Keith alluded to in his remarks, I wanted to get your sense of the some of the advancement and enhancement you've made on the technical side that you talked about at the user event? And how you expect the virtual and FortiGate-VM business to be additive to the overall product growth trajectory? And then, I have a follow-up for Keith, if I may.
+Ken Xie
+Yes. It's good question. In the – on the prior conference and – we represent – actually we either emphasize both on the virtual cloud and also on the edge side. We do see that the cloud has a pretty good outstanding growth in the last few years. But also we feel going forward edge also starting more weight there, so that's where we see – in hand, we need emphasize both and also the way we approach the cloud also we are more like horizontal approach, which have multi-cloud provider and also function including virtual data center within the enterprise and also the public cloud. So that's a place we see pretty good success and also the customer – enterprise customer love that approach, give them flexibility to move different function and different application between different call provider and also enables some different function both on-premise and also in the cloud in the virtual environment. So I think – that's kind of the approach we get a very positive feedback from our customer.
+Fatima Boolani
+That makes sense. And Keith a question for you, I wanted to dig into the subscription revenue line item. That saw both acceleration year-over-year as well as off the fourth quarter. And so, can you step us through some of the dynamics working there, especially with regards to the type of uptake you're seeing between your UTM bundles and the enterprise bundle, and maybe give us a sense sort of how much runway is left for those bundles to really be more broadly adopted in the base, and then also having existing UTM customers' graduates enterprise bundles? That will be super helpful. Thank you.
+Keith Jensen
+Okay. Sure. So I think in terms of the subscription revenue, if you look at the growth in the short-term component of that, we're very pleased to see that short-term growth. If you move back a few quarters, you kind of see that it may have hit a low-water mark in the middle of 2018, and again that's kind of coming off of a slower growth year in product revenue in 2017.
+I think what you really see there is a continuation of a lagging indicator when you look at the revenue growth, as opposed to the billings growth. To give some color in terms of what we're seeing on the billing side. Yes, we continue to see a shift from 8x5 to 24x7 support. That continues to move up incrementally. I believe that still has a significant way to run, I would say several more quarters easily.
+When I look at the FortiGate bundles, I think the UTM continues to outperform at a very, very high level. We're also seeing more customers coming back and buying from us on an ala carte basis on various security subscription and I think you're seeing some of that coming through on an additive approach as well.
+Other comments I would offer about that when I look at our renewal rates, whether that's for FortiCare and FortiGuard, they're very stable perhaps even ticking up a little bit. So I feel very good about what we're seeing there. When I look at the attach rates for the contracts to the appliances, I see very much the same there. That is to say very stable perhaps a slight uptick in terms of attach rates.
+Fatima Boolani
+Super helpful. Thank you.
+Operator
+Thank you. And our next question comes from Shaul Eyal from Oppenheimer. Your line is open.
+Shaul Eyal
+Thank you. Good afternoon, guys. Congrats on the ongoing consistent performance. Ken like -- likes a team, I want to go back to the recent Accelerate 19 event just a few weeks back. You talked about the move into third generation of cybersecurity or security driven networking. Can you talk to us on how the fabric strategy sits with your customers transitioning into this Third Generation of cybersecurity? And I have a follow-up.
+Ken Xie
+Yeah. Thank you. It's a good question, because the reason, they're starting to have the infrastructure and the security, because the traditional across the border within the company that was disappearing now, because the data starting go to the cloud, to the edge, to the mobile outside. And even within the company also, there's so many different ways to access the all site. Also working in the internet or some other things there also bring your own device, bringing lot of sins inside of the company. So, that's where the security starting to move inside the company now, and also outside the company border there.
+So that's where the cause of like the fabric approach, the infrastructure approach is really different part of our infrastructure need to working together. And the network to the center of that, because multi-site also come on the network side. But you also have to working with different application and also different part of the cloud, and also like within the company also put an internal segmentation, the WiFi and also the SD-WAN goes over the branch. So that’s the multiple part infrastructure working together is the key, that's what we called the integrated and automated approach.
+The key is really how to make all this kind of covered broad attack surface and also can automate response to all this attack, and so that's where the integrations and – key and without evolution you cannot go to the next stage of automation. But it's an innovation sometimes make it difficult across different product lines, across different vendor. So that's where the fabric is where we tie to all of these things together.
+So among fabric product, multi-strategy internally innovate and build is really want to make working together from day one. So that's will make an integration and automation much more effective more easily compare. But also, we have formed some other partner programs like with Symantec with the end point side. So that's where we kind of working together to make sure, we can cover more broad tech service and the secure the whole infrastructure. And so that's the fabric story behind.
+Shaul Eyal
+Got it. Thank you for guiding. And also, at Accelerate you discussed Fortinet remaining highly focused on channel partners, maybe a two-part question here. Any change in contribution from your largest distributors over the course of the past few quarters? And what is it that Fortinet has been doing to support the distributors near- and longer-term? Thank you.
+Ken Xie
+The thing you asked more in the partner the channel program, because we also realize the security, the service piece is very, very important, that's even the customer broader product make sure they can get the best service and a lot of service also goes through our partner. So that's where we want to have a more close relations with the partner and also have a win-win both profit together with the events of the space together.
+So that's where we see attendance of the accelerate, the partner customer conference up 37%. So it's a huge success. And we can see the partner, the customers that more open to us compared to some other competitor kind of setting limits some of the channel partner program. And maybe we see a very strong feedback partner to see the advantage of our product and also a better margin we starting share with them.
+Keith Jensen
+This is Keith. I'll just kind of jump in and echo some of what Ken said. Look the partners are very, very important to us, it's a critical part of our business and it's a way in which that we have access to end users that oftentimes we would not have access to.
+If you look at the different types of partners that we have, you probably get a little bit different flavor in terms of how we're working together. At the distributor level, we're really providing them with incentives and trainings for what we call distributor-led business.
+At the SMB level, we're looking for targeting customers and again providing them whether its financial incentives or training programs that will help enable us to extend our reach further and further into the SMB.
+I think even that the VARs that are looking to provide MSSP-type services and some other companies that are trying to buy private cloud services, you see us making investments in there. But again overall as Ken alluded to the partner program remains very important to us.
+Shaul Eyal
+Thank you.
+Operator
+Thank you. Our next question comes from Melissa Franchi from Morgan Stanley. Your line is open.
+Hamza Fodderwala
+Hi. This is Hamza Fodderwala in for Melissa Franchi. I had a quick question just regarding revenue in the quarter. So I think Keith you mentioned about just the increasing deferred revenue giving more visibility into the forward outlook, but the revenue did come in below the high end of the guidance range and the product revenue growth slowed down quite a bit versus Q4. So I'm wondering, are you seeing any changes in the overall refresh environment or this more just like a seasonal slowdown in Q1?
+Keith Jensen
+Yeah. I don't think that -- I'll kind of touch on a couple of points. The refresh cycle that's been talked about, you're not going to see that have the same impact on us that it would have been a large enterprise organization. If you go back and look at us in 2013, 2014, 2015 very strong MSSP, SMB business has probably a different renewal rate, different return rate, different ASPs. If you benchmark that against a traditional enterprise incumbent I think that's probably more of a discussion point for that particular group of companies.
+In terms of what you saw in the quarter relative to just -- I would say that's just normal seasonality for us. Q1 is an extremely renewal rich quarter meaning the sales team has to spend a lot of time and energy focusing on renewing customers that's just kind of a normal contract expiration date. And I think when you see that historically you've noted or we would note that you get a different bit of a mix shift in our billings between services/renewals and product.
+Hamza Fodderwala
+Got it. And just a follow-up question, its more housekeeping. You mentioned service provider being 40% of top 25 deals. In terms of just total billings what was that mix?
+Keith Jensen
+Service provider came in at about 19% of our total -- 18%, excuse me I stand corrected. 18% of total billings.
+Hamza Fodderwala
+Okay, got it. Thank you.
+Operator
+Thank you. Our next question comes from Andrew Nowinski from Piper Jaffray. Your line is open.
+Andrew Nowinski
+Good. Thank you for taking the question. So, I wanted to ask on the geographic split. Your growth in Europe has consistently outperformed the other regions and this quarter was no different. Is there any color you can provide regarding the wide disparity in growth rates in Europe versus the U.S.?
+Keith Jensen
+I think historically the European team has just performed extremely well. It's a mature sales team that's worked together for many, many years. The partner program there is very, very stable and continue to work with the same orders over and over again. So we feel very, very good about what we're seeing there.
+I think if you compared the U.S. number that had a pretty tough compare I think year-over-year. So I wouldn't read too much into that. I do think that there is significant opportunity for us in the U.S. particularly as we push further and further towards the enterprise.
+Ken Xie
+Yeah. Also the enterprise also need some time to ramp up and also we try to speed up enterprise and also harness the momentum ourselves, but the enterprise you have some like six to 12 months lag behind when they got you some results.
+Andrew Nowinski
+Okay, got it. And then just a follow-up question as it relates to your billings, very strong performance in Q1 but it looked like the guidance for Q2 is maybe a little bit below consensus. Did any deals get pulled into Q1 that may have boosted Q1?
+Keith Jensen
+No not really. And again if you look at our mix you don't see us talking about eight-figure deals, you'll see us talking about a seven-figure deals. So it would seem unlikely that I'd be pulling something in. I would say that overall I think Q1 came in very much like we expected it come in. It was very nice into the outperformance on the billings line for the quarter. And I would say at this point after a quarter underneath our belt, I think the year is looking very much likely expected it to look like.
+Andrew Nowinski
+Okay, very good. Thank you very much.
+Operator
+Thank you. And our next question comes from Saket Kalia from Barclays Capital. Your line is open.
+Saket Kalia
+Hey, guys. Thanks for taking my questions here. Maybe for you Keith. Just to go back to the product and services split and just ask it in a little bit different way. I think you mentioned in your prepared remarks that midrange appliance in particular did well in the quarter. Can you just touch on whether that mix had any, sort of, impact on the year-on-year compare in product revenue?
+Keith Jensen
+I saw the mid-range product family steal share if you will from both the low end and the high end product. And I think that what you're seeing there we talked previously about the success on the E-series product particularly the 500E. And I think with the introduction of the 400 and the 600 not saying the 400 and 600 had a significant impact in the quarter given their recent introduction, but I expect that the mid-range product is going to continue to do very, very well for us. I am not sure I'd offer much more than that on it.
+Saket Kalia
+Got it. That's helpful. Maybe for my follow-up for you Ken maybe just a bit higher level. Obviously, a lot of success with this idea of security-driven networking and that SD-WAN capability built into FortiOS. And so the question is since you're consolidating appliances here for customers with SD-WAN and the firewall. How do you think about the monetization strategy for that down the road? It feels like right now it's a nice way to gain share in the network security market, but are there any other thoughts on kind of how the pricing packaging there for SD-WAN could potentially change in the future if at all?
+Ken Xie 
+I think just like 10 years ago when we're starting to have a WiFi built into the FortiGate. We did see like security networking most item kind of go together, and especially like a security is more like a top approach and because security like I said need like a 10 times to 100 times more computing power to process the same traffic compared to the networking. So it's more easy for the secured vendor to like offer some networking function because security parts can have a much bigger computing power and more room to offer additional function there.
+But on customer -- and also in the normal security side, no one like to have multiple pass there. It's more costly, a lot of latency and difficult to manage and that's where the more you can consolidate and function into a single path the better. So that's a feedback on customer and then in Q1 we're also starting to see the service part that didn’t go up, so that's what compared to like a few years ago the service keeping increase and that's part of because some function like SD-WAN constantly want to buy additional service.
+And not just the traditional like 8x5, 24/7, but also we offer because the Fortinet 360 service that's helping customer to monitor that helps you of the network of the security deployment. So that's certainly is starting grow very quickly. And also Keith mentioned the 24/7 FortiGate products, so that also started to grow rather quickly compared to the 8x5. So all this kind of helping drive additional service additional margin for us.
+Saket Kalia
+Very helpful. Thanks.
+Ken Xie 
+Thank you. 
+Operator
+Thank you. Our next question comes from Michael Turits from Raymond James. Your line is open.
+Unidentified Analyst
+Hi. This is actually Robert [indiscernible] on for Michael today. How are you doing at balancing your focus on improving in enterprise with maintaining your strength in SMB both in direct sales and in the channel?
+Ken Xie 
+I think, we starting from – because enterprise you need to have the whole structure behind from the marketing side to the sales coverage and the -- to the process supporting. And then also sometimes we also need some long-term investment. So we're starting to like starting to get all this infrastructure be ready at the same time and that we also get lot of enterprise sales people onboard and also the marketing supporting also starting to build out for -- to support in enterprise now.
+Keith Jensen
+Yes, I think it's a very fair question. We've set out the framework that we're operating within in terms of what our profitability expectations in the coming years. And within that framework, we're investing I think successfully in both our channel, MSSP and SMB business is continuing to see what I believe to be very, very strong growth in that region. And then using the excess proceeds if you will from the success in that to fund the growth into the enterprise segment of the market. And then as Ken talked about there is many moving parts there. One thing that we track very closely is what we call account coverage ratios, which is how many accounts have signed to individual rep in the enterprise space. And I would say that this is a process that we're going through where we're looking to continually improve that ratio. Looking at those ratios and looking at the pipeline, we just continue to believe that it's a worth -- very worthwhile investment to continue to push into the enterprise.
+Unidentified Analyst
+That's really helpful. And just as a follow-up question maybe just taking a step back here. Last quarter you expressed in caution around the macro environment, how are you feeling at this point?
+Keith Jensen
+Yes. I was -- January was a little interesting around -- for various companies. I think January for us has impacted the quarter. Started off a little bit slower than we would have liked, but after that I think the quarter hit its stride. At the moment, I don't think we're concerned about government shutdowns or -- Brexit seems to have been deferred, we'll see what happens between China and the U.S. But as I commented earlier in the call at the end of the day, I think Q1 pretty shaped up like we expected it to with a little bit of outperformance on the Billings line and I think with Q1 underneath the belt, we feel good about the rest of the year.
+Unidentified Analyst
+Appreciate it.
+Operator
+Thank you. Our next question comes from Brad Zelnick from Credit Suisse. Your line is open.
+Brad Zelnick
+Great. Thanks so much for taking the questions. Ken I paid careful attention to your comments about the seven-figure EMEA-based power and water utility win that you had in particular using FortiGate and your SD-WAN product and management capabilities to provide visibility and integration into the customer's OT network.
+When we think about the OT opportunity, how big do you feel it really is? How you much are you investing to go after it? And do you need specialized product to win in this market?
+Ken Xie
+Yes. That's OT -- IoT is a one of the driving engine -- growth engine for us. So, our estimate we can look in the copy for sure which is the public information in the website. By 2022 will be a $19 billion market for the IoT OT security. So, we are leading in that space and we do need a different product and also even different function compared to the traditional network security or some other like cloud or infrastructure security.
+And at the same time, it also need some investment early enough both on the engineer side in the go-to-market strategy and the sales coverage side also. But we are very happy to see the progress emerging there rather fast, it's one of the fast growing area for us right now and also lot of numbers. But the base is small, but growth is very, very fast and also huge potential going forward like probably in triple the size compared to some cost securities and other space.
+Brad Zelnick
+Great, that's very helpful. And Keith just on CapEx appreciate the comments in 2019. Can you give us any sense of how we should think about at the investments going forward into next year? I know it's a bit early.
+Keith Jensen
+Yes, that's a bit early. I think I would offer that -- we plan to occupy the building on -- in October of 2020. If we don't occupy the building on October 2020, Ken is going to have a very painful conversation with me.
+Brad Zelnick
+Fair enough. Thanks.
+Operator
+Thank you. Our next question comes from Tal Liani from Bank of America Merrill Lynch.
+Dan Bartus
+This is Dan Bartus on for Tal. Thanks for taking the questions. I'd like to start with a higher-level one. So, you're doing really well with the network products clearly for a while now. So, I'm curious just what other areas do you think you could emerge as more of a leader?
+And I'm thinking about end point, email, network access control, et cetera. Wondering which adjacent or newer areas could you have provide the most upside surprise potentially in 2019.
+Ken Xie
+I think some areas we prefer a partnership like the partner with Symantec because some space which already have the leader there and also has been there for a while. For that area we are more intent to do a partnership, that's why we have more than 57 because the Forti February fabric partner program and especially more close with Symantec for endpoint solution.
+In some other new area we also tried to manage both internal R&D innovation and also look in the space. Like last year we have at least two additions more on the technology product side acquisition not -- like I said the max side mostly for the internal security maybe internal security approach. So, that's where we look in the whole landscape is ready.
+Normal security is pretty interesting because you grow by keeping innovative and also integrate. It's not like endpoint or some other space, sometimes you may have a multiple vendor, multiple solution out there existing together. In the network security, most customer have a one box in line there to prevent a bad traffic. And then the more function you can integrate will be more helping the customer to really manage reduce the cost and latency and availability of this is.
+So, that's where we refuse innovation integration is part of a key for us and keeping growing the same time. Partner with some other part of infrastructure player it's also very, very important for us. And we still try to gain market share and also by partner together is also we found out that is, very, very effective way to win the situation.
+Dan Bartus
+Great. That make sense. And then you're gaining share across the entire firewall market, but it looks like the share gains have also been mostly weight to the campus and branch office which makes sense with the SD-WAN trends.
+So, first just wondering if you agree that most of the share gains have been weighted to the segment of the market for you guys?
+And then second just curious who you view as your main coalition for that market because it's kind of a rare combination of firewall and SD-WAN that you guys are coming with? Thanks.
+Ken Xie
+Actually, of course, in the Fortune 2000, it's much faster than the average and probably faster than how the branch office grows there. So, that's where we do keep gaining more share in the big enterprise also. And the SD-WAN is the one we feel we have more advantage compared to some other SD-WAN player or some other security player and also the market grow very, very fast. It's about 50% growth year-over-year and we are one of the leading provider.
+So we also starting -- we also have been doing this for last few years. So that's where we are more heavily promoting the SD-WAN, but also the investment into the enterprise and also some other fiber part, also we see very, very fast growth, above average. So I think the growth varies a lot by multiple fronts and we do see each of them also give us quite a good potential and advantage over our competitor going forward.
+Keith Jensen
+Yes. Thanks Ken. I'll just add to what you said. I think if you look at the vertical loan offer that, I think, very pleased with what I'm seeing with financial services. We come out of a history of being very active and engaged in the trading areas of banks and such, and now seeing that allowing us to move into other segments within that -- within those institutions.
+And I would offer that when I look at the segment of the state, local, international, government, education, those are doing extremely well. There was an earlier comment about OT. I think if you started translating OT into verticals such as transportation, utilities, I think we're seeing some real success there as well.
+Dan Bartus
+Great. Thanks, guys.
+Operator
+Thank you. Our next question comes from Rob Owens from KeyBanc Capital Markets. Your line is open.
+Mike Casado
+Hey, guys. This is Mike Casado on for Rob Owens. I wanted to circle back on the trends in North America. I know that it was a tough year-over-year comparison, but since our checks did pick up some weakness in North America, I'm hoping you can speak specifically to execution in the region, at least, as compared to your initial expectations?
+Ken Xie
+The hiring of sale rep is little bit behind, which we will also speed up, add more resources behind to accelerate the hiring there. So that's have a little bit impact of North American growth, but as we have allotted product, the program and just somehow is the headcount little bit behind and that's also difficult to keeping full in the productivity and all the other things. So that's where -- because North America tend to be very competitive on hiring there, but we also said to add more resource behind to our salaried hiring there. Other than that, we don't see any big issue there. We you do believe the things will come back quickly.
+Mike Casado
+That sounds okay.
+Ken Xie
+Sorry?
+Mike Casado
+I'm sorry. Go ahead.
+Keith Jensen
+Ken, spot on with that. I think the first area of us in terms of -- we talked before that we'd like to see our sales hiring move roughly in tandem with our revenue, maybe just a little bit below that. We fell short of that, as you saw in my comment earlier in the presentation. And I think the key area of focus within that is really to do more things that help within the U.S.
+Now that said, I would offer, I think, the U.S. has done extremely well with the enterprise penetration. They continue to move in that direction and they're moving very quickly. That does tend to be a little bit lumpier, obviously, than the SMB and MSSP business.
+Mike Casado
+That's helpful. And then relative to engagements that do involve OT or IoT, who are you seeing competitively? And what proportion of these engagements are truly greenfield?
+Ken Xie
+I think we do see some smaller player, because a lot of our new company view is, it's a new market, a niche market, but for us, we also want to leverage our cumulative technology innovation from other part of network infrastructure security to get applied into the OT, IoT space. So also, kind of, working with some other, like, traditional equipment provider and some other service provider to offer better service in the space.
+And the space actually need a lot of different approach, whether that’s segmentation or some kind of unrecognized environment, the solution is different, but also take some time to invest and also to have a solution to fit in that space. But we do see huge potential, like I mentioned, with the growing into management building in the next three years, there will be huge potential in the space.
+Mike Casado
+Great. Thank you. 
+Operator
+Thank you. Our next question comes from Walter Pritchard from Citi. Your line is open.
+Walter Pritchard
+Hi. Thanks. Two questions on the product side. One on the enterprise side, it feels like during 2018 you had talked more confidently about traction in the enterprise and it feels like you're here -- Ken, you mentioned you need to ramp up some hiring there. Has there been any attrition or anything that would explain the difference? And then, I had a follow-up on the product mix.
+Ken Xie
+Just somehow the secured space is pretty hot in the last few quarter with all the competition on hiring. We also step up our effort there also, because the hiring time is kind of starting to hold us on the faster growth in the North America, which we said, add additional resource. But is -- if you -- it's really -- the hiring actually. For us, the growth also kind of -- we need more account coverage to grow faster in North America, but that's also comes from hiring, comes from the additional training program and that's where we can enhance now.
+Walter Pritchard
+Okay. And then on the -- I guess, on the FortiGate, non-FortiGate. Can you help us understand either the mix within the product line of FortiGate and non-FortiGate? Or remind us what the attaches -- what's the relative difference of attach of subscription and annuity on FortiGate versus the non-FortiGate?
+Keith Jensen
+So non-FortiGate will include software, will also -- software licenses and relative support is attached to it. There's also the product versions of the fabric products and software versions of those products. And then there's also secure access, which is switches and access points.
+The software obviously has the richest of the margins. Overall, what we're seeing from margins in those -- in that product suite, are very, very comparable with what we see throughout the rest of the company. And I think the -- I think that's it.
+Q – Walter Pritchard
+And just Keith on the non-FortiGate, so I think it was 25% of total billings. Is it safe to say it was more than 25% of product? And any color there on how much in product the non-FortiGate made up?
+A – Keith Jensen
+I don't have right with me ready color on that I'm kind of looking around. It wasn't something that stood out to me one way or the other.
+Q – Walter Pritchard
+Okay.
+A – Keith Jensen
+A little more I'm told.
+Q – Walter Pritchard
+Okay. Thank you.
+Operator
+Thank you. Our next question comes from Patrick Colville from Arete Research. Your line is open.
+Q – Patrick Colville
+Thank you for taking my question. Can I ask about the billings? So the quarter billings Keith was really healthy. But you haven't really lifted the guide by much for the fiscal year. And 2Q is coming very much in line with expectations heading into the quarter. I mean can you just circle back to that one and give some color on why that is?
+A – Keith Jensen
+Yeah. I think we feel very good about how the year is shaping up. I do think that we basically took the over-performance in the first quarter and put it back on top of the guidance and raise the guidance for the full year. And I think coming off of Q1, that's probably a prudent approach to take to things.
+Certainly when we look at the pipeline, the sales coverage, the sales tenure, the key metrics that we're looking at the second half of the year absent meeting to hire some people faster that Ken has talked about. I think we feel very good about how the year is shaping up.
+Q – Patrick Colville
+Great and can I ask Ken a question about firewall as a service? One of your competitors, whose first letter begins with a Z, is talking very constructively about firewall as a service and the opportunity in that market.
+What's your take? You've been in the industry for a long time and what's your take on firewall as a service? And how that could evolve and how Fortinet maybe could play into that in the future?
+A – Ken Xie
+Yeah. I think for us now you can see two-third of the revenue come from the service. Service is a very, very important part of the offering. And so we do keeping invest more the service side. And also like additional function of SD-WAN, there's also driving a lot of additional service revenue for us.
+So that's where we -- and also when you go to enterprise service is also very, very important. Service and support into the enterprise customer and so that's where we keeping really the service part, Keith, other than that, any additional thing?
+A – Keith Jensen
+No.
+Operator
+Thank you.
+A – Ken Xie
+Operator, next question please?
+Operator
+We'll take our next question from Gray Powell from Deutsche Bank. Your line is open.
+Q – Gray Powell
+Great, thanks for taking my questions. Just a couple if that's okay. So, I was just trying to make sure that we have a clean comparison on the product revenue side. Was ASC 606, a benefit a headwind or just neutral to product revenue in Q1?
+And then, how should we think about that dynamic for the remainder of the year? Thanks.
+A – Keith Jensen
+Yes. I think the -- I think it's pretty much neutral to answer question. To give you color both obviously 2018, 2019 are on 606. So the numbers are comparable. If you go back and look at some of our disclosures from the prior periods, you probably saw things related to the software that was being recognized a little faster and some channel inventory in the U.S. but those components I believe are typically less than $5 million and that's kind of where we're at as we continue to move forward.
+Q – Gray Powell
+Got it, thank you and just a quick follow-up, can you give any color on unit volumes in Q1?
+A – Keith Jensen
+Unit volumes moved very much in tandem with product revenue growth.
+Q – Gray Powell
+Got it, okay. Thank you very much.
+A – Keith Jensen
+You’re welcome.
+Operator
+Thank you. Our next question comes from Taz Koujalgi from Guggenheim Partners. Your line is open.
+Q – Taz Koujalgi
+Hey guys thanks for taking my questions. I'm not sure if I missed this on the call, but did you guys give their billings growth by different regions?
+A – Keith Jensen
+No. We gave revenue growth in the back of the -- in the investor slide deck you'll see the revenue growth by regions.
+Q – Taz Koujalgi
+Can we have it? I think you guys give that metric every quarter right? The billings by region?
+A – Keith Jensen
+No. No we don't.
+Q – Taz Koujalgi
+Okay. And then, one more housekeeping question well how was the enterprise growth in the quarter excluding the service provider vertical?
+A – Keith Jensen
+The enterprise growth trailing 12 months is 23%, 24%, growth.
+Q – Taz Koujalgi
+For this quarter, for Q1?
+A – Keith Jensen
+Trailing 12 months number is what we give historically….
+Q – Taz Koujalgi
+Okay.
+A – Keith Jensen
+… and it was 23%, 24%.
+Q – Taz Koujalgi
+Okay, great thank you.
+A – Keith Jensen
+You’re welcome.
+Operator
+Thank you. Our next question comes from Ken Talanian from Evercore ISI. Your line is open.
+Q – Ken Talanian
+Hi. Thank you for taking my question. I was wondering if you could help us understand the market opportunity for your 360 protection bundle, how to think about that across customer segments and maybe how to think about the potential uplift to ACV as customers adopt that?
+A – Ken Xie
+Yes. We're starting promoting our service about one year ago and we can see that there's huge potential, especially like some relate to customer need additional help to health check up there, deployment or the network function there, security function there. It's ramped up rather quickly, but that also need additional service supporting personnel to support in that. We also starting training quickly both on the Fortinet side and also some of our partner side also, but we do see this is one of the future strong growth area for us and also the service support has much better margin than the product side.
+We also see -- it's also can help in improving the overall margin for us. And while we're still in the early stage ramp up stage and also we need to acquire additional training support and effort and also promotion that is -- because so far the 8x5 24/7, so when customer has trouble they call us, call the supporting line, but this is more like a proactively do health check and helping customer to prevent anything happen ahead of time. So we're very, very positive feedback from other customers especially large enterprise customer we do see this is a can be keeping growing faster than other part of whether the service and support going forward.
+Ken Talanian
+And just a quick follow-up to that, how should we think about your level of investment and the personnel necessary to support that this year versus what you did in 2018?
+Ken Xie
+I think we are -- I think probably one thing we try to improving the productivity more than hiring kind of hiring trend behind the growth, but also we don't want to do behind too much, which eventually will limit the growth. So it's kind of -- we want to keep the build in the revenue growth a little bit ahead of hiring but not by too much.
+Keith Jensen
+Yeah. This is Keith to go on Ken's comment. If there was a significant labor impact if you will from FortiCare 360 it will start appearing in the services gross margin line. Then obviously with the growth that we just reported we're not seeing that.
+Ken Talanian
+Got it. Thanks very much.
+Operator
+Thank you. Our next question comes from Robert Breza from Northland Capital Market. Your line is open.
+Robert Breza
+Hi. Thanks for taking my questions. But my questions regarding hiring have been answered. Thank you.
+Operator
+Thank you. And our next question come from Daniel Ives from Wedbush. Your line is open.
+Daniel Ives
+Yes. Thanks. So I just have a question on large deal flow. I mean obviously, it continues to be tremendous. Is that a trend that you're expecting in the coming quarter just given the pipeline?
+Keith Jensen
+Well I guess I would probably expend the metric that we gave on the prepared remarks. I think we talked about deals over $1 million I should also offer that deals over $500,000 grew at about 35% and that has been -- some quarters we give that number. Some quarters we don't. But it's very consistent area of growth for us and that $500,000 and above range.
+Daniel Ives
+And do you think the success that you're having on large deals is more on the partner side direct competitively in terms of just what's driving some of these numbers that continue to defy the haters? Thanks.
+Ken Xie
+So it come from our effort to drive enterprise growth, so that's where the lot of the direct cash. And also closely working with partners help both the partner is like -- and also the partner like in the we call the -- partner like the Symantec and all these are helping driving the big enterprise sales which is a much bigger deal compared to the other part.
+Daniel Ives
+Great, job again. Keep it up. Thanks guys.
+Ken Xie
+Thank you.
+Operator
+Thank you. And I am showing no further questions from our phone lines. I would now like to turn the conference back over to Peter Salkowski for any closing remarks.
+Peter Salkowski
+Thank you, Crystal. I'd like to thank everyone for joining the call today and let you know that Fortinet will be attending the following Investor conferences during the second quarter. We'll be at the Jeffries conference May 8 and 9 in Beverly Hills, the JPMorgan conference in Boston on May 14, the Baird conference in New York on June 4th, the William Blair conference in Chicago on June 5 and the Bank of America conference in San Francisco on June 6. We look forward to seeing many of you at the -- over the next several weeks. If you have follow-up questions please feel free to give me a call or send me an email. Have a good rest of your day. Thank you very much.
+Operator
+Ladies and gentlemen thank you for your participating in today's conference. This does conclude the program and you may all disconnect. Everyone have a great day.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+3 Authors in the Last 90 Days

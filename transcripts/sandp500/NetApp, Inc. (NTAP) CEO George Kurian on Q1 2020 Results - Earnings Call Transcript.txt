@@ -1,0 +1,353 @@
+NetApp, Inc. (NASDAQ:NTAP) Q1 2020 Earnings Conference Call August 14, 2019  5:30 PM ET
+Company Representatives
+George Kurian - Chief Executive Officer
+Ron Pasek - Chief Financial Officer
+Kris Newton - Vice President, Corporate Communications, Investor Relations
+Conference Call Participants
+Nehal Chokshi - Maxim Group
+Rod Hall - Goldman Sachs
+Matt Cabral - Credit Suisse
+Mehdi Hosseini - SIG
+Andrew Nowinski - Piper Jaffray
+Katy Huberty - Morgan Stanley
+Amit Daryanani - Evercore IS
+Steven Fox - Cross Research
+Lou Miscioscia - Daiwa Capital Market
+Tim Long - Barclays
+Jim Suva - Citigroup
+Aaron Rakers - Wells Fargo
+Ananda Baruah - Loop Capital
+Eric Martinuzzi - Lake Street
+Andrew Vadheim - Wolfe Research
+Nick Todorov - Longbow Research
+Simon Leopold - Raymond James
+Operator
+Good day, ladies and gentlemen and welcome to the NetApp, First Quarter Fiscal Year 2020 Conference Call. My name is Latif and I will your conference call coordinator for today. At this time all participants are in a listen-only mode. Later we will conduct a question-and-answer session and instructions will be given at that time.
+I will now turn the call over to Kris Newton, Vice President, Corporate Communications and Investor Relations. Please proceed Ms. Newton.
+Kris Newton
+Thank you for joining us on our Q1 fiscal year 2020 earnings call. With me today are our CEO, George Kurian; and CFO, Ron Pasek. This call is being webcast live and will be available for replay on our website at netapp.com.
+During today’s call we will make forward-looking statements and projections with respect to our financial outlook and future prospects such as our guidance for the second quarter and full fiscal year 2020. Our expectations regarding future revenue, profitability, shareholder returns and our ability to improve execution, gain share and expand our sales capacity without increasing total operating expenses, all of which involve risk and uncertainty. 
+We disclaim any obligation to update our forward-looking statements and projections. Actual results may differ materially for a variety of reasons including macroeconomic and market conditions, the IT capital spending environment and our ability to expand our total available market, acquire new accounts and new buyers, expand in existing accounts, capitalize on our data fabric strategy, improve the consistency of our sales execution and continue our capital allocation strategy.
+Please also refer to the documents we file from time-to-time with the SEC and available on our website, specifically our most recent Form 10-K for fiscal year 2019 including the Management’s Discussion Analysis of financial condition and results of operations and risk factor sections and our Current Reports on Form 8-K. During the call, all financial measures presented will be non-GAAP unless otherwise indicated. Reconciliations of the GAAP to non-GAAP estimates are posted on our website. 
+I'll now turn the call over to George.
+George Kurian 
+Thanks Kris. Good afternoon everyone. Thank you for joining us. As we discussed on our call on August 1, while I'm clearly disappointed in our weaker than expected top line results, the fundamentals of our business are robust and I am confident that we have the right strategy and technologies to address the market transitions to all-flash arrays, Private Cloud, and Cloud Data Services. 
+We have a strong business model as a result of the hard work we conducted to improve gross margin and cost structure over the last several years. This enables us to navigate the ongoing macroeconomic headwinds and make the strategic moves that position us well to return to growth. 
+We have further analyzed the dynamics of what happened in the first quarter and they confirm that we are seeing a combination of slowdown related to overall macro conditions and company-specific, go-to-market execution issues. We continue to see pressure on deal sizes, longer sales cycles, and deferral of transactions. But as I noted on our earlier call, our underperformance is not across the Board. Our APAC, Europe, and U.S. Public Sector geographies were mostly on track. 
+Even in the areas where we experienced the greatest weakness, top global accounts and the Americas, there were pockets of strength and high performing teams. We have been very successful with some of our global accounts, but we need to expand our wallet share in others. We have deep relationships with too few of these customers, which increases our susceptibility to a slowdown in spending related to the macro. 
+In the Americas roughly 40% of our districts were successful in acquiring new customers, reaching new buyers within existing customers and effectively selling our entire portfolio, and as a result grew year-over-year. 
+Performance across districts is inconsistent. Our sales leadership and I are committed to improving our sales execution through necessary leadership changes, better inspection, and discipline, expanded account coverage, acquisition and portfolio selling. 
+Let me underscore the fact that we do not believe that the revenue shortfall was related to a change in the competitive environment. Our win rates remain constant and our product gross margins remain strong. In short, we need to replicate our proven areas of success by getting in front of more buyers with our full portfolio. 
+To better capitalize on our opportunity, we will expand our sales capacity without increasing total operating expenses, by continuing to make disciplined tradeoffs in our spending priorities. To that end, I will now provide more detail on the specific steps we are taking. 
+First, we plan to add approximately 200 primary sales resources in the next 12 months with a focus in the Americas. We will do this without increasing the total operating expenses for the company. The new sales headcount will focus on acquiring new accounts as well as engaging new buyers and finding new opportunities in existing accounts. 
+Second, we will sharpen the focus of our all-flash, go-to-market, including marketing sales and services to emphasize our strong value proposition in mission critical environments where customers continue to prioritize spending. We expect that this, combined with additional sales capacity will return us to a position of growth in the all-flash market. 
+Third, now that our services are generally available in Azure and will soon be in Google, we expect to see an acceleration of Cloud Data Services revenue as their sales teams ramp in selling our service. We continue to focus on expanding the range of use cases and deployment scenarios and enabling the various pathways to market to sell these services. 
+And finally, we will scale our growth in the Private Cloud market through focused marketing and sales efforts. The increased sales capacity focused on reaching non-storage buyers will support this effort. We are materially stepping-up our efforts to address the appropriate buyers for our Private Cloud and Cloud Data Services offering as they are different from our traditional storage buyers.
+To recap, I am confident that we can return to growth by increasing our sales capacity, adding new accounts, reaching new non-storage buyers, and selling the full portfolio. We expect that these efforts will accelerate our participation in the growing Private Cloud and Cloud Data Services markets and drive share gains. Additionally, these actions will broaden our pipeline, while lowering risks stemming from customer concentration. 
+In Q1 our all-flash array business inclusive of All-Flash FAS, EF, and SolidFire products and services declined 24% year-over-year to an annualized net revenue run-rate of $1.7 billion. This comparison includes a significant amount of ELA revenue related to all-flash in Q1 a year ago, that did not repeat in Q1 this year. 
+While I'm disappointed by the performance of this part of the business, I remain confident in our competitive positioning and our opportunity for continued success. We have industry leading, guaranteed storage efficiency, the highest performance and the most complete Cloud integration in the market today. And the actions we are taking to increase sales coverage and target mission critical workloads will help return our all-flash business to growth. 
+Moving to our Private Cloud Solutions, SolidFire NetApp HCI and Storage Grid are the building blocks for Private Cloud deployments, enabling customers to bring Public Cloud-like experience and economics into their data centers. Our Private Cloud business, inclusive of products and services, attained an annualized net revenue run rate of $250 million in the first quarter, up 85% year-over-year. 
+Now on to Cloud Data Services. In Q1, we achieved general availability with Microsoft, with Azure NetApp Files, and beta release with Cloud Volumes Service for Google Cloud. Based on the last month of Q1, our annualized recurring revenue for Cloud Data Services increased to approximately $61 million, up 189% year-over-year. We continue to see a healthy mix of customers new to NetApp in our Cloud Services and expect that Cloud Services will continue to enable us to reach new buyers and contribute to our acquisition of new customers. 
+We are very pleased with the initial ramp of Azure NetApp Files since becoming generally available. I'll share a customer example to illustrate why we're so excited. 
+We are working with a Fortune 10 company to meet its Cloud First Initiative. While delivering an equal or better experience to their on-premises environment, with all the agility benefits of the Cloud. The customer began testing Azure NetApp Files while it was in preview and now that it’s generally available, they've established a footprint of almost two petabytes and are growing by a 100 terabyte per week.
+While some of this data will migrate from existing NetApp Systems, roughly two-thirds of the data they will move to Azure NetApp files, currently resides on Competitor Storage Systems. Our sales team partnered closely with the Azure team to leverage our expertise to help the customer establish a data strategy in the Cloud. 
+By working directly with the customers Cloud leadership, we have moved from being merely an infrastructure provider with a minority position in the customer's data center, to a key strategic partner. This is a great example on not only how our Cloud Strategy helps us expand our opportunity by displacing competitive footprint, but how also reaching new buyers; in this case the Cloud team contributes to our growth. As I have described many times, customers and partners are choosing NetApp because of our data fabric strategy and our unique relationships with the hyperscale Cloud providers.
+Before closing, I would like to acknowledge and thank some longtime NetAppers who are moving on for their contributions to our company. Tom Mendoza, Vice Chairman; Joel Reich, EVP Storage Systems and Software Business Unit; and Thomas Stanley, Senior VP of the Americas; we wish them all well. 
+As we align to execute and thrive in a highly dynamic environment, change is inevitable. To that end, I'd like to recognize two key promotions; Brad Anderson to EVP and GM, overseeing both our Cloud Infrastructure and Storage Systems and Software Business Units; and Scott Allen to Chief Accounting Officer. I would also like to welcome Sanjay Rohatgi, Senior VP and GM of Asia Pacific. I look forward to their contributions in the continuing evolution of NetApp.
+I am confident in our strategy and the fundamentals of our business model. Our continued strong cash generation is a great example of the underlying health of our business. We remain committed to our capital allocation policy of returning cash to shareholders through share buybacks and the recently increased quarterly dividend. 
+We will remain fiscally disciplined with our expenditures, while still investing for the long term health of our business. We consistently receive positive feedback from our customers and partners on the value of our data fabric strategy and the strong performance of our best teams demonstrates our ability to capitalize on the strength. 
+We are confident that we can return to growth by replicating their success in reaching more customers and buying centers with our full portfolio. We will keep you updated on the progress of these initiatives on future calls. 
+I'll now turn the call over to Ron. Ron?
+Ron Pasek
+Thanks, George. Good afternoon everyone and thank you for joining us. As a reminder, I'll be referring to non-GAAP numbers unless otherwise noted. To reiterate George's sentiment, we are clearly disappointed with the Q1 results and are committed to addressing the challenges we faced during the quarter. 
+Despite the magnitude of our Q1 revenue shortfall, the gross margin and cost structure improvements we've made over the last three years provide support for our free cash flow generation. As a result, we remain committed to our capital allocation strategy of returning cast to shareholders to share buybacks and our recently increased quarterly dividend. 
+Before discussing our guidance, I'll provide further detail on our Q1 performance. In Q1, net revenues of $1.236 billion were down 16% year-over-year, including over 1 point of currency headwind. Product revenue of $644 million decreased approximately 26% year-over-year. As a reminder, the Q1 ‘19 compare includes $90 million of ELA revenues which did not repeat this quarter. Adjusting for ELAs Q1 revenue would have been down approximately 11% and product revenues would have been down approximately 18%. 
+Moving down the P&L, software maintenance and hardware maintenance revenue of $523 million decreased 1% year-over-year and was flat when adjusting for currency. Deferred revenue which was up 8% year-over-year in Q1 continues to be a strong indicator of the health of our installed base. 
+As we mentioned on the Q4 call, and to provide greater insight into the dynamics of our business, we have updated our strategic and mature product view. Strategic product revenue includes add-on software, Private Cloud Solutions, and all products related to all-flash arrays. Mature product revenue now includes OEM and all products related to disk and hybrid arrays. A historical recast of the strategic mature break-out can be found on our website. As a reminder, Cloud Data Services revenue is included in software and maintenance. 
+Gross margin of 67.2% was above the high end of our guidance range and includes approximately a 0.5 point of currency headwind. Product gross margin was 53.4%, which is an increase of 2.8 points year-over-year when adjusting for ELAs. 
+The increase was driven by sales force discipline and cost reduction and includes nearly a point of currency headwinds. Q1 was the 10th straight quarter we increased product margins year-over-year when adjusting for the benefit of ELAs. 
+The combination of software and hardware maintenance and other services gross margin of 82.1% increased by 50 basis points year-over-year. Q1 operating expenses of $652 million were flat year-over-year, operating margin was 14.4%. 
+EPS of $0.65 was above the preliminary estimate we provided on our August 1 call, but below our original guidance range. We closed Q1 with $3.5 billion in cash and short term investments. Our cash conversion cycle was a negative 10 days, up 10 days year-over-year. DSO of 40 days was up two days year-over-year and down 30 days sequentially. The under performance in revenue in the quarter drove DIO to 25 days, an 8 day increase year-over-year. 
+We expect our cash conversion cycle to remain negative throughout fiscal 2020. Despite the revenue shortfall in the quarter, cash flow from operations was $310 million. Free cash flow of $278 million represented 22% of revenues and was up approximate 6% year-over-year. 
+During Q1 we repurchased 3.9 million shares at an average price of $64.87 for a total of $250 million, which is consistent with our planned run rate heading into fiscal 2020. Weighted average diluted shares outstanding were $243 million, down $26 million year-over-year representing a 10% decrease. During the quarter we paid out $115 million in cash dividends. In total we returned $365 million to shareholders representing 131% of free cash flow generated in the quarter. Our fiscal Q2 cash dividend is $0.48 per share. 
+Now on to guidance. As we discussed on our August 1 call, we expect revenues for fiscal 2020 to be down between 5% and 10% year-over-year. We continue to expect sequential growth within the year to be consistent with our normal seasonal patterns, except for the volatility introduced by ELAs. For fiscal 2020 we now expect gross margin to be in the range of 66% to 67%, above our previous guidance range of 64% to 65%, due primarily to the mix shift towards higher margin maintenance revenues as a result of the weakness in product sales. 
+Operating margin for fiscal 2020 is expected to be in the range of 19% to 22%. Implied in this guidance is our expectation that operating expenses will be flat to slightly down year-over-year in fiscal 2020. 
+As George highlighted, we expect at add 200 headcount to our sales coverage model over the next 12 months. As a result of the current revenue guidance, we expect EPS to be down between 2% and 15% year-over-year without the benefit of buy backs. 
+Given the relative weakness of America's business in Q1, we now expect our effective tax rate to be approximately 18% to 19% in fiscal 2020. Additionally we expect to continue to generate meaningful free cash flow in the range of 19% to 21% of revenues. 
+Now onto Q2 guidance. We expect Q2 net revenues to range between $1.325 billion and $1.475 billion, which at the midpoint implies an 8% decline in revenues year-over-year, including over a point of currency headwind. 
+For Q2 we expect consolidated gross margin to be approximate 66% and operating margin to be between 18% and 19%. We expect earnings per share for the second quarter to range between $0.91 and $0.99 per share. 
+We are diligently focused on improved execution and addressing the challenges we face. We are committed to returning the company to grow as we implement the action plan George outlined, and we remain confident our business model leverage will enable us to deliver long term shareholder returns.
+With that, I'll turn it back to Kris s to open the call for Q&A. Kris. 
+Kris Newton
+We’ll now open the call for Q&A. Please be respectful of your peers and limit yourself to one question, so we can get to as many people as possible. Thanks for your cooperation. Operator?
+Question-and-Answer Session 
+Operator
+Thank you. [Operator Instructions]. Our first question comes from a line of Nehal Chokshi of Maxim Group. Your line is open. 
+Nehal Chokshi
+Thank you. You probably covered this in the script, but your guidance does call for a significant improvement in the year-of-year revenue growth profile, and I appreciate all the detail on what you are doing to address the shortfall. Is it true to say that these things that you're doing, you expect to actually results in that improvement this quickly? 
+Ron Pasek
+If you look at our Q2 seasonality, there are sort of two or three elements that come into play. The first is Q2 is typically a strong quarter for our U.S. public sector business. The second is, Cloud Data Services and our Private Cloud business should continue to perform in a normal seasonal acceleration model, and then the third is that we have factored in and probability weighted a little impact from ELAs in Q2. As you might note from the call script, we did not see any ELAs in Q1. 
+Nehal Chokshi
+Understood. Okay, and then the deferred revenue continues to trend up year-over-year despite the significant year-over-year product revenue decline, below even the July 2015 and July 2016 levels. Is it safe to say that this is a reflection of an increase in attachment of software and services per dollar of installed base? 
+George Kurian
+So, it's a function of several things, that's one. It's also a function of we're doing a little better job on renewals and point of sales. The point of sales rate for services held steady. So, you know, it’s a focus area and has been for a while, we told you that, and we're doing a little better in it. 
+Nehal Chokshi
+Okay, great. Thank you. 
+Kris Newton 
+Thanks Nehal. Next question? 
+Operator
+Our next question comes from Rod Hall of Goldman Sachs. Your question please. 
+Rod Hall
+Yeah, thanks for the question guys. I wanted to start off I guess with the AFA weakness you called out George and fee of – yet, it looks like I mean if we back that out, the hybrid trajectory was okay. I mean things seem more stable there, so I wonder if you could just drill into that in a little bit more detail, what you see going on there. Is it the factor of this macro weakness or are you seeing people backing off of AFA investment, but keeping up with hybrid. 
+And then I wanted to just double-check this as a housekeeping measure. You are guiding with ELAs in the guide this quarter. Just wanted to check that, because I thought previously you guys had decided not to guide ELAs anymore. So thanks. 
+Ron Pasek
+So Ron, so it’s factored in with a probability. So there's some in there, we factored it down a little bit, just in case, so – and there was some in there last year, so that’s a fair compare. But we didn’t put it in at the full value. 
+George Kurian
+With regard to the mix of AFA’s and hybrid, you know if you recall last year we had two elements that drove the AFA business. The first was we had several large global customers that purchased a lot of AFAs, and as we noted on our call, those customers are most impacted by the spending slowdown in the hardware. 
+The second was that we also had about $90 million of ELAs last year, and a good chunk of that was attributed to all-flash purchases. So those two one-time items, on the compare was what drove the AFA number down substantially more than HFA. I would not say that there was any pattern of customers not choosing AFAs as opposed to HFAs in the broad demand environment. 
+Rod Hall
+Okay, great. Thank you, George. 
+Kris Newton 
+Thanks Rod. Next question? 
+Operator
+Next question comes from Matt Cabral of Credit Suisse. Your line is open.
+Matt Cabral 
+Thank you. I was just wondering if you could talk a little bit more about what's driving the uptick in gross margin guidance for the year, and in particular just how we should think about the trajectory of product margins against just the potential for a pickup in the competitive environment if some of the slower deal environment lingers a little bit. 
+Ron Pasek
+Yes, so there is a couple of factors. The biggest one is, obviously, you can see that in the quarter as well. You know the product revenue was down year-over-year. So, as a result, the services margin which is higher than product weighs higher on the overall margin and pushes the overall margin up. 
+Having said that, we’ve told you for the last several years we're working on improving gross margins. We've had 10 consecutive quarters of gross margin improvement on the product margin side and that should continue throughout the year a little bit, both from a pricing standpoint and then some costs as well. 
+George Kurian
+I want to call out the good work done by our sales teams on maintaining discipline. I know that, you know there are some people who think that there's a tradeoff between revenue and margin. I think our teams have remained disciplined around the pricing environment. The strong gross margin indicates our competitive differentiation, and we have not walked away from revenue due to concerns about gross margin. We have strategically used gross margin and our business model as an opportunity where we felt like it warranted it. 
+Matt Cabral 
+Thank you.
+Kris Newton 
+Thanks Matt. Next question?
+Operator
+The next question comes from Mehdi Hosseini of SIG. Your line is open. 
+Mehdi Hosseini 
+Yes, thanks for taking my question. George, going back to your comment on AFA. It seems to me that even if I were to exclude the ELA from FY ’19 the overall AFA revenue could be down in the high teen, FY ’20 versus FY ’19, is that a fare assumption? 
+George Kurian
+It is down a good amount. I think it is primarily due to you know our exposure from being very broadly deployed in big global strategic accounts that did not have as robust a spending pattern this year. The AFA business is the dominant business that we have in the big global customers and they were the most impacted by some of the uncertainty that we saw with regard to macro. 
+Kris Newton 
+Thank you, Mehdi. Next question?
+Operator
+The next question comes from Andrew Nowinski of Piper Jaffray. Your line is open. 
+Andrew Nowinski
+Great, thank you. I just had a question on your OEM business. Last quarter you talked about moving away from some OEM partners and focusing more, on more strategic partners such as Lenovo. I think the OEM revenues included in the mature segments. I was wondering is that $307 million you did in mature this quarter in-line with what you're expecting or did you also see weakness at your OEM partners? Thanks. 
+Ron Pasek
+We saw a little bit of weakness, and as you know it can be fairly lumpy, it's hard to predict often times what OEM customers are going to buy. We feel comfortable with the outlook for the year for OEM, which as we told you last quarter is probably not as robust and we are accepting that, but again we didn’t see a robust quarter this quarter, we do expect to make the year as planned. 
+George Kurian
+OEM is a small percentage of the mature category. It’s frankly the smallest percentage of the matured category. We are driving focus on Lenovo and it'll take some time for that business to wrap. Once it ramps, it will stabilize the OEM revenue. 
+Andrew Nowinski
+Alright, thanks. 
+Kris Newton 
+Thanks Andy. Next question? 
+Operator
+Next question comes from Katy Huberty of Morgan Stanley. Your line is open. 
+Katy Huberty
+Yes, thank you. George you talked about why your Flash business in particular is down double digits this quarter given that the large enterprise exposure. What do you think the market for flash storage did in the quarter, the market also declining? And then can you talk about how long it will take for the 200 new hires to reach their full sales quota and what would be the funding source of those given you don't expect to grow OpEx? Thanks. 
+George Kurian
+I couldn't comment yet on the overall Flash market Katy. I think that our view is that as NAND prices remain low, you know Flash is compellingly better technology than disc for a broad range of you know transactional applications and so as a percentage of a mix, it should benefit from the fact that NAND prices are lower. 
+In terms of the head count that – so we are going to have to wait to see what other people report and sort of an overall market wrap-up to comment about Flash. We think that in our case the concentration of our largest customers, also being our largest Flash customers drove the sort of change in our Flash business. 
+With regard to the investment we're making in sales and primary demand creation headcount, they are not all discreet quarter bearing headcount; there are some technical sales headcount as well. We are going to do that over 12 months. I think you will see a ramp through that period as we get operationally ready and deploy the sales headcount and so you should quarterize 200 over four quarters and it typically takes us about three to four quarters to get them fully productive after they are onboard. 
+Katy Huberty
+Thank you. 
+George Kurian
+With regard to what tradeoffs we're going to make, listen we've done a good job making tradeoffs over the last several years. You can see that in our, you know our operating margins and gross margins and will continue to make the appropriate choice of to prioritize our investments into the biggest opportunities. 
+We think we have a really good portfolio and we think that based on the results we're seeing with our best team, we can deploy more headcount and capture more of the market footprint and so we're going to stay disciplined around that. 
+George Kurian
+Thanks Katy. Next question? 
+Operator
+Our next question comes from Amit Daryanani of Evercore IS. Your line is open. 
+Amit Daryanani 
+Thanks a lot guys. I guess George, I was hoping to talk a little bit about how do you see the cloud services business ramping up through the fiscal year and you were clearly positive I think on how the Azure ramp has gone, especially for the GA. I was wondering, how would you contrast the Google process as you go forward and how do you think that would be comparable or different, what’s going to happen with Azure, especially given the fact Google I think bought something comparable in Elastifile recently.
+A - George Kurian
+First of all, we are very pleased with the progress of our product services business. It’s up 189% year-over-year and I think the range of things that we see, the differentiation of our technology, the ability to you know migrate big customer workloads in a really cost effective manner to the public cloud and to be able to display its competitive footprint, they are all showing up. 
+I think with regard to the plan of what we're executing too, it is to qualify more workload and to get deployed into more data centers, that gives us a broader footprint of opportunity to go after. To train the sales force, both the Microsoft sales force and the NetApp sales force around you know selling these technologies in joint ways and that'll take time you know. These are big teams and it takes us time to get all of them trained. So you should expect a ramp through the course of the year getting stronger each quarter as more people are enabled. 
+With regard to Google, you know we think that we have as good an opportunity to migrate customer workloads to the Google cloud. Elastifile is not a competitive product to what we have. It's a commodity offering to compete with the low end file storage service; it's not an enterprise grade file storage service, and so we feel that our opportunity is undiminished. 
+We are in beta and we are focused on the next step, which is to get the general availability. So far what we see is you know similar pattern of customer trials, testing and so on and so we've done operational readiness with one cloud provider, we're going to work on the second and then as we get to GA we’ll give you more details about it. 
+Amit Daryanani 
+Perfect! Thanks for the insight. 
+A - George Kurian
+Thanks to Amit. Next question?
+Operator
+Next question comes from Steven Fox of Cross Research. Your line is open. 
+Steven Fox 
+Thanks. Good afternoon and thanks for all the color on the quarter. I'm just struggling a little bit with the assumption that some of the macro weakness is fairly compartmentalized around the large EOMs. Is there any other points or conversations you can point to rather that would say that you don't see further weakness in some smaller customers in Europe and the U.S. Going forward I’m just curious, the confidence level in the macro at this point. Thanks. 
+A - George Kurian
+I think that you know our perspective on the macro is very similar to what is reflected in the public commentary on the markets. We saw weakness in certain parts of Europe where GDP growth is challenged. For example, in Germany a little bit and in the UK where the you know sort of ongoing dialogue on Brexit is causing temporary pauses in spending, and then we saw it in the global customers who we do a lot of business with, right. 
+I think we did not say that the enterprises that were at the next year down weren't exposed to the macro. It's our exposure to a particular customer is a lot lower when they are smaller and we have a diverse book of business in the smaller and mid-sized customers than in the giant global customers. So I would tell you that what we experienced was the combination of macro and the big relationships that we have with some of these large global accounts. 
+Steven Fox 
+That's helpful. Thank you very much. 
+Operator
+Thanks Steve. Next question? 
+Operator
+Next question comes from Lou Miscioscia of Daiwa Capital Market. Your line is open. 
+Lou Miscioscia 
+Okay, thank you. I guess George, if you could give us a view as to how I guess you viewed the sales operation since when you came in. I think that if we go back to 2015 when you first started, one of the options I think your predecessors had talked about was materially increasing the sales force, because he viewed that as that would fix some of the problems. 
+And I guess the question I have and a bit of the difficulty I have is here we are ex number of years later. I realize the macro is very weak, so can fully understand that, but you would think that the sales force would be at a run rate level now, after all these years, that you know you wouldn’t have to go out and either a) increase it and I'm not saying that that's wrong, but also b) that there’s a high level of ones that you talked about in the last call that were not the appropriate productive level. I think we would be at a pretty good steady state. 
+So if you could just help us understand that and maybe also a milestone or a number. You’re adding 200. I mean how big is the sales force, at least maybe that will help us understand that statistically maybe why there's a couple of issues here, thank you. 
+A - George Kurian
+I think first of all you know with regard to the work that we've done in the field organization, as we have said, we have transformed many, many elements of the field organization, particularly by implementing a coverage model that allows us to prioritize our resources against the biggest accounts and the biggest opportunities. 
+We started the implementation of coverage against the big global account in a more systematic way two to three years ago, which is what drove the results that we had alongside the big global accounts. We don't cover 100% of the largest 2000 to 3000 accounts in the world and we believe given the results that we’ve had, that we have the opportunity by expanding coverage to a broader set of accounts that we can grow our business. 
+We have also implemented new selling motions right, like covering certain markets through the channel. You saw us restructuring parts of our European organization, so that we could afford the investments in covering the bigger accounts in the bigger countries by moving some of our countries, approximately 15 of them to be served through the channel. We have constructed a joint venture in China together with Lenovo, so that he could participate in the China market in a more efficient fashion. 
+So we've done a lot of things to change the structure and the composition of the sales force. We think that by adding you know a combination of resources to go after the market, approximately 8% to 10% increase in coverage, we should be able to continue to grow our business in the top line, which is the fundamental issue we've had. 
+You know if you look at the rest of the P&L, we've had an exceptionally strong result across gross margin, operating margin and all of the other elements of cash generation, and we think that this is specifically a top line issue. We think that by broadening our coverage and footprint, we should be able to mitigate the impact of the macro on a few large customers that today we are exposed to. 
+Lou Miscioscia 
+Okay, thank you.
+A - George Kurian
+Thanks Lou. Next question? 
+Operator
+The next question comes from Tim Long of Barclays. Your line is open. 
+Tim Long 
+Thank you. If I could just ask kind of a two-parter here on visibility. Obviously what happens last quarter took us a little bit by surprise. Can you just talk a little bit about you know this full year view and how you feel about the second half and did you do some factoring of kind of pipeline like you did for the ELAs in the quarter. 
+And then just Ron, if you could remind me the visibility into the installed base. I guess that the deferred rose, but we did have you know a decline in a few of the revenue lines, the product services and hardware maintenance. So if you could just flush out for us that installed base view, that would be great. Thank you. 
+Ron Pasek
+Okay, so let me start with that one. So you know when you look at maintenance you've got to kind of combine the software maintenance and hardware maintenance together, because we have changed the values associated with each over a period of time, certainly as it relates to the newly installed base. 
+When you add them together they are down 1% year-over-year and when you adjust for FX they are flat. The fact of the matter is we are growing our installed base of systems under contract and have been for really, for the last eight quarters. So it's actually very healthy what you see reflected for the revenue number. 
+George Kurian
+With regard to our outlook for the rest of the year, you know we are not expecting rapid resolution of either the macro or some of the uncertainty around trade and so we factored in a fairly conservative profile and outlook in the overall picture. Either it’s reflective of typical linearity based on a very slow start in Q1 or you know it includes some of the fact that our second half has an easier compare compared to our first half of this year, and so we are not expecting some miraculous rebound in terms of the macro environment. 
+I think with regard to ELAs, you know as we said ELAs comprise about 2% of the revenue in the year. We don't break it out on a per quarter basis. You should factor in some sort of run rate for ELAs within our broader guidance. 
+Ron Pasek
+Just to add to that Tim, remember we have no ELAs in Q1, limited in Q2, so most of the ELAs will happen in the second half, actually it helps with the second half. 
+Tim Long 
+Okay. Thank you. 
+Kris Newton 
+Thanks Tim. Next question?
+Operator
+The next question comes from Jim Suva of Citigroup. Your line is open. 
+Jim Suva
+Thanks very much, Ron and George. A quick question for each of you. Ron you just mentioned limited ELAs next quarter and then more in the second half if I heard that correctly, and when you say more in the second half, do we think then about an annual run rate that you've been talking off, or how should we think about the ELAs in the second half. 
+And then George if you could help us understand, adding 200 sales people in America, that's very good and a couple of quarters to ramp, but I think I heard you say no additional expenses. So how does that work out? Is that just a reallocation or how do you work out more people with no additional costs? 
+Ron Pasek
+Yeah, so just on the ELAs, you know I won’t give you the number in Q2 but it’s not huge. Obviously I factored it down, which means that mostly the ELAs will be in the second half. Again to George’s point, we told you that ELAs are roughly 2% of total revenue. So you should expect the majority of that in the second half of the year. 
+George Kurian
+With regard to the sales capacity, as I said you know they are not all primary quarter bearing headcount. The majority of the 200 should be quarter bearing headcount, but it’s a combination of frontline quarterbacking headcount, technical resources and management. 
+We are going to deploy them in a graded fashion over four quarters and you should expect a ramp through those quarters as we get the operational momentum of hiring and all of that in place. It takes three to four quarters as we’ve said consistently for a sales rep to get productive, right and some of these are going to be focused on selling our Private Cloud and Public Cloud portfolios, which have a different business model or profile than a traditional storage system. 
+With regard to how do we expect to hire 200 people and not impact you know operating expensive, I’ll just say we have north of 10,500 people on the company payroll and so we’ll make the appropriate tradeoffs across our broader employee population as we think about people leave the company and you know the shape of people we hire will ship it towards the sales organization, so that we can you know accelerate the turnaround.
+Jim Suva
+Great, thank you so much for the details and clarifications. That’s great, we appreciated it. 
+George Kurian
+Thank you, Jim. 
+Kris Newton 
+Thank you, Jim. Next question? 
+Operator
+The next question comes from Aaron Rakers of Wells Fargo. Our line is open. 
+Aaron Rakers
+Yeah, thanks for taking the question. I want to go back to Amit's question earlier on the Cloud Data Services business. First of all, just a kind of clarification. You know relatively to what you said on the pre-announcement and now today, are you endorsing the fact that you still believe you'll be at that 400-plus million run rate exiting fiscal 21. 
+And then kind of building on that, one of the comments in the prepared remarks that you know CDS is ramping and there are some elements of cannibalization to the traditional business. I'm trying to understand how you think about that. You know should we consider that as CDS ramps there there's going to be some cannibalization of the traditional on premise business for you guys. Just get any kind of clarification or help on that would be useful. 
+George Kurian
+First of all I think we are pleased, with the momentum that we have in the CDS business. We still have the plan to be in the $400 billion to $600 million annual recurring run rate exiting Q4 of fiscal 21, and we are executing to that plan. There's a lot of work that goes into that, but having a leading hyper scalar like Microsoft now generally available is a good benchmark and the next benchmark is to scale them and to get Google Cloud Platform to general availability. So our heads down on executing our game plan. 
+I think with regard to the base of customer adoption, we feel very good about the early results, right and I think that you should see that ramp through the course of the year. 
+With regard to cannibalization, I would just tell you that you know the fact that NetApp technology is available in the Microsoft Cloud or the Google Cloud, doesn't necessarily mean that the customer is going to move the NetApp workloads first to the cloud. They have a pattern of workloads they want to move to the cloud, we get to participate in a much broader opportunity, as a result of having our technology now being the enterprise platform for both Microsoft and Google, at the expense of our competition, right. That loses every dollar that moves to the cloud, they're going to get zero. We get to participate in two of the biggest hyper-scalers now capturing those workloads onto our platform.
+Does it on the margin cause some cannibalization? That's already factored into the on-premise business versus the public cloud business forecasts that people have. We just now get to participate in a much more meaningful way in the public cloud business than anybody else. And in some ways that is also helping us now, with new footprint on-premises as customers and now say,” listen, I discovered NetApp in the public cloud. I want to give them a bigger footprint on-prem.”
+Aaron Rakers
+Very helpful, thank you.
+Kris Newton
+Thanks Aaron. Next question?
+Operator
+The next question comes from Ananda Baruah of Loop Capital. Your line is open.
+Ananda Baruah
+Good afternoon, I appreciate you taking the questions. Yeah, just going back to AFA, I guess just a two-part for both George and Ron if I could. We'd love to get a sense of, if you're seeing incremental pricing pressure over the last couple of quarters in AFA, even if it's from the customers as the deal sizes have shrunk a bit? And then just sticking with AFA, I'd love to get a sense of if you think that macro aside just industry penetration, the velocity of industry penetration has been slowing at all and your thoughts around that. Thanks a lot.
+George Kurian
+You know, I'll tell you what we saw with our AFA business is that customers bought more of the mid-range configurations and you know bought the capacity that they needed for the next year rather than rightsizing the equipment for a three-year outlook, right? And that is, you know what I would do if I were faced with an uncertain budget environment, so we did see that fairly systematically. 
+I think with regard to AFA versus the overall storage market, I think that the economics of AFAs compared to hybrid continues to grow and get better, right? If you look at NAND prices, they continue to make AFA a much more attractive value proposition than they were in the past, every quarter, and so if I were a customer, I would continue to prioritize AFA for all by transactional applications. The overall landscape for storage is dependent on the macro, and so I don't see the mix changing. I just look at the overall water level being determined by the macro.
+Ananda Baruah
+Okay, got it. That's helpful. I appreciate the context. Thanks.
+Kris Newton
+Thanks, Ananda. Next question?
+Operator
+The next question comes from Eric Martinuzzi of Lake Street. Your line is open.
+Eric Martinuzzi
+Yeah, I just wanted to clarify, a couple of weeks ago you talked about the shortfall being about two-thirds macro, one-third NetApp-specific. I wanted to make sure that was, you still felt that was the case after a couple of weeks of analysis? And then second part of the question has to do with, you've turned over your EVP, Americas. Wondering if there is any turnover below that senior level, because obviously that would make the adding to the sales more of a back-end loaded 2020 effort. I would think that that might slow things down on the sales hiring.
+George Kurian
+Listen, I think that our analysis leads us to draw the same conclusion, which is its two-third macro, one-third, yes we could have executed better. We did see some exposure from our – being concentrated in some of the larger accounts, right, and I think that that's consistent. 
+I want to just say that our leadership team, we wish all of the members of our leadership team well. We have the need to continue to add capacity. That's the fundamental area of focus for us. We'll continue to inspect our business and we'll provide you updates on our execution improvements over time. I'll just leave it there.
+Eric Martinuzzi
+But were there second level turnover, obviously there was at the EVP level, but kind of one level down from that?
+George Kurian
+No.
+Eric Martinuzzi
+Okay, thank you.
+Kris Newton
+Thanks, Eric. Next question?
+Operator
+Next question comes for Andrew Vadheim of Wolfe Research. Your line is open.
+Andrew Vadheim
+Thank you. I wanted to follow up on the full-year outlook and what role macro plays. So if you look at 1Q regarding the geographic breakdown of your revs, focusing on EMEA and APAC, 1Q numbers were pretty close to our expectations. And if you link the geographic split back to your full year guide, are you embedding sort of a flat or slightly down EMEA, and APAC for the year. And then uncertainty in Americas gets you to down 10 at the low end to down five at the high-end or does the bottom/top of the range embed a bull-bear case for EMEA and APAC?
+Ron Pasek
+You know I'd rather not go into some of the specific assumptions we made by geo. I think we did look at several things. We looked at what we're seeing in the macro environment in each of those geographies, we talked at the local sales leadership etcetera. 
+We are making judgments overall, so I can't tell you the exact trade-offs we made, but we are looking at a downsize down 10% for the year. So obviously you'll see that probably most profoundly down in the Americas, kind of given where we are, but beyond that I'm not going to give any other detail.
+George Kurian
+I'll just say I think all of the calculations and factors we considered are you know in the public domain, right, and we use those factors to determine broad-based economic trajectories and then combine that with the judgment and the pipeline data of our sales teams and the historical linearity pattern of our business.
+Kris Newton
+Alright, thank you Andrew. Next question?
+Operator
+Next question comes from Nick Todorov of Longbow Research. Your line is open.
+Nick Todorov
+Hi, thanks for taking the question. You guys talked about customer concentration a couple of times today. Can you give us a little bit more color, maybe an example of how much revenue you’re top 10 or 15 customers account for?
+George Kurian
+We are not going to break that out. I would just say that the impact of what happened during the quarter was primarily due to the fact that some of our largest global accounts that we have very strategic relationships with, you know did not spend anywhere close to what they spent last year.
+I'll give you an example. We had two large customers that are exposed to the China tariff situation that have cut their capital spending by north of 30% year-on-year. Clearly we are a part of that spending profile and so I would just say that we have really good relationships with the big set of customers and we are planning to broaden those relationships to another broader set of customers over the course of the next year to 18 months.
+Nick Todorov
+Okay. And can I squeeze one more in? Can you remind us how much you have remaining on your buyback authorization? And that'll be from me. Thanks.
+Ron Pasek
+We have $1.6 billion left on the authorization.
+Nick Todorov
+Okay, thanks guys. Good luck.
+Kris Newton
+Thanks Nick. Next question?
+Operator
+Next question comes from Simon Leopold of Raymond James. Your line is open.
+Simon Leopold
+Thank you. During the prepared remarks, you did indicate that you're not seeing any change in the competitive environment. I just wanted to maybe get a better understanding of whether or not we might see the market share shifts as measured by the third party that might reflect differences in geographies or differences in terms of footprint where maybe a competitor might be upgrading its legacy footprint and you've completed that task. Just trying to get a little bit of a better understanding of how you can be confident that it's not about competition and how to square this with third-party research? Thank you.
+George Kurian
+I think that you know what we mean when we say it's not a competitive factor is that our win rates in competitive transactions remains the same. Our product gross margins were up 280 basis points year-on-year when you adjust for ELAs, which shows the strength of our differentiation, right? 
+I think there may be differences in how the results play out for different providers depending on their customer basis. We did see exposure from our biggest customers not buying as much, right? And I think that what we are convinced off is that if we expand our footprint and broaden our customer coverage, given the strength of the performance we've had in the places where we saw you know budget available and our ability to win competitive transactions, we should be able to broaden our book of business and reduce the effects of customer concentration.
+Simon Leopold
+Thank you for the clarification.
+Kris Newton
+Thank you, Simon. Next question?
+Operator
+Next question comes from Mehdi Hosseini of SIG. Your line is open.
+Mehdi Hosseini
+Yes, I have two follow-ups. Ron, if I were just to look at your guide for the October quarter operating margin, it seems to me that OpEx would actually go up by $10 million to $15 million. Is that a fair assumption?
+Ron Pasek
+Yeah, I mean, it goes up as a function of revenue, sure.
+Mehdi Hosseini
+Okay, so just going back to the comment of adding additional sales people, this OpEx is just nature of the revenue and nothing to do with the recent months.
+Ron Pasek
+Yes. You won't see a huge impact to OpEx in the quarter for the hiring, it takes a while to get people onboard. You'll see some increase is baked in there, but most of that's just a function of the linearity throughout the year, linear revenues and the headcount structure. So. 
+Mehdi Hosseini
+Sure. I just have a quick follow-up to the AFA question I asked earlier. Your comments suggested there is a high-teen decline in AFA revenue, FY'20 versus FY '19. But as I look at the back half of this FY’20, I see a nice rebound driven by the migration of the 10 K-RPM to SSD, and that should build momentum into calendar year – into the fiscal year '21. Is that a fair assumption as to what could drive a rebound in AFA?
+George Kurian
+I think first of all, what we said was it was reflective of Q1 results, Q1 FY '20 over Q1 FY '19 being down in the high teens, right? 
+I think with regard to the rest of the year, I'm not going to break out AFA versus HFA. I think that AFA is advantaged on a whole bunch of dimensions and should continue to get a bigger share of the pie of storage relative to HFA than it was in prior years, just because of NAND economics, QLC, all kinds of things. 
+I think we will continue to use every opportunity we can to drive transitions of disk-based systems and hybrid-based systems to our flash systems. The pace of those upgrades is a combination of, yes, good technology being available, but also budget cycles being available. 
+And so we're going to lean in on the technology side and give customers every opportunity to upgrade. But we'll have to wait to see how the macro plays out, to see how many of those budget cycles are available.
+Mehdi Hosseini
+Got it. Thank you.
+Kris Newton
+Thank you. Mehdi. I'll now pass it back to George for a couple of closing comments.
+George Kurian
+Thanks, Kris. I'm disappointed in our weaker than expected top line results, but I remain confident that we have the right strategy and technology to address the key market transition. We have a strong business model, as a result of the hard work we conducted to improve gross margin and cost structure over the last several years. 
+Our continued strong cash generation is a great example of the underlying health of our business. We will remain fiscally disciplined with our expenditures, while still investing for the long-term health of the business, and we remain committed to our capital allocation policy of returning cash to shareholders through share buybacks and a quarterly dividend. The robust fundamentals of our business enable us to navigate the ongoing macroeconomic headwinds and make the strategic moves that position us to return to growth. 
+I hope to see you at the Investors session of our Annual Insight User Conference on October 29 in Las Vegas. Thank you again. 
+Operator
+Ladies and gentlemen, this concludes today’s conference. Thank you for your participation and have a wonderful day. You may disconnect your lines at this time.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

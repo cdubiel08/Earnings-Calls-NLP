@@ -1,0 +1,187 @@
+Oracle Corporation (NYSE:ORCL) Q3 2019 Earnings Conference Call March 14, 2019  5:00 PM ET
+Company Participants
+Ken Bond - SVP
+Larry Ellison - Chairman & Chief Technology Officer
+Safra Catz - CEO
+Mark Hurd - CEO
+Conference Call Participants
+Heather Bellini - Goldman Sachs
+John DiFucci - Jefferies
+Phil Winslow - Wells Fargo
+Raimo Lenschow - Barclays
+Michael Turits - Raymond James
+Mark Moerdler - Bernstein Research
+Brad Zelnick - Credit Suisse
+Operator
+Welcome to Oracle’s Third Quarter 2019 Earnings Conference Call.
+Now I’d like to turn today’s call over to Ken Bond, Senior Vice President.
+Ken Bond
+Thank you, operator. Good afternoon, everyone, and welcome to Oracle’s third quarter fiscal year 2019 earnings conference call. A copy of the press release and financial tables, which includes a GAAP to non-GAAP reconciliation and other supplemental financial information, can be viewed and downloaded from our Investor Relations website. 
+On the call today are Chairman and Chief Technology Officer, Larry Ellison; and CEOs, Safra Catz and Mark Hurd.
+As a reminder, today’s discussion will include forward-looking statements, including prediction, expectations, estimates or other information that might be considered forward-looking. Throughout today’s discussion, we will present some important factors relating to our business which may potentially affect these forward-looking statements. These forward-looking statements are also subject to risks and uncertainties that may cause actual results to differ materially from statements made today. As a result, we caution you against placing undue reliance on these forward-looking statements and we encourage you to review our most recent reports, including our 10-K and 10-Q and any applicable amendment for a complete discussion of these factors and other risks that may affect our future results or the market price of our stock.
+And finally, we are not obligating ourselves to revise our results or publicly release any revision to these forward-looking statements in light of new information or future events. 
+Before taking questions, we’ll begin with a few prepared remarks. And with that, I’d like to turn the call over to Safra.
+Safra Catz
+Thanks, Ken. Good afternoon, everyone. I’ll first go over Q3 results before moving on to guidance. I’ll then turn the call over to Mark and Larry.
+As in prior quarters, I’ll review our non-GAAP results using constant dollar growth rates unless I say otherwise. Total cloud services and license support revenue for the quarter was $6.7 billion, up 4% in constant currency and now accounts for nearly 70% of total company revenue, largely recurring revenue. As in past quarters, we are seeing robust double-digit growth rates for total cloud revenue in all regions, with especially strong growth in Asia-Pacific.
+In terms of product categories, ERP grew in the mid-30s and the verticals grew in the high-30s. Our Software business, which is the totaling of cloud services and license support revenue with cloud license and on-premise license revenue, is 82% of total revenue and it grew 3% in constant currency. Our Software business has remained extremely stable and resilient as we have made the transition to faster growing SaaS business that entailed trading nonrecurring upfront license revenue for recurring long-term subscription revenue.
+Through adoption of Autonomous Database and OCI, we are now shifting the focus for infrastructure business to the cloud. As a percentage of our total software business, cloud is now more than double what it was just three years ago and provides us with the ability to accelerate overall software revenue growth as this mix shift continues.
+GAAP applications total revenue were $2.8 billion, up 7% and GAAP infrastructure total revenues were $5.1 billion, up 2%. Gross margin for cloud services and license support was 86%, essentially the same as last year, with continuing improvement in SaaS gross margins, stability in software support gross margins and continued investment in Oracle cloud infrastructure. Once our Cloud business is at scale, I expect our gross margins will go significantly higher.
+Total revenue for the quarter was $9.6 billion, up 3% from last year. Non-GAAP operating income was $4.3 billion, up 5% from last year. And the operating margin was 44%, up from 43% last year.
+This quarter last year was greatly impacted by the change in the U.S. tax law, so comparing the GAAP numbers is not very meaningful after pretax income. The non-GAAP tax rate for the quarter was 20%, up from 16% catch-up rate last year and non-GAAP EPS was $0.87 and up 12% in constant currency. This quarter the GAAP tax rate was 11% and GAAP EPS was $0.76.
+Operating cash flow over last four quarters is $14.8 billion. Over the last four quarters, capital expenditures were $1.6 billion and free cash flow was $13.2 billion, down 1% due to timing differences of tax payments and working capital items.
+We have more than $40 billion in cash and marketable securities. The short-term deferred revenue balance is $8 billion, up 5% in constant currency.
+The remaining performance obligations, or what I’ll refer to as contract backlog, will be in the Q and is now $31.5 billion, of which approximately 62% will be recognized as revenue over the next 12 months.
+Since we remain committed to returning value to shareholders through acquisitions, internal investments and a return of capital with stock repurchases and dividends, this quarter we repurchased 206 million shares for a total of $10 billion. Over the last 12 months, we repurchased 728 million shares and reduced the absolute shares outstanding by nearly 16%, and the Board of Directors increased the quarterly dividend 26% from $0.19 to $0.24 per share.
+Turning to currency. I expect the strengthening U.S. dollar will continue with a currency headwind of 3% for Q4 revenue and a $0.03 headwind to earnings per share. 
+Okay. So with that, let me turn to the guidance. So for Q4, total revenues are expected to grow 1% to 3% in constant currency and 0% to negative 2% in U.S. dollars. Non-GAAP EPS in constant currency is expected to grow between 15% to 19% and be between $1.08 and $1.12 in constant currency so we will deliver double-digit non-GAAP EPS growth for fiscal year 2019.
+Taking into account the $0.03 currency headwind, non-GAAP EPS for Q4 in USD is expected to grow between 12% and 16% and be between $1.05 and $1.09 in USD. My EPS guidance assumes the base tax rate of 20%. However, onetime tax events could cause actual tax rates for any given quarter to vary from our base tax rate. But I expect that a normalizing for onetime tax events, our tax rate will average around 20%.
+And with that, I’ll turn the call over to Mark for his comments.
+Mark Hurd
+Thanks, Safra. A solid quarter for us from top to bottom. Total revenue was up 3% in constant currency with. EPS 12%, plus 12% constant currency. In our apps ecosystem, we continued our momentum growing at 7% and that was an acceleration for us and over $11 billion in trailing 12 months revenue and 92% of that is now recurring.
+We continue to grow revenue faster than market and we have an enormous opportunity ahead of us in ERP and HCM. In terms of SaaS revenue and bookings, Fusion apps were up 35%. By the way, our overall ERP and HCM annualized SaaS revenue is now $2.8 billion. That’s up in the mid-20s. Fusion Apps, 35% up, Fusion ERP revenue was up 47% organically. NetSuite revenue was up 28%. Bookings were up actually even higher in the mid-30s.
+Our vertical revenue was up 38% and our annualized revenue in the verticals is now over $800 million. I’m going to read you a quick quote from IDC and I have to read it precisely or I’ll get cards and letters. So let me just make sure I do this exactly as it’s written. “Per IDC’s latest annual market share results, Oracle is the number one enterprise applications vendor in North America based on market share and revenue, surpassing salesforce.com and SAP.” We’ve seen this momentum building. So this is not any surprise to us, but I think it’s always better when you can see it in real numbers from somebody other than us.
+Let me switch briefly to infrastructure. Our GAAP techie co-system was $21 billion on a trailing 12 months basis and Q3 was up 2%. And Autonomous Database, our momentum continues to build. We now have 4,000 new trials that were added in Q3 alone.
+Nearly 1,000 paying customers. We’re adding many new customers and we’re seeing great pull-through, with 20% of our Autonomous Data Warehouse trials also using analytics. We have over 35 referenceable customers and we expect to be greater than 100 soon. Cloud customer revenue was up triple digits for the fourth consecutive quarter.
+So overall, a solid quarter and we hit our revenue targets and saw 12% EPS growth. Climbing renewal rates gives me the confidence that our Cloud Apps businesses is only going to strengthen from here and going forward begin the visibility we have into the revenue backlog, which Safra touched on a bit earlier.
+Looking forward, I do expect FY 2020 revenue growth will be higher than FY 2019. And EPS this year will be certainly grow double digits, as Safra mentioned. I’m going to give you a few customer wins as well. Try to give you a flavor for what happened in the quarter for us. Most of these didn’t affect our revenue. Most of these are all really bookings that occurred in the quarter, but I thought I’d give you some context about some people in our user base as well as outside our user base.
+For example, comp group in the Netherlands, E-Business Suite migration, master brands cab threats in the U.S., an E-Business Suite migration. Tyson Germany, an E-Business Suite migration. Watson, E-Business Suite migration. I gave you those, a few of those examples. Those are core sort of E-Business engineering company. Core sort of E-Business Suite customers as we see this acceleration of our user base moving to the cloud.
+We had a couple people soft ERP migrations, mutual in the quarter. DePaul University and a slew of wins again, I reference that a lot of the ERP user base that’s out there today is outside of our user base or even our traditional on-premise competitor from, if you will, the old days.
+On semiconductor, nice win in the quarter. Packaging Corporation of America, again, outside of our user base for the quarter. Eaton, another manufacturer in the Netherlands. I could go on, which in the sake of time I won’t, although I’ll mention Ashford Hospitality. These are, again, outside our user base that are brand-new customers to Oracle in the area of ERP.
+In HCM, Abu Dhabi airports, ADT, Bloom Bank, Great Canadian gaming, we had a really nice win at a company called the Nova Healthcare. This again was not inside our user base. These were traditional cost where we actually did multi-pillar ERP back office and HCM connected together. So I’ll stop there, in the sake of time, but just a really, again, very impressive set of customers and a good mix of net new logo as well as movement from our user base.
+We had a pretty good quarter with some really quality names on the platform side. Fair Isaac, shared services in Italy, Joanne Stores, some really nice beginnings of what you see as we move to our gen 2 cloud and Autonomous Database.
+I did want to make a couple quick comments on our growing relationship with The Gap. It was a global retailer. Revenue greater than $16 billion. We’ve been working with The Gap and their transformation to what’s really a multi-cloud environment, but using many, many Oracle technologies and they include really everything we’ve got.
+SaaS, PaaS, delivering innovation, reliability and scalability at every turn and as part of even the things they’re using in the private cloud, those are all really enabled by Exadata and we’re really thrilled to be Gap’s extra tee partner in their effort. That’s a few quick wins for the quarter. So overall good, solid quarter for us on the income statement side, but also in the quality of these bookings that we’re describing or that I’ve been describing.
+And with that, I’ll turn it over to Larry.
+Larry Ellison
+Thank you, Mark. Oracle’s future rests on two strategic businesses, cloud applications and cloud infrastructure. The growth in our cloud applications business has been driven by our Fusion suite and NetSuite. Both the Fusion suite of applications and NetSuite are growing very, very rapidly. Mark gave you the numbers.
+As the names imply, both Fusion and NetSuite with integrated suites of MRI cases, including sales, service, human resources, financials, supply chain and manufacturing applications. No other cloud services provider has such a comprehensive suite of applications covering both the front office and the back office. Most customers want their cloud services provider to make their applications work together. Customers do not like to be responsible for the complex process of integrating lots of different applications, running on lots of different vendor’s clouds.
+We think our integrated suite approach to the cloud applications business is a primary reason for the very rapid growth in our cloud applications market share. The introduction of our gen 2 highly secure infrastructure featuring the Oracle Autonomous Database has been very well received. During Q3, we had nearly 1,000. Over 4,000 active trials.
+Our infrastructure technology is highly differentiated from AWS. Each one of our cloud computers has a separate security processor and memory, insulate customers from intruding upon each other and it also makes our cloud control code inaccessible by customers.
+No other cloud services provider offers this kind of protection across their entire public cloud. The Oracle Autonomous Database is the only database that can respond to a security threat by automatically. No down time is required. No other database has this capability. Oracle technology leadership and cloud infrastructure and database plus our market leadership and cloud applications makes us very optimistic about our future.
+I’ll turn it back to you, operator. Operator, if we could turn to Q&A portion of the call.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question comes from Heather Bellini from Goldman Sachs.
+Heather Bellini
+Thank you. Good afternoon. Mark, I wanted to ask a question of you. Last month when we were together at our tech conference you reiterated that this goal, second half 2019, sales growth would accelerate on a constant currency basis versus first half and I’m not trying to be knit picky but I think it doesn’t look like it’s accelerating much.
+So I was just wondering if anything changed and I also wanted to ask about fiscal 2020 which you just mentioned that fiscal 2020 constant currency revenue growth would be higher than fiscal 2019. I guess what I’m wondering is should we be thinking that that constant currency growth acceleration that you’re referring to for fiscal 2020 is similar to the type of acceleration in the second half of fiscal 2019 or could it be more meaningful? Thank you.
+Mark Hurd
+Yes. So let’s go back. I think 2019 will grow faster than 2018 second half is whatever your adjective is around it, grow faster than first half. FY 2020 faster than 2019. When you get in underneath it what are the drivers. At a big level first, our growing businesses are becoming a bigger part of our total than our other businesses. So as an example, just one example, Cloud ERP gets bigger, hardware gets smaller, obviously those have offsetting effects.
+In addition, we have things that attach with that for example, our consulting services business now in on-premise has been declining but our cloud consulting is inclining, as does our overall bookings. So as a result, these just offset each other. Within it, clearly, I’ve given you the numbers on certain parts of our apps as an example of ERP and HCM which are growing substantively. Larry’s comments about Autonomous Database are two huge drivers of growth as we go forward.
+So I think all those statements, 2019 versus 2018, second half, first half, 2019 to 2020 are all where you’re going to see acceleration of top-line growth in CD.
+Ken Bond
+Next question, please.
+Operator
+Your next question comes from John DiFucci with Jeffries & Company.
+John DiFucci
+Thank you. So your aggregate results have been I guess relatively steady might be the right way to characterize it. And during this period, I think investors really appreciate the share buybacks and the dividend, dividend increase this quarter. I guess I want to sort of follow on with that line of thinking, Mark, and this uptick in fiscal 2020 and you talked a lot about your Cloud Apps and we get a lot of information on that but can you talk a little bit about what extent the data base options might be a driver to some of that revenue acceleration and how big is the Middleware business at this point?
+Mark Hurd
+I’ll start. I’ll let Larry comment also a bit on the options. I think first, just when we get into on the database side, the big move here is to autonomous. I think we tried to give you some numbers of the level of interest. The level of – the increased interest coming from either end of Q1, early Q2 into Q3 was just – John, it was just substantive. It won’t he show up in our revenue numbers yet.
+I’m talking in terms of trials and people testing and now frankly people buying. What we’ve even seen, what’s really nice, people buying something for as much as 15, 20, 25K as their first move into Autonomous Database and even within the quarter making a second purchase that turns into. These are really encouraging early signs for us. And then to the point that you bring up, we just don’t get the database t we get analytics, we get other service that’s come with it.
+So as we continue to convert trials into real usage, real usage into expansion, this becomes a core he key driver as we move forward. I’ll let Larry follow on with other parts of the options.
+Larry Ellison
+As people use Autonomous Database in the public cloud, they typically got by the multitenant option and the real application cluster option which are required options for Autonomous Database. So there’s no question that the introduction of Autonomous Database and the consumption of Autonomous Database is that accelerates will increase the license purchases of those two options.
+John DiFucci
+And just the second part of my question, you used talk about middleware and how it was on-premise middleware stuff wasn’t growing, was declining. Can you tell us even just roughly how big that is at this point? You sort of alluded to some of these other businesses that weren’t growing or getting smaller and smaller.
+Mark Hurd
+We never break that out, John, so to my knowledge, unless – I’m not going to break – I’m not going to start breaking it out today, but clearly, we’re – middleware is moving if you will from like everything else from on-premise into the cloud. We’ve got a full suite of services in the cloud. But we’re not going to break it out into a discrete business today.
+Larry Ellison
+I can say a couple of parts of middleware are doing quite well. I think it’s a mixed story. I think analytics are doing very well in the cloud. As Mark mentioned, 20% of Autonomous Database goes out with analytics and have had java had a very good quarter.
+Mark Hurd
+I had one last point. Security is faster growing business as we could have within the context of the Middleware business as well. Again, the problem in middleware, it’s not a thing. It’s multitenant products within it. Like many things we’ve talked about, many things growing fast and things declining simultaneously.
+Operator
+Your next question comes from Phil Winslow with Wells Fargo.
+Phil Winslow
+Great. Thanks for taking my question. Congrats on a strong quarter. Just want to build on John’s question there about the reacceleration you had in database. When I think about what really differentiates Oracle and cloud, it’s the gen 2 OCI that we continue to get increasingly positive data points on and then also adding autonomous platform on top of it.
+My question is with the autonomous Data Warehouse being out for a year and the transactional process being out since August, how should we think about those two combining, to the reacceleration on top of ACI and you mentioned the thousand customers and 4,000 trials, what is actually the driver of people shifting over, is it speed? Is it cost? Is it performance? Just some more color on that would be great so timing and then why.
+Mark Hurd
+I’ll let Larry start.
+Larry Ellison
+Okay. All right. So the driver is many different things. Some of our customers were stunned that they can get a database up and running in five minutes. We’ve been collecting references and studying the thousand customers and the 4,000 trials and what they find encouraging about the Autonomous Database. Certainly, we’ll call it productivity improvements. The fact they can go from not having a database, not having hardware, literally log onto our cloud. Up and runnings and doing useful things in five minutes is proving to be a shock to a lot of our customers.
+So getting things up and running quickly, productivity has been a very big issue. We’ve got one customer who’s done a series of tests. AWS user and I know we had these ads that promised cut your AWS bill in half. They found that we were running 11.5 times faster than they were running on AWS and they cut their bill by 80%. These are university researchers. So they’re very, very cost sensitive and they felt it was worthwhile making the move, just because we were much less expensive, Autonomous Database was way less expensive than Redshift or Aurora at Amazon.
+Some people they had an existing Data Warehouse and it was just the compatibility, being able to take an existing Data Warehouse, not spooling up a new one in five minutes but taking an existing Data Warehouse, lifting it and shifting each other. We’re seeing all of those use cases. Productivity, motivators, I should say. Productivity, compatibility and cost. All driving the usage of Autonomous Database.
+Mark Hurd
+We’ve never had a release in the database area where we could actually talk to a CEO about what was in the release and the CEO would go I completely get it. It’s not like we’re talking about partitioning or something like that. When you talk about the fact that this database patches itself our customers at the CEO level now understand what a patch is. They understand why it’s so important, why it’s so strategic. They in many cases have to discuss it with their audit committees. The fact that now patching goes from a problem to where they pass that to us and it gets done instantaneously, we have many customers who said if this thing did nothing but that, I would migrate to Autonomous Database.
+If the fact that – to Larry’s point, this data base tunes itself, creates all its own indexes, that actually is labor – it’s labor less and can you apply talent too. If it did nothing but give you better security and price and performance, so this is a release that the reason you’re seeing the trials and the level why you hear enthusiasm the way it is the customer response is just extremely high because it just makes business sense.
+This isn’t something sold five levels down or four levels down in the org. This can be sold at the top of the company, if you will, at the CEO level. So it’s why it’s such an exciting release to us because the point it has so many business benefits to our customers as opposed to maybe the fact that you would think of traditionally many of our benefits being if you will technical. Its different explaining to a CEO what multitenant is and what in-memory is than frankly the benefits I’ve just described.
+Phil Winslow
+Knowing how much we spend on patching I’ve got a lead for your CRM system.
+Safra Catz
+I won’t get too specific into your situation. You’re a good use case with a very large bank with a tremendous amount of Oracle that frankly in many ways has done a fantastic job, but still has a window that has to be closed and this in terms of patch deployment and this is one vehicle to certainly a vehicle and the only vehicle I’m aware of to get that done.
+Phil Winslow
+Well, Safra, can you give me quote for that reference. That would be great. Thanks, guys.
+Operator
+Your next question comes from Raimo Lenschow with Barclays.
+Raimo Lenschow
+Thanks for taking my question. I wanted to go back to the apps ecosystem. Mark, can you talk towards NetSuite because that’s accelerated again this quarter and I was just wondering, look, when we talked about a few quarters ago it was like we tried to bring it over 20, but now we’re in the high-20s. Was there anything special going on or is that kind of – is there anything in terms of new run rate that we need to be aware of? Thank you.
+Mark Hurd
+Well, I mean, as I’ve said on multiple calls in a row, they’ve been doing very well. I mean, this started tremendous acceleration we had last Q4 when their bookings growth was over 70% and you’re just beginning to see that turn into now revenue.
+So I believe the new rate is sustainable. And I actually think we can do better and our strategy’s been very simple, and I know I’ve said it before, but it’s been frankly no more complicated than any salespeople internationally and domestically. We’ve done both too, if you localize the product for more countries. We’ve done many new countries that we’ve now released in addition though that, we’ve been building out more verticals, what we call suite success where we actually bundled in the implementation with what we sell and that’s very, very popular with our customers.
+So I think the team has also done a marvelous job executionally. I know I say my comments pretty quick but as much as the ref flew grew in the quarter, our bookings actually grew faster than the revenue and so we’re very excited about NetSuite. We have been excited about NetSuite. And I think that will continue to perform and I actually think we can do better than even what I just described today.
+Operator
+Your next question comes from Michael Turits with Raymond James.
+Michael Turits
+Hi, guys. Good evening. So you’ve been seeing accelerating growth in cloud ERP and HCM and other areas of cloud. Is that growing accelerating enough and becoming a big enough piece of the business that we can now start to see an acceleration in the Cloud business overall which had some other headwinds?
+Mark Hurd
+I mean, I guess he’ll start. As I said in my comments, ERP and HCM are becoming a bigger and bigger part of our business. I mean, today our annual SaaS revenue and ERP and HCM’s approaching $3 billion. It’s growing sort of mid-20s. And I think it’s going to get nothing but better and better.
+Again, I don’t want to get too positive only in the context that we’re beginning to see acceleration in some key parts. And so we are very focused on our competitors by brand and by industry. We deploy our sales force against those brands and against those industries as well as into our own user base and the reason I read the references the way I read them was so you’d get a flavor that both our own user base is beginning to move in bigger numbers as well as the fact that we get competitive.
+Remember, most of that user base is not sitting with us or traditional on-premise competitors. So, yeah, I mean, clearly it’s a point of what I made earlier and I’ll stop after this to say that our growing businesses are becoming bigger and bigger and you start putting the growth rates I’m describing on numbers like $3 billion and you can do your own math and so we’re very confident and feel very good about our position in those businesses.
+Michael Turits
+Thanks, Mark. If I could a follow up, quick one for Safra. Safra, you managed to keep CapEx low even with the OCI investment. Any expect to change in that trajectory where we’re spending more capital.
+Mark Hurd
+No, I expect it to be very similar this next quarter to this past quarter and for the year it’s basically the same, a little bit less than last year, so that’s kind of what we’re looking at. Of course, if there’s a huge opportunity we may push the gas a little more, but you have to understand that our SaaS operation is really humming and we’re getting enormous economies of scale there. That’s why the margins keep improving and so we’re able to sort of do it all within the same investment envelope so far.
+Operator
+Your next question comes from Mark Moerdler with Bernstein research.
+Mark Moerdler
+Thank you very much for taking my question. I’m going to do something you haven’t done in a while. I’m going to take a built of a liberty and ask two questions. The first is for salve RASM you talked a bit on the call about cash flow which is growing double digits was down roughly 1%. You gave some color on the call. Can you talk a little more about the underlying factors here, was timing or your definition of when you recognized cash flow having an impact? Are there other things that are impacting that cash? And then I have a follow up for Mark.
+Mark Hurd
+I mean, there are two things going on. If you look just at the quarter, it’s nothing but cash collections, timing of cash collections, nothing more really than that to focus in on. If you look at year-to-date, which you may look at in one of the other schedules, it’s that and some tax payments.
+And that’s really the two things going on. So nothing special going on, happens every once in a while. If you look back previous years, you will see that and it’s a very Q3 thing, frankly. Because by then we’re collecting up a lot of previous quarters’ bookings. So – billings, excuse me. So that’s really it. Nothing special.
+Mark Moerdler
+Then as a follow up for Mark. You’ve given some color on the Autonomous Database. But can you specifically discuss the types of workloads that are driving adoption of autonomous and especially new clients for autonomous [new] clients for the Oracle Database.
+Mark Hurd
+I think the question police ought to get you for announcing you’re going to ask two questions as opposed to just doing it.
+Mark Moerdler
+Sorry, Mark. I decided to be polite about it.
+Mark Hurd
+Yeah, that was very thoughtful. I don’t know. Larry, you want to start in on that one?
+Larry Ellison
+Sure. I mean, there are – database does a lot of different things. The researchers that I mentioned earlier that moving from AWS for a big cost savings, they’re doing a combination of machine learning and computer vision to look at tissue samples and detect anomalous cells. Cancer [based kit] are using computers to diagnose cancer and that’s a combination of machine learning and the Autonomous Database and that’s an all new application. So, there are several people that are coming in with all new applications in the cloud.
+Actually, the one’s moving from AWS. Then there are traditional on-premise customers who are simply taking one of their millions of Oracle Databases, there are millions of these things out there and just lifting one of those databases, either a transaction processing and the associated application, either transaction processing application or Data Warehousing application, just lifting it intact, moving the data over and moving the application over to compute, moving the data over to Autonomous Database and running the same exact thing in the cloud. They’re experiencing sometimes shocking performance improvements also. We had one customer that moved from On-Premise into the cloud and the cloud system ran many times faster than their on-premise system.
+Then there are customers that are moving, existing big Oracle customers that are moving new development, the new application that’s they’re developing from developing them on-premise, they move test and development into the Cloud and they’re the ones that, again, the general reaction there is there’s much, much more productive getting running, it’s much cheaper to do test and development, much more responsive, much more productive to move test and development from their on-premise infrastructure to the cloud infrastructure. So online transaction processing, lifting and shifting applications, data warehousing, lifting and shifting, test and development, moving from AWS, there are lots of different use cases.
+Mark Hurd
+Just a couple quick follow-ons. Doing this off the top of my head Mark, I’m roughly right. 20% of our customers on autonomous Data Warehouse, Autonomous Database right now are net new to Oracle. We did not have them before. And 80% are in our user base, roughly 70%, 75%, there’s net no competition at all in the transaction. It’s simply as Larry described a migration. 75% are actually into the LOB as opposed to IT, which I look at as very good news as well. So we’ve got a lot of underpinning improving dynamics, my opinion, they’re improving dynamics in terms of net new customers, in addition to movement of our database and certainly Analytical Data Warehousing is probably the biggest individual driver of anything we’ve got.
+Operator
+Your next question comes from Brad Zelnick with Credit Suisse.
+Brad Zelnick
+Excellent. Thanks so much. My question’s for Mark. Mark, as we think about the traction you’re seeing in cloud ERP and where the demand’s coming from, there’s the massive On-Premise installed base opportunity but I think might not appreciate that more than half the market is the long tail of niche legacy vendors that most people haven’t even heard of. Can you just give us a sense for your success in displacing that long tail, how much you think you’re participating there versus the more usual suspects?
+Mark Hurd
+I think that’s exactly right, what you said. So I think it’s common thought that the ERP market On-Premise is dominated by two vendors, Oracle and the company from Germany and those two vendors together have less than 50% of the market.
+We have more Fortune 500 customers for example. They have many big customers. But the blizzard of implementations, there’s a blizzard of companies, it’s that have the more than 50% market share, 54%, 55%, most of them are moved into private equity. They’re not even public companies. They’re on their second or third turn through private equity. They’ve got no migration plan to the Cloud. Coy go on and on with all of these. That’s why, as I mentioned earlier, we actually line up our development resources and our sales resources very focused on these competitors.
+They would have names like I mentioned a couple like McCormick and Dodge, if you’ve heard of them. IBM believe it or not actually has got an old ERP system. There’s a company called Deltek. There’s a company called Lawson, a company called [ETHICA]. There’s tens and tens of these, to your point and these are old, old pieces of code. These need to move.
+They need to move to a more modern platform, and they are perhaps as attractive as any other market and in fairness, our user base actually knows our cloud roadmap. They actually have confidence in in our R&D, they know we’re going to be there to migrate them when they want to be there. They actually have less of a sense of urgency in many cases to move than the companies you’re describing, Brad, because they’re in much more desperate situations without a roadmap, without knowing how they’re going to get from here to there, knowing their competitors are beginning to move.
+So we have as much success today and if you ask one of our salespeople would you rather have one of these competitive territories where you’re going after one of these niche vendors or would you rather have an E business suite territory, many of our salespeople say give me that competitive territory because there’s an absolute need to move as quick as you can.
+So, yeah, it’s an incredibly attractive market andit’s why you hear us keep talking about it so much because the additional fact is when we sell ERP, we continue to see an attach rate to HCM and frankly an attach rate to even some of our other apps in the CX and front office area as well so it’s why we’re so focused on that opportunity.
+Operator
+I will now turn the call over to Ken.
+Ken Bond
+Thank you. A telephonic replay of this conference call will be available for 24 hours. Dial-in information can be found in the press release issued earlier today. Please call the Investor Relations department with any follow-up questions from this call, and we look forward to speaking with you. Thank you for joining us today, and with that, I’ll turn the call back to the operator for closing.
+Operator
+Thank you for joining today’s Oracle’s third quarter 2019 earnings conference call. We appreciate your participation. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+5 Authors in the Last 90 Days

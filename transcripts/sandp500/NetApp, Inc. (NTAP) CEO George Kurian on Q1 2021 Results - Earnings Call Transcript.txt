@@ -1,0 +1,331 @@
+Start Time: 17:00 January  1, 0000  6:11 PM ET
+NetApp, Inc. (NASDAQ:NTAP)
+Q1 2021 Earnings Conference Call
+August 26, 2020, 17:00 PM ET
+Company Participants
+George Kurian - CEO
+Mike Berry - EVP and CFO
+Kris Newton - VP, IR
+Conference Call Participants
+Amit Daryanani - Evercore
+Rod Hall - Goldman Sachs
+Sam Reiff - Cowen & Company
+Mehdi Hosseini - SIG
+Matt Cabral - Credit Suisse
+Aaron Rakers - Wells Fargo
+Tim Long - Barclays
+Katy Huberty - Morgan Stanley
+Matt Sheerin - Stifel
+Steven Fox - Fox Advisors
+Jeriel Ong - Deutsche Bank
+Wamsi Mohan - Bank of America Merrill Lynch
+George Iwanyc - Oppenheimer
+Louis Miscioscia - Daiwa Capital Markets
+Shannon Cross - Cross Research
+Jim Suva - Citigroup
+Ananda Baruah - Loop Capital
+Victor Chiu - Raymond James 
+Eric Martinuzzi - Lake Street Capital 
+Nehal Chokshi - Northland Capital Markets
+Nikolay Todorov - Longbow Research
+Operator
+Good day, ladies and gentlemen, and welcome to the NetApp First Quarter Fiscal Year 2021 Conference Call. My name is Joelle, and I will be your conference call coordinator for today. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will be given at that time.
+I will now turn the call over to Kris Newton, Vice President of Investor Relations. Please proceed, Ms. Newton.
+Kris Newton
+Thank you for joining us. With me today are our CEO, George Kurian; and CFO, Mike Berry. This call is being webcast live and will be available for replay on our Web site at netapp.com.
+During today’s call, we will make forward-looking statements and projections with respect to our financial outlook and future prospects, such as our guidance for the second quarter fiscal year 2021; our expectations regarding future revenue, profitability and shareholder returns; and our ability to return to growth, gain share, and scale our business, all of which involve risk and uncertainty.
+We disclaim any obligation to update our forward-looking statements and projections. Actual results may differ materially for a variety of reasons, including macroeconomic and market conditions, including the continuing impact of the COVID-19 pandemic, the IT capital spending environment, and our ability to expand our total available market, capitalize on our Data Fabric strategy, generate cash flow and execute our capital allocation strategy.
+Please also refer to the documents we file from time-to-time with the SEC and available on our Web site, specifically our most recent Form 10-K for fiscal year 2020, including the management’s discussion and analysis of financial condition and results of operations and risk factor sections and our current reports on Form 8-K.
+During the call, all financial measures presented will be non-GAAP unless otherwise indicated. Reconciliations of GAAP to non-GAAP estimates are posted on our Web site.
+I’ll now turn the call over to George.
+George Kurian
+Thanks, Kris, and good afternoon, everyone. Thank you for joining us today. We hope that you all are staying safe and healthy.
+As we navigate the health, economic and social changes impacting all of us, we continue to focus on what we can control and improve our operational execution. In the face of an uncertain environment, NetApp performed well in the quarter, with revenue, operating margin and EPS all exceeding our guidance. I want to thank all of our employees for their hard work in the midst of this pandemic.
+Due to the global pandemic, the macroeconomic and IT spending environments remain challenging, consistent with what we saw exiting Q4. Despite these pressures, enterprises are prioritizing transformational and hybrid cloud projects, which drove our momentum as customers turn to NetApp to help them accelerate these plans.
+At NetApp, we work hard to be the best partner to our customers, a value that is even more important during these particularly challenging times. We continue to deliver heightened support for customers delivering vital public health and safety services, first responders and public sector institutions. For IT teams affected by the pandemic, we are offering 25 terabytes of NetApp Cloud Volumes Service for Google Cloud free of charge. We also extended our partner financing program to assist partners and customers in managing their cash flow.
+Uncertainty remains high, but we are moving into a new normal and adjusting to operate in a virtual environment. The majority of NetApp employees are working from home and have quickly built the muscle of interacting with each other, our customers and our partners remotely. Our sales teams are getting in front of buyers to meet and build demand. The number of Executive Briefing Center visits, now held virtually, increased by more than 50% over briefings held in Q1 a year ago.
+We also saw a doubling in the number of prospects in our virtual Executive Briefing Centers compared to in-person meetings last year. And our reinvigorated Run to NetApp competitive takeout program delivered strong Q1 results with good growth in future opportunities. The improvements we made to sales coverage in FY20 and the tighter focus on execution are starting to pay off.
+Our customers are also adapting to the new normal. Companies are moving beyond the initial response to the pandemic of operationalizing work from home. They are now looking to accelerate digital transformations to drive competitive advantage by delivering services and products remotely, reaching customers through digital means and optimizing remote operations and collaboration. The acceleration of digital transformations means more enterprises are managing IT environments both on-premises and in the cloud.
+NetApp leverages our rich data-centric software innovation to help customers thrive in this hybrid cloud world. We help them move applications to the cloud significantly faster than any other vendor, rapidly deploy business continuity solutions, enable remote workforces to collaborate and accelerate application software development.
+We bring enterprise-grade data services to the cloud and the simplicity and the flexibility of the cloud to the enterprise data center. With our data fabric strategy, we help customers tackle the challenges of hybrid cloud. No matter where a customer is on their hybrid cloud journey, NetApp can help them achieve their goals.
+As I stated on the Q4 call, we have two clear priorities in fiscal year '21; returning to growth in our storage business powered by share gains from our industry-leading file, block and object software and scaling our highly differentiated cloud services business. We will exploit competitive transitions, the continued growth of the all-flash array market, and the accelerated shift to cloud to expand the use of our products and services.
+We continue to make great progress in our cloud business. Customers are now beginning to deploy critical workloads in the cloud, which drives requirements for enterprise-grade capabilities. We bring nearly three decades of enterprise tested, data-centric software innovation to the cloud. Cloud providers recognize this and this is why they are choosing to partner with us. Customers also recognize this and this is why they are choosing NetApp to help them accelerate their digital transformation and cloud roadmaps.
+Leading with cloud in the marketplace, enables us to reach both installed base customers and new-to-NetApp customers. In Q1, roughly half of the new-to-NetApp customers came in through our cloud business. New customers, growth at existing customers, and an expanded portfolio drove an acceleration of our cloud ARR to $178 million, an increase of 192% year-over-year.
+In Q1, we acquired CloudJumper, a provider of cloud-based virtual desktop services; and Spot, a leader in compute management and cost optimization on the public clouds. In addition to extending our value proposition to cover more of customers’ cloud spend, these acquisitions bring strong talent with cloud DNA to our marketing, sales and engineering teams, and they are driving increased interest in NetApp. More customers are coming to us because they are excited by our cloud strategy and ability to help them deploy applications and optimize compute and storage in the cloud.
+As I’ve said many times, our cloud services make us a more attractive strategic partner to customers and help us gain share in the enterprise data center. Our industry-leading storage operating system software, ONTAP, is key to our success in the cloud and on-premises. ONTAP is the most powerful, most cloud-connected, and most efficient storage operating system on the market. Not only do we provide customers with a consistent operating system across data center and cloud to unify their hybrid cloud, we provide them with the flexibility of a cloud-like purchasing experience through our Keystone service.
+One of the key features of ONTAP is FabricPool, which allows customers to create policies for the automatic tiering of infrequently accessed data to a more cost-effective tier such as Azure, AWS, Google, or any S3 target, including our object storage solution, StorageGRID. During these uncertain economic times, customers are finding even greater value in our ability to help them take advantage of high-performance all-flash arrays while reducing total cost of ownership through automated tiering to a lower cost cloud or object tier. This and other industry-leading capabilities helped drive strong growth for both StorageGRID and the A-series all-flash FAS array. Based on the strong 34% year-over-year growth in our all-flash business, we expect we have gained share in this important market.
+NetApp is uniquely positioned to help customers unlock the best of cloud for their digital transformation. We are building on a strong foundation of industry-leading data-centric software innovation, trusted customer relationships and an open-ecosystem approach that is strengthened by partnerships with the leading public cloud companies who endorse our Data Fabric Strategy.
+With the ongoing pandemic, the near future remains uncertain for many companies, and no one knows when we will return to a more normal and predictable environment. Despite the uncertainties, one thing is clear. Data is growing in scale and importance. We help the world’s leading organizations solve the challenge of managing their most critical data.
+In closing, I want to reiterate my confidence for NetApp’s future. We have strengthened our leadership team, broadened our portfolio, and enhanced our partnerships. We are listening to the market and customers and will continue to respond to their requirements with speed and agility.
+We will continue to be agile in our response to the market conditions created by the pandemic while positioning NetApp to address the long-term opportunity. Our strong business model and disciplined management supports our ability to accomplish our strategic objectives. We are tightly aligned to our customers’ priorities and deeply committed to creating value for our customers and shareholders alike.
+Finally, I want to call out a couple of key events happening this quarter. I hope that you will all be able to join our Virtual Analyst Day on September 16. You can register from our Investor Relations Web site. Our flagship user conference, INSIGHT, will be fully virtual October 26 to 29. We hope you can tune in to hear more about how NetApp helps customers unlock the best of cloud.
+I’ll now turn it over to Mike to walk you through the results of the quarter.
+Mike Berry
+Thank you, George. Good afternoon everyone and thank you for joining us. As a reminder, I’ll be referring to non-GAAP numbers unless otherwise noted.
+As George noted, despite the continued macro uncertainty in Q1 as a result of COVID-19, we delivered revenue, operating margin and EPS above the high-end of guidance. Importantly, solid execution by the sales team, in a very difficult environment, yielded Q1 billings of $1.15 billion, up 6% year-over-year.
+In Q1, net revenue of $1.3 billion increased 5% year-over-year, including a point of currency headwind. Our two key strategic focus areas; our storage business, powered by our industry-leading file, block and object software, and Public Cloud Services, both outperformed the market in the quarter.
+Our all-flash revenue of $567 million was up 34% year-over-year, nicely positioning us for share gains in the quarter. We remain confident in the growth opportunity for all-flash adoption. At the end of Q1, 25% of our installed systems were all-flash, providing a healthy runway as customers continue to embrace the cloud-connectivity and investment protection offered by our flash solutions.
+Public Cloud Services delivered an impressive $178 million in ARR, growing 192% year-over-year and 60% sequentially. Our recent acquisitions of Spot, CloudJumper and Talon contributed a total of $44 million of ARR as of the end of the quarter. Even excluding these acquisitions, the growth of our Public Cloud Services business accelerated to 120% year-over-year. We plan to provide an updated framework for our Public Cloud Services opportunity at our upcoming virtual Analyst Day.
+Total product revenue of $627 million decreased approximately 3% year-over-year. In the quarter, we saw growth in our largest global enterprise accounts as customers initiated digital transformation and hybrid cloud projects.
+To provide improved visibility into the value created by our high-margin software franchise, we are now breaking out product revenues between software and hardware. Software product revenue of $311 million increased 2% year-over-year, driven by an increase in our software-rich all-flash FAS.
+Hardware product revenue of $316 million decreased 7% year-over-year, as spinning disk solutions continued to decline. The engineering DNA of NetApp and the value we provide to customers and shareholders is grounded in software. We will continue to highlight and invest in this innovation engine.
+Software maintenance and hardware maintenance revenue of $608 million was up 14% year-over-year and up 6% year-over-year when adjusted for the approximately $40 million related to the extra week in the quarter. These two recurring revenue lines comprised roughly 47% of total net revenue.
+When combined, software revenue and recurring maintenance revenue totaled $919 million in Q1, representing 71% of total revenue. We ended Q1 with $3.6 billion in deferred revenue, an increase of 3% year-over-year as we continued to grow our installed base.
+Gross margin of 68% was up nearly 1 point year-over-year. Product gross margin was 51.4%, a decrease of 2 points year-over-year and in-line with our expectations. The year-over-year decline was driven by materially higher NAND costs and COVID-related pricing trends. We believe both of these headwinds are transitory in nature.
+However, given the uncertainty in the macro environment, we are cautiously assuming that a combination of these factors will persist throughout the remainder of fiscal '21. In the interim, we will continue to focus on reinforcing our strategy of selling on the value of our solutions.
+The combination of software and hardware maintenance and other services continues to be a very profitable and growing business for us, with gross margin of 83.4%, up 1 point year-over-year. The margin expansion was driven by continued leverage in our support model and exhibits the strong margin profile of a business with a software and recurring revenue model.
+Q1 operating expenses of $673 million increased approximately 3% year-over-year, driven by the incremental $30 million associated with the extra week in Q1 and higher variable compensation resulting from the better than expected revenue and profitability. Operating margin was 16.3%, up 2 points from Q1 of last year. EPS of $0.73 was up 12% year-over-year.
+Cash flow from operations was $240 million and free cash flow was $188 million, representing 14% of revenue. Cash flow from operations included a one-time tax payment of $57 million related to acquisitions. Excluding this item, operating cash flow would have been $297 million and free cash flow would have been $245 million, or 19% of revenue. During the quarter we paid out $107 million in cash dividends, representing 57% of free cash flow.
+As we noted on the Q4 call, we believe it is prudent to pause our share repurchase program until we have a better sense for the timing and magnitude of the broader economic recovery. Weighted average diluted shares outstanding were 222 million, down 21 million shares year-over-year, representing a 9% decrease. We will maintain our cash dividend of $0.48 per share in Q2.
+We ended Q1 with $3.8 billion in cash and short-term investments. As you know, during the quarter we raised $2 billion in long-term debt. As of the end of the quarter, we used approximately $900 million of our debt raise to reduce our commercial paper balance and pay down 2021 senior debt maturities.
+The debt raise further enhances our already strong liquidity position, while also providing financial flexibility from additional domestic cash balances during the current economic environment. To be clear, even with this added liquidity, we will maintain our long history of disciplined M&A.
+Now to guidance. We expect Q2 net revenues to range between $1.225 billion and $1.375 billion, which at the midpoint implies a 5% decline in revenues year-over-year and includes 1 point of currency tailwind. As a reminder, the maintenance revenue benefit in Q1 from the extra week will not repeat in Q2. As a result, we expect our total maintenance revenue in Q2 to grow year-over-year while being down approximately $30 million sequentially from Q1.
+As a result of this sequential mix shift between product and maintenance revenues, we expect consolidated gross margin to range between 66% and 67%. We expect operating margin to be approximately 16% in Q2. Assumed in this guidance are operating expenses of $655 million to $665 million including $20 million related to our recent acquisitions.
+We anticipate our non-GAAP tax rate to be between 16% and 17%. And we expect earnings per share for Q2 to range between $0.66 and $0.74 per share. Assumed in this guidance is interest expense of $15 million to $20 million, driven by increased interest expense from our recent debt offering. As a reminder, Q2 tends to be our seasonal trough for free cash flow. This is further compounded by our annual cash tax payments associated with repatriation tax reform.
+Q1 earnings clearly came in better than expected. When comparing our Q2 EPS guide relative to the Q1 print, please remember the items I walked through earlier as they materially impact the normal sequential compares.
+As promised, we will be very disciplined around our cost structure. As outlined in our 8-K filing today, we are realigning resources and investments to continue to optimize our business to fund our biggest strategic priorities; returning to growth in our storage software and systems business, while scaling Public Cloud Services. Going forward, we will remain disciplined around our OpEx envelope as we look for reinvestment opportunities that allow us to position the company for long-term success.
+Also noted in today’s 8-K filing is the departure of Scott Allen, Senior Vice President and Chief Accounting Officer. I want to personally thank Scott for all of his contributions to NetApp over the past four years. He will definitely be missed. We wish Scott the best in the next chapter of his career.
+In closing, I want to reiterate our confidence in our strategic roadmap and our commitment to continue to evolve NetApp into a cloud-led company, building on our rich data-centric software heritage. We believe this transition, coupled with solid execution, will drive significant long-term value for our shareholders. We hope all of you can join us at our upcoming Virtual Analyst Day on September 16.
+I’ll now hand the call back to Kris to open the call for Q&A. Kris?
+Kris Newton
+Thanks, Mike. We’ll now open the call for Q&A. Please be respectful of your peers and limit yourself to just one question so we can get to as many people as possible. Operator?
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions]. Our first question comes from Amit Daryanani with Evercore. Your line is now open.
+Amit Daryanani
+Thanks a lot for taking my question, guys. I will stick to one question. I guess just a question on your cloud services ARR metrics that you guys gave out. It’s obviously really impressive even if I take the deals out, I think it’s up mid-20% sequentially, 120% growth year-over-year. Can you perhaps maybe help us understand how much of that growth do you think is coming from existing customers as they migrate to off-premise and kind of taking their ONTAP solution with them versus net new customers – net new logo wins that are coming to you? So is there a way to break that growth down between existing customers versus net new customers, that would be really helpful?
+George Kurian
+We saw growth in the cloud business from a lot of new customers new to NetApp where about half of our new to NetApp customers for the quarter came through our cloud business and a good chunk of the cloud customers were new workloads, meaning new wallet in accounts where we have presence. So the substitution of on-prem workloads to the public cloud was the smallest part of the growth of our overall cloud business. We are seeing the use of cloud increasingly for disaster protection and business continuum purposes. We’ve had several wins during the quarter where customers combine our on-premise all-flash array business with a flexible disaster protection copy in the cloud. So we’re very, very pleased with the progress in our cloud business. Our hyperscalers are helping us scale. We’re getting new logos, new wallets in existing customers and building new architectures for customers as well.
+Kris Newton
+All right. Thanks, Amit. Next question?
+Operator
+Thank you. Our next question comes from Rod Hall with Goldman Sachs. Your line is now open.
+Rod Hall
+Yes. Hi. Thanks for the question. I wanted to start off back to the CDS run rate and just ask maybe, George, could you just comment a little bit on Azure NetApp Files? It seems like as much as that’s growing 120%, it’s about the same growth rate year-over-year as last quarter. And I thought – kind of when we started this journey, I thought that the addressable market of that was quite a bit larger and I just wonder if you still believe it’s a pretty big addressable market, is it blow on the come [ph] or is it on track with what you expected, maybe just comment on that. Then I have a follow up.
+George Kurian
+We’ve always said that we are moving customers’ most important workloads to the cloud. So these workloads are incredibly sticky once they’re deployed in the cloud, but they require planning and deliberations before you do that. What we saw through the course of the quarter again was sequential acceleration of our cloud storage business where not only did our business with Microsoft grow, but our business with the other hyperscalers were also up to really good starts. We are seeing the software-based solutions which complement the high-performance Azure NetApp Files use cases growing nicely and our acquisitions are allowing us access to net new customers and new wallets, the compute wallet [indiscernible] desktop as a service wallet in customer. So I couldn’t be more pleased about the progress. We will tell you more about the long-term expectations of our cloud business at our Virtual Analyst Day.
+Rod Hall
+Okay. And then for a follow up, I wanted to just double check. It looks like – you haven’t mentioned ELA, so I assume in the July quarter there is very little or – that I just wonder Mike if you could just clarify the ELA number for the quarter? And then also connected to that, the core product margins in the guidance, I don’t know if you’d be willing to tell us what you think the trajectory there is just so we can kind of get our heads around that? I know you made the comment on gross margins, but anything you can give us on what you’re thinking on core product gross margin trajectory would be helpful? Thanks.
+Mike Berry
+Sure, Rod. So on the first one on ELA – so it lasted until the second question, so that’s good. What I would say is we told you last quarter that we are not going to discuss ELAs. My comment there would be if we do anything of significance size, you absolutely will see it in the financial statements, you’ll see it in margin and also now with us breaking out software revenue as a part of product revenue, you’ll also see it there. So you’ll be able to track that for any significant ELAs going forward. On core product, so we’ve guided to a pretty consistent core product margin as it relates to the areas that we discussed, NAND pricing as well as COVID pricing. Given the uncertainty in the economy, we are conservatively assuming something relatively similar going forward. We do expect there to be a little bit of help on NAND pricing as we go through the rest of the year, but that’s a little out of our control, Rod. It’s really based on industry supply and demand.
+Rod Hall
+Great. Okay. Thanks a lot, Mike. That’s helpful.
+Kris Newton
+All right. Thanks, Rod. Next question?
+Operator
+Thank you. Our next question comes from Karl Ackerman with Cowen. Your line is now open.
+Sam Reiff
+Hi. This is Sam on for Karl. I was just wondering if you could give the puts and takes on the OpEx guide in context of the restructuring program that should begin hitting the P&L this coming quarter per the press release? I’m aware that last quarter had an extra week, but I would have guessed that OpEx would have been guided a bit lower than what you did based on the savings. And then related to that, could you guys characterize how the heads that you’ve been adding through the year are gaining traction or efficiency in this relatively difficult selling environment? Thank you.
+Mike Berry
+Okay. Hi, Sam. It’s Mike. I’ll take the first one. So when you look at the guide for OpEx, the midpoint of the guide about 660, last year we did about 631, so I’ll do a year-over-year for you is that the acquisitions will add about 20 million of expenses year-over-year. So that is something obviously new year-over-year and that’s all three of them together. We will have higher variable pay. Last year from a bonus and a commission perspective, the accruals were quite low given the performance. And then that will be offset by about 15 million of savings from the restructuring. Keep in mind that that’s only two of three months that we’ll get the credit for. So that’s your year-over-year walk on OpEx.
+George Kurian
+The second question that you had asked was about the productivity of the team that we hired. They are deployed and they are contributing well to our business. You see that strength in both for the enterprise storage systems in software business as well as the growing contribution of our cloud business. So we’re pleased we’re off to a good start and we’re excited that the momentum that those heads add to our business.
+Sam Reiff
+Got it. Thank you.
+Kris Newton
+Thank you, Sam. Next question?
+Operator
+Thank you. Next question comes from Mehdi Hosseini with SIG. Your line is now open.
+Mehdi Hosseini
+Yes. Thanks for taking my question. The first one has to do with some color on the October quarter. If I just take your commentary, it suggests that product revenue included ASA which show a higher decline on a year-over-year basis, especially when I compare to July they had only a 3% decline. Is that just a reflection of an extra week in the July quarter? And I have a follow up.
+George Kurian
+The July quarter did not include any transactional revenue from the extra week. We had about 40 million as we explained in our prepared remarks from the services revenue in the July quarter due to the extra week. With regard to the October quarter, I’ll just say at a high level we see the October quarter relatively the same from a macro perspective and a demand perspective that we see in the current quarter. So I would say that you’re looking at the business more on a sequential basis rather than a year-on-year basis. We have continued to monitor the market. I would tell you that it’s hard for me to predict the seasonality of our business. And so we’re giving you an outlook on a quarterly basis. And so far what we see in the October quarter is somewhat similar to what we see in the July quarter.
+Mehdi Hosseini
+Got it. Thank you for all the detail. Just quickly looking at the longer term, is there any way we can articulate an update on your efforts on Kubernetes? And I’m sure you’re going to explain at the Virtual Analyst Day, but any preview you can provide us.
+George Kurian
+Kubernetes is a technology that grows very quickly as the new way to deploy applications and manage infrastructure. NetApp has excellent solutions for customers who are building applications using containers and Kubernetes. We have two of those solutions that work in concert; the persistent storage solution both using our Trident software and Project Astra provide customers really capable application data management capabilities, and the technology that we acquired with Spot allows customers to really optimize the cost and the effectiveness of their Kubernetes application environment. So we’re really excited. We have some state-of-the-art solutions that customers are adopting and we’ll tell you more about it on our Virtual Analyst Day.
+Mehdi Hosseini
+Okay. You said you had two updates; persisting cash and…?
+George Kurian
+And the compute optimization that we acquired with Spot that is particularly helpful in Kubernetes environment.
+Mehdi Hosseini
+Got it. Thank you.
+Kris Newton
+All right. Thanks, Mehdi. Next question?
+Operator
+Thank you. The next question comes from Matt Cabral with Credit Suisse. Your line is now open.
+Matt Cabral
+Thank you. Really strong inflection in all flash that you guys saw during the quarter. Just wondering if you could dig a little bit more into what drove that and then just how sustainable you think growth in all flash is going forward, especially as the compares get much more difficult from here?
+George Kurian
+Our all-flash array business was powered by two key things. The first is the strength of our technology, both the differentiation that we have with flash objects storage as an archival tier and hybrid cloud. And the second is the trust and confidence that the world’s biggest companies are placing in NetApp. So we took several data center environments in large customers away from competitors like Hitachi and most importantly Dell. The power stored product that they have brought to market is not being well received by customers and we are displacing them in several accounts. All flash will continue to be a growing part of the total storage market. It has excellent economics and operational capabilities for customers that the amount of spending customers make on all flash in an absolute dollar sense will of course be a consideration of the macroeconomic environment and IT landscape. We will tell you more about our outlook for the storage market at Virtual Analyst Day. What I’m confident about is that with the focus and operational execution that we now have in the field, we are going to be in a strong position to gain share in the all-flash array market.
+Matt Cabral
+Got it. Thank you.
+Kris Newton
+All right. Thank you, Matt. Next question?
+Operator
+Thank you. Next question comes from Aaron Rakers with Wells Fargo. Your line is now open.
+Aaron Rakers
+Yes. Thanks for taking the question. I’ll stick to one as well and also congratulations on the results. Just kind of back on the all-flash business, I guess the one metric that stands out to me is I think you mentioned 25% of your installed base is now in all flash. If my memory is correct, I think last quarter it was 24% and I think even a year ago it was 22%. So it seems like – help me understand why that is inflecting higher, what’s going to drive a broadening or an accelerated inflection in all flash in your opinion? Maybe also in that context, how much is your installed base growing?
+George Kurian
+Our installed base continues to grow and the fact that with strong growth rates in all-flash array, we move the penetration 1% at a time is just a dimension of the magnitude of our growing installed base. These are very, very big installed base numbers you’re talking about. One flash array replaces a few disk-based systems, but I think that what we see as the face of adoption is really a representation of customer spend, right, their propensity to spend. Our view is that flash, as I just mentioned, will continue to be a priority for customers in terms of the wallet that they spend on storage. They will spend more in flash than on disk-based systems. There are more cost effective technologies that will continue to increase that percentage of the total market, but there will always be a place for disk-based hybrid flash systems as well. I think if you were to try to take an expectation, I would say that listen, over several quarters, we increased the percentage of our installed base 1% to 2% sequentially, right. And so we’re focused on it. It’s a large runway ahead and it’s an asset that continues to provide us good opportunities to sell more value to customers.
+Aaron Rakers
+Thank you.
+Kris Newton
+Thank you, Aaron. Next question?
+Operator
+Thank you. Next question comes from Tim Long with Barclays. Your line is now open.
+Tim Long
+Thank you. I wanted to ask a little bit about the new split of product between hardware and software. Just a little more color if you could, kind of how do you demarcate that, how do you split that out? It doesn’t look like the mix between the two has changed much, why is that? Is that ELA driven or something else? And what can we learn about margins between – within those two buckets within product, does that imply that given the software I’m assuming is pretty high that the real hardware box type gross margins are much lower than what we’re seeing for the whole group? Thank you.
+Mike Berry
+Hi, Tim. It’s Mike. So great question. So a couple of things in there to jump into. One is and you’ll see in the press release, we do include in the non-GAAP section some descriptions of how we come up with that revenue. It’s basically the estimated fair value allocation of those transaction prices based on what we’ve done with our customers similar to how we have to allocate revenue across the board. So there’s a good explanation in there, but it’s basically an estimated fair value of those components. The software and hardware components will move around a little bit. You mentioned ELA. That will certainly have an influence on what goes into each quarter. If you remember how those were accounted for back when we had a good number of those. From a margin perspective, I think you can assume that it’s going to be typical software margins as it relates to our business as well. So it’s going to be higher than the product margin average and the hardware will be lower. But I’ll also caution that really depends by product. It’s going to move around a little bit. So we want to break it out to your great question so that we can also start highlighting the growth of software maintenance because those will move together. And as we continue to sell more AFF, our expectations that we would expect the component of software and the resulting software maintenance would also increase as a percentage. So hopefully that helps. Thanks for that question.
+Tim Long
+Thank you and thanks for the disclosure.
+Kris Newton
+Thanks, Tim. Next question?
+Operator
+Thank you. Next question comes from Katy Huberty with Morgan Stanley. Your line is now open.
+Katy Huberty
+Thank you. Good afternoon. I want to ask just a couple of clarifying questions about your guidance commentary from earlier in the Q&A. First, Mike, on gross margins, I heard your comment that product margins would be flat sequentially. But if I apply the first quarter segment margins to the expected revenue mix in the second quarter, I get a total gross margin that’s a little bit above 67%, so above your guidance. So is there a segment where you do see some sequential pressure on gross margin? And then the other point I guess, George, I’ll ask you this on revenue. You said that we should look at the business on a sequential basis. If I adjust for the 40 million of extra revenue in the first quarter and then a bit of a currency tailwind in the second quarter, you’re looking at normalized sequential growth of maybe low-single digits versus normal seasonality in an October quarter of plus 5% So just some high level comments from you George on what’s driving the conservatism because that sequential is obviously off a July base that reflects the demand environment? Is there anything that you’re seeing in terms of order trends during the quarter that would get you to a little bit of below seasonal revenue outlook for October? Thank you.
+Mike Berry
+Okay. It’s Mike. So I’ll take the first one before George does the second one. So two things you hit on. One is it relates to the margin. When you back out the 40 million from the extra week, that lowers the percentage of gross margin dollars coming from services. So that will naturally bring down the total gross margin. The other thing is, it’s not a huge mover but it’s a little mover. As we do more cloud at this point, that has a small pull down impact on the services gross margin because those margins while increasing every quarter nicely are still a little below the services average. So those are the mechanics to think about when you look at Q2 total gross margin.
+Katy Huberty
+Great. That’s really helpful. And George?
+George Kurian
+With regard to the revenue picture, I think we’re just communicating that we’re taking it a quarter at a time. It’s a volatile environment. We’ve had a good start to the year. And we’re not clear whether the traditional sequential seasonality patterns apply right now. So what I’ll tell you is, we’re not guiding a full year. We’re giving you the best outlook we see and we’re being cautious, right. That’s really the summary.
+Katy Huberty
+Okay, that’s understandable. Thank you very much for that color.
+Kris Newton
+All right. Thanks, Katy. Next question?
+Operator
+Thank you. Next question comes from Matt Sheerin with Stifel. Your line is now open.
+Matt Sheerin
+Yes. Thank you, George, regarding the revenue guidance, I certainly appreciate that there’s not a lot of visibility but could you drill down a little bit more on the current demand picture by region and customer type, enterprise, commercial, public sector, any areas of strength or weakness jump out? Thank you.
+George Kurian
+I’ll just give you a quick summary. From a segment perspective, clearly the larger enterprises where we have strong footprint was the sources of our growth. Small and medium customer is not a material part of our business. And you’ve heard the commentary from several players in the IT industry, which is similar to what we see. They are challenged. We are picking up some of those small and medium customers through our cloud business where our offerings are more tailored to cash-constrained smaller companies. With regard to the geographies, essentially we had strong performance in the Americas market, driven by the strength in the largest enterprises in the Americas and our APAC region also performed well. I think the APAC region is reflective of some of those economies starting to recover from the really hard times of COVID, but we are being cautious and it’s early. I think in terms of the types of transactions we saw, we did see growth in larger transactions. And what I said was, people are moving beyond business continuity to now transformational projects and investing in those. And so we benefitted from some of those.
+Matt Sheerin
+Thank you.
+Kris Newton
+All right. Thanks, Matt. Next question?
+Operator
+Thank you. Next question comes from Steven Fox with Fox Advisors. Your line is now open.
+Steven Fox
+Thanks. Good afternoon. I just wanted to ask, maybe just push back a little bit on the decision still not to buy back stock. The company’s – you look at last quarter and your guidance, you’re doing basically an annualized $2.80 per share. You’re doing more than that in EBITDA and obviously have proven ability to generate healthy cash flows during a down period. So what would trigger management’s decision to maybe start buying back stock again? Thank you.
+Mike Berry
+Hi, Steve. It’s Mike. So I will take that. So as we talked about on the last call when we decided to put the share buyback on hold, it was really we needed to be able to see a lot more firmly the economic recovery, the timeline as well as the depth. And while we’re starting to feel better about the year, there’s still a whole bunch of uncertainty. And as George talked about, there’s still a lot of economic uncertainty. So for us, we need to be more comfortable about the recovery, the timeline of the recovery and then as well making sure that we are prudently managing our cash from a domestic and international perspective. All of that would weigh into it. This is the reason why we went out and did the opportunistic debt raise is to make sure that we had cash going forward. Also as we discussed in the last call, we also want to make sure that we are looking very hard at share buyback versus growing the business through again disciplined M&A and that will also play into it as well, Steven. And then I guess wanted to note very firmly we are very committed to the dividend and we want to make sure to maintain that, and that’s another reason why we pulled back on the share buybacks.
+Steven Fox
+Great. I appreciate that perspective. Thank you.
+Kris Newton
+All right. Thanks, Steven. Next question?
+Operator
+Thank you. Next question comes from Jeriel Ong with Deutsche Bank. Your line is now open.
+Jeriel Ong
+Thanks for letting me ask questions and congrats on the solid results. I want to focus in on the worldwide headcount reduction of 5% which you guys just verified. In the press report that came out yesterday kind of indicated that SolidFire and HCI might be a portion of those cuts, a little bit more I guess I would say exacerbated relative to the rest of your business. Could you clarify whether that is in fact true? Is that something that was focused on? And beyond that I guess as a percentage of focusing on those cuts in general or were there certain businesses or certain portions of the employee base that were impacted more? Thanks.
+George Kurian
+These headcount reductions are never easy to make and we take care and consideration when we decide to make those changes. Those changes were driven by the strategic alignment and focus that we have to prioritize our resources in the core storage systems and software business as well as accelerating our public cloud services business. We realigned about 5.5% of our workforce and those were in parts of the business – in all the functions of the business, but in those parts of the business that were not particularly aligned to our go-forward priorities. SolidFire, yes, I can confirm was part of the team impacted. We are narrowing our focus with the SolidFire and HCI portfolio to the high margin parts of the market as we have signaled on prior calls.
+Jeriel Ong
+Got it. I appreciate it. Thanks.
+Kris Newton
+Thank you. Next question.
+Operator
+Thank you. Next question comes from Wamsi Mohan with Bank of America. Your line is now open.
+Wamsi Mohan
+Yes. Thank you. I want to go back to cloud data services and look at this on an organic ARR basis. The quarter-on-quarter increase on that basis was $23 million sequentially annualized and in the prior quarter was $29 million. Given the fact that you’ve got more GA status and it’s more mature, why is that option rate not accelerating more to organic basis given the exposure to more cloud providers and maybe you can give us some sense of how the trajectory might change as we look forward here?
+George Kurian
+We made some cost improvement in our cloud services portfolio in the storage platform that allowed our customers to adopt cheaper and more cost effective tiers. This is similar to what hyperscalers do periodically. And so that did affect some of our customers on our existing cloud business choosing to deploy onto a lower cost tier. So it wasn’t like we didn’t add more customers and add more revenue. We did move some of our capacity within the quarter to a lower cost tier. That is pretty much the majority of the gap that you’re seeing on a sequential basis.
+Kris Newton
+All right. Thanks, Wamsi. Next question.
+Operator
+Thank you. Next question comes from George Iwanyc with Oppenheimer. Your line is now open.
+George Iwanyc
+Thank you for taking my question. Circling back to Mike’s comments on disciplined use of cash with M&A, George, can you maybe give us a sense of what areas from a technology roadmap you would look at from an M&A perspective?
+George Kurian
+I think that we are a disciplined acquirer both for strategic, cultural and economic fit. We’ve been clear that we have a broad range of interest but software and cloud centric would be the two key filters that we would look at in terms of transactions. As we’ve also said, we are skeptical about doing big large transactions. I think those are far and few between. And so the majority of our investigations are more smaller transactions that you would see.
+George Iwanyc
+Thank you.
+Kris Newton
+Thanks, George. Next question?
+Operator
+Thank you. Next question comes from Louis Miscioscia with Daiwa. Your line is now open.
+Louis Miscioscia
+Okay. Thank you. George, if you go back to one of your comments earlier is that small, medium business is not a material portion of your business, but looking at that you have some momentum and you’re looking to gain share, you obviously must have recently done an evaluation as to why or why not to expand more aggressively into that sector which at times obviously has good rates. So can you give us an idea as you’re thinking as to why that’s not a good opportunity for you at all?
+George Kurian
+It’s all a matter of prioritization. We run a disciplined P&L and within that P&L we have opportunities to deploy resources. We are covering the biggest enterprises through our direct portfolio and our direct sales reps. The small, medium business we see an opportunity to address through the cloud in a very differentiated and economically scalable manner. And so you’ll see us continuing to focus there. So it’s a matter of prioritization of where we spend our resources and being disciplined about it.
+Louis Miscioscia
+Okay. Thank you.
+Kris Newton
+Thank you, Lou. Next question?
+Operator
+Thank you. Next question comes from Shannon Cross with Cross Research. Your line is now open.
+Shannon Cross
+Thank you very much. George, I’m just curious. As you think about where NetApp is going to focus in both for the company as well as what you’re seeing from your customers, what do you think is going to happen to offices going forward? What’s your expectation for how many people go back? How do you sort of view how this new world we’re going to live in post pandemic will be? I’m just kind of curious as to what you’re hearing, what you’re thinking? Thank you.
+George Kurian
+Thank you for your question. We meet customers across the board. As I said, the number of executive briefings and senior executive interactions that I’ve had over the last six months have been higher than at any time before because I can be on – in a single day in multiple time zones across the globe. What we see predominately is that the world at large is operating in a subdued mostly working from home model, especially in the IT buyers and the knowledge workers in our customer base. We think that that will continue. In fact, NetApp has already signaled to our employees a few weeks ago that we are going to be working from home till July of next calendar year. And so we do see this idea of our customers digitizing their businesses for both internal collaboration as well as customer interaction becoming a priority, we see the deployment of cloud together with on-premises as a needed catalogue of IT services and we have been saying that that would happen for a long period of time, and we’re going to take advantage of it.
+Shannon Cross
+Great. Thank you.
+Kris Newton
+Thanks, Shannon. Next question?
+Operator
+Thank you. The next question comes from Jim Suva with Citigroup. Your line is now open.
+Jim Suva
+Thank you. And I don’t know if this one question, the single question I have is best for Mike or George, but I heard earlier on the Q&A commentary of encouraging us to look at EPS on a quarter-over-quarter basis instead of year-over-year basis, and I’m just kind of trying to figure out why? Is that all due to COVID? Or you’re getting close to year-over-year revenues being flat or positive excluding this quarter with extra week, but on the outlook, but yet the year-over-year EPS next quarter is down pretty sizably. Maybe that’s NAND pricing, maybe that’s cost structure integration. Can you just kind of walk us through the logic about why you want us to focus on quarter-over-quarter instead of year-over-year for profitability?
+Mike Berry
+Sure. Jim, thanks for the question. It’s Mike. A couple of pieces there. In the prepared remarks, we wanted to make sure that when you compared the Q1 EPS number with the Q2 guide that you took into account the impact of the additional OpEx from the acquisitions as well as the 14th week, there was just a good number of moving parts there. So that’s why we did focus on that in the commentary. And then yes, certainly from a year-over-year perspective as it relates to OpEx has obviously a lot to do with the revenue guide and where we are as well as us wanting to make sure that we continue to invest in the growth areas. So I didn’t want to be confusing on that. Just wanted to make sure as you looked at Q1 to Q2 that you also took into account some of those large muscle movers.
+George Kurian
+One of the other items that we had in the EPS for Q2 on a year-on-year basis was the interest expense related to the debt rate. So Mike and I are giving you sort of the big moving parts. I think as we said, that’s a way for you to understand the compare between Q1 and Q2 EPS.
+Jim Suva
+Thank you. That’s greatly appreciated, gentlemen.
+Kris Newton
+All right. Thank you, Jim. Next question?
+Operator
+Thank you. Next question comes from Ananda Baruah with Loop Capital. Your line is now open.
+Ananda Baruah
+Hi. Good afternoon, guys. Congrats on a solid quarter and good execution. Just real quickly George and Mike, I’d love to just get any context around sort of the activities coming together of the cloud data services sales team, what they’re focused on and how long you think it will be until those guys get productive? Thanks.
+George Kurian
+The cloud data services sales team is a group of experts that we’ve hired with cloud backgrounds. They are focused on working closely with the hyperscalers, meaning Microsoft, Amazon and Google and selling us alongside their team as well as working with the NetApp sales team to get our installed base of customers who adopt our cloud portfolio. We’re pleased. We’re one quarter into the organization, but they’ve clearly had an impact and we’re looking forward to continuous success from them.
+Kris Newton
+All right. Thanks, Ananda. Next question?
+Operator
+Thank you. Next question comes from Simon Leopold with Raymond James. Your line is now open.
+Victor Chiu
+Hi. This is Victor Chiu in for Simon Leopold. Could you provide us with an update around your Keystone as a service offering and the progress you’re seeing there, and maybe help us understand if there’s a relationship between public cloud services demand and the potential impact there on consumption-based subscription services, whether there’s a complementary relationship there or if that one impacts the other in a particular way?
+George Kurian
+We’ve had a good start to Keystone. Keystone is selectively available to customers in some of our geographies. We will be making it more broadly available this coming quarter. And so we’ll invite you to come to our INSIGHT User Conference to hear more. We’ve had several comparative wins this quarter with Keystone and Keystone as you said correctly is a good complement to our public cloud services. So a customer that has a temporary workload or wants to move an entire business process to the public cloud can choose the public cloud. And if there’s a portion of that business process or there’s a complementary infrastructure that they want to have deployed and run within their data center for compliance reasons or for integration to other applications, they can use Keystone and get a single experience from their data center to the public cloud. So we’re pleased with the progress. You’ll hear more about Keystone from us at our User Conference.
+Kris Newton
+All right. Thanks, Victor. Next question?
+Operator
+Thank you. Next question comes from Eric Martinuzzi with Lake Street. Your line is now open.
+Eric Martinuzzi
+Yes. I wanted to go a layer deeper on the COVID-related pricing trends and how they’re manifesting themselves. Is it about competitive displacements? Is it about defending the installed base? Is there a particular vertical? Just some help there please.
+George Kurian
+Typically what happens when commodity prices go up is that we and others in the industry pass them along to customers because we typically do not hedge the commodity. We pass along the cost of SSDs through to customers when they go up or when they go down. Clearly in the COVID time that is not something we want to do. Our customers need us to be good partners and so we’ve been careful about having them bear the brunt of the price increases. With regard to competitive take up and displacements, they are always a portion of our go-to-market model and we have the capabilities within our gross margin model to be aggressive in certain cases and not as aggressive in others, and we’re going to continue to focus on maintaining discipline there.
+Eric Martinuzzi
+Thank you.
+Kris Newton
+Thanks, Eric. Next question.
+Operator
+Thank you. Next question comes from Nehal Chokshi with Northland Capital Markets. Your line is now open.
+Nehal Chokshi
+Yes. Congrats on some exceptionally strong results, quite amazing. A technical question from me. So Spot provides compute management in the cloud. Is this leveraging Kubernetes or is that by adding in additional software that Spot has layered on top of Kubernetes and does this effectively make it a competitor to say VMware’s vRealize and their bevy of cloud relationships?
+George Kurian
+What Spot does is both for traditional applications as well as for cloud-native applications, it identifies the pattern of behavior of that application and finds the optimized compute environment to run that application most cost effectively. So it is entirely complementary and we are very good partners, for example, with Amazon where we tell customers use the right compute tier in Amazon so that they can run more compute for the same money on the Amazon tier. We see Spot as complementary to all of our cloud providers and frankly cloud complementary to VMware. It is optimizing the run time environment for customers regardless of what version of Kubernetes they use, which class provider they run on and whether they’re using a traditional application or a cloud-native application. What is also allows us to do is now because we can optimize compute and storage, we are able to address 70% of a typical customer’s cloud bill and optimize a substantial amount of that cloud bill. So now we are much more strategically relevant to customers as a result of us having Spot in our portfolio.
+Kris Newton
+All right. Thanks, Nehal. Next question?
+Operator
+Thank you. And our final question comes from Nik Todorov with Longbow Research. Your line is now open.
+Nikolay Todorov
+Yes. Thanks. I want to go back to the comments around strength in large enterprise and large deals. I think that has been consistent across the peers in the industry, but I just want to get your take on – you talked about the digital transformation. So are we assuming that those spending is going towards new workloads? And how sustainable do you think is that strength in large enterprise deals? Thanks.
+George Kurian
+I think we see larger enterprises increasingly doing two things. One is exploiting data to understand and serve their customers better. That’s an enduring generational trend. We also see them deploying hybrid cloud landscape so that they can serve their own employees who are working from home or extend the reach of their businesses to consumers who no longer can come into their offices. And we are extremely well positioned for both those trends. I think what we see in the large enterprise is they have the financial resources and the strategic runway to make those decisions and in fact now rather than have to necessarily wait for COVID, and that’s where we saw the segment-related pattern of our business morph a little bit.
+Kris Newton
+All right. Thanks, Nik. I’ll pass it over to George for some final comments.
+George Kurian
+Thank you for being with us this afternoon. In the face of the current macro uncertainty, we continue to make strategic moves that position us well for the long term while maintaining operational discipline. Our rich data-centric software innovation is the foundation from which we have customers thrive in a hybrid cloud world.
+We bring enterprise-grade data services to the cloud and the simplicity and flexibility at the cloud to the enterprise data center. No matter where a customer is on their hybrid cloud journey, NetApp can help them achieve their goals. I hope you will join us at our Virtual Analyst Day where we’ll talk more about how we help customers unlock the best of cloud for their digital transformation. Stay safe and be well. Thank you.
+Operator
+Ladies and gentlemen, this concludes today’s conference call. Thank you for participating. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

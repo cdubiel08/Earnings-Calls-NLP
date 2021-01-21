@@ -1,0 +1,291 @@
+Seagate Technology plc (NASDAQ:STX) Q4 2020 Earnings Conference Call July 28, 2020  5:00 PM ET
+Company Representatives
+Dave Mosley - Chief Executive Officer
+Gianluca Romano - Chief Financial Officer
+Shanye Hudson - SVP, Investor Relations & Treasury
+Conference Call Participants
+Katy Huberty - Morgan Stanley
+Patrick Ho - Stifel
+Ananda Baruah - Loop Capital
+Shannon Cross - Cross Research
+Kevin Cassidy - Rosenblatt Securities
+Steven Fox - Fox Advisors
+C.J. Muse - Evercore ISI
+Karl Ackerman - Cowen
+Toshiya Hari - Goldman Sachs
+Dustin Scaringe - Robert Baird
+Operator
+Good afternoon and welcome to the Seagate Technology, Fourth Quarter and Fiscal Year 2020 Financial Results Conference Call. My name is Jason and I will be your coordinator for today. At this time all participants are in a listen-only mode. Following the prepared remarks there will be a question-and-answer session. As a reminder, this conference is being recorded for replay purposes. 
+At this time, I would like to turn the call over to Shanye Hudson, SVP, Investor Relations and Treasury. Please proceed Shanye.
+Shanye Hudson
+Thank you. Good afternoon everyone and welcome to today’s call. Joining me are Dave Mosley, Seagate’s Chief Executive Officer and Gianluca Romano, our Chief Financial Officer. We posted our earnings press release and detailed supplemental information for our June quarter and fiscal 2020 year end on the Investors section of our website.
+During today’s call we will refer to GAAP and non-GAAP measures. Non-GAAP figures are reconciled to GAAP figures in the earnings press release posted on our website and Form 8-K that was filed with the SEC. We have not reconciled certain non-GAAP outlook measures, because material items that may impact these measures are out of our control and/or cannot be reasonably predicted. Therefore a reconciliation to the corresponding GAAP measures is not available without unreasonable effort.
+As a reminder, this call contains forward-looking statements, including our September quarter financial outlook and expectations about our financial performance, market demand, industry growth trends, planned product introductions, ability to ramp production, future growth opportunities, possible effects of the economic conditions worldwide resulting from the COVID-19 pandemic and general market conditions. These statements are based on management’s current views and assumptions and information available to us as of today, should not be relied upon as of any subsequent date.
+Actual results may vary materially from today’s statements. Information concerning our risks, uncertainties and other factors that could cause results to differ from these forward-looking statements are contained in our most recent Form 10-K and 10-Q filed with the SEC, our Form 8-K filed with the SEC today and the supplemental information posted on the Investors section of our website. As always, following our prepared remarks we’ll open the call up for questions.
+I’ll now turn the call over to you, Dave.
+Dave Mosley
+Thanks Shanye. Good afternoon everyone and thanks for joining us. I'll begin the call by summarizing our June quarter performance, given context for the current market environment and then share some perspectives on the longer term data trends before turning the call over to Gianluca to discuss details of our June quarter results and provide our outlook for the September quarter. Following the prepared remarks we will open the call for questions. 
+Results for the June quarter came in within our guided range amidst the deteriorating demand environment across several key end markets, coinciding with COVID-19 related economic [Technical Difficulty]. We delivered June quarter revenue of $2.52 billion and non-GAAP EPS of $1.20. We increased free cash flow by 5% sequentially to $274 million, over 80% of which we return to our shareholders through dividends and share repurchases, demonstrating our commitment to our capital return program. 
+I’ll address in a few moments why we see the impacts that developed in the June quarter continuing in the September quarter. I’ll also discuss why we remain confident that the company will emerge stronger from this current crisis. 
+It's only been a few months since COVID-19 was declared a pandemic; however, its impact on the macro economy and global society has been profound. Economists predict global GDP will sharply contract this year to levels we've not seen in six decades, which has wide reaching effects on how businesses are planning and investing near term. 
+Additionally, the restrictive measures and business closures have created emotional and financial hardships on people, communities and businesses. I'm proud of how our team has adapted quickly to this tough environment to continue serving our customers and partners, while also supporting our local communities and one another. 
+As a team, we've donated equipment and supplies to hospitals and health care workers, provided funding and support for food banks, schools and elderly care facilities. We’ve also leveraged our data science expertise to volunteer resources through our Data4Good program and have granted free access to our patent portfolio in support of the open COVID pledge to aid research efforts to diagnose, treat and ultimately prevent the virus. 
+For Seagate ensuring the protection and safety of our employees, customers, partners and suppliers remains our highest priority and is vital for the continuity of our business. At this point all of our manufacturing facilities are fully operational and we work through a majority of the supply chain and logistics challenges that we had faced early on, although there are cost implications that I will touch on later. 
+The impact on our customer base has been more varied across our end markets. The increase in remote work and education, as well as exploration of streaming video, online gaming and the rapid shift to public cloud drove ongoing data center investments by cloud service and content providers. These investments spurred strong demand for our nearline products in the June quarter, and we expect these trends to ultimately accelerate the transition to mass capacity storage. 
+Conversely, economic uncertainty and the extension of restrictive measures began playing out in other markets as the quarter progressed, causing smaller and midsized enterprise customers to scale back their IT budgets, municipalities to delay certain projects and consumers to spend more selectively. These macroeconomic factors ultimately impacted sales of our video and image applications, and led to a steeper than seasonal decline for our legacy products. 
+Amidst this overall environment, we're anticipating a continuation of these demand trends to impact our legacy markets in the September quarter. We will also continue absorbing meaningful cost to navigate the disruptions to normal business operations. These are factored into our guidance for the September quarter. 
+While there remains limited visibility near term, the underlying data demand trends have not changed. The rapid growth in data and race for businesses to extract value from that data is fueling need for more compute and mass storage. Accordingly, we believe current demand patterns will shift favorably as enterprises adjust to the new normal. In the meantime, we're being cautious and carefully managing our cash and expenses to maintain our strong financial foundation. 
+Seagate has a track record of being good stewards of cash and taking a disciplined approach to managing capital, while maintaining the health of our supply chains. We're focused on continuing that track record while staying true to our legacy or returning excess cash flow to our shareholders. 
+While, we've been focused on navigating the tough near-term business conditions, we also made important strides in fiscal year 2020 to place the company in excellent position to capitalize on the world's burgeoning growth of data that is driving secular demand for mass capacity storage and data management solutions.
+I'll highlight three key examples: First, despite tough business conditions we grew both revenue and exabyte shipments in fiscal year 2020, supported by strong demand for mass capacity storage. Revenue from the mass capacity markets increased 25% year-over-year with exabyte shipments up 57%. 
+Second, we continue to execute our technology roadmap. Our fiscal year performance underscores the success of our 16-terabyte nearline drives and launch of our common scalable platform. These drives are now used by the world's leading cloud and hyperscale names. We target achieving the same success with our 18-terabyte drives. This common platform approach helps to simplify the qualification process for our customers, while allowing Seagate to improve operational efficiency. 
+We began shipping 18-terabyte drives as part of our system solution in the March quarter, with shipments to select cloud customers and channel partners starting in the June quarter. We expect to begin ramping 18-terabyte drives within the calendar year, which aligns well with market readiness. 
+We remain on track to begin shipping our first commercially available HAMR drives in late 2020 on 20-terabyte capacities. HAMR technology will be the industry's path to achieving drive capacities of 30, 40, 50 terabytes and even higher. We plan to offer 20-terabyte HAMR drives to customers on a limited basis and is part of our system solution to collect production and field data. 
+Third, we announced Seagate Lyve drive, an integrated solution intended to help CIO's cost effectively move data from endpoints to edge to core, and we launched Lyve Labs, an innovation center to work collaboratively with customers on solutions through their data management challenges. These three accomplishments demonstrate that Seagate is firmly pointed toward capturing market opportunities that are emerging in an ever growing data world. 
+Earlier this month we launched the Rethink Data report, which is based on a survey commissioned with IDC of 1500 global enterprise business and IT leaders. The findings not only reinforce the massive growth in data, which the study predicts will grow at a compound rate of 42% over the next two years, but also reveals how data is being widely distributed across multiple data centers and cloud environments. We refer to this in the report as data sprawl. 
+With massive data growth and data sprawl, it comes as no surprise that data management is a top concern among respondents. The emerging role of DataOps organizations are intended to address the challenges of collecting, moving, storing and curating data securely across complex and disparate networks. 
+Through Seagate’s innovative technology roadmap and broad product portfolio, including our system solutions and evolving Lyve platform, we believe Seagate is the ideal mass storage partner for DataOps organizations. 
+With that, I'll turn the call over to Gianluca to go into more depth on our June quarter results, and share our outlook for the September quarter. 
+Gianluca Romano
+Thank you, Dave. The business environment in the June quarter remains highly dynamic, due to the effect of the pandemic. However, we are continuing to manage the business well while prioritizing the continuous safety of all our employees and meeting customer demand. 
+We continue to see strength and demand from cloud data center customers as they address the transition to a remote economy, and a migration to cloud services. But we saw weaker than expected demand in our other key end market, driven by economic uncertainties and business disruptions brought on by COVID-19. 
+Despite this near term challenges, revenue and EPS were still within our guided ranges and our June quarter performance compared favorably on a year-over-year basis, with revenue of $2.52 billion, up 6% year-over-year and down 7% sequentially. 
+Non-GAAP operating margin of 14.8%, up 160 basis points year-over-year and down 70 basis points sequentially, and non-GAAP earnings per share of $1.20 compared with $0.95 in the year ago period, a 26% increase year-over-year and down 13% quarter-over-quarter. 
+Additionally the resilience of our financial model and focus on operational efficiency, enable us to generate healthy free cash flow and strengthen our balance sheet. In the June quarter we shipped a total of 117 exabytes of hard disc drive capacity, 91 exabyte or the total was shipped into the mass capacity storage market increased sequentially and up from 52 exabyte in the year ago period representing very strong annual growth. 
+On a revenue basis, mass capacity storage represented 58% of June quarter revenue and about 63% of HDD revenue, up from 49% of the HDD revenue in the year ago period. Additionally, we achieved our second highest revenue quarter in mass capacity storage in June, driven by robust demand of our high capacity nearline drives, from a broadening base of cloud and hyperscale customers. 
+Nearline shipments increased to a record 80 exabytes with average capacity increasing to 10.8 terabytes per drive. Our performance was supported by strong demand for our 16 terabyte drives, which remains the company’s highest revenue product in the quarter. 
+Looking ahead to the September quarter, we expect tough demand from the OEM and enterprise markets as Dave outlined earlier, while cloud data center investment remain relatively healthy. 
+Accordingly we expect to see some moderation in overall demand, for our nearline products SAS [ph]. Over the long term we believe demand for mass capacity storage in the cloud and SDA’s will drive strong revenue growth for the nearline product. 
+Revenue for video and image application declined for the second consecutive quarter, primarily as a result of the holding health situation. While we saw indication early in the quarter, the demand condition while improving, we began seeing municipalities enforcing tighter restrictive measures and diverting from COVID-19 relief efforts, impacting the phase of a new security and smart video installation. 
+However, video and image application will remain a strong long term, secular growth driver. Nearly a third of Global Datasphere growth is projected to come from these and other applications, including data generated from security devices and IoT sensors using Smart City and Smart Factories worldwide. 
+The legacy markets represented 34% of total June quarter revenue, down from 36% in the March quarter. Exabyte shipments into this market declined 9% sequentially to 26 exabyte. The consumer and PC markets remain relatively soft during the quarter as anticipated, but a sharper slowdown in enterprise IT spending, particularly among small to medium enterprise customers resulted in weaker than expected demand, for our mission critical drives. 
+We currently expect enterprise IT spending to remain low over the next couple of quarters, which is also impacting demand recovery for our systems solution. Systems are including in our non-HDD business, which represented 8% of total June quarter revenue, up from 7% in the March quarter. In terms of absolute dollars, non-HDD revenue was flat quarter-over-quarter as higher demand for our enterprise class SSD offset the decline in systems. 
+To summarize, we sustained strong demand for our nearline product with a broadening of customers. However directing [ph] to the leader in image application in mission critical markets are being temporarily impacted by the pandemic and led to the sequential revenue decline in the June quarter. 
+Non-GAAP gross margin was 27.3% in the June quarter, down about 70 basis points sequentially due to lower contribution from the margin of each product that I just described, as well as higher COVID-19 related costs. This higher cost, include underutilization, logistics, workers safety and other labor related expenses, but negatively impacted June quarter gross margin by approximately 130 basis points. 
+As of today our factories are fully operational; however, we will continue to the monitor the current situation which remains fluid, even the major impact that the global pandemic is having on our industry which does incur elevated costs for at least the next couple of quarter. 
+Non-GAAP operating expenses were down 8% sequentially to $330 million and below our previous plan. In addition to lower expenses reflecting a full quarter impact of working from home, we also incurred a one-time saving primarily related to lower variable compensation and benefits. 
+Separately we announced a recession plan in early June to drive additional operational efficiency. We plan to invest most of the savings from this plan back into the business, while also lowering operating expenses by about $10 million per quarter relative to our pre-COVID level of approximately $350 million. 
+Non-GAAP operating income was $373 million and non-GAAP operating margin of approximately 14.8% of revenue was in line with our guidance expectation to remain in the upper half of our long term financial model range of 13% to 16% of revenue. Based on the share count of approximately 160 million share, non-GAAP EPS for the June quarter was $1.20, we estimate the total impact which we have from COVID-19 was between $0.25 and $0.30, which reflects lower revenue as well as higher cost I previously outlined. 
+We reduced capital expenditure by 12% sequentially to $114 million in the June quarter, consistent with our plan to align our capital needs with the current market environment. For the fiscal year, CapEx represented approximately 6% of total revenue. 
+Looking ahead, we believe it’s prudent to keep our investments around this level given the current market uncertainty over the next couple of quarters. We will continue to work closely with our customer and monitor business conditions as we process through the calendar year. 
+We remain focused on cash management and generated $274 million of free cash flow in the June quarter. We utilized $55 million to retire approximately 1.1 million ordinary share, exiting the quarter with $257 million shares outstanding. We used $168 million to fund our dividend and our Board also approved a quarterly dividend payment of $0.65 per share payable in October 7, 2020. 
+Our liquidity position remains strong, with cash and cash equivalent totaling $1.7 billion at the end of the quarter, and that steps us up to an additional $1.5 billion through our undrawn revolver. 
+Additionally, we found strength in our balance sheet by restructuring our debt profile in the June quarter to extend our average maturity level of about seven years and lower our average interest expense. As of the end of the quarter, gross debt was $4.2 billion with net debt of $2.5 billion. We now have only around 6% of principal debt coming due over the next two fiscal years. 
+Inventory remains relatively flat quarter-over-quarter at $1.1 billion. To better respond to current market condition we will continue to proactively build supply for some critical components to mitigate potential supply chain risk in the future and also plan to increase use of electronic space [ph] to offset some of the elevated freight challenges. This action would result in slightly higher inventory level. 
+As we enter the fiscal year 2021 the level of uncertainty remains high and we cannot predict the timing or shape of an economic recovery. We are now four weeks into the September quarter and the face of demand has been low, a similar pattern to what we saw in both the March and June quarter. We continue to foresee healthy cloud data center demand over the long term, but remain cautious and are now planning for our broader market demand to improve this quarter. 
+With this in mind, our guidance reflects a nice focused level of conservatives in our cash management and our production plan. We expect the following for the September quarter:
+Revenue to be $2.3 billion, plus or minus $200 million; non-GAAP operating margin, at or slightly below our long term range of 13% to 16% of revenue; and non-GAAP EPS is expected to be $0.85, plus or minus $0.15. 
+In closing, Seagate is executing well during this period of unprecedented uncertainty. With our robust balance sheet and solid free cash flow generation, we believe Seagate is in a healthy position to navigate the current market, while continuing to capitalize on the attractive secular growth opportunities that will play out during this year. 
+I will now turn the call back to Dave for final comments. 
+Dave Mosley
+Thanks Gianluca. Looking ahead, the near term outlook is unclear. However, we will continue to execute on what is in our control. We have an agile business model, strong balance sheet and ample liquidity that we believe allows us to operate efficiently and intelligently through stressed business environments. We will manage our cash carefully, while maintaining our commitment to return at least 50% of our free cash flow to our shareholders. 
+As I covered at the top of the call, a bright spot through the course of this year has been the strong performance of our mass capacity portfolio. Mass capacity now represents 58% of the Seagate’s revenues up from 46% one year ago and 24% five years ago. This pivot has been intentional and has powered Seagate’s resilient performance through the first leg of this crisis. 
+Going forward, we remain confident that our strategic focus on mass capacity storage and data management solutions is the right one, and that long term trends tied to data growth will continue to drive secular demand for these products, both in the cloud environment and at the edge. 
+We anticipate demand across our end markets to improve within the next six months and currently model revenue to be fairly flat in fiscal year 2021, supported by the strength of our mass capacity product portfolio. Reiterating the outlook we provided at our Analyst event last year, we believe the mass capacity storage stand will nearly double over the next five years, growing from approximately $12.5 billion in the last 12 month period to around $24 billion by calendar year 2025. 
+The innovation of our technology roadmap and product pipeline makes Seagate well positioned to capture these opportunities, grow revenue and drive strong free cash flow over time. While the mass capacity opportunity alone is sufficient to drive solid growth of this medium term horizon, it's worth noting that we also expect edge, data opportunities and legacy markets to meaningfully contribute to the revenue and cash flows as well. 
+Prior to opening the call for questions, I want to briefly address the important movement underway to finally drive much needed racial injustice reforms. As a company guided by the core values of innovation, integrity and inclusion, this is a vital moment for us to set a leading example with all of our stakeholders. We acknowledge that we do not have all the answers, but we are committed to taking this opportunity to look inward and create positive change across our global organization. 
+We have already taken actions to raise awareness, open lines of communication, expand our training and further our inclusion efforts. Inclusion is foundational to our success and extends beyond our employee base, and I'm looking forward to this opportunity to make Seagate even stronger. My confidence in Seagate’s potential is reinforced by the determination of our people, the support of our diverse supplier based and the strength of our relationships with partners and customers. 
+With that, Gianluca and I are happy to take your questions. 
+Question-and-Answer Session 
+Operator
+[Operator Instructions]. Your first question comes from the line of Katy Huberty from Morgan Stanley. Your line is open. 
+Katy Huberty
+Thank you. Good afternoon. I think I heard Gianluca say that you expect moderating growth in nearline in the September quarter. If that's right, how should we think about the sequential drop in nearline exabyte shipments and as a follow-on to that, is there any visibility at this point into whether there would be a recovery of exabyte shipments going into the December quarter? 
+Dave Mosley
+Yeah, hey Katy. I think we've been unfair, of course year-over-year we talk about 57% growth in exabytes. As far as I can see, the period that’s going on, we continue see large growth and Gianluca can quantify it from here, but from my perspective this digestion period that people have been talking about is really quite different. It's more of a race to get things online and that's what we see. So there's a fairly strong demand. We expected that strength is going to continue up throughout the rest of the fiscal year. We don't really have visibility into the customer's inventory levels, but believe any disruptions are just very temporary, at least the cloud service providers. 
+More of the thing that have affected nearline all in was a smaller portion of the nearline, which is the, I’ll call it on-prem enterprise. So that's the small-medium business enterprises that’s – you know the impact is and we're expecting that to slightly recover or start its recovery, but some of that was just because in Q4 and going into Q1 small medium businesses are not really registering very much. 
+So over the long term, there's big data growth trends. Even in on-prem where people aren't necessarily buying right now, there is anecdotal evidence that the utilization rates are going up of the capacity. So date is growing everywhere, but that on-prem parts a watch right now and we do expect some recovery over time. I don't think you should take away from our comments that cloud is you know softening or anything else. If anything, cloud is racing to get everything online to meet their service level agreements. Sorry, Gianluca.
+Gianluca Romano
+Yeah, I would say first of all we had a record quarter in Q4, which is a very high starting point in terms of no Exabyte volume. What we said in that safety is, we will not see the same level in FQ1 – we don’t expect to see the same level in FQ1, but over the long term, for sure we expect this need for data to be there and to continue to drive this secular growth, and so we're very confident with the long term situation and even Q1 maybe is not to the level of Q4, but it doesn't mean that it’s a very low level for support. 
+Katy Huberty
+Okay, thank you. 
+Operator
+Your next question comes from a line of Patrick Ho from Stifel. Your line is open. 
+Patrick Ho 
+Thank you very much. Maybe Dave, as a follow-up to Katie's question regarding nearline drive and the demand trends, you know just given that overall data center and cloud spending does remain healthy right now, what's the timing between purchases of drives versus say servers and memory products that are seeing strong demand. Is there a little bit of a lag time when storage purchases are made you know after those server buys are completed? 
+Dave Mosley
+It's a very interesting question. I think back to my point about digestion period, to expand on that whole topic Patrick, you know the past digestion periods might have been more around storage optimization of software in the data center and things like that. 
+I think right now to your point, in order to meet the service level agreements, because everything's been pushed into the cloud, the cloud service providers generally have really tough challenges responding on all fronts with whether its network gear or you know servers to meet compute requirements, you know for people that are using the compute aspect. 
+And then I think storage does lag that a little bit, but the data is growing as well very quickly in those service level agreements. And so generally speaking, I think there's a race to get everything online. It's not really a typical digestion period, you know characterized by software. 
+And you know I think this push that you've seen from the client’s server models, quickly into the cloud models is ultimately good for mass capacity. It's just we have to you know back to the answer to Katie's question, we have to make sure that we're satisfying this demand as it's growing very quickly and then you know make sure that we are patient with the on-prem demand, because the on-prem right now is kind of stagnating. 
+Patrick Ho 
+Great! Maybe as a quick follow-up, you talked about the release and the introduction of the 18 terabyte drive and the common platform, which is very beneficial for a lot of your customers that are already on the 16 terabyte platform. How do you drive “new customer wins” and continue to share gains that you've achieved over the past year with the 16 terabyte as you move to 18 terabytes? 
+Dave Mosley
+Yeah, thanks. I mean we think about serving the customers and what they need, so you know for those customers that are still maybe ramping 16’s and not buying 18’s yet, we’ll continue renting them on 16’s. Some people want to make the transition and I think we're ready to go. So we have a lot of confidence in that platform now, because you know we're deep into the platform, but we can also change – make the necessary changes that we want, which are fairly minor to get to 18 terabytes. And remember that this same platform allows us to go back down to 12 and 14 and all the other things. That’s one of the reasons we drove it so hard.
+You know I think the pipelines around all those products relative to customer qualification and availability are quite good. We have great dialogues with the customers and when they want to pivot, we’ll pivot. 
+A - Gianluca Romano
+Yeah, I would add to that. Now we manage the business for the long term not really focusing on the short term market share. The market share is an outcome of our good products and how we’ve managed the business, but it’s not like it’s you know our top focus for the short term. We always focused on free cash flow as Dave was saying before and profitability.
+Dave Mosley
+One other thing we said in the prepared remarks to take you back about four quarters or so is you know in a time like this you make sure that you watch your cash really carefully and that means, you know we watch – what I've learned over time is watch production. So don't build in anticipation that some of those things stay really tight with your customers and build exactly what they need. I think that's the best way for us to watch our cash and that’s what we’ll continue to do. 
+Patrick Ho 
+Thank you. 
+Operator
+Your next question comes from the line of Ananda Baruah, your line is open.
+Ananda Baruah
+Good afternoon guys, thanks for taking the question. Hey Dave, Gianluca just to start a clarification or I guess maybe just a little bit more on what you're expecting you know sort of demand wise as we go to fiscal ’21. On nearline hyperscale, do you think that we've reached the peak exabyte ships in the June quarter or as you said, the digestion period and do you think we could you know sort of rework back and get a hold of them 80 over the next few quarters. 
+And David, it feels like maybe that has to happen to be able to hit flat growth given the September quarter guidance. And then also along with that, any detail or any context in that flat outlook how you're expecting or sort of accounting for on-prem to bounce back as well and then I have a quick follow-up. Thanks.
+A - Dave Mosley
+Yeah, that's good. I think it is a question between on-prem. If you break down nearline between cloud service providers, which I said was a little bit more than 50% and that changes quarter-over-quarter, and then you have the rest of nearline, which is on-prem. I think on-prem is the thing to really watch. The near term’s you know fairly uncertain like we talked about and we do need the on-prem to come back. It will and that's my point about utilization levels. 
+I think as far as the data everywhere is growing very healthy and you know the demand for data is exploding with all the IOT and smart cities and autonomous vehicles and all that stuff is going on, and to take advantage of that, the cloud service provider is going to have to put a lot of stuff online. I think there's also a lot of on-prem opportunities. For long term we feel more certain, but it’s this near term period of you know small-medium businesses. People can't get in or even if they can, they've got other priorities right now that we've got to just get through that period. 
+Ananda Baruah
+And Dave, to hit that – sorry Gianluca, go ahead.
+Gianluca Romano
+You were asking about another, a little bit of longer term outlook and in the prepared remarks we are seeing that for fiscal year ’21. We are looking right now at the revenue which is you know fairly flat, we have this fiscal year ’20. Of course there is an impact from the COVID situation, so our assumption is based on an impact from COVID that will start to decline in the next few months, but now we are still very, very confident in Seagate’s outlook over fiscal year ‘21 and impact on the long term. 
+Ananda Baruah
+And do you think nearline – just as you say nearline, overall do you think it reaches, it gets above 80. Does it need to get above 80 as we go through the fiscal year to hit that flat revenue outlook?
+Dave Mosley
+Yeah, I think the other mass capacity markets like surveillance and NAS, they come back on and they start moving to higher and higher capacity points. I think you'll see the expert growth. So we need those more on-prem type of mass capacity applications, you know on-prem, you know I'll say private data center applications, we need those to grow in exabytes and come back, but again we think that'll happen and when you'll see Exabyte growth. 
+Ananda Baruah
+Got it, got it. Great! Thanks guys.
+Operator
+Your next question comes from the line of Shannon Cross from Cross Research. Your line is open.
+Shannon Cross
+Thank you very much for taking my question. I was curious on cash flow. You talked about some insight to the flat revenue for next year. How should we think about cash flow opportunity to drive maybe some working capital improvement? Thank you. 
+Dave Mosley
+Thanks Shannon, I’ll let Gianluca answer this, but loosely speaking, we have quite a few levers to pull you know should we need to and from my perspective, cash flow is exactly what we’re driving right now. As the metric we're watching our cash very carefully. Like I said before, not bringing on too much inventory, although we do have to make sure that we cover you know potential factories being down. That's the reality of where we were last quarter and it may still happen again. 
+So we have a little bit more inventory, but we're going to watch our cash very carefully and not overbuild. Make sure that we're running things the right way. We're still making investments in ourselves and we’re still bringing in quite a bit of capital as we did last quarter, but I’ll let Gianluca talk about the portfolio.
+Gianluca Romano
+Yeah, completely agree. No, we have generated a very strong free cash flow in fiscal year ‘20 and we said we are expecting a revenue that is comparable and probably the free cash flow will also be compatible. CapEx we are investing for the gross that we’re expecting in the long term. But in general no, I would say free cash flow could be fairly similar year-over-year. 
+We have in terms of shareholder record, you know we have a commitment to recover at least 50% of our free cash flow to shareholders and this is done in the form of dividend and the form of share buyback. So we will continue with this policy and we expect another very strong year in terms of free cash flow. 
+A - Dave Mosley
+Yeah, and we don't look at it as a tactical discussion either. It's more it will manage the cash tactically, but the shareholder return is more long term, that's who we want to be. 
+Shannon Cross
+Thank you. 
+Operator
+Your next question comes from the line of Kevin Cassidy from Rosenblatt Securities. Your line is open. 
+Kevin Cassidy 
+Thanks for taking my question. On the video and image business and applications, can you say is it all COVID related that they are not being deployed and is there a build-up of maybe some, you know some anticipated deployments, so that as soon as COVID is released or there is a virus immunity, are you expecting a surge in that business or is it going to be more gradual?
+Dave Mosley
+It is a really interesting space to watch I think Kevin. So loosely speaking, you know these are on-prem applications and people just couldn't get on-prem, and even if you could, sometimes there was nobody else there to be on-prem to surveil or whatever you would say right. 
+So you know it's not surprising to see that these markets were down. They are starting back up again, sputtering the start, but you know starting back up again. We believe long term that these products are actually quite strong, because of smart cities and smart factories and smart hospitals and you know so we believe these on-prem applications will come back fairly strongly. You know timing is everything and we believe we have the best product portfolio to go satisfy that. It'll probably grow in capacity points, so to one of the earlier questions, there's more exabytes coming this way. 
+So you know the trend that we saw in the last couple of quarters with surveillance in particular being so far down is not going to continue. We think it'll start ticking back up. There's some early indications this quarter that it's back coming back to life and it's geographically very dispersed. Of course there's lots of different regions of the world where people are going to be doing the spending, but you know that's what we see. It should start to improve quarter-over-quarter this quarter. Don't know how fast it will prove improve into Q2, but it's certainly a market that long term we’re watching. 
+Kevin Cassidy 
+Okay, thanks. And just for a little more detail, what's the drive capacity for those systems? 
+Dave Mosley
+Typically in the past it's been 4 terabytes, now it's going up to 6 and 8 terabytes and so you know that happens as a function of these technology transitions. So all the while that the markets are going through what the markets are, there's a March toward higher and higher capacity points, because there's more value in those drives up in the edge. 
+Kevin Cassidy 
+Okay, great. Thank you. 
+Operator
+Your next question comes from the line of Steven Fox from Fox Advisors. Your line is open. 
+Steven Fox 
+Thanks, good afternoon. I have two questions if I could. The first one is, you touched on some of this, but I was wondering, Dave when you talk about getting the flat revenues for the full fiscal year, you start off in about a $300 million hold and you talked about some pressures that you know in the back half the year could still be there. So how do you map out sort of a recovery, so that the full year is roughly flattish?
+And then as the second question, going back to the COVID related costs that hurt the gross margins by 70 bips, what surprised you most in the quarter that you weren’t prepared for and the underutilization have anything to do with just the missed top line or is that related to specific manufacturing issues. Thanks. 
+Dave Mosley
+Steven, I’ll let Gianluca take the latter part first.
+Gianluca Romano
+So in general for the impact of COVID in the quarter, we had 130 basis points which is only related to the direct cost. It’s not related to the lower revenue that was actually not generated and impacted by COVID. So in the script we said the direct cost, about $35 million of the 130 basis points and then we also said, when you look at EPS, you have a second impact and the second impact is related to the lower revenue and of course the margin of those revenue and with 25 for total EPS impact of between $0.25 and $0.30. So as the level of EPS you have now a fairly huge impact in the quarter from COVID. 
+In the prior quarter we had additional costs that were little lower but, but still estimate again about $25 million. We didn’t have a lot of revenue impact. We probably had you know some impact on the legacy part of the business, but cloud was probably offsetting that reduction 
+In fiscal Q4, compared to what we were expecting, both nearline came out at a level we were expecting, but we had some impact on the legacy business and also on surveillance. So overall we lost some EPS because of the lower revenue. 
+Dave Mosley
+And I’d say you know to your questions Steven about the longer term going out throughout the fiscal year, you know some of the legacy markets have been very slow of late. We don't anticipate. There’s some natural decline year-over-year because they are by nature legacy, we are not investing them and we are you know watching them develop. But I think some of them are temporarily down and they'll come back to some level previous. 
+It’s a good business for us with you know good free cash flow and minimal incremental investment, so we have to go make, so you'll watch that and some of them have already shifted the flash like notebook and gaming and things like that, but you know there's things like mission critical which we expect to come back to some level. 
+The other part of I’ll call it on-prem that we talked about before, on-prem nearline has actually been fairly slow as well. Satisfied via some of the same channels that we have, but that will come back, because data is growing at the edge and in private data centers and things like that. 
+So you know there's this enormous shift in locality going on between client server business and cloud business. It doesn't mean all client servers gone. It's just some of this is on temporary hiatus and that's where we're expecting to recover somewhat if you will to make up, you know the fiscal year guide. 
+Steven Fox 
+Great. That's really helpful. Thank you. 
+Operator
+Your next question comes from the line of Aaron Rakers from Wells Fargo. Your line is open.
+Unidentified Analyst
+Yeah, hi guys. Thank you for taking the question. This is Michael on for Aaron. I just had a quick one on pricing. Could you guys comment a little bit on what you saw in the pricing environment, particularly on the mass capacity side and then I'm just curious how you're thinking about that going into the back half of the year as one of your big competitors start off against the ramp 18 terabyte? Thank you. 
+Dave Mosley
+Yes, as far as what we saw it in the rearview mirror, I think that getting the right supplies to the right places. We have a long plan. We’ve talked about this with our 16 terabytes. You know big volumes for most of the mass capacity people. I don’t think prices were unpredictable by any means for us. I mean they were fairly predictable. 
+I do think that you know out in some of the distribution channels, where the supply-demand picture isn't so clear. Now early on there was some supply gaps, later on there were some demand – there were demand promises, on-prem enterprises, especially in smaller distribution markets. I think that's where you can see a lot of dynamics. From our perspective that should stabilize pretty quickly, because you know supply is there, so. 
+Gianluca Romano
+I would say, yeah, frequent to a couple of quarter ago for sure there, the pricing environment is more stable. So it’s a better situation right now. 
+Unidentified Analyst 
+Perfect, thanks. And one more if I could, just on the OpEx, given that you guys outperformed during the current quarter. How should we think about OpEx in the September quarter relative to June and then also kind of the $340 million level that you had communicated previously? Thanks. 
+Gianluca Romano
+Yes, so what we were saying in the script is longer term. Probably you want to model around $340 million, this is probably now after a COVID impact and when people will not be obliged to work from home. For the September quarter, it will be probably in the mid between what we reported for FQ4 and this long term view. 
+Dave Mosley
+I think there’s two elements. Obviously there's some things that you save money on in the current work environment and then the other thing is that there's a very tight cash management, like you know investments are really being scaled back for us right now. And so I think it should reequilibrate like Gianluca said to about that $340 million level, that’s the way we should think about it longer term. 
+Unidentified Analyst 
+Alright, thank you. 
+Operator
+Your next question comes from the line of C.J. Muse from Evercore ISI. Your line is open.
+C.J. Muse
+Good afternoon. Thank you for taking the question. I guess my first question is on gross margins, both short term and long term. So I guess short term, can you walk through what you're seeing in terms of under absorption COVID related costs and perhaps competitive pressure as you look at September quarter. And then longer term, this is not easy stuff to make, and you know there’s three players. This should be a 40%-plus gross margin business. 
+So as you think about that, I’m assuming you agree with that assessment, you know what gets you there. Is it volumes, it is higher price points on next generation technologies. What keeps the earnings power of the industry to the level that is consistent with the technology being profited? 
+Dave Mosley
+Yeah, I’ll let Gianluca walk you through the details of the gross margin impacts last quarter, but to your point, you know actually where the quarter ended up last quarter, we feel pretty good about our gross margin. Our operating profit was above the midpoint of the range, it was about 14.8%. 
+Gross margins, you know had we not had some of the COVID impacts which you know Gianluca can walk through what they were, then we probably would have been in the gross margin range as well. 
+To your point, the supply demand balance is you know usually the way I answer that question. Demand for exabytes will continue to grow and we have put capacity online to go get that. In times like this we were actually putting capacity online for growth in exabytes and we've got a temporary role in some of the legacy markets right now, so we have excess capacity. So that’s not a long term trend, that’s a short term trend. But to your point you know managing supply and demand properly is the way that you add that value. 
+Go ahead Gianluca.
+Gianluca Romano
+Yeah, for the June quarter we said the COVID related impact in terms of gross margin percent was 130 basis point. So if we look at where we closed the quarter at 27.3%, you add the 130 basis points, we have 28.3%. As you know, they add this part of the business as a gross margin, but it’s a little higher than the full corporation. So I will say, you know as Dave said before, we are close to the normal or assume range of 29% to 33%. For the September quarter we have said the COVID cost to be fairly flat sequentially, so well probably more the same level of cost. 
+C.J. Muse
+Thank you. If I could add one quick follow-up, can you help modeling with stock based comp interest expense and tax rate? Thank you. 
+Gianluca Romano
+Sorry, can you repeat the question. 
+C.J. Muse
+As you look at September, can you help us model the interest expense, stock based comp and the tax rate? 
+Gianluca Romano
+Yeah, I would say stock based comp is a little bit lower than $30 million and the tax rate is mid-single digit and the interest are very similar to the FQ4, so you can just take that as a reference. 
+C.J. Muse
+Thanks so much.
+Dave Mosley
+Yeah sorry C.J., one other point is just to make sure that when you read through this, from a gross margin percentage perspective we're not really running the business like that right now, so if we see deals or cash we’ll take it. And we were able to increase free cash flow by 5% last quarter which is ultimately our focus. Just you know some of the legacy businesses might recover faster, you know even if it's not great gross margin percentage, we’ll take the cash. 
+Operator
+Your next question comes from the line of Karl Ackerman from Cowen. Your line is open. 
+Karl Ackerman 
+Thank you. Good afternoon everyone. First of all, I want to get your longer term view on not just the mix of your hard drive units between enterprise, non-enterprise, but also the absolute level of units for the industry. You know I know you and peers have issued units over exabytes for some time, but your capital expansion plans factor a resumption of unit growth over the next several quarters. I ask because the last restructuring action taken by the industry was contemplated in late 2018 when the hard drive cam was analyzing near 400 million units. In Q2 that number appears closer to 240. 
+Now clearly COVID has majorly disrupted the supply chain and demand as you described. But I guess how do you think about the capital allocation in OpEx longer term as it relates to stable or most likely improving hard drive volumes and the mix towards nearline. 
+Dave Mosley
+Yeah, I think from a space perspective, if I can think there first, I think we have plenty of space. What's settled underneath this is obviously the nearline drives have a lot more heads and disks, and so the heads and disk space is full. 
+The number of drives we make is actually not so relevant in the space that we have. I mean we – you know our manufacturing line footprints are pretty small. So we could pivot up in the number of drivers if we had to exactly as your point. I don't know if we could cut a lot of space if we had fewer, necessarily fewer drives. It depends on how many fewer, of course, but you know – and from our perspective almost all of our CapEx is really been pointed at that exabyte growth that we're expecting in the cloud. 
+You believe $24 billion of TAM up 20.25, we got to get the right capacity online that looks like heads and disk and that’s what the way we are filling thing up, and using our capital for that as well. 
+I think one other point is even the big drives – in the old days you know you had a test floor and a clear room. Today you have 10 test floors and a clear room. The test is actually the thing that’s consuming most of the space and most of the capital and that’s all associated with nearline as well and mass capacity as well. 
+Karl Ackerman 
+Very helpful. Thank you. 
+Operator
+Your next question comes from the line of Toshiya Hari from Goldman Sachs. Your line is open. 
+Toshiya Hari
+Good afternoon and thank you very much for taking the question. Gianluca, I just wanted to go back to gross margin. You talked about there being a 130 basis point impact from COVID in the quarter. I was curious on what level of impact was initially embedded in your thought process when you gave guidance three months ago. 
+And I guess importantly, I guess in responses to C.J.’s question you mentioned that you expect relatively flattish COVID impact in the September quarter, but at what point do you think at least some of the underutilization rate, headwinds started to abate in your business and I've got a quick follow up? Thank you. 
+Gianluca Romano
+Yeah in the guidance we included, the COVID impact is slightly above what we had in the prior quarters, so let’s say between $25 million and $30 million. So not very far from where we ended up. And yes for September, we expect the cost to be very similar, either full quarter impact and so we expect more or less the same amount. 
+We don’t know exactly when this will end and what we have modeled internally is COVID to continue to have an heavy impact in FQ1 and FQ2 and no margin in the second part of the fiscal year, but of course this is a model and we do not what exactly what will happen. So there is an impact also in the demand, not only on the cost. 
+Well the other part of it is maybe even more important at this point is demand and the impact on our mix. So overall you need to look at the cost and the demand and the final EPS impact. For the FQ4 we have estimated that overall impact would be you know between $0.25 and $0.30. That is a huge impact when you consider our EPS results for the quarter. 
+Dave Mosley
+And it kind of points to the products, especially the on-prem enterprise products, nearline 
+mission critical and some of the surveillance. That mix is fairly rich. It has the media rich and actually these are tough drives to make as well, so that would have been accretive to gross margin I think is the point. 
+Gianluca Romano
+It’s very hard to estimate. It’s very hard but also we – I’ll tell you what, in our model we don’t pretend to be correct. 
+Toshiya Hari
+Got it. No, that’s super helpful, thanks for color. And then as a quick follow-up, this one is probably for Dave. I think historically you guys have talked about a 35% CAGR in terms of exabytes for your mass capacity business. Obviously you grew significantly north of that in fiscal 2020. Within the context of the flattish revenue outlook you provided for fiscal ‘21, are you expecting exabytes and mass capacity to be sort of consistent with that 35% or given the out performance in fiscal ‘20 should we be prepared for a slightly slower growth rate. What are your thoughts today based on your customer conversations? Thank you. 
+Dave Mosley
+Yeah, thanks Toshiya. I think it will probably be above the 35% to 40%. I mean and certainly in calendar year ’20 we said that we expect it to be greater than that and we call that the slow part even with the mass capacity, then that will still be – you know that’s the front end of the year.
+I think as we come out of the back of this, I think it will, the exabytes will accelerate as well, so this is why you know we made this pivot. I think it kind of proves that it is the right pivot of our portfolio is why we you know want to get this – our product lines really tight and very manufacturers will be flexible and hit the right margins. So you know to your point, I think we’ll start with the 35% to 40% certainly in calendar year ’20 and probably up throughout the fiscal year.
+Toshiya Hari
+Thank you. 
+Operator
+Your last question comes from the line of Dustin Scaringe from Robert Baird. Your line is open. 
+Dustin Scaringe
+Hi! Thanks for taking the question right at the end. This is Dustin speaking for Tristan. Just a quick one on the 18 terabytes. I know you guys talked about ramping it in the later part of this year. But I'm wondering at what point does 18 crossover 16 in the future and then do you expect to gain market share until then? Thank you.
+Dave Mosley
+Yes it's an interesting question Dustin. I’m not being cavalier with it, but I’ll say we’ll crossover when we're ready and when the customers are ready and I think you know when we have such high volume on the 16’s and people are demanding the 16’s, I think we have to be careful to make sure that we don't again build the wrong product at the wrong time for people. 
+We can transition to the 18’s fairly quickly. I think we do need some lead time, because that’s had the media start and whatnot, but I think we have great relationships with the big customers that would be demanding that. They are – you know we're locked step with them on what those transitions would look like and I have a lot of confidence in the drive. 
+I don't think it's going to be the significant revenue contributor certainly in the next two quarters, you know like we said before, but we can transition whenever the customers are ready and we’ll take their cue on it. 
+Dustin Scaringe
+Okay, thanks for that Dave. 
+Operator
+I will now turn the call back to management for closing remarks. 
+Dave Mosley 
+Yeah, thanks Jason. I'd like to take an opportunity to just thank our customers and suppliers, employees and investors for their support of Seagate and we look forward to updating you on future calls. Thanks everyone. 
+Operator
+That concludes today’s confine call. You may now disconnect. 
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+4 Authors in the Last 90 Days

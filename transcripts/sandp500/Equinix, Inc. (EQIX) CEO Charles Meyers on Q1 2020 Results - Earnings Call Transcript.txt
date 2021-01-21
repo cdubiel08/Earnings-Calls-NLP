@@ -1,0 +1,322 @@
+Equinix, Inc. (NASDAQ:EQIX) Q1 2020 Earnings Conference Call May  6, 2020  5:30 PM ET
+Company Participants
+Katrina Rymill - VP, IR
+Charles Meyers - CEO and President
+Keith Taylor - CFO
+Conference Call Participants
+Jon Atkin - RBC Capital Markets
+Frank Louthan - Raymond James
+Michael Rollins - Citi
+Simon Flannery - Morgan Stanley
+Ari Klein - BMO Capital Market
+Colby Synesael - Cowen & Company
+Jordan Sadler - KeyBanc
+Erik Rasmussen - Stifel
+Operator
+Good afternoon and welcome to the Equinix First Quarter Earnings Conference Call. All lines will be able to listen-only until we open for questions. Also, today's conference is being recorded. If anyone has any objections, please disconnect at this time.
+I'd now like to turn the call over to Katrina Rymill, Vice President of Investor Relations. Thank you.
+Katrina Rymill
+Good afternoon, and welcome to today's conference call. Before we get started, I'd like to remind everyone that some of the statements we'll be making today are forward-looking in nature and involve risks and uncertainties.
+Actual results may vary significantly from those statements and may be affected by the risks we identified in today's press release and those identified in our filings with the SEC, including our most recent Form 10-K filed on February 21, 2020. Equinix assumes no obligation and does not intend to update or comment on forward-looking statements made on this call.
+In addition, in light of Regulation Fair Disclosure, it's Equinix' policy not to comment on its financial guidance during the quarter, unless it is done through an explicit public disclosure.
+In addition, we will provide non-GAAP measures on today's conference call. We provide a reconciliation of those measures to the most directly comparable GAAP measures and a list of the reasons why the company uses these measures in today's press release on the Equinix IR page at www.equinix.com.
+We have made available on the IR page of our website a presentation designed to accompany this discussion along with certain supplemental financial information and other data.
+We'd also like to remind you that we post important information about Equinix in the IR page from time to time and encourage you to check our website regularly for the most current available information.
+With us today are Charles Meyers, Equinix' CEO and President; and Keith Taylor, Chief Financial Officer. Following our prepared remarks, we'll be taking questions from sell-side analysts. In the interest of wrapping this call within an hour, we'd like to ask these analysts to limit any follow on questions to just one.
+At this time, I'll turn the call over to Charles.
+Charles Meyers
+Thanks Kat. Good afternoon and welcome to our first quarter earnings call. Before we get into the results of the quarter, I want to take a moment to acknowledge the unprecedented times in our world and share our approach to this continuously evolving situation.
+First and foremost, our hearts go out to all those who have been impacted by COVID-19, and we extend our gratitude to all the frontline workers who are helping to keep us safe and healthy as we navigate this together.
+From the beginning, we've approached this situation with a consistent set of priorities: protecting the health and safety of our employees, customers and partners; ensuring the availability and continuity of our services that underpin the operation of the digital economy; and stepping up to do our part to mitigate the impacts of this crisis on people and communities around the world.
+Very early on, we activated our business continuity plans with the goal of ensuring seamless operations through this crisis. I'm incredibly proud of our teams across the company and moved by the care, kindness and courage they are demonstrating each day in service to each other, to our customers and to our communities.
+As in many other crisis situations through the years, the dedication and professionalism of our operations team has been unwavering, particularly as they were forced to adapt to our policies and procedures to rapidly changing conditions, keeping safety first while ensuring responsiveness to the needs of our customers.
+Thanks to our global teams, our facilities have remained safe, available and fully operational, and our customer satisfaction scores are at an all-time high. As is often the case, times of crisis reveal fundamental insights about an organization, and COVID-19 is no exception.
+First, we have seen remarkable resilience of our people and the tremendous strength of our culture. We talk every day about the magic of Equinix. A reference to our culture that might sound light or ephemeral to many, but when a global pandemic puts every aspect of your business and your life into flux, you quickly realize that 10,000 people committed to value like we before me and find a better way is truly a force to be reckoned with.
+Second, we're seeing a magnification of the role that Equinix plays not only for our customers but in the basic operation of our society. The massive work-from-home experiment in which we find ourselves, has created a spike of near-term demand from a variety of customers, much of which we believe will sustain even as we calibrate on a new normal.
+And perhaps most importantly, the unique characteristics of this particular crisis have increased the resolve we see from customers relative to their focus on digital transformation as a long-term priority and have highlighted the relevance of Equinix in supporting these efforts.
+But this crisis has also created a level of distraction and friction in the overall economy that reinforces the importance of the real-time on-demand scalability provided by services like ECX Fabric and Network Edge, and highlights the need for us to continue our efforts to deliver an even more digitally-enabled experience for our customers.
+And finally, it's times like these where we must stay focused on long-term value creation and maintain the level of commercial discipline that has served us so well for the past decade.
+We continue to make prudent decisions in the face of our current realities, maintaining the priorities I outlined and ensuring that our balance sheet will sustain us through a wide range of scenarios.
+These explicit decisions, along with some limited purchase and installation delays, have led us to modestly widen our full year guidance, but we continue to see strong underlying performance of the business with particular vibrancy in our market-leading interconnection franchise, which is rapidly approaching $1 billion run rate business.
+Our funnel remains healthy with a line of sight to a strong Q2, and we're reaffirming our AFFO guide as a midpoint for the year on a constant currency basis. We are delighted that the Equinix business model continues to be resilient through times of uncertainty enabling us to step-up for our employees, our customers and our communities.
+While there are undoubtedly many challenges and much uncertainty still in front of us, I've never been more optimistic about the future of Equinix and the magnitude of the opportunity ahead.
+Now, let me turn to the quarter and the details of our results. We had a great start to the year, delivering strong Q1 bookings, underpinned by a diverse customer demand and robust interconnection growth. Our bookings span more than 3,000 customers, with cross-border bookings up substantially year-over-year. We processed over 4,000 deals in the quarter as our retail go-to-market engine continues to scale in response to our expanding market opportunity.
+Turning to our results, as depicted on slide three, revenues for the first quarter were $1.4 billion, up 7% year-over-year. Adjusted EBITDA was up 5% year-over-year and AFFO was meaningfully ahead of our expectations.
+Interconnection revenues grew 15% year-over-year, steadily rising in the last few quarters and a strong reflection of demand across our portfolio of Interconnection products, supporting a variety of customer needs and use cases. These growth rates are all on a normalized and constant currency basis.
+Our interconnection portfolio reflects a unique product set that is driving quantifiable customer value. We now have over 370,000 interconnections and delivered our 13th consecutive quarter of adding more interconnections than the rest of the top 10 competitors combined.
+In Q1, we added an incremental 6,800 interconnections fueled by video streaming and conferencing services and offset by a slight increase in network grooming after a Q4 pause. Peak Internet Exchange traffic grew 44% year-over-year and over 20% quarter-over-quarter, a significant jump driven by work-from-home traffic spikes.
+Customers are scaling into previously provisioned 100-gig growth capacity and ordering new capacity as we head into Q2. And ECX Fabric continues to be a bright spot with a strong growth in volume and ARPU as higher bandwidth and inter-metro connections become a larger share of the total.
+In March, we closed our acquisition of bare metal leader Packet, accelerating our ability to deliver physical infrastructure at software speed and enabling both service providers and enterprises to quickly and seamlessly deploy hybrid and multi-cloud architectures.
+Bare metal is a rapidly emerging category of digital infrastructure that enables businesses to deploy workloads on secure single-tenant hardware distributed geographically to support high levels of application performance and integrate fully with their choice of software and management platforms across a range of vendors.
+Deploying bare metal as a service on platform Equinix allows companies to accelerate time to market and reduce CapEx while enabling new use cases that require both public cloud and private infrastructure. This is a strategic part of our vision to evolve platform Equinix, interconnecting and integrating global businesses at the digital edge.
+We're excited to welcome the Packet team on board and are pleased to report that we expect the Packet acquisition to be roughly breakeven in 2020 from a dilution perspective.
+In April, we also announced our next milestone in our hyperscale strategy, launching a new xScale JV in Japan with GIC, following the success of our initial xScale JV with GIC in Europe.
+Our xScale approach is a critical element in our strategy amplifying our already deep balance sheet and allowing us to deliver superior returns on invested capital while strengthening Equinix' leadership position in the cloud ecosystem, and leveraging our substantial existing presence and go-to-market strength in major markets around the world.
+Now, let me cover highlights from our verticals. Our network vertical achieved its third highest bookings, driven by strong network reseller activity as well as meaningful capacity upgrades to support increased bandwidth for work-from-home employees.
+Expansions included Hurricane Electric, a leading global Internet backbone, utilizing ECX Fabric across 33 locations to allow enterprise customers real-time access to their IP transit offering as well as Reseller Goal Data, a leading America's telecom provider deploying edge nodes in advance of a cable landing station to improve connectivity with Latin America.
+Our financial services vertical continue to diversify led by APAC and capital market wins. This sector saw healthy new logo adds with meaningful growth in Fortune 500 and Global 2000 customers.
+New wins and expansions included a Fortune 500 financial services firm re-architecting their network and securely accessing ecosystem partners and a top five global currency exchange tapping into our dense financial services ecosystem across eight locations.
+Our content digital media vertical saw solid bookings with strength in video and social media. Expansions included Zoom extending coverage and scale to support their explosive market demand as well as TikTok. A top 10 social media platform deploying edge nodes to support coverage and scale of its content delivery platform. Two good examples of COVID-related demand on platform Equinix.
+Our cloud and IT vertical also saw strong bookings led by APAC and a significant increase in ECX Fabric participants. Expansions included a Fortune 500 security and networking company, deploying infrastructure to support new product offerings worldwide and Link [ph], Japanese IAS MSP deploying infrastructure to support customer experience and ecosystem access.
+Our enterprise vertical saw healthy bookings despite COVID-related friction in the back half of the quarter reflecting broad strength, including government, healthcare, and education. We continue to focus on helping firms re-architect their infrastructure to solve the challenges of speed, scale and security while enabling the move to next-generation digital platforms.
+New wins included Phreesia Inc., a U.S. healthcare platform, deploying regional infrastructure to deliver an enhanced customer experience as well as a Brazilian education institution deploying to support digital transformation and improved performance.
+Our channel program accounted for approximately 30% of bookings, and we continue to see great productivity from this go-to-market vector. We processed over 2,000 channel deals this quarter, our highest ever, with wins across a wide range of industry segments with projects focused on digital transformation efforts as well as COVID-19 response.
+New channel wins this quarter included a notable win with Verizon for a premier U.S. retailer transitioning from on-premise data centers to a hybrid multi-cloud solution to enhance elasticity and performance, and a joint win with British telecom for a Fortune 150 biopharma firm, deploying a multi-region SD-WAN solution optimized for speed and agility.
+Now, let me turn the call over to Keith to cover the results for the quarter.
+Keith Taylor
+Thank you, Charles and good afternoon to everyone from Burlingame, California. Equinix yet again delivered another very solid quarter of performance. Our success stems from the strength of our teams, who come to work day in and day out to meet the needs of our customers and so many others, including you, our shareholders.
+We started 2020 well positioned to create significant value for the year and beyond. And right out of the gate, the team delivered as our go-to-market engine yet again produced a solid set of diversified bookings in the quarter. It was our second best Q1 bookings quarter in our history.
+So, as we sit here today, we firmly believe our platform is not just relevant, but even more essential as the world we know quickly shifts to digital, only accelerated by the opportunities and the challenges created by COVID-19. Our xScale and Packet acquisitions, which both closed in Q1, are tracking well against our early expectations.
+Also after the quarter end, we entered into our second hyperscale JV for the Japan market, which we expect to close in Q3 and are already looking at our third and other joint ventures for the rest of Asia and elsewhere. And we continue to look for other platform enhancing acquisitions, both targeted and opportunistic.
+Our inter-region activity remain strong, a reflection that we're selling well across our global platform. We continue to enjoy net positive pricing actions resulting in very firm MRR per cabinet on a currency-neutral basis.
+And lastly, after funding the two acquisitions this quarter, we have about $1.2 billion of unrestricted cash on our balance sheet and pro forma for our new 364-day facility. We have an incremental $2.5 billion of liquidity to support our global growth and expansion initiatives. We have an active construction pipeline with 32 major projects currently underway across 22 metros in 14 countries.
+We made a few minor adjustments to our ready for service dates in certain markets, while we continue to work closely with our suppliers and partners to deliver the capacity as close to the target dates as possible with limited impact on our guidance for the year.
+And we expect another year of active builds and are maintaining our full year capital expansion guidance. As we have said before, we believe the diversity of our business across verticals, sectors, markets and customers, puts us in a highly favorable position to both capitalize on industry trends, but also weather the macro shifts and increased volatility.
+Specifically, our current revenue exposure to the travel, energy and retail industries is less than 3%. Also, I want to reiterate the importance we place on our employees, our customers and our communities. Let me provide you two examples: We placed certain restrictions on access to our IBXs to protect both our employees and our customers.
+As a result, in certain circumstances, we're providing three Smart Hands professional services to the affected customers for a period of time. This has a direct impact on our short-term revenues, but is the right thing to do. This adjustment has been reflected in our current financial guidance.
+Also, our greater than 2,500 IBX employees received a one-time cash bonus to help them address personal needs, given the shelter-in-place requirements in their communities while all other employees were provided a stipend to help support their work-from-home requirements.
+As a result, for the first quarter, the COVID-19 impact to revenues and adjusted EBITDA was $3 million and $14 million, respectively. On a constant currency basis, and absent the COVID-19 adjustments, both revenues and adjusted EBITDA were above the top end of our guidance range and AFFO and AFFO per share were above our expectations.
+Now, let me cover the quarterly highlights. Know that all growth rates in this section are on a normalized and constant currency basis. As depicted on slide four, global Q1 revenues were $1.445 billion, up 7% over the same quarter last year, our 69th consecutive quarter of revenue growth.
+Q1 revenues, net of our FX hedges, included a $15 million negative FX impact due to weaker operating currencies with particular impact on the Euro, the British pound, and the Brazilian real when compared to our prior guidance rates.
+Global Q1 adjusted EBITDA was $684 million, up 2% compared to the prior quarter and 5% over the same quarter last year, mainly due to strong revenue flow-through from price increases and deal mix.
+As is typical, we had about $18 million of higher seasonal costs in Q1, primarily attributed to the FICA reset and our annual sales conference. For Q1 adjusted EBITDA performance, net of our FX hedges, included a negative $7 million FX impact when compared to our prior guidance rates.
+Global Q1 AFFO was $535 million, above our expectations on a constant currency basis due to strong operating performance and lower than planned interest expense and income taxes.
+Our strong operating performance is expected to offset financial impacts related to COVID-19. And as such, as Charles noted, we are reaffirming our AFFO and AFFO per share guidance at midpoint on a constant currency basis.
+Turning to our regional highlights, whose full results are covered on slides five through seven. EMEA and APAC were the fastest MRR growing regions on a normalized year-over-year basis at 12% and 9%, respectively, followed by the Americas region at 4%.
+The Americas region saw its best-ever Q1 price adjusted gross or PAG bookings with a high number of small deals and healthy pricing. Also, as expected, the Americas region continued to export substantial activity to the other two regions, highlighting the value of our global platform and the strength of the Americas selling engine.
+Bookings included wins with mission-critical digital infrastructure networks and work-from-home service providers. We continue to expect the Americas revenue growth rate to trend upwards to 5% or greater as we progress through 2020. Our EMEA region saw growth across its 22 metros and limited impact from COVID-19.
+Demand was weighted towards our four largest markets, being Amsterdam, Frankfurt, London, and Paris, with channel activity driving solid bookings into our smaller markets as well. EMEA cabinets billing reduced over the prior quarter due to timing of cabinet installations in both Q4 last year, which was very strong. And delayed installations in Q1 this year, which we expect to be realized in Q2. Deal pricing remained very firm.
+And Asia-Pacific region saw solid bookings with a record in Hong Kong and a significant uptick in Shanghai. Demand was strong across all verticals with increased need for bandwidth across many organizations, given the extended work-from-home mandates.
+And now looking at the capital structure, please refer to slide eight. As it relates to our liquidity position, we ended the quarter with $1.2 billion of unrestricted cash on the balance sheet with an additional $1.7 billion of unused capacity from our revolving line of credit. Our net debt leverage ratio was 3.9 times at Q1.
+Annualized adjusted EBITDA up slightly due to the cash used to complete the acquisitions in the quarter. Also, we remain steadfastly committed to driving long-term shareholder value.
+And we will continue to fund the business from the healthy operating cash flows generated by the business, while also accessing both the debt and equity capital markets as appropriate.
+Also, note that achieving investment-grade our investment-grade ratings last year has proven to be a highly strategic and an important milestone for Equinix. Despite the recent volatility in the debt markets, we continue to review opportunities to refinance our existing debt tranches on a net present value positive basis.
+And today, that would not be possible without being investment-grade rated. We do expect to refinance a portion of our outstanding debt over the next 12 months. And note, there is currently no benefit attributed to our debt refinancings in the current AFFO or AFFO per share guidance.
+Turning to slide nine for the quarter. Capital expenditures were approximately $400 million, including seasonally low recurring CapEx of $18 million. We opened two new expansions in the quarter, including a new IBX in Warsaw. And we announced two new expansion projects, one in Frankfurt and the other in Singapore, two of our strongest global markets.
+We continue to expand our ownership, acquiring land for development in both France and Australia. Also, we recently purchased our São Paulo one IBX. Revenue from owned assets remained at 55%, but we expect this percent to rise by the end of the year.
+Our capital investments delivered strong returns as shown on slide 10. Our now 148 stabilized assets increased recurring revenues by 5% year-over-year on a constant currency basis.
+Also consistent with prior year, during Q1, we completed the annual refresh of our IBX categorization exercise. Our stabilized asset count increased by net 12 IBXs. These stabilized assets are collectively 84% utilized and generate a 29% cash-on-cash return on the gross PP&E invested.
+And please refer to Slides 11 through 15 for our summary of 2020 guidance and bridges. Do note, our 2020 guidance includes the financial results from both the xScale and Packet acquisitions.
+Starting with revenues, we expect to deliver a 7% to 9% growth rate for 2020, a reflection of the continued momentum in the business and includes a negative FX impact of $105 million, net of our FX hedges compared to our prior guidance.
+Also, we expect revenues attributed to the Packet acquisition for the 10-month period of our ownership to range between $32 million and $40 million. And MRR churn is expected to remain in our targeted range of 2% to 2.5% per quarter for the year.
+We expect 2020 adjusted EBITDA margins of approximately 48%, excluding integration costs, the result of strong operating leverage in the business, offset in part by the expected higher utilities and property tax expense and a meaningful investment in our go-to-market and product organizations.
+We expect to incur $20 million of integration costs in 2020, $10 million to integrate Packet and the remaining $10 million to finalize the integration of our various other acquisitions.
+2020 AFFO is expected to grow between 11% and 16% compared to the previous year. For 2020, we expect AFFO per share to grow between 8% and 12%, excluding capital market activities. Including capital market activities, we expect AFFO per share to be greater than 8%, consistent with our long-term AFFO per share growth objective, as discussed at our June 2018 Analyst Day.
+So, let me stop here and turn the call back to Charles.
+Charles Meyers
+Thanks, Keith. Despite the challenges from COVID, the Equinix business is performing well, and we remain focused on the clear set of priorities we laid out at the beginning of the year; investing in our people; evolving our platform and service portfolio to meet the changing needs of customers; expanding our go-to-market engine to fuel long-term growth; and simplifying our business to drive operating leverage; and enhance our customers' experience.
+As we continue to navigate an uncertain environment, we will remain diligent, flexible, disciplined, and prepared across the company from how we set up our IBX technician shifts to enhance safety to increasing balance sheet liquidity, investing in new service development and hiring top talent to expand our selling engine, all while closely tracking our financial and operating metrics to ensure profitable growth and maintain a keen focus on AFFO per share as a lighthouse metric for the business.
+As we have in prior market dislocations, we will manage the business prudently with a long-term orientation and a clear objective to extend our market leadership. As our customers continue to make clear, the breadth of our product portfolio, the reach and scale of our platform, the depth of our balance sheet and critically, the passion and resilience of our people will not only enable Equinix to weather the storm, but will position us to execute aggressively on the other side of this unprecedented crisis and capture the massive opportunity that lies ahead.
+So, let me stop there and open it up for questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question will come from Phil Cusick with JPMorgan. Your line is open. Phil, please check your mute button, your line is open.
+Unidentified Analyst
+Hi, this is Richard for Phil. I just want to get a better sense of the bookings through the quarter. Was it pretty steady? Or did it start to fall off at the end? And what have you seen more recently? And then a quick follow-up on Packet.
+Charles Meyers
+Hey Richard. Yes, I think we saw -- definitely saw -- it was quite a normal quarter, I think, for the first couple of months. And then as we as sort of COVID situation became a bit more acute, I think there was uncertainty that created some level of friction.
+Although, again, we had a really strong quarter across the board generally. But there was, I think, some buying friction in the system, but I would say we entered Q2 with a really healthy pipeline and actually saw strong early conversion of that pipeline in the quarter.
+And I think right now, we're seeing the early signs of a bit more return to normal and I think what we're also seeing is our selling team really becoming more accustomed to driving sales cycles in this setting. And so overall, we continue to feel good about the bookings productivity of the sales engine.
+Unidentified Analyst
+And then with Packet really quickly, it has a pretty wide range. But I guess, looking beyond this year, should we expect more steady growth? Or can we see a bit more of a hockey stick as it kind of scales out?
+Charles Meyers
+That's a great question. I do think that we can accelerate growth in that business. It's obviously a relatively small business now. I think there's a meaningful opportunity associated with this kind of bare metal private infrastructure immediately proximate to the public cloud.
+And by the way, I think it really fits well with kind of what people are seeing and how they're responding to COVID in terms of their desire to be able to deploy infrastructure in a more frictionless way. And so we think as we add enterprise feature set, as we extend our partnerships with the software players and platforms like VMware, Red Hat, et cetera, that people have really invested significantly and that it's going to be a real tool for us as people deploy hybrid and multi-cloud architectures.
+So, I think that we'll have to reset when we give you a more longer-term guide and talk about that. But I do think there's an opportunity for us to expand growth in that offering. 
+Unidentified Analyst
+Great. Thank you.
+Operator
+Our next question will come from Jonathan Atkin from RBC Capital Markets. Your line is now open.
+Jon Atkin
+Thanks very much. So, two questions. One, kind of high level. Any impacts in Europe that you're seeing from the merger involving interaction?
+And then a second one for either Keith or Charles. We're kind of now beginning in May and where have things settled out now that we're kind of into COVID on pricing. I took away from Keith's comments that pricing is actually pretty healthy, but where are we kind of settling out in terms of the run rate around cabinet adds and cross-connect adds? Thank you.
+Charles Meyers
+Sure. Remind me the first one, Jon, I'm sorry.
+Jon Atkin
+Europe and any impacts you're noticing from the merger involving the interaction, any opportunities with that--? 
+Charles Meyers
+Yes, I think we haven't really seen a meaningful change in the competitive environment in Europe, and our demand continues to be strong. I think we're seeing healthy pipeline and healthy bookings as well as strong pricing in the European theater. So, we haven't really seen a meaningful change. We'll continue to monitor that and determine if that's -- if there's any change to that.
+And then relative to the broader sort of COVID in terms of how it's settling out in cabinet adds and pricing, et cetera. I'll let Keith add here as he wishes. But yes, as we said in the script, I think firm pricing, in particular, in Europe, we're continuing to navigate sort of adjustments in our interconnection pricing very effectively.
+I mean I think that's given us some nice lift from a price adjusted gross booking standpoint. I think cabinet adds, you saw Europe was a particular oddity caused by basically something that happens every now and then, which is a pull forward from cabinets into Q4 from Q1 and a push out for cabinets out of Q1 into Q2.
+And so I do think you're going to see -- we saw a very strong Q4, and I think we're going to see a strong Q2. But obviously, we saw a weaker Q1. But I don't think that's a reflection on demand. I just think that's one of the things we've always encouraged you to look at sort of rolling four-quarter averages on cabinet adds.
+I think cabinet adds are going to be slightly lower, particularly in Europe, maybe as we continue to adjust our mix. Because if you look far enough back, you saw quarters where there were really large cabinet adds in there, associated with hyperscale type deals.
+We would really prefer, obviously, to direct that business to the xScale JVs and keep our capacity and our capital applied to the very high-return retail business. And so I think that will impact cabinet adds to some degree, but that's fully contemplated kind of how we're guiding in the business, and we think it's going to, again, have favorable impact on other core operating metrics. Keith, anything to add there? 
+Keith Taylor
+Charles, just further to your comments, I'd make the comment that we saw not only strong pricing in Europe, we saw it across the platform, which is important, Jon, as we think about our business. We talked about the fact that there's net positive pricing actions. Again, it's not just Europe, but again, it's across the platform. And it gives us confidence that we're continuing to see, on a currency-neutral basis.
+Clearly, there was some currency impact to the metrics which we share in our earnings deck. But overall, we're delighted with what we're doing. And part of what Charles also alluded to and we talked about it, Packet and some of our other service offerings, it is our view that it will continue to add value on a per cabinet basis.
+I think there's going to be a higher attach rate, and I think interconnection is going to continue to be strong. And all of that sort of lends to a more positive pricing environment for Equinix. 
+Charles Meyers
+Yes. And I might add -- I might, Jon, have just one more bit of color that kind of bridges between your question and Richard's prior question. What we're finding from a booking standpoint and overall selling productivity is a bit of kind of puts and takes.
+There's been -- as I said, there was some friction associated with sort of, I think, the near term towards the end of Q1, we're getting back to where people are adjusting, and we're seeing some relief on that. But interestingly and perhaps counterintuitively, we're seeing greater access to decision-makers.
+Decision-makers are kind of having -- maybe having a different schedule phenomenon, and we seem to be having greater access to decision-makers and seeing a greater resolve on their part to make commitments to move forward aggressively with their digital transformation needs.
+Now, I think it may mean some delays in some cases, just out of, again, depending on the sector and depending on how acute their other issues might be. But if anything, we're seeing a greater level of resolve in terms of how they're thinking about digital transformation. So, it's a bit of puts and takes. But again, I think we're off to a strong start in Q2 and feeling good about the pipeline.
+Jon Atkin
+If I can squeeze one in for Keith just on the variability in maintenance CapEx. It was quite significant, and you talked a little bit about that. But what's kind of mix of that bucket?
+And what's the -- I guess, what were the surprises around that, that what were the normalized levels that you're kind of leading us towards? If you maybe review what makes that up and what's the source of variability of going forward? Thanks.
+Keith Taylor
+Sure. Yes. We did see slightly less this quarter than we anticipated, roughly 1.2%. If I go to the same quarter last year, it was 1.5% of revenues. Meaning, certainly, as we're all aware during the latter part of the quarter, things started to slow down a little bit. We also were putting our IBXs into a more restricted fashion. No surprise as things took root in different parts of the world.
+But all that said, when you look at our overall guidance, we're still looking at somewhere around $150 million to $160 million of capital that will go into recurring and only a portion of that, of course, is maintenance, roughly 2% of our recurring CapEx is maintenance.
+And so you'll see it go back to a more traditional level in Q2. That's reflected in the guidance. And then for the year, you'll see it. Roughly a little bit lower than we saw last year, but roughly in line with what our expectations would be on a go-forward basis.
+Jon Atkin
+Thank you.
+Operator
+Our next question will come from Frank Louthan with Raymond James. Your line is now open.
+Frank Louthan
+Great. Thank you. Two questions. One, any of the recent strength coming from business you think might be being pulled forward as customers are kind of grabbing some space, it could impact the back half.
+And then what do you think the conversion rate will be on virtual cross-connects as you've been doing well with those and as folks are signing those up and then converting them into more permanent facilities. Thanks.
+Charles Meyers
+The -- Frank, I'm sorry, I lost the first one again. These double questions are killing me today.
+Frank Louthan
+Yes, just any recent strengths that you've seen, do you think any of that's coming from business that might be pulled forward from, say, the back half that could maybe cause a headwind then and--
+Charles Meyers
+Yes, I'm sorry. Yes, I don't think so. I think that I think we're seeing that as a response. I think the question of whether or not the demand that is creating that will be sustained over time. I think that's a reasonable question. And -- but I think for the most part, people are generally, they design their networks with a certain amount of headroom where they design their overall delivery systems with a certain amount of headroom. The work-from-home obviously chewed up a lot of that headroom and people had to scramble to add capacity.
+I think we were incredibly responsive in helping people do that. But I don't think that -- and I think there's some chance that the headroom increases as we moderate more towards a new normal.
+But I don't think it's going to -- I don't think it will have a huge impact because I think it was more of a burst that we saw there offset to some degree by other factors. And I think we're just kind of going to normalize, hopefully, more so in the back half, again, barring any kind of second wave or any other strange dynamics.
+So -- and I don't think from a capacity situation, I think most markets were in very good shape, and not worried about parting ways with that capacity in terms of creating constraints in the back half.
+And as for interconnection, again, I really feel good about the way the business is trending. We were more towards the low end of what we were guiding in terms of total count, but we had a very strong gross adds quarter, the strongest in several years.
+And -- but we also had some elevated churn associated with some network grooming, both seen 10 to 100 migrations and some consolidation activity in terms of people who are undergoing acquisitions and consolidating networks associated with that. But the virtual cross connection, we think people -- one of the things we talked about in the script is ARPU going up, and that's a real reflection of people buying ports.
+And then provisioning cross-connects and driving traffic on them in ways that are increasing the ARPU on a per-connection basis. And so we're actually seeing that right in line, if not better, than our physical cross-connects. And so we're really, really pleased with the overall trajectory on the ECX Fabric.
+Frank Louthan
+All right, great. Thank you very much.
+Charles Meyers
+You bet, Frank.
+Operator
+Our next question will come from Michael Rollins from Citi. Your line is now open.
+Michael Rollins
+Hi. I have two questions; I'll break it up into two parts. The first one is just thinking about the disclosure that your channel I think, you said was 30% of bookings this quarter. I'm curious, is that what's driving that strength? Is it the enterprise interest in adoption? Are there other things that are driving that up? And what kind of visibility do you get into the pipeline that the channel is looking at versus your own sales force?
+Charles Meyers
+Sure. Is that -- was that it? Or do you have another one?
+Michael Rollins
+I was just going to ask for a clarification also. When you described the zero to $50 million revenue impact from COVID-19. Earlier in the conversation, I think you mentioned Smart Hand fee waivers. And was curious if that range is only waivers for Smart Hands services? Or are there some other things that were just anticipated in that guidance impact range? Thanks.
+Charles Meyers
+Sure. I'll take the first one, and then Keith can comment on the second one, and I'll add as appropriate. So, channel, yes, again, very excited about the momentum we have in channel. And I would say it's largely attributable to the enterprise market, Mike.
+We -- I think that's where we're really seeing the effectiveness of our channel partners in terms of reaching enterprises with whom they have long-standing relationships, existing contractual vehicles, et cetera.
+And then also with some of our channel partners, where we're combining our value with theirs to create a full customer solution. And by the way, the hyperscalers fall into that category as well, as they have now seen a very clear sort of signal of the demand for hybrid cloud.
+If they're seeing a sales cycle being restrained by the need to satisfy the private portion of the hybrid cloud requirement, then they're coming to us, bringing us in and allowing us to help them get that resolved so that they can really satisfy the public cloud demand.
+And so we see it across a range of channel partners and also across a range of verticals, but really combining our value with that of our partners to solve end customer needs. And in terms of -- but definitely very slanted towards the enterprise.
+And then in terms of visibility, what I would tell you is that today, we are primarily what I would refer to as a sell with channel. So, we are still in the relatively earlier phases of channel maturity and we're not yet at a point where, generally, people are selling the Equinix value proposition on their own. They're typically engaged with the client, a customer. They engage our sales team. We sell jointly.
+We comp our direct rep as well as the channel partner, a little bit of cost in there, but really quite modest when you consider it relative to the total customer lifetime value. And so we are getting really good visibility.
+And of course, they have to register deals to get paid. So, we get really good visibility to the overall funnel on the channel side. So, Keith, I'll let you handle the sort of the discussion on the revenue guide.
+Keith Taylor
+Sure. The second question, Mike, the zero to $50 million that Charles commented in his prepared remarks vis-à-vis the revenues. It's really a reflection. There's a lot going on with the global pandemic, and there has been some uncertainty that's created. Having said that, we had a really strong Q1.
+Charles alluded to the fact that we have a very, very healthy pipeline, and we've had a great start to Q2. And so we recognize that. All that said is, when we think about the scenario planning, which we and I assume many others are doing, what are the potential implications on the business. And of course, we've thought about different things. Could there be an extension of the book-to-bill cycle? Could there be a weakening of the pipeline?
+Again, we haven't seen that yet, but these are examples. And hence, as you look forward in understanding what are the overall implications of the COVID-19 pandemic, we sized it of $0 to $50 million.
+Now, having said that, the first quarter, we've absorbed $3 million already. That $3 million, $2 million of it relates to Smart Hands that we basically in certain cases, with customers will offer free Smart Hand services because of the restrictions that were placed on our IBXs, and then there was a small sales allowance that we put in place.
+As we look forward, we're going to continue to offer those on a selected basis to certain customers Smart Hands. And therefore, on a go-forward basis, that will continue for some period until we have better clarity on how, if you will, our business and the rest of the businesses around the world will open back up.
+And then other things that we've thought about are what are the implications on customers on whether we need to make concessions as it relates to invoices that have already been generated, to write-downs to companies that go out of business, and we've reflected all of that.
+And hence, when you look at the revenue guidance page that we delivered in our earnings deck, you have a pretty good sense of what the scenarios are that we could plan for here.
+Yet having said all of that, we're going to run the business to deliver against our AFFO target at the midpoint or better. And so that sort of gives you a sense of what we're anticipating. But right now, the most concrete thing I can tell you is that there's selected -- sorry, select cases where we're delivering Smart Hands for free to our customers to certain customers.
+Charles Meyers
+Yes. And Mike, I mean, obviously, just it is more than -- that range is impacted by more than just as Smart Hands, as Keith indicated. And it was just argued that given the uncertainty about the depth and duration of exactly what we'll see here, that it was prudent for us to give a -- consider those other items like book-to-bill and some modest level of concessions. And try to size those and say what could that impact be during the course of the year and let's adjust accordingly.
+But again, we're feeling good about the early start to Q2, feeling good about the discussions we're having with customers, which are quite limited relative to concessions, et cetera. And so we're feeling good about where we're headed.
+Michael Rollins
+Thank you very much.
+Operator
+Our next question will come from Simon Flannery from Morgan Stanley. Your line is open.
+Simon Flannery
+Great. Thank you very much. Good evening. I wonder if you could update us a little bit on the xScale progress. How are things going with the initial JV? Nice to see the latest signing here.
+And then just continuing on the previous theme, you had churn at 2.4, you reiterated the two to 2.5 range. Do you think you're likely to remain at the upper end over the next couple of quarters? Or whether it was that more the onetime items that you were calling out, so you might go back down to where you've been in the last couple of quarters? Thank you.
+Charles Meyers
+Sure. So, xScale is going well. I think there's lots of demand. It's a complex business in terms of both the construction side of the business and all that comes with building large-scale projects like that as well as the sort of demand side of the business and dealing with very -- certainly large and important and strategically critical, but also very demanding customers. But the -- I think that they've always demonstrated a strong appetite for us to be satisfying a portion of their large footprint demand.
+And so we're very engaged with them and seeing a strong pipeline not only for the projects that we already have underway or built out, but for new markets as well. And so very healthy and vigorous dialogue with customers. And as I've always said, it wasn't our -- we aren't planning to be really chase after market share at all costs and hyperscale.
+Our view is work to generate -- work to win the market demand that we think is critical to cloud ecosystem positioning and we think we're -- we feel like we're being very successful in those conversations.
+And then obviously, we're very excited about the Japanese JV. We think it's a terrific market. We think we're well-positioned. We think that supply is going to be somewhat scarce and difficult. And we think -- and therefore, we've had a lot of interest in the capacity that we're projecting to bring to market. So I really feel good about that. And again, as Keith indicated, we're underway with additional JV conversations in other parts around the world as well already.
+Relative to churn, again, we did have some churn that impacted the EMEA cabinet adds and brought us a little bit towards the higher end of the range. But I think two to 2.5 is -- we're just -- we're comfortable in that range. And we, of course, are doing everything we can to manage that towards the bottom end. But I would just reiterate, we're comfortable with that range.
+Simon Flannery
+Okay. Thanks a lot.
+Operator
+Our next question will come from Ari Klein from BMO Capital Market. Your line is now open.
+Ari Klein
+Thanks. Chuck -- Charles, you mentioned some friction in the enterprise. How challenging is it to add new logos in the current environment? And what are you doing there to kind of help with that?
+And then some of the -- you mentioned network grooming impacting cross-connect net adds. Was any of that related to COVID? Or is it unrelated?
+Charles Meyers
+Sure. Yes, we did see -- we actually had a good quarter on new logos, and we tried to unpack that in terms of was that in the first two-thirds of the quarter and what do we see in the back half. And it was lighter and I would say our bookings from new customers was slightly less than it has, but not in a meaningful -- a particularly material way.
+I do think it's harder. We're finding that we're having to learn a new set of skills around being able to get an account over the line fully without the physical interaction. But I think we're already seeing that take root. And we've already actually given our sales teams, a number of new tools to be more effective in that setting.
+And so I think if there is that -- but obviously, there is some level of friction. And I think we just need to be cognizant of that. And that's why when we talked about the bottom end -- widening the bottom end of the range a little bit; it really reflects some of that. And our hope is that we are -- we return to some form of normal sooner rather than later.
+But even without that, we feel like the sales team can be fairly productive. But there is some level of friction in new logo capture undoubtedly. And then relative to network grooming, it is no, we did not see it as COVID-related. It was associated with some additional 10 to 100 kind of migrations and then also associated with some network consolidation associated with prior acquisitions. And so we saw a little bit of a and it's not atypical.
+You usually see a slowdown in Q4 because of the sort of network quiet periods. And then you see some of that activity sort of take place in Q1. So, not particularly surprising to us.
+And as I said, I do think that we're probably at a point now where a lot of the initial bump of 10 to 100 kind of went through with some of the largest players. But there's going to be a continuation of that as -- because the minute it becomes economic for somebody to upgrade electronics based on their route analysis, they're clearly going to do that.
+So, there's going to be a little bit of that in there, but we feel really comfortable with that sort of $7,000 to $9,000 per quarter guide and the gross adds are particularly encouraging. 
+Ari Klein
+Great. Thank you.
+Charles Meyers
+You bet.
+Operator
+Our next question will come from Colby Synesael with Cowen. Your line is now open.
+Colby Synesael
+Great. Thank you. Two follow-up topics. One is related to a question, I think, Jonathan Atkin had asked. When you think about your bookings for the full year in the new environment that we're in versus what you may have thought they are going to be entering the year on January 1st.
+Do you think with all the puts and takes that you expect bookings to be down, the same, or up today versus what you would have thought on January one for the full year of 2020?
+And then secondly, as it relates to Rollins' question on the $50 million, I know in the disclosures, you mentioned Remote Hands. But given the number that was in the actual first quarter, I think it was $2 million versus the $50 million, it seems like it's obviously a lot more than that.
+Am I fair that -- am I correct that you're just really trying to be conservative and give yourself kind of a plug, if you will, for what could be happening, but it's not necessarily something that you're seeing right now and, therefore, actually could potentially be a source of upside as we go through the course of the year.
+And then lastly, just a housekeeping question. You guys are supposed to have your two-year Analyst Day coming up in June in New York City. Just curious what the expectations there are? Thank you.
+Charles Meyers
+Great. Let me comment on the first one, for sure. I'll give you a little bit on the second one, maybe Keith can add in, and then I'll ask Kat to maybe jump in and talk about the status on Analyst Day. But in terms of bookings, as to if we looked at it and said, what's our is our expectation now that it's going to be the same, better or worse than what we would than what we thought be coming into the beginning of the year.
+Obviously, I think by virtue of the fact that we've widened the bottom end of the range and, therefore, slightly lowered the midpoint on our revenue guide; I think we're indicating that there will be risk balanced towards the downside in terms of bookings and revenue.
+But that, that risk is actually fairly modest. And so I think that would be the way I would characterize it. Again, we've very strong Q2 strong Q1 bookings, strong Q2 pipeline, where we see signs of sort of friction and some of the factors that were impacting us sort of at the peak of COVID beginning to moderate. And so our hope would be that we -- we'll see that, that risk will dissipate.
+But I think that's an accurate characterization is that since we lightened the bottom end, we would see a little bit more downside risk from what we had originally planned. But I also think there's opportunities for us to continue to close those gaps during the course of the year, which kind of brings me to the second question, which is, is that all one? Reiterating it is in all Smart Hands, it's a portion of that.
+If you -- as Keith said, a couple of million made in the quarter. But obviously, it was a relatively short stub period. Should that occur throughout Q2, Q3, and Q4, we would see, obviously, more than that, which would contribute to a meaningful portion of that $50 million but then there's other things in terms of potential book-to-bill delays, concessions and sales reserves, et cetera, that might also impact that.
+And so I think it was our best judgment about how to reflect what we thought the risks were by opening up the bottom end slightly and leaving the top end. In that if things mitigate quickly, we get back to a more normal environment that -- and the business continues to perform well even in this environment, that we think we can close those gaps. So, that's kind of what I would say. Keith, I don't know if you have anything to add on that second topic?
+Keith Taylor
+I think it's well said, Charles. Thanks.
+Katrina Rymill
+And then, Colby, to your question on Analyst Day on -- so as you can appreciate, given that all is going on, we will be moving our Analyst Day back. We absolutely love hosting our investors out of New York. We typically host a very large event, but given COVID, we will have to push back.
+In the meantime, Chip and I are going to be increasing the amount of reach outs all virtually, but were aimed to increase amount of conferences, the times and engagements, and looking forward to having a very active May and June with our investor base.
+Colby Synesael
+Great. Thank you.
+Operator
+Our next question will come from Jordan Sadler with KeyBanc. Your line is now open.
+Jordan Sadler
+Thank you. I wanted to follow-up on a couple of other questions or topics that have been discussed. First, regarding concessions and/or collections looking into April, either with regard to the $50 million or otherwise. The have you seen or have any requests from some of your customers? And can you quantify either number of requests or percent of rent reflected by those requests to date?
+And then separately, just touching back on the book-to-bill. What -- can you quantify maybe any delays that you've seen as a result of COVID or as a result of the lockdowns related to COVID, directly as it relates to book-to-bill?
+And then coming back to the churn, specifically in EMEA, what was that attributable to specifically, if you could add a little bit more color? And then on the timing in the quarter, that would be helpful. Thank you.
+Charles Meyers
+Sure. That's a lot, but I wrote it down this time and I make a note so I can remember it. Keith, maybe you can start with the first pieces there on concessions and collections, et cetera.
+Keith Taylor
+Sure. Jordan, as you can appreciate, still pretty early in the process. As we've referred to, it was really the latter half of the quarter where we start to feel the more larger impact to the pandemic.
+Having said all of that, our Q1, when we reported out, our DSOs actually improved, particularly in Europe and particularly for those extended terms. And so our DSOs dropped one full day to 42 days. So it gives you a sense that our collections continue to be very strong.
+You'll see in our 10-Q that we report that are actually our even though our revenues went up, our accounts receivable went down quarter-over-quarter. So that gives you a sense really that right now, we don't see it as an issue. As we look into April, we still don't see it as an issue. And now that we've closed April, but we have a pretty good idea on how we're coming in, in April.
+And as Charles and I have both alluded to, we feel pretty good about the first month of the new quarter. As it relates to concessions, absolutely, there are customers out there that have asked for concessions. But do remember, our top 50 customers represent 40% of our business, and you know who our top customers are.
+And so it will be at the far end of the tail, typically that customers will be asking for some type of concession. I to be honest, I don't have the visibility given that it just hasn't amounted to anything significant at that point at this point in time.
+But we are assuming that there will be customers who will eventually ask for concessions or who already have asked for concessions. Just like you're hearing out in the marketplace from our peers and other like industries. So why don't I stop there, let me pass it back to you, Charles, just on the--
+Charles Meyers
+Yes. And then maybe on the -- you like to ask for a little maybe more specifics on the book-to-bill. We do see occasionally, some people saying, hey, we were scheduled to implement this and begin billing on this commencement date. Obviously, we're not comfortable having our teams out there to finish that deployment. We'd like to push that out a bit. And so I think there is some of that, again, fairly limited in the grand scheme of things, but I think those are the types of things that we think we -- and we do see some of those.
+And we're accommodating those requests because we think that's the right thing to do given the situations. But there's a relatively small number of those. And then relative to the churn and EMEA, there was some large footprint churn. I think it's pretty -- it would be pretty typical indicative of it.
+As I said in our -- in my prepared comments, maintaining our commercial discipline, continuing these were really larger footprint deals, lower-yielding returns on capital and the kind of things where you do continue to see people re-architect towards different solutions. And so nothing particularly surprising there, but a couple that hit in the quarter and caused both a reduction in -- or an increase in churn and a reduction in cabinet adds.
+But of course, those cabinets go right back into the hopper. And we intend to resell them at a significantly higher price point and margin profile, given what is a really favorable trend on mix of business in EMEA.
+Jordan Sadler
+Thank you.
+Charles Meyers
+You bet.
+Operator
+Our last question will come from Erik Rasmussen from Stifel. Your line is now open.
+Erik Rasmussen
+Yes, thank you very much. I'll keep it brief then. Just on the JV announcement for your xScale data center built in Japan, can you just comment on how you see this changes your opportunities across the region and your market position?
+And then with that, who do you see as your biggest competitors in the region? And then just the follow-up there would be, I know you've been focused on international markets, but at what point do you see the U.S. becoming more interesting? Thanks.
+Charles Meyers
+Yes. I mean, we feel really good. I would say that the -- look, we view ourselves very much as a global platform. And so continuing to extend the strength our strength in key markets around the world and being able to meet a more comprehensive set of our customers' needs across a variety of solution requirements, including the very large footprint, just we think increases our overall global position, not obviously, in market, in Japan, and we think that, as I said, I think given what we see as potential supply constraints in that market and what others customers are seeing as potential supply constraints, we feel really good about our ability to generate utilization and bookings and, therefore, strong returns from our Japan JV.
+But it is part of a much bigger picture. We have an incredible business in APAC. Being able to serve customers in the primary sort of APAC markets that they're looking to deploy and is a key part of our strategy, and we're excited about the overall trajectory there. And then in terms of the U.S., looking more interesting.
+Again, I think it continues to be a very highly competitive market with some markets like in Ashburn, for example, at the large footprint end of the spectrum being, I think, in an imbalanced supply and demand situation, which is highly pressuring prices, et cetera.
+We feel very fortunate that we maintain a very different franchise in Ashburn and have seen tremendous health and strong price durability in our Ashburn -- in our business in Ashburn. But I think our appetite in the U.S. will be more limited for sure.
+Although I do think that we look at a campus like Dallas with having the potential to add large footprint capacity in immediate proximity to the Infomart, that is a very unique proposition that we would sort of resonate with. So -- but we're going to be very selective there just because we think there's other better opportunities for us around the world.
+Erik Rasmussen
+Okay. Thank you.
+Charles Meyers
+You bet.
+Operator
+That concludes our Q1 call. Thank you for joining us.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+2 Authors in the Last 90 Days

@@ -1,0 +1,339 @@
+Fortinet, Inc. (NASDAQ:FTNT) Q3 2018 Earnings Call November  1, 2018  4:30 PM ET
+Executives
+Peter Salkowski - Fortinet, Inc.
+Ken Xie - Fortinet, Inc.
+Keith F. Jensen - Fortinet, Inc.
+Analysts
+Jonathan F. Ho - William Blair & Co. LLC
+Sterling Auty - JPMorgan Securities LLC
+Shaul Eyal - Oppenheimer & Co., Inc.
+Andrew James Nowinski - Piper Jaffray & Co.
+Keith Frances Bachman - BMO Capital Markets (United States)
+Gabriela Borges - Goldman Sachs & Co. LLC
+Fatima Boolani - UBS Securities LLC
+Strecker Backe - Wedbush Securities
+Rob Owens - KeyBanc Capital Markets, Inc.
+Melissa Franchi - Morgan Stanley & Co. LLC
+Gregg Moskowitz - Cowen & Co. LLC
+Michael Turits - Raymond James & Associates, Inc.
+Brad Alan Zelnick - Credit Suisse Securities (NYSE:USA) LLC
+Kenneth Talanian - Evercore ISI
+Walter H. Pritchard - Citi Investment Research (Europe)
+Operator
+Good day, ladies and gentlemen, and welcome to the Fortinet Q3 2018 Earnings Announcement Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session, and instructions will follow at that time. As a reminder, this conference is being recorded.
+I would now like to introduce you to your host for today's conference, Peter Salkowski, Vice President of Investor Relations. You may begin.
+Peter Salkowski - Fortinet, Inc.
+Thank you, Gigi. Good afternoon, everyone. This is Peter Salkowski, Vice President of Investor Relations at Fortinet. I'm pleased to welcome everyone to our call to discuss Fortinet's financial results for the third quarter of 2018. Speakers on today's call are Ken Xie, Fortinet's Founder, Chairman and CEO; and Keith Jensen, our Chief Financial Officer.
+This is a live call that will be available for replay via webcast on our Investor Relations website. Ken will begin our call today by providing a high-level perspective on our business. Keith will then review our financial and operating results and conclude by providing our guidance for the fourth quarter before opening up the call for questions. During the Q&A session, we ask that you please keep your questions brief and limit yourself to one question and one follow up to allow for others to participate.
+Before we begin, I'd like to remind everyone that we will be making forward-looking statements on today's call and that these forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those projected. Please refer to our SEC filings, in particular, the risk factors in our most recent Form 10-K and Form 10-Q for more information.
+All forward-looking statements reflect our opinions only as of the date of this presentation, and we undertake no obligation and specifically disclaim any obligation to update forward-looking statements.
+Also, all references to financial metrics that we make on the call today are non-GAAP unless otherwise stated. Our GAAP results and GAAP to non-GAAP reconciliations can be found in our earnings press release and in the presentation that accompanies today's remarks, both of which are posted on our Investor Relations website. Lastly, all references to growth are on a year-over-year basis unless noted otherwise.
+I will now turn the call over to Ken.
+Ken Xie - Fortinet, Inc.
+Thanks, Peter, and thank you to everyone for joining today's call to discuss our third quarter 2018 results. I'm pleased with our strong third quarter result, as billing increased 22% to $528 million. Total revenue was up 21% or $454 million. Product revenue up a solid 20%. Non-GAAP operating margin was 24%. We post non-GAAP earning per share of $0.49, and were again profitable on a GAAP basis with earning per share of $0.33.
+We aim to continue to deliver above market growth, balanced with profitability. We are experiencing strong global demand for our Security Fabric platform due to enterprise digital transformation, increasing consolidation and network security refresh cycle. Today, enterprise needs security that will go well beyond (03:20) product. This trend are expanding and opening up new opportunity for a broad, integrated and automated Security Fabric protection.
+The Security Fabric platform offers three major competitive advantages. First, our Fabric platform offers a broader set of end-to-end solution, providing protection from IoT to data center both on-premise and cloud. Organically built from ground up from two decades of innovation, the Security Fabric provides the best automation and integration in the industry.
+An example is our Security Fabric cloud offering on Azure. We now provide the most extensive offering of integrated security solution available on Azure including FortiGate Next-Generation Firewall, FortiSandbox, FortiCASB, FortiWeb, FortiMail, FortiManager and FortiAnalyzer's.
+A second differentiator is our superior price to performance capabilities. Fortinet is the only security company that build ASIC security processor, SPU, with integrated security and a network functionality, which provide a 10x the speed and performance of other software products. As a result, Fortinet's product provides significantly better security performance for both cloud and edge computing.
+The third competitive differentiator in our Security Fabric platform is the extensive third-party recognition and validation we have received from NSS Labs and Gartner. Fortinet has received recommended rating in nine out of nine NSS Lab categories, more than double the number of recommendations received by our nearest competitors. Fortinet was among the only three vendors out of 10 that received a recommendation for their SD-WAN solution and the only vendor to have received recommended rating in both SD-WAN and the Next-Generation Firewall group tests.
+Fortinet's Fabric platform solution have now appeared in seven Gartner Magic Quadrant over the past 12 months. Our SD-WAN solution was recognized as one of the top five solutions in Gartner's WAN Edge Magic Quadrant. Also, Fortinet was named in leader's quadrant for next-generation enterprise firewall and unified threat management.
+SD-WAN plays a pivotal role in realizing the true benefit of digital transformation and is forecast to reach $4.5 billion by 2022, up from $1 billion in 2018. Gartner state that by 2023, 50% of new firewall purchases in the distributed network will utilize SD-WAN features.
+Fortinet offers the only solution that provide both SD-WAN and next-gen firewall functionality in a single integrated offering for enterprise and SMB. We believe this technology advantage puts Fortinet in a solid position to capitalize on strong SD-WAN market growth.
+Last week, Fortinet announced the acquisition of ZoneFox, a cloud-based insider threat detection and response company. The acquisition further enhance the Security Fabric platform and strengthen our existing endpoint and FortiSIEM security through machine learning, providing a better and faster response to insider threats.
+Innovation is core to Fortinet's mission. In the third quarter, we surpassed a milestone of 500 issued patents, three times the patents issued for our nearest competitors. We are pleased to be added to the S&P 500 index, an acknowledgement of a double-digit year-over-year growth every quarter since going public in November 2009 and our consistent GAAP profitability. We are excited about significant opportunity ahead, and we will continue to invest, while achieving our goal of 25% operating margin at 2022. I want to thank the Fortinet team and our partner for their ongoing hard work and our customers for their support.
+Now, I would turn the call over to Keith for a closer look at our third quarter performance and our fourth quarter guidance.
+Keith F. Jensen - Fortinet, Inc.
+Thank you, Ken. Before I start, I'd like to note, except for revenue, all financial figures are non-GAAP, and growth rates are based on comparisons to the prior-year period unless stated otherwise. Any slide references that I make during my prepared remarks refer to the presentation that is posted on our Investor Relations website.
+I'm very pleased with our third quarter results, as the Fortinet Fabric continue to resonate with existing and new customers. In the third quarter, we posted revenue growth that outpaced the industry and operating margin was better than expected and strong free cash flow. We believe we are well positioned to outperform the security market in the fourth quarter. We are delivering an integrated and high performing Fabric product portfolio that is driving an industry leadership position. This claim is supported by the independent recommendations we received from NSS Labs and Gartner.
+Specifically, I would point to our nine-for-nine record of NSS Labs product recommendations, as well as Gartner, evaluating Fortinet as a leader in both the UTM and enterprise firewall Magic Quadrants. We remain committed to balancing above-market revenue growth with increasing profitability, as we work to achieve our non-GAAP operating margin goal of 25% for the full year 2022.
+Now for our third quarter results, starting with revenue. As shown on slide 3, revenue grew 21% to $454 million. Product revenue growth accelerated to 20%, resulting in revenue of $165 million. Product revenue included a net benefit of $2 million related to the required accounting change on revenue. Excluding this benefit, product revenue growth accelerated to 18%.
+Service revenue grew 22% to $289 million. FortiCare, our traditional support offering, grew 26% to $121 million; and FortiGuard, our security subscription offering grew 20% to $157 million. Deferred revenue increased 27% to $1.5 billion. Average contract length increased one month to 26 months and was flat sequentially.
+Turning now to billings. Billings grew 22% to $528 million. Each region experienced strong billings growth with the Americas, APAC and EMEA up 25%, 22% and 19% respectively. The U.S. provided strong enterprise growth in the quarter, accounting for seven of our top 10 and the majority of our top 25 customer billings. Billings to our Global 2000 customers, excluding service providers and MSSPs, on a trailing 12-month basis grew 31%. One of our top 25 billings in the quarter was a seven-figure transaction with the same large U.S. retailer we highlighted in the first quarter for their then seven-figure all-cloud transaction.
+The new transaction is focused on our ASIC-based FortiGates, including several of our high-end 6000 series of products. These high-end FortiGate products will be deployed to secure connectivity with their earlier cloud deployment. We also completed a quadruple competitor displacement with a large U.S.-based financial services firm, initially looking to improve their internal segmentation capabilities. After a very successful proof-of-concept, the firm decided to displace additional vendors, consolidating their functionality with Fortinet and lower their total costs of ownership.
+Also, in the quarter, a large U.S. multinational financial services firm that was highlighted in our last call appeared again as a top 10 customer with another seven-figure billing this quarter.
+Illustrating the strength of our mid-enterprise and enterprise business, the number of deals over $250,000 grew 27%, while the billings associated with these deals increased 34%. The number of deals over $1 million were fairly consistent year-over-year, moving from 32 to 30. The total dollar billings associated with these $1 million-plus deals increased 32%.
+Service providers and MSSPs continued as our largest vertical, accounting for 19% of billings, up 2 points year-over-year. Network security billings increased 22%, accounting for slightly more than three quarters of total billings. Billings for non-FortiGate grew faster than the FortiGate business. The Security Fabric, which is the largest component of our non-FortiGate offerings, benefited from customers' recognition of its value, performance and integrated security coverage. Cloud billings for our top five public cloud providers continued to experience growth in excess of 100%.
+Moving back to the income statement. Our third quarter gross margin increased 50 basis points to 76.5%. Product gross margin was down 120 basis points to 57.4%. On a quarter-over-quarter basis, product gross margins were up 90 basis points, as we continue to transition through a certain level of volatility related to new product introductions.
+Service margins expanded 120 basis points to 87.3% and 50 basis points sequentially. Including the commission benefit associated with the required change in accounting, total operating expenses grew 11%. Excluding the benefit from the required commission accounting change, total operating expenses would have been up 15%. Including a 240 basis point benefit from the commission and revenue accounting changes, our operating margin of 23.9% was up 520 basis points year-over-year. Excluding any benefit from these accounting changes, our third quarter operating margin increased by 280 basis points year-over-year. The operating margin improvement was mostly driven by leverage in our financial model, as revenue growth outpaced total operating expenses.
+Slide 14 shows a line by line comparison between our non-GAAP results and the non-GAAP results excluding the adoption of the new accounting rules. In the fourth quarter, we expect total operating margin benefit from the required accounting changes to be about 250 basis points. For the full year, the operating margin benefit is expected to be about 300 basis points.
+Total head count at the end of the third quarter was 5,639, up 15%. Net income for the third quarter was $87 million or $0.49 per share, based on 175.7 million diluted shares and was up 75% year-over-year. Non-GAAP effective tax rate was 24%.
+Moving to cash flow and capital, summarized on slide 7, cash from operations was $177 million, up 9% year-over-year. Free cash flow was $159 million, up 13% year-over-year. On a year-to-date basis, free cash flow increased 32% to $417 million.
+Capital expenditures in the third quarter were $18 million. Given the strong growth we've experienced, we will outgrow our existing office space in Sunnyvale. As a result, we have started construction on a building adjacent to our existing office. In the fourth quarter, we expect capital expenditures in the range of $5 million to $10 million related to this building. We expect total fourth quarter capital expenditures to be between $20 million and $30 million. Total capital expenditures for 2018 are expected to be between $60 million and $70 million.
+Capital expenditures related to the adjacent building are expected to be in the range of $60 million to $80 million in 2019. We plan to provide quarterly spending updates throughout 2019 and plan to move into the building in 2020.
+As I turn to guidance, provided on slide 9, I'd like to remind everyone that the forward-looking disclaimer Peter presented at the start of the call applies to the guidance I'm about to provide. For the fourth quarter including the benefit of ASC 606 and an immaterial impact from tariffs on cost of goods sold, we expect billings in the range of $620 million to $635 million, revenue in the range of $490 million to $500 million, non-GAAP gross margin of 75% to 76%, non-GAAP operating margin of 24.0% to 24.5%, non-GAAP earnings per share of $0.50 to $0.52, which assumes a share count of between 178 million and 179 million.
+For 2018, including the benefit of ASC 606 and an immaterial impact from tariffs on cost of goods sold, we expect billings in the range of $2.125 billion to $2.140 billion, revenue in the range of $1.785 billion to $1.795 billion, non-GAAP gross margin of 75% to 76%, non-GAAP operating margin of 21.5% to 22%, and non-GAAP earnings per share of $1.72 to $1.76, which assumes a share count of between 174 million and 176 million.
+Before I turn the call back over to Peter, I'd like to thank our partners, our customers, and the Fortinet team for all their support and hard work. I'd also like to welcome the employees of ZoneFox to the Fortinet family.
+I'll now hand the call back to Peter.
+Peter Salkowski - Fortinet, Inc.
+Ok, Keith. Operator, we're ready to open up the call for Q&A, please.
+Question-and-Answer Session
+Operator
+And our first question is from Jonathan Ho from William Blair. Your line is now open.
+Jonathan F. Ho - William Blair & Co. LLC
+Hi. Good afternoon, and congratulations on the strong quarter. I just wanted to start out with maybe the Security Fabric. It sounds like this was another strong quarter in terms of demand. Can you maybe give us a little bit more detail in terms of what elements of the Fabric maybe stood out? And also, do you have a separate quota for the sales force to retire, related to the Security Fabric?
+Keith F. Jensen - Fortinet, Inc.
+Hi, Jonathan, it's Keith. Second question, first. No, we do not have a separate quota for the Fabric, for the sales team. If you look to the product family, I would highlight the access points and the switches performed very well in the quarter. That continues a pattern that we started see shaping up in the beginning of the quarter as well. I think also I would add to that list FortiManager, FortiAnalyzer, FortiSIEM. Overall, the product suite of the Fabric performed very well during the quarter.
+Jonathan F. Ho - William Blair & Co. LLC
+Excellent. And then, just looking at the operating margin trends. You guys have guided to a pretty strong operating margin in the fourth quarter after delivering a strong third quarter. How should we be thinking about that on a go-forward basis? I know you guys made some investments earlier in the year as well that start to show leverage, but I just want to make sure that we're thinking about that the right way.
+Keith F. Jensen - Fortinet, Inc.
+Yeah. And we're not in a position as we go through the budgeting cycle that we're in right now for the coming year to really talk about guidance for 2019. Obviously, we're very pleased with the performance of the company in Q3 on the top line and on the operating margin line. I think the productivity from the sales organization, you've seen that come into play in third quarter. We're very pleased with that. I'll probably leave it to Ken to talk a little bit about market forces and what we're seeing beyond just the Fabric growth but other comments as well.
+Ken Xie - Fortinet, Inc.
+Yeah, actually, we saw strong building growth, like a 22%. Our head count hiring probably little behind that. So, the healthy way for long-term growth need to be synched together for the top line growth and the head count growth. So, that's where we may catch up little bit.
+On the other side, we do see the refresh cycle still going on. Maybe it last another one to two years. The other opportunity that we see is SD-WAN is a huge opportunity, like I mentioned in the script. In the next few years, will be reached from this year $1 billion to $5 billion.
+And we are the only vendor who can provide both SD-WAN and also security, yes, single path, single solution, that's a huge advantage for lot of enterprise SMB service provider. We see a very strong demand. We believe this trend will be carried for another few years of growth, very strong growth. So, that's why we want to keep in balance among the growth and the profitability. So, we (21:42) both the top line and bottom line. We also have the commitment, 25% operating margin by 2022, but we also want to keep in – invest in the growth going forward.
+Jonathan F. Ho - William Blair & Co. LLC
+Great. Thank you.
+Operator
+Thank you. Our next question is from Sterling Auty from JPMorgan. Your line is now open.
+Sterling Auty - JPMorgan Securities LLC
+Yeah, thanks. Hi, guys. I get a number of questions from investors trying to understand, especially in the high-end enterprise, how much of the demand and success you're seeing is still data center focused versus now, with all the talk of Fabric and micro segmentation. So, just maybe just some additional color around what's driving the success in particular in the high-end enterprise part of your business.
+Ken Xie - Fortinet, Inc.
+We do see both growing well, whether in the data center cloud and also in the internal segmentation and edge computing. Because once (22:43) when they move the data to the cloud, they also need to secure the access to it, and actually add some additional risk because now in the cloud, if you cannot secure access, then the data probably more risk, more danger there. So, that's how to secure access the data, actually leveraged like SSL encryption since it's very, very important.
+The most other current network security solution there have a big performance issue with SSL encryption, but we have the ASIC solution, which when you do the SSL encryption for the traffic, you almost no – no traffic drop compared with other solution test – is about 80% drop off the throughput. So, that's what we see.
+As for the enterprise, there's a hybrid and will move some data to the cloud compared – some more internally. So, they need to balance amount of what's the data go to the cloud, what's data – and what's computing still within the edge, within enterprise. So, we see enterprise definitely keeping increase the security spending, even some IT spending probably pretty much flat. So, it's still very healthy, and we continue to believe the security will grow like 10% or even above in the next 10-plus years, and the total market, that's going to reach like $1 trillion in the next 10 to 20 years. It's a very healthy, long-term growth market.
+Sterling Auty - JPMorgan Securities LLC
+Got it. Thank you.
+Ken Xie - Fortinet, Inc.
+Thank you.
+Operator
+Thank you. Our next question is from Shaul Eyal from Oppenheimer & Co. Your line is now open.
+Shaul Eyal - Oppenheimer & Co., Inc.
+Thank you. Good afternoon, guys. Congrats on the beat-and-raise. Ken, probably one for you; one for Keith. Going back to the refresh product cycle, you've been around your entire career within the security arena. As you think about the current cycle, would you characterize it as if we're in the initial innings, midway? How would you think about it versus prior cycles; timing and maybe even demand and product wise? Thank you.
+Ken Xie - Fortinet, Inc.
+A few of this cycle compared to the rush by happening end of 2012-2013, this probably last a little bit longer, maybe a few quarter longer, maybe last more like two year, two-and-a-half, three years. We are probably close to the middle of it. But the difference is this time they consider multiple solution together, (25:29) platform.
+So, they also need to find a way to integrate to automate a solution, compared to the last cycle that's refreshed from the regular firewall to the next-gen firewall UTM. And that's where this time, they need to consider how this different piece can work-in together, whether from the network side, endpoint, the cloud, the networking side, even some storage and IoT. So, that's where they kind of have a more bigger picture, kind of infrastructure, kind of approach compared to that's the network side.
+But also we see some kind of a new infrastructure, whether the SD-WAN or the 5G, similar like in the past, we see also very strong platform fabric growth really, the Wi-Fi also need to be considered together with security. So, that we see as a kind of the total infrastructure Fabric platform approach is happening right now, and consider the security more integrate or designed with the infrastructure, instead of just a – like a add on top of some infrastructure.
+Shaul Eyal - Oppenheimer & Co., Inc.
+Got it. Understood. Thank you so much for this color. And maybe one for Keith. Really strong showing on the DSO front; probably lowest in some quarters. Doesn't matter whether it's ASC 605 or even ASC 606. Can you talk to us about that? And maybe also about linearity trends you have been experiencing through the quarter? Thank you.
+Keith F. Jensen - Fortinet, Inc.
+Yeah. And thanks for your nice comments. Yeah, I think DSO came in. I don't think there was anything really unnatural in the numbers. And that just kind of leads up to your – second part of your point. I think linearity in the quarter was indeed good, and it kind of held its pace, I commented on about the first month of the quarter in the last earnings call, being good. And I think it kind of continued on through the quarter. And I think you're seeing that in the DSO number.
+Shaul Eyal - Oppenheimer & Co., Inc.
+Understood. Thank you so much. Good luck.
+Ken Xie - Fortinet, Inc.
+Thank you.
+Operator
+Thank you. Our next question is from Andrew Nowinski from Piper Jaffray. Your line is now open. Andrew Nowinski...
+Ken Xie - Fortinet, Inc.
+Anybody there? (27:47)
+Operator
+Your line is now open. Andrew Nowinski?
+Andrew James Nowinski - Piper Jaffray & Co.
+Yes. Can you hear me?
+Operator
+Yes, we can hear you now.
+Andrew James Nowinski - Piper Jaffray & Co.
+All right. Thank you. Well, congrats on a nice quarter. I just want to ask about the large customer win that you had, the quadruple replacements. Since that was clearly more than a firewall replacement, can you give us any color as to what products that customer consolidated onto the Fortinet platform?
+Keith F. Jensen - Fortinet, Inc.
+Yeah, when you start to see multiple products like that, it's going to go beyond the firewall right into the Fabric, right? And more often than not, you'll see, as I indicated previously, from a hardware viewpoint the access points and the switches are doing very well. And then you roll into that typically a suite of FortiManager, FortiAnalyzer, FortiSIEM, FortiCloud, et cetera.
+Andrew James Nowinski - Piper Jaffray & Co.
+Okay. Got it. And then, just maybe a comment on the large deals. They looked like they were down. I'm talking about the million-dollar deals were down sequentially. Did any deals push out into Q4 that might have caused that number to be down year-over-year?
+Keith F. Jensen - Fortinet, Inc.
+I think when you look at that population, again, I think it was off by two I think year-over-year, from 32 to 30. You're going to get a little bit of volatility in that segment of the market, so I'm not surprised by it. I was very pleased to see the total dollar value that was billed in those large deals. Even though the number was smaller, the total billings were up about 34%, I believe I said.
+Andrew James Nowinski - Piper Jaffray & Co.
+Okay. Got it. Thanks. Congrats.
+Keith F. Jensen - Fortinet, Inc.
+Thank you.
+Operator
+Thank you. Our next question is from Keith Bachman from Bank of Montreal. Your line is now open.
+Keith Frances Bachman - BMO Capital Markets (United States)
+Good evening. Thank you. I wanted to ask two questions, if I could. First, the services revenue has been humming along at 25%, 26% year-over-year growth for five quarters. This quarter it deceled a little bit, again larger number, but deceled to 22%, while the product revenue, its second straight quarter of really good growth. And so, I'm just wondering, was there anything on the services side? Any reason why it deceled outside of larger numbers? And what does that portend that the product revenue growth has been so strong for a couple of quarters now? Does it suggest an point in terms of acceleration back to the services side? Then I have a follow-up, if I could.
+Keith F. Jensen - Fortinet, Inc.
+Okay. Hi, Keith, it's Keith. How are you?
+Keith Frances Bachman - BMO Capital Markets (United States)
+Great. Thank you.
+Keith F. Jensen - Fortinet, Inc.
+Look. I think, obviously, we're very pleased with the results for the quarter both from the top line and the bottom line, and as you know, we manage or we guide to total revenue into the margins. So, within that mix of services and products, we're very pleased with where we ended up including the gross margin line.
+I think a little more specific to your question, one thing we looked at was, our renewal rates were very good in the quarter, up over what we normally see. Attach rates were very good. The mix of 24x7 versus 8x5 support was very good. It ticked up again. As I said, renewal rates, attach rates.
+So, I think it's a larger base is part of it, as you point out. I think the other key element of this is something that we've talked about a little bit in the Analyst Day and as the Fabric platform came online, we expected it to bring with it a higher mix of hardware. And that higher mix of hardware what you're seeing in the top line on the product revenue growth, and then a smaller mix on services. And I would really point to access points and switches for that.
+So, I think you're really starting to see the impact of the platform strategy from the Fabric, and how it's appearing in the success it's driving on the income statement.
+Ken Xie - Fortinet, Inc.
+Also, we introduced a new service called the FortiCare 360, that's beyond the traditional FortiCare 8x5 support and then 24x7 support. This will be helping the Fabric service going forward, is helping to manage, to configure, to deploy and also to help check off some of the Fabric solution there.
+It's still in the early ramp-up stage, but we do believe including the future Fabric and also the new trend in the SD-WAN. So, this service is needed, and we see also very quickly ramp up, even though it's in the very early stage, we do believe this will help in the future service growth.
+Keith Frances Bachman - BMO Capital Markets (United States)
+Okay. And then my clarification, Keith, is just – you guys have provided operating margins for the year. And let's just say for giggles it ends up being 22% operating margin pursuant to ASC 606. When you talk about growing to that target of 25%, I assume the base that we should think about in 2019 is 22%. In other words, the base isn't ex the benefit of the accounting translation as we think about 2019?
+Keith F. Jensen - Fortinet, Inc.
+Yeah, I think the way we've always described it is – that – that's a ASC 605 number, and we're tracking to ASC 605. And part of that – the reason we're looking at the ASC 605 number in terms of that commitment is, as you can see, it's moving around on us, right? It's come down from the first quarter to the fourth quarter, and it can be impacted by things like product revenue mix, comp plans, service term, et cetera. So, I think just to keep this all very honest on our side of the table, it's a ASC 605 goal.
+Keith Frances Bachman - BMO Capital Markets (United States)
+Okay. So, if we think about 2019, again just using 22% as the reference point, should we expect operating margins to be flat, down, or up relative to 22%?
+Keith F. Jensen - Fortinet, Inc.
+For 2019?
+Keith Frances Bachman - BMO Capital Markets (United States)
+Yeah.
+Keith F. Jensen - Fortinet, Inc.
+Yeah. I'm going to pause on providing guidance for 2019, other than offering up our long-term model that we've talked about before and what we're targeting over time.
+Keith Frances Bachman - BMO Capital Markets (United States)
+Okay.
+Keith F. Jensen - Fortinet, Inc.
+Let me go through my budgeting process and cycle before I do that.
+Keith Frances Bachman - BMO Capital Markets (United States)
+Okay. Thank you.
+Operator
+Thank you. Our next question is from Gabriela Borges from Goldman Sachs. Your line is now open.
+Gabriela Borges - Goldman Sachs & Co. LLC
+Good afternoon. Thank you. I wanted to follow-up on some of the momentum you're seeing in the Global 2000. I guess this is kind of for Keith. Could you comment on to what extent the volume of opportunities, the number of engagements that you're invited to bid upon, how is that changing relative to history? And if you could also comment on win rates for Global 2000 business. Once you're invited, how often do you win? And is that number changing at all? Thank you.
+Keith F. Jensen - Fortinet, Inc.
+Hi, Gabriela. It's Keith. How are you? I would say the pipeline in total, we're very pleased with the direction of the pipeline. And in the segmentation of the pipeline, I think the fact that I'm pleased applies to both our very important SMB part of our business and also the Global 2000 part of the business. Yeah, I think the – we're well positioned with an opportunity to continue to lead in the SMB and expand into the enterprise. And I think that trailing 12-month number of 31% growth is a very positive indicator.
+In terms of wins and losses, that's – we're not – other than the carrier MSSP, we're not the incumbent. It's always a little more challenging to displace the incumbent. But I think when we have those opportunities we're doing well, and we're very pleased with it.
+Ken Xie - Fortinet, Inc.
+Yes. Also, we're starting to invest in the market chain to support the sales into the Global 2000, and we see pretty good progress there. And at the same time, it's – even within the sales, we starting kind of a separate some of the effort of organization by focusing the channel or focusing the Global 2000. So, that's where – once we have the focus we can see the growth pretty healthy.
+Gabriela Borges - Goldman Sachs & Co. LLC
+That's helpful. Thank you. And follow-up on the gross margin. Can appreciate that gross margins are expanding in aggregate year-over-year, but I want to talk specifically on product gross margin. Could you help us understand, for Keith, when that number might start to trend upwards? Or when you might start to see stabilization within that product gross margin line? Thank you.
+Keith F. Jensen - Fortinet, Inc.
+Yeah, I think that's a fair question. I'd probably just going to offer you some context. It can be impacted by the mix obviously between products and services in any quarter. Specifically, when you look to Q3, the Q4, the sequentiality, our mix typically ticks up a little bit to product, which puts a bit of pressure on the gross margin line. I do expect that we're going to continue to see growth and improvement in total gross margin and largely driven by the services component of that. And I think we're kind of fast forward to the punch line. We're on track to that 25% goal, and that gross margin line is a component of that.
+Ken Xie - Fortinet, Inc.
+Yeah, also like early this year during the Analyst Day, I believe you were there (37:01) we do see that the long-term growth margin target is 80%, and at same time we refreshed some of the middle range product. During the refresh plan, the gross margin drop little bit and then will come back up once the ramp-up refresh starting to finish. So, we do see the long-term trends still the same, and we're still keeping the 80% target for gross margin long term.
+Gabriela Borges - Goldman Sachs & Co. LLC
+I appreciate the color. Thank you.
+Ken Xie - Fortinet, Inc.
+Thank you
+Operator
+Thank you. Our next question is from Fatima Boolani from UBS. Your line is now open.
+Fatima Boolani - UBS Securities LLC
+Good afternoon. Thank you for taking the questions. Keith, maybe to start with you. Just on the service provider business, just according to my math, that was a nice acceleration off of the second quarter. So, can you give us a sense of what sort of budgeting behavior is actually playing out in the service provider vertical that underpin the strength? And as we look into next year, what sort of activity are you anticipating? And another follow up if I may.
+Keith F. Jensen - Fortinet, Inc.
+Yeah, I think the, and Ken may want to weigh in here a little bit, but I think the MSSPs portion of that service provider is really what you're seeing, and that's historically been the larger part of our business, and we're seeing that do exceedingly well. I think the SD-WAN discussion now is really coming into play as part of that business as well. And I think you're seeing that starting to drive -we've had some conversations with customers that SD-WAN opportunity is really starting to drive some pipeline growth. I think 5G will be a part of it as well.
+Ken Xie - Fortinet, Inc.
+Right. Yes. That's where we do see the SD-WAN technologies starting kind of being used by some new relatively small service provider trying to get a market share from the traditional MPLS offer by some of the bigger carrier, service provider. So, at the same time, the 5G, some other technology is starting taking off now. So, our philosophy is working with service – all kind of service provider, both large and small, and offer the best product and tool and this security into the service they're offering. So, we see this strategy working quite well, that's where we had only one offered SD-WAN together with security, Wi-Fi together with security and also going forward some other new things in security together.
+So, that's the strategy the service provider like a lot and that's when compared with some other like a network vendor or the security vendor, they have to catch up to buying company to follow the trend comparably kind of a long-term invest in all this year, few years ago and keeping investing for the long-term and offer integrate automated solutions, which is much better for the service provider for the customer.
+Fatima Boolani - UBS Securities LLC
+That's helpful. And, Keith, just a quick one. Last couple of quarters, you gave us some color on shipment volume. Just wanted to see if there was an update there and to the extent it's sort of held into that the 20%-ish ZIP code. How should we think about that from a sustainable basis, looking out the next couple of years as we think about hybrid architectures and cloud migration? And that's it for me. Thank you.
+Keith F. Jensen - Fortinet, Inc.
+Yeah, sorry about that. I know we're just consolidating on words in my script. FortiGate unit shipment is up 16% year-over-year. All shipments up 20% year-over-year, I mean, quote 21%, but I'll go with 20%.
+Fatima Boolani - UBS Securities LLC
+Thank you.
+Operator
+Thank you. Our next question is from Daniel Ives from Wedbush Securities. Your line is now open.
+Strecker Backe - Wedbush Securities
+Hi. This is Strecker Backe for Dan Ives and our question is based on your conversations with customers, are you seeing an inflection point with larger scale security deployments in the field? Thanks.
+Ken Xie - Fortinet, Inc.
+I see more multiple solutions integrated together to deploy. Yeah, we do see some sometimes the deals get larger on the – because when you have multiple solutions integrate, automate together, that you can – I'm not sure that's a trend or not. It's still too early to say like a bigger deal or the bigger customer make it over a $1 million dollar deal. The size got bigger, the number not quite, real flat, but I do see the deployment study need to be more integrate, more kind of multiple solution working together now.
+Keith F. Jensen - Fortinet, Inc.
+Yeah, and I would just – Ken is spot on and I would just kind of remind people that oftentimes we see staged deployments with our large enterprises and so you will see some of these deals appearing from a single customer, they'll be buying in Q2, Q3 and then again in Q1 or something like that. So I think it's difficult to look at an individual customer because it's more than one quarter and offer a comment on that. But yes, the enterprise does drive larger deal sizes, whether that's just because of the number of firewalls or it's because of the fabric products that are being attached to it.
+Ken Xie - Fortinet, Inc.
+Yeah and I think also we believe we have a huge advantage because most of fabric partner don't do internally organic designs they want the designs to work together, integrate together. And also including some networking function like SD-WAN compared with some other company, they have to purchase some of these product solution, which always very difficult for the integration and always take time to make it working together. So we have huge advantage. So we do see the benefits are bigger and bigger now.
+Strecker Backe - Wedbush Securities
+Great. Thanks for the color, guys.
+Ken Xie - Fortinet, Inc.
+Thank you.
+Operator
+Thank you. Our next question is from Rob Owens from KeyBanc Capital Markets. Your line is now open.
+Rob Owens - KeyBanc Capital Markets, Inc.
+Great. Thanks for taking my question. You guys are clearly in share gain mode, especially given the product success that you're seeing. What's the competitive response been? What's the pricing environment like?
+Ken Xie - Fortinet, Inc.
+We don't have any price pressure right now. So that's why we keep – feel the gross margin can keep improving because one of the key differentiator is we are the only one design ASIC chip. Now, we (43:50) deploy and also the (43:50) been working, whether the two-sided effect, the more we deploy, they can also lower the average cost for the chip and also design cost average per chip.
+At the same time, customer see more benefit we can invest more in there, but that ASIC chip take a long time, 5 to 10 year to see the benefit. So far, none of our competitor have been able to invest early enough to get in the space to see the benefit we have. So once we have a bigger and bigger number unit deployment and market share, we also see the accelerated benefit will help us to keep a differentiated advantage more. Yeah, that's pretty much...
+Rob Owens - KeyBanc Capital Markets, Inc.
+Yeah. I guess second, with regard to it being the September quarter – and I apologize if I missed this in prepared comments, but any discussion around the Fed? It seemed like you had decent success in that vertical as well.
+Keith F. Jensen - Fortinet, Inc.
+Yeah, I think all of our U.S. government vertical, which is a vertical that we've previously disclosed, had a good quarter. We were pleased with it. And I do think that there was a little bit of – I think U.S. Fed part of that business, which again is a subset of our total vertical, did well in the quarter.
+Rob Owens - KeyBanc Capital Markets, Inc.
+Thanks.
+Operator
+Thank you. Our next question is from Melissa Franchi from Morgan Stanley. Your line is now open.
+Melissa Franchi - Morgan Stanley & Co. LLC
+Okay. Great. Thanks for taking my question. A question for Ken or Keith. Just wondering if you could maybe comment on what you're seeing in terms of sales cycle. So on one hand, it seems like it's a very healthy security demand environment, you're seeing good refreshes. But on the other hand, you're now selling a broader suite with the Security Fabric, and that might require a broader rethink of the security architecture. So just wondering if that's creating maybe a little bit of elongation in the sales cycle.
+Ken Xie - Fortinet, Inc.
+I agree. It's a very good point. We do see customer take a little bit longer time when they consider multiple solution, multiple product need to be working together, but also that can make the deal also larger. And also, we have to train both ourselves as well as the partner how to sell multiple product and make it all working together as a fabric solution. It's a very good point trend for this kind of refresh cycle.
+Keith F. Jensen - Fortinet, Inc.
+Yeah, I think we feel very good about the sales cycles. I mean, again, because we have success in both the SMB, the channel, the carrier, as well as the enterprise – looking at the number for the quarter, I don't think that the elongated sales cycle was the issue. I certainly do see us building things in our pipeline that I guess I would call longer term and perhaps larger dollars, but those are much further out.
+Melissa Franchi - Morgan Stanley & Co. LLC
+Okay. Great. And then just one quick follow-up for you, Keith. You mentioned the contract duration this quarter was up just a little bit year-over-year – I think one month. How should we think about how that trends for Q4 and then any visibility into 2019 from a contract duration perspective?
+Keith F. Jensen - Fortinet, Inc.
+Yeah, I think not something I would normally guide to, let's say, and I think previously I've talked throughout the year that we would expect that the contract term would tick up during the year. And I think that's probably going to continue on to the fourth quarter.
+Melissa Franchi - Morgan Stanley & Co. LLC
+Got it. Thank you very much.
+Operator
+Thank you. Our next question is from Gregg Moskowitz from Cowen. Your line is now open.
+Gregg Moskowitz - Cowen & Co. LLC
+Okay. Thank you very much. First question is for you, Keith. This quarter, FortiGate billings grew very well and they continue to hover around 75% of total. And I know that you're not yet providing guidance for next year, but just from a high level, how should we be thinking about the mix for FortiGate versus non-FortiGate over the next 12 months or so?
+Keith F. Jensen - Fortinet, Inc.
+Well, I think if I look back over the last – over this year at least, this pretty much kind of hovered in that similar mix, if you will. We are very pleased with the FortiGate Fabric platform and we will certainly continue with that as a key point of our strategy throughout 2019.
+Ken Xie - Fortinet, Inc.
+The non-FortiGate grow a little bit faster than the FortiGate. But interesting with – now we offer SD-WAN within the FortiGate, we suddenly got into some – the infrastructure solution deployment, which have a security design-in. So that actually will help in the FortiGate side. So we are not quite sure what's going on. But definitely we see the non-FortiGate so far early this year, they grow faster than the FortiGate. But SD-WAN may changing this a little bit. But overall, we do see this will also bring additional service and also make the total solution better, stronger and because there's a multiple solution or with the customer, it's also making it more stickier with the customer.
+Gregg Moskowitz - Cowen & Co. LLC
+Okay. That's helpful. And then Ken, how should we be thinking about the timing of the next ASIC product cycle for Fortinet?
+Ken Xie - Fortinet, Inc.
+I'd say it's pretty close. I think within the next few months or few quarters. It's very close now. About every quarter, we do refresh some other product like some of the middle range, some of the – and also, we do have a – last year, we had, what we called, a CP9 camera last year which is improving the SSL encryption quite a lot. It's more like a 15x improvement, so that's a huge advantage when you try to deploy the cloud access, so working beautifully both on the cloud and on the edge.
+Gregg Moskowitz - Cowen & Co. LLC
+Okay. Terrific. Thanks very much.
+Ken Xie - Fortinet, Inc.
+Thank you.
+Operator
+Thank you. Our next question's from Michael Turits from Raymond Janes. Your line is now open.
+Michael Turits - Raymond James & Associates, Inc.
+Hey, guys. Michael Turits from Raymond James. Thanks very much. Ken, for you. Back to the cycle question, there is some concern about a fall-off in IT spending overall into 2019. Are you starting to see anything that would suggest any hesitancy in terms of buying as people exercise some caution regarding the macro economy?
+Ken Xie - Fortinet, Inc.
+Yeah, they do have a little bit concern in the last couple months, but is – but we don't see the security. Security within IT spending is still keeping increase. So even the IT spending flat, we do see the security will keeping growing like a 10%, 15%. That's why also, I believe the next 10-plus years will reach $2 trillion market as – because security got more and more important for all the business we're doing here all connect together. And also, plus the additional, like IoT/OT security and plus the clouds and market POP. You do see the overall security spending is not decreasing, but keeping similar pace in the last like 20-some years.
+Michael Turits - Raymond James & Associates, Inc.
+Okay. Thanks. And then Keith, can you talk a little bit about the specific things that you've been doing in the channel and in the field in general in order to help move Fortinet up the market? I know that you had talked about increases in incentives to sales a little while ago. Can you be specific about where you are with that as well as what you're doing in the indirect channel?
+Keith F. Jensen - Fortinet, Inc.
+Yeah, boy this is – a lot of credit goes to the sales team, I think, for their execution, together with the support from the marketing team and the R&D team. So – but I'm not sure that's – if you're asking about comp plan specific, I think we talked previously that we did create a separate commission element for products in the second quarter. I think more importantly and specifically with comp plans, one thing we did in the U.S. at the beginning of this quarter is we actually took the next step and separated the SMB business from the enterprise business in terms of how those compensation plans work and who's responsible for it.
+And I would say I was ecstatic with the results on both ends of the spectrum. The SMB channel in the U.S. did extremely well and the enterprise in the U.S. did extremely well too. I think there's just – those teams performed exceedingly well. We got a little lift in productivity probably from that. And as we've talked before that I expect – I don't see us separating the company, but I do see us continuing with our focus and how we go to market in these different segments and continuing to invest in both.
+Michael Turits - Raymond James & Associates, Inc.
+Great. Thank you very much, guys.
+Operator
+Thank you. Our next question's from Brad Zelnick from Credit Suisse. Your line is now open.
+Brad Alan Zelnick - Credit Suisse Securities (USA) LLC
+Excellent. Thanks so much for taking my question. And I'll just say that I continue to hear great things in the field about the Security Fabric message and the product offering; as well your SD-WAN product sounds like it's really gaining great traction. But my – and it's easy to see why you're gaining share on the market as a result of that.
+But my question is actually around Security Fabric on Azure which, Ken, you mentioned in your prepared remarks, and I know it's only about a month or so ago that you announced the expansion of that offering to include more of the fabric components. I'm curious and again, I know it's early, but can you maybe comment a bit about how you see customers embracing your offering versus the native capabilities within the Azure platform itself, such as Azure Firewall Service, for example?
+Ken Xie - Fortinet, Inc.
+I think we have the approach more like a hybrid solution and that's where like a customer has the freedom whether deployed our products their premise or some of data application go to the cloud. For the Azure, the same thing. We have also the broadest security cloud offering, whether on Azure, on the ASS or on some other like Google, Oracle, IBM, some other cloud.
+So that's where we want to offer the broadest, the best solution which customer can select how to best fit their need and also offering the flexibility to transfer between – changing between whether on-premise and also on the cloud. So that's different compared to some of the native cloud provider offers some of the security service, which they more focus in certain application only and it's not based on the networking side or the infrastructure side. So that's where we are not competing with them, it's more a like a different layer of security, so we're more on the infrastructure layer, on the network side and compared they're more focused on certain application.
+Brad Alan Zelnick - Credit Suisse Securities (USA) LLC
+I appreciate that color, Ken. And for Keith, in your prepared remarks, you talked about the impact of tariffs on certain aspects of the results. And I think intra-quarter, you might have commented on this publicly, but can you just spell out for us exactly what the situation and exposure is to China trade tariffs? Thanks.
+Keith F. Jensen - Fortinet, Inc.
+Yeah, the headline would be, in Q4, it would be less than $300,000 of impact, probably significantly less, and in Q1 for the January 1 date, it will be less than $500,000 on a quarterly basis to COGS.
+Brad Alan Zelnick - Credit Suisse Securities (USA) LLC
+Excellent. Thanks so much, guys.
+Ken Xie - Fortinet, Inc.
+Thank you.
+Operator
+Thank you. Our next question is from Ken Talanian from Evercore ISI. Your line is now open.
+Kenneth Talanian - Evercore ISI
+Hi, guys. Thanks for taking the question. I was wondering if you could rank your success in the enterprise by geo and then separately by vertical.
+Keith F. Jensen - Fortinet, Inc.
+I think I commented – that's getting a little specific. I'd probably go back to the comments I made a moment ago that I thought the U.S. did exceedingly well in the enterprise segment of the business in the third quarter and I'm really, really pleased with what they did. But I think going to the next level of detail is probably where I would pause.
+Kenneth Talanian - Evercore ISI
+Okay. And I guess you mentioned folks are making multiple purchases over time. Are you booking, but not invoicing deals? And does that essentially give you some more visibility into future results?
+Keith F. Jensen - Fortinet, Inc.
+I'd still put that more as a pipeline discussion, if you will. It just moves closer and closer to the close rate, but I'm not sitting on a large backlog, if that's the question.
+Kenneth Talanian - Evercore ISI
+Okay. Great. Thanks.
+Operator
+Thank you, our next question is from Walter Prichard from Citi. Your line is now open.
+Walter H. Pritchard - Citi Investment Research (Europe)
+Thanks. Just a quick question, follow-up on an earlier question on the long-term deferred. Can you help us understand maybe how much of that is macro-related with customers feeling better about budget and how much of that is a factor of the mix into the enterprise? And in terms of what could drive that to go higher, what would be the drivers from here? Sounds like that's your expectation.
+Keith F. Jensen - Fortinet, Inc.
+Yeah, I think that if you look at what enterprise – this is Keith, I'm sorry. If you look at what I'll call the incumbents in the enterprise, you're probably seeing contract terms that are closer to three years. We're obviously at 26 months as I noted. To the extent that we continue to have more and more success in that enterprise segment of the market, I would expect that their buying pattern and – I think we've talked about this before, the fact that they're going to want to do three-year contracts and in many cases they're going to want to do five-year contracts. So I think that's where the pressure comes from, it's lined up with the success of the push into the enterprise.
+Walter H. Pritchard - Citi Investment Research (Europe)
+And then could you comment on the fabric around things like endpoint and email? You haven't mentioned those. It sounds like it's been SD-WAN and switching and so forth and wireless, but how are those products doing?
+Ken Xie - Fortinet, Inc.
+Things are growing more strong and it's a part of the fabric solution, we do see similar growth, it's a pretty good growth.
+Keith F. Jensen - Fortinet, Inc.
+Yeah, I think, mail, specifically, let me check my numbers real quick, but I think mail had a very good quarter. I would just put that in the tier right below access switches, analyzer and access point switches and analyzers.
+Ken Xie - Fortinet, Inc.
+Yeah, but also, the endpoint and also the SIM and also the acquisition we have with ZoneFox also will help in endpoint and for the SIM growth.
+Walter H. Pritchard - Citi Investment Research (Europe)
+Great. Thank you.
+Operator
+Thank you. At this time, I'm showing no further questions. I would like to turn the call back over to Peter Salkowski, Vice President of Investor Relations for closing remarks.
+Peter Salkowski - Fortinet, Inc.
+Thank you, Gigi. I'd like to thank everyone for joining the call today and let you know that management will be presenting at the following technology conferences during the fourth quarter and we'll be at the UBS Conference here in San Francisco on November 12, the NASDAQ Conference in London on December 4, and then back to San Francisco for a December 6 conference with Barclays. We look forward to seeing all of you at those conferences. If you have any follow-up questions, please feel free to give me a call or send me an email. Have a great rest of your day. Thank you very much.
+Operator
+Ladies and gentleman, thank you for your participation in today's conference. This concludes the program. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+3 Authors in the Last 90 Days

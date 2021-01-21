@@ -1,0 +1,173 @@
+Start Time: 17:00 January  1, 0000  5:36 PM ET
+Seagate Technology plc (NASDAQ:STX)
+Q2 2019 Earnings Conference Call
+February 04, 2019, 17:00 PM ET
+Company Participants
+Dave Mosley - CEO
+Gianluca Romano - EVP and CFO
+Jingjing Chen - Director, IR
+Conference Call Participants
+Steven Fox - Cross Research
+Katy Huberty - Morgan Stanley
+Karl Ackerman - Cowen & Company
+Ananda Baruah - Loop Capital 
+Nehal Chokshi - Maxim Group
+Tristan Gerra - Robert Baird
+Aaron Rakers - Wells Fargo
+Operator
+Good afternoon, and welcome to the Seagate Technology Fiscal Second Quarter 2019 Financial Results Conference Call. My name is Latif, and I will be your coordinator for today. At this time, all participants are in a listen-only mode. Following the prepared remarks, there will be a question-and-answer session. As a reminder, this conference is being recorded for replay purposes.
+At this time, I would like to turn the call over to Jingjing Chen, Director, Investor Relations. Please proceed, Jingjing.
+Jingjing Chen
+Thank you. Good afternoon everyone and welcome to today's call. With me today from Seagate's management team are Dave Mosley, Chief Executive Officer; and Gianluca Romano, Chief Financial Officer. We have posted our earnings press release and detailed supplemental information for our December 2018 quarter on the Investors section of our Web site.
+We're planning for the call today to go approximately 30 minutes, and we'll do our best to accommodate your questions following our prepared remarks as time permits. For the March quarter, we would like to note that our quiet period will begin on March 18.
+We’ll refer to GAAP and non-GAAP measures. Non-GAAP figures are reconciled to GAAP figures in our earnings press release for our December 2018 quarter, which is posted on our Web site and has been furnished on a Form 8-K that was filed with the SEC.
+As a reminder, this call contains forward-looking statements, including our March quarter financial guidance and expectations about our financial performance, customer demand, industry growth trends planned for our introductions, future growth opportunities and general market conditions.
+These statements are based on management's current views and assumptions and should not be relied upon as of any subsequent date. Actual results may vary materially from today's statements. Information concerning our risks, uncertainties, and other factors that could cause results to differ from these forward-looking statements are contained in our most recent Form 10-K filed with the SEC and the supplemental information posted on the Investors section of our Web site.
+I would now like to turn the call over to Dave Mosley. Please go ahead, Dave.
+Dave Mosley
+Thanks, Jingjing. Good afternoon everyone and thanks for joining us for today's earnings call. I will cover the high level results from the December quarter and offer some market commentary. Gianluca Romano, our Chief Financial Officer, will then discuss certain financial highlights from the quarter. And then I will wrap up with our outlook for the March quarter. Following our prepared remarks, we will open the call for questions.
+For the December quarter, Seagate achieved revenue of over $2.7 billion, non-GAAP gross margin of 29.7% and non-GAAP EPS of $1.41, meeting and in some aspects exceeding our expectations. We executed our plans well and with strong operational efficiency delivered solid financial results.
+As we indicated last quarter, we are working to effectively manage through a near-term demand downturn that is having an impact in our current business. For the overall HDD industry, the December quarter exabyte demand declined for the first time after six quarters of continued growth.
+In the nearline market, we continue to see a cyclical impact affecting a broad base of customers globally. While some of the demand variation is due to the intermittent periods of digestions we have experienced in this market over the last few years, some cloud customers are also pausing ahead of next generation mass storage technology transitions that will deliver significant capacity, performance and total cost of ownership benefits.
+While inventory levels for our HDD storage devices in global channels appear fairly healthy, our market dynamics including seasonality, parts shortages and liquidity have created strain for some small end customers. For example, in the surveillance market, demand was soft compared to this time last year impacted by tightening of downstream customer credit as well as government project delays.
+We believe that these storage demand headwinds are short lived and that the long-term demand picture for our mass storage product portfolio continues to be strong. Data creation and data utilization are forecasted to grow rapidly over the next decade. According to a recent IDC study, global data creation will grow from 33 zettabytes in 2018 to 175 zettabytes by 2025, representing a 27% compound annual growth rate.
+Efficient and cost effective data technologies are becoming more critical for productivity expansion, data monetization and value creation than ever before. To support future storage customer needs, storage capacity across all media types will need to grow rapidly and IDC estimates that at least 59% of the zettabyte demand in 2025 will be supplied by the HDD industry.
+Seagate is a critical supplier to both the mature and emerging businesses that are only just beginning to derive value for massive application workloads coming in big data analytics, smart cities and machine learning devices using both edge and cloud-based architectures.
+At CES a few weeks ago we demonstrated the breadth of our storage solutions covering diverse products from consumer to enterprise leveraging our 40-year history as storage technology innovation. We are highly encouraged by the continued engagement we have with customers on their future capacity and performance requirements. These technical insights are driving many of the performance and flexibility attributes of our future product portfolio.
+As evidence of our drive for innovation, we showcased our future generations of single and multi-actuator devices that many customers are testing in their own data center environments. We’re confident in our ability to achieve 16-terabyte, drive shipments in the first half of this calendar year growing to over 20 terabytes next year. These significant product introductions delivering high capacity and performance options will be critical in the efficient scaling of cloud data centers for the next decade.
+This was our second year showcasing Seagate’s HAMR technology at CES. In the December quarter we broke another areal density record demonstrating almost 2.4 terabyte per square inch in spin stand testing indicating technology that can enable a capacity of 3 terabytes per disc or 24 terabyte drive production capability.
+In the past few months, we shipped fully functional HAMR demonstration drives to select global hyperscale and OEM partners. These drives are meeting expectation. Central to that is to establish the plug and play nature of HAMR recording technologies in all storage ecosystems.
+With that in mind, our HAMR recording systems have demonstrated more than 4 petabyte per head data transfers, much greater than the workloads required for today’s drive. This means our focus is now on the volume manufacture ability of these designs, designs that will fuel the future at global datasphere.
+Along with HAMR, we are also working to improve the efficiency of mass storage by eliminating the stranded capacity when a drive becomes too large for its I/O bandwidth. This is already being seen today on 12 terabyte and 14 terabyte drives at many data centers and will become more challenging as drive capacities increases.
+Our MACH.2 dual-actuator drive unlocks significant capacity with a rough doubling of the I/O bandwidth. We have successfully deployed MACH.2 sample drives at customer sites and for the past six months some of these drives have been serving live production traffic. Later this calendar year we will begin our volume ramp of these important new designs.
+The gaming industry continues to be a rich storage market opportunity driven by demand for increased capacity points. This year at CES we showcased our new M.2 NVMe SSD which delivers blazing performance with intense read and write speeds for the ultimate gaming experience. We are confident Seagate’s complete gaming portfolio including internal drives and attached gaming console drives with HDD and SSD footprints will continue to provide optimal user experiences.
+Also at CES, we introduced our IronWolf 110 SATA SSD, the world’s first purpose-built NAS SSD with enterprise class endurance and reliability. Looking ahead we believe we are on the frontend of a long-term secular data productivity era that will evolve over the next decade and managing data through cloud and edge computing layers will remain within the top priority of the growing data economy.
+Fiscal 2019 continues to be a year of focused execution and technology advancement for Seagate. With near-term demand headwinds, we are taking action to demonstrate sustained operational performance and the resilience of our company through the fluctuations in the marketplace. We will continue to strive for long-term revenue growth, properly stage capital investment for the coming growth opportunities, control expenses and optimize cash flow generation.
+Now, I’ll turn the call over to Gianluca to go into more depth on our financial performance.
+Gianluca Romano
+Thank you, Dave. Seagate executed well in the December quarter. Total second quarter revenue was over $2.7 billion and non-GAAP gross margin was 29.7% in line with our long-term margin range target of 29% to 33% of revenue. The sequential decline of 130 basis points was mainly due to overall product portfolio mix and in particular to a decline in the nearline volumes sold.
+Non-GAAP EPS was $1.41, higher than expected, gaining from overall solid execution and successful expense management. Our enterprise market include mission critical and nearline applications, which represent 39% of total revenue. In the second quarter, we shipped a total of 36.4 exabyte in the enterprise market, down 3% compared to last year’s strong demand. The average capacity for enterprise drive was 4.5 terabyte, up 4% year-over-year.
+In the mission critical market, we continued to address strong demand that resulted in 44% year-over-year exabyte growth with average capacity per drive over 1.1 terabyte, up 30% year-over-year. Our breadth of portfolio up to 2.4 terabyte continues to provide customers with a cost effective solution required for mature enterprise applications.
+In the nearline market, we shipped 33 exabyte and our average capacity per drive exceeded 6.5 terabyte, up 10% over last year and up 44% from the same quarter two years ago. The multi-quarter digestion phase that we are experiencing with cloud service provider customers is temporary affecting the exabyte demand in the overall nearline market. However, demand from OEM enterprise customers for nearline drive remains fairly stable.
+As cloud and enterprise customers transition to higher capacity points, our nearline hard disc drive portfolio is well positioned to monetize storage demand over the long term. Our 12 terabyte nearline drive was the leading enterprise revenue product in the December quarter, as our highest capacity product, the 14 terabyte drive, continues to ramp in volume. Looking ahead, we are on schedule to launch 16-terabyte product in the first half of this calendar year.
+Edge non-compute market includes our consumer surveillance, NAS gaming and DVR portfolio offering. In the December quarter, this market represented 31% of total revenue, 1% higher compared to the December quarter a year ago. We drove year-over-year exabyte growth and increased average capacity per drive for almost all end markets in the December quarter.
+Within this, the consumer portfolio at 27% sequential capacity growth was driven by strong seasonal demand and market share gains. While we are confident of the long-term growth and profitability of this market, we are mindful that near-term demand in some markets and channels was impacted by the liquidity issues that Dave discussed earlier.
+Edge compute market include desktop and notebook hard disc drive application. In the December quarter, this market represented 21% of total revenue, 2% lower compared to the December quarter a year ago. Total exabyte shipments declined 4% year-over-year and average capacity per drive grew 9% year-over-year.
+While this market remains largely stable, there are some headwinds affecting near-term demand. Particularly in the December quarter, the industry was negatively impacted by a CPU shortage which affected some vendors’ ability to fulfill demand created by business PC upgrades. This, coupled with economic uncertainties with some countries, affected the performance of the normally seasonally strong quarter for the compute market.
+Non-hard disc drive revenue in the December quarter were $225 million, up 8% year-over-year mainly driven by higher SSD revenue. Cloud system decreased year-over-year due to a planned end of life of some legacy OEM cloud system products. Sequentially, revenue has been stable with the past two quarters as we optimize the product portfolio.
+SSD revenue were up both year-over-year and sequentially. We are optimistic about our long-term opportunities as we invest in developing a broad-based SSD product portfolio in the SaaS, NVMe, consumer and gaming market. We are mindful of the short-term market dynamics and NAND pricing movement and our managing our business to meet current customer demand in a prudent manner.
+Non-GAAP operating expenses were $365 million, down 6% year-over-year and down 4% sequentially. Expenses were lower mostly due to reduced discretionary spending and overall operational efficiency. We are committed to controlling operating expenses within our long-term financial model range of 13% to 15% of revenue.
+Cash flow from operations in the December quarter was $288 million. The sequential decrease was more related to the timing of some working capital transactions. We do not expect adverse impact to cash flow from working capital changes to reoccur in the March quarter.
+On a fiscal to-date basis, Seagate has generated $875 million in cash flow from operations and $571 million in free cash flow. Total inventory levels are slightly lower sequentially and consistent with demand expectations.
+Capital expenditures on a cash basis were approximately $127 million in the December quarter. For fiscal year '19, we expect total capital expenditures to be at the low end of our long-term range of 6% to 8% of revenue.
+In the December quarter, we repurchased 3.2 million shares and we exited the quarter with 283 million ordinary shares outstanding. Our balance sheet remains healthy. We ended the quarter with $1.4 billion in cash and cash equivalents and our Board has approved a quarterly dividend payment of $0.63 per share which will be payable on April 3, 2019.
+As planned, we also repaid the remaining 2018 senior note for approximately $500 million. The company’s debt balance as of December quarter was $4.3 billion. Our net debt to last 12 months EBITDA ratio is 1.1x as of the December quarter.
+Interest expense continues to be well within our financial capability, given our staggered maturities and low interest rates. Overall, our financial performance in the December quarter reflects solid execution in a challenging demand environment.
+I will now turn the call back to Dave for final comments and the outlook.
+Dave Mosley
+Thanks, Gianluca. As we enter calendar year 2019 there are a number of market uncertainties that are broadly affecting IT companies. Macroeconomic risks and softness persist in global demand from cloud service providers and supply chain frictions and liquidity have created strain for some smaller end customers.
+We are navigating through these market dynamics with conservatism and managing our business with a focus on profitability and cash flow generation. As we go through this cycle of compressed exabyte demand, we are taking measures to control our costs and capital spending with the expectation that the exabyte growth will resume sometime in the second half of the calendar year.
+Within our revenue expectation for the March quarter, we anticipate nearline HDD demand to remain soft and our nearline exabyte shipments to be flat to slightly down sequentially. We expect the consumer and gaming markets to be seasonally down in the March quarter and desktop and notebook demand to be slightly lower than seasonal demand as CPU shortage and macro uncertainty overhang continue to affect the volume in these markets.
+We also expect our cloud systems revenue to be relatively flat sequentially and our SSD revenues to be down sequentially due to product transitions and our near-term conservative approach to the NAND market. We expect total revenues in the March quarter to be in the range of $2.3 billion plus or minus 5%. Total exabyte shipments are forecasted to be 10% to 15% lower sequentially.
+We expect non-GAAP gross margins for the March quarter to be at least 26% with the majority of the sequential change related to mix and manufacturing underutilization. This forecast is outside of our long-term margin range of 29% to 33% as we adjust our manufacturing plan to a lower build volume and to keep a lean inventory level. As demand resumes and other market trend stabilize, we expect margins to return to the long-term range.
+We expect non-GAAP EPS to be $0.70 plus or minus 5%. We remain confident in our ability to generate significant cash flow over the next several years as we leverage our mass storage solutions portfolio for existing and new market opportunities.
+In closing, I’d like to thank our customers, suppliers, business partners and employees for their alignment and contributions to our strong second fiscal quarter results. Seagate’s deep storage industry expertise, leading technology portfolio and focused execution will allow us to meaningfully participate in the long-term growth trajectory for storage, delivering sustainable success for the company and value for our shareholders.
+I am confident Seagate will continue to lead the HDD industry and serve our customers with the best technology developments, product offerings and supply chain responsiveness.
+Thanks, Latif. Now we’ll open up the call for questions.
+Question-and-Answer Session
+Operator
+Thank you, sir. [Operator Instructions]. Our first question comes from the line of Steven Fox of Cross Research. Your line is open.
+Steven Fox
+Thanks. Good afternoon. Dave, just a couple questions on the nearline comments you made. First of all, when you talked about the outlook for the current quarter for nearline, I was wondering how that’s different than maybe 90 days ago. And along the similar lines, can you just sort of talk about what gives you the confidence in the second half recovery in nearline spending? And then last question on nearline would just be any noticeable market share shifts on different capacity points that you might want to call out? Thanks.
+Dave Mosley
+Yes, Steven, I’d say that we’ve talked about the cyclicality before, the peak that we were in, in probably fiscal Q4 of last year, maybe even fiscal Q1 of this year. It really looks like we’re in the trough now again and the question is how deep is the trough and how wide is it and so on? There’s no reason to believe that this is necessarily how much different than the prior, but what’s different than 90 days ago I would say that we do see customers coming back for mixed changes and things like that. So there are signs of life, but nothing that I would call growth back to the next peak. And I think there are various reasons for that. You can see that in their capital spending. I don’t really think there’s very many competitive dynamics that are changing. We did allude to in our script if you’ll notice that there could be some waiting for the next capacity point to be qualified, if you will, because once you go into one of these cycles, everyone not just the suppliers of the hard drives but also the customers themselves are re-questioning their qualification resources and the timing of what they want to ramp when. So there may be some of that that’s impacting things a little bit. I do think that the cycle will come back because just the exabyte demand and servicing what’s already in the legacy data centers will have to get back on that pace.
+Steven Fox
+Great. Thank you very much.
+Operator
+Thank you. Our next question comes from the line of Katy Huberty of Morgan Stanley. Your line is open.
+Katy Huberty
+Thank you. Good afternoon. 90 days ago you thought that the nearline business would be weak for a couple of quarters and if I remember correctly you thought you could hold the 29% gross margin. Obviously, a quite different outlook today. Can you just talk about what has changed in terms of the mix in manufacturing utilization dynamic that you talked about? Cloud is certainly going to continue to be weak, but it seems like that was the assumption three months ago. Thanks.
+Dave Mosley
+Yes, Katy, I’ll hand it over to Gianluca and then I’ll come back with some other comments too.
+Gianluca Romano
+This is Gianluca. So the gross margin that you have seen for Q3 in terms of guidance is obviously impacted by the volume. So we had a much lower volume in our forecast compared to maybe what we were expecting couple of quarters ago. And we have decided to keep our inventory lean, so we are reducing also our production. This is creating just some level of underutilization which is part of our guidance and that is a major part of deviation from our long-term range of 29% to 33%. We think this is a temporary slowdown in terms of margin and to come back to that range fairly quickly.
+Dave Mosley
+And, Katy, I don’t know that I would say that the cloud is weaker than what we’ve thought 90 days ago. I think there are other parts of the market. We in particular mentioned the channels that looked to be very lean inventory and people aren’t pulling at kind of even traditional rates for seasonality. So I think those are the things that are probably impacting some of our builds and our forecast a little bit more. We also don’t have great visibility through the next couple of weeks. Chinese New Year we’re right in the middle of it and so that’s part of what’s impacting where we are right now. We do expect that at some point the cloud is going to come back when some of these other channels turn on. I think we need probably some more time before we can properly assess that. As Gianluca said, we’re going to take our medicine a little bit this quarter by making sure we turnoff the factories, don’t overbuild the wrong stuff so that we come out as fast as we can.
+Katy Huberty
+Okay. Thank you.
+Operator
+Thank you. Our next question comes from Karl Ackerman of Cowen & Company. Your question please.
+Karl Ackerman
+Hi, Dave or Gianluca, I’m curious how we should view your longer-term capacity shipment growth within nearline despite this near-term hiccup in demand particularly as we kind of contemplate your progression towards 16 terabyte drives later on this year? And I guess as a follow up to that, I’m curious where yields are today on 12 terabyte and 14 terabyte nearline drives relative to historical cost curves of you prior durations high capacity drives and I was hoping you could also quantify or qualitatively quantify customer acceptance on 16 terabyte and perhaps any commentary on yield for your 16 terabyte drives? Thank you.
+Dave Mosley
+Yes, for a lot of reasons I think – well, the operations person in me is going to say that I’m never happy with yields, right? So we’re driving it. But I don’t think yields are a problem at 12 or 14 terabytes. We can make enough drives for the market. I think it’s more of the market softness right now that’s impacting us. The transition to 16 if you think about it, there’s a lot of dynamics that are maybe causing people to pause and wait for 16. So maybe you just have to spend a bunch of qualification resources, you don’t get enough extra capacity at that last point. Maybe you have software issues that you’re looking to stage yourself. So I think there’s a lot of things going on in the world. And then there’s these liquidity issues that we talked about with some customers. There’s all kinds of dynamics. Look, big picture, we think that these drives that are 16, 18, 20 terabytes once the industry makes them, they are a great value propositions. We think we’re going to be able to yield ours very well and we pointed all of our resources at that and we think that’s going to become the norm over the next couple of years. So we’re pretty excited about it.
+Karl Ackerman
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Ananda Baruah of Loop Capital. Your line is open.
+Ananda Baruah
+Hi. Good afternoon you guys. Thanks for taking the questions. Just two, if I could, somewhat related. The first one is, Dave, just going back to the volume comments that go into the March quarter guide, do you think those are macro related in an incremental way because it does sound like because you thought you can hold the 29% 90 days ago that maybe there’s something there different from a macro perspective and would just love to get your context on that. And I have a quick follow up as well. Thanks.
+Dave Mosley
+Yes, Ananda, I’d say to the extent that we’re looking a little bit further out in time we can see a little further and then in response to Katy’s question, we can’t see right through Chinese New Year. But looking at inventory positions out there in the world I think it’s time that we term our builds a little bit. And so that does – to that extent that they maybe some of the macro issues that maybe bleeding through. Again, our perspective is inventory while weeks on hand might be fairly “normal” I think that the inventory that’s out there from an absolute volume level is pretty low actually. So I don’t think that there’s an overabundance of inventory, certainly on Seagate inventory that’s out there. So I think we should be able to build the right stuff for the channels when that comes back and that’s what we’re off doing.
+Ananda Baruah
+And then you just bleed [ph] right in, thanks for that, David. That actually just kind of segued right into what my second question was, was with regards to the channel dynamics, it sounds like – is this accurate that you’re actually maybe being a little bit proactive, at least part of this is proactive as opposed to reactive? And if that’s accurate, could we see your margins come back, so I guess the demand – if non-cloud demand say was flattish in the June quarter, could we actually see the margins come back in the June quarter from the March levels you’re guiding to based on some of these channel actions you’ve taken? Thanks.
+Dave Mosley
+Yes, I guess I wouldn’t get into that guide especially given some of the challenges we have just in the next few weeks of people coming back from Chinese New Year and given us their latest signal. So I wouldn’t get into the guide of Q4 so much. But obviously any mix changes are going to help us whether they happen in the cloud or they happen in some of these edge channels that have been impacted surveillance. These drives aren’t low capacity drives. They’re actually drives that typically take a lot of heads in discs and to your point that would help our margins quite a bit.
+Ananda Baruah
+Okay. Thanks a lot.
+Operator
+Thank you. Our next question comes from Nehal Chokshi of Maxim Group. Your question please.
+Nehal Chokshi
+Yes. Thank you for taking my call. So I just wanted to get a little bit more color on the pause for the next gen hard drives that you’re seeing from cloud customers. Is that HAMR related or is that just the next gen of PMR?
+Dave Mosley
+Yes, we’re still on the next gen of PMR. We actually have HAMR or next gen that will be tested side-by-side, but I think this is not a HAMR statement yet. We can ramp the last gen, if you will.
+Nehal Chokshi
+Okay, great. And then in edge non-compute you had a particularly weak quarter. Was that all surveillance or was that beyond surveillance?
+Dave Mosley
+It’s getting complicated to call something surveillance or non-surveillance. So some of the smart cities, IoT, the real I’d say entrepreneurial things that people are doing out there in the channels, people don’t just use those drives to build desktops anymore. They’re doing solutions for their end customers. That’s where we’ve seen things be a little bit soft. And again not 500 gigabyte drives like the days of old when we were – when the channels were servicing the PC market. Some of these are 4 terabyte drives, so that’s impacting. Yes, so that’s the smaller end customers that we’re referring to in our script now.
+Nehal Chokshi
+Got it. Thank you.
+Operator
+Thank you. Our next question comes from Tristan Gerra of Robert Baird. Your line is open.
+Tristan Gerra
+Hi. Good afternoon. In addition to the factors you just mentioned on the call for weakness in nearline drive, is there a relocation in terms of some manufacturing facilities for data center OEM outside of China which also could have some impact in terms of ordering patterns for these drives?
+Dave Mosley
+Tristan, I think not that I can think of off the top of my head, but I probably have to give it a little bit more thought.
+Tristan Gerra
+Okay. Thank you.
+Operator
+Thank you. Our next question comes from Aaron Rakers of Wells Fargo. Your line is open.
+Aaron Rakers
+Thank you for taking the question. One quick housekeeping thing and then a real quick question. First of all, did you guide an operating expense number for this quarter and how should we think that that would progress over the next couple of quarters? And then on the question front, I’m just curious. I think you mentioned that the compute segment would be down more than seasonal in the current quarter. How would you characterize seasonality and how much are you factoring in NAND flash price erosion resulting in incremental SSD attach rates?
+Gianluca Romano
+Okay. This is Gianluca. I will take the first question about OpEx. So we do not really guide for Q3. I would say that the company has done an outstanding job in the last several quarters to reduce OpEx. Our fiscal Q2 was about $355 million. I expect next quarter to be more or less flat to that number.
+Aaron Rakers
+Thanks.
+Dave Mosley
+And, Aaron, I’ll try your PC side – if I don’t get it right just feel free to correct me. So the PC market we think is more than just seasonality because of some material shortages and maybe some of the disruption I was talking about in the channel as well as the liquidity issues, VARs having trouble with their go-to-market but I think it’s some of the component shortages that they’ve struggled with. As far as SSD attach, it hasn’t really changed our model too much. We’re assuming a fairly aggressive penetration certainly at 500 gigabytes and some at 1 terabyte. When you get into commercial system we’re thinking that that’s mainly tip. So that’s why we’re positioning our portfolio, for example, desktop drives are over 2 terabytes a drive and growing. So that’s the way we’re thinking about that. Notebook continues to be a fairly good market that we service from us. I won’t apologize for having a good drive down there. But we’re anticipating continued penetration of that market. And I think we’re probably less exposed than others on that just because we’ve been exiting it for a while.
+Aaron Rakers
+Okay, very helpful. Thank you.
+Dave Mosley
+Thanks.
+Operator
+Thank you. At this time, I’d like to turn the call back over to Dave Mosley for any closing remarks. Sir?
+Dave Mosley
+Okay. Thanks, Latif. I’d just like to thank our customers and suppliers, business partners and our employees for all the contributions that they had in the second quarter and I’ll talk to everyone next quarter. Thanks.
+Operator
+Thank you, sir. Ladies and gentlemen, this concludes today’s conference. Thank you for your participation and have a wonderful day. You may disconnect your lines at this time.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+4 Authors in the Last 90 Days

@@ -1,0 +1,243 @@
+Synopsys, Inc. (NASDAQ:SNPS) Q4 2019 Earnings Conference Call December  4, 2019  5:00 PM ET
+Company Participants
+Lisa Ewbank - VP of IR
+Aart de Geus - Chairman & Co-CEO
+Trac Pham - CFO
+Conference Call Participants
+Rich Valera - Needham & Company
+Mitch Steves - RBC Capital Markets
+Tom Diffely - D.A. Davidson
+Adam Gonzalez - Bank of America
+Gary Mobley - Wells Fargo Securities
+Jackson Ader - JPMorgan
+Jay Vleeschhouwer - Griffin Securities
+Jason Celino - KeyBanc Capital Markets
+Krish Sankar - Cowen & Company
+Operator
+Ladies and gentlemen, thank you for standing by. And welcome to the Synopsys Earnings Conference Call for the Fourth Quarter and Fiscal Year 2019. [Operator Instructions] Today's call will last one hour. Five minutes prior to the end of the call, we will announce the amount of time remaining in the conference. As a reminder, today's call is being recorded.
+At this time, I would like to turn the conference over to Lisa Ewbank, Vice President of Investor Relations. Please go ahead ma'am.
+Lisa Ewbank
+Thank you, Greg. Good afternoon, everyone. Hosting the call today are Aart de Geus, Chairman and Co-CEO of Synopsys and Trac Pham, Chief Financial Officer.
+Before we begin, I'd like to remind everyone that during the course of this conference call, Synopsys will discuss forecasts, targets and other forward-looking statements regarding the Company and its financial results. While these statements represent our best current judgment about future results and performance as of today, our actual results and performance are subject to many risks and uncertainties that could cause actual results to differ materially from what we expect. In addition to any risks that we highlight during the call, important factors that may affect our future results are described in our most recent SEC reports and today's earnings press release.
+In addition, we will refer to non-GAAP financial measures during the discussion. Reconciliations to their most directly comparable GAAP financial measures and supplemental financial information can be found in the earnings press release, financial supplement and 8-K that we released earlier today. All of these items, plus the most recent investor presentation are available on our website at synopsys.com.
+In addition, the prepared remarks will be posted on the site at the conclusion of the call. With that, I'll turn the call over to Aart de Geus.
+Aart de Geus
+Good afternoon. I'm pleased to report another excellent quarter and with it an outstanding year for Synopsys. In fiscal 2019, a year in which we successfully navigated several external challenges, we once again exceeded our plan. We generated $3.36 billion in revenue and are well on track to our next milestone of $4 billion. Our backlog grew to $4.4 billion. We expanded operating margin significantly and delivered 17% non-GAAP earnings growth to $4.56 for the year, while returning $329 million to shareholders through buybacks. Business was strong across our Semiconductor & System Design segment and strengthened as the year progressed. Software Integrity achieved profitability and grew 19% to $335 million. Trac will discuss the financials in more detail.
+Against a challenging global market backdrop with geopolitical stress and unevenness in the semiconductor industry, design activity remains strong. Growth in machine learning, automotive 5G, IoT, cloud and the proliferation of Smart Everything is considerable. New entrants including AI start-ups and cloud hyperscalers are pushing the boundaries of technology and time to market. Synopsys is at the center of this wave of innovation and growth, and we are uniquely positioned to enable electronics design from the intricacies and complexity of silicon to the power and pervasiveness of software.
+A year ago, I communicated our strategy for our next phase of growth. First, sustain and grow our technology and market leadership in EDA and IP. Second, continue to scale and grow Software Integrity in a diverse customer base at new TAM, while steadily moving to solid profitability. And third, further drive operational excellence towards multi-year operating margin expansion. During fiscal '19, we made very good progress on all three.
+Let me provide some highlights beginning with EDA and IP, where we substantially expanded relationships with our customers and ecosystem partners. TSMC, for example, recognized Synopsys with Partner of the Year Awards for the ninth straight year. Award this year were for Interface IP, joint development of 6-nanometer design infrastructure, joint delivery of innovative 3D chip stacking and cloud-based productivity solutions. In addition, some of the world's largest and most influential companies expanded their reliance on us. One key example is the US mobile systems leader, who significantly expanded its business with us across both EDA and IP.
+In EDA, our platforms increasingly stand out as the strongest they've ever been. This year, we began proliferating several game-changing new products that already have significant momentum. Notably, our unrelenting innovation push in digital design is driving benchmark wins and increased competitive displacements. Our Fusion platform, including our new Fusion Compiler product launched last November is achieving widespread wins and growing deployment, exceeding our initial business targets.
+Fusion Compiler is winning head to head benchmarks with consistently better results and run time across many applications. Breakthrough competitive wins have ranged from the largest global communications, processor and graphics firms to high impacts cloud hyperscalers to multiple influential system houses such as a large global consumer electronics company for image sensor designs, a leading automotive semiconductor company for autonomous driving SoC designs, and expanded competitive displacements at a leading mobile company for 5-nanometer and sub 5-nanometer designs.
+Benchmark wins at a US-based graphics company with superior quality of results and turnaround time, a large cap US systems company selecting Fusion Compiler as its primary solution for digital implementation, and the US semiconductor leader who is aggressively expanding deployment of Fusion Compiler for its mission critical programs representing more than 95% of its business. While still early in our multi-year product cycle, these important wins represent significant momentum and usage share gains, setting the stage for revenue share gains going forward.
+Turning to custom design, Custom Compiler revenue nearly doubled this year, fueled by multiple full-flow competitive displacements. Our expansion is driven by key wins in the 5G, AI and server chip markets, including a Tier 1 North American server company, a large US high-speed communications chip maker and complete full-flow competitive displacements at a large IDM in Japan and a major DRAM company. We also announced a full-flow Custom Compiler platform deployment at Samsung for its five LPE process and are seeing good momentum with start-ups, who are not locked into a legacy flows and demand modern technology.
+Let me now move to our Verification Continuum platform, where we hold the Number 1 market share position in both software and hardware. Benefiting from native integration of the fastest engines on the market, our verification software products continue to drive competitive wins and proliferation. Contributing substantially to growth are broad set of system houses and chipmakers ranging from cloud hyperscalers in North America to AI, automotive, mobile and memory leaders around the world.
+Hardware-based verification was strong as well. Despite our largest hardware customer delaying delivery of a substantial number of emulators due to near-term spending priorities, we finished the year with a record hardware revenue. We maintain the Number 1 market segment position for the third year in a row. Our hardware products are particularly well suited to today's complex designs with unmatched speed, highest capacity, lowest cost of ownership and lowest power consumption. As a result, we significantly expanded our customer base, adding nearly 40 new customers and more than 80 repeat orders in 2019. We saw major expansions and share gains at influential customers ranging from prominent global systems companies to growing hyperscalers and leading semis. AMD, for example, standardized on ZeBu, expanding the emulation capacity to accelerate time to market for processor, graphics and gaming chips.
+Now to IP. With strong market demand and our rich portfolio are driving double-digit growth. We had a record year, reaching more than $750 million in revenue, with prominent engagements across all major markets, including AI, automotive, cloud and 5G. As the Number 1 provider of interface, embedded memory and foundry-specific IP, we provide the industry's broadest portfolio to address today's most complex design requirements, accelerate time to market and lower risk for customers. We have particular strengths in USB, memory interfaces and PCI Express 5.0.
+This year, we achieved the significant milestone of $1 billion in cumulative USB IP bookings, bolstering our position as the Number 1 USB provider by far. And our new 56 and 112 gig SerDes IP is gaining good market traction. During 2019, momentum accelerated in automotive where we've achieved nearly 230 automotive socket wins and advanced FinFET processes across approximately 30 major semiconductor companies. We announced the collaboration with Infineon to incorporate the ARC embedded vision processor into their next-generation Rx controller to accelerate AI in automotive applications. From the embedded vision alliance, we were awarded the Best Process Award for 2019.
+Finally, our track record of delivering IP and advanced process nodes continues and is highly valued by our customers. We achieved more than 250 IP wins on TSMC's 7-nanometer FinFET process and announced the collaboration with TSMC for development of IP on their most advanced 5-nanometer process, where we signed yet another significant multi-year agreement with a very large global customer. We're also seeing great momentum with Samsung Foundry process down to four LPE and global foundries across a range of processes.
+Now to Software Integrity, the tools that test software code for security vulnerabilities and quality issues. We entered this new TAM in 2014. By the end of 2018, we had completed a number of significant acquisitions, integrated them into Synopsys and enhanced our products with new features and broader language coverage. In 2019, we completed Phase 1 of our Software Integrity strategy by delivering 10% of Synopsys' revenue and achieving approximately 10% operating margin. Although orders were a bit softer than planned, we outpaced the market with 19% growth. This was achieved through progress in driving multi-year multi-million dollar agreements, a steady increase in the number of customers adopting multiple solutions and growth in all of our key verticals.
+In 2020, we are now moving to Phase 2, scaling the business to $0.5 billion and beyond. The opportunity is vast as companies must embed security testing into their software development process without compromising time to market. Synopsys is well positioned to enable this evolution with a great combination of high-value products and consulting services.
+Our scaling efforts for 2020 span three areas. One, expanding Polaris, our cloud-based Software Integrity platform. We announced Polaris in Q2, including a compelling road map of product integrations and new capabilities over the subsequent 12 to 18 months. We've had a growing number of adoptions thus far,, including a Fortune 500 insurance company and customers ranging from financial services to networking to medical and industrial digitalization. Stay tuned as we expand the Polaris capabilities and enhance support of large deployments.
+Two, scaling consulting engagements. This is where we help our customers with high-level benchmarking, program development advice, as well as large product deployments. It's a key Synopsys differentiator in the software and DevOps market.
+And three, refining our channel. We've realigned our sales organization to better serve large enterprise customers, key market verticals and new regional business. In FY '20, we intend to further increase both our sales and support capacity. We believe we are on track to exceed market growth in this business, delivering approximately 15% to 20% growth over the next couple of years as the market evolves. For 2020, we plan to hold non-GAAP operating margin roughly steady then resume expansion in 2021 and beyond.
+For Synopsys as a whole. In FY '20, we expect solid revenue growth even as we exclude from our forecast any revenue from companies currently on the US government's Entity List. Furthermore, we plan substantial non-GAAP operating margin expansion, mid-teens earnings per share growth and strong operating cash flow.
+In summary, we executed very well in 2019, delivering financial results substantially above beginnings of year targets. Market demand is strong and we are well positioned. Our product platforms are driving benchmark wins and competitive displacements. And we are driving continued financial execution and growth. As we move into the holiday season, I want to thank our employees for their innovative and hard work and our partners and customers for their continued commitment to our products and trust in Synopsys.
+With that, I'll turn it over to Trac.
+Trac Pham
+Thanks, Aart. Good afternoon, everyone. 2019 was a very strong year. In spite of what was at times a tough macro environment, we achieved record results in all key metrics and finish well ahead of our initial expectations. We delivered these results despite multiple unique hurdles, including the operational transition to ASC 606, the US Entity List and general geopolitical uncertainty around the world. We delivered strong growth in revenue, non-GAAP earnings and operating cash flow, while expanding non-GAAP operating margin by almost 3 percentage points.
+We're entering 2020 well positioned to continue our momentum. Our product portfolio is as strong as it's ever been, which in combination with healthy design activity is driving robust demand. The result is reflected in our backlog, which ended the year at $4.4 billion up from $4.1 billion at the end of 2018 despite the ASC 606 backlog deduction. Our results speak to our solid execution and the durability of the business we built. Within approximately 90% recurring revenue model, a diversified customer base spanning multiple key verticals and geographies and a product portfolio consisting of mission critical tools, we are confident in our ability to deliver growth even in the context of an uneven macroeconomic environment.
+I will now review our full year 2019 results. We generated total revenue of $3.36 billion, 8% growth or 9% adjusting for the extra week in fiscal 2018. Semiconductor & System Design revenue was $3.03 billion, an increase of 7% or 8% adjusting for the extra week with both product groups contributing to the strong results. IP reported a strongest year-to-date and EDA software continues to grow well within our mid-to-high single-digit target range.
+Revenue had another record year, reflecting the broad-based strength of that business. We again earned the Number 1 market segment position as growth in our diversified customer base more than offset a decline in emulation revenue from our largest hardware customers. Excluding hardware, revenue from that customer grew very well. The Software Integrity segment generated revenue of $335 million, 19% growth or 20% adjusting for the extra week. As Aart discussed, 2019 marks the key milestones, as we grew the business to approximately 10% of total revenue, a solid profitability.
+Returning to the consolidated level, total GAAP costs and expenses were $2.84 billion, which includes approximately $47 million in restructuring costs as we work to optimize our resource allocation for sustainable long-term growth. Total non-GAAP costs and expenses were $2.52 billion, resulting in a non-GAAP operating margin of approximately 25%. For our segments, adjusted operating margins were 26.7% for Semiconductor & System Design and 9.6% for Software Integrity. GAAP earnings per share were $3.45 and non-GAAP earnings per share were $4.56, 17% growth or 19% adjusting for the extra week.
+Turning to cash. Operating cash flow for the year was $801 million. We completed buybacks of $329 million in the year and $1.8 billion over the past five years, returning approximately 75% of our free cash flow to investors over that period. We ended the quarter with a cash balance of $729 million and total debt of $138 million.
+Now to our targets, which assumed no change in the US government's Entity List during the year. Based on our current assessment of the timing of hardware and IP deliveries, we expect the first half, second half split of roughly 45%, 55% for revenue and 35%, 65% for EPS, due to more evenly distributed expenses. For fiscal 2020, revenue of $3.6 billion to $3.65 billion; total GAAP costs and expenses between $2.934 billion and $2.983 billion; total non-GAAP costs and expenses between $2.63 billion and $2.66 billion, resulting in a non-GAAP operating margin of approximately 27%, other income and expenses between minus $16 million and minus $12 million. Our non-GAAP normalized tax rate of 16%; outstanding shares between $153 million and $156 million, GAAP earnings of $3.72 per share to $3.90 per share, non-GAAP earnings of $5.18 per share and $5.25 per share, cash flow from operations of $800 million to $825 million, and capital expenditures of approximately $180 million, as project timing costs some of the spending plan for 2019 to push into 2020. We expect expenditures to decline in 2021.
+Now, to the targets for the first quarter. Revenue between $805 million and $835 million, total GAAP costs and expenses between $715 million and $744 million, total non-GAAP costs and expenses between $635 million and $655 million, other income expenses between minus $5 million and minus $3 million, our non-GAAP normalized tax rate of 16%, outstanding shares between 153 million and 156 million, GAAP earnings of $0.43 to $0.54 per share, and non-GAAP earnings of $0.89 to $0.94 per share.
+In summary, our results this year reflect our strong execution and the resiliency of our business model. Our strength came from across the portfolio as we exceeded our near-term commitments and made significant progress on our longer-term operating objectives. As we look to 2020 and beyond, our focus remains consistent, strong execution to deliver on our long-term targets of high single-digit revenue growth, sustained margin expansion to the high 20s in FY '21 and 30% longer-term, double-digit non-GAAP EPS growth and strong cash flow. These metrics, combined with the capital allocation strategy built on balancing internal investments, M&A and buybacks give us confidence in our ability to continue to drive sustainable long-term shareholder value.
+With that, I'll turn it over to the operator for questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] And we first turn to the line of Rich Valera with Needham & Company. Please go ahead, your line is open.
+Rich Valera
+Thank you. Good afternoon. Based on your annual profile or half-to-half profile, looks like you must be expecting significantly stronger hardware at least beyond the first quarter. Can you talk about if that's the case and what kind of visibility you have to that hardware ramp and if that includes a significant pickup from the large customer that was down last year and the hardware shipments?
+Trac Pham
+Hi, Rich. That's part of it. Yes, it's a combination of both IP and hardware deliveries that is affecting the quarterly profile.
+Rich Valera
+Got it. And can you just talk about your visibility to that, is that something that's kind of in backlog or how -- what are sort of underpins the visibility, particularly the hardware since that tends to be a little more volatile than the subscription revenues?
+Trac Pham
+Yes, you've taken a good point, which is that hardware and IP generally is more variable from quarter to quarter. And the way that we're projecting revenues for this year is no different than how we have done in the past. It's a combination of what is in backlog, as well as our assessment of our ability to close the deals that are in our pipeline and both in IP and hardware. So, it really does reflect our best estimate of the profile at this point.
+Rich Valera
+Great. Just quickly, it looks like SIG was a little bit light in the fourth quarter and you've moderated, I think, your longer-term target that had been 20% is now 15% to 20%. Is there anything structural you're seeing in that business? Or there is sort of large numbers as you grow it? How should we -- what accounts for that sort of moderation of that growth target there? Thank you.
+Trac Pham
+Yes. Rich, that's a good point. I'll start with the second half of your question, which is, is there any fundamental change in the business? And we don't see it that way. Certainly, we're very optimistic about that business and we do see a good outlook for it. We did see some challenges this year, which we were quick to address and we feel good that we should be able to continue to grow at the market rates or higher. And it is natural to us, it's a -- the natural ebbs and flows of growing the business.
+Rich Valera
+Great, thank you. Congratulations on a good year.
+Operator
+We have a question from the line of Mitch Steves with RBC Capital Markets. Please go ahead. Mr. Steves, your line is open. You might have your phone muted.
+Mitch Steves
+Hey, sorry about that. Can you hear me?
+Trac Pham
+Hi, Mitch.
+Aart de Geus
+Now we can.
+Mitch Steves
+Sorry about that. So, I have really two questions. Unfortunately at the pick on track a little bit here, but, so if I look at the numbers from the guide you guys are giving us like kind of like 21%, 22% operating margin for Q1, but that implies the kind of the rest of the year that Q2 to Q4 is going to be around 28.6%. So wouldn't that mean that basically by '21, you're kind of getting close to high 20s starting the year or am I doing the math incorrectly there?
+Trac Pham
+Well, certainly for the full year, we expect to be around 27% operating margin. As we've said in the past, the quarterly profile is really an outcome of the plan. Candidly, when I think about the budget for FY '21, 99% of my time is really been focused on the full-year plan and making sure that we've got an outlook for revenue growth that is sustaining where we are and are accelerating some areas, and then making sure that we're investing in the appropriate places, while simultaneously improving margins for this year. The outcome of the quarterly profile really is just the timing of these deals. So I wouldn't read too much into the quarterly profile, and I'll close it out by saying, we remain committed to our long-term commitment of high 20s in FY '21 and we will comment on that further as the year progresses.
+Mitch Steves
+Okay. And the second one to add is you guys did have done a few smaller acquisitions lately and that includes employee headcount. And so all of that is encapsulated in the full year guide, you guys are giving correct meaning that there's going to be no additional OpEx in that number?
+Trac Pham
+Yes, that's correct.
+Mitch Steves
+Okay, perfect. Thank you so much.
+Trac Pham
+All right.
+Operator
+We turn to the line of Tom Diffely with D.A. Davidson. Please go ahead. Tom Diffely, you might have your line on mute.
+Tom Diffely
+Yes, hello, can you hear me?
+Aart de Geus
+Yes, we can.
+Tom Diffely
+All sorts [indiscernible] comes today. Yes, so just a quick question. When you look at the outlook for 2020 and the nice margin profile, if you look at it on a year-over-year basis, how would you split the margin growth from product mix versus overhead absorption versus potentially a fine tune cost structure?
+Trac Pham
+It's really kind of across the Board. The progress that we made this year in 2019 in terms of improving it by 3 percentage points really came across all areas of the business. We saw it across the different business groups from sales from the G&A functions. And it's really a continued and broad-based effort. For 2020 and beyond that we'll continue to do the same thing. It's really fine tuning across all areas of the business.
+Tom Diffely
+Okay, great. And then when you look at items like IP and hardware that tend to be a little lumpier, is there any other -- are there any trends in 2020 we should know about as far as it can be fourth quarter weighted, it can be even after the first quarter, any other kind of trends on a quarterly basis?
+Trac Pham
+We could probably help you with the quarterly profile in detail, but Q4 would likely tend to be the highest quarter for us given what we are -- what our visibility is at this point from both IP and hardware.
+Tom Diffely
+Okay. And then final question. Is IP fairly seasonal at this point? I feel like it's always a little bit higher in the second half of the year.
+Trac Pham
+We're not really seeing much seasonality in the business. And as we said, it really depends on the timing of when the IP has delivered or when the IP is pulled down by our customers. And you're going to see that variability increase due to 606. So, just keep that in mind, but overall, the demand drivers for IP continues to be really strong and that's reflected in our outlook for 2020.
+Tom Diffely
+Great, thanks for your time today.
+Trac Pham
+All right. Thanks, Tom.
+Operator
+And next, we turn to the line of Adam Gonzalez with Bank of America. Please go ahead.
+Adam Gonzalez
+Hi, thanks for taking my question. Can you just help us understand, I don't know if you guide out this far, but the revenue growth you expect by product group for fiscal '20, is it kind of in line with the longer-term targets you set out or is there any substantial deviation in any particular product group? Thank you.
+Trac Pham
+No, our long-term model spells it out pretty well between EDA, IP and Software Integrity. And typically, we don't break that down quarterly or on an annual basis. Our view is we do manage this business over a multi-year horizon and the beauty of it is that we have been pretty good about managing it within that range over time.
+Adam Gonzalez
+Got it. And the reason why I guess I asked that is because, there has been some weaker data points on enterprise spending overall. I'd imagine you are a bit more insulated from that given the relative size of your SIG business but are you seeing any kind of impact from that going into fiscal '20 or again, are you insulated from that? Thank you.
+Trac Pham
+Those sort of concerns are certainly factored into our guidance. I would reference you to how we performed historically and that's the great part of having a business that is close to 90% recurring is that there is adapting effect when things go through different cycles.
+Aart de Geus
+The other thing I would add to that is, certainly, if you look at the Software Integrity business, it's a business where we're actually very young in an emerging situation and so there are many, many customers that we haven't even touched yet. And so I think that is a fairly open space. Now overall, obviously, we're are subject to the fluctuations of the global markets. But from a technology utilization point of view right now, I think the demand for technology is quite high. And so the rates continues to be quite fast.
+Adam Gonzalez
+Great, thanks. I'll get back in the queue.
+Operator
+And next, we turn to the line of Gary Mobley with Wells Fargo Securities. Please go ahead.
+Gary Mobley
+Hey, everyone. I appreciate you taking the question. It looks like you're not going to file your 10-K until January 1. So I was hoping that on this call, you can share with us your next 12-month backlog, which excludes non-cancelable FSA and future royalties?
+Trac Pham
+We actually don't disclose that information. What?
+Lisa Ewbank
+In the K.
+Trac Pham
+In the K, we will discuss that. Do you have that number? I'm sorry, I don't have that number off the top of my head.
+Gary Mobley
+Okay. Part of the question is, is that it looks like you could take you next 12-month backlog as you've been disclosed in your recent SEC filings and you divide that by your next 12 months revenue expectations, which is I think the critical juncture now. It looks like you're generating more revenue or expect to generate more revenue from next 12-month backlog. So, just hoping that maybe you can speak to, why you guys are sort of modeling in lower turns business as it relates to that?
+Trac Pham
+Well, I'll give you some specific numbers around that. The backlog that we have scheduled for FY '20 is roughly 65%, that's lower than it's traditionally been, mostly because of the transition to 606 and with a hard -- higher mix of hardware and IP. From a modeling perspective, when we take into account what we have visibility to from hardware and IP. The range and -- the range of how we're building the business between backlog and turns and what we have visibility to is pretty consistent with what we've been managing to over the last few years.
+Gary Mobley
+Okay. And could you give us an update on the degree of the impact from the Entity List, not specific to maybe the one big customer, but maybe in the entirety?
+Aart de Geus
+Well, in general, as you know, we don't disclose the specific customers, nor do we disclose the subset of customers. Obviously, it has a negative impact, but at the same time, the guidance that we gave, which I think is rather strong has fully encompass the facts that we assuming zero return or zero revenue from the Entity List customers. So if things change for the better, we will let you know of course immediately. But for right now, the wisest path is to not comment much more about the situation.
+Gary Mobley
+Okay, alright. Didn't you comment in the past that it could be 100 basis point impact to the top line?
+Trac Pham
+No, we have not provided specific numbers around that.
+Gary Mobley
+Okay. Alright, that's it for me. Thanks, guys.
+Aart de Geus
+You're welcome.
+Operator
+Next, we turn to line of Jackson Ader with JPMorgan. Please go ahead.
+Jackson Ader
+Thanks. Good evening, guys. First question is on the delay in the emulation and hardware, is this something that's just absolutely single customer specific or is it possible that it could be some symptom of a broader trend?
+Aart de Geus
+It was single customer specific.
+Jackson Ader
+Okay. Any -- just to follow up on that, any additional color on that, I mean, why the delay? Do you expected in, I think Rich asked earlier, what -- you expected in the first half or when the actual delivery will be, but any additional color you can give there?
+Aart de Geus
+No, we don't want to give color, because as you know, we always very cautious to not comment about specific customers. Maybe I can give a little color in a different dimension, which is we were quite diligent at finding opportunities to grow in a broader set of markets. And actually, if you look at our verification area and specifically the hardware, we did really, really well. And so, we have no doubt that the capabilities we offer, the very need for a lot of customers to run their software on prototypes where they don't have the real hardware yet, continues to be a great opportunity for us and we continue to both invest there and are bullish about the broader customer sets that we have.
+Jackson Ader
+Okay, thank you. That is actually helpful color. Then, switching gears to the Integrity business, the refining of the sales channel and looking to scale this thing to $500 million and beyond. So what do you think in the sales channel or sales processes needed to be refined relative to what you're doing in 2019? Any additional specifics you can give there?
+Aart de Geus
+Well, let me just take a first step back, given that we've had the unique experience of growing Synopsys literally through these phases as well. And I'm always thrilled by the fact that enterprises do go through different phases. And so, the $50 million company is very different than the $100 million and that in term is very different than the $0.25 billion [ph], and $500 million again is different. And the difference is essentially the complexity of how you manage not only internal product development and management, but also the external relationship with the customers. And this is certainly also true in the case of the Software Integrity group, because there too, there is also a bifurcation between large enterprise customers that typically are cautious and slow in adopting, but when they adopt they keep adopting and keep adopting and so they become over time the biggest spenders, versus many of the smaller agile companies that very quickly buy a few copies and then it's more ad hoc, how they expand. On top of that, you have the gradual broadening of geography, any of the startups that we acquired originally had certain geographies that they were focused on, we of course, are a global company and therefore open up broader domains.
+And then the third one, which is maybe more marked here that was in the semiconductor domain we originally was in -- were in is that they deal with individual verticals. And so, dealing with automotive is different than dealing with the financial sector or the health sector and so on. And so, you have sort of these multiple variables and now the question is, how do you deploy and manage your salespeople and support people, I should say against that backdrop of multiple dimensions? And that's just another way of saying, one continually learns and evolves and as we are looking now to Phase 2, which is the crossing of the $0.5 billion and beyond, that is essentially what we are talking about when we are saying, we have the opportunity to optimize our go-to-market again. And no doubt in 1.5 years, we will say it again.
+Jackson Ader
+Okay, all right. Thank you.
+Aart de Geus
+You're welcome.
+Operator
+And next, we turn to the line of Jay Vleeschhouwer with Griffin Securities. Please go ahead.
+Jay Vleeschhouwer
+Thank you. I'll ask both questions at the same time. First for you, Aart and then for, Trac. Aart, following up on the conversation we had when you were here in New York a couple of months ago, regarding the next big thing in EDA, you answered that prototyping, broadly speaking and new requirement and extraction would be the next growth driver for EDA. And by that you meant of course, not just hardware prototyping. And my question is, is this already showing itself in new business and how are you investing towards that since it's likely to be a multi-year phenomenon? And then secondly for Trac, you spoke of your largest customer in two separate ways, but we combine that and could you talk about the total business from the largest customer? In fiscal '18, according to last year's K, it was 15.4% of your business which worked out to just over $480 million and that was flat with '17, which have been up very strongly. So, many and now everything you just said about customer, did your business in fact grow either proportionately or in absolute terms? Thanks.
+Aart de Geus
+Okay, Jay. The next big thing and of course, next is always a function of short-term, long-term, medium-term, you name it. But we have to say, I sort of agree with my answer that I gave you a number of months ago, which is that the more systems we complex, the more it's necessary to essentially build mark-ups, we call those prototypes of them to see how well they work, because the working is often illustrated on how well the software runs and the challenges may very well be inside of the hardware. But in other words, you always have a very complex modeling proposition of how do you create a prototype of the hardware, the level of abstraction of the hardware to use that word and then run software on its agency, how fast is it? How much power does it consume, or there weird stops? What happens if something breaks, can you restart it if it's in the middle of some lock-up of things like that. And these things become a dramatically more important if the systems also impact life dangerous situations, such as driving a car or operating as some machinery. And it is very clear that a lot of the world is going is actually in that direction. So, how well have we done with that. Well, initially, we went after some markets that was considered to be extremely slow moving in stodgy and that was the automotive market, and that's quite radically changed a few years ago when two things happened. One is a car [indiscernible] Jeep and it was literally driven off the street by somebody using a cell phone. And secondly people suddenly saw the coming about of autonomous driving with all the potential and the challenges for security and safety.
+And it's been quite remarkable to see how the OEMs. So these are the end car companies have in term pushed on their Tier 1, which is their supply chain, which in terms pushes on the semiconductor guys which is their supply chain to now start putting all of these capabilities in model, so that they can assemble at long before the car is actually already has a prototype. And so we've been central to that and it's been quite rewarding to see how quickly this has advanced on an industry that fundamentally for good reason has to be slow, because it has to be safe.
+Now the concept I just described, actually happens in all of the more sophisticated electronic systems and this is only true also for a cellular phone that has a very short time to market where one can run the software on an emulator for example and actually discover surprises before I actually ships the product. So, that is one of the many directions that we are going into and it literally takes advantage of our entire stack of relationships in the supply chain and stack of relationships in the technology levels.
+Trac Pham
+Hi Jay, this is Trac. So to your second question, you will see in our 10-K filing in a couple of weeks that the revenue for our largest customer will be down in 2019, and that is strictly a function of the hardware decline. The rest of the business, EDA and IP, grew very well in 2019.
+Jay Vleeschhouwer
+Got it. Thank you. If I could squeeze in one more, perhaps, regarding your headcount. Your number of AE openings has increased significantly and particularly in the Americas where they've nearly tripled over the last year and up by about 60% over the last year in Asia, flat in EMEA. So, maybe comment on what's driving that growth in AE rex? And is it coincidental indicator or leading indicator? How are you thinking about filling what is your second largest function by openings after R&D?
+Aart de Geus
+Jay, you always give me the best summary of our hiring practices. But the increase of AEs invariably has to do with either products that are in deployment and need support as we harvest the opportunity and that's certainly the case in areas such as Fusion Compiler, custom and many of the place of verification, or it is a gradual rebalancing of the geography make up as different parts of the world grow different rates or have different needs at various times. It is rarely the needs to increase specific skills, because our teams are actually quite strong and very broad, but every so often, bringing in some specialists, let's say, for example, in the prototyping or in the intersection of hardware and software can be quite beneficial as well.
+So, the fact that we are hiring, I think you can take as a positive in general and adding much more, it probably enters the competitive knowledge space, I'll refrain from that. Thank you.
+Jay Vleeschhouwer
+Thank you.
+Operator
+[Operator Instructions] Next, we turn to the line of Jason Celino with KeyBanc Capital Markets. Please go ahead.
+Jason Celino
+Hi, thanks for taking my question. One, kind of tying back to Aart's comments about the SIG margins, 27% operating margin guidance for full year, on track to do the high 20s in fiscal '21. But how should we think about the design margins versus SIG margins? Because I think, Aart, you said that margins won't be as expensive in 2020, but then ramp again in 2021.
+Aart de Geus
+Yes, that's correct. I think we said that we hold SIG probably roughly flat and now of course that means if the rest of the ops margin for the Company growth and everybody has to chip in. And we have obviously multiple parts in the Company, everybody is sensitized to the operating margin that we want to achieve for the Company. And so all of the BUs and subgroups are all focusing on how do we get there, while at the same time not making any compromises for future growth. And so, you are probably aware that somewhat loosely, we used the rule of 40 as a guideline and so there is room for people to make improvements to get there. But on a strongly positive note, I think, Synopsys throughout management is not only sensitize to this desire, but very committed and has budget and plans to get there. So, from year to year, I think different BUs will get a little bit more or less of a reprieve as a function of the investment needed or corrections or whatever else we need to do, but in aggregate, we all know that we want to deliver on the numbers that we are guiding you towards.
+Jason Celino
+Okay, great. And then maybe a little more clarification if you can on some of the fiscal responsibility you'd see in your EDA side, because the guidance would suggest most of that improvement would have to come from that business?
+Aart de Geus
+Well, realize, of course, that if figures roughly 10% of Synopsys is tuned by definition, the rest of 90%, and we have multiple very different efforts in EDA and we have a relatively large, but still less than a quarter of the Company IP business. And so obviously, between those different groupings, they all have to contribute. And if I'm not mistaken, all but one of the businesses are heading towards improving ops margin, one of them is heading a little bit more towards growing the revenue, but in aggregate, and it's sometimes difficult to measure because they intertwine in the deals and so on. But in aggregate, it's all heading in the same direction, which has put a dent in the rule of 40.
+Jason Celino
+Great, thank you. I appreciate the color.
+Aart de Geus
+You're welcome.
+Operator
+Next, we turn to the line of Krish Sankar with Cowen & Company. Please go ahead.
+Krish Sankar
+Yes, hi, thanks for taking my question. I have two of them. Aart, I think in your prepared comments, you said the SIG group could be $0.5 billion in revenues next year. If that is the case, it looks like your Semi and Systems division going to grow only like 3%, which seems lower than historical. Is that a function of the Entity List or is there anything else going on there? And then I have a follow-up.
+Aart de Geus
+Sorry, if I was not clear enough, but my statement was that the next milestone is to pass $0.5 billion. I did not say that it would pass $1 billion next year. And so, we gave you a sense of the growth rate for SIG at 15% to 20%, which we think is a bit above the markets that it is in right now. And so, fundamentally, there is no real change in the past that Synopsys is on and all its components from what we did this year and the past year. We're fortunate to have a set of businesses that are all doing well, some are very profitable also. And so it's an aggregate improvement that manifest itself in the financial result largely because of many years of big investments and a number of, I think, really good acquisitions that got integrated well. So, we are continuing the pathway and if you want to get a different sense of Synopsys, then just graph our results over the last 10 years and then you'll see a very different level of stability of how we manage the Company.
+Krish Sankar
+Got it. It's very helpful, Aart. And then just as a follow up, a much more longer-term industry question. Given you guys have a good portion of FPGA, HAPS, hardware and also you completed the acquisition of the DINI Group recently, I'm kind of curious from your vantage point and it looks like five years or more than five years out, where do you stand on the durability of FPGAs for AI applications? Reduced down on the FPGA versus SIG debate.
+Aart de Geus
+Well, the AI field itself is a field that has its own specialty and many, many companies that all making different bets. And it's useful to take a small step backwards, which is fundamentally, AI has one need, which is much, much, much, much, much faster computation. Well, no matter how hard we push on Moore's Law and so on, that's hard to achieve. And so the answer by definition has to be therefore, architectures will become optimized for different applications. Now, architectures can mean chips, it can be groups of chips, it can be FPGAs, it can be a combination of things. And actually a number of the very large suppliers who provide combinations of processors together was graphics processors together was FPGA pieces, all with one objective optimize for an architecture that's appropriate for specific situation.
+And so, in many ways, we ourselves have been a user of these capabilities, because of course, we use a lot of computation for our software tools. But the hardware tools that we provide is our own way to say for certain tasks, such as for simulation, we can do much better on an emulator or FPGA board. So, I expect all of these technologies to continue to evolve to continue to be available in various combinations and the race will continually be on of how do you build machines that can do really well.
+My last comment is, we ourselves are the provider of tools to a vast, vast group of emerging AI companies. And this is encouraging, because I think those people will not give up for quite a while in trying new architectures and some will ultimately go into very large volume. And so, in many ways, we see a number of those companies as hard technology drivers for Synopsys. And business wise, we're doing very well with them.
+Krish Sankar
+Thanks, Aart.
+Aart de Geus
+You're welcome.
+Operator
+And speakers, we have no further questions in queue.
+Aart de Geus
+Well, given that, as you heard, we had a very strong '19. We have a great outlook for '20. The market around us, which was a bit soft last year, looks up slight bit. There are a lot of uncertainties as we all know, but meanwhile, I think we're executing well and this is also a good time to say thank you to you for your support. You're often provocative and stimulating questions and we'll be back with some of you in the next half hour or so. Thank you.
+Operator
+It does conclude our conference for today. Thank you for your participation and for using AT&T conferencing service. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

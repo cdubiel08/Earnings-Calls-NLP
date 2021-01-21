@@ -1,0 +1,1064 @@
+Tesla, Inc. (NASDAQ:TSLA) Q2 2018 Earnings Call August  1, 2018  5:30 PM ET
+Executives
+Martin Viecha - Tesla, Inc.
+Elon Reeve Musk - Tesla, Inc.
+Stuart Bowers - Tesla, Inc.
+Andrej Karpathy - Tesla, Inc.
+Peter Bannon - Tesla, Inc.
+Deepak Ahuja - Tesla, Inc.
+Robin Ren - Tesla, Inc.
+Jeffrey B. Straubel - Tesla, Inc.
+Jerome Guillen - Tesla, Inc.
+Todd A. Maron - Tesla, Inc.
+Analysts
+Antonio M. Sacconaghi - Sanford C. Bernstein & Co. LLC
+Joseph Spak - RBC Capital Markets LLC
+James J. Albertine - Consumer Edge Research LLC
+Adam Michael Jonas - Morgan Stanley & Co. LLC
+Pierre C. Ferragu - New Street Research LLP (US)
+Romit Jitendra Shah - Nomura Securities International
+John Murphy - Bank of America Merrill Lynch
+Alexander Haissl - Joh. Berenberg, Gossler & Co. KG (United Kingdom)
+Benjamin Joseph Kallo - Robert W. Baird & Co., Inc.
+Tim Higgins - The Wall Street Journal
+Zachary Shahan - CleanTechnica
+Operator
+Good day, ladies and gentlemen, and welcome to the Tesla Q2 2018 Financial Results and Q&A Webcast Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session, and instructions will follow at that time. As a reminder, this conference may be recorded.
+I would now like to introduce your host for today's conference, Mr. Martin Viecha, Senior Director of Investor Relations. Mr. Viecha, you may begin.
+Martin Viecha - Tesla, Inc.
+Thank you very much, Shiree, and good afternoon, everyone. Welcome to Tesla's second quarter 2018 Q&A webcast. I'm joined today by Elon Musk, JB Straubel, Deepak Ahuja, Robin Ren, our Head of Sales; Jerome Guillen, our VP of Trucks; and we also have our Autopilot team with us here, Andrej Karpathy, Director of AI; Stuart Bowers, our VP of Engineering; and Pete Bannon, our Director of Silicon Engineering.
+Our Q2 results were announced at about 1:00 PM Pacific Time in the Update Letter we published at the same link as this webcast.
+During this call, we will discuss our business outlook and make forward-looking statements. These comments are based on our predictions and expectations as of today. Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC.
+During the question-and-answer portion of today's call, please limit yourself to one question and one follow up.
+Before we jump into Q&A, Elon has some opening remarks. Elon?
+Elon Reeve Musk - Tesla, Inc.
+Hi. Thank you for joining. First of all, I'd like to say we're incredibly proud of the Tesla team for producing 7,000 Model 3, Model S and Model X vehicles in the last week of June. It was an amazing effort. It's an honor to work with such great team to produce that incredible result. It's like mind-blowing.
+We continued to achieve 5,000 Model 3s per week, or 7,000 combined S, X and 3, multiple weeks in July, showing that, so we're able to do this on a sustained basis. And we expect to, in the absence of a force majeure or some very unexpected event, be able to achieve an average of 5,000 Model 3s or above for Q3 and 2,000 Model S, Xs or above per week for Q3 as well. So essentially, 7,000 cars a week plus on average for Q3.
+That's an amazing jump from only a year ago. We were producing 2,000 vehicles a week. It's really kind of a mind-blowing leap forward for a manufacturing company. So, yeah, just incredible work by the team to do that. Many, many late nights, weekends, extreme amounts of effort and lots of smart ideas. It's amazing.
+One of the results you're seeing is that the Model 3 market share has surpassed all competitor premium midsized sedans combined. So, Model 3 market share is now a majority, in July, it was a majority of all premium sedans. That trend is, we think, likely to continue. We do not think it will stop there.
+I have Robin Ren here, who is our worldwide head of sales, to talk about some of the interesting elements that we're seeing in terms of cars that people are trading in, the sales and demand trends, it's looking really positive.
+We're also getting great feedback on Model 3 from our customers, and we're now delivering (04:13) Dual Motor and All-Wheel Drive versions and the Model 3 reviews are outstanding. Really couldn't ask for better reviews from some of the toughest critics in the world. And it's – yeah. The thing that we're really finding is that the more Model 3s we deliver to the field, it's actually causing parallel growth of our sales. So, we deliver a Model 3 to somebody, they love it, they tell all their friends, they're actually – really, our customers are our primary sales force. They love their car and take their friends for a drive and that's the thing that fundamentally drives our sales.
+But not everyone has a (04:59) Model 3 obviously, so we need to get the cars out there for test drives. As it is right now, not even all stores in North America have Model 3 for test drives. We prioritize getting cars to customers, but we're soon going to have Model 3s available for test drives in all stores and both the performance version and the rear-wheel drive version.
+So because a lot of people, they will not buy a car until they test drive it, which is not unreasonable. Although on Sunday when I delivered it, testing out like direct delivery, which I think is definitely the future, direct delivery from factory to customer's home or work or wherever they are, the guy who bought it had never actually even sat in a Model 3. I was like, wow, okay. I mean I said, well, how do you feel about the car now that you have it and you've driven it? He's like I love it. It's amazing. So, yes. It seems to be really well-received.
+Yeah. So, at a production rate of 7,000 cars a week, we believe we can be sustainably profitable from Q3 onwards. We're going to try to raise that rate of the Model 3 production steadily in the coming quarters and try to get to the 10,000 cars a week number as soon as we can. As we spent a lot of time debugging a wide range of manufacturing issues that the potential for our existing lines to be able to produce far more cars is much greater than expected.
+That by simplifying production lines, by speeding them up, by, in some cases, everything is being done manual instead of automatic, and in other cases, having be done automatic instead of manual, we've been able to achieve dramatic improvements to the output of existing lines, which means that our CapEx growing from 5,000 cars a week to 10,000 cars a week is a tiny fraction of the CapEx needed to grow from 0 to 5,000 Model 3s. This is, I think, very good news for capital efficiency of the company. And with (07:43), that it's going inform future mass market vehicles that we produce.
+And from an operating plant standpoint, from Q3 onwards, I really want to emphasize our goal is to be profitable and cash-flow positive for every quarter, going forward. Now obviously, if there's a big recession or there's a severe force majeure event that interrupts the supply chain, that's not always possible, but we're confident that in, provided the economy is roughly where it is today or reasonably good and there's not a big force majeure event that we – I feel comfortable achieving a GAAP income positive and cash flow positive quarter every quarter from here on out. That's a – there may be occasional quarters, where we pay back a big loan or something, where there may be just because we paid back a big loan. But absent that, it would be cash flow positive.
+So, once again, I want to thank the Tesla team for their incredible work and our customers for their support. Without the great people we have at Tesla and the customers who put their faith in us by buying our product, we would not be here today and, yeah, really never been more excited about the future of Tesla. We've got super exciting set of products to bring out in the future. And, yeah, I mean, sorry if I sound a little tired. I've been working like crazy in the body shop lately, but it's really going great, super excited. It's like, yeah, some good people.
+And a number of the executive team here. In particular I asked the three key leaders of the Tesla Autopilot team to be here. So, I think to go from here to see if Autopilot leaders of Tesla could introduce themselves and say a bit about what you're working on, what you're excited about in the future. Sorry if I put you guys on the spot or anything. I think we're making pretty radical advances in the core software technology and the division beyond that. And then very importantly with the Tesla self-driving chip technology that we've been working on for three years is finally coming to fruition. Pete Bannon is going to talk a lot about that. But it's a plug-in replacement for the existing computer and enables an order of magnitude improvements in operations per second or frames per second as a way to think about it.
+And we think this is really the key to Tesla full vehicle autonomy. And like I said, designed to be really easy to replace. I'll let Pete talk about that. So, let me start off like Stuart, Andrej, and then Pete.
+Stuart Bowers - Tesla, Inc.
+Okay. Hi. I'm Stuart.
+Elon Reeve Musk - Tesla, Inc.
+You need to talk louder by the way.
+Stuart Bowers - Tesla, Inc.
+Yeah, we'll talk extra loud. So I'm Stuart. Yeah, joined the team relatively recently. Incredibly excited to kind of see the foundation the team has built up until this point and we're building on top of that right now. So right now, a lot of the focus is on Autopilot v9, which is our sort of on-ramp to off-ramp solution that's going to automatically attempt to change lanes, understand what lane the car is in, understand the route the user wants to travel and take that route for the user and ultimately hand back control to that user which is kind of stay in (11:50) control.
+Elon Reeve Musk - Tesla, Inc.
+Integrated navigation. So, you'd like (11:54) by the way, a little tip for if you're driving Model S or X or 3, is if you just tap the Navigate button and just drag down, it will automatically navigate you to your home or work, depending upon where you are. That's a pretty cool feature.
+Stuart Bowers - Tesla, Inc.
+So, yeah, that's part of the focus right now. We're also kind of digging in on some new safety features. I think probably the thing which is most exciting for me, coming from the team is just seeing the foundation that's been built out over the last two years. I think Andrej will talk a lot about some of the perception and vision work we've done there with the data engine. That has sort of allowed us to build on top of that very, very quickly and I think we're all starting to see a new set of safety features that really only make sense in this world, we have extremely high understanding of what's happening around the vehicle.
+So, I think when I start thinking about like what gets me excited when I come into work, it's like, one, starting to introduce real aspects of kind of not just making the commute kind of reducing the drudgery or kind of the risk of commuting but also really (12:51) fun and the second is like dramatically improving safety in a way that you really can only do once you have this very nuanced understanding of the world around you with perception.
+Andrej Karpathy - Tesla, Inc.
+Hello everyone. My name is Andrej Karpathy, and I'm the Director of AI here at Tesla. In particular, I lead the vision team which is responsible for turning the video stream that we receive from all the cameras and the vehicle into an understanding of what is around us and around the vehicle. I worked with Neural Networks for about 10 years mostly as a (13:23). And what I'm really excited about is really building out this infrastructure for computer vision that underlies all the neural network training, trying to get those networks to work extremely well, and make that a really good foundation on top of which we build out all the features of the Autopilot like the features associated with the v9 release that's going to come up and that Stuart as mentioned.
+Peter Bannon - Tesla, Inc.
+Hi. This is Pete Bannon. My team...
+Elon Reeve Musk - Tesla, Inc.
+(13:49)
+Peter Bannon - Tesla, Inc.
+My team is leading currently the Hardware 3 development. The chips are up and working, and we have drop-in replacements for S, X and 3, all have been driven in the field. They support the current networks running today in the car at full frame rates with a lot of idle cycles to spare. So, I think we're all really excited about what Andrej and his team will be able to do with this hardware in the future.
+I think like one little anecdotal story was I gave a talk to his team on Hardware 3 last month explaining how it worked and what it was capable of, and then afterwards, one of the researchers came up to me. He was really excited, and he said, this is so exciting. I'm really excited about exploiting this hardware and he said, I think people are going to want to come and work at Tesla, just to have access to this hardware and to try it out because it's so exciting. So as a hardware designer, having excited software developers is the best. And it's a really fun place to work because I do get to work with my two primary customers, Stuart and Andrej, and making them happy is pretty fun.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, actually, Pete, maybe just – some people know about your background, but not everyone does. So if you could just like – Pete's a super humble guy, but it would be great just to – yeah. Talk about the stuff you've done before.
+Peter Bannon - Tesla, Inc.
+Let's see. I started working designing computers at Digital Equipment Corporation in 1984, back when they were refrigerator-sized, and I've been working on smaller and smaller designs ever since. I was a Intel Fellow working on a team for a little while, then I was VP of Architecture and Verification at PA Semi, which was acquired at Apple.
+I led the design of the first ARM 32-bit processor that went into the iPhone 5. I built the team that designed the first ARM 64-bit processor in the world which went into the iPhone 5S. And then I worked on performance modeling and performance improvements at Apple for eight years. And then two years later, I came to Tesla and designed the neural network accelerator that's part of Hardware 3 and helped architect the rest of the Hardware 3 solution that will be in the car next year.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, it may be worth articulating some of the details, design principles that explain why the Tesla AI chip, or AI computer, essentially, for the car is able to achieve an order of magnitude better processing than anything else that exists. Yeah.
+Peter Bannon - Tesla, Inc.
+Sure. So, like two years ago when I joined Tesla, we did a survey of all of the solutions that were out there for running neural networks, including GPUs. We went and talked to other people like at ARM that were building embedded solutions for running neural networks. And pretty much everywhere we looked, if somebody had a hammer, whether it was a CPU or a GPU or whatever, they were adding something to accelerate neural networks. But nobody was doing a bottoms-up design from scratch, which is what we elected to do.
+We had the benefit of having the insight into seeing what Tesla's neural networks looked like back then and having projections of what they would look like into the future, and we were able to leverage all of that knowledge and our willingness to totally commit to that style of computing to produce a design that's dramatically more efficient and has dramatically more performance than what you can buy today.
+Elon Reeve Musk - Tesla, Inc.
+Cool. Thanks. Yeah, I mean, essentially the key is to be able to run the neural net at a fundamental, at a bare metal level so that it's especially doing the calculations in the circuits itself and not in some sort of emulation mode which is how a GPU or a CPU would operate. So, you want to do basically a massive amount of localized matrix multiplication with the memory right there.
+So, it's a huge number of very simple complications with the memory needed to store the results of those complications right next to the circuits that are doing the matrix calculations. And the net effect is an order of magnitude improvement in the frames per second. Our current hardware, which – I'm a big fan of NVIDIA, they do great stuff. But using a GPU, fundamentally it's an emulation mode, and then you also get choked on the bus. So, the transfer between the GPU and the CPU ends up being one of the constraints of the system. So, the net effect is we're able to, with the Tesla computer – and we've been like semi-stealth mode basically for the last two to three years on this, but I think it's probably time to let the cat out of the bag because the cat's going to come out of the bag anyway.
+But it's an incredible job by Pete and his team to create this, the world's most advanced computer designed specifically for autonomous operation. And as a rough sort of (18:58) whereas the current NVIDIA's hardware can do 200 frames a second, this is able to do over 2,000 frames a second and with full redundancy and fail-over. So, it's an amazing design and we're going to be looking to increase the size of our chip team and our investment in that as quickly as possible. I think we have some of the best aces in the world, but I think we want to build on that even more.
+And it costs the same as our current hardware and we anticipate that this would have to be replaced, this replacement, which is why we made it easy to switch out the computer, and that's all that needs to be done. If we take out one computer and plug in the next. That's it. All the connectors are compatible and you get an order of magnitude, more processing and you can run all the cameras at primary full resolution with the complex neural net. So it's super kick-ass. Thank you for doing that.
+Peter Bannon - Tesla, Inc.
+You're welcome.
+Elon Reeve Musk - Tesla, Inc.
+Thanks for making nets and thanks for making the software. Anyway, basically I wanted to introduce three of the key people at Tesla that are doing this. I have huge respect and admiration for you guys and it's because of what you and your team's doing that Tesla will be successful in this arena. Thank you.
+Martin Viecha - Tesla, Inc.
+Thank you, Elon. Shiree, let's go to the first question.
+Question-and-Answer Session
+Operator
+Thank you. Our first question comes from Tony Sacconaghi with Bernstein.
+Antonio M. Sacconaghi - Sanford C. Bernstein & Co. LLC
+Yes. Thank you. I have one question and one follow-up, please. First, just on gross margins, it looks like S & X gross margins were up maybe 500 basis points sequentially and I'm wondering maybe you can articulate what drove that. And then, more importantly, it looks like you're calling for Model 3 gross margins to go from about maybe 3% this quarter to 15% next quarter. That's about a $6,000 cost out per car and I'm wondering if you can maybe help us understand what sort of the forces that drive that kind of improvement in a relatively short timeframe.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, absolutely. First of all, I'd like to apologize for being impolite on the prior call. Honestly, I think there's really no excuse for bad manners and I was violating my own rule in that regard. Certainly, I have some excuse. There are reasons for it in that I'd gotten no sleep and been working sort of 110-hour, 120-hour weeks. But, nonetheless, there's still no excuse. My apologies for not being polite on the prior call.
+Antonio M. Sacconaghi - Sanford C. Bernstein & Co. LLC
+I appreciate that. Thank you.
+Elon Reeve Musk - Tesla, Inc.
+And let's see. With respect to gross margin, I'll touch on that and then hand the rest to Deepak, but, certainly, when it's filling (22:11) up the production line, there are a tremendous amount of inefficiencies. There's a lot of hurry up and wait, where some parts of the production line move well. Then, one part doesn't and you have associates waiting around with nothing to do.
+There are parts that we thought were right but then it turns out that they weren't right. We got to send them back to the supplier. It's just like the whole sort of giant machine. It just needs to kind of lurch into a high pace and there's a lot of lurching, which is very inefficient. So, you end up having super high labor costs per car and it just takes time to sort of spool up this giant machine. Basically a production system is like a giant cybernetic collector and it moves as fast as the slowest part. So, as we address those slow parts and as we improve efficiency, then gross margin and so the profitability per car just improves dramatically. That's sort of at a high level. Deepak, do you want to add to that?
+Deepak Ahuja - Tesla, Inc.
+Elon, you described it extremely well. So just to sort of summarize, this was a major milestone for us in Q2 that the gross margin in Model 3 turned slightly positive and we feel really good about the path ahead. And as Elon said, it's driven predominantly by manufacturing cost efficiencies. The labor hours that we use to produce each car becomes less. The initial ramp-up costs that we have that are one-time, those inefficiencies disappear. Our fixed costs that are there that gets leveraged to a higher volume. So, all of that.
+Elon Reeve Musk - Tesla, Inc.
+Actually, a thing that can also happen is that if it turns out, let's say, the production part was either designed wrong or built wrong or there's something wrong with it, then on camera, on (24:16) emergency basis, we have to go with low volume tooling which can be produced quickly. But a part produced off of low volume tooling can easily be 10 times more than a part produced off of production tooling. And so, sometimes where it gets really bad, if you've got a machine something out of a block and has either that or going to make a car, then the cost of using low volume cost of use (24:45) of low volume tooling can be really nutty.
+Antonio M. Sacconaghi - Sanford C. Bernstein & Co. LLC
+Yeah.
+Deepak Ahuja - Tesla, Inc.
+And the journey just continues as we stabilize and grow production from these levels we achieve even more efficiencies. And Q3 also benefits with somewhat improved mix as we're going to sell more All-Wheel Drive and performance cars and in the long run as we continue to achieve those efficiencies on cost, our gross margins will continue to increase.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, I don't know if this trend will continue. We're trying to give you essentially all the information that at least we know of. But we're seeing roughly half of all customers choose the Dual Motor or All-Wheel Drive option, which is actually quite a good positive surprise.
+Deepak Ahuja - Tesla, Inc.
+Yeah, it's been heartening to see the mix in terms of what customers want. Robin can probably add more to that.
+Robin Ren - Tesla, Inc.
+Yeah. So, starting from end of June when we opened the configurator and invited existing reservation orders, we saw tremendous excitement and response from our customers. As Deepak just mentioned, we actually see more orders for the All-Wheel Drive Dual Motor car and performance cars combined than the rear wheel drives.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, we don't want to say like this should be assumed to be a continued thing. It's just the thing we are seeing now. Yeah.
+Robin Ren - Tesla, Inc.
+Correct. Another thing I want to point out is that we are actually – since we opened the configurator to the general public in early July, we are seeing an increased demand coming from people who do not currently hold a reservation. I think that's something that we found super exciting, because these are the people who actually had no idea about Model 3 and they heard about Model 3 is available to order, many of them requested test drives and since early July, we have over 60,000 test drive requests in the U.S. alone and these people come into our stores, do the test drive, and they become super excited and they decide to order the car.
+So, we believe that the strong demand coming from especially the non-reservation orders is going to dramatically increase as we increase our test drive population. To give you an example, three weeks ago, we had only eight stores having test drive cars to Elon's point earlier. Now we have over 90 stores having test drive cars.
+Antonio M. Sacconaghi - Sanford C. Bernstein & Co. LLC
+Okay.
+Elon Reeve Musk - Tesla, Inc.
+It's worth mentioning – just an interesting little bits of information that Robin was telling me. I'd just like to also (27:34) Robin on doing a great job running worldwide sales. Nice to have you in this role and the awesome work done in China was really some next level stuff. Anyway, Robin was born and raised in Shanghai and has been – along with Tom and Grace (27:55) and other members of our team in China has been sort of instrumental in establishing the China factory and making sure that gets done right and having a great relationship with the government. And so it's nice work in that regard. It's really – I think some of the things people don't expect like what are the top five trading cars for Model 3?
+Robin Ren - Tesla, Inc.
+Yeah, this is very interesting. So, we looked at what people who are buying Model 3 cars in the United States, what cars they are trading in. What we found is through this year, from January to July, the top five non-Tesla cars people are trading in to get into a Model 3, they are Toyota Prius, BMW 3 Series, Honda Accord, Honda Civic and Nissan Leaf.
+Elon Reeve Musk - Tesla, Inc.
+Really surprising.
+Robin Ren - Tesla, Inc.
+Yeah. They are surprising because they are not the traditional premium sedans. They are actually – many of them are mainstream midsized sedans.
+Elon Reeve Musk - Tesla, Inc.
+Right. And we're obviously at this point not yet selling our $35,000 car, so this is promising for the future. All right. Cool. Next question?
+Operator
+Thank you. Our next question comes from Joseph Spak with RBC Capital Markets.
+Joseph Spak - RBC Capital Markets LLC
+Hi. Good afternoon. Thanks. Maybe we could tackle some of the commentary about the Gigafactory coming in China. When you first announced the Gigafactory 1, I think you said that was going to be about a $5 billion investment, and you mentioned some volume numbers associated with what you think you could do in China. So we do some extrapolation, looks like maybe 15 gigawatt hours of initial capacity. I'm wondering if you could also do a linear extrapolation on the costs you think you need for that factory.
+Elon Reeve Musk - Tesla, Inc.
+Sure. And I would also like to apologize for being impolite on the last call with you. It's not right, and hope you accept my apologies.
+Joseph Spak - RBC Capital Markets LLC
+Thanks.
+Elon Reeve Musk - Tesla, Inc.
+So with respect to Gigafactory CapEx, I think we learned a tremendous amount with Gigafactory 1, and we're confident that we can do the Gigafactory in China for a lot less. I think it's probably closer to – this is just a guess, but probably closer to $2 billion, and that should be at a higher – and that would be sort of at the 250,000 vehicle per year rate.
+So I think we can be a lot more efficient with CapEx, and that would include at least a factory module and pack production, body shop, paint shop and general assembly. Might even be less than that, but that's about the right number for that. And then cell production is something we're still figuring out with respect to the Shanghai factory.
+JB, would you like to add to that?
+Jeffrey B. Straubel - Tesla, Inc.
+Yeah, I'd agree with all that. We found a surprising number of ways to improve efficiency and speed and density as well at Gigafactory 1, and all those lessons will absolutely be shared with Gigafactory 3. The teams are already of course beginning to collaborate and start to figure out ways to do this more efficiently and with less CapEx than last time. Yeah.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, I think, we – like less than half is like would be a good estimate. And maybe a lot less than half, but not more than half, would be a fair estimate for CapEx to get to that 250,000 level. So it's just – we just learned a tremendous amount about manufacturing, it's like – it's definitely burned out a lot of neurons, yeah, mental scar tissue, it's like next level, but on the plus side we really know a lot about volume manufacturing at this point.
+Jeffrey B. Straubel - Tesla, Inc.
+I mean, there are so many specific examples, but even in just recent weeks and months, we found some – certain areas of production that have been very capital intensive that we've been able to speed up with almost no additional CapEx by maybe 20%, even 25% or 30%.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, kind of crazy. Including on the cell – including the cell production.
+Jeffrey B. Straubel - Tesla, Inc.
+Yeah, just by challenging some of the initial assumptions, the specifications, tweaking the controls and software.
+Elon Reeve Musk - Tesla, Inc.
+Look, what really matters, what actually doesn't matter, things we think matter, and some of it actually ends up not mattering at all.
+Jeffrey B. Straubel - Tesla, Inc.
+And that's with basically zero CapEx.
+Elon Reeve Musk - Tesla, Inc.
+Yeah. Yes.
+Jeffrey B. Straubel - Tesla, Inc.
+So as you start to add very tactical, strategic CapEx to the existing lines, that's how we can get to something close to double or beyond with a really, really small increment.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, obviously one of the keys to success on the Model 3 production was the GA4 thing, which was led by Jerome. And General Assembly is key, and doing the sort of zone one, two, semiauto lines, which were critical because we had this fundamental failure especially in zone one – zone two of factory module production. Thank you, Jerome. It turns out Jerome was pulling some pretty incredible rabbits out of the hat. That was amazing.
+Jerome Guillen - Tesla, Inc.
+Thank you.
+Elon Reeve Musk - Tesla, Inc.
+And people make fun of (33:28) our tent, but by the way our tent is amazing and this is not like – when people like say tent, they'll think it's like some sort of – something made by REI to go camping. This is a tent that is actually commonly used as a permanent structure. It's a giant thing that is very commonly used as a permanent structure and we just had to come up with a creative solution because GA3 was not going to be able to make the rate and so we had to come up with some ideas, and tell people how that all transpired. It's interesting, if you want to...
+Jerome Guillen - Tesla, Inc.
+Yeah, thank you. It was a fun project actually.
+Elon Reeve Musk - Tesla, Inc.
+Yes.
+Jerome Guillen - Tesla, Inc.
+So not only was it producing good results, but a lot of people contributed from different engineering groups and had a lot of fun in the process. We set out...
+Elon Reeve Musk - Tesla, Inc.
+(34:26) some of the people (34:28). It's cool. It's great. It is like (34:30) this is really satisfying about building a car.
+Jerome Guillen - Tesla, Inc.
+We just wanted to create an assembly line that would be very easy and very straightforward. So, it's a straight line. Very simple. Car enters at one point and it's finished at the other end. Very simple access on all sides. Very simple tooling that we reused for most of – actually, nearly all of it is systems and tools that we discarded from previous SNX or for Model 3.
+Elon Reeve Musk - Tesla, Inc.
+Especially Model 3. Like it was probably we had two weeks to solve this problem, which is like quasi impossible. So, we actually didn't have time to order new equipment, because it would have taken too long to arrive. So, we took the conveyors that we'd discarded from the GA3 line, which didn't work or was way too complex to actually do our products. (35:31)
+Jerome Guillen - Tesla, Inc.
+And we amplified, repurposed them, make them sturdy for what was needed. And...
+Elon Reeve Musk - Tesla, Inc.
+Well, I think like the really cool idea was putting them on the 1% grade. So it's like technically the conveyors for parts delivery to GA3 were not graded to be able to move something as heavy as a car, so we made it downhill and on a 1%-downward grade with the car at the top. So then, you can actually overcome the transport...
+Jerome Guillen - Tesla, Inc.
+Gravity helped.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, gravity. So, basically, even on your slides, you can do – accomplish a lot.
+Jerome Guillen - Tesla, Inc.
+Yeah, it's pushing the car.
+Elon Reeve Musk - Tesla, Inc.
+Exactly.
+Jerome Guillen - Tesla, Inc.
+No. And something that I'm particularly happy about is that we installed the quality team at the end of the line and we wanted to have at least as high standards on this new line as in the other one, because it is so simple and straightforward, they can run very quickly to any point in the line if there is any potential concern and address very quickly. There is no maze to move around or identify where something happened.
+And the quality of the cars that come out of this structure is at least as good and we make all the performance cars on this particular line and they seem to be doing quite well. So, this is a very pleasant surprise and the associates seems to be very happy and engaged in that particular area. So, this may be a model of how we may want to start general assembly for future vehicles, at least start and we can always add further automation and complexity.
+Elon Reeve Musk - Tesla, Inc.
+And something that's like somewhat counterintuitive is that this actually has fully considered fewer labor hours per car than the GA3 system. And just to elaborate on what Jerome was saying, where we have parts delivery to GA4, the truck literally just backs up to the side of the line, where there is like a door in the tent. And then, that is used to unload parts from suppliers directly to where they are needed on the line.
+So there's no intermediate assistant. Whereas for GA3, they're unloaded, they're put in a warehouse, then they're repackaged from the warehouse into these totes, which we actually have 220 people, something like that, across all shifts whose only job it was to repackage parts from the boxes that came in from suppliers to the boxes – to these totes that go into the lifters that go up into GA3. That's literally all they do is move things from one box to another box, and we don't need that at all on GA4.
+Jerome Guillen - Tesla, Inc.
+All gone.
+Elon Reeve Musk - Tesla, Inc.
+All gone, yeah. And there's a tremendous amount of 24/7 robotics technicians that are constantly trying to make the machines have uptime. That's very expensive and that's where we figured like not having to maintain all these robotic systems, that's a big cost savings as well. And now we're going to be gradually adding simple automation into GA4 to make it easier to build a car and better sort of labor saving devices, but it's just fundamentally – it's already at an efficiency level greater than GA3, which is pretty impressive.
+Martin Viecha - Tesla, Inc.
+Joe, do you have a follow-up question?
+Operator
+Our next question comes from James Albertine with Consumer Edge.
+James J. Albertine - Consumer Edge Research LLC
+Good afternoon, and thank you for taking my question. And appreciate all the color you've been providing, wanted to dig a little bit deeper, though, in terms of capital spending plans. Considering your growth you've identified in China with the Model Y, we believe also in the EU, it's been discussed about a factory there. How do you plan to fund all of this growth without going back to the capital markets to raise funds? And can you verify for us whether or not there is a notice from a regulator that would prevent you from raising outside capital? Thanks.
+Elon Reeve Musk - Tesla, Inc.
+We do not – we will not be raising any equity at any point, at least that's – I have no expectation of doing so, do not plan to do so. For China, I think, our default plan will be to use essentially a loan from the local banks in China and fund the Gigafactory in Shanghai with local debt, essentially. And we certainly could raise money, but I think we don't need to and we – yeah, I think, it's better to – it is better discipline not to.
+Deepak Ahuja - Tesla, Inc.
+Yeah, we're executing on an operating plan that keeps us sufficiently self-funded despite our CapEx needs and our debts maturing, and still keep a very healthy balance on our balance sheet.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, our default plan is we pay – we start paying off our debts. I don't mean refi-ing them, I mean paying them off. For example, there's a convert that's coming due soon, a couple hundred million, (42:13) $900 million, (41:28) something like that. We expect to pay that off with internally generated cash flow.
+Deepak Ahuja - Tesla, Inc.
+And still be – still have a healthy cash balance.
+Elon Reeve Musk - Tesla, Inc.
+Yeah.
+Todd A. Maron - Tesla, Inc.
+And to answer the other question, there is no such notice from a regulator.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, I'm not sure what you're talking about, but there is no such notice from a regulator.
+James J. Albertine - Consumer Edge Research LLC
+Very good. Thank you very much.
+Martin Viecha - Tesla, Inc.
+Let's go to the next question, please.
+Operator
+Thank you. Our next question comes from George Galliers with Evercore.
+Martin Viecha - Tesla, Inc.
+Hi, George. Are you on the line? Okay. Let's go to the next one.
+Operator
+Thank you. Our next question comes from Adam Jonas with Morgan Stanley.
+Adam Michael Jonas - Morgan Stanley & Co. LLC
+Hey, everybody. First, there's so much love and respect for colleagues and Wall Street analysts on this call, it's almost – it is lifting my spirits. What can I say? I got two questions. The first is for the Autopilot team. There's an argument that a fully autonomous car is essentially like a terminator that is programmed to save lives in highly complex terrestrial environments and that this same technology with a few tweaks have some pretty obvious military capability. Do you see any risk that U.S. companies will ultimately not be allowed to operate weapons grade AI-based technology in a market like China and vice versa?
+Elon Reeve Musk - Tesla, Inc.
+Well, this has never come up. I wouldn't call it weapons grade. It's just like the car is trying to drive and if anything, the autonomous cars will be pretty easy to bully because they'll be optimizing so much for avoiding collision. So that'll be more of a challenge than anything else is as soon as somebody sees that the car's autonomous, they know they can like cut them off and the car is going to do everything it can avoid a collision. So it's like that'll actually be probably a bigger challenge than anything else, but we've not encountered anything of the nature of what you're saying.
+Adam Michael Jonas - Morgan Stanley & Co. LLC
+So you don't see autonomous cars as a potential germination or training grounds for things that would have a national security or military interest? Okay. Maybe a follow-up, Elon, and my last question, who do you think would be a more formidable competitor over time, BMW or Amazon?
+Elon Reeve Musk - Tesla, Inc.
+For Tesla?
+Adam Michael Jonas - Morgan Stanley & Co. LLC
+For Tesla.
+Elon Reeve Musk - Tesla, Inc.
+I don't think either of them are likely to be. As far as I know, I'm going to be pretty shocked if Amazon got into the car business, but I think BMW has great engineering. And it's good to see that they're making some investments in electrification. Hopefully, they do more of that. And I'm not sure where they stand on autonomy. It's not on our radar from an autonomy standpoint.
+Adam Michael Jonas - Morgan Stanley & Co. LLC
+Thanks a lot.
+Martin Viecha - Tesla, Inc.
+Okay. Let's go to the next question.
+Operator
+Thank you. Our next question comes from Pierre Ferragu with New Street Research.
+Pierre C. Ferragu - New Street Research LLP (US)
+Thank you for having me on. So I wanted to make sure we understand well how you stop burning cash going forward, in coming quarters. And my understanding is that an important moving part here, probably the most important one is a positive impact of the ramp of the Model 3 on your working capital. And so I did some quick math on the quarter and I see your favorables increased by $430 million, while your risk level didn't move much which makes sense because you get paid on the spot and you pay your suppliers only on a 60 day notice or more. And so if I divide that by the number of incremental cars you've been producing in the quarter, I get to $23,000 per car.
+And of course my question is whether this is a good way to think about it, which means that going forward when we move into Q3 and Q4 every additional car, every additional Model 3 you're going to produce you're going to bump up payables by something in the region of $20,000 and that's going to be the main driver getting you to breakeven and to stop burning cash.
+Deepak Ahuja - Tesla, Inc.
+Deepak here. I mean, there are many factors. Clearly, the working capital benefit of the difference in the payable terms versus collecting cash is one of them. But also, it's our gross margin improvement on the business. With the – it's the higher volumes and the higher gross margins, I'm thinking higher gross profit, I'm stating the obvious here on Model 3. Our SNX volumes are increasing too in the second half. That's going to help us significantly. And all of our other businesses are improving their profitability.
+While our OpEx is staying essentially flat, so massive leverage in the business. So when you combine all of that, that's what is giving us the cash flow from operations to fund the rest of our business and grow cash. I'm stating the obvious, but just sort of summarizing the whole point. Yeah.
+Pierre C. Ferragu - New Street Research LLP (US)
+In terms of follow-up on EP – sorry. Go ahead.
+Elon Reeve Musk - Tesla, Inc.
+Sorry. What was your question?
+Martin Viecha - Tesla, Inc.
+Sorry, can you repeat the follow-up? Sorry Pierre, can you repeat the follow-up?
+Pierre C. Ferragu - New Street Research LLP (US)
+My follow-up was on in terms of order of magnitude, does like $20,000 per car of payables boost over a 60-day period, does that sound like something that makes sense or am I missing other moving part?
+Deepak Ahuja - Tesla, Inc.
+It's rough order of magnitude correct, yeah.
+Pierre C. Ferragu - New Street Research LLP (US)
+Excellent. Thank you.
+Martin Viecha - Tesla, Inc.
+Okay. Let's go to the next question.
+Operator
+Thank you. Our next question comes from Romit Shah with Nomura Instinet.
+Romit Jitendra Shah - Nomura Securities International
+Yes. Thanks very much. I guess my question is for the Autopilot team. We've been looking forward to this fully autonomous coast-to-coast drive and, Elon, I think you sort of said on previous calls if I can paraphrase that the team has been focused on developing a full self-driving suite that would work basically on all different kinds of road conditions. And I'm just curious, what's holding back that capability today to go coast to coast? And are we closer now that you've strengthened the compute technology?
+Elon Reeve Musk - Tesla, Inc.
+Yeah, we can do a coast to coast drive, especially if we – like if we pick a specific route and then write code to really make that route work, we could do a coast to coast route drive, but that would be kind of gaming the system. And I think it's really important for the autopilot team to be focused on fundamental safety of the existing features.
+So that's – the focus is really massively on safety of existing features. Then there's an advanced dev role that can do things like recognize traffic lights and stop signs and make hard right turns and that kind of thing, but it's not at the safety level that's considered okay for release.
+So that – yeah, because it really, you want many lines of reliability for anything that's released to end customers. So I don't want to take the team off that until we feel like we've really got everything as best we can for the core functionality.
+Stuart, you want to add to that?
+Stuart Bowers - Tesla, Inc.
+Yeah, I mean, I think the big thing I would say is to reiterate Elon's point. There's no question you can kind of build a demo around this stuff. The challenge right now for the team is just increasing the safety and utility of autopilot to over 250,000 cars we have today and pushing more out after that.
+So I think when we look forward to what the next probably 6 to 12 months look like, it's taking those same kind of features we've been working on, probably deploying them in the form of active safety features. That's like a thing we can do already to understand like – use this rich understanding of the environment to actually try to keep you safer, to either beep or brake. And then also, of course like one huge advantage that we have is we can understand what humans actually did in these vehicles and test our software to make sure that we would have made decisions that were similar if not safer. So that's going to be a huge part of what we do over the next probably two quarters.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, that said, we might be able to pull off coast-to-coast demo before the end of the year if we – but really like right now Subaru (50:51) has not focused on the version 9 software release which has got a number of really cool things in it. And we're hoping to get that out to early access program in about four weeks and then broadly in September. That's the hardcore focus right now, and that will certainly include some significant advancements in autonomy. And then once that's out and stable, I think that could be a good time to work on the coast-to-coast drive.
+Romit Jitendra Shah - Nomura Securities International
+I don't know if you guys have shared what attach rates are for autopilot. And just as my follow up, I guess I'm curious what you can do to increase the number of cars that have that functionality. It would seem like the effects of auto margins and cash flows could be pretty positive.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, I think it's extremely powerful once people are comfortable using the technology and see just how much utility it brings. I think that is a very significant potential for margin gain in the future, but it's contingent on that functionality really making a difference. I think we will really start to see some of the breakthrough stuff in about a month or so.
+Martin Viecha - Tesla, Inc.
+Okay. Let's go to the next question.
+Romit Jitendra Shah - Nomura Securities International
+Thank you.
+Operator
+Thank you. Our next question comes from John Murphy with Bank of America.
+John Murphy - Bank of America Merrill Lynch
+Good afternoon. Just a first question. Is it fair to assume the GA4 in the tent is now essentially permanent? And if so, is this potentially a new model for capacity and capacity additions that might be much more capital efficient over time?
+Elon Reeve Musk - Tesla, Inc.
+What do you think, Jerome (52:44)?
+Jeffrey B. Straubel - Tesla, Inc.
+It's permanent for now until we come up with something different or better, but personally, I think it's a good model to start assembly of any product. Gives a lot of flexibility, and then we can build and iterate over it. Yeah.
+Elon Reeve Musk - Tesla, Inc.
+Like, necessity is the mother of invention, and when you have to do something quickly, then you just don't have time to spend a lot of capital. So it forces you to be capital efficient.
+Jeffrey B. Straubel - Tesla, Inc.
+Yeah, it's taught us a lot of lessons on how to be capital efficient in the general assembly area. And so, in that sense, those lessons will carry forward, John.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, I think so, it's still by and large we'll be aiming for steel-frame buildings to be clear. It's not like (53:35) just become tents everywhere. Yeah.
+Jeffrey B. Straubel - Tesla, Inc.
+I mean the tent itself might be a little bit of a distraction from actually the focus of what's happening inside. And then the methodology...
+Elon Reeve Musk - Tesla, Inc.
+Yes. Exactly.
+Jeffrey B. Straubel - Tesla, Inc.
+And that's a similar methodology that we've kind of reverted back to and then moved forward from in the module, where we simplified and then did a very, very linear intuitive process that was a bit more manual and then have automated and scaled that up as we understand it and get good control of it. And I think that's a lesson that we're taking to heart broadly across other things that we're going to do in the future and it's an efficient way to scale up.
+John Murphy - Bank of America Merrill Lynch
+I mean, is that replication of that simplicity why you think Shanghai could be that much less costly and that then Model Y capacity might be that much less costly to add?
+Elon Reeve Musk - Tesla, Inc.
+Yeah, Model Y is sort of a whole separate thing but it's definitely one of the elements that convinced us that we can scale up quickly and at low CapEx in Shanghai, where we do an improved version of GA4. And then, we're also figuring out how to make the paint shop a lot simpler and general assembly a lot simpler. And after this call, I'm headed back out to the...
+Jeffrey B. Straubel - Tesla, Inc.
+Body shop.
+Elon Reeve Musk - Tesla, Inc.
+The body shop and making the body shop a lot simpler.
+Jeffrey B. Straubel - Tesla, Inc.
+Making it a lot simpler.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, we can really simplify the body shop, man. Wow. And there's a lot that we can really easily improve like design to manufacturing and changing some of the joining approaches that we use and actually making the car lighter, cheaper and better and actually stabler. Yeah, it's really, (55:20) safe already, but yeah.
+Jeffrey B. Straubel - Tesla, Inc.
+Maybe one other point, just to follow up quickly. I think some people have taken this as like a walk back from automation, which is not really accurate.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, exactly.
+Jeffrey B. Straubel - Tesla, Inc.
+This is basically, I mean, a more thoughtful and focused way to apply automation to the actual issues that matter most.
+Elon Reeve Musk - Tesla, Inc.
+Yes. That's well said. Actually, it's really worth emphasizing JB's point here. Yeah. We're seeing a gain.
+Jeffrey B. Straubel - Tesla, Inc.
+Yeah, it's not an overall reduction in automation. It is a focusing of our efforts automating the processes and the value-add processes that matter the most and I think we got maybe a little bit distracted on this first round automating a lot of things that added complexity that didn't necessarily speed up. And...
+Elon Reeve Musk - Tesla, Inc.
+Way too fancy.
+Jeffrey B. Straubel - Tesla, Inc.
+And we can save...
+Elon Reeve Musk - Tesla, Inc.
+Start simple and get fancy later. Fancy's going to bite you in the ass.
+Jeffrey B. Straubel - Tesla, Inc.
+But it's not like we're referring to the dark ages of all manual everything. That's not at all the case.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, I mean, Gigafactory is ...
+Jeffrey B. Straubel - Tesla, Inc.
+Massively automated.
+Elon Reeve Musk - Tesla, Inc.
+Massively automated. It's pretty crazy. And the body production is also heavily automated, almost entirely robots. So it's a mixture of people and automation. There's so much that goes into producing a car going from raw metal and plastic and glass to an actual finished car. And, yeah, as JB was saying, the vast majority of that is highly automated.
+John Murphy - Bank of America Merrill Lynch
+Okay. If I can sneak in one quick follow-up? I mean, when we look at the grosses on the Model 3, you're saying 15% in 3Q, 20% in 4Q and I think the ultimate target is 25%. I mean, what are the average transaction prices you guys are assuming? I mean, it sounds like they are going to be bit higher earlier but is that 25% gross ultimately still built around the low-40,000 ATP?
+Elon Reeve Musk - Tesla, Inc.
+Yes.
+John Murphy - Bank of America Merrill Lynch
+Okay.
+Elon Reeve Musk - Tesla, Inc.
+The simple answer is yes.
+Deepak Ahuja - Tesla, Inc.
+It'll be lower ASPs than what we have today, clearly, and we are having a richer mix of All-Wheel Drive, as Elon alluded to earlier, so that's going to help, but yeah. 25% is still the target that we have ahead of us.
+Elon Reeve Musk - Tesla, Inc.
+I'm highly confident that it may not be Q1 but I would be shocked if it's not Q2 that we get to 25%.
+John Murphy - Bank of America Merrill Lynch
+Great. Thank you very much.
+Martin Viecha - Tesla, Inc.
+Thank you. Let's go to the next question.
+Operator
+Thank you. Our next question comes from Alex Haissl with Berenberg.
+Alexander Haissl - Joh. Berenberg, Gossler & Co. KG (United Kingdom)
+Good evening, everyone, and thanks for taking the question. I would like to come back to the point made on the manufacturing efficiencies. I mean, (58:10) two main challenges for Tesla but also for the rest of the industry is the manufacturing parts, which has been overcome by a lot of companies already, with the second one being the technology part. My question is how would you describe the learning curve of the manufacturing process versus technology and what is really the pace of advancement you're making? Because it looks like on the manufacturing side the curve maybe has meaningfully accelerated here. Thank you.
+Elon Reeve Musk - Tesla, Inc.
+Well, I don't really know actually how others do it to be totally frank. I just know that the way we – I see the way we are doing it and I'm told that this is how others do it and we're able to find ways to make it much better. I don't know what the delta would be though.
+Jeffrey B. Straubel - Tesla, Inc.
+We also don't really I think differentiate it quite the way maybe you're implying. I mean, technology and manufacturing are sort of one and the same in many cases and we're treating a lot of the manufacturing problems as a technology problem.
+Elon Reeve Musk - Tesla, Inc.
+Yeah. Exactly.
+Jeffrey B. Straubel - Tesla, Inc.
+And applying our design teams, our technology teams, if you want to call them that, to solving those issues. So I think the learning curves in some ways are quite similar.
+Elon Reeve Musk - Tesla, Inc.
+Yeah. In fact, it's amazing how much of production is actually software. We're really quite good at software relative to other car companies and manufacturing at volume is mostly a software problem. I think that was not well appreciated.
+Jeffrey B. Straubel - Tesla, Inc.
+I think maybe one other lesson learned is that it's obviously not the best approach or best efficiency to outsource some of that development.
+Elon Reeve Musk - Tesla, Inc.
+Yeah.
+Jeffrey B. Straubel - Tesla, Inc.
+Some of the areas that we struggled the most through the Model 3 ramp were those where we had perhaps less visibility, and less control, and less direct kind of skin in the game on how those production lines were designed and built.
+Elon Reeve Musk - Tesla, Inc.
+And these are cases where we took – we engaged with companies that were supposed to be world class experts in automotive production and we just assumed that they would do stuff that worked but it didn't.
+Jeffrey B. Straubel - Tesla, Inc.
+So that learning curve often involves Tesla coming directly in, understanding the process intimately, simplifying it, and then essentially doing our own design or changes to the lines that were built. I think that's a key learning point that we've taken and I think the way that we can do this a lot more efficiently in the future is doing that approach from the start.
+Elon Reeve Musk - Tesla, Inc.
+Just having that very rapid iteration between design and production is incredibly helpful and we understand for example, what are the rate limiters, what makes it hard to produce battery modules. We came up with a new design that achieves the same outcome, that's actually lighter, better, cheaper and will be introducing that around the end of this year, probably reach volume production on that in Q1 or something. That will make the car lighter, better, and cheaper and achieve a higher range. That line is under construction, will be active in about six months.
+Jeffrey B. Straubel - Tesla, Inc.
+We did this somewhat the first time around but now there's I think even more exciting understanding of the value of having those – as Elon said, having the design engineers just working intimately with automation and line engineers, simplifying the process as they're designing the product.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, I mean, because we're sort of desperate to try to get the production working, we actually took a design engineering team and had them work in the factory and improve it, work on production and it's given them tremendous insight into how they need to change the designs in the future to make it easier to produce because you feel the pain directly. Once you feel the pain, like okay, didn't realize I was torturing people with my terrible design. Now I know.
+Martin Viecha - Tesla, Inc.
+Great. Let's go to the next question.
+Operator
+Thank you. Our next question comes from Ben Kallo with Baird.
+Benjamin Joseph Kallo - Robert W. Baird & Co., Inc.
+Elon, (1:02:44) sunglasses.
+Elon Reeve Musk - Tesla, Inc.
+Hello.
+Benjamin Joseph Kallo - Robert W. Baird & Co., Inc.
+Douglas Adams. Can we do more Douglas Adams.
+Elon Reeve Musk - Tesla, Inc.
+Sure.
+Benjamin Joseph Kallo - Robert W. Baird & Co., Inc.
+And less everything else.
+Elon Reeve Musk - Tesla, Inc.
+Sure. He is one of my favorite authors.
+Benjamin Joseph Kallo - Robert W. Baird & Co., Inc.
+And mine too. Deepak, so after July here, how close are you to cash flow positive?
+Deepak Ahuja - Tesla, Inc.
+So your question is after July, how close are we to cash flow positive?
+Benjamin Joseph Kallo - Robert W. Baird & Co., Inc.
+Yeah, you have July under the books here, so how close are you to cash flow positive?
+Deepak Ahuja - Tesla, Inc.
+Yeah, well, we don't have let me tell this point, one, we don't have July results done but it doesn't matter exactly where we are in the month of July. What really matters is over the quarter because it depends on deliveries, depends on production, many factors. So we will be significantly cash flow positive for the quarter. I think that's what really matters.
+Elon Reeve Musk - Tesla, Inc.
+And like the logic question is like do we have like a low balance in the bank? The answer is no, we've got – we're in no – we're not in any kind of cash shortage at all.
+Deepak Ahuja - Tesla, Inc.
+Yeah, that's a simple answer.
+Elon Reeve Musk - Tesla, Inc.
+Are we running low on money? The answer is no.
+Benjamin Joseph Kallo - Robert W. Baird & Co., Inc.
+No, no, no. That's not the question. It's just as you're here and you have – you're selling your higher priced cars for better margin, how's the third quarter look for what you said, for being cash flow positive?
+Elon Reeve Musk - Tesla, Inc.
+Yeah, I'd say highly confident of being cash flow positive and being GAAP profitable in Q3.
+Deepak Ahuja - Tesla, Inc.
+We're sitting here today saying that based on what our expectation is. So yes, sitting here on August 1.
+Elon Reeve Musk - Tesla, Inc.
+Is there anything we know at the end of July, it's one month in, we're highly confident of being cash flow positive and GAAP profitable in Q3 and Q4. Now there could be force majeure like earthquake, touch wood, but something like that or massive recession all of a sudden, but in the absence of that, of really unusual...
+Deepak Ahuja - Tesla, Inc.
+Straightforward.
+Elon Reeve Musk - Tesla, Inc.
+Macro events, yeah.
+Benjamin Joseph Kallo - Robert W. Baird & Co., Inc.
+Thanks, guys.
+Martin Viecha - Tesla, Inc.
+Great. Thank you very much. Let's go to a journalist question.
+Operator
+Thank you. Our next question comes from Tim Higgins with Wall Street Journal.
+Tim Higgins - The Wall Street Journal
+Hi. Thanks for the call. Question for you. Do you still plan to make a total of 1 million vehicles in the calendar year of 2020?
+Elon Reeve Musk - Tesla, Inc.
+I think so, yeah. If it's not a million, it's going to be pretty close. I'd say if it's not a million it'd probably be 750,000 or something like that in 2020. So, we're aiming for a million, 2020, but somewhere between half million and a million seems pretty likely.
+Tim Higgins - The Wall Street Journal
+Where do you get the capacity to do that?
+Elon Reeve Musk - Tesla, Inc.
+There's this place called Shanghai.
+Tim Higgins - The Wall Street Journal
+Okay. Shanghai will be important for that, that goal?
+Elon Reeve Musk - Tesla, Inc.
+Yeah.
+Tim Higgins - The Wall Street Journal
+Okay. Where does the Model Y...
+Jeffrey B. Straubel - Tesla, Inc.
+I think so. Yeah, I think we can do over half a million vehicles – actually probably more like 600,000 vehicles with current Giga and Fremont, and so they could throw 100,000, 200,000, maybe more, couple hundred thousand from Shanghai. We're probably going to be more than 600,000 with Fremont and Giga, Nevada. That's why I think maybe it's not – I think we have a shot at a million but somewhere 700,000, 800,000 seems pretty likely given the current what we know today.
+Tim Higgins - The Wall Street Journal
+Have you made any decisions on where you're going to make the Model Y, anyway you'd like to tell me?
+Elon Reeve Musk - Tesla, Inc.
+Not yet.
+Tim Higgins - The Wall Street Journal
+Do you expect to announce it this year though?
+Elon Reeve Musk - Tesla, Inc.
+Maybe. Maybe.
+Martin Viecha - Tesla, Inc.
+Cool. Let's go to the next question, please.
+Tim Higgins - The Wall Street Journal
+Thank you.
+Elon Reeve Musk - Tesla, Inc.
+Thank you.
+Operator
+Thank you. Our next...
+Jeffrey B. Straubel - Tesla, Inc.
+I should say we are hoping to identify a Gigafactory location in Europe before the end of this year. It's not for sure but we are hoping to do that before the end of the year.
+Tim Higgins - The Wall Street Journal
+Got you.
+Operator
+Thank you. Our next question comes from Zachary Shahan with CleanTechnica.
+Zachary Shahan - CleanTechnica
+Hello. First of all, thanks for the recent retweet, Elon. I was really impressed with the Model 3 after owning a Model S, so I'm really impressed how much you've developed since the early days. My first question was about Conquest sales, actually. Right before the call we published an article that Camry sales were down 22% year-over-year, Prius sales were down 23% year-over-year and we're very curious how much you're pulling from these other cars, other segments. It sounds like you sort of answered that question at the beginning, but can you give anything in terms of what percentage those top five are in terms of trade-in sales? And how broad you're pulling? I know you pull from pickup trucks, from sports cars. Can you speak a little more about the diversity you're pulling from?
+Elon Reeve Musk - Tesla, Inc.
+Actually, what we have right now is just the top five. So I'm not sure what the allocation is between top five or where it goes beyond top five. We just sort of out of curiosity asked for the top five breakdown. And it's just interesting that people are trading up into a Tesla, so they're choosing to spend more money on a Tesla than their current car, just based on the trade-in values. A Civic is a very inexpensive car compared to particularly the Model 3 today. So that's promising from a market access standpoint.
+But of course, long term, we're going to do the Model Y and compact SUV. We're going to do the pickup truck, the Semi, the next generation bus (1:09:38). We got lots of awesome ideas, and probably the biggest limiter on our growth is like how fast can we grow battery production? And especially cell production and the wholesale supply chain I think will be the fundamental determinant of Tesla's growth.
+Zachary Shahan - CleanTechnica
+And regarding the...
+Elon Reeve Musk - Tesla, Inc.
+We're super fired up to do the set. I think they're all super cool. I know Jerome's favorite is the Semi, and that's pretty wicked, obviously. And...
+Zachary Shahan - CleanTechnica
+I love it.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, it's great. And the where we unveiled – we've actually figured – we've made significant improvements to the design since the unveiling that we had, and it's really even better than what we talked about. Probably my personal favorite for the next product is pickup truck, and we are going to just do an amazing pickup truck. And the Model Y, compact SUV, probably the most popular car category in the world, so that's like obviously going to sell pretty well. So a lot of cool things.
+And of course, Tesla Energy, getting the – we're kind of cell starved for Powerwall right now, so we actually had to artificially limit the number of Powerwalls because we don't have enough cells. So we're solving for that very rapidly and we expect to ramp up Powerwall and Powerpack production substantially later this year and early next and as well as ramping up retrofit solar and then the Solar Roof.
+We now have several hundred homes with the Solar Roof on them, and that's going well. It takes a while to just confirm that the Solar Roof is going to last for 30 years and all the details work out, and we're working with first responders to make sure it's safe in the event of a fire and that kind of thing. So it's quite a long validation program for a roof which has got to last for 30, 40, 50 years, but we also expect to ramp that up next year at our Gigafactory 2 in Buffalo. That's going to be super exciting. If there's a company with a better product roadmap, I'd like to know where it is, because we've got some super awesome stuff coming. Yeah.
+Zachary Shahan - CleanTechnica
+And regarding the Model Y, there's been a lot of questioning if you're going to have the same process as with Model 3 with reservations, if you're going to shorten the reservation timeline or if you're going to have a different process this time around.
+Elon Reeve Musk - Tesla, Inc.
+We haven't made a final decision on that.
+Zachary Shahan - CleanTechnica
+So a last question then. Regarding the daily production, we've been seeing a rise and fall with the daily production of the Model 3 as you incorporate new performance or white seats. Can you speak at all – we always like to get the technical side of what you're doing there. Can you speak at all about what the bottlenecks are right now that you're working through and what we can sort of – how we can picture ourselves in the factory there with you?
+Elon Reeve Musk - Tesla, Inc.
+All right. And actually one of the things I love about your writing is that you really care about getting the details right, and you really understand things well, which is awesome. But I have to be careful I don't have a sound bite that is then for those that don't have a nuanced appreciation of the situation, that sound bite then gets – becomes front page news. So it's like, nope, that's not what I meant.
+Zachary Shahan - CleanTechnica
+Yeah. We know.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, exactly. I'm like, oh, man, this is like shooting myself in the foot there. Right now, the biggest constraint on production again, please, do not make a federal case out of this, because it's something that's solved like in a matter of a week or two, is body production. So that's why – you can generally tell what am I personally working on, that's going to be the bottleneck in the company most likely, so reducing Model 3 bodies. We've made huge progress in the last few weeks and in fact I was just told that we were able to achieve our first 24 hour period where we made over 800 Model 3 bodies which is pretty great. So (1:14:34) sustain that 800 plus per day rate and then (1:14:41) doing great, Jay (1:14:41) is doing great. Yeah, it's good.
+Zachary Shahan - CleanTechnica
+Yeah. I've got 47 questions. But I'll end with a quick request. Years ago you...
+Elon Reeve Musk - Tesla, Inc.
+Sorry. Go ahead.
+Zachary Shahan - CleanTechnica
+Years ago you warned about a coming short tsunami and it seemed obvious it was coming, but the shorts didn't really seem to recognize it and then sort of attacked you, trolled you for months and then finally, it came. You again, warned very honestly, I think very directly, that there's going to be an epic short squeeze. We have I think the whole community has a little request. Don't let the trolls get you down, don't see the trolls too much, but we do like it when you tease the trolls a bit. So use your judgment. But thanks a lot for what you're doing.
+Elon Reeve Musk - Tesla, Inc.
+All right. Well, thank you for your in-depth coverage of clean-energy technology.
+Martin Viecha - Tesla, Inc.
+Thank you very much and the very last question comes from Galileo Russell (01:15:44) who represents the retail shareholders.
+Unknown Speaker
+Congrats on an awesome quarter. Really proud to be a Tesla shareholder with the Model 3 ramping to 5,000 a week. And I think you may have touched on this but I'm curious. Will Tesla ever produce vehicles at Gigafactory 1, maybe the Semi? And then I'm curious on any manufacturing synergies between the Semi and the Model 3.
+Elon Reeve Musk - Tesla, Inc.
+Oh wow. Interesting questions. You always come up with really interesting questions. Really interesting questions that I cannot actually – the first one I cannot – it gets so much attention, where we put production. So I can't answer any like where we're going to put production questions. Will the Semi use a bunch of Model 3 technology? The answer is yes. Jerome don't know if you want to elaborate on that or – up to you.
+Jerome Guillen - Tesla, Inc.
+Well, I mean you can already see in the prototype that we've leverage a lot of the Model 3 components, the screens...
+Elon Reeve Musk - Tesla, Inc.
+Yeah.
+Jerome Guillen - Tesla, Inc.
+...the door handles. I mean as much as possible...
+Elon Reeve Musk - Tesla, Inc.
+The motors.
+Jerome Guillen - Tesla, Inc.
+Yeah, the motors, yeah, in the prototype, a lot of the cell technology. But there are some changes and I'd rather not make that public. Yeah, obviously it's going to be better than what we showed last year. There is a lot of improvements, yeah.
+Unknown Speaker
+Okay. So hopefully you can talk more about this with the battery project, with PG&E that was recently announced. I'm wondering if you could elaborate how you're prioritizing battery pack between auto and energy storage. Because it seems like you ramped auto battery pack to 20 gigawatt hours in the past 12 months, but are only guiding for about 1 gigawatt hour of Tesla Energy installation in the next year. So I'm wondering why is Tesla Energy, given its supply constraint, like why not ramp up supply to 10 gigawatts? It seems like the guidance is a little low there.
+Deepak Ahuja - Tesla, Inc.
+Yeah, as Elon suggested earlier, we are – essentially makes sense for us to prioritize Model 3, but we are adding a ton of capacity, cell capacity and JB can talk more about it that will enable us to dramatically ramp our energy storage business as well in the coming quarters.
+Jeffrey B. Straubel - Tesla, Inc.
+Yeah, you kind of mentioned only 1 gigawatt hour. But that's a big number in that business. And that's maybe on the order of 300% what we did the prior year and we're still aiming at maybe another 3x to 4x growth for 2019.
+Elon Reeve Musk - Tesla, Inc.
+These are mad – at scale, these are insane growth levels.
+Jeffrey B. Straubel - Tesla, Inc.
+Crazy growth rate.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, It's not like shipping a software. This is like you actually need to build – it's like a lot of atoms...
+Jeffrey B. Straubel - Tesla, Inc.
+No offence to software.
+Elon Reeve Musk - Tesla, Inc.
+Yes, no, no, I mean like once you build software, you can obviously have lots of copies, but like when it's like a lot of really complicated atoms, man, hard.
+Jeffrey B. Straubel - Tesla, Inc.
+Maybe specifically also your cell – to the cell-limitation question. I think this has been mentioned before but we also do use some other vendors.
+Elon Reeve Musk - Tesla, Inc.
+Oh, yeah.
+Jeffrey B. Straubel - Tesla, Inc.
+(1:18:50) Panasonic.
+Elon Reeve Musk - Tesla, Inc.
+Yes. We use Samsung and LG and yeah.
+Jeffrey B. Straubel - Tesla, Inc.
+Exactly, in our energy products. So I've heard people feel like this is kind of a zero-sum game or something with Model 3 but that is not the case. And we do...
+Elon Reeve Musk - Tesla, Inc.
+It's a partial-sum game. We did shut down a Powerwall cell line in favor of Model 3 to be totally honest but we kind of had to do that. But we're adding new cell lines and we'll be able to address that issue very soon.
+Deepak Ahuja - Tesla, Inc.
+I think to put it in perspective, we are soon tripling our storage.
+Elon Reeve Musk - Tesla, Inc.
+These are mad growth numbers. Mad.
+Deepak Ahuja - Tesla, Inc.
+And it's one thing to produce, but it's also another thing to install.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, exactly.
+Deepak Ahuja - Tesla, Inc.
+You need infrastructure and the people to do that. So, it's massive scaling as very few companies grow at that rate.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, and one of the biggest challenges like, we've got a – there needs to be a lot more electricians. So we actually had an electrician training program. We're going to actually have to train new people who've never been electricians before to be electricians because otherwise there's not enough electrician capacity in the United States and the most places in the world to install Powerwalls.
+Deepak Ahuja - Tesla, Inc.
+Yeah.
+Elon Reeve Musk - Tesla, Inc.
+So it's like we have to actually literally train electricians and it takes like two years basically before somebody is certified to be an electrician. So it's sort of like, okay, we obviously can't grow faster than the rates, the number of electricians who can physically install a Powerwall. That's like one of the limitations.
+Jeffrey B. Straubel - Tesla, Inc.
+And that PG&E project you mentioned is an incredibly exciting one. It kind of is indicative...
+Elon Reeve Musk - Tesla, Inc.
+Yeah, it's awesome actually.
+Jeffrey B. Straubel - Tesla, Inc.
+...of the growth rate. It has a...
+Unknown Speaker
+Yeah, can you elaborate on that?
+Jeffrey B. Straubel - Tesla, Inc.
+We can't say too much.
+Elon Reeve Musk - Tesla, Inc.
+I hope I haven't said anything that's like (1:20:31).
+Jeffrey B. Straubel - Tesla, Inc.
+It is over 1 gigawatt hour.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, gigawatt hour. That's public, right?
+Jeffrey B. Straubel - Tesla, Inc.
+Fully considered.
+Elon Reeve Musk - Tesla, Inc.
+Okay.
+Jeffrey B. Straubel - Tesla, Inc.
+It is now.
+Elon Reeve Musk - Tesla, Inc.
+Okay. All right, okay.
+Jeffrey B. Straubel - Tesla, Inc.
+And just to give you a sense, it took us five years of growing that business to get to 1 gigawatt hour, cumulative deployed.
+Elon Reeve Musk - Tesla, Inc.
+And there were like so many people who had said 1 gigawatt hour is an impossible number for lithium ion. Like that's – yeah.
+Jeffrey B. Straubel - Tesla, Inc.
+I mean, the car business is still much bigger as we sit here today but the growth rate on energy is faster.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, if you extrapolate energy growth rate, well, obviously, if you extrapolate anything, when that triples for a year pretty soon becomes the size of the universe, but long-term we would expect the energy business to catch up to the auto business in size.
+Unknown Speaker
+Nice. And then, lastly, I'm really curious, Elon. Do you have any part of the business that shareholders should be asking or thinking more about? Or what do you wish would have been asked on the call?
+Elon Reeve Musk - Tesla, Inc.
+Good question. We were trying to anticipate – actually, I try and anticipate the questions that are on people's minds, that's why we have the autopilot (1:21:40) autopilot team here and much of the executive team of Tesla here to try to be proactive in that regard. And is there anything...
+Unknown Speaker
+Well, I guess, in terms of...
+Elon Reeve Musk - Tesla, Inc.
+I think we really covered a lot. So if there's any – yeah.
+Unknown Speaker
+Just very last thing.
+Elon Reeve Musk - Tesla, Inc.
+Your very last thing. Go ahead.
+Unknown Speaker
+Yeah, sorry. One last thing. The new fiscal engineering strategy of profits and cash flow and you saying that would last in perpetuity sort of caught me by surprise, personally. And so I'm curious if there's any trade-off to growth with that new strategy or sort of what's the rationale behind the scenes because this seems like the biggest change in Tesla's financial engineering strategy since the IPO.
+Elon Reeve Musk - Tesla, Inc.
+Yeah, being cash flow positive and capping at positive doesn't mean like – doesn't mean we're rolling in money. There's definitely going to be cases where we're just barely cash flow positive or barely profitable in some quarters in the future. But I think it's been a long time, almost 15 years now. I think we're at a scale where the amount of time that it takes to actually scale up and do things is – there's a certain – like we're big enough, where we actually can spend money efficiently to make things go faster.
+So we kind of hit scale with volume production of cars. And I think we can – I think this is probably the right thing to do is to be sort of essentially self-funding on a go forward basis and apart from selective situations where there's say some debt – temporary debt for construction of a Gigafactory in China or Europe or something like that. But apart from that, I think we – essentially like I don't think we're constraining growth in any significant way by adopting this strategy at this point. It would have been true in times past, but I think it is no longer the case, yeah.
+Martin Viecha - Tesla, Inc.
+Okay, I think that's going to be all the time...
+Unknown Speaker
+Awesome. Thank you so much.
+Martin Viecha - Tesla, Inc.
+Thank you very much. Unfortunately, that's I think all the time we have today. Appreciate all your questions and looking forward to speaking to you next quarter.
+Operator
+Thank you. Ladies and gentlemen, thank you for participating in today's conference. This does conclude the program. You may all disconnect, and have a wonderful day.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+18 Authors in the Last 30 Days

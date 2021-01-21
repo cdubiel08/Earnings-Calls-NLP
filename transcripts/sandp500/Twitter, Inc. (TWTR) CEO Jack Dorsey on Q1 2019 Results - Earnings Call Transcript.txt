@@ -1,0 +1,222 @@
+Twitter, Inc. (NYSE:TWTR) Q1 2019 Earnings Conference Call April 23, 2019  8:00 AM ET
+Company Participants
+Krista Bessinger - Vice President of Investor Relations
+Jack Dorsey - Chief Executive Officer
+Ned Segal - Chief Financial Officer
+Conference Call Participants
+Heath Terry - Goldman Sachs
+Justin Post - Merrill Lynch
+Douglas Anmuth - JPMorgan
+Richard Greenfield - BTIG
+Ross Sandler - Barclays
+Lloyd Walmsley - Deutsche Bank
+Colin Sebastian - Baird
+Anthony DiClemente - Evercore
+Brent Thill - Jefferies
+Operator
+Good day ladies and gentlemen and welcome to the Twitter First Quarter 2019 conference call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will follow at that time.
+I would now like to turn the call over to your host, Krista Bessinger, Vice President, Investor Relations. Please go ahead.
+Krista Bessinger
+Hi everyone and thanks for joining our Q1 earnings conference call. We have Jack and Ned with us today.
+Before they start, I wanted to remind everyone of the format for our call. We published a shareholder letter on our Investor Relations website and with the SEC about an hour ago and hope everyone had a chance to read it. Because the letter has a lot of detail, we will keep our opening remarks brief and then dive right into your questions. We will also take questions asked on Twitter. So please tweet us at @TwitterIR using the #TWTR.
+Also, during this call we will make forward-looking statements. Those are things like our outlook for Q2 and the full-year 2019 and our operational plans and strategies. Our actual results could differ materially from those contemplated by our forward-looking statements and you should not consider our reported results as an indication of future performance.
+We are making these forward-looking statements based on information available to us as of today and we disclaim any duty to update them later unless required by law. Please take a look at our filings with the SEC, especially in the risk factor section of our 10-K for fiscal year 2018 and our 10-Q for a discussion of the factors that could cause our results to differ.
+Also during this call, we will discuss certain non-GAAP financial measures. We have reconciled those to the most directly comparable GAAP financial measures in our shareholder letter. These non-GAAP measures are not intended to be a substitute for our GAAP results.
+And finally, this call in its entirety is being webcast from our Investor Relations website and an audio replay will be available on Twitter and on our website in a few hours.
+And with that, I would like to turn it over to Jack.
+Jack Dorsey
+Good morning, everyone. Thanks for joining us for our 2019 Q1 call. We had a really good start to the year, want to take a few minutes and just share some highlights from the quarter that we found meaningful.
+First and foremost, our number one priority as a Company continues to be health. So we have been focusing on this quarter is around proactive detection of abuse and harassment on our service, any content that violates the terms of service.
+We have been applying a lot more machine learning and deep learning to everything on our system, but have been focusing a lot of our work on making sure that we recognize that everything that happens online has offline ramifications, and protect someone's physical safety above all else.
+That is why we introduced a new and easy reporting process. To report private information that is shared on the platform, but we are now getting 2.5 times more private information removed with this new easier reporting process.
+Of all the tweets we take down every week for abuse of content, 38% of them are now practically detected by our machine learning models. This is a huge step as it was zero percent just a year ago.
+What this means is that we are taking a bunch of the burden away from the victims of abuse and harassment on our service. And we are making the agents that we have working on this process much more effective and much more efficient.
+We are going to continue to applying technology, machine learning and deep learning specifically to the health challenges that we are facing, and we expect to continue to make steady progress.
+On the products we continue to focus on events. We started with sporting events and live events, making sure that we are organizing the conversation around each in a much more fluid and better way.
+Each event should have an experience that shows the top commentary from credible sources. A recap of everything you might have missed if you come into the event late and also the latest conversation about everything going on within the event.
+We intend to extend this into longer term topics and interest and we believe it should be as easy to follow an event or interest as it is to follow a person. We have also been focusing on making Twitter a lot more conversational. The reason why is we believe our differentiator is not just showing people what is happening within the world. But what people are talking about as well.
+I think Twitter is one of the best places to see what people feel about any issue and what people think about an issue, including all the sentiment. That is why we created a prototype app that allows us to test a bunch of conversational experiments very quickly. We call it little t twttr, we released it a month and a half ago to a small base of testers on iOS. And this allows us to move very fast on a weekly basis to update with some ideas and experiments that we want to try to make Twitter a lot more conversational.
+The first push has been to organize a conversation in a much a better way to enable people to see the entire conversation within the suite on one surface instead of tapping through multiple tweets to get the gist of the entire conversation.
+We focus a lot of our efforts on readability and enabling people to much more quickly participate in a conversation when they find one that is relevant to them. We are going to continue to experiment with this and then any candidates that resonate with our audience will look to build into production for everyone.
+I'm going to hand it over to Ned now for some of his remarks.
+Ned Segal
+Thanks Jack. Q1 was a strong starts to the year with revenue up 18% year-over-year or 20% on a constant currency basis, with particular strength in the United States, where add revenue growth is 26% year-over-year.
+Before we get into Q&A, I wanted to just highlight a couple of points. The first is that we reported significantly better than expected GAAP operating income in Q1, a number factors contributed. Our revenue outperformance is obviously one.
+In addition, there was there was some work, we hope to start in Q1, which will happen in future periods and we had some one-time benefits in Q1 that we do not expect to occur, including reversing a reserve for tax payments that we ultimately did not have to make.
+It was also our first time guiding to GAAP operating income as a Company and in retrospect, we included too many conservative cases in our scenario planning. We tried to address that in our Q2 guidance.
+Second, we are pleased with the pace of our hiring in Q1, which is up 18% year-over-year, the combination of our conviction and our strategy and execution and our ability to recruit and retain key talent is allowing us to increase headcount growth in 2019 relative to last year's 16%.
+And as we mentioned last quarter, we expect our GAAP operating expenses for the year to increased approximately 20% on a year-over-year basis, as we continue to invest to drive growth and to support the top priorities we have been talking about for some time now: Health, conversation to drive audience, revenue, product and sales and platform. As you would expect, we believe GAAP expenses will ramp over the course of the year. In some, we are pleased with our starts to the year and we look forward to answering your questions. Operator.
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions] Our first question comes from Heath Terry from Goldman Sachs. Your line is open.
+Heath Terry
+Jack, I was wondering if you could give us a bit of a way to look through to what we think is probably some of the underlying growth in the audience at Twitter. This is another quarter where we have seen mDAU growth in the double-digits. But MAU numbers are so flat to down. Is there a way to think about either gross adds in terms of new people joining the platform versus the number of people that that come off of the platform because of the trust and safety and health initiatives that you have got? Just anything that you can do there to sort of provide us a better understanding of sort of what the underlying growth of the platform looks like? And then Ned, just to the extent that we saw sort of outsized performance in the financials in the U.S. this quarter, obviously, considered you know the most competitive of the advertising markets? So is there, anything in particular that you would call out that is driving that incremental monetization versus the rest of the world?
+Ned Segal
+Great, thanks Heath. I will actually take a stab at the first part and Jack will chime in on some of the product works that we are doing to drive usages of Twitter as a daily utility. So this is the last quarter that we will be disclosing monthly active usage.
+Remember, we talked about how we are going internally, against driving usages of Twitter as a daily utility and monetizable daily active usage is going to be the best way to measure that. Remember that MAU has things like people who receive Twitter via text message, people receive it via aggregator services, experiences that we don't control, experiences where you can't see ads, and not the things that we are trying to - where we are trying to drive growth over time which is the website and the apps.
+So DAU is going to be the best way to measure that incremental number that you are talking about, and that 11% growth this quarter to 134 million where we benefited both from the typical organic growth that we see that tends to be stronger in Q1, along with product improvements that we may need to improve relevance in the timeline and notifications and other product stuff that we did, as well as ongoing marketing were all drivers this quarter. So that will be the best place to look mDAU.
+I will touch quickly on financials then turn it to Jack. We feel like the messages that we have been talking to advertisers about are really resonating. We are talking about launching new products and services on Twitter. We talked about connecting with what is happening on Twitter. And that is what people come to Twitter for, from an advertiser perspective and it's really working.
+Whether it's at CES when we get the largest advertisers in the world together and get to hear feedback from them, or in our ongoing conversations with them. They understand the differentiated offering that we are able to provide them how improved relevance, improved ad formats, how better copy and how improving ROIs on some increasing ad engagements and lower cost per engagements are all strong factors that cause Twitter to show [how it works] [ph] for them.
+Let me turn it over to Jack to talk about some of the product things we are doing that are driving those incremental people to Twitter.
+Jack Dorsey
+Yes. Just to speak to growth from a broader point of view, we do believe that health is a long-term growth vector for us. Over the long-term we do believe that work will ensure people find a place that they can contribute, they can participate in and want to do that more and more every single day. So health is a number one priority, we believe this ultimately will lead to growth.
+We continue to make refinements around relevance, specifically in the home timeline and also notifications. This provides very, very steady growth for us. The more relevant we make Twitter for people the faster they see something that interests them, the better the experience. And building off that we believe the biggest impact change that we are going to have within the product is events, interest and topics.
+We want to make it as easy to follow an interest to follow an event as it is today to follow an account. We believe a lot of people come to Twitter, because they are interested in something and currently they do a ton of work to find accounts that are related to those interests.
+Removing that work, making it much faster, starting from on-boarding all the way throughout the app, so that you can follow any particular interests, whether it be a location, a topic, a niche interest that you care about. The goal is to help you find these very quickly to follow them, enables us to put in tweets, accounts, moments, URLs, anything that is related to that interest. And the goal there ultimately would be for more people to participate in conversation around the interest which goes into our priority around making Twitter more conversational.
+So those are the initiatives that we believe will create the most daily value for people, where they are seeing Twitter as not just what is happening, but what people are saying about it, and what people are thinking about it.
+Heath Terry
+Okay. Thank you both.
+Krista Bessinger
+Thank you. Next question please.
+Operator
+Your next question will come from Justin Post from Merrill Lynch. Your line is open.
+Justin Post
+Great. A couple of questions. So first, obviously switching from MAUs to DAUs, I think there is a perception that your audience is smaller than other platforms. Just wondering how you feel about that perception. Does that create any issues with advertisers? And how do you feel about your ad loads with DAUs? And then the second question, just maybe an update on your initiatives with direct response to advertisers, what is the feedback you are getting? And when could we see more of those on the platform? Thank you.
+Jack Dorsey
+Thanks Justin. I will take a crack at those first. Advertisers know that you come to twitter as an advertiser, because we have the most valuable audience when they are most receptive. They come with a specific campaign objective in mind. They come to launch something new. They come to connect with what is happening. And they know exactly what they are buying.
+When they look to reach specific audience on Twitter, nothing’s changed from their perspective and it seems they appreciate the transparency that we are providing towards a number that we go towards internally and the number of people that see ads on the service today, as opposed to a number that might conform with how other people do things, but isn't the number that is most important to us internally.
+you asked about ad load, we continue to feel that we are more demand constrained than supply constrained as we look across the platform, different surface areas, different times of year, different geographies. But we also have feel like there continuous to be work that we can do to drive better relevance to improve ad formats even to improve the copy in the ad formats, to make sure that we are helping advertisers achieve their objectives and make it feel like a part of the experience for the people who use the service.
+Lastly you asked about DR as you know, we have a successful mobile application promotion product, but we feel that we can do better there and we think we can do better across direct response over time. And so one of the two biggest endeavors for our revenue product team this year is continuing to improve the mobile application promotion products. So that when a car service or a game company is launching an app in a new country or a new app somewhere in the world, they come to Twitter to launch it just as somebody would to launch a phone or a movie or TV show.
+We know that we can do more to drive better relevance for them to help them target the right audience. And as we do that work we believe we will create a better path for ourselves to more direct response. We know this is a place where advertisers want our help and look to Twitter and we know that there is more that we can do for them over time. But this is going to be a rolling thunder, not a big reveal where you will see ongoing improvements from us as opposed to something that happens all at once.
+Justin Post
+Okay, thank you.
+Krista Bessinger
+Thanks, next question please.
+Operator
+The next question is comes Douglas Anmuth from JPMorgan. Your line is open.
+Douglas Anmuth
+Thanks for taking the questions. One for Jack, one for Ned. Jack, I hope you can give us some more early feedback on the prototype app. So you could talk a little bit more about what additional improvements you are looking for and what the timing could be of a broader rollout?
+And then Ned, can you just talk about some of the drivers of the GAAP between U.S. advertising revenue growth at 26% and international at 14%, FX neutral, sounded like you are pointing to the tougher kind of first half comp from the early 18 recovery - Japan also slowed more just trying to figure out if there is anything else to think about there? Thanks.
+Jack Dorsey
+Yes, I’ll start with talking about just some early feedback on the prototype. We have been live for just 30 days, we have one update in those 30 days. We intend to move much faster, having weekly, or every two week updates, to refine the experience.
+I think the biggest change that we made was today when you go into a tweet and you see replies, you have to go through multiple taps to get through the whole conversation. So the simplest thing we did was putting all of the replies on one surface. And people love this. They love this experience much more over the production Twitter app.
+So the threads provide a lot of context. The interface shows where the conversation is headed, and who is participating. We added more context to call out the authors and people that you follow within the interface as well. So generally, a net positive on readability and we are seeing it much easier for people to get into the conversation as well, which produces more tweets, which is great for the entire network.
+The one that was most controversial is we decided to really focus on readability of the text and we did some of the engagements. In our first prototypes that had mixed reviews. People did want to access that functionality much faster. So we brought that back in our most recent prototype in a new and unique way that takes advantage of touchscreens.
+And some felt that the replies can get a little bit crowded too much on the screen so playing with the density. So at a high level, this is a really great way for us to experiment very quickly, learn very quickly. And then make better informed decisions about building those experience within into production.
+And generally, most of the people that have been testing the prototype app, prefer it over the main Twitter production app. So showing that we are heading the right direction, but we still have some work to do before we are we feel confident when we should put in production.
+Ned Segal
+Hey, Doug, the second question about U.S. versus International. A few things to point out there the first, I think the way the numbers work, the international, it was 11% reported which on a constant currency basis is more like 15. And I point out that the recovery that we began early last year really started outside of the United States.
+And the first two quarters of the year that is really where it was most prevalent and it came to the United States in the second half of the year. So the comps just end up being greater in the first half of the year outside the United States and then in the U.S. in the second half year.
+I don't mention that as an excuse just as a reality; it’s our job and responsibility to continue to deliver great results, despite whatever we did in the prior period. But it is worth just thinking about the events, the ad campaigns, the campaign objectives, the ad formats that resonate most in a given geography in a given period, which might not repeat themselves from one period to another. And I think you could just twist yourself in a knot trying to overanalyze these things, if you look at a particular geography, or even an amalgamation of them try to read through to it.
+When we think about the work we are doing on the revenue product side, we are trying to improve the ad platform and also the work we are doing on map. These are things that are great examples of the work that we are doing to make sure that we can deliver strong results regardless of what we did in the prior year.
+Douglas Anmuth
+Thank you both.
+Krista Bessinger
+Thanks, next question please.
+Operator
+Your next question comes from Rich Greenfield from BTIG. Your line is open.
+Richard Greenfield
+Hi, thanks for taking the question. I got a couple. First when you think about the new camera functionality that you have rolled out where it's simply a swipe, you know before using the camera, either for photo or video was pretty cumbersome in Twitter. Wondering if you could give any type of learnings early, are you seeing for people that are using it? Have you seen a notable increase in multimedia flowing into tweets? Kind of what are the key takeaways, is it increasing overall engagement and time spent et cetera?
+And then two, Ned I wanted to follow-up on the comment you had about performance advertising. You actually called out the video ad cards in the shareholder letter. Wondering how big is performance advertising today? I mean, is this still a sub 5% or sub 10% like how should we think about sizing performance advertising for Twitter today. Obviously, it's been huge for companies like Facebook over the last several years. And then you just attached to that. Could you maybe give us a few examples of major brands that have used performance advertising with success and what they are doing with that performance advertising on your platform? Thanks.
+Jack Dorsey
+Yes. So thanks, Rich. On the news camera, we updated this because we haven't really refined our camera in quite some time and it was overdue for a lot of corrections, we want to make sure that was much easier to access that it was paying attention to some of the moves we made recently around integrating periscope and live video more generally.
+But we also wanted to pave the way towards enabling people to go from capturing a picture or video to instantly in conversation around the topic. So we highlighted locations within it and hash tags and linking to broader conversations around it.
+So it's still too early to see what the impact has been. But we felt it was the right refinement at the time and gives us the foundation to build so that we can integrate better media of all types into the conversation.
+Ned Segal
+Your second question was about performance advertising broadly. It's worth just pointing out that there really has been a blending in some ways of brand and performance on Twitter over the last couple of years. Because of the innovative ad formats that we have come out with. So we continue to be largely brand focused, historically and in the numbers that we are sharing today.
+But when an advertiser comes to Twitter and buys a video app card to promote a mobile application with a success in video where you can click through the whole surface. If they want, if you watch the whole video, but you don't download the app. Was it a performance - was it a successful brand ad or was it a performance ad that lead to a purchase later on. If you click through that ad, even though the objective was just for you to watch the ad, was that an unsuccessful brand ad or was that a very successful performance ad. So we are seeing a blending number one.
+Number two, we do think that direct response is an opportunity for us overtime but you will see it play out first, where mobile application promotions is a product that you hopefully will see more and more from us overtime. The examples that I point out today are things like some of the largest phone manufacturers in the world who also have services that go along with their devices, they may run a campaign to get you excited about their launches, but they also may run a campaign and get you to download their app.
+It’s something where you see a blending of performance and brand is the Star Trek ad that Disney is running right now, where I click through to make sure that I would be notified when more information was available about the next Star Wars and they are going to notify me on the service as opposed to me having to go look for more information about it.
+So there is definitely more opportunity for us overtime, you will see it play out first around that and around the blending between brand and performance advertising.
+Richard Greenfield
+Very helpful. Thank you.
+Krista Bessinger
+Great, thank you. Next question, please.
+Operator
+The next question comes from Ross Sandler from Barclays. Your line is open.
+Ross Sandler
+Hey, guys, just two quick ones. So on the DAU, you added more DAUs this quarter than you have ever since you broke this metric out. So I know you mentioned product improvements and marketing in the letter and Jack you just mentioned some of the changes you have made. But any additional color on where the strength is coming from is 1Q? Are we, to expect better seasonality in 1Q as you used to have with MAUs? Any additional color on the strength on the DAU will be helpful. And then Ned the one-time items that impacted operating income just any additional color you can provide on the tax thing and anything else that impacted the quarter? Thank you.
+Jack Dorsey
+Thanks, Ross. So on DAU, we did enjoy breath in terms of where the new people using the service came from. It was, we had 8% growth in DAU in the United States, we have 12% growth internationally. And we do typically see a seasonal uplift in Q1 with new devices and people downloading apps alike.
+If you look back over that now disclosed absolute DAU numbers from 2017 and 2018, you will see that there is often or in each of those periods, as well as in this Q1, there has been a seasonal uplift from typical seasonality and the events and topics that drive people to Twitter in that period that is greater than the absolute number that you see at other times of year. And it's our work to make sure that the service is helping people find the things they are looking for quickly and easily so that they come back more frequently and think of us more.
+Then you asked about the onetime items. It was just a combination of all of those things that I mentioned at the outset. We did make a reserve couple of years ago for tax payments that we ended up not having to make. And as is often the case, there is some work that we hopefully would start into Q1 that is just going to end up starting later in the year, some of its already started.
+And so the expenses shifted from one period to another. Then I think as we were doing our GAAP operating income scenario planning, we were probably too conservative in all of the outcomes that we were solving for in the range. And so it's just a combination of each of those things. I wouldn't focus you too much on any one or the other.
+Krista Bessinger
+Okay, thank you. Next question, please operator.
+Operator
+Your next question comes from Lloyd Walmsley from Deutsche Bank. Your line is open.
+Lloyd Walmsley
+Thanks. Two. First just, can you give us an update on progress with on-boarding, it sounds like a lot of the priority has been around kind of safety and blocking that actors in that process. But wondering how much of a priority it is for the kind of new user flow kind of engagement trends you are seeing in your user cohorts?
+And then, I guess secondly, if we just look at the high end of the guidance for 2Q on ex-World Cup faces, it looks like it's an acceleration of about two points, despite a six point harder comp. So really strong kind of outlook for 2Q. Any, I guess, change to approach in how you are guiding 2Q and the top-line, it sounds like there is less conservatism on the operating income line. But any change in that sales line and then, I guess, related to that strength? Can you give us a sense for how the sales go-to-market has really changed over the last year driving, this kind of performance on difficult comps?
+Jack Dorsey
+Yes, so Lloyd, I will start with on-boarding. We haven't had any major shifts in our on-boarding experience for quite some time. We have changed that recently, we have been experimenting internally with entirely new on-boarding experience that is really focused on interest events and topics to get people to those interests much faster. And doing that in a way that is very tweet forward so that people are immediately seeing tweets that interest them can tell us as such and we can build the right column and graphs on top of that.
+It's a pretty compelling experience, it’s something we continue to iterate on. But we are looking very, very deeply, at not just speed start of when people are downloading the app or coming on the website. But what their experience looks like in that first year, in that first two years and whatnot. And success means that they are following a number of accounts, that ideally they are following some events and interests and topics and ultimately that they are participating in the conversation.
+So that is what is guiding us. We want our - how we think about on-boarding to be cohesive, not just to the very beginning, not just to the first day, first month. But look out one to two years to make sure that we are building healthy usage and usage that is actually valuable to the individual.
+Ned Segal
+Your second question Lloyd was around revenue and go-to-market broadly. So our revenue guidance philosophy hasn't changed at all, which is we are trying to capture what we believe are the most likely outcomes at the time of the earnings call, which is just a few weeks into a 12 week quarter.
+So we have got lots of game left to play and we are going to work hard to deliver the best outcomes we can over the course of the period. The second question around revenue was around our go-to-market and how that has changed. We don't think it's changed, we think we just continue to execute on the strategy that we have had in place for some time.
+When we talked about start with them, which means we have got the most valuable audience when they are most receptive and if you are launching a new product or service or you want to connect with what is happening, you want to do it on Twitter. We have been talking about that for some time with advertisers. It does feel like it's really resonating all around the world. And we are a meaningful part of the campaigns and objectives that fit those needs for advertisers.
+We continue to invest in the tools and in the people who are connecting with advertisers as well as working on the products that they are selling to make sure that we are best positioned to help advertisers. So this is an ongoing part of our strategy and we are pleased to see how it's playing out.
+Krista Bessinger
+Great, and we are going to take our next question from Twitter. It comes from the Twitter account of [Dan Semoa] [ph]. And he asks, how is Twitter going to help users discover live content on its platform, particularly if people don't follow the specific users that are delivering that live content?
+Jack Dorsey
+Thanks for the question Dan. So there is a few ways here, one is we want to make sure that we are looking at what people are following and following our interests based on that. So you may not be following a particular account that is broadcasting the live content, but associated with the live content.
+So for instance, with basketball, you might be following an associated basketball account whether it be a player, or players mom, or a team, or a particular sports commentator. Based on those signals, we can put that live event right at the top of your timeline, and we are doing more and more of that.
+We also are utilizing explore more so that when we don't have signal on what you might be interested in terms of live content, you can go over to explore and you should be able to see all the live events right there at the top of explorer within moments are trending hash tag.
+So our default is to make sure that we are enabling people to see what they will be interested in, based on who they follow. But this really speaks to our broader strategy of eventually making it easy to follow an event, a topic or an interest as it is today to follow an account. So that is over the longer term. And we will be able to much more directly match your interest to live content that is happening on the service. Thanks for the questions.
+Ned Segal
+Hey Dan, I would just add one more thing to that. If you had an earnings call at five in the morning and you were having trouble sleeping the night before. A great thing to do is when you get a notification from Twitter live or from NBA on TNT because you set up notifications for those handle, you can watch the Rockets playoff game and watch the ISO camera James Harden in your hands at the same time. As Jack mentioned, there is a lot we can do to make it easier do these things, but it's great when you are able to find it.
+Krista Bessinger
+Operator, we are ready for next question please.
+Operator
+Okay. The next question will come from Colin Sebastian from Baird. Your line is open.
+Colin Sebastian
+Great, thanks. I have a couple. First off, as pricing trends towards stabilization are you noticing any changes within the auction in terms of ad format preferences or type of advertisers bidding on the inventory or anything else worth calling out? And then one related to the prototype changes to the app and more specifically the opportunities for advertisers? Did I understand that there will be opportunities for performance based targeting within conversations or perhaps that I think you are referring to that or something else you clarify. Thank you.
+Jack Dorsey
+Okay, thanks, Colin. First on pricing. So we don't think about pricing as stabilizing, we think about delivering against advertisers objectives. And when you see the cost per engagement, that we report and you see that it's down 4%, you see ad engagements are up 23%. We wouldn't want you to read into that. The things are moving towards zero, we wouldn't want you to read into it too much one way or another.
+In fact, we don't even forecast these things or outcomes, a whole bunch of things that happen around advertiser objectives around the different events that are happening at that time of year around the campaigns that people are running on the ad formats that are resonating most and so on. So I'm not sure, I would read too much in the news and you will continue to see them move around from one period to another based on all those things that I was just describing.
+Around the prototype app or the disorder that we all use, and where are the opportunities will fall for direct response. They should fall in the same places that others Twitter ads do overtime. When Jack goes through the conversational aspects of the prototype app, he is describing, things that you have see now on the timeline and just allowing you to find things easier and to see the conversation easier, and to be a part of it in an easier way. And so ultimately that should lead to similar and better opportunities for us to show highly relevant compelling ads to people throughout their experience just as we do today.
+Colin Sebastian
+Thank you.
+Krista Bessinger
+Next question please.
+Operator
+Our next question will come from Anthony DiClemente from Evercore. Your line is open.
+Anthony DiClemente
+Thank you very much. Ned, the ISO-CAM at James Harden. Maybe that is a good entree for a question about the content partnerships that you have like the one with the NBA. So where are we in terms of the benefits to Twitter, the benefits to say engagement and ad revenue that the content partnerships are delivering? And maybe help frame out what is the strategy, what is the forward strategy from here, I think every new fronts next week. How you can build on the success of your content partnerships?
+And then for Jack, not sure anyone has asked about regulation, regulation of either privacy or content. One of your peers is increasingly publicly open to the government taking a more active role and how social media is regulated. What is your updated and latest view for investors on regulation and to what extent is Twitter prepared for compliance with the CCTA rules and regulations for the state of California that take effect in January 2020? Thanks a lot.
+Ned Segal
+Anthony I will start and then Jack will go through the regulatory. So first on video and the content partnerships broadly. Video is a great way for people to share what is happening, and to be a part of the conversation on Twitter, whether it's organic content from any one of us, or a licensed content where we share ad dollars or have a different kind of partnership with the content owner. We have got some great content that we signed and announced in Q1. We have got some terrific things that we will talk about at the new funds at the end of April.
+The ISO cam is one example, every home runs as a highlight after major league baseball games are people voting on which better they want to see their live at that score is another and the goals as highlights for the Women's World Cup as follows having done that for men last year is another great example.
+We are looking for the content where there is already robust conversation. On Twitter where we can add to and improve the conversation through getting people the things that they are looking at and talking about on and off the service. And so these partnerships are great examples of that. But there are so many other all around the world that aren't just sports related as well.
+They to us are both advertising opportunities because they bring an incremental ad dollars through the pre roll, that we are able to show where we typically share the dollars with the partners. But they are also terrific engagement opportunity, they bring people to the service, they make the conversation richer, and they make the conversation something that people either want to be a part of, or are more excited about reading then they otherwise might have been.
+Let me turn it to Jack on a regulatory.
+Jack Dorsey
+Yes. So in terms of regulation, we are completely open to regulation where it makes sense and we do believe our role in a lot of these conversations that we have with leaders around the world, regulators around the world is to help educate. Their job is to make sure they are protecting the individual, leveling the playing field and we need to help educate about what we are seeing within Twitter, any technology or secular trends that we believe are important so that we can help improve the industry.
+Regulations like GDPR have been a net positive not just for our service, but also for our broader industry in general. It's added a lot more clarity around privacy and how data is being used to the people that we serve. So regulations like that we do believe are smart and beneficial to us and also our broader industry. And we will continue to look and work with regulators around the world to make sure that the regulation is crafted in the right way and that we can comply rather way. Thanks for the questions.
+Anthony DiClemente
+Thanks a lot.
+Krista Bessinger
+Thank you. Operator, I think we have time for just one more last question, please.
+Operator
+Okay. So our final question today will come from Brent Thill from Jefferies. Your line is open.
+Brent Thill
+Thanks. And Ned just on Japan it’s been an important market do to continue to see strength. Can you just give a sense of what you are seeing in the Japan market and any kind of one-off events to consider in the second and third quarter that won't happen as you are lapping from 2018?
+Ned Segal
+Thanks Brent. Japan continues to be a market that we are really excited about. It's our second largest market. We grew revenues 16% year-over-year, its 17% of total revenue. It is one of the places where the recovery that we enjoyed last year began and so we are up against tougher comps there.
+Part of that is about the recovery that we were driving through our execution. Part of it is about the events and objectives and formats, and auction dynamics and other things that drove the market last year.
+We are always lapping events all around the world, every quarter and it's our job to find a way to grow through them - through the hard work that we are doing to bring people to the service and to show highly relevant compelling ads.
+We have things like the World Cup in front of us, as far as comps that of course is a global thing. But we also have events happening in 2019 that didn't occur in 2018 that are great opportunities for us to bring people to the service and to show them great ads.
+Krista Bessinger
+Great, thank you for that with our last question.
+Jack Dorsey
+Thank you all for joining us. We are off to a strong start to 2019 with revenue growth of 18% or 20% on a constant currency basis, while balancing our number one priority of health. We also grew DAU by 11% to $134 million. We feel great about our strategy and about our execution, and it’s those things that are allowing us to invest to drive growth from here.
+We appreciate your interest in Twitter and we look forward to speaking to you again next quarter when we report our earnings on July 26 before the market open. We will see you on Twitter.
+Operator
+Ladies and gentlemen, thanks for participating in today's program. This concludes the program. You may all disconnect. Have a good day everyone.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+8 Authors in the Last 90 Days

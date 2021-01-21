@@ -1,0 +1,239 @@
+Maxim Integrated Products, Inc. (NASDAQ:MXIM) Q1 2020 Earnings Conference Call April 28, 2020  5:00 PM ET
+Company Participants
+Kathy Ta - VP, IR
+Tunç Doluca - CEO
+Brian White - CFO
+Conference Call Participants
+Ross Seymore - Deutsche Bank
+Harlan Sur - JP Morgan
+John Pitzer - Credit Suisse
+Craig Hettenbach - Morgan Stanley
+Mitch Steves - RBC Capital Markets
+Tore Svanberg - Stifel
+Ambrish Srivastava - BMO
+CJ Muse - Evercore
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to the Maxim Integrated Third Quarter of Fiscal 2020 Conference Call. At this time, all participants are in a listen-only mode. After the speaker's presentation, there will be a question-and-answer session. [Operator Instructions] As a reminder, today's program is being recorded.
+I would now like to introduce your host for today's program, Kathy Ta, Vice President, Investor Relations. Please go ahead, Kathy.
+Kathy Ta
+Thank you, Jonathan. Welcome everyone to Maxim Integrated's fiscal third quarter 2020 earnings conference call. Joining me on the call today are Chief Executive Officer, Tunç Doluca; and Chief Financial Officer, Brian White. As a part of our usual process, we have posted a supplemental financial presentation to our external investor relations website. The information in this presentation accompanies the financial disclosures in our earnings press release and on this conference call.
+During today's conference call, we will be making some forward-looking statements. In light of the Private Securities Litigation Reform Act, I'd like to remind you that these statements must be considered in conjunction with the cautionary warnings that appear in our SEC filings. Investors are cautioned that all forward-looking statements in this call involve risks and uncertainty, including the impact of the Corona virus pandemic and that future events may differ materially from the statements made. For additional information, please refer to the company's Securities and Exchange Commission filings which are posted on our website.
+Now, I'll turn the call over to Tunç.
+Tunç Doluca
+Thank you, Kathy. Good afternoon to all our participants. We hope that you are safeguarding your health during the current global crisis. We appreciate you joining us today and your interest in Maxim Integrated.
+Let me first summarized last quarter’s results. The March quarter progressed largely as we had expected apart from the last two weeks of the quarter. Given the growing concerns about COVID-19 we took precautionary measures to protect employees and work with social distancing mandates of governments. These measures impacted our manufacturing test operations in the Philippines. However, due to solid execution by the global Maxima team our March quarter financial results were within the range of our guidance.
+We have a flexible supply chain that is geographically diverse than the global pandemic has a varying impact depending on location. Our supply chains footprints in wafer fabs both internal and at our foundry partners is currently operational without disruptions. In assembly, we have flexibility in our supplier network to work through staffing related capacity constraints. Our Thailand tests operations are currently able to continue at full capacity. However, our Philippine test operations are impacted by social distancing measures.
+In the June quarter, we expect our test operations in the Philippines will run at approximately 70% from normal run rate. Additionally, we are expediting product shipments for our medical customers to fight the pandemic and this has been factored into our test planning. Our internal and external manufacturing teams are doing great work in optimizing Maxim's operations during the crisis.
+Let me turn to our fiscal Q3 and Q4 market overview. Please note that our June quarter commentary by end market includes the effect of our Philippine test constraint on revenue shipments. I will start with automotive. In the March quarter, our automotive business was up 5% sequentially with growth across all of our automotive applications including infotainment, auto body electronics, BMS and driver assistance systems. Due to the impact of COVID-19 we expect the June quarter automotive demand will soften. Our automotive customers have been significantly impacted by shelter-in-place mandates around the world and many customers have temporarily stopped producing cars.
+We continue to believe in the content growth opportunities in this market and continue to invest in power management, ADAS and BMS for electric vehicles in anticipation of the return of growth from these content rich applications. Due to COVID-19 OEM factory closures resulting in lower demand and given our test constraints we anticipate our automotive business will be strongly down for the greater than 20% decline sequentially. We expect declines in all of our automotive markets with the lowest impact in our BMS business due to the resumption of demand at Chinese OEMs.
+Let me next turn to the industrial market. In the March quarter, industrial was flat from the prior quarter. We saw modest broad-based declines which were offset by an uptick in automatic test equipment. Days of inventory and the channel remained similar to the prior quarter and were well below our target of 60 days. The COVID-19 related test operations disruption caused the sharp decline in shipments to distributors during the last two weeks of the quarter. As a result we were not able to replenish channel inventory at the rate previously forecasted. Brian will provide more detail on our distribution business right afternoon.
+In the June quarter, we expect industrial to be up sequentially primarily driven by expedited medical products to help our customers meet a surge in demand. Industrial is expected to be up from the same quarter last year. Once again we have the impact of our test constraints weighing on our guidance, otherwise stronger growth could be achieved.
+Let me next discuss communications and data center. In the March quarter comms and data center was up 3% sequentially. We experienced strong growth in demand for 25G optical products for base stations and 100G optical products for data center applications. The ramp in optical products was partially offset by weakness in notebook computers and peripherals.
+Our laser driver products are being rapidly deployed at hyper scale data centers and 5G base station uplinks. Our products enable these links to move more data while staying within limited power budgets. Our optical business should benefit in future quarters as employees around the world adjust to remote work. We are starting to ramp shipments of new design wins in server power for a leading hyper scale data center customer. We expect this ramp to be a tailwind for the business in future quarters.
+In the June quarter, we anticipate comms and data center revenue to be up from the prior quarter primarily driven by increased demand for server power and optical products for hyperscale data centers. Comms and data center is expected to be strongly up from the same quarter last year. We expect power and optical for data center and 4G and 5G base station applications to contribute to strong year-on-year growth.
+Finally, let me turn to consumer. In the March quarter, consumer was down 5% sequentially with an uptick in smartphone related shipments more than offset by seasonal declines and other consumer electronics. In the June quarter, we expect the consumer market to be very soft due to the COVID-19 epidemic impact on consumer spending and lower smartphone content.
+Consumer is expected to be strongly down greater than 20% sequentially. I would like to recognize Maxim's hard-working employees at our wafer fab and test manufacturing sites, our supply chain partners and our global employees who are remaining productive as they work from their homes. I'm very proud of the resilience of this company as shown by our ability to navigate these unprecedented times. We remain highly profitable due to our well diversified business model and outstanding product portfolio. We are maintaining our focus on long live high performance, analog and mixed signal products which will deliver value to our customers and drive sustainable growth for Maxim in the long term.
+Now I'll turn the call over to Brian.
+Brian White
+Thanks Tunç. I hope that all of you listening are staying safe and thank you for joining the call today. As Tunç mentioned we are working diligently to prioritize the safety of our employees while ensuring business continuity in this challenging environment. I'm proud of the work that we're doing to keep our operations running as efficiently as possible and to supply our customers with critical products.
+Revenue for fiscal Q3 was $562 million, up 2% sequentially and up 4% from the same quarter a year ago. Our revenue mix by major markets in Q3 was approximately 30% industrial, 28% automotive, 24% comms and data center and 18% consumer. Now I'll turn to the distribution channel.
+Distribution comprised 52% of Maxim's revenue in Q3. We ended the quarter with just 50 days of channel inventory, up one day from the prior quarter and well below our long-term target of 60 days. As Tunç mentioned, our manufacturing test operations were not able to run at full capacity during the last two weeks of the quarter impacting our ability to ship products both to direct customers and to distribution. Additionally, distribution resales increased from the prior quarter.
+Turning to the P&L. Maxim's gross margin excluding special items was 66.1%. This was a 10 basis points from the prior quarter but 40 basis points below the midpoint of our guidance. Gross margin was slightly below our guidance midpoint due to COVID-19 disruptions to our manufacturing operations in the last two weeks of the quarter.
+Operating expenses excluding special items were $181 million, down approximately $7 million from the prior quarter reflecting lower controllable expenses. A portion of this decrease was discretionary travel which we intend to resume when safe for employees and customers.
+Q3 GAAP operating income excluding special items was $191 million. Operating margin was 34% of revenue, up 210 basis points from the prior quarter due to higher revenue and lower operating expenses. The Q3 GAAP tax rate excluding special items was 12%, down one percentage point from the prior quarter. GAAP earnings per share excluding special items with $0.61 equal to the midpoint of our prior guidance range.
+Now turning to the balance sheet and cash flow. Total cash, cash equivalents and short term investments were $1.7 billion, down $97 million from the prior quarter. Trailing 12-month free cash flow defined as cash of operations less capital expenditures was $744 million or 34% of revenue.
+Free cash flow per share was $2.74 and our free cash flow yield is 5% at yesterday's closing stock price. For capital return share repurchases totaled $157 million in Q3 as we bought back approximately 2.8 million shares. This was an increase of 49 million or 45% from the prior quarter. Our share repurchases accelerated in Q3 driven by our repurchase matrix which buys back more shares at lower share prices combined with increased free cash flow.
+Dividends totaled to $129 million in the quarter. Based on yesterday's closing stock price and our quarterly dividend of $0.48 per share, our dividend yield is 3.5%. Total return of cash through dividends and share repurchases was 131% of free cash flow on a trailing 12-months basis. We are on track to exceed our commitment to shareholders to return at least 125% of free cash flow in fiscal 2020.
+Q3 inventory days ended at 106 down 3 days from Q2 and inventory dollars were down 1% from the prior quarter. Capital expenditures were $17 million.
+Now I'll turn to our outlooks to the June quarter. We forecast fiscal Q4 revenue to be between $480 million and $540 million, down 9% from the prior quarter and down 8% year-over-year at the midpoint. Our beginning fiscal Q4 backlog was $509 million almost equal to the midpoint of our revenue guidance range.
+On the surface, this would apply that turns would not be required to achieve our revenue forecast. However, we anticipate some level of push outs within this backlog and we expected our ability to satisfy orders will be impacted by COVID-19 related constraints in our Philippine test operations, limiting our revenue outlook to the range provided.
+Fiscal Q4 growth margin excluding special items is forecasted at 65.5% to 67.5%, up 40 basis points at the midpoint from the prior quarter with favorable product mix and front-end factory loading more than offsetting lower revenue. During the quarter which we plan to increase our internal inventory ahead of test to accelerate our ability to ship finished products as test capacity becomes available.
+Fiscal Q4 operating expenses excluding special items are expected to be down approximately $1 million from Q3 with continued cost controls and a benefit of lower travel expenses. Fiscal Q4 capital expenditures are expected to be approximately 3% of revenue and our tax rate excluding special items is expected to remain flat to Q3 at 12%. Our fiscal Q4 GAAP earnings per share excluding special items, we expect a range of $0.43 to $0.57.
+In summary, our strong financial model and operational focus is enabling Maxim to be resilient in these challenging times. We are focused on delivering critical products to our customers while safeguarding employee health. We continue to generate strong free cash flow and remain committed to our strategy to return more than 125% of our free cash flow to investors.
+With that I'll turn the call back over to Kathy.
+Kathy Ta
+Thanks Brian. That concludes our prepared remarks and we will now open the call for questions. I would like to continue the same Q&A process that we've used in previous calls. We'll take one question from each caller so we can get to as many people as possible. Jonathan could we please have our first question?
+Question-and-Answer Session
+Operator
+Certainly. Our first question comes from the line of Ross Seymore from Deutsche Bank. Your question please.
+Ross Seymore
+Hi guys. Congrats on the solid results in the uncertain times. I just want to dig a little bit deeper into the industrial side of things. As a little surprised that it's holding it as well as it did in March and I guess more impressively even in June. Tunç you said, you're expediting medical there. So I guess in aggregate, can you just talk about how much of that is pulling? How big is medical as a percent? Any more color around that? And when do you expect the Philippines test headwinds to actually go away? Thank you.
+Tunç Doluca
+All right Ross. So in general just to begin what percentage of our sales is medical. It's somewhere, well before COVID-19 it was somewhere in the mid single digits rates in the company. So it gives you some idea. In terms of what's happened during this quarter is really a surge in demand and customers wanting to pull in all kinds of our products. We have many products that go into medical but they're used, a lot of them are used in ultrasound equipment, in pulse oximeters and disposable patches for remote patient monitoring, in ventilators, anesthesia machines; a lot of equipment that we actually didn't really follow where our strong product portfolio was actually designed into.
+So a lot of those customers obviously came in and increased their orders both bookings and pulled in. So essentially we are responding giving those customers priority to deliver products to them.
+In terms of the rest of the industrial market, you are seeing some effect clearly we couldn't ship all that we needed to ship last quarter. So there's some catch up that's going on and in general industrial customers in previous experiences we've had, their reaction speed is not very quick like, like a consumer customer would be. So I think that we're still seeing them continuing business as usual as long as their factories are open and that's what we don't have a lot of advanced information on like automotive in that space.
+So some other group is fueled by these pull-ins and high priority we're giving for medical. Some of it is also by general demand kind of remaining stable frankly and not going down in this environment.
+Ross Seymore
+Thank you.
+Tunç Doluca
+You are welcome.
+Kathy Ta
+Thanks Ross.
+Operator
+Thank you. Our next question comes from the line of Harlan Sur from JP Morgan. Your question please.
+Harlan Sur
+Good afternoon. Thanks for taking my question and congrats on the strong free cash flow generation. Maybe just a quick housekeeping question. You guys talked about test capacity constraints in June. Maybe how much of the revenue impact is that having on the June quarter and then for my main question, in automotive the recent data points out of third-party research guides like IHS and one of your semi peers they reported this morning is that China auto sales have started to pick back up in addition to China auto production picking back up here in the June quarter given your strong presence in BMS and recently in ADAS, would like to see if you guys are seeing the same trends and then on a global basis like vehicle production is expected to inflect pretty strongly in the September quarter as Europe and U.S. and the Japan guys start to rank production back up. Are you starting to see this reflected in your auto customers’ forecasts just given that you are keeping relatively lean inventories? Would you anticipate your auto shipments to track closely with global production trends? 
+Tunç Doluca
+Okay Harlan I'll take that. That was a lot of questions in here. So one thing, I just recall to Ross asked a question, it's a two-part question I didn't answer the second part which is when do we expect our test constraints to get better. Let me answer that first. Obviously, the whole team is working to do changes in getting more operators to get and work in our factory in the Philippines as well as shifting tests to other facilities that we have. So 70% I talked about in my prepared remarks was kind of an average for the quarter. So we're starting from a lower number and we'll catch up by the end of the quarter. So I think that in terms of these delayed shipments, I think we'll be able to catch up with it in basically in our Q1 is our current plan.
+In terms of your questions about automotive, we are seeing a mix actually from customers. Some of them have begun to order and you mentioned one of them which was BMS customers in China because their factories are coming back online. Some of our customers are still in the condition of factories either partially operating or completely closed. So they're not essentially taking products from Maxim. So it’s really is a mix that's going on in the automotive area and as I said it's also limited by some of our test constraints.
+So I think automotive, there's a lot of things happening and frankly any answer I give you would be correct for some segments in terms of demand coming back or being delayed but I think in general the world in whole has built fewer cars because of the constraints. So that has to have an impact essentially on the amount of product that customers are going to take from us.
+It does depend on what their inventory levels are at their tier ones for example but we're doing our best in order to really prioritize the ones that need the products more heavily than others, but I think our general feeling is that there will be weakness in this quarter and maybe even next. Having said all that I think in a long term it's still a good market for us and we will continue to invest in it in the product lines that I mentioned in the prepared remarks.
+So your other question was how much of your revenue is test constraints versus demand. It's hard for me to quantify that but I think I can directionally give you some answers and maybe that will help. First of all the impact is across each of our end markets in terms of the test constraint impact. I think industrial market guidance would have been strongly up instead of just up, if you are able to build all the products and ship them.
+I think the consumer softness is primarily from demand weakness that we're seeing and not really affected that much by test constraints. The automotive is both. It's both demand weakening and test constraints with both of them and comms and data center is relatively unaffected by the constraint.
+So I think that it's kind of things are fluid that's why we're kind of hesitated from giving actual numbers as to what revenue could have been if we had all of the constraints because as Brian mentioned in his prepared remarks some of the backlog we have were suspecting that as the quarter goes on some of that might be pushed out of the quarter as well. So it's a bit of a mix for that reason.
+Harlan Sur
+Thanks for the insight Tunç.
+Tunç Doluca
+You're welcome.
+Kathy Ta
+Thank you Harlan.
+Harlan Sur
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Ambrish Srivastava from BMO. Your question please.
+Ambrish Srivastava
+Hi, thank you very much for taking my question. I had a question only on the guide and the commentary around the turns and the backlog. Just help us, this in perspective that others such sharp downturns we have seen before and I know no two downturns are the same but in terms of percent of cancellations, push outs that you're seeing just trying to understand the kind of the sharp reversal in fundamentals we have seen and from based on your order patterns what are you’re seeing versus what we've seen in the past and also more importantly, NXP this morning was calling out for a recovery Q-over-Q growth in 3Q. Again just help us understand how you're seeing this current downturn playing out. Thank you.
+Brian White
+Sure. This is Brian. I will take that one. So if we start with turns, a typical quarter for us would include about 35% of revenue coming from turns within the quarter. So clearly beginning this quarter was backlog equal to the mid quarter of our guidance is unusual but we've raised the guidance as we had again given a current environment where we do have some supply constraint issues as well as the potential for some movement of backlog but 35% would have been kind of a historical norm.
+As it relates to push outs and we are trying to factor that into our guidance, the one thing that I think is working in our favor here is that we have lock down, 45 days of commitment from our customers. So we've moved to a practice where orders within 45 days are non-cancelable and non- reschedulable. So that gives us a reasonable amount of certainty as we move forward in the quarter leaves a little bit of exposure at the tail end of the quarter which is what we're trying to contemplate into the guidance.
+But I think that this is very difficult to compare to prior downturns because we have supply dynamics here that are constrained the revenue. It's not necessarily just a decrease in demand in the areas of softness and demand are particularly pockets we have strengths in other areas but the supply side of things I think makes it non-comparable to try to draw correlations to prior downturns.
+Tunç Doluca
+Yes. So maybe I will add things to that. First of all in terms of the shape of the recovery, I think that was part of your question as well. As Brian said we have some amount of complication because of the supply issue but in general the industry really has never been faced with a pandemic cause recession that came so quickly and the effect on our industry I think will be different I think from the general industry.
+We also saw this if you take the model of the 2009, the Great Recession even though the economy remained in recession for a long time, semiconductors really bounced back within I remember within a year. We had already exceeded the quarter-over-quarter numbers within a year or five quarters.
+So what we're doing is this we can't really project that very well and then assuming that the shelter-in-place orders remain in place for a short time, let's say a few more months at most and taking that all into account we're preparing assuming there is a quick recovery. So in terms of our ability to ship our supply chain and so on, we're really preparing for a quick recovery. We are built to be resilient. I mean we're serving a high-performance analog market along with products, the flexible manufacturing structure that we have today. We'll be able to respond to a quick recovery unlike the difficulties that we had in 2010 and you might recall and we will continue to be careful on spending I think. It is also important but we essentially are preparing so that we're ready for a quicker recovery of the semiconductor business compared to what might happen in the overall economy.
+Ambrish Srivastava
+Thank you both for perspectives.
+Tunç Doluca
+You are welcome.
+Kathy Ta
+Thank you Ambrish.
+Operator
+Thank you. Our next question comes from the line of Vivek Arya from Bank of America. Your question please.
+Unidentified Analyst
+Zakalik on for Vivek, thanks for letting me ask the question. My question is also on the automotive end market. So even with your softer June guide your autos business appears much more resilient compared with industry auto production that's down 30% or so in the first half. I guess I'm wondering how you're feeling about customer inventory headed into Q2 particularly in the auto space. Thanks.
+Tunç Doluca
+Yes. I will take that one. So we actually don't have really good insights into what customer inventories are. They don't really share that with us. We do ask the questions about inventory levels but the fact not maybe across the board but on many of our newer products, we were also limited by test constraints tell you that they don't have which inventory especially on our new and faster growing product lines.
+So it's hard to really put numbers on it but we do notice that we're really performing very well in automotive compared to the overall market and we're attributing some of that to faster content growth and design wins in particular segments that we're doing well and good examples of this are our ADAS, our serial link products, our BMS products; these are all doing pretty well.
+And therefore since we're getting more content in market share gains, it would be reasonable to assume that we're doing better than what we're seeing for the overall market. Now having said all that as Brian said it is very hard for us to predict what's going to happen and therefore we lay it out a more cautious outlook on what's going to happen in automotive with a pretty serious decline that we're forecasting in the current quarter we’re in.
+Unidentified Analyst
+Got it. Thanks. 
+Tunç Doluca
+You are welcome.
+Kathy Ta
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Craig Hettenbach from Morgan Stanley. Your question please.
+Craig Hettenbach
+Yes. Thank you. I just want to follow up on the commentary around inventory in the channel and you had mentioned in the March quarter, the expectation was you were going to at least kind of resale or get closer back to your targets and that didn't happen. So just how do you see things playing out for the June quarter and any update on resales in the month of April?
+Brian White
+Sure. This is Brian. I will take that. Yes, for the March quarter we had built an assumption or guidance that we would replenish the channel to some extent moving a little bit more towards our targeted range there. As it turned out channel inventory remained essentially flat, 50 days up just one day from the prior quarter. That was driven by stronger resales. So resales were up a bit from the prior quarter but it was also driven by the fact that we were constrained in our ability to ship products into the channel towards the end of the quarter.
+Your question about so what are we assuming moving into the current quarter, the June quarter is related to that. Again it's difficult even when there is less uncertainty in the macro environment, I think it was challenging for us to forecast resells with a tremendous amount of accuracy and I think in today's environment it's even more difficult and then it's combined with the challenge of trying to predict how our mix of shipments will ultimately play out as it relates to direct versus channel shipment.
+So I think what you've seen from us over the course of the last several quarters is very prudent management of our channel inventory. We've been very disappointed in managing that and keeping it well within our target range. You should expect us to continue to do that. We will but I don't think it would be valuable for us to try to predict exactly where days of inventory the channel to likely fall in the June quarter given the various uncertainties.
+Unidentified Analyst
+Thank you Craig.
+Operator
+Thank you. Our next question comes from the line of CJ Muse from Evercore. Your question please.
+CJ Muse
+Yes. Good afternoon. Thank you for taking the question. I guess another question on the test of assembly side. So I guess could you share with us, is it strictly test also assembly? Is it really just related to social distancing or related to supply logistics other issues like that? And then as you think about improvements there, can you speak to any impact on margins in the June quarter? Your vision for perhaps adding redundancies for 80 outside of Southeast Asia and you talked about backlogs potentially being pushed out related to tests. Can you qualify what would you mean by that? Thank you.
+Tunç Doluca
+Yes. So let me comment in general about manufacturing and Brian can add, gross margin effects you can add to that. So in terms of our supply chain, just to give you an overall summary our wafer fabs, our own wafer fabs and our foundry partner network is in good shape. So we're not seeing any disruptions there. Our assembly is almost 100% out sourced into multiple vendors in multiple countries and even though there are, there's a couple of countries affected we've been able to shift around where we load because we had multiple sources for those packages.
+So assembly in general we've been able to take care of about being affected by the social distancing measures. In final tests, we really have two internal sources and then some tests outsource. Of these the outsource is working fine. Our Thailand operation is working fine and in the Philippines basically we're not running 100 % because we can't get all the employees or staff into the factories because of restrictions in the Philippines that were mandates by the government.
+So our plan is really to increase the level of staffing and also as a result to be able to increase our output from that factory and we expect unless we run into other issues or other restrictions by the government we are protecting the employees. We're making sure they're in a safe environment with many measures and we do expect probably by the end of the quarter to get back to the levels that we were running at and do some catch-up as well.
+So it is really a number of staff that can get to the factory. It's not really related to equipment and so on. So hopefully that answered most of you questions. Was that sufficient or is there any other detail you're looking for?
+CJ Muse
+Yes. Very helpful. If you can just state the margin impact that would be great. Thanks.
+Tunç Doluca
+So Brian can you comment on that?
+Brian White
+Yes. Sure. For the June quarter we are actually guiding gross margin up 40 basis points at the midpoint. So we are getting a fairly significant benefit in the June quarter associated with mix with lower automotive and lower consumer from a mixed perspective. That's providing a tailwind on the gross margin and we will continue to run manufacturing operations at a higher level.
+So particularly at the front end we're going to continue to manufacture. We're going to build some inventory as I said in our prepared remarks. So the front end we will continue to work. We'll build some inventory in front of tests because we want a position for that bottleneck to be resolved. So once that bottleneck in the Philippines is as a result we want to be a bit of position to push out finished goods as quickly as possible and adjust the backlog that we have.
+CJ Muse
+Thank you.
+Kathy Ta
+Thank you CJ.
+Operator
+Thank you. Our next question comes from the line of John Pitzer from Credit Suisse. Your question please.
+John Pitzer
+Yes. Good afternoon guys. Thanks for letting me ask the question. Couple of things here. First I want to, can you quantify what the impact was in the March quarter from the test assembly issues? Would you have been at the midpoint so I can assume a two-week issue was about a $12 million hit and then Tunç, as I kind of follow on to that, I'm just a little bit confused by the June guidance. You're heading in with very healthy backlog in a supply constrained environment where inventories really lean. Why isn't June the quarter that customers actually try to build some cushion inventory and maybe the cancellations you're expecting are pushed out until September? Why are you so confident that June is the quarter that customers will start to cancel backlog and push things out?
+Tunç Doluca
+Well, I think you used the word confident in there and we're not that confident but I think that's what is the most likely thing to happen which is the way we construct our guidance for the quarter. We did see in the first few weeks of April now before we put in the 45 days of backlog is locked comment that Brain made, we did allow customers to move their backlog around and we did notice that some of the automotive customers did push their orders.
+So we're suspecting that as in a subtle there might be more of those push out. So that's really why we're doing. We're basing it on what the automotive customers, how they behaved in the first few weeks of the quarter. Whether that will continue or not is to be seen. We're not really sure. Your other question about last quarter I think Brian can answer that one.
+Brian White
+Sure John. Yes, the disruption to the test operations in the Philippines at the end of the March quarter did have an impact on gross margin. We were 40 basis points shy at the midpoint and we would have expected to be at the midpoint if it weren’t for that impact.
+John Pitzer
+Brian I was more talking to the midpoint of the rev guide. Would you have hit the midpoint of the rev guide without the testing issue?
+Brian White
+We were tracking to make the quarter at the midpoint.
+John Pitzer
+Perfect. Thank you.
+Tunç Doluca
+I think just to give you a bit more color on that one. We were tracking absolutely correct from Brian. One way to look at it as we said, how much did lateness of deliveries grow. They grew about 20 million, 30 million. So I guess that shows you that we were tracking.
+John Pitzer
+Perfect and thank you.
+Tunç Doluca
+You are welcome.
+Kathy Ta
+Thank you John.
+Operator
+Thank you. Our next question comes from the line of Mitch Steves from RBC Capital Markets. Your question please.
+Mitch Steves
+Hey guys. Thanks for taking my question. I just wanted to focus a bit on just kind of a supply versus demand dynamic. So we're talking about a pretty noticeable sequential decline June due to the COVID-19 impact but how do you guys get comfortable on what is demand erosion? What is just supply constraint because it sounds like the supply issue really impacted March quarter by let's call 10 million to 15 million plus. So how much of that supply issues reoccurring in June and then secondly do you believe that the kind of consumer and automotive demand market can be weaker in 2021 or do you think that's too early to kind of look out that far?
+Tunç Doluca
+I think going out to 2021 as you know we don't give guidance for that longer time. I think that if the stay-in-place orders now I'm talking about the economy, more than about Maxim but if those orders are eased in the coming months I personally would expect things to kind of recover but as I said it's hard to see what all those implications are for Maxim. We really have our focus on the long term in terms of our investments especially in R&D and we have a pretty flexible supply chain. So we should be able to react whether there's a quick recovery in ‘21 or if there isn't but all then because of the flexible chain we don't have a huge dependence on gross margin on the level of revenue. So I think we should be, we're well prepared for any eventuality that occurs out there.
+Mitch Steves
+Got you. And how much is the supply back in the Q2 guide sorry, the June quarter guide?
+Tunç Doluca
+Well, with the backlog not as stable as we like it including the quarter it's hard for us to project but with us running on average, it's 70% we do expect the lateness in our deliveries to orders to actually grow in the June quarter. But I'm not going to be able to quantify that because I don't know the backlogs [stipulate].
+Mitch Steves
+Understand. Thank you.
+Kathy Ta
+Thank You Mitch.
+Operator
+Thank you. Our next question comes from line of Tore Svanberg from Stifel. Your question please.
+Tore Svanberg
+Yes. Thank you. I was hoping to zoom in a little bit on the 45-day commitment schedule. First of all when was that instituted and is this a new phenomenon and should we assume that this is going to be ongoing. Just try to understand if this is sort of a new policy that you have or if it's only now during this very uncertain era?
+Tunç Doluca
+Yes. I will take that one. So it is something we put in place, if I remember within the first week or two of April and it was done because we were test limited. We wanted to make sure that the backlog is the correct backlog that we were building because 45 days is enough time to make sure that we're loading the correct products to assembly and loading them on our test constraints. So we put it in place because of the current conditions and the test constraints that we were living through and it was I think I was in the first maybe 10 days of April.
+Tore Svanberg
+And to understand if this is sort of a one-time thing or should we expect this to be the norm going forward because I believe that will change your backlog and turns ratios going forward, right?
+Tunç Doluca
+I wouldn't think it would change it because we usually come in with a pretty reasonable backlog at the beginning of the quarter. I don't think it will change it. Whether we'll make this permanent or not I think it's too early to make that decision. Just see how things developed and see how customers react. We basically explained to customers why we're doing it and I'd say most of them found very reasonable under these conditions and they said they would follow our direction on this. And we didn't really talk about what was going to happen long term frankly.
+Tore Svanberg
+Sounds good. Thank you Tunç.
+Tunç Doluca
+You are welcome.
+Kathy Ta
+Thanks Tore.
+Operator
+Thank you. [Operator Instructions] Our next question comes to the line of Matt Ramsey from Cowan. Your question please.
+Unidentified Analyst
+Yes, hi there. This is Ethan Potasnick on for Matt Ramsey. I want to talk about the constant data center business. As you guys have previously described the business as lumpy and you touch on some of the growth drivers for the June quarter. So I was wondering if you could kind of parse these out and talk about some of the heads and flows between hyperscale, CapEx and 5G activity per 25 gig and 100 gig optical products. Are these trends sustainable heading into the back half the calendar year? Any color would be helpful.
+Tunç Doluca
+Sure. So as you summarized we have a nice robust good growth business on the hyperscale side that consists of products we made for -- primarily most of the growth there is coming from our optical products. These customers are investing in their data centers and they need to connect at high speed to connect their servers and storage together and our products help do that inside of the data center. So that's pretty robust growth and the signals we're getting at the moment from them is that their investments are going to continue.
+This quarter, the addition was that we began to ramp some power products for these high powered server applications. So that also should help essentially our power products and enterprise and data center has been weak for multiple years and this is the initial ramp that we're seeing at least from that one customer.
+So that those two added should really help us grow. In our market it seems like the world has continued to invest which is a data center and cloud. On the base station side rollouts are continuing and our single lane 25G transceiver products are well accepted in the market but that piece will be lumpy and I think that we rented very nicely throughout last year.
+There will be a little bit of a decline probably at this quarter as things kind of stabilize in that market but I think there's no question in our minds that overall for the future the upgrading of base stations are going to continue but that business has always been lumpy and will continue to be so. So I wouldn't really direct it to keep growing at the rate that it has grown let's say in the last year.
+Kathy Ta
+All right. Thank you Ethan.
+Operator
+Thank you. And this does conclude the question-and-answer session of today's program. I'd like to hand the program back to Kathy Ta for any further remarks.
+Kathy Ta 
+Okay. Thank you Jonathan. That does conclude today's conference call. Thank you for participation and for your interest in Maxim. 
+Operator
+Thank you ladies and gentlemen for your participation in today's conference. This does conclude the program. You may now disconnect. Good day.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

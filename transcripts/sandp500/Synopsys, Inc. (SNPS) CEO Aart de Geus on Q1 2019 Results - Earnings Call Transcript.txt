@@ -1,0 +1,222 @@
+Synopsys, Inc. (NASDAQ:SNPS) Q1 2019 Earnings Conference Call February 20, 2019  5:00 PM ET
+Company Participants
+Lisa Ewbank - Vice President of Investor Relations
+Aart de Geus - Chairman and Co-Chief Executive Officer
+Trac Pham - Chief Financial Officer
+Conference Call Participants
+Rich Valera - Needham & Company
+Mitchell Steves - RBC Capital Markets
+Jackson Ader - JPMorgan
+Monica Garg - KeyBanc
+Tom Diffely - D.A. Davidson
+Jay Vleeschhouwer - Griffin Securities
+Josh Tilton - Berenberg Capital Markets
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to the Synopsys Earnings Conference Call for the First Quarter Fiscal Year 2019. At this time, all participants are in a listen-only mode and then later, we will conduct a question-and-answer session and instructions will be given at that time. [Operator Instructions] Today’s call will last one hour. Five minutes prior to the end of the call, we will announce the amount of time remaining in the conference. As a reminder, today’s call is being recorded.
+At this time, I would like to turn the conference over to Lisa Ewbank, Vice President of Investor Relations. Please go ahead.
+Lisa Ewbank
+Thank you, Laurie. Good afternoon. Hosting the call today are Aart de Geus, Chairman and co-CEO of Synopsys; and Trac Pham, Chief Financial Officer. Before we begin, I'd like to remind everyone that during the course of this conference call, Synopsys will discuss forecasts, targets and other forward-looking statements regarding the company and its financial results.
+While these statements represent our best current judgment about future results and performance as of today, our actual results and performance are subject to many risks and uncertainties that could cause actual results to differ materially from what we expect. In addition to any risks that we highlight during the call, important factors that may affect our future results are described in our most recent SEC reports and today's earnings press release.
+In addition, we will refer to non-GAAP financial measures during the discussion. Reconciliations to their most directly comparable GAAP financial measures and supplemental financial information can be found in today’s earnings press release, financial supplement, and 8-K.
+Also included in the financial supplement is detailed information around our long-term financial objective, our transition to ASC 606 and newly disclosed results by segments. All of these items, plus the most recent investor presentation are available on our website at synopsys.com. In addition, the prepared remarks will be posted on the site at the conclusion of the call.
+With that, I'll turn it over to Aart de Geus.
+Aart de Geus
+Good afternoon. Q1 was an excellent start to the year. Revenue was a record $820 million, and non-GAAP earnings per share were $1.08, both above our target ranges. Strength was across all product groups, including some large, expanded renewals with cornerstone semiconductor companies. We are confident in our outlook for the year, and are reaffirming our guidance.
+Please note that this is the first quarter we are reporting two segments: Semiconductor & System Design, and Software Integrity. In Semiconductor & System Design, results exceeded plan, with strength across the board, augmented by timing of customer shipments. In Software Integrity, revenue was right on plan, and operating margin continued to move towards sustainable profitability, as we build for the long-term in this high-growth space. 
+Trac will discuss the financials in more detail. Looking at the overall landscape, solid demand for our solutions has continued into 2019, notwithstanding the somewhat increased uncertainty in the market. While the global narrative focuses on geo-political realities, electronics companies continue to design ever-more-complex chips and devices at an unabated speed.
+One notable driver, of course, is artificial intelligence. The development and proliferation of AI-dedicated chips brings great potential for us, as the number of customers and designs is growing quickly. Competition among AI-specific company is fierce, and indeed for anyone incorporating AI into their chips, with an intense race to market and a broad set of competing architectures.
+In addition, we’re seeing an escalation of the security challenges in highly interconnected systems loaded with software. This is in part driven by the proliferation of data-intensive IoT devices, and the emerging 5G connectivity standard, among other applications. The power of AI and the risks of security breaches require attention for all the products we use every day. From cars to mobile phones to smart homes to medical devices.
+Synopsys provides key technology in the midst of this evolving picture. Our results and outlook are not in spite of these challenges, but rather because of them. Our innovation and technologies become even more valuable to our customers when the stakes are so high. This is evident throughout our business: Our penetration in new and growing AI chip companies has been excellent, and this growth has been visible across our product groups.
+In EDA, our fusion technology and platform roll-out is progressing well, and reports show increasingly strong results. IP also continued on a positive path, helped by a particularly strong competitive win rate as we deliver sophisticated building blocks in more and more difficult advanced nodes and challenging verticals.
+On top of this, our Software Integrity business continues to broaden its customer base and software security is increasingly recognized as a ‘must have’ in this era of product development.
+With that, let me share some product highlights, starting with EDA. At the leading edge of technology, we continue to see a steady push towards smaller geometries, as Synopsys continues to be the pioneer and the relied-upon supplier for well over 90% of 12 nanometer and below designs, all the way down to 5, 3 and 2 nanometer research and development.
+A particularly noteworthy accomplishment was the tape-out of the industry’s first chip using next generation Gate-All-Around transistors. This highly advanced tape-out is the result of an extensive collaboration with Samsung, using a full Fusion Design Platform flow, from synthesis to place & route to signoff. Even at the earliest stages of process development, our unique position at the roots of silicon helps advance the most difficult research.
+The latest example of this is the recently announced collaborations with LTAB and IMTAB, important industry innovators to drive modeling standards to 2 nanometer and beyond. Meanwhile our breakthrough Fusion Design Platform continued to make great strides and generated strong results in Q1. You may recall that in November, we introduced not only our next-generation synthesizer, Design Compiler NXT, but also a game-changing new product called Fusion Compiler.
+Fusion Compiler, which is architected on a unified data model, is the only system on the market that integrates synthesis and place & route and all the key elements of our gold-standard signoff technology. We accomplished this through a novel way of sharing code among the different functions, thus eliminating the need to move between tools. The value to the customer is better chip results such as size, speed, and power, in shorter and more predictable design time.
+After just one quarter on the market, we’re seeing high initial demand, and have rapidly grown the number of active customers, including many of the top 10 SoC design houses. Fusion Compiler was also recognized with a World Electronics Achievement award for product of the year. When we pioneered the fusion concept, our aspiration was to build a platform upon which we could roll out new differentiating capabilities for years to come. Stay tuned as we deliver even more exciting advances over the next 12 months.
+Now to verification, where our platform vision and technology execution have yielded excellent business and market share growth. Increasing chip and system complexity means huge verification challenges, in terms of both speed and time-to-market. In addition, the growing desire to run software on top of systems that are still in construction is taxing the state of the art of simulation, emulation, and prototyping.
+Synopsys is at the forefront of enabling this to happen, across software simulation, emulation, FPGA-based and virtual prototyping. Our Verification Continuum platform continues to drive excellent demand and competitive wins. This quarter, we saw particularly strong growth in software-based verification at both traditional semiconductor companies and emerging system companies focused on their own in-house design.
+In emulation, revenue growth has been significant over the past two years, driven by a steadily expanding number of customers and average run rate. While hardware revenue is quite variable from period-to-period, driven by the timing and magnitude of specific orders, it’s clear that strong industry demand continues.
+Our newly launched ZeBu Server 4 product, the fastest, largest-capacity emulator in the market is generating broad-based adoption by customers designing storage, networking and AI chips, as well as a large, global systems powerhouse. Orders for our HAPS FPGA-based prototyping solution were strong, particularly in 5G and automotive verticals. We’re also seeing very promising progress with virtual prototyping in the automotive vertical benefitting semiconductor, Tier 1, and OEM customers.
+Verification is an example of a capability that works well on the cloud. While we’ve hosted tools on our own cloud for years, including our ZeBu emulation system, we’re continuing to make good progress tuning our solutions for cloud optimization. Interest is high. We have many customers who use their own or public clouds, some who are already working directly with us, and many others in proof-of-concept stages to see what structures may best work for them.
+Now moving to our IP products. We continue to deliver double-digit revenue growth, with strength across the board, particularly in AI and automotive. Our AI-related differentiation was readily apparent in Q1, with wins from several very notable AI start-ups. As an example, Israel’s Habana Labs achieved first-pass silicon success on its high-performance AI-processor-SoC using our PCI Express 4.0 IP.
+In automotive, we had a number of major global wins, including AI automotive startup FABU, which selected a broad portfolio of Synopsys automotive-certified IP. Over the past 12 months, we licensed IP to more than 25 leading automotive semiconductor suppliers covering a range of applications such as autonomous driving, infotainment, and connectivity gateways.
+Now to our Software Integrity group, which provides products and services to address code quality and security vulnerabilities early in the software development lifecycle. Over the last five years, we’ve systematically scaled this business, and expect it to reach 10% of total Synopsys revenue for fiscal 2019. 
+Our investments in this high-growth market also substantially diversify our customer base into verticals such as financial services and medical, expand our reach in automotive, and increase our business with our well-established electronics customers.
+While the need for enhanced security measures has clearly increased, companies still struggle to develop effective strategies on how to get there, given the immense scope of the challenge.
+One example is automotive, arguably one of the most vulnerable industries due to the heavy toll that breaches can cause.
+A recent survey of global automotive manufacturers and suppliers found that 84% of automotive professionals have concerns that their organizations' cybersecurity practices are not keeping pace with evolving technologies; and that most of them test less than half of the technology they develop for security vulnerabilities.
+Bolstered by the acquisition of Black Duck, which was fully integrated in Q1, we offer by far the most comprehensive portfolio of products and services in the market today to help companies solve these challenges. And we’re not standing still.
+We’re on track this year to deliver our integrated Software Integrity platform, which will enable both software developers and management to build essential security and quality checks into their software development lifecycle. Stay tuned for an announcement soon.
+In closing, Q1 was a strong start to the year. We delivered excellent financial results, and are reaffirming our outlook for fiscal 2019. Even with some caution around global markets, electronics companies continue to invest in critical chip and system designs, as well as immense amounts of sophisticated software.
+We are confident in both our near-term execution and our long-term prospects given our position in the market. We are committed and well on-track towards our mid and long-term growth and margin expansion targets. With that, let me thank our customers for their business and our employees for their dedication and hard work in delivering yet another strong quarter.
+Trac will now highlight the financial perspective.
+Trac Pham
+Thanks, Aart. Good afternoon everyone. Q1 was a great start to the year. Our financial results met or exceeded our targets in all key metrics, as we continue to execute well across the board. Beginning with this quarter, we are also initiating segment reporting for Synopsys. The investment we made five years ago in Software Integrity has reached critical mass and grown to approximately 10% of sales.
+Reporting this segment separately allows us to better highlight the strengths of the two businesses we’re building within and beyond our traditional semiconductor vertical. Our increasingly diverse customer base and our strong product portfolio, combined with our nearly 90% recurring revenue model, positions us well for success in periods of high demand, as well as those of greater uncertainty.
+Reflecting this dynamic, we are reaffirming our guidance for the year. Before I begin with the first quarter results, I want to remind everyone that Synopsys adopted ASC Topic 606, the new accounting standard for revenue recognition, beginning in fiscal 2019. All results I provide today will be under ASC 606. For a summary of these results, as well as equivalent financial metrics under ASC 605, please refer to our financial supplement.
+Now to the numbers. All comparisons are year-over-year unless otherwise specified. We generated total revenue of 820 million, a 7% increase over Q1 of last year, which included an extra week. Our growth reflects both strong demand and timing of customer shipments. Recall that ASC 606 creates additional quarterly revenue variability.
+Trailing 12-month revenue growth was strong across all product groups and geographies. These results reflect both the depth and breadth of our product portfolio, the increasing diversity of our customer base, and the impact of the investments we’ve made to drive long-term growth. Our contracted, but unsatisfied performance obligations or backlog, at the end of the quarter totaled $4.3 billion. 
+Turning to our segments, Semiconductor & System Design revenue was 738 million, up 5% year-over-year or just over 11%, excluding the extra week in 2018. Software Integrity revenue grew 29% to 82 million, reaching approximately 10% of total revenue in the first quarter. Software Integrity revenue for the trailing 12-months was $299 million, reflecting a strong leadership position in the application security market.
+Moving to expenses, total GAAP costs and expenses were $673 million. Total non-GAAP costs and expenses were $619 million and consolidated non-GAAP operating margin was 24.5%. For the quarter, Semiconductor & System Design delivered an adjusted operating margin of 26.5%, while Software Integrity delivered an adjusted operating margin of 6.8%.
+Certain operating expenses such as stock-based compensation, amortization of intangibles, and other expenses that are managed at the consolidated level, have not been allocated to our segments. These items are described in further detail in our Financial Supplement.
+Operating margin will fluctuate quarter-to-quarter, due to normal variability of revenue and expenses. ASC 606 can further amplify this quarterly variance within a given year. For this reason, I want to reiterate that we manage the business with a strong emphasis on full-year and multi-year performance. We are on-track to achieve our margin objective for the year, while driving towards our long-term goal of 26% in 2021, and high-20s longer-term.
+To wrap up the income statement, GAAP earnings per share were $1.01. Non-GAAP earnings per share were $1.08. Turning to cash, operating cash outflow was 144 million, reflecting our typical payout of variable compensation in Q1. We ended the quarter with a cash balance of $592 million, and total debt of $542 million.
+Building on last year’s significant share repurchases of $400 million, we repurchased $29 million of our stock in Q1. Since 2016, we’ve returned more than $1.2 billion to shareholders, and expect buybacks to remain an important piece of our capital allocation strategy.
+Moving on to guidance. We remain confident in our outlook for the year and are reaffirming our annual targets. Our targets are based on ASC 606 revenue recognition rules. For the second quarter, we expect revenue between $810 and $850 million; total GAAP costs and expenses between $682 and $708 million; total non-GAAP costs and expenses between $620 and $640 million; other income and expense between $0 million and $2 million; a non-GAAP normalized tax rate of 16%; outstanding shares between 153 million and 156 million; GAAP earnings of $0.71 to $0.79 per share; and non-GAAP earnings of $1.07 to $1.12 per share.
+For 2019, the full-year targets are: revenue of $3.29 billion to $3.34 billion; total GAAP costs and expenses between $2.76 billion and $2.79 billion; total non-GAAP costs and expenses between $2.52 and $2.54 billion, resulting in a non-GAAP operating margin at the midpoint of just over 23.5%; other income and expense between minus $13 million and minus $9 million; a non-GAAP normalized tax rate of 16%; outstanding shares between 153 million and 156 million; GAAP earnings of $3.19 to $3.32 per share; non-GAAP earnings of $4.20 to $4.27 per share; cash flow from operations of approximately $700 million; and capital expenditures of approximately $270 million, which includes the buildout of our China facility, as well as the relocation of some Silicon Valley offices. We continue to expect CapEx to drop roughly in half in 2020.
+To wrap up, we executed very well in Q1 and we are reaffirming our guidance for the full-year. Company-wide, we are delivering robust revenue growth and driving profitability toward our long-term margin objectives. Both of our operating segments performed well and our new segment reporting will provide investors with greater transparency into these results.
+Finally, we remain committed to a balanced capital allocation strategy, investing in the business while continuing to return capital to our shareholders as we focus on driving sustainable, long-term value.
+And with that, I’ll turn it over to the operator for questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question is from Rich Valera with Needham & Company. Please go ahead.
+Rich Valera
+Thank you. Aart, you mentioned a couple of times in your prepared remarks about the uncertain macro environment and a couple of questions on that, first is, has that any changed from last quarter you reported? And secondly, have you seen this uncertain macro impact your business in anyway at this point, I guess particularly on the hardware side, which might be more susceptible to that kind of pressure?
+Aart de Geus
+Thanks Rich. Good question. It's always difficult to say if there's a big difference from one quarter to another because these quarters flow from one to the other in somewhat not distinct fashion. The way I would answer it, it has had no impact on our business. I do think – I do see that some of the reports looking at the forward look and the predictions for 2019 were a little softer than before, but they are also now a little bit better informed.
+And so, this pertains to really the chip volume business more than anything else. So, it doesn’t really touch us as the design starts and the design difficulty have continued to grow. As we have been in the past, while we are not immune completely to the ups and downs of the semiconductor industry, we are relatively touched lightly and we’re actually typically a safe haven during those times.
+Rich Valera
+I appreciate that. And then Trac, lots of nice new disclosure, couple of things. One the backlog which you gave the 4.3 billion, is that something you’re going to discuss more regularly? I’ve never heard you give a backlog number, not at a – at the end of the year, so just wondering why give that now and then should we expect to be getting the operating margins of the two business segments on a go forward basis, while that you are now breaking out that software integrity for both revenue and presumably operating margins?
+Trac Pham
+Hi, Rich. On the first question on backlog, we thought it was important to highlight backlog starting this year because as part of the 606 transition we will be including that and disclosing that in our 10-Q, so yes you will see that on a quarterly basis. With regards to the segment reporting, going forward as part of segment reporting we will provide both revenue and operating margin for both those segments.
+Rich Valera
+Great, definitely appreciate that disclosure. Keep up the good work. Thank you.
+Aart de Geus
+Thank you.
+Trac Pham
+Thank you.
+Operator
+Our next question from Mitchell Steves with RBC Capital Markets. Please go ahead.
+Mitchell Steves
+Hi, guys. Thanks for taking my question, and thanks for all the new disclosures here. So just, first, kind of on the revenue line, I know you guys already gave out a guidance, but this is kind of the third-year straight where you're talking about a [2H deceleration], and that hasn't happened in the last couple of years. So, I guess, instead of me asking about the conservatism, what's kind of embedded in 2H in terms of the guidance?
+Trac Pham
+Mitch, I wouldn’t characterize it that way. We actually had a great start to the year with Q1 and given our outlook for Q2. To us the latest [indiscernible] forecast than we entered the year and frankly from that perspective, I'm feeling optimistic and more confident in the outlook that we have, that’s why we reaffirm the guidance for the full-year.
+Mitchell Steves
+Got it. And then the second one is on the cash flows. If I heard that correctly, you said that the CapEx should come down in half. Does that kind of give you an implied, like I guess, $900 million plus in cash flow for 2020?
+Aart de Geus
+It’s too early to guide on 2020 at this point. We just wanted to give an indication that the CapEx spend for this year is unusually high because of the few items that we highlighted.
+Mitchell Steves
+Okay. Got it. And then just last one, just on the Software Integrity margins. So, I think there's kind of a bull case here, where that's going to be higher than your corporate average long-term. Is there any reason why that wouldn't be the case if I look out 5 or 10 years?
+Trac Pham
+We don't want to draw out that far, I guess let me abstract that first at the highest level. We are committed to 26% operating margins in 2021. We will be driving improvements across all areas both on – in both segments and across all areas of the business. So, you should see improvements there. At this point, we’re pleased to see off the quarter with profitability in software integrity, but it’s a new market for us that’s growing and we’ll continue to invest in building up the software integrity platform, as well as scaling up that business, so it will be lumpy quarter-to-quarter, but I think long-term the trend that we’ve seen over the last five years should continue.
+Mitchell Steves
+Okay, perfect. Great quarter guys.
+Aart de Geus
+Thank you.
+Trac Pham
+Thank you.
+Operator
+And we go next to Sterling Auty with JPMorgan. Please go ahead.
+Jackson Ader
+Great, thanks. Hi, guys. This is actually Jackson Ader on for Sterling tonight. Thanks for taking our questions.
+Aart de Geus
+You’re welcome.
+Jackson Ader
+First one, there’s been something on investors’ minds today, I guess since last night, Cadence announced a significant new win with a marquee North American semiconductor company. And so, based on their description, it has led to some investors concluding that that company that they mentioned last night maybe Intel. Since Intel is your largest customer, do you have any comment on what’s happening there? Any share shifts that you may be seeing?
+Aart de Geus
+We never comment about individual customers and Intel has definitely been a very good partnering customer to us and in general it sounds like both companies have done extremely well recently and I hope that bodes well for the overall markets. So, yes, we do compete in many places, but at the same time our objectives are to do well and I think we just did that this quarter.
+Jackson Ader
+Okay, alright, fair enough. And then a quick follow-up, was there any maybe buying behavior, particularly in the emulation space that maybe drove some budget flush spending around the calendar year-end in December where you maybe saw some pull-forward of Emulation purchases?
+Aart de Geus
+No, we didn’t see any of that. And a number of people have asked us that question also in the context of China and we didn’t really see that. And so, I think we’re seeing Q1 as just a continuation of now quite a number of good quarters and of a business that is both diversified, well-balanced and growing well.
+Jackson Ader
+Okay. Alright. Thank you.
+Aart de Geus
+You’re welcome.
+Operator
+We have a question from Monica Garg with KeyBanc. Please go ahead.
+Monica Garg
+Thanks for taking my questions. Firs, I mean you have a very strong beat in Q1 revenue by 20 million almost, EPS $0.10, I guess why the upside not flowing to early guidance both for revenue and EPS?
+Trac Pham
+Monica, this is Trac. As I said earlier, it’s a good start for the year. The results were a combination of us executing very well and growing the business. Some of it is timing in terms of customer deliveries, so in fact there is a lot of business left to book for the full-year. We feel good about the outlook and it’s nice to have the first half look pretty secure.
+Monica Garg
+Got it, and then I think last quarter or before that you said that you have a leadership position in Emulation, could you maybe see if that still holds through?
+Aart de Geus
+Well our Emulation has done extremely well and this is a domain that – and this is I think good news for many that continues to grow well because the demand around very difficult problems for Emulation as acceleration to simulation is high. In addition, Synopsis has focused on a special case that is extremely important, which is can you run software on hardware that doesn’t quite exit yet, i.e., hardware that you mock up and emulate, and the answer is yes. And more and more customers report that that is absolutely crucial because more often than not when a product is ready, the software is not and you cannot go to market, and that is why our area has done particularly well. And while these numbers are not individually disclosed, we are certainly convinced that we are the market leader in this area.
+Monica Garg
+Right. Then Aart you provided some commentary regarding the verification usage in cloud, but maybe could you talk about how ready you think Synopsis solutions are for usage in the Cloud, are you seeing interest from – not only from verification for other product as well?
+Aart de Geus
+Let me go backwards on the question. The answer is yes. There are number of other tools that are also used in the Cloud, typically things that require or can benefit from big bursts of competition where a user may not want to buy their own computers just for the burst period, and so these type of tools tend to be optimized little bit differently, so that they can run more easily in a public clouds or various forms of private cloud. And so, there’s quite a bit of interest in that.
+I don’t think that things are completely back and white though, meaning that there are a lot of practical issues that have to be overcome to make things run very well and there are steady advances on making the various forms of software do that effectively, so that customers can essentially have a more flexible spending on hardware when they want it.
+Monica Garg
+Alright, thank you so much.
+Aart de Geus
+You’re welcome.
+Operator
+Our next question from Tom Diffely with D.A. Davidson. Please go ahead.
+Tom Diffely
+Yes, good afternoon. I guess first Trac, I was wondering if any of the strength you saw in the quarter was driven by concerns at maybe there would be a worsening of the trade war and some of the customers wanted to buy ahead of that.
+Trac Pham
+We haven’t seen a change in behavior of having that affect our revenues. As I said, it’s pretty balanced in terms of growth, as well as to a lesser degree, timing of customer contracts.
+Tom Diffely
+Okay, then maybe just a big picture question for Aart. How do you look at the EDA growth when you have a slowing of Moore’s Law, but then you have an increasing of the use of new materials and technologies along the way? I mean, unbalanced, does that scenario provide growth for EDA or stability, how do you look at that?
+Aart de Geus
+You know, it almost feels like a question that you could have asked in 1997 and 2007, and again, and I don't want to sidestep at all the fact that the complexity of Moore’s Law is increasing and the complexity itself is good for us, but with the complexity of course comes an economic equation that will over time bring some changes for customers and so at this point in time though, the demand for really advanced chips is quite strong and that I have illuminated many times by saying that we have entered a whole new phase of what electronics can do in most products and actually in most verticals and that is the age of condition or artificial intelligence, where the early results and have to be called early because they are literally just three or four years old now are very promising, but the demand for dramatically more computation is unabated.
+And so, I think the push will continue and the challenges that continue with it and I think for a company such as ourselves that’s a good thing, because that is our specialty. By the way, this reaches all the way down to the deep physics of Moore’s Law where we do excellent business in providing simulation tools that allow to check out how a brand-new transistor such as let’s say the gate-all-around type models, will function before even manufacture them. So, the food chain of Moore’s Law is actually pretty long.
+Tom Diffely
+But maybe just bring the food chain down a little further or maybe up little further, if you look at it down to packaging taken over some of the increases in more than Moore’s Law if you will, how does that benefit you from an EDA company and is it meaningful?
+Aart de Geus
+Excellent question because this is a question that has actually also has sort of ups and downs multiple times in the last couple of decades, every time there was sort of a hint that Moore’s law was coming to an abrupt end, the solution was well instead of putting things in one chip let’s put into to multiple chips, maybe stack those chips on top of each other and the technologies have actually advanced substantially to make that possible, but they are not simple in their own right, meaning that if you can still put it in one chip that is often easier both economically and technically.
+Having said that, yes there is progress in various forms of packaging and stacking of chips and we think that that will continue to grow over the years to come and there too a sophisticated EDA tool such as ours will be absolutely necessary to do that. So, it sounds like these are very different things, but from my perspective it’s just a continuation of whatever is the best method to deliver a lot of functionality electronically, we will be full focused on.
+Tom Diffely
+Okay, great, thanks for your time.
+Aart De Geus
+You’re welcome.
+Operator
+[Operator Instructions] We will go next to Jay Vleeschhouwer with Griffin Securities. Please go ahead.
+Jay Vleeschhouwer
+Thank you Aart. Let me start with you regarding SIG and then a backlog question for Trac. So, anticipation of the SIG platform that you have been alluding to, could you talk about what the customer behavior looks like thus far with regard to both the mix of SIG tools that they are buying and services engagements that you’re providing or undertaking for SIG? So, in the case of the product for example, are customers buying multiple solutions are they buying not just Coverity, not just the Duck, but multiple products, and then with regard to the services, would you regard those as leading coincident or lagging indicators for the SIG business and light the platform perhaps mitigate how services intensive that business might be and therefore up margins over time?
+Aart De Geus
+That’s an excellent question because we of course entered this market as it was just coming about, it’s a highly in development market, there are many different point solutions. And we were fortunate enough to acquire, I believe some of the very best ones. Why do I describe it in that fashion because if you are sitting on the user side, you may have specific problems for which you buy a very specific point tool and may be happy with that? If you are sitting a little bit closer to the IT management of a company that has many users, this is a horror scenario, because now you have all these point tools from all these individual, often small companies, often companies that do not have longevity in being able to support you, may disappear or may get acquired.
+And so, we noticed already now, I would say a couple of years ago that the number of companies were positively surprised when they found out that of some of the point tools, we had acquired behind that was a company like Synopsis that were actually substantial had a long history and therefore was probably stable. If you now amend that by the fact that a platform really is a mechanism to bring multiple point tools together to make them look and feel the same, be able to share data between the tools have reports that can both work for the individual user, but also for the management to get good overview, you can see how at a minimum this brings a simplification for the people that have to manage the utilization of all of this in large companies, often companies where their core competence is not the software, but they are highly dependent on some sets of software that need to secured and high quality. 
+In that context, the service question is extremely appropriate. We have said, when we acquired it that initially it would give us access to precisely the higher-level management that needed help in plotting their strategies on how to go about security strategy around the software. And in that sense, that would be in your leading category.
+Meanwhile, there's a number of services that we provide where on a regular basis, we do certain checks for customers that would be in the coincidental category. And then if there are issues that pop up at a customer, that only they don't know what to do there that would be lagging, but we certainly can provide help in a situation where suddenly an urgency comes up.
+So, maybe summarizing this somewhat long monologue here is that we have a number of puzzle pieces that are now being put together and out of that I think comes both a stronger position for us, a more effective utilization on the part of the customer and the opportunity to continually add incremental value to the platform.
+Jay Vleeschhouwer
+For Trac, you grew your backlog – and thank you for that Aart. That was good explanation. For Trac, you grew your backlog a quarter, by the amount that you grew your backlog for all of fiscal 2018 about $300 million. So, assuming the usual three-year runoff or conversion that isn't translating into any incremental revenues relative to guidance for this year?
+Trac Pham
+Look, Jay we don't want to comment on how to extrapolate the backlog. We're going to disclose that so you will see that trend over time. But given that we will have different contracts renew at different points in time I think it's too – it would be too difficult to really translate that to the health of the business. Overall, I think we'll continue to refer you back to run rate growth in the business and look at that trend. And that tends to be – that has been up.
+Jay Vleeschhouwer
+Thank you.
+Aart de Geus
+Thank you, Jay.
+Operator
+We have a question from Josh Tilton with Berenberg Capital Markets. Please go ahead.
+JoshTilton
+Hi, thanks for taking my questions. Have you seen increased stickiness with customers as the Fusion offering integrates many steps of the design flow that may have been accomplished with numerous products in the past?
+Aart de Geus
+It is too early to be able to check on stickiness because that is by definition something over a long period of time. But the expectation would be absolutely yes, meaning that, one of the key reasons customers will use this is because on a number of cases they will get better results, they will get the better results in a more predictable fashion and in a shorter amount of time.
+And so, in that sense, it's really a continuation of our objectives for the last 30 years, which is provide better and better tools for more and more difficult chips. And so, the early adoption has been very positive. We are maturing things rapidly. We're adding already new capabilities some of those will be announced in the not-too-distant future. And so, it is definitely at the core of our platform for the next decade.
+JoshTilton
+Thanks. And then second question what is Software Integrity's current exposure to auto? And then how big is the potential auto's had for Software Integrity?
+Aart de Geus
+I don't know the exact number, but I can tell you that we've had a number of very exciting automotive not only interactions, but actually substantial business closures. And just to give a little color to that, in some cases, they have been connected somewhat to the rest of our business as we have moved into automotive. But in a number of cases, it's also that the automotive field has discovered, so to speak, that software is a major issue.
+And when I say the automotive industry, I mean the OEM, so the actual car manufacturers, and this is interesting from a different perspective. They have in the last 100 years or so relied on an enormously complex supplier chain. And now suddenly the concerns are directly at their door, because if they move into adding way more software and already the advanced cars have about 100 million lines of code, way more software in order to do autonomous driving or any other form of assisted driving, the risk of vulnerability is actually very, very costly.
+And so, we have a number of customers that have now done large deals with us. We expect those to continue to grow over time. And interestingly enough, as we're coming via the Software Integrity Group sort of down from the software, we're moving up from the hardware with the various forms of virtual prototyping, and this is exactly part of the strategic picture that we have seen now for a number of years, which is this pincer movement around everything is sitting on the intersection of hardware and software. And that's where the value will be created.
+JoshTilton
+Thank you very much.
+Aart de Geus
+Thank you.
+Operator
+And I'll turn it back to our speakers for any closing comments.
+Aart de Geus
+Well, with that, thank you very much for attending this call. We completed a strong first quarter in the year and thus have renewed confidence in the rest of the year. And we're, as usual, thankful for both your questions and your attention to our company. Have a good rest of the afternoon.
+Operator
+Ladies and gentlemen, this will conclude our teleconference for today. Thank you for using AT&T Teleconferencing, and you may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

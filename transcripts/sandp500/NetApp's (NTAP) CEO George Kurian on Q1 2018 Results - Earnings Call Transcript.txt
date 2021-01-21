@@ -1,0 +1,257 @@
+NetApp, Inc. (NASDAQ:NTAP) Q1 2018 Results Earnings Conference Call August 16, 2017  5:30 PM ET
+Executives
+Kris Newton - VP, Corporate Communications and IR
+George Kurian - CEO
+Ron Pasek - CFO
+Analysts
+Joe Wittine - Longbow Research
+Simon Leopold - Raymond James
+Dave Ryzhik - Susquehanna Group
+Steve Milunovich - UBS
+Wamsi Mohan - Bank of America/Merrill Lynch
+Eric Martinuzzi - Lake Street Capital
+Maynard Um - Wells Fargo
+Katy Huberty - Morgan Stanley
+Andrew Nowinski - Piper Jaffray
+Jayson Noland - Baird
+Alex Kurtz - KeyBanc Capital Markets
+Amit Daryanani - RBC Capital Markets
+Srini Nandury - Summit Redstone
+Steven Fox - Cross Research
+Jim Suva - Citi
+Sherri Scribner - Deutsche Bank
+Mark Kelleher - D.A. Davidson
+Mark Moskowitz - Barclays
+Nehal Chokshi - Maxim Group
+Rod Hall - J.P. Morgan
+Operator
+Good afternoon ladies and gentlemen. Welcome to NetApp’s First Quarter Fiscal Year 2018 Financial Results Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and answer-session and instructions will be given at that time.
+I will now turn the call over to Kris Newton, Vice President, Corporate Communications and Investor Relations.
+Kris Newton
+Hello and thank you for joining us on our Q1 fiscal year 2018 earnings call. With me today are our CEO, George Kurian; and CFO, Ron Pasek. This call is being webcast live and will be available for replay on our website at netapp.com along with the earnings release, our financial tables and guidance, a historical supplemental data table and the non-GAAP to GAAP reconciliation.
+As a reminder, during today’s call, we will make forward-looking statements and projections with respect to our financial outlook and future prospects, such as our guidance for the second quarter and full fiscal year 2018 and our expectations regarding future revenue, profitability, cash flow and shareholder returns, all of which involve risk and uncertainty. We disclaim any obligation to update our forward-looking statements and projections. Actual results may differ materially from our statements and projections for a variety of reasons, including global political macroeconomic and market conditions and our ability to expand our total available market, enhance our product offerings, execute new business models, manage our gross profit margins, capitalize on our market position, maintain execution and continue our capital allocation strategy.
+Please also refer to the documents we file from time-to-time with the SEC, specifically our most recent Form 10-K for fiscal year 2017 and our current reports on Form 8-K, all of which can be found on our website. During the call, all financial measures presented will be non-GAAP, unless otherwise indicated.
+I will now turn the call over to George.
+George Kurian
+Thanks, Kris. Welcome, everyone. Thank you for joining us today. With focused market-leading innovation and disciplined execution, we delivered a strong start to fiscal year 2018. Revenue was above the midpoint of our guidance range and gross margin, operating margin and earnings per share were all above our guidance. NetApp is winning because we deliver solutions that enable our customers to harness the value of their data and thrive in a digital world.
+In addition to delivering solid results across the board, we further strengthened our leadership position by enhancing our all-flash array and converged infrastructure offerings, and augmenting our Data Fabric strategy. We expanded our strategic partnership with Microsoft Azure and introduced new hybrid cloud software solutions. The accelerating turnaround of NetApp underscores our unique technology leadership and expanding opportunity.
+As I have said before, NetApp is transforming to align our strategic focus, investments and execution with the changing needs of our customers. The first phase of our transformation put us on a solid foundation by shifting our business to the growth areas of the market, bringing our cost structure in line with our opportunities, and substantially improving our leadership capability and execution.
+As we shift to the second phase of our transformation, we are building on that foundation to deliver sustained and profitable growth. We are focused on three key priorities. First, to drive sustained top line growth, we will remain focused on the high growth areas of the market, as well as address new customers and new buying centers at existing customers. Second, to increase profitability as we grow, we will continue our disciplined approach to realign our resources against the biggest opportunities and to focus on productivity to expand our innovation. And third, we will maintain our focus on capital allocation, balancing shareholder returns with investment in the business for long-term growth.
+Like NetApp, our customers are transforming to grow revenue and improve productivity. Through new digital business models and the Internet of Things, companies are harnessing the power of their data to enable new customer touch points, uncover business opportunities, and optimize operations. These imperatives require advanced data management capabilities and the new class of hybrid cloud data services. To address these needs, NetApp is delivering a Data Fabric that simplifies and integrates data management across cloud and on-premises environments. With our solutions, services and partnerships, we empower our customers to harness the power of the hybrid could, build next-generation data centers and modernize storage through data management.
+In addition to driving technical innovations, we have aligned our go-to-market teams, to focus on the strategic solutions in our portfolio, aligned sales resources to acquire new customers and attack new buying centers, improved sales discipline to expand gross margin, and are leveraging our unique position to access customers through multiple pathways tailored to their needs.
+Our $55 billion market opportunity consists of legacy segments that are in decline and newer segments that are growing rapidly, driven by digital transformation. We have already transitioned our business away from the declining segments to the data-driven high-growth segments of all-flash arrays, converged infrastructure, and hybrid cloud. We will further expand our opportunity with the general availability of our hyper-converged solutions, later this calendar year.
+Let me discuss the results we have had in these high growth markets, before turning to innovation and customer success.
+We continued to substantially outpace the growth of the all-flash array market and competitors, both large and small in that space. In Q1, our all-flash array business inclusive of All Flash FAS, EF and SolidFire products and services grew 95% year-over-year to an annualized net revenue run rate of $1.5 billion. Our strength in flash is also driving our success in SAN and converged infrastructure markets. Our share gains in the SAN market reflect our acquisition of new customers and new share of wallet within existing customers.
+The All Flash FlexPod helped strengthen our number two position in the converged infrastructure market and contributed to the 26% year-over-year growth of FlexPod revenue reported in IDC’s quarterly converged systems tracker for calendar Q1 2017. We are outpacing and winning against full-stack vendors with our best-of-breed solution. The success of our strategic direction is evident in the continued momentum in our strategic solutions which were 69% of net product revenue in Q1, up 22% year-over-year.
+The industry is in the early innings of the move from disk-based storage to flash as customers modernize existing datacenters and build next generation datacenters to lower the total cost of ownership while gaining greater speed and responsiveness from key business applications.
+We have a significant growth opportunity ahead as we penetrate our installed base and displace competitors’ installations with our cloud integrated all-flash solutions. NetApp is leading this transition to flash by providing customers with solutions that deliver unrivaled scale, speed and data services. Validating the innovation leadership and momentum of our all-flash array business, Gartner again recognized NetApp as a Leader in its Magic Quadrant for Solid-State Arrays.
+In the quarter, we increased the storage efficiency of our All Flash FAS solutions with expanded in line deduplication across multiple pools of storage. Just last week at the Flash Memory Summit, we demonstrated future flash storage innovations of NVMe over Fabric and storage-class memory. NetApp is uniquely positioned to deliver these new innovations because our approach allows our customers to non-disruptively integrate these advancements into their ONTAP and SolidFire data management architectures.
+Customers are also choosing the All Flash FAS to replace legacy tier 1 SAN installations because of its performance and density combined with industry-leading data management capabilities. At a U.S.-based financial services company, we replaced a competitor’s SAN installation with our All Flash FAS system, which provide a unified scale out architecture and the resilience needed for tier 1 workloads, and are also modular enough to accommodate the customer’s future datacenter consolidation plans. We consolidated SAN and NAS workloads into a single platform, allowing the company to leverage ONTAP as its data management standard.
+New innovations further strengthened our leadership position in the converged infrastructure market. In Q1, we introduced FlexPod SF, a SolidFire-based converged infrastructure solution that enables digital transformation with high-end predictable performance, programmable agility, and scale out value for multi-tenant environments. Enterprises, cloud service providers and partners choose NetApp because we enable their hybrid cloud strategies through our Data Fabric architecture.
+Our approach to hybrid cloud enabled us to make a first-time ever sale to a global leader in the hospitality industry. The customer had spent a significant amount of time and money unsuccessfully trying to realize their cloud mandate with a competitive solution. After purchasing ONTAP Cloud and ONTAP Select licenses, they were able to move a tier 1 application on to ONTAP Cloud running in AWS over a single weekend, and it now runs faster than it had on the competitor’s on-premises solution. This win positions us to not only be the data management platform of choice for their cloud workloads, but also to migrate their on-premises infrastructure from the competitor to NetApp.
+The NetApp Data Fabric, simplifies data management across the cloud and on-premises footprint to deliver consistent and integrated hybrid cloud data services, enabling customers to unleash the full power of their data. We continue to innovate in this space, and in Q1, we unreached our solutions, services and partnerships for hybrid cloud data services.
+We enhanced OnCommand Insight to provide hybrid cloud infrastructure and monitoring and analytics across the Data Fabric. We also expanded ONTAP functionality to deliver automatic and transparent tiering of inactive data to the cloud.
+At the start of Q2, we acquired Green Cloud, a private startup company that created a cloud services, orchestration and management platform for hybrid cloud and multi-cloud environments. Green Cloud augments our team and accelerates our leadership in hybrid services by providing NetApp with the scalable architecture, unique technology and expertise that enhances our ability to integrate and deliver cloud data services.
+Additionally, we announced the expansion of our collaboration with Microsoft to include hybrid cloud data services that will deliver enterprise-grade data visibility and insights, data access and control, and data protection and security for customers moving to Microsoft Azure. We will provide updates on this exciting collaboration later this calendar year.
+In a hybrid cloud data-driven world, we have an unprecedented opportunity to strengthen and grow our business. Our Data Fabric vision and architecture is being endorsed by not only customers and industry influencers, but also the world’s leading hyperscalers.
+Our focus, discipline and emphasis on execution has returned NetApp to growth with expanding margins, increased shareholder value and improving momentum. We saw continued growth in Q1 and expect to accelerate that growth in Q2 and throughout the year. We are helping our customers change the world with data, and that is driving our success.
+With that, I’ll now turn the call over to Ron to walk through our Q1 financial performance and go-forward expectations. Ron?
+Ron Pasek
+Thanks, George. Good afternoon, everyone, and thank you for joining us. Before we get started, I’d like to remind you that I’ll be referring to non-GAAP numbers today.
+With that, let’s get started.
+NetApp delivered another quarter of disciplined execution and strong financial performance, demonstrating the substantial progress we’ve made toward transforming the business, driving sustained growth, and addressing the changing market.
+Q1 net revenues of $1.33 billion grew 2% year-over-year and were above the midpoint of our guidance range. Product revenue of $723 million increased 10% year-over-year. This was a third consecutive quarter of year-over-year product revenue growth, driven by our successful pivot to the growth areas of the market.
+The combination of software maintenance and hardware maintenance, and other services revenues of $602 million were down 5% year-over-year. This decline was driven by the following factors: Changes we made to the service pricing several years ago; renewal execution issues in FY 2017; and several years of product revenue declines. It is important to note that total systems under contract increased slightly year-over-year. Although, we generally don’t provide services revenue guidance, we expect the year-over-year headwind for services revenue to lessen in the next several quarters and return to growth in the beginning of the next fiscal year. We are confident in these expectations as our product revenue has returned to growth, and we are seeing improvement in renewal execution from changes that we implemented at the beginning of this fiscal year.
+Gross margin of 63.8% was well above our guidance range. Product gross margin of 49.9%, increased approximately 3 points year-over-year due to improved sales discipline. Software maintenance gross margin was relatively flat year-over-year, while hardware maintenance and other services gross margin increased about 2 points year-over-year.
+Operating expenses of $637 million decreased 2% year-over-year and as expected increased 3% sequentially. As I discussed during our financial analyst day, the sequential increase was primarily due to merit increases. As a percent of net revenue, operating expenses of 48%, represented almost 2.5 points of improvement year-over-year, reflecting the benefit of our ongoing transformation efforts.
+Operating margin of 15.8% increased almost 4 points year-over-year and was above our guidance range due to higher revenue, higher gross margin, and lower operating expenses. Our effective tax rate for the quarter was 19.4% and weighted average diluted shares outstanding were 278 million. EPS of $0.62 was $0.05 above the high-end of our guidance range due to higher revenue and improved gross margins.
+We closed Q1 with $5.3 billion in cash and short-term investments with approximately 8% held by our domestic entities. In Q1, we repurchased $150 million of our shares and paid approximately $54 million in cash dividends. Today, we also announced our next cash dividend of $0.20 per share, which will be paid on October 25, 2017.
+To reiterate, we are committed to completing by the end of May 2018 the remaining $644 million of the share repurchase program that we announced in February 2015. Deferred and financed unearned services revenue was down just over 1% year-over-year due to the same dynamics that drove the decline in services revenue, I discussed earlier.
+Our cash conversion cycle extended 3 days year-over-year, reflecting a 12-day increase in days inventory outstanding due to higher levels of SSD raw materials on hand, partially offset by a 10-day improvement in days payable outstanding as a result of our transformation initiatives. DSO at 36 days was relatively flat year-over-year.
+As I noted last quarter, we continue to exercise our deep business and technical partnerships with our NAND and SSD suppliers. We have enough on-hand and committed supply of NAND to meet our requirements now through the end of our fiscal year.
+Q1 cash flow from operations was $250 million, an increase of 10% year-over-year. We generated strong free cash flow of $214 million in the quarter; this represents about 16% of net revenues and is an increase of 11% year-over-year.
+Now onto guidance. We executed well against our plans in Q1 and are pleased with the significant progress we’ve made toward transforming NetApp to succeed in the changing market. We’re making tough decisions that enable key investments to expand our TAM and drive strong financial performance over the long term. While we still have work to do, we remain confident in our ability to continue to execute against the plans we outlined for fiscal 2018, on our prior earnings call.
+To reiterate, we expect our typical seasonal patterns with revenue dollars increasing each quarter. We also expect our year-over-year growth rate to accelerate in the back half of the fiscal year. We expect gross margin of 62% to 63% and operating margin of 18% to 20%. Further, we remain committed to delivering low double-digit EPS growth for the year and free cash flow in the range of 17% to 19% of revenue.
+Now onto Q2. We expect net revenue to range between $1.31 billion and $1.46 billion, which at the midpoint, implies approximately 4.5% growth sequentially and 3.4% growth year-over-year. We expect Q2 consolidated gross margin of approximately 63% to 63.5%, reflecting a higher mix of product revenues quarter-to-quarter. We expect operating margins of approximately 16% to 17%. And finally, we expect earnings per share for the second quarter to range from approximately $0.64 to $0.72 per share.
+In closing, Q1 was another strong quarter of execution, reflecting a leverage in our business model with 2% year-over-year revenue growth yielding a 35% increase in year-over-year EPS growth. We are pleased with the substantial progress we’ve made to transform the business, drive sustained growth and increase shareholder value.
+With that, I will hand it back to Kris to open the call for Q&A. Kris?
+Kris Newton
+We’ll now open the call for Q&A. Please be respectful of your peers and limit yourself to one question, so we can get to as many people as possible. Thanks for your cooperation. Operator?
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions] Our first question comes from the line of Joe Wittine of Longbow Research. Your line is now open.
+Joe Wittine
+Hi, thanks. If I just have one here, how about a competitive question? Product sales of close to 10% again, how are you seeing the competition respond, specifically with discounting? Have they stepped it up yet or if not, do you expect that to be the next logical step? Thanks.
+George Kurian
+It’s always been competitive. We have substantial technology differentiation in big and early markets, all-flash arrays, converged infrastructure, hybrid cloud, and we’re executing to our plan. Every deal is competitive, HP, Dell/EMC, Pure Storage, and some of the smaller vendors, everyone competes fiercely on the whole range of things at their disposal. The fact that we have grown substantially, gained share in virtually every category in our business, and have expanded gross margins substantially in both product and services is clear support for our thesis that we have a unique differentiated position of technology leadership, as well as partnerships, and customers are voting with their wallet in our favor.
+Operator
+Thank you. Our next question comes from Simon Leopold of Raymond James. Your line is open.
+Simon Leopold
+Maybe following up on competitive landscape. From our discussions with the channel and customers, we’ve got the impression that you benefited for some time from maybe disruption at number of your large competitors, whether it was HP and its spin mergers or Dell/EMC and their integration; these two activities are going to lap at some point. Could you help us understand, how you see the competitive environment shaping up in terms of those two large competitors, as we look out over the next year or so and they are lapping their integration activities?
+George Kurian
+I clearly think from a technology standpoint and direction standpoint, there are multiple avenues where we are sustainably differentiated. From the technology standpoint, all-flash arrays, converged infrastructure, storage, resource management, as well as the evolving market for hyper-converged, we have very, very good solutions that are clearly differentiated, both in -- the technology that’s available today as well as those that are to come, both HP and Dell have major holes in their portfolio for the evolution of the all-flash array market. And clearly, we are demonstrating massive differentiation in terms of performance and execution in the converged infrastructure market which is frankly their home turf.
+None of these guys have a clear coherent hybrid cloud storage. And so we feel very, very good about our position in the market and are confident. We are in the early stages of the evolution of these markets and yes, they have their own execution challenges to get over, but clearly we feel that we’ve got a really solid lead against them and they’re going to have to come catch us, which is going to take them heck of a long time.
+Operator
+Our next question comes from Mehdi Hosseini of Susquehanna Group. Your question please. 
+Dave Ryzhik
+Hi, thanks. This is Dave Ryzhik for Mehdi. Thanks for taking the question. I just wanted to clarify in the deferred revenue commentary, Ron. It sounds like services becomes less of headwind. Now, do you expect services to exit fiscal 2018 at growth? And just digging a little deeper on the renewal execution. Was that pricing, did you guys aggressively price, because hardware maintenance declined, I think 8% year-over-year? I just wanted to dig a little deeper there? Thank you.
+Ron Pasek
+Yes. Thanks, Dave. So we -- I touched on this last quarter as well. Just a reminder, our services revenue is made up of a waterfall and annuity if you will over the last three, four years of transactions. We did make some pricing changes, both at the beginning of FY 2017 and actually back into 2013; we lowered ASPs to become more competitive. However, as you saw that did not affect our services margins. In fact, the services margins have increased the last several quarters.
+Added to that, we had several years before Q3 of last year of product revenue declines, we have turned that around; that should help in the second half of this year. And we did have some service execution issues in this back half of FY 2017. So, we have largely focused on place on renewal execution issues. And that’s why I am confident as we continue this fiscal year, the headwind will lessen, and I think you will see services revenue turn around and get back to growth in Q1 of 2019.
+Operator
+Our next question comes from Steve Milunovich of UBS. Your line is open.
+Steve Milunovich
+Yes. Thank you. Regarding your all flash product. In terms of the quarter’s shipments, is all flash over half of what you are delivering from an array standpoint and do you still feel that the margins are -- you are pretty neutral between all flash versus disk? 
+George Kurian
+That’s correct. It’s about the -- it’s about 50%, and we feel very good about the trajectory and the margins of all flash vis-à-vis hybrid.
+Operator
+Our next question comes from Wamsi Mohan of Bank of America/Merrill Lynch. Your question, please?
+Wamsi Mohan
+Yes, thank you. I was wondering how the maintenance attached for the flash product compares to the overall portfolio. And is that part of the reason why the hardware maintenance was down a fair amount despite the easy compares, in addition to other things that you highlighted, Ron?
+Ron Pasek
+So, Wamsi, no, the attach rate is no different on all flash versus spinning disk. And no, it had nothing to do with why service was down. It really was ASP which we did, we planned on doing, and to some extent renewal execution from last year which affects this year more than anything else.
+Wamsi Mohan
+If I could, a quick clarification. It appears from your guidance that OpEx could be up year-on-year. Is that consistent with your expectations or is that a change from prior expectations? Thank you.
+Ron Pasek
+Yes. OpEx in Q2 is up very slightly. It’s three factors. One is foreign exchange, it was about $4 million as you bridge Q1 to Q2. The other is the acquisition George mentioned, which is Green Cloud that’s additive to our OpEx. And then, we simply have more variable compensation in Q2. So, was your question, Wamsi, on year-over-year OpEx increase?
+Wamsi Mohan
+Yes, year-over-year.
+Ron Pasek
+Yes, it’s just some calendarization and no structural issues. As I mentioned, full year OpEx is only up slightly, essentially just for merit increases.
+Operator
+Next question comes from Eric Martinuzzi of Lake Street Capital. Your line is open.
+Eric Martinuzzi
+Yes. Curious about your estimation of installed base penetration on the flash product that to me seems like probably the low-hanging fruit here in the success you are seeing on the product side.
+George Kurian
+We are in the very early innings of our installed based. It’s less than 10%. And as we said, we’ve gained share in the SAN market which has been the predominant location for all flash storage. We feel very, very good about our position in the all flash NAS market. And as you know, we won many, many awards year-over-year for technological leadership. So, as we see the market for NAS transition as well, we have substantial room to go.
+Operator
+Next question comes from Maynard Um of Wells Fargo. Your question, please?
+Maynard Um
+Hi, thank you. Can you just update us on the changes to your go-to-market and to the compensation. I think it’s now been a little more than three months, and doesn’t look like, there was much of an impact, but curious what impact you’re seeing or if it’s too early to kind of see what the full impact of those changes are?
+George Kurian
+I think, the things that you should focus in on is the improved results on product revenue and gross margin were due to the compensation changes we’ve made. We’ve also allowed resources to hunt versus farm our installed based, which is allowing us to accelerate our momentum against the competition by acquiring new accounts and new wallet share in existing accounts. So, we feel very, very good about the changes that we’ve made. In terms of renewals, we brought renewed organizational focus as single owner for renewals execution across the company and we’ve got a disciplined approach that makes us feel much more confident about our execution plan. We feel good about the progress year-to-date. We still have more work to do, but early signs are good.
+Maynard Um
+And then, can you just walk us through some of your vertical markets, places where you’re seeing strengths and softness? And what you’re anticipating in terms of your guidance next quarter from U.S. government? Thanks.
+George Kurian
+Broadly speaking, we don’t have any specific commentary across the different vertical markets. We see a good balanced book of business and see strength across broad range. All of our Peters [ph] executed well. I mean, if you look at our public sector business, it is essentially mirrors the administration spending priorities. We saw strength in the Department of Defense and relative balance, and the civilian segment or public sector, we think that this will be a normal end of year flush budget. And we feel good about our market share position. We’ve got a broad reach into the market, clearly differentiated technology and long-term relationships with the customers, and feel good about our position there.
+Operator
+Our next question comes from Katy Huberty of Morgan Stanley. Your line is open.
+Katy Huberty
+Ron, product margins were up year-on-year and sequential. So, can you just talk to what the drivers were? And when we think about the next few quarters, where could product margins go, assuming memory prices remain elevated and then where do you think that could go longer term in NAND prices ease?
+Ron Pasek
+So, I think we were pretty clear that one other focus areas for us was product margins. We believe that we were not executing as well as we thought. We did make some changes to compensation as George indicated. I think at our Analyst Day, I didn’t give specific guidance on where product margins would leave -- would end up. But I do think we’re executing well. I think what you’ll see is baked in some of the guidance we gave for the full year of the 62% to 63%. And ultimately, I think that when we have our Analyst Day next year, I’ll give you guide on FY 2019. But I still think we have some ways to go.
+Operator
+Next question comes from Andrew Nowinski of Piper Jaffray. Your line is open.
+Andrew Nowinski
+Thanks for taking the question. A lot of them have been asked, but just a question on SolidFire. I think last year, it was 2% of your total revenue. I know you made some changes to the -- having trained the broader sales forces start selling now versus using specialists. So, I’m just wondering if you could give us any traction on or any color on the traction SolidFire has had this quarter and what you think you can do going forward? Thanks.
+George Kurian
+SolidFire has been integrated into NetApp go-to-market organization and into the product group. We feel good about the integration so far. We’ve enabled our field sellers as well as our channel partners to be able to sell the technology. It’s part of our strategic portfolio and we’ve accelerated innovations in that portfolio this quarter. In Q1, we announced FlexPod SS, a converged infrastructure solution combining Cisco computer network together with SolidFire storage and data management, we’re excited to bring that to the market and we started to see positive reviews from that. And as we’ve said before, you’ll see us bring a SolidFire base hyper converged solution to market later this calendar year. So, overall, steady as we go. We still have more work to do but we feel good about the work that we’ve done so far.
+Operator
+Our next question comes from Jayson Noland of Baird. Your question, please?
+Jayson Noland
+Okay, great. I wanted to ask on NetApp HCI, George, GA. In calendar Q4, I assume you’ve got some betas in the field. I guess, what are your expectations for the second half of this fiscal year? And is this solution competitive to Nutanix and VSAN or is it sort of a different part of the market.
+George Kurian
+I think, first of all, we have multiple avenues to accelerate the momentum of NetApp. Clearly, we’ve demonstrated that in the all-flash array category and the converged infrastructure category. We have more exciting announcements around the cloud and other areas of our business that you should come to insight to hear about. With regard to the hyper converged solution, as we said, our approach is to bring to the enterprise, an enterprise-grade hyper converged solution that deals with some of the challenges that first generation hyper converged solutions like VSAN and Nutanix has. This is the ability deliver a guaranteed mixed workload performance to have modular scalability and upgradability of your storage environment, and your compute environment as well as to deploy mission-critical workloads like databases and other things beyond VDI, which is where the primary first generation vendors are. So, we feel good. The early reviews of it have been positive from the industry analysts and from the customers and partners that we’ve shared, which really more come to insight.
+Operator
+Next question comes from Alex Kurtz of KeyBanc Capital Markets. Your line is open.
+Alex Kurtz
+Yes. Thanks for taking the question. George, if you guys continue to execute on the product front here, double-digit growth, could you see kind of revisiting the OpEx growth rates for the business and maybe stepping it up, given some of the dislocation of some of the larger OEMs you compete against?
+George Kurian
+No, we’re going to continue to stay disciplined. Right? We’ve provided guidance for the year. We think that continuing to prioritize the markets that we compete in and our approach to access customers through partners is a good way to grow our business. We’re seeing the early results and they’ve proven good. We think that we can certainly accelerate the top-line in the second half of the year as we said through the course of the year, because of the momentum we’re seeing. But we’re going to continue to stay disciplined.
+Ron Pasek
+I would just add that what we talked about at Analyst Day was that transformation was not an event that something we do ongoing. So, we believe we still have work to do; that’s why we believe we can hold our cost structure roughly flat.
+Operator
+Next question comes from James Kisner of Jefferies. Your line is open.
+Unidentified Analyst
+Hi guys. David [ph] for James. Quick question, so, obviously you’ve had very good adoption of strategic revenue. I just wanted to ask question, you saw sequential decline in the proportion of products revenue that was strategic versus legacy. And also, it looks like this is the first time you’ve seen a sequential decline in run rate for the all-flash array. Is there something going on with customer adoption or just who’s ordering when in the year that is causing that?
+George Kurian
+I think just a couple of things. In terms of the mature business, as we’ve said consistently, mature does not go to zero. Right? There are three components to mature, add-on storage, the OEM business, and 7-Mode. And of those three, the only thing that really goes away over a period of time is 7-Mode, which is already a very, very small number. The mature business did -- we saw the add-on storage component of the mature business grow quite substantially because of the strength of our product revenue in the strategic site to which add-on storage gets attached. That’s the first point.
+The second is, with regard to seasonality in the all-flash array business. It’s a big business now. And so we saw the natural seasonality in our business on the sequential side. If you compare year-on-year, however, we’re dramatically outpacing the market and our business is big numbers. And we intend to sustain that year-on-year momentum through the fiscal year.
+Operator
+Our next question comes from Amit Daryanani of RBC Capital Markets. Your line is open.
+Amit Daryanani
+Thanks a lot and thanks for taking my question, guys. I guess to start with, just on your product growth number that you’ve had so far, a question get asked a lot of time on NetApp is, what’s your ability to sustain this product growth as you get to the back half of the year in the Jan and April quarters when compares presumably get tougher? So, just maybe help us understand, what are the two, three big levers you have that can show positive product growth in the back half? Thank you.
+George Kurian
+I think there are sort of three of four things that I would say, Amit. I think the first is, we have clear differentiated technology leadership and momentum in large markets like all-flash arrays, converged infrastructure and the hybrid cloud where we are in the early innings of a multiyear transition of very, very large enterprise infrastructures. And we’re demonstrating our technology leadership by outpacing competitors of all sizes and shapes.
+The second is that our portfolio is going to expand through the course of the year. Without telling you more, I would ask you to come to NetApp Insight and see some of the exciting innovations that we have. We’ve demonstrated some of them at Flash Memory Summit. Clearly, hyper converge is another arrow in our quiver, it’s for the second half of the year. But, we have multiple ways to accelerate the momentum of our business through the fiscal year, and we feel very confident about that.
+Operator
+The next question comes from Srini Nandury of Summit Redstone. Your line is open.
+UnidentifiedAnalyst
+All right. Thank you for taking my question. This is Amit again. [Ph] George, can you comment on your conversations you’re having with your channel partners, technical partners and customers on the upcoming HCI product and more importantly, do any of your customers currently have this product on beta trial or early access? Thank you.
+George Kurian
+As I said, I think HCI is one of many avenues for growth of NetApp. Our approach to HCI is to deliver enterprise-grade data services and modular flexibility that allows customers to deploy production workloads and mixed infrastructures on an HCI is different from the first generation HCI vendors. And so, we have had early demos and feedback from partners who are excited about it. Clearly, we got to get in the market and start to accelerate momentum, once we are in the market, but we feel good so far, clearly differentiated approach just like we brought to the solid-state storage market where we have already for the enterprise customers used the solid-state technology, not the early adopter niche providers. And so, we feel good about where we are.
+Operator
+Next question comes from Steven Fox of Cross Research. Your line is open.
+Steven Fox
+Thanks. Good afternoon. Just one question for me please. You mentioned that mix is going to help your gross margin this quarter. Can you be a little bit more specific on what mix drivers are most important and then what you are thinking in terms of, directionally, about mix and margins in the rest of the fiscal year? Thanks.
+Ron Pasek
+Yes. Sorry, Steven. I think what you’ll see on mix is that a portion of product revenue -- product margin to total revenue margin will be up in Q2. Service revenue is basically flat, which are higher revenue and higher margin -- I am sorry, higher margin. So, the mix question really is just between product and services margin, and it’s a slight headwind to margin in Q2, still above the 63% but a slight headwind. And what I said was, as you go to through the year, product revenue continues to grow, so all things being equal, it is a little bit of a headwind to margin on the total margin basis.
+Operator
+Our next question comes from Jim Suva of Citi. Your line is open.
+Jim Suva
+Thank you very much. The details have been great so far. I have one question. In your prepared comments, you talked about some success, what I believe was Azure, cloud provider 
+Azure. Can you help us understand, when you look at the relationship long-term, do you expect it to kind of mirror [ph] your portfolio as far as product versus software versus services or is it more leaned towards one of those three buckets, or how should we think about that and the profitability as such? Thank you so much.
+George Kurian
+I think it’s early to comment about the specifics of the Microsoft relationship. We will have more news later this calendar year. We are really excited about the collaboration because it is multi-faceted. On the cloud side, it’s developing new cloud data services based on NetApp ONTAP innovation that will be offered on the Azure cloud. And it will allow us to not only enable our customers to be successful in hybrid cloud architectures and deployment, but also will bring multiple competitors workloads to NetApp infrastructure on-premises as well as to the public cloud.
+On-premises, we have agreed to engineering collaboration to deliver an integrated solution architecture that combines Azure and Azure stock with NetApp ONTAP, so that customers can unlock greater value from their data and speed the migration of enterprise apps to that next-generation architecture. And we are also working with Microsoft on integrating our data fabric technology, technologies like our FabricPool, automated storage tiering technology, or to enable our Cloud Control, backup archival and compliance solution for Office 365, so it’s a broad-based multidimensional relationship, and we think that it will be a substantial differentiator for us in the market and is going to be sustainably differentiated for multiple years on a very, very broad basis. So stay tuned. We are really excited to tell you more as the services come to market.
+Operator
+Our next question comes from Sherri Scribner of Deutsche Bank. Your line is open.
+Sherri Scribner
+Hi. Ron, I was just curious on the gross margin along the full year guidance, 62% to 63%. Clearly, you are above that and guiding to higher than that in second quarter. So, the first half well above that rate. I know you said product gross margins would pressure the margins in the second half of the year; over the past couple of years, you haven’t seen that much pressure. So, I guess my question is, is that number a conservative or do you really expect gross margins to be below that 62%, which is where it would be to get to that 62%, 63% for the full year? Thanks.
+Ron Pasek
+Yes. No, I think what I was trying to say, Sherri, is that it is simply the mix of product margin versus services margin in the second half is much higher that puts a little pressure on the overall margin rate. But the product margins that you are seeing in Q1 and what’s implied in Q2 should hold. So, I think what we are saying is it’s just a mix issue between the products and services margins. That’s it.
+Operator
+Next question comes from Mark Kelleher of D.A. Davidson. Your line is open.
+Mark Kelleher
+Yes, thanks for taking the questions. Most of mine have been asked. But Ron, I was just looking at the balance sheet, the commercial paper notes were up. Can you just touch on that, what’s that, that was up pretty significantly?
+Ron Pasek
+Yes. So, -- and I touched on this at the Analyst Day; there was a question about whether we would be in more debt to complete the share repurchase program that we have in place. And we did in fact acquired about $400 million more in commercial paper. And that’s simply to complete that commitment. We have about $644 million left which we should be done with rest of that by the end of May of 2018.
+Operator
+Next question comes from Mark Moskowitz of Barclays. Your question please.
+Mark Moskowitz
+Thank you. Good afternoon. Just want to come back to services attach. Can you help us understand, if your system install activity is doing quite well, is that really implying that your services or maintenance attach is a lot less per customer, and is that as incentive to win more business or is that reflective of all-flash arrays just don’t require as much spares and maintenance? Any help would be greatly appreciated.
+Ron Pasek
+Yes. So, Mark, when you sell a new system, be it flash or anything else, you sell a three-year service contract. You recognize the revenue ratably every month over the life of that contract. So, yes, our attach rate on these systems is actually quite good. But it doesn’t move the services number to any great extent because it’s a huge number to move. So, most of the variance you are seeing is as I said, pricing changes we made several years ago, and then renewals on other things coming up for renewal that are older systems where we have improved our execution but did have some execution issues in the second half of last year.
+Operator
+Next question comes from Nehal Chokshi of Maxim Group. Your line is open.
+Nehal Chokshi
+Yes, thanks for the question. So, look, you guys put up 10% year-over-year growth on the product revenue, that’s off really difficult comps and the prior quarter hit 12% year-over-year growth on the product revenue. So, this seems to be very strong growth and yes, you have the installed based, you had three years of year-over-year decline, so that’s a little bit of challenge. But once that normalizes out, why shouldn’t you guys be more confident that you can do much better than the low single-digit year-over-year growth that you have been talking about?
+George Kurian
+We feel very good about our position. As we said, we have differentiated technology partnerships and pathways to market across three or four very large markets that are in the early innings of their development, all-flash arrays, converged infrastructure and hybrid cloud. I think what we are focused on is executing, executing flawlessly. You’ve seen us post good numbers. We’ve got do that through the course of this year, and we see accelerating momentum as we said, through the second half of this year. And you know what, we’ll provide more guidance as we see the execution plans play out. But so far, we feel extremely good. And as we said, we are substantial and differentiated technology leadership against competitors, both big and small, and they’ve got a long way to catch us.
+Operator
+Our last question comes from Rod Hall of J.P. Morgan. Your line is open.
+Rod Hall
+Great. Thanks guys for fitting me in there. I just had two. I noticed that your inventory levels are down just a little bit on last quarter. And so, I wanted to just check in on your -- where you’re at with memory hedging, NAND hedging. Do you have enough supply to kind of keep you hedged on the margins for a couple of more quarters or where do we stand at? And then I also wanted to come back to the sales execution point, the new I guess sales comp or incentive program. What surprised you there? Clearly, this margin was surprisingly good. Were you just surprised about how quickly the sales team took out those new programs, or can you give us a little bit more color about what the positive surprise there was? Thanks.
+Ron Pasek
+So, let’s start with inventory. So, inventory has a normal seasonal pattern; it should decrease from Q4, because that’s our highest quarter. What I tried to articulate in my prepared remarks is we did -- if you look at inventory year-over-year, Q1 this year versus last year, it could go up and simply and mostly because of positions we did take on the end supply. So that was conscious and something we thought the right thing to do. I’ll start on the compensation. So, I think typically what we see is, when we pay people to do things, they do them. And I think in this case, we had what we said is we had paid some of sales management to focus on gross margin and this year we’re paying all sales management to focus on gross margin; it’s having a good effect and the intended effect.
+Rod Hall
+NAND question, guys. Could you just say how far out you’re hedged at this point? Is it a couple of quarters, is it further…
+Ron Pasek
+What I said in my remarks is that we have secured supply to now the end of our fiscal year. So, until April of next year.
+George Kurian
+The last time we updated you guys, it was till the end of our calendar year; this time, it’s till the end of our fiscal year. So, we’ve got good technological and commercial relationships with the leading NAND suppliers and we’ve got supply assured till the end of our fiscal year. With regard to the question on sales compensation execution. Listen, we’re pleased with the results and our sales team’s done a real good job. We’re one quarter in, we’ve got to do that a few more quarters in a row, and then we’ll be very confident. So, we feel good about the start.
+Kris Newton
+Thank you very much, Rod. I’ll pass it back to George for some closing remarks.
+George Kurian
+I’m excited by what fiscal year 2018 brings. Customers and industry leaders are also excited by our strategic direction. And increasingly, they are choosing NetApp as their partner for data-driven digital transformation. We delivered a strong start to the year and introduced substantial innovation across our portfolio, and we will introduce even more exciting innovations at our Insight User Conference in Las Vegas in October.
+We are building on a strong foundation and are with that question the best positioned and the best executing company in the industry. We have technology leadership that’s differentiated and sustainable in several large markets like all-flash rays, converged infrastructure and the hybrid cloud that are in the early innings of their evolution across the enterprise IT landscape. And we have accelerating momentum on the top-line and leveraging our business model that is using solid results on the bottom line. With our scale, talent, technologies and partnerships, we have the unique position to lead the industry and I am even more confident than ever in our future. I want to thank the NetApp team for your laser focus, commitment to transformation and the execution results that we are delivering together. I look forward to talking with you again next quarter.
+Kris Newton
+Thank you.
+Operator
+Ladies and gentlemen, this concludes today’s conference. Thank you for your participation and have a wonderful day.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

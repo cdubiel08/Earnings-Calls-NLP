@@ -1,0 +1,337 @@
+Teradyne, Inc. (NASDAQ:TER) Q4 2018 Earnings Conference Call January 24, 2018 10:00 AM ET
+Company Participants
+Andy Blanchard - Vice President of Investor Relations
+Mark Jagiela - Chief Executive Officer
+Greg Beecher - Chief Financial Officer
+Conference Call Participants
+Vivek Arya - Bank of America Merrill Lynch
+Timothy Arcuri - UBS
+John Pitzer - Credit Suisse
+Mehdi Hosseini - SIG
+C.J. Muse - Evercore
+Atif Malik - Citi
+Brian Chin - Stifel
+Krish Sankar - Cowen
+Richard Eastman - Baird
+Toshiya Hari - Goldman Sachs
+Thomas Diffely - D.A. Davidson
+Operator
+Good morning. My name is Tiffany, and I will be your conference operator today. At this time, I would like to welcome everyone to the Teradyne Q4 2018 earnings conference call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session. [Operator Instructions] Thank you.
+Andy Blanchard, Vice President of Investor Relations, you may begin your conference.
+Andy Blanchard
+Thank you, Tiffany. Good morning, everyone, and welcome to our discussion of Teradyne's most recent financial results. I'm joined this morning by our CEO, Mark Jagiela; and CFO, Greg Beecher. Following our opening remarks, we'll provide details of our performance for 2018's fourth quarter and full year, along with our outlook for the first quarter of 2019.
+The press release containing our fourth quarter results was issued last evening. We're providing slides on the Investor page of the website that may be helpful to you in following the discussion. Replay of this call will be available via the same page after the call ends.
+The matters that we discuss today will include forward-looking statements that involve risk factors that could cause Teradyne's results to differ materially from management's current expectations. We encourage you to review the Safe Harbor statement contained in the earnings release as well as our most recent SEC filings.
+Additionally, those forward-looking statements are made as of today, and we take no obligation to update them as a result of developments occurring after this call. During today's call, we'll make reference to non-GAAP financial measures. We've posted additional information concerning these non-GAAP financial measures, including reconciliation to the most directly comparable GAAP financial measures were available on the Investor Page of our website.
+Also, between now and our next earnings call, Teradyne will be participating in Investor Conferences hosted by Goldman Sachs, Citi and Susquehanna.
+Now let's get on with the rest of the agenda. First, Mark will comment on our recent results and the market conditions as we enter the New Year. Greg will then offer more details on our quarterly and full year financial results along with our guidance for the first quarter. We'll then answer your questions and this call is scheduled for one hour. Mark?
+Mark Jagiela
+Good morning, and thanks for joining us. Today I'll provide a quick summary of our fourth quarter and 2018 results, discuss our outlook for the quarter and year ahead and outline our latest thinking about the long-term growth trends in Industrial Automation. Greg will then take you through the financial results, our updated earnings model and our guidance for the first quarter.
+As you saw in last evening's press release, we had a very strong finish to the year with company sales up about 8% from the fourth quarter of 2017 and non-GAAP EPS up over 35%. These both exceeded the top end of our guidance as Eagle Test's analog and LitePoint's wireless sales were particularly strong on the revenue side and our EPS benefited from both higher sales and record gross margins. For the full year, despite a significant drop in sales to our largest customer, all other parts of the business showed strong results, bringing our sales to about $2.1 billion with non-GAAP EPS of $2.37 a share.
+Looking more closely at the results. I'll provide a high level summary of each segment and Greg will take you through the detailed numbers. Overall, Semi Test sales in Q4 were up about 8% from the year-ago quarter and SOC test sales were up nearly 18% on continued demand from analog, image sensor and high-performance SOC. In analog test, we had record Eagle Test shipments in both Q4 and for the full year.
+In addition to the continued expansion of automotive and industrial applications, smarter consumer products are also boosting analog sales. Applications like smart speakers, smarter appliances, home security, combined with the wireless connections they require, all drive increased analog content and increased test demand.
+Along with every clever complex SOC controller that find its way into these smart products comes a multitude of analog sensors, power managers, motor controllers, actuators, audio/video drivers and enhanced displays.
+In Memory Test, strong markets and new products resulted in our highest annual memory revenue in history. Our leading position in the flash final test market, combined with the successful product introduction and expansion into the wafer test segment of the memory market, delivered over 46% sales growth for a total of over $270 million in Memory Test revenue for the year.
+It's not only big growth that's driving the market. The trend toward even higher speed interfaces in both Flash and DRAM continues unabated. Combined, these trends drive more test complexity, more test seconds and higher rate of memory tester obsolescence. In 2019, we plan to continue to expand our wafer test share position and we plan to introduce a high-speed DRAM test version of our Magnum platform, giving us full coverage of the memory test market.
+Looking at 2019 for Semi Test, there are conflicting indicators at play, making forecasting difficult. On the one hand, we have not seen any indication of a broad pullback in demand from customers and the increased complexity trends and new design activity remains very high.
+On the other hand, we've seen three very strong years of test demand with market growth rates well-above our modeled 2% to 4% CAGR. We've also seen a pullback in the front-end CapEx spending that began last year. Taking these factors into account, in SOC Test, we expect the market to be in the $2.3 billion to $2.7 billion range. And for Memory Test, we expect the market to be in the $650 million to $750 million range. Both of these are down about 15% to 20% from 2018.
+While we also expect Teradyne Semi Test revenue to be down, we expect it to be down less than the market drop due to planned share gains in both memory and SOC, as well as secular buying shifts balanced in our favor.
+At LitePoint, Q4 sales were up 43% from last year's Q4 and up 18% for the full year. We are now entering the early stages of market growth driven by both new Wi-Fi standards and 5G. We're seeing early production test system buying for Wi-Fi 6 and we're having early success with our 5G-millimeter wave test products in the labs of leading silicon providers as they prepare for future production ramps. We expect continued market growth in 2019, driven mainly by wider deployment of these new connectivity standards with 5G production test growth becoming more meaningful in 2020 and 2021.
+In our System Test group, sales in the quarter were down from a year about a-third from last year's fourth quarter due to a very tough compare in the Storage Test business. As you recall, we received customer acceptance and recognized revenue for cumulative shipments of our new system level test product in that quarter last year. For the full year of 2018, the group grew sales by 12% and operated above model profitability. We expect another strong year from the group in 2019.
+Shifting to Industrial Automation, 2018 was an important year for IA at Teradyne. We added MiR to extend low-cost easy-to-train safe collaborative robots to the mobile robot market. Secondly, we added Energid and their team of motion control software experts to extend the bounds of addressable markets for UR's innovative arms. These extensions will begin hitting the market in 2019.
+Third, our UR+ open API platform continue to expand from about 60 to over 130 certified plug-and-play partner applications.
+Fourth, we expanded our product reach with major new product introductions at both UR and MiR, substantially expanded our global organizational capabilities and delivered another year of mid to upper teens operating profits.
+From a starting point of $42 million in sales in 2015, IA delivered over $0.25 billion of sales in 2018. Although annual revenue of $261 million was up 54% from 2017 it was about $20 million below our target for the year.
+Continued softness in China and in the automotive sector resulted in Universal Robots' growth rate of 38% for the year and 28% in the fourth quarter compared to the year-ago periods.
+We have not experienced any meaningful competitive headwinds but rather see economic slowdown and uncertainty weighing on UR growth. On the other hand, MiR both had a fantastic quarter and year, growing close to 200% in the quarter, compared to the year-ago quarter and over 150% growth annually on a pro forma basis.
+As we did in 2018, this year we will continue to increase investments in Teradyne's high-growth Industrial Automation businesses to widen and deepen the moats around our leading positions in fixed and mobile collaborative robots.
+Given the 38% growth rate for UR in 2018 and the likelihood that softness in China and automotive will persist in 2019, we are modeling IA growth in 2019 at about 35% to 40% and bringing our midterm IA growth model down to 30% to 40% range. This pushes out a $3.50 to $4 a share earnings target out about one year from 2021 to 2022. Greg will cover this in more detail.
+On the capital allocation front, we’ll continue to buy back shares in 2019 with a planned repurchase of at least $500 million in shares while maintaining the dividend at the current level. We also continue to actively look at a wide range of M&A opportunities, primarily centered around Industrial Automation.
+Before closing, I'd like to announce that after 18 years of transformative leadership as Teradyne's CFO, Greg Beecher is planning for his retirement and Teradyne is planning for a smooth transition. Greg has a very flexible time frame and will continue on as CFO as we run a succession process that includes both internal and external candidates.
+With that, I'll turn things over to Greg
+Greg Beecher
+Thanks, Mark, and good morning, everyone. I'll start with the quick highlights of 2018 and then offer some comments on 2019 including our capital allocation plans. I'll also offer some perspective in our strategic position and the market trends at the business segment level and update you on the changes that we've made to our midterm financial model. And then I'll close with the fourth quarter results and first quarter outlook.
+On the 2018 financial highlights front, our $2.1 billion of sales and $2.37 in non-GAAP EPS was quite good. We grew EPS $0.03 over 2017, despite slightly lower sales and increased strategic investments in Industrial Automation where we grew OpEx over $50 million. This included folding in two acquisitions and further scaling our sales, support and development resources across the automation businesses.
+On the other side of EPS ledger, we picked up a point of gross margin, shaved our tax rate two points and reduced our diluted shares by 5%. So the net is a slight gain in EPS in a much stronger Industrial Automation strategic position.
+In 2018 we also achieved growth in all of our businesses except SOC Test, which experienced an off year due to lower mobility buying by a large customer. As expected, the highest annual growth was in our Industrial Automation segment, which includes Universal Robots MiR and Energid, where sales grew 54% to reach $261 million.
+Universal Robots saw annual growth of 38% reaching $234 million. As mark noted, this was below earlier expectations with strong headwinds in China and some slowdown in Tier 1 automotive buying.
+MiR, the industry leader in autonomous mobile robots grew full year sales over 150% to $31 million, up from $12 million in 2017. We recorded $24 million of those sales in our 2018 results as the MiR acquisition closed partly through 2018.
+Memory Test was a standout performer within Semi Test with sales growth of 46% to $273 million for the year and overall Memory Test market which exceeded about $950 million. Gross margin for the full year was 58%, a new company record.
+Favorable mix along with material cost reductions at UR drove this result. For example, our Industrial Automation gross margins expanded from 56% in 2017 to 59% in 2018. Teradyne supply line group continues to play a key role in both improving IA gross margins and our ability to scale up these fast-growing businesses.
+At the company level, we achieved a very healthy non-GAAP operating profit rate of 25% even with a significant expansion of our Industrial Automation portfolio and headcount. 2018 IA hiring which reached nearly 250 people help us extend our cobot product lead, develop for market more applications, cover larger accounts, generate more qualified leads and better support our channel partners.
+We also increased our stock buyback beyond our $750 million target to $823 million in 2018 buying back 22 million shares. Since the start of 2015 we've repurchased 50 million shares at an average price of $29.44. So apart from our healthy financial performance, we strengthened the company firstly like standing our served markets, adding new products and scaling our Industrial Automation businesses.
+I'll highlight these as I go through the segments. First in Semi Test, the expansion in memory wafer level test delivered nearly $40 million of new business in 2018. In SOC Test, we're seeing high demand for 5G-millimeter wave test capability from leading customers for development and early preproduction volumes. Shipping this year, we expect this 5G engineering test will position us quite nicely for the subsequent volume production starting in late 2020 and 2021.
+As Mark provided, our ATE market size estimates for 2019, I'll just simply add that in the midterm we see numerous positive trends for test with 5G-millimeter wave, autonomous vehicles, AI devices, augmented reality, Big Data. While we ride these positive inflections, we expect the market will remain somewhat volatile as manufacturers affect annual tester buying.
+These include chip complexity, unit growth, yields, customer-specific test strategies, utilization levels and so on. I remind you that this volatility is not new and we built our operating model to reflect up and down with market demand swings and still deliver solid financial performance.
+The other quick reminder in Semi Test is that annual buying shifts at individual customers can favor us or our principal competitor. In 2018, the shifts significantly favored our primary competitor. So for the first year after six consecutive years, we didn't gain share this year. However, our long-term plans remains to get back on that share gain trend-line.
+In Industrial Automation, MiR had expected 2018 breakout year with standalone sales of $41 million, as more industrial companies take advantage of our next-generation automation to move both piece parts and heavy pallets.
+We're also seeing some early hospital applications, moving medicine and supplies from stock rooms to nursing stations throughout the hospital. This is an entirely new vertical with the potential to grow nicely, given the increasing cost pressures on hospitals.
+On the new product front, the MiR500 was added to the product lineup and then the fourth quarter was autonomously moving pallets at multiple customers with greater safety and lower cost than the traditional forklift transport method. We expect that MiR will deliver upwards of 100% growth in 2019.
+Through 2018, Universal Robots grew at 56% cumulative rate from 2015 full year sales of $61 million. But for 2018 alone, growth slowed. We saw a sharp drop-off in China during the second half, along with some softness in Europe, principally tied to the automotive sector.
+On the competitive front, we extended our cobot lead with the e-Series, which enables faster training, higher safety, more compute power and a sense of touch. We also broadened our application reach, now fielding over 130 certified third-party plug-and-play accessories in our UR+ program. We'll continue to expand this number as we strengthen the technical and commercial support for the hundreds of independent developers in the program around the world.
+We're launching a number of new initiatives in 2019 to accelerate our lead generation and expand our direct customer touch, which should yield in the second half of the year. We also expect multiple waves of adoption ahead with larger companies gravitating to cobots.
+We also expect new enabling technologies, such as low-cost 3D vision and path planning to expand the cobot served market into more complex pick-and-place task. New applications using AI for training and fast adaptability and manipulating objects should also expand the range of cobot applications. In addition, we expect steady forces such as labor shortages, higher-quality requirements, cost pressures including inflation effects will continue to stimulate wider UR adoption.
+Shifting now to System Test, which includes our defense and aero, Production Board Test and Storage Test businesses. Sales grew 12% to $216 million over the 2017 levels and the segment operated above-model profitability. We expect strong performance again in 2019 as defense and aero continue to benefit from new program buying and the ongoing upgrade of legacy defense systems.
+In Production Board Test, we pioneered high-throughput in-line panel testing and that's now becoming more mainstream. In Storage Test, both our semiconductor and 3.5-inch hard disk drive customer are forecasting healthy 2019 demand.
+Turning now to Wireless Test demand at LitePoint. The group grew sales 18% and operated above-model profitability in 2018. Over the midterm, we expect continued healthy growth in Wireless Test with 5G cellular providing the biggest added lift.
+Now to the fourth quarter wrap up. At the company level, our sales for $520 million. The non-GAAP operating profit rate was 26%. And non-GAAP EPS was $0.63. We had no 10% customer in the fourth quarter and one for the full year. Non-GAAP gross margins were 60% in the quarter with favorable product mix.
+You will see our non-GAAP operating expenses were down $2 million to $175 million compared to the third quarter, due to lower variable compensation accruals and a one-time [Indiscernible] credit partially offset by IA hiring, principally from bringing on more than 20 very talented people from Rethink Robotics. The tax rate was 16% for the year on a GAAP basis we also benefited from a more favorable tax treatment for repatriated cash than we had expected.
+We bought back 7.8 million shares for $261 million at an average price of $33.51 in the quarter. And we end the year with cash and marketable security balances of $1.2 billion. We increased the IA earn-out accrual balance to $71 million, an increase in the quarter of $10 million based principally on strong MiR performance.
+Shifting now to our mid-term earnings model. Factoring in both recent history and our latest outlook, we've updated the earnings target of $3.50 to $4 of non-GAAP EPS to slip out a year into 2022 rather than 2021.
+We've provided an updated slide in our investor deck but at a high level we pulled back on UR's growth rate, and as said, the IA midterm growth rate of 30% to 40% going out through 2022. We've also reflected an 8% lower share count due to a lower buyback price in 2018 and we're also adding another year of buybacks by going out a year.
+So keep in mind that some of the numbers change as we're adding a year, but the takeaway should be that we're confident that our test businesses have secular growth and strong profitability and our high-growth IA businesses should be approaching $1 billion by 2022 with 20% or better EBIT.
+Shifting now to capital allocation. We're targeting to buy back $500 million of our stock in 2019. As in the past there's a problematic and an opportunistic component to the plan. At the same time, we have a very active IA M&A funnel, which is why we maintain dry powder on our balance sheet.
+Let me quickly talk about OpEx if that's an area that we are strategically growing in our Industrial Automation businesses to expand our competitive moats to remain the leader and capture the highest amount of the available profit pool.
+We plan to grow IA OpEx from $33 million exiting the fourth quarter to about $50 million a quarter in the second half of 2019. Similar to last year, we plan to operate the IA business around 15% EBIT for the year. And test we plan to keep OpEx approximately flat in 2019 apart from normal changes in variable compensation.
+Shifting to our outlook for the first quarter. Sales were expected to be between $460 million and $490 million. The non-GAAP EPS range is $0.39 to $0.47 and 177 million diluted shares.
+The first quarter guidance excludes the amortization of acquired intangibles and the non-cash imputed interest on the convertible debt. First quarter gross margins are estimated at 58%, down two points from the fourth quarter due to product mix.
+The first quarter OpEx running at 38% to 40% of first quarter sales is up about $10 million from the fourth quarter due to further IA distribution and product development investments principally Universal Robots and some one-time Semi Test NRE expenses.
+The non-GAAP operating profit rate at the midpoint of our first quarter guidance is about 19%. Our tax rate for 2019 is estimated at about 16%. Looking a bit closer to 2019, we expect gross margins to be in the range of 57% to 58%.
+Non-GAAP interest income excluding the non-cash imputed interest from the convert is expected to be about $3 million a quarter factoring in interest income and our cash balances partially offset by the 1.25% annual coupon on the convertible debt. And we earmarked a $90 million to $110 million for CapEx.
+So we start 2019 with a portfolio of healthy test businesses and a much stronger Industrial Automation portfolio. We'll remain disciplined in capital allocation and in our fixed cost and our mature test businesses. We'll also aggressively scale Universal Robots and MiR given the long-term high-growth rates.
+Remember that we long ago led the automation of the testing of integrated circuits. Now, we're helping to relieve humans of the most tedious and repetitive task with safe and easy to train cobots. From where we sit, the future of Teradyne looks quite bright
+With that, I'll turn the call back to Andy.
+Andy Blanchard
+Thanks, Greg. Tiffany, now I would like to take some questions. And as a reminder, please limit yourself to one question and a follow up.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Your first question comes from the line of Vivek Arya with Bank of America Merrill Lynch. Your line is open.
+Vivek Arya
+Thanks for taking my question and congratulations and best wishes to Greg on his retirement. For my first question, IA has been a very strong growth driver for you but over the last year, we have seen some downshifting of growth assumption. I understand the China aspect.
+But I believe you mentioned, China is only about 15% of sales if I recall. So what are the trends outside of China that are driving the demand? So that's the near-term question. And longer term, if IA growth is in the mid-30s right now, how do you plan to organically maintain this exact growth rate over the next three years? Thank you.
+Mark Jagiela
+Okay, I'll start with that. The other place that we mentioned that there's some near-term softness is in auto. The auto sector and Tier 1 have hit some headwinds and that's principally in Europe. What we're doing and what we can control is we see for example, enabling technologies that can open up new markets that haven't been served very well. And the best example I can quickly give you is with the Energid path planning and low-cost vision modules combined that with our arm. You can do more sophisticated pick-and-place applications all the way into a bin, emptying a bin out and then taking some part and moving it to the next step in the production line. There are many tedious task in manufacturing where people do that and it's not really suited for a person. It's mind-numbing and it's more of a robotic-type task.
+So we expect on that front to have a bin picking solution towards the end of this year through beta, so I think that we'll probably start to ramp in 2020. So that's not in 2019 that's in 2020. But that's illustrative of how we can with enabling technology open up another market.
+Another quick example I'll give you is MiR, our mobile robot which is growing 100% and that takes a little bit of -- and obviously helps us with the IA growth rate considerably. But MiR has opportunities to get into hospitals. And there's many hospitals in certain countries, in Asian countries that may be built and they're going to perhaps heavily automate those hospitals.
+So we see there might be other verticals that these next-generation technologies can work quite nicely because they're so easy to use. You don't need to be an engineer. So there's many new verticals. We have a lot of developers opening up other applications that we might not have thought about. So we're also shifting a bit more resources in North America.
+So if China is soft, there might be a little bit more activity elsewhere that's making up for some of the softness So we see some opportunities in North America in the near term And North America grew very nice last year, so we're going to continue to put the foot to the metal there.
+Vivek Arya
+Thanks. And for my follow-up. I think you mentioned for this year, the addressable market could be down 15%, 20%. I believe is the number and sort of in line with the front-end. But is that the experience from prior cycles? Because when I look at last year, Semi Test business was below what we saw on the front-end WFE side. So what does the visibility in the addressable opportunity this year? Thank you.
+Mark Jagiela
+Yes, this is for again Semi Test. So the visibility is not great. Again from a bottoms-up point of view, we have customers who talk about their plans, but they change – as they did last year on the upside, they can change dramatically to the year. But it's not really modeling prior downturns as much as looking at the bottoms-up activity levels and design and test time trends and what customers are telling us, that kind of give us that range.
+Vivek Arya
+All right. Thanks very much.
+Operator
+Your next question comes from the line of Timothy Arcuri with UBS. Your line is open.
+Timothy Arcuri
+Hi, guys. Thank you. I had two. Greg, the SOC TAM assumption that you gave, what does that assume for your largest customer? How much of a snapback are you assuming in that tail? Are you assuming that there's not much snapback this year and it's more of a next year thing? Thank you.
+Mark Jagiela
+Yes. So our largest customer – this is Mark. Our largest customer in 2017 was roughly in the low 20s as a percentage of our overall revenue. 2018 largest customer is going to be in the low teens and we expect this year to be the same. So we think there's not a big snapback. It's about the same year-over-year for that customer.
+Timothy Arcuri
+Got it. Great. Thank you. And then, Greg, I guess just a question on IA OpEx. So with the slower and longer-term growth rate, how do you think about how to gear down OpEx? It seems like there's not that much of a change this year. But sort of what would it take for you to materially slow down IA OpEx as the growth over the longer term continues to slow? Thank you.
+Greg Beecher
+Well, that's a good question, Tim. The way we're running our Industrial Automation, particularly Universal Robots, less so MiR, because MiR is at high growth, at least for the next couple of years, is we're starting with a plan and we're putting a target of 15% operating profit with the understanding of the sales growth lower than let's say 28% or some number like that, that they had to meter the OpEx and not bring it all onboard. So we're going to adjust OpEx.
+Now as you know, OpEx can get in front of the sales. So if we get in front of the sales too much in the early half, we're going to have to hold back much more aggressively in the second half. So this will probably be the first year where there'll be a bit more pressure to prioritize, if we find that we're not – UR hitting 28% and I think we're going to hit 28% or that neighborhood. So we're metering it, is the answer in short.
+Timothy Arcuri
+Great. Thank you so much.
+Operator
+Your next question comes from the line of John Pitzer with Credit Suisse. Your line is open.
+John Pitzer
+Yes. Good morning, guys. Thanks for letting me ask the question. Congratulations on the solid results in the difficult environment. Mark, just relative to your prepared comments, do you think your Semi Test business will do better than the overall market?
+To Tim's point, if you're not expecting a large snapback from the big customer, I guess, what are the puts and takes? How much better than the overall market do you think you can do? And I guess, I understand your comments about market share gains, but you also made a comment about secular buying patterns favoring you. Maybe you can elaborate on that as well as you answer the question. Thank you.
+Mark Jagiela
+Yes. So there's a couple of things there. So last year there were several events, I would say, that benefited, as Greg mentioned, our competitor that didn't benefit us that we think will revert more to the mean in this year. So although our largest customer sort of flat year-over-year. For example, in 2018 there were some of our competitors' customer that made a shift in foundries and that required a one-time tooling bump at the new foundry or test equipment for that supplier. So that's a one-time effect that will revert back to the norm this year as an example.
+The other example is RF and 5G products that are starting to build momentum tend to favor us. That's a sector where we have high share, quite a bit above the norm. And as that grows in proportion to the overall market we will benefit disproportionately. So that's two examples.
+John Pitzer
+If the market's overall down 15 to 20, how much better do you think you can do?
+Mark Jagiela
+It's probably a range but we're not going to be immune to being down probably. But we could be in let's say somewhere in the five to low teens down.
+John Pitzer
+Perfect. And then maybe as my follow-up, just on the IA resetting of the growth rate in the midterm. I'm just kind of curious to what extent is that just a reflection of the macro uncertainty today versus other factors? Is it just as you went through 2018 the prior growth rate just didn't seem doable? Or is this really a reaction to the macro? And if it's not just a reaction to the macro, what are the puts and takes that are kind of having you bring down that growth rate a little bit?
+Greg Beecher
+John, I would say the single biggest thing is sort of the here and now, meaning the fourth quarter growth rate over fourth quarter -- a quarter ago was -- UR was 28%. Now the prior quarter was 46%, quarter before that was 45%. And for the year it’s 38%.
+So we just want to be a bit more cautious. And we don't want to be on the side of defending a high-growth rate. We'd rather be on the side of a very credible growth rate with possibly upside. That's how we thought about -- but I don't want to reset the model every year. We'd like to reset it now. And this model can stand the test of time we hope.
+John Pitzer
+Great. That’s from your outlook, but from a bottoms-up perspective, the opportunity you see today longer term is no different than six months ago?
+Greg Beecher
+Absolutely. The opportunity is incredibly large. We have no doubt it'll be a $1 billion business. It's a question of what year. I think we've talked about in the past, large companies tend to be slow in adopting. But at some point they're going to be forced to adapt to be competitive. If there's more jobs in higher-cost regions, the way they can do that is with automation. If it's inflation you need automation. So there's so many factors. There's demographics, worker shortages.
+So all the ingredients are there. It's just the adoption rate. What is the adoption rate? There's always ways of adoption. And as we bring new enabling technology that opens up other solutions, I think you're going to see other people jump onboard.
+John Pitzer
+Perfect. Thanks, guys.
+Operator
+Your next question comes from the line of Mehdi Hosseini with SIG. Your line is open.
+Mehdi Hosseini
+Yes, thanks for taking my question. But before I ask my question, I wish Greg the best and hopefully he changes his mind and stays onboard.
+Greg Beecher
+Thank you, Mehdi.
+Mehdi Hosseini
+Thank you. Over the past five, six years, your calendar year revenues were more weighted towards the first half, second half revenues will be down low teen compared to the first half. Last year was an anomaly. And in that context my first question is, how do you see the revenue progression throughout the year? Would 2019 be similar to the trends prior 2018? Or would it have its own unique trend?
+Mark Jagiela
+I think that part of the issue with 2018 was we didn't get the big second quarter bump, we typically got from the mobility tooling because of the large customer effect. And as Industrial Automation becomes a larger portion of our business, they tend to be bumping up in the fourth quarter.
+So over time, we're going to see, I think more of a shift toward the second half of the year because of IA. And one other point even in this last most recent quarter, LitePoint had a very strong second and half of the year. So IA, less lumpiness in mobility, I think will kind of start to balance out the full year more. It was a little bit of a trend towards fourth quarter bump.
+Mehdi Hosseini
+So how would it look like this year? Should second half be down less -- less or?
+Greg Beecher
+It's hard to be certain. But if we have to say the contour, it would probably more like 2018 than 2017 is how we think about it.
+Mehdi Hosseini
+Okay. Great. Thank you. And then just Mark going back to IA. We've all been going to the learning curve. You see Industrial Auto out there weak, but you're still able to grow the business, now granted at a lower growth rate. So can you just maybe help us understand, how this growth rate the secular nature of it is defying the overall Industrial Auto that is very weak out there? And I look at industrial laser is very weak But what is it with IA that still enables you to grow? And in that context, is it a replacement? What is it that hasn't really filled a meaningful slowdown now granted the slower growth rate?
+Greg Beecher
+Right. So first of all I'll just contrast. There's traditional Industrial Automation that is tightly, tightly tied to macroeconomic effects The segment we're in which is emerging and still although quite small and growing rapidly, although not immune from because we talked about automotive in China has such a vast ROI opportunity set ahead of it that it's really not going to be subject to the strong macroeconomic effects.
+So for example, we're talking about $260 million of IA revenue last year for cobots both mobile and fixed. When we look at the bottoms-up analytics of how many opportunities there are out there in small, medium and large enterprises to achieve automation using our products with ROIs well under 18 months and in most cases under a year, we're talking about 10s of billions of dollars of opportunities today with capabilities of today's cobot.
+When you add some of the new capabilities that Greg alluded to around vision, the ability to pick pieces out of bins without human interaction that doubles. So we see this opportunity set of $100 billion, of which $260 million-ish has been tapped. That's what gives us the confidence. And that's the overarching sort of pull for the product that will not be immune to macroeconomic effects but will over the long term certainly run the growth rate well above the mean.
+Mehdi Hosseini
+Got it. Thank you.
+Operator
+Your next question comes from the line of C.J. Muse with Evercore. Your line is open.
+C.J. Muse
+Yes. Good morning. And I guess, let me echo the thoughts. Greg, definitely we'll miss you. And thanks for everything. I guess, first question on the IA side, I just want to confirm, in terms of the growth rate of 35%, 40% for calendar 2019, that is off of pro forma of 269. Not what you recognized in 261?
+And the second part of the question, how should I think about the linearity of the business, first half versus second half? I would assume the growth rate year-on-year would be slower first half, given the uncertainty we're seeing out of China?
+Greg Beecher
+Hey, C.J., it's Greg. Thank you for your nice comment. Its 261, so it is the actual, not the pro forma, just to clarify that first point.
+C.J. Muse
+Okay 
+Greg Beecher
+Okay. And then the growth rate does pickup in the second quarter. And similar to last year's second and third are kind of similar. And then, this is our estimate in fourth quarter, we have our strongest quarter, so it does pick up through the year.
+C.J. Muse
+Okay, great. And then, I guess if you think about overall business trends, you put up a very stellar gross margin in the December quarter. Were there any one-time sort of issues to think about there? Or how should we think about the trajectory for gross margins into calendar 2019?
+Greg Beecher
+C.J. there were no one-time things. We had – we didn't have a large customer buying which pull margins down, so we have for more favorable mix. But our supply line group has done a lot of work with Universal Robots, and starting with MiR next, to get better supply arrangements, tool sources, lower material cost. So I think it's a good pick shovel work that has improved the company's P&L.
+If you go back several years, we were 54% to 56% gross margin year-after-year. So we've really moved it up a couple of points. So it's good performance. And we're going to continue to work on the material cost down and try to get more. But sometimes when we get more, it ends up going back to the customer in competitive shoot-up. So we're still glad that we got the more, so we can at least pull through margins where we are.
+C.J. Muse
+Great. Thank you.
+Operator
+Your next question comes from the line of Atif Malik with Citi. Your line is open.
+Atif Malik
+Hi. Thank you for taking my questions and Greg, congratulations on a stellar career. First question, Mark, can you remind us what is your market share in the memory market today? And what your aspirations will be with the launch of the high-speed DRAM tester this year?
+Mark Jagiela
+Yes. That's a good question. So 2018, roughly 29% market share in Memory Test. That was the beginning of penetrating wafer test in 2018. So in 2019 we expect to bring that up to sort of 33% in that range. And then in the midterm we can get to 40%, with the introduction of this high-speed DRAM package tester as well as continued expansion of the wafer test.
+Atif Malik
+Okay. And then, I'm really encouraged by the growth you're seeing in the Wireless Test market. Can you tell us what's your 5G sales percentage is off the Wireless Test sales? And where do you see it going? And the reason I'm asking that is, we're seeing a pretty substantial growth in 5G-related equipment sales at Anritsu and Keysight. Thank you.
+Greg Beecher
+The wireless businesses here, we have gotten some 5G key strategic designing business. They are less about the dollars, it's more about we're in the key chipset players. And, therefore, when it does go to production in 2021 or thereabouts, we've got the best position because we're the best in production.
+So we're a little less focused on the dollars, but its millions of dollars we've gotten in 5G. We have had very good business from other standards and in Wireless Test there's a plethora of new technologies, new standards. There's multiple even in 5G technologies. There's WiFi 6 coming.
+So we've talked about LitePoint being in low and having pretty good financial performance for being in the low, having good profits and good gross margins. I suspect for the next several years, LitePoint is going to be tailwinds at their back after having headwinds for three years or so with all these new standards coming out and you need new testers for these new standards, and LitePoint is the leader in production. So I think LitePoint puts us in great spot for the next several years.
+Atif Malik
+Thanks.
+Operator
+Your next question comes from the line of Brian Chin with Stifel. Your line is open.
+Brian Chin
+Hi, good morning. I have a few questions. But first congratulations on a strong finish to the year and an early congratulations to Greg on his grand retirement.
+Greg Beecher
+Thank you.
+Brian Chin
+First -- sure. First I had a question on Industrial Automation. In terms of the new long-term growth rate you are clearly the market leader in this space. But I can make the counterintuitive argument here that you would benefit from the emergence of another good competitor, which to date hasn't materialized.
+And by that I mean it's a lot for you all to have to shoulder the load virtually alone in terms of marketing, training and the development of future collaborative robot applications. Would be interested to get your perspective on that?
+Mark Jagiela
+Well, I think I would never directly wish for that. But you have -- there's a bit of truth to what you're saying. We are developing the market in terms of creating market awareness and creating demand, a latent demand that's out there, but there's no precedent here to ride on.
+Now early in the cobot era, the company Rethink Robotics that recently folded, led some of the evangelism around the cobot market that UR rode those curtails and then surpassed them dramatically. And we're at the tip of the spear now blazing that trail.
+And it is one of the principal challenges we have it's awareness, it’s market awareness delivers growth. All that being said we're working on a lot of things this year to enhance that. Our lead generation capabilities are developing rapidly. And we're not going to wait for a competitor to do that work for us. We’re actually step a lot of the OpEx that Greg’s talked about here is towards that end.
+Brian Chin
+Sure. That's helpful. I have one question on the Wireless Test as well, but just a Part B, just IA. In terms of that 35% to 40% growth in 2019, what does that imply for UR growth?
+And then let me ask the Wireless Test question and then you can answer that. It was $1 billion TAM over this decade. It sounds like some 5G cellular starting to kick in a little bit in 2019, but that's really a 2020 probably go-forward. What could that TAM go to at least $500 million, $600 million and maybe higher? What is the reasonable expectation for LitePoint market share?
+Greg Beecher
+Got it. Okay, starting with the first question. What was the first question?
+Mark Jagiela
+The UR component 
+Greg Beecher
+UR component…
+Mark Jagiela
+You see why he’s going to retire.
+Greg Beecher
+It’s a good question. In the 35% to 40% growth, UR would be about 28% because MiR is about 100% growth, so MiR is helping YOUR. And keep in mind 28% is probably the lowest growth rate UR has ever had and that was the quarter from Q3 to Q4. That's a very short time period. So we think we've got UR in at a reasonable and maybe cautious level but there are some uncertainties ahead in the next quarter or two.
+Mark Jagiela
+5G TAM 
+Greg Beecher
+Yes. 5G TAM, there's a couple of pieces to it. LitePoint, we think starting in 2021, there's a little bit of activity prior 10s of millions. But the TAM for LitePoint is probably $100 million to $150 million higher for several years starting in 2021. This is a production portion for 5G.
+And then in the Semi, when you put it all together it's probably $300 million to $400 million. That includes $100 million to $200 million for the RFPs and the data processing piece makes up the balance to make $300 million to $400 million. And our share is quite is very healthy in Semi.
+We probably get half of that. And then in LitePoint that's – will be determined. We're not big players in 4G but we're early in 5G and we're working with a number of the key set -- key chipset players so we expect to have meaningful share in our 5G cellular at LitePoint. And it's also multiple standards at LitePoint. There's 6G coming first and millimeter wave coming later.
+Brian Chin
+Great. Thank you.
+Operator
+Your next question comes from the line of Krish Sankar with Cowen. Your line is open.
+Krish Sankar
+Hi. Thanks for taking my question and congrats, Greg on a great career. I have two questions. Number one is on the Memory Test market, if I look at your commentary, is it fair to assume that Memory Test this year is going to be down about 25% but your revenues in memory might be down only 10%? Just wanted to check if the math is right.
+Mark Jagiela
+Yes. The market itself last year have finished in the $900 million to $1 billion. We'll sort it out in the next few months as to what it really was. But yes, so the market is going to be in that sort of phenomenally $700 million range. It's down 20, low 20s. I think we will be down much, much less than that and because of the share gains we picked up. So roughly the math you've done is right.
+Krish Sankar
+Got it. Got it. Thank you. And then follow-up on IA. It looks like bin picking seems to be the next big killer app for cobots. And it seems like you guys have been bin picking beta solution coming out later this year. And you've spoken about in the past about a 2020 ramp with that. Is that – are you seeing any indication from customers that this is going to be a pretty steep ramp next year? And what are the main industry or the main verticals driving this bin picking uptick? Thank you.
+Greg Beecher
+Bin picking, if you look at the number of people that are doing these tedious mind-numbing bin picking tasks, it's both the number of all other tasks. It's a very high number of tasks. Now the first bin picking machine or solution we're going to provide is going to be able to do much more than any other bin picking machine because it has half planning in it, so it can pick the option at the right post, doesn’t have to put it down again. There's more likely to be able to empty a bin and play some powerful positions. So it's going to be a step function above what's available today
+Now it'll take time to train the distributors and the integrators so there's a rollout period that'll take time. There might be some parts whether they're too shiny or they have a odd configuration that we may not go after right away. But it's a very large market that I suspect is going to be a beginning of a multiyear large wave of bin picking and probably new advance grippers developed by some for the capability that we're providing.
+But we're excited about it because we saw this many years ago as an enormous untapped market that was hard to get to. And with Energid, that was the missing piece. And low-cost vision modules have come to market. So the pieces are there. Now to do it – now we're just finishing up the user interface and making sure it all works seamlessly at the right speed and so forth. So very excited about it and I think you'll see 2019, the beginning of early part of that wave. I'm sorry, 2020.
+Krish Sankar
+Thanks folks. Thank you very much. And congrats, Greg.
+Greg Beecher
+Thank you.
+Operator
+Your next question comes from the line of Richard Eastman with Baird. Your line is open.
+Richard Eastman
+Yes. Mark, could you maybe – and maybe you provided this, but could just speak to where the SOC Test market ended up in 2018?
+Mark Jagiela
+In terms of size of the market? Yes. Again, like memory, we're still a few months away from having final numbers on that. But our estimate, it's in the $2.9 billion to $3 billion range, is how it ended.
+Richard Eastman
+Okay. And then just a question, we were seeing some of the analog chip vendors kind of throw off warning flags as well, kind of, SD, Microtek, TI. And I'm curious, as you look out to 2019, I've got this 2.3 to 2.7 was kind of your estimate for the market.
+But I'm curious, the shift in the marketplace, how do you see that playing out? Does analog stay stronger? Or mobility, obviously, I think you kind of suggested, might be flattish or down a little bit. But I'm just curious how you think the pieces within the marketplace, where the strength might lie, where the risk might be?
+Mark Jagiela
+Okay. Yes. So I think, let's start with mobility, because it's the biggest piece of the market still. So in 2019 mobility, I think, will be down a little bit, because of some of the one-time effects I alluded to earlier. I think our business will be roughly flat year-over-year, but the market itself could come down a couple hundred million, because some of this one-time tooling that occurred in 2018 around some foundry shifts.
+Richard Eastman
+Okay.
+Mark Jagiela
+So that's a significant part of that reduction. The automotive and linear I think are going to be pretty – from what I can tell today, linear could be off of this sort of all-time high it was in 2018, but not much. It may be certainly 10% or less is what it would look like in the model.
+And automotive look still pretty healthy, so flattish. So that leaves other areas such as PC-related, GPU, cloud-related things and that should be down in that sort of 10%, 15%, 20% range. So we add those up because of the $200 million-ish drop in mobility, because of these one-time effects, that's how you get to the TAM.
+Richard Eastman
+I see. Okay, okay. That's really helpful. And then just one last question around the IA business. What acquisition prospects look like there? Is there still a healthy pipeline in the software? Or maybe just characterize that a little bit perhaps, Greg.
+Greg Beecher
+It's a incredibly healthy pipeline. This is a space where there's many start-ups. It's a whole new Greenfield, so there's next-generation technology. There's a number of software players. It's hard to synthesize precisely what's out there. But what we see is, companies that can fit with our next-generation automation that is automating tedious task.
+There's other pieces that could fit into our portfolio. But I'll add there's nothing we need and what I'm really excited about is in some of our products, you take MiR this year, MiR has expanded into the MiR500, so they've expanded their product line into heavier payload. They've also expanded into hospitals.
+Now the more we can take our existing products and get into new markets or submarkets that's probably the highest ROI. But there very well may be some other nice pieces, another Energid is possible. The path planning should open up bin picking. That's more of an emerging technology that no one else had. Vision was available. We weren't going into the vision.
+So there's other – it’s a little bit of the chess game. There's other pieces that may be possible that we buy them and accelerate them or we just work with them as a partner. There's a lot of that work going on our BDL group to try to figure out what's the next best chess move to make.
+Richard Eastman
+And mostly again from your comments this is around expanding applications a little bit more software it's not a lot of hardware that you're really looking at?
+Greg Beecher
+Correct, correct.
+Richard Eastman
+Thank you. And best of luck, Greg. Thank you.
+Greg Beecher
+Thank you very much.
+Operator
+Your next question comes from the line of Toshiya Hari with Goldman Sachs. Your line is open.
+Toshiya Hari
+Great. Thanks so much for taking the question. I had a follow-up question on your analog test business. Mark, you talked about the upside you saw in Q4 and the strength you saw throughout 2018 as it relates to Eagle Test. How should we reconcile that commentary with some of the trends that your customers are speaking to in terms of weakness in the near term? Is it the complexity dynamic offsetting the weakness? Or is it timing? Or is it a little bit of both? How should we think about that?
+Mark Jagiela
+I think it's timing. In terms of the recent commentary, the effects of that is -- to the magnitude and the effects of that would be, we're probably still three months away. But in 2018, the unit and complexity growth both were very encouraging. And things like unit growth could tempered here, complexity growth I don't think is abating whatsoever. So the recent quarterly announcements from some of the key analog players if in fact was in effect that we're going to feel from that is probably yet to be -- it's probably in second quarter.
+Toshiya Hari
+Got it. And then my follow-up was on long-term gross margins. You guys came in at 58% in 2018. You're guiding long-term gross margins, I guess kind of stay where they are today in the 57%, 58% range. It feels like you guys continue to make progress in terms of improving gross margins at UR. You talked about I guess outside of MiR. I think LitePoint, which has a nice trajectory historically has had very nice gross margins when things were good. So I guess the question is, is 57% to 58% more of a conservative target? Or are there kind of minuses that I'm not aware of? Thank you.
+Greg Beecher
+There aren't minuses right now that we have in mind. There is, I'll say there's more new accounts in Semi Test around AI [ph] that is a whole new battlefield that'll jump off. But I think what I had in mind when I put those numbers in is in Universal Robots there's going to be very large customers buying cobots in some volume. And I expect when that happens there'll be better competition we'll be up against. And we'll be competing for kind of the design in for the next 100, 500 or some higher number of cobots. And that's what I'm thinking that while we’ll get material cost down, some of it will be diminished by some of the large account negotiations.
+Toshiya Hari
+Got it. Thank you.
+Andy Blanchard
+And operator, we can sneak in just one last question please.
+Operator
+Your last question comes from the line of Thomas Diffely with D.A. Davidson. Your line is open.
+Thomas Diffely
+Yes. Good morning. I like to ask one more question on the memory side. I guess in general, what percentage of the DRAM test market is high speed maker today? And it sounds like speed has gone up across-the-board to become a bigger part of that market going forward so just your views on the high speed part of DRAM?
+Greg Beecher
+It does shift year-to-year quite a bit depending on the pricing of the commodities our memory manufacturers going to shift investments toward NAND or for toward DRAM. But I would say as a general rule of thumb, the final test of DRAM is about 20-ish percent of the overall Memory Test market.
+Thomas Diffely
+And then the high-speed portion of that versus commodity DRAM?
+Mark Jagiela
+Most of it in terms of new investment it's high speed. For sort of commodity old-school DRAM, there's not a lot of capacity expansion. Old-generation equipment can sort of the waterfall back there. So anything being bought tends to be for high speed.
+Thomas Diffely
+Okay, great. And then finally when you look at the NAND market or I should say the hybrid market with things like cross-point, what type of tester do you need for that market? And is that changing over time as well?
+Mark Jagiela
+I'd say, one of the things we've seen in memories and flash, especially and sort of derivatives of flash is a lot of diversity in the protocols of I/O. The internal sales structure and such aren't significant in the impact to the tester but the I/O protocols are.
+And the products that we've developed for flash, the thing that's allowed them to be so successful is how quickly we can adapt them for these higher and higher-speed emerging protocols so that applies not to the cross-point type products and all these products.
+Thomas Diffely
+Okay. Thank you.
+Mark Jagiela
+All right, well, great Thank you everybody and we look forward to talking to you in the days and weeks ahead. This concludes the call.
+Operator
+This concludes today's conference call. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+5 Authors in the Last 90 Days
