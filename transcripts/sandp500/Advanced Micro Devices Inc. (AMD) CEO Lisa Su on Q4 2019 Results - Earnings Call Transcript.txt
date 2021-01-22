@@ -1,0 +1,298 @@
+Call Start: 17:30 January  1, 0000  6:26 PM ET
+Advanced Micro Devices Inc. (NASDAQ:AMD)
+Q4 2019 Earnings Conference Call
+January 28, 2020 17:30 ET
+Company Participants
+Laura Graves - Investor Relations
+Lisa Su - President and Chief Executive Officer
+Devinder Kumar - Senior Vice President, Chief Financial Officer and Treasurer
+Conference Call Participants
+Vivek Arya - Bank of America Securities
+Toshiya Hari - Goldman Sachs
+Matt Ramsay - Cowen
+Mark Lipacis - Jefferies
+Stacy Rasgon - Bernstein Research
+David Wong - Instinet
+Joe Moore - Morgan Stanley
+Blayne Curtis - Barclays
+John Pitzer - Credit Suisse 
+Timothy Arcuri - UBS
+Mitch Steves - RBC Capital Markets
+Srini Pajjuri - SMBC
+Operator
+Greetings and welcome to the AMD Fourth Quarter and Fiscal 2019 Conference Call. At this time, all participants are in a listen-only mode. A question-and-answer session will follow the formal presentation. [Operator Instructions] As a reminder, this conference is being recorded. It is now my pleasure to introduce your host, Laura Graves, Corporate Vice President, Investor Relations for AMD. Please go ahead, Laura.
+Laura Graves
+Thank you and welcome to AMD’s fourth quarter and year end 2019 financial results conference call. By now, you should have had the opportunity to review a copy of our earnings release and slides. If you have not reviewed these documents, they can be found on the Investor Relations page of AMD’s website, amd.com.
+Participants on today’s conference call are Dr. Lisa Su, our President and Chief Executive Officer and Devinder Kumar, our Senior Vice President, Chief Financial Officer and Treasurer. This is a live call and will be replayed via webcast on our website.
+I would like to highlight some important dates for you. On the afternoon of Thursday, March 5, we will hold our Financial Analyst Day at our headquarters in Santa Clara, California and our first quarter 2020 quiet time is expected to begin at the close of business on Friday, March 13.
+Today’s discussion contains forward-looking statements based on the environment as we currently see it. Those statements are based on current beliefs, assumptions and expectations speak only as of the current date and as such involve risks and uncertainties that could cause actual results to differ materially from our current expectations. We will refer primarily to non-GAAP financial metrics during this call, except for revenue and segment operational results, which are on a GAAP basis. The non-GAAP financial measures referenced herein are reconciled to their most directly comparable GAAP financial measure in today’s press release posted on our website. Please refer to the cautionary statement in our press release for more information on risks related to any forward-looking statements that we may make. You will also find detailed discussions about our risk factors in our filings with the SEC and in particular, AMD’s quarterly report on Form 10-Q for the quarter ended September 28, 2019.
+With that, I will hand the call over to Lisa. Lisa?
+Lisa Su
+Thank you, Laura and good afternoon to all those listening in today. 2019 marked another major milestone in our multiyear journey. We delivered record annual revenue of $6.73 billion and significantly increased both gross margin and net income as we successfully introduced and ramped the strongest product portfolio in our 50-year history. We grew clients and server processor annual revenue by $1.5 billion in 2019 driven largely by the strongest demand for our 7-nanometer Ryzen and EPYC processors powered by our Zen 2 processor core. Looking at the fourth quarter, we ended the year very strong with quarterly revenue increasing 50% year-over-year to a record $2.13 billion, while also significantly increasing net income.
+Turning to our Computing and Graphics segment, fourth quarter revenue increased 69% year-over-year to $1.66 billion. Ryzen processor adoption accelerated sharply in 2019 helping to drive significant double-digit percentage increases in client processor annual unit shipments, ASPs and revenue. We ended 2019 with our highest quarterly client processor unit shipments in more than 6 years based on strong demand for Ryzen desktop and mobile processors. In desktop, we had a very strong holiday season as our second and third generation Ryzen processors consistently held top sales spots at the largest global e-tailers and retailers. We launched our Ryzen 3950X processor and the 24 and 32 core versions of our third generation Ryzen Threadripper processors in November. Our 16-core Ryzen 3950X processor is the world’s fastest mainstream desktop processor, while our latest Threadripper CPUs offer unmatched performance for the high-end desktop market.
+In January, we expanded our leadership position in the ATDT market with the launch of our flagship 64-core Ryzen Threadripper processor which is the world’s highest performance desktop processor. In mobile, we had our eighth straight quarter of strong double-digit percentage year-over-year revenue growth as we expanded the number of AMD powered laptops available for major OEMs. We began shipping our Ryzen 4000 mobile processors powered by our Zen 2 core at the end of the fourth quarter. These new processors doubled the performance per watt of our prior generation and delivered leadership single threaded, multi-threaded and graphics performance for thin and light notebooks, while enabling the industry’s first ultra-thin laptops with 8 cores. Initial systems featuring the Ryzen 4000 processors are expected to launch later this quarter and more than 100 AMD based consumer and commercial laptops are planned for 2020 from Acer, ASUS, Dell, HP, Lenovo and other major OEMs.
+In Graphics, fourth quarter unit shipments grew by a strong double-digit percentage year-over-year driven by sales of our Radeon RX 5000 series GPUs, featuring our new RDNA architecture. We further expanded our portfolio of RDNA GPUs with the introductions of the 5500XT and 5600XT desktop graphics cards. Highlighted by strong third-party reviews that clearly established 5600XT as the most powerful gaming GPU available for under $300. We launched our Radeon 5000M mobile GPUs in the quarter as well and we are seeing solid design win momentum based on their strong performance and power efficiency. The first laptops powered by the new GPUs are available now, including the recently updated Apple MacBook Pro and we expect many more notebooks featuring our Radeon 5000M GPUs to launch throughout 2020.
+Data center GPU revenue increased sequentially driven by cloud, VDI and game streaming deployments. We announced a major update to our open source GPU computing software stack in the fourth quarter featuring performance optimizations, expanded development tools and support for the most popular machine learning frameworks. We continue making strategic software investments to make it easier for developers to tap into the full capabilities of our Radeon Instinct accelerators for HPC and AI applications. For the year, data center GPU revenue grew by a strong double-digit percentage as we continue to make progress growing our presence in this important part of the market.
+Turning to our Enterprise, Embedded and Semi-Custom segment, revenue of $465 million increased 7% year-over-year as EPYC processor revenue growth offset declines in semi-custom revenue. Semi-custom sales continued to soften in the quarter in advance of the next generation console launches from Sony and Microsoft planned this year. For 2020, we expect first quarter semi-custom revenue to be negligible and the ramp of next generation semi-custom products to start in the second quarter with revenue to be heavily weighted towards the second half of the year. In server, revenue grew by a strong double-digit percentage as unit shipments and ASPs increased sequentially driven by demand for our second-gen EPYC processors. Our second-gen EPYC processors are ramping significantly faster than the first generation as we see particular strength for our higher core count models where our performance and TCO advantages are the most significant.
+Cloud adoption with the largest providers continues to accelerate driven by the expanding use of EPYC processors to power their critical internal workloads as well as a significant increase in a number of AMD-powered instances publicly available. Shipments to cloud providers increased sequentially by a significant double-digit percentage to support expanding build-outs at Amazon, Google, Microsoft, Oracle and Tencent. Microsoft announced the availability of 4 new virtual machines and AWS announced 2 new EC2 instances powered by second gen EPYC processors.
+In the enterprise, Dell began shipping their full portfolio of servers powered by our latest EPYC processors. We have doubled the number of EPYC processor platforms in market to more than 100 offerings in the quarter. These new platforms are driving increased enterprise customer engagements broadening our sales pipeline considerably. In HPC, we secured multiple large wins in the quarter based on our unmatched performance and scalability highlighted by French, German and UK national supercomputing center deployments as well as the San Diego supercomputing center.
+We are pleased with the significant traction and momentum in our server business and remain on track to achieve our goal of double-digit percentage unit share by midyear based on the growing demand for our second gen EPYC processors. I am very proud of our 2019 accomplishments as the successful ramps of our latest Ryzen, Radeon and EPYC processors resulted in record annual revenue and substantial increases in gross margin and net income. I want to take a moment to recognize that more than 11,000 AMDers around the world whose focus and determination enabled us to achieve these results.
+We entered 2020 well positioned to continue gaining share across the PC, gaming and server markets based on having an unmatched portfolio of leadership products spanning from desktops to laptops, data centers and game consoles. With more 27-nanometer designs in production or development, we are very excited about our next wave of products that can accelerate our growth in 2020 and beyond. We are still in the early stages of our journey and remain focused on meeting our commitments as we establish AMD as the high-performance computing and graphics leader.
+Now, I would like to turn the call over to Devinder to provide some additional color on our fourth quarter and full year financial performance.
+Devinder Kumar
+Thank you, Lisa and good afternoon everyone. 2019 was an outstanding year for AMD. Our competitive product portfolio and market share gains drove the highest annual and highest quarterly revenue in AMD’s history. We achieved our highest annual gross margin percentage and annual free cash flow since 2011 and we improved non-GAAP earnings per share by 39% year-over-year. In short, we are very pleased with our financial performance.
+Fourth quarter revenue was $2.13 billion, up 50% from a year ago and up 18% from the prior quarter driven by strong sales of Ryzen and EPYC processors and Radeon GPUs partially offset by softer semi-custom sales. Gross margin was 45%, up 360 basis points from a year ago driven primarily by sales of our leadership 7-nanometer products. Operating expenses were $545 million with increased investments in go-to-market activities and R&D compared to $474 million a year ago. Operating income was $405 million, up $296 million from a year ago driven by revenue growth and higher gross margin. Operating margin was 19% as compared to 8% a year ago. Net income was $383 million, up $296 million from a year ago and diluted earnings per share was $0.32 per share compared to $0.08 per share a year ago.
+Now, turning to the business segment results. Computing and Graphics segment revenue was $1.66 billion, up 69% year-over-year driven by Ryzen processor and Radeon gaming GPU sales growth. Computing and Graphics segment operating income was $360 million or 22% of revenue compared to $115 million a year ago driven by higher revenue. Enterprise, Embedded and Semi-Custom segment revenue was $465 million, up 7% from $433 million the prior year. The continued growth of EPYC processor sales was partially offset by softer semi-custom revenue. EPYC processor revenue grew by a strong double-digit percentage sequentially driven by robust shipments of our second generation EPYC processors. EESC segment operating income was $45 million or 10% of revenue driven by EPYC processor sales compared to an operating loss of $6 million a year ago.
+During the quarter, we reduced gross debt by $524 million, which resulted in a GAAP loss of $128 million. These debt reductions result in an annualized interest expense saving of approximately $16 million. Free cash flow was positive $400 million in the fourth quarter and cash flow from operations was $442 million. Inventory was $1 billion, down 6% from the prior quarter. Fourth quarter adjusted EBITDA was $469 million compared to $152 million a year ago driven by higher quarterly earnings.
+Now, let me cover the full year results. 2019 revenue was $6.73 billion, up 4% year-on-year driven by strong growth in Computing and Graphics segment and sales of second generation EPYC processors partially offset by a decline in semi-custom sales. Excluding semi-custom, revenue was up more than 20% year-over-year. Gross margin of 43% was up 420 basis points from the prior year driven by our current generation of Ryzen and EPYC products. Operating expenses were 31% of revenue as we increased go-to-market activities and investments in R&D. 2019 operating income was up 33% from a year ago to $840 million or 12% of revenue. Net income was $756 million, up 47% from the prior year.
+Turning to the balance sheet, I am extremely pleased with our progress on the strengthening balance sheet. Cash, cash equivalents and marketable securities totaled $1.5 billion at year end, while gross debt was $563 million. This represents our highest net cash position since the third quarter of 2006. Full year free cash flow was $276 million. We reduced principal debt by almost $1 billion in 2019 and entered the year with less than $600 million of gross debt. On a trailing 12-month basis, adjusted EBITDA was $1.1 billion resulting in gross leverage of 0.5x down from 1.9x at the end of 2018.
+Now, turning to the outlook for the first quarter of 2020. We expect revenue to be approximately $1.8 billion plus or minus $50 million, an increase of approximately 42% year-over-year and a decrease of approximately 15% sequentially. The year-over-year increase is expected to be driven by strong growth in Ryzen, EPYC and Radeon product sales. The sequential decrease is driven primarily by negligible semi-custom revenue which continues to soften in advance of the ramp of next generation products in addition to seasonality. In addition, for Q1, 2020, we expect non-GAAP gross margin to be approximately 46%, non-GAAP operating expenses to be approximately $580 million, non-GAAP interest expense, taxes and other to be approximately $18 million and the first quarter diluted share count is expected to be approximately 1.22 billion shares.
+For the full year 2020, we expect revenue growth of approximately 28% to 30% driven by strength across all businesses. We expect non-GAAP gross margin to be approximately 45%, non-GAAP operating expenses to be approximately 28% of revenue and a non-GAAP tax rate of approximately 3% of pre-tax income.
+In closing, we had an excellent fourth quarter and an excellent 2019. Our full year financial results highlight the strength of our business model. I look forward to what we have installed for 2020 as we expect to further expand and ramp our leadership portfolio of high-performance products to drive revenue growth, gross margin expansion, market share gains and financial momentum.
+With that, I will turn it back to Laura for the question-and-answer session. Laura?
+Laura Graves
+Thank you very much, Devinder. Operator, we are ready to begin polling for questions.
+Question-and-Answer Session
+Operator
+Certainly. [Operator Instructions] Our first question today is coming from Vivek Arya from Bank of America Securities. Your line is now live.
+Vivek Arya
+Thanks for taking my question and congratulations on the strong growth and execution. Lisa, for my first one, you mentioned the goal to get to kind of this double-digit market share in servers by the middle of the year. I am just wondering how the visibility is around in achieving this target, what’s driving it, is it just more instances at existing cloud customers? And as part of that, do you also have a share target for exiting this year?
+Lisa Su
+Yes, Vivek, thank you for the questions. So look we are very pleased with how Rome is ramping. We have been in market now 4 to 5 months and the visibility that we have is with the cloud guys, we have visibility to the public facing instances as well as what they are doing in terms of internal workloads. And what we see is just the breadth of the overall workloads that they are using Rome with is expanding. And then on the enterprise side with the full portfolio of our partners, HPE, Dell, Lenovo and the ODM partners, we see just a significant increase in the overall enterprise pipeline that we have for Rome. So, we are very focused on continuing to grow share in the data center market and we feel good about our midyear market share targets. In terms of our market share targets, Vivek, I think we will talk a little bit more at our Financial Analyst Day about some of the longer term targets, but certainly for 2020, we are very focused on growing our overall data center share.
+Vivek Arya
+Thanks. And for my follow-up, Lisa, how should we interpret the impact of capacity shortages at your main competitor? Have you seen any benefit from that? If not, why not? And then kind of part B is Intel did say that they plan to expand capacity later this year and will focus it more on the PC client side and try to reclaim market share, what effects will that have on the pricing in the market and does your full year outlook kind of bake any potential impact of that competition? Thank you.
+Lisa Su
+Yes. So, when we look at the PC market, we finished 2019 very strong in the overall PC market both in mobile and desktop. I think that’s primarily on the strength of the product portfolio and the expanding customer platforms that we have. There are some discussions abut, let’s call it pockets of shortages, but as I said before, I don’t believe – we have been on this steady increase in market share now for the last eight quarters and we believe we gained share in Q4 as well. So I think what we see is just the portfolio getting a lot stronger. As we go into 2020, I think we are again enthusiastic about our products in addition to the Zen 2 based desktop products. We have added Zen 2 now in the notebook portfolio and we will have that for the full year of 2020. So I think our outlook expects growth in all businesses, including the PC business and we remain very focused on expanding our market presence in both consumer as well as commercial PCs.
+Vivek Arya
+Thank you, Lisa.
+Lisa Su
+Thanks.
+Operator
+Thank you. Our next question is coming from Toshiya Hari from Goldman Sachs. Your line is now live.
+Toshiya Hari
+Hi, congrats on the strong results and thanks for taking the question. Lisa, this may overlap a little bit with Vivek’s question, but I was hoping to better understand some of the key assumptions behind your full year guidance for both your PC business as well as the serve business. Can you talk to some of the TAM assumptions that you are making and the market share assumptions for the full year? And I have got a quick follow-up? Thank you.
+Lisa Su
+Sure. So let me talk first about the market and then talk a little bit about how we are seeing the full year. So, if you look at the PC market, I think the discussion so far has been let’s call 2020 flat to maybe down slightly. There has been some concern raised about the second half of ‘20 perhaps be weaker than normal seasonality just due to some of the enterprise refresh cycles that are strong in the first half. We are viewing it as flattish, maybe down very slightly. That being the case back to the comment I made with Vivek, I think we feel very good our product portfolio. And especially when we look at sort of our notebook share and our relative opportunity to gain market share, the strength of our Ryzen 4000 series products is significantly stronger than previous generations and the platforms are also significantly broader. So, we feel good about that. In the data center market, again I would say that the growth of computing continues. From our standpoint, we see it as a good market environment for data center in both cloud as well as enterprise. When we look at our full year revenue guide of approximately 28% to 30% for the year, the highest growth from a percentage standpoint will obviously be server just given the expectations in that market, but we expect all of our businesses to grow nicely in 2020 and that’s just again based on where we are in the product cycle and the visibility that we have with customer design wins as well as just overall competitiveness.
+Toshiya Hari
+Great. And then I had a quick follow-up on gross margins, one probably for Devinder, you guys are guiding Q1 gross margins to 46% and then 45% for the full year. I appreciate your semi-custom business, is that a low point in Q1 and the ramp in Q2 and more so in the second half is probably dilutive to corporate margins, but if you can kind of walk through some of the puts and takes from a gross margin perspective for the year? That will be helpful. And then related to that, if you can compare and contrast the gross margin profile of your semi-custom business going into the next cycle versus the past cycle – product cycle? That would be helpful. Thank you.
+Devinder Kumar
+Yes, let me start and then Lisa can chime in. Overall from a margin standpoint, you got it right, we are guiding to the 46% in the Q1 quarter and then the semi-custom business as we have said typically is lower than corporate average. So as that product ramps in the second half, obviously we will have an impact on gross margin. The guide for the year is at 45%. So, we feel good about that having ended 2019 at the 43% level. And from a puts and take standpoint, it’s really product mix and Lisa talked about the businesses ramping and growing in 2020 with the 28% to 30% growth in revenue. Data center as we have said before is above corporate average. The client gross margin is around corporate average and some graphics and then the semi-custom business has below corporate average gross margins. And that mix of revenue as it ramps throughout the year will obviously have an impact on a quarterly basis. From an annual standpoint, we feel pretty good with the guide at 45% in particular with the 7-nanometer products ramping as we get to the year and that obviously benefits the gross margin. Semi-custom business, Lisa, you want to chime in on the difference between generation to generation.
+Lisa Su
+Yes. No, I think I just said Devinder, the semi-custom margins tend to be below corporate average on a gross margin basis although on an operating margin basis given the contribution from our customers for the R&D is actually quite good. As it relates generation to generation, the way to think about it is in the first year of a console ramp, you would expect the margins to be on the lower side and that’s true no matter what just because you are just starting the product ramp and you should expect that the margins will get better as that ramp continues over time.
+Toshiya Hari
+Thank you for the color.
+Operator
+Thank you. Our next question is coming from Matt Ramsay from Cowen. Your line is now live.
+Matt Ramsay
+Thank you very much. Good afternoon. Lisa, I wanted to just start with a question about the – I guess comparing and contrasting a little bit maybe a little weaker than we had some of us had modeled and I guess due to the console stuff for Q1 in the guidance versus a really strong 28% to 30% growth for the year. Maybe if you could just sort of layout the year a little bit at a high level and just how you guys are sort of thinking about it coming together from the point of Q1? Thanks.
+Lisa Su
+Sure. So, look, we are pretty excited about 2020. It’s a strong year for us certainly with the expectations of being around 28% to 30% revenue growth. We do expect all of our businesses to grow. I think relative to the Q1 guide if you look at Q1 as an absolute number, it is up over 40% year-on-year even with semi-custom revenues very low in Q1. And so that should give you an idea of the strength of the rest of the business. From a sequential basis Q4 to Q1, it’s what we said on the call there is some bit of normal seasonality just as we are consumer focused in our PC portfolio. So, you expect that, that would go down from Q4 to Q1. And then we do have the factor that the semi-custom profile when we are doing a product transition has the revenue very low in Q1. It starts ramp in Q2, but it’s very heavily weighted in the second half of the year. So you should think about semi-custom for this year, again it’s a ramp year, so it’s a little bit different that over 80% of the revenue for semi-custom will be in the second half of the year compared to the first half of the year. So overall we think a very good year, a little bit of re-profiling of revenue particularly as it relates to semi-custom and we look forward to executing it.
+Matt Ramsay
+No, thanks for that. As a follow-up, I guess for both of you but maybe for Devinder, I am just a couple of little pieces, for me, it looks like on the operating expense side you are going to be up in the neighborhood of mid 20s for the full year in the annual guidance that you outlined, maybe you could talk a little bit about the focus of that, is it branding and marketing in the PC and server spaces as you grow or is it in other areas in R&D? And then secondly, I think you guys had disclosed the data center revenue mix, so GPU plus server in prior quarters and if you have that number handy? That will be really helpful. Thank you.
+Devinder Kumar
+Yes, let me take the second one first. Data center, it’s as we said in the past, mid-teens of revenue and this quarter it is around the same mid-teens of the total revenue and I will point out there is record revenue in the quarter. So that’s pretty good and we feel pretty good about that having mid-teens revenue, the data center combined server and data center GPU on revenue of $2.1 billion. As far as OpEx is concerned, our guide for the year is about 28% of the revenue guide that we provided. And you are right, fundamentally the investments on R&D and go-to-market and obviously the business is growing. Obviously, there is investments needed to go ahead and grow the business from an absolute standpoint, but we feel we can manage it to about 28% of our revenue overall for the year.
+Lisa Su
+Matt, the only thing I will add to that is for the data center revenue, particularly in Q4, it was very heavily weighted towards server CPU just given some of the lumpiness of the data center GPU revenue.
+Matt Ramsay
+Thank you both. Congrats.
+Operator
+Thank you. Our next question is coming from Mark Lipacis from Jefferies. Your line is now live.
+Mark Lipacis
+Great. Thanks for taking my question. I had one for Devinder and one for Lisa. For Devinder, I think it’s impressive that the cash that you generated 10 years ago, you were $4 billion in net debt and now you are net cash positive, I didn’t think back then we would expect you to be here, but how should we think about capital structure going forward and for the $440 million in cash flow from operations could – I had a challenge reconciling it? Can you share the biggest two or three sources of cash? And then for Lisa, the last time AMD had a product cycle in servers, I think you were gaining – once you hit 5% share, you started to gain share at 2% or 3% or 4%, 400 basis point clip per quarter, how should – what is the right kind of cadence or pace of share gains in servers this cycle and maybe you could just talk about structurally what gives your ability to – or the pace of your ability to gain share? Is it the capacity from your suppliers? Is it is your own engineering support infrastructure or is it your customers testing and importing workloads if you could give us a framework to think about that? I think that will be helpful. Thank you.
+Devinder Kumar
+Yes, let me get started. Mark, you do have a long memory and so do I. I do remember the days when we had the challenges on the balance sheet. And one thing we feel good as we end 2019 is the strength of the balance sheet and in particular, the net cash position. We haven’t been in many, many years as we pointed out in the prepared remarks. From a capital structure standpoint, the priority is investing in the business. The revenue is growing significantly in 2020 is what we are projecting at the 28% to 30% over 2019. And also we want to invest in the roadmap to go-to-market and everything that’s needed when the revenue ramps as significantly as it is going from year-over-year. So that’s really the allocation priorities. From a viewpoint of where the $440 million come from, higher revenue especially when you look at the revenue in Q3 and Q4 of 2019 compared to the first half of the year, we did go ahead and buy the inventory to go ahead and support the higher revenue. And as you know when you sell that revenue in particular, when it ramps up as it did on better margins it generates the cash and that’s why you have the $440 million plus operating cash flow from an overall standpoint. Lisa, over to you?
+Lisa Su
+Yes. So Mark as it relates to just server rate and pace, I think the most important thing for us is when we look at from time of announcement or time of shipment to how customers actually deploy and trying to shorten that cycle. So when I look at the difference between let’s call it Rome and Naples, we have seen that time to deploy actually significantly shortened with Rome. And so in terms of rate and pace of server share gain, it is primarily for cloud customers it is having them deploy not just sort of a set of instances, but ensuring that they get fully built out across all regions in the world and also adding additional workloads. So it’s just time is what I would say. And then as it relates to enterprise customers, I think the platform coverage that we have with Rome is significantly broader than it was with Naples and so I am quite encouraged actually by the strength of the pipeline that we see, the number of customers that are engaged and then just how they are deploying. So I think we are going at a good pace and we will continue to accelerate that as we go through 2020.
+Operator
+Thank you. Our next question is coming from Stacy Rasgon from Bernstein Research. Your line is now live.
+Stacy Rasgon
+Hi, guys. Thanks for taking my question. I had first a question on gross margin, especially into Q1, you said consoles are negligible, gross margins are 46%, so that suggested that 46% is basically indicative of the business as it stands without consoles. So does that represent kind of the peak of the business on the current mix, I am little surprised it’s not higher given all the new products in aggregate we are supposed to have gross margins in excess of 50% in most of the mix today should be new products. So I guess how do we think about that Q1 gross margins in the context of that? And what are the drivers that take it higher from here, is it basically just server mix or is there something else that can help with that? Thank you.
+Devinder Kumar
+Let me get started and Lisa can add. But you know, Stacy as we talked about product transitions, the 46% guide in Q1, we recently introduced the next generation notebook products. And as product transitions go, you still have legacy product that you sell before you get converted over to the new technology and the new generation products. The desktop products were ahead of that from the environment that did benefit our margin in the 2019 timeframe. And you are right, the console being negligible revenue in Q1 of 2020 does benefit and then the margin is 46%. And from an overall standpoint for the year, it is 45% and that’s because the semi-custom business which is lower than corporate average does come back. And as Lisa said earlier, we are expecting 80% of that in the back half of the year, but by that time also the new generation products in the other businesses including datacenter and client reramping all on 7 nanometers and that should help the gross margin to offset some of the impact we have on the semi-custom business.
+Lisa Su
+Yes, I will just…
+Stacy Rasgon
+Thank you. Go ahead.
+Lisa Su
+That’s okay, Stacy. I was just going to add to what Devinder said. So we don’t expect the client notebook mix to fully cutover to the new 7-nanometer products until later in the year. And in terms of opportunities to improve margins, it is definitely product mix, so higher mix of server as well as higher mix of let’s call it, Ryzen 7s and Ryzen 5s versus some of the legacy products.
+Stacy Rasgon
+Got it. Thank you. For my follow-up, if I sort of squint at the second half, it seems to me you are probably guiding it implicitly call it $800 million to $1 billion over the second half of 2019. How much of that you think is console versus non-consoles, because it’s not hard to get a console number, especially in the beginning of a ramp that’s not that far off that number, which doesn’t leave all that much room to ramp the rest of the business? So is this just conservatism or like what else are you expecting here? How much of that second half do you think is consoles versus non-consoles?
+Lisa Su
+Well, I think as I perhaps answered to one of the earlier questions, when I look at the full year at 28% to 30% sort of revenue growth, expect server to be significantly above that and then the rest of the businesses are all going to grow nicely. And so you would expect significant double-digit growth in the client business as well as in the semi-custom business and overall we see the aggregate of it to be a very strong year. So it is not all console weighted if that’s what you are asking.
+Stacy Rasgon
+Okay. Wouldn’t you get that just from the nature of the ramp that we saw in 2019 we will be doing the compare already, I guess I am trying to – that’s why I am trying to sort of normalize second half to second half? I think we get the strong double-digits in second half versus second half growth across all the businesses?
+Lisa Su
+I would say in aggregate you will see, so let me help you with this way. So what we said in 2019 is 2019 overall, we grew 4% on an annual basis, but excluding semi-custom we grew over 20% for all the rest of the businesses. If I do that same type of calculation, excluding semi-custom for 2020, we would still say the rest of the businesses would grow greater than 20%.
+Stacy Rasgon
+Okay, thank you very much.
+Operator
+Thank you. Our next question is coming from David Wong from Instinet. Your line is now live.
+David Wong
+Thanks very much. Devinder, you said the sequential decrease in the March 2020 quarter is driven primarily by the drop in game console chips, does that mean that you expect your microprocessor and graphics revenues will be flattish sequentially or if not roughly what does your guidance assume in terms of percentage sequential drop for say PC processes and GPUs? Do you server processor sales rising sequentially?
+Devinder Kumar
+I don’t think I’d say basically that Q4 to Q1 is all due to semi-custom. That obviously helps the margin, but there is a product mix underneath that, that helps especially with the notebook product that we talked about that are moving to 7 nanometers. And then I think your second question about sequential from Q1 outwards, is that right, David?
+David Wong
+I was talking about revenues from December into Q1, the sequential drop, can you give us some idea of, I mean, there is a big chunk that’s game consoles, right, but what about the non-game console parts of it?
+Devinder Kumar
+It’s seasonality, seasonality in the business. We have the consumer weight from a revenue standpoint in our CG segment and we go from Q4 to Q1, you do have the seasonality coming into play and typical seasonality is what driving the other portion of the decline in revenue from Q4 to Q1.
+Lisa Su
+Yes. David, I think what you are asking is we would expect that the Computing and Graphics segment would be down sequentially due to seasonality and we would expect that server CPUs should be up, because we are continuing to ramp those processors sequentially.
+David Wong
+Okay, great. And Lisa, can you give us some idea of what new GPUs you are expecting to launch through rest of 2020 for PCs and for data center?
+Lisa Su
+Yes. So, in 2019, we launched our new architecture in GPUs, it’s the RDNA architecture and that was the Navi based products. You should expect that those will be refreshed in 2020 and will have next generation RDNA architecture that will be part of our 2020 lineup. So we are pretty excited about that and we will talk more about that at our Financial Analyst Day. And on the data center GPU side, you should also expect that we will have some new products in the second half of this year.
+David Wong
+Great. Thanks so much.
+Operator
+Thank you. Our next question is coming from Joe Moore from Morgan Stanley. Your line is now live.
+Joe Moore
+Great. Thank you. Devinder, you had talked about consumer graphics as being below corporate gross margin, I guess, I was thinking that I know you have historically had a high cost structure because of high bandwidth memory, but as the product portfolio increasingly doesn’t use high bandwidth memory and so the prospect to improve that for a consumer GPU to be closer to where your competitors’ gross margins are?
+Devinder Kumar
+I don’t think I specifically said that. I think some of our graphics products are below corporate average from a gross margin standpoint in addition to the semi-custom being below average.
+Lisa Su
+And I think Joe, maybe just to answer your question in terms of what we expect in consumer graphics, I think look we are investing in consumer graphics. We think gaming is a very important segment whether we are talking about consoles or discrete graphics. And the work that we are doing around the RDNA architecture in the future generations of RDNA architecture we believe will continue to improve our offerings for both consumer graphics as well as data center graphics.
+Joe Moore
+Okay, great. Thank you. And then with the new console builds, you mentioned that, that starts in Q2, but is mostly in the back half of the year? I guess as you think about that opportunity from a unit standpoint, is it the right way to look at it sort of a similar number of units to what we had in the first year of the current console cycle or is there just the compatability that you bring when you have an x86 CPU still and there is probably a little bit more similarity between the consoles, because that points to a sort of a better console unit market in 2020 that we saw 6 years ago like how are you thinking about it just to size that opportunity?
+Lisa Su
+Yes. So we do think there is some pent-up demand for the next generation of consoles. Without forecasting what our customers are planning, I would say they are both, we are planning for strong first year and we will have to see how things develop as we go through the ramp, but the overall sentiment is that there has been let’s call it a lull in console sales in the second half of 2019 going into 2020 sort of for some of this anticipation of the next generation.
+Joe Moore
+Great. Thank you.
+Operator
+Thank you. Our next question today is coming from Blayne Curtis from Barclays. Your line is now live.
+Blayne Curtis
+Thanks for taking my question. Maybe just follow it up on Joe, just want to make sure I heard you right, I thought you said the semi-custom as well, we grow double-digits just want to confirm that? And then just following on, I don’t know what the units are going to be, but is there a content or ASP story to layer on top of that equation as well?
+Lisa Su
+Yes. So I did say that semi-custom should grow double-digit as well. And again, it’s a strong year for us. And then as it relates to content, again, it’s fair to say that there is additional content in this generation versus previous generation.
+Blayne Curtis
+Got it. And then maybe just on the gross margin equation, is there way to talk about the mix of 7 nanometer that’s a big tailwind still seems early days at least across a couple of your products? Is there a way to kind of think about the whole company and what the mix of 7 is?
+Lisa Su
+Yes. So we just completed the fourth quarter and it was a very strong quarter for us, record revenue for the company and I would say about half of that revenue was 7-nanometer based and the other half not yet. And so there is still a significant ramp as we go into 2020, but we are pleased with how quickly we ramped in 2019.
+Blayne Curtis
+Thank you.
+Operator
+Thank you. Our next question is coming from John Pitzer from Credit Suisse. Your line is now live.
+John Pitzer
+Yes, good afternoon guys. Congratulations on solid results. I just want to go back to the gross margin bridge from Q1 to the full year, I just want to make sure I understand, the drop from Q1 to the full year, is that 100% being driven just by gaming coming back more aggressively in the back half of the year or have you baked in anything for either pricing, competition from the number one guy out there or some share shifts, how do we think about that, is it all about gaming?
+Lisa Su
+I think if you – maybe Devinder…
+Devinder Kumar
+No, go ahead.
+Lisa Su
+Alright. So I think if you look at it the predominant factor if you are talking about Q1 guided 46 versus full year at 45, it’s just as we wrap those consoles, there is some impact of that. As it relates to the pricing environment and what we are expecting, we are expecting a competitive pricing environment and that’s the way we have built our model. So I mean we have always expected that the competition will be very aggressive on both the CPU as well as the GPU side. And that is part of the inherent model for the company.
+John Pitzer
+That’s helpful, Lisa. And then you guys have a ton of goodness on your immediate plate on the server side and the data center side, just with the workloads you are going after, but I am kind of curious you answered an earlier question saying expect more GPUs for the data center. I don’t want you to preannounce product, but how should I think about your positioning for AIs and workload and acceleration? And just given some of the heavy lifting that NVIDIA had to do around CUDA, how do I think about the investment there? Is the scenario that you think you have some unique IP you can bring to or how do I think about that over the next couple of years?
+Lisa Su
+Yes. So I think that’s actually a good way of talking about the opportunity, John. I think the CPU opportunity is very immediate and in front of us as we look at the opportunities with Rome and the expanding opportunities. I think the data center GPU market continues to be an important growth vector for us and now I call that over the several year horizons. So when you look at the opportunities that we have, when we combine our CPU and GPU IP together, they are very, very strong. I mean, for example, this is the reason that we won the Oakridge National Lab Supercomputer with Frontier, which are actually both the CPU and the GPU win and some of the optimization that we have done with that overall system. We think that there are additional opportunities like that as well as machine learning and AI opportunities. Our focus there has been to work with large cloud providers to optimize the machine learning frameworks and we had some key milestones that we completed in the fourth quarter that will continue to be a focus for us in 2020 and beyond.
+John Pitzer
+Is it fair to say some of the GPU data center announcements this year go beyond just the cloud gaming market?
+Lisa Su
+Yes. I think you should expect that we will have additional sort of customer announcements outside of cloud gaming.
+John Pitzer
+Okay. Thanks guys.
+Operator
+Thank you. Our next question is coming from Timothy Arcuri from UBS. Your line is now live.
+Timothy Arcuri
+Thanks a lot. I guess I had another question just in relation to gross margin, you said of the years, revenue in the semi-custom will be in the back half, but does that breakout between September and December, I guess I asked that because I am just trying to see what the gross margin will be exiting this year if you strip out semi-custom, could it be 50% exiting the year? Thanks.
+Devinder Kumar
+I think it’s hard to break it down that way. We are in the initial stages of our planning for the ramp and you are asking about Q3, Q4 we are projecting about 80% of the semi-custom revenue growing double-digits year-over-year in Q3 and Q4. And typically when we have this new game launches, our peak quarter from a revenue standpoint in semi-custom will be Q3, but Q4 when you talk about the ramp of the product especially in the first year of the ramp, it’s hard to project how much it will be and then what the impact will be exiting 2020 from a gross margin, excluding semi-custom. Maybe as we get closer to that in talking about 3 to 6 months, we can probably give you a better idea of that.
+Timothy Arcuri
+Got it. Okay. Thank you. And then can you just talk about what your share targets are for the year in PC, I think you are 17, 18 in notebook and you are maybe 14 in desktop, can you just talk about how much share you think that you can gain this year given all the moving parts with the shortages and whatnot? Thank you.
+Lisa Su
+Yes. So I am going to forecast a share target for 2020. I will say though if you take a look back at the last eight quarters, we have been on a fairly steady share gain in PCs, somewhere between depending on the quarter, let’s call it, 50 to 100 basis points per quarter. And that changes between desktop and notebook. I think we grew somewhere on the order of 4 points a share. So we believe that we still have additional opportunities and particularly our focus is going to be both notebook as well as commercial. And those are good opportunities for us and play well to our new Ryzen 4000 mobile processors.
+Timothy Arcuri
+Okay, Lisa, thank you so much.
+Lisa Su
+Thanks, Tim.
+Operator
+Thank you. Our next question is coming from Mitch Steves from RBC Capital Markets. Your line is now live.
+Mitch Steves
+Hey, guys. Most of my questions have been answered and it kind of lines up with the model we got here. But I just want to make sure I got a couple of quick questions. And so basically for Q4, it looks like semi-custom was probably down 50% sequentially or somewhere around that range, is that – am I at least in the ballpark? And then secondly, from a server perspective, I am not expecting here to give numbers on this, but maybe qualitatively how much of your revenue is going to be cloud versus enterprise? I think that’s one of the bigger debates and I don’t expect specifics, but anything you can do to help us and see what should be the mix between cloud and enterprise for calendar ‘20?
+Lisa Su
+Yes. Sure, Mitch. Well, I think you are right when you look at the semi-custom business in the fourth quarter, it was a bit softer than originally anticipated. So we had originally said last quarter that we thought the second half of the year would be down high 30s and we were actually down more than that for the second half of the year and for Q4. And as it relates to mix of cloud versus enterprise for 2020, I mean, it will move around from quarter to quarter but I think the best guess at this point is let’s call it roughly even between the two.
+Mitch Steves
+Perfect. Thank you.
+Laura Graves
+Operator, time for one more question please.
+Operator
+Certainly. Our final question today is coming from Srini Pajjuri from SMBC. Your line is now live.
+Srini Pajjuri
+Thank you for squeezing me in. Lisa, maybe on the supply side, you are guiding for pretty strong growth here, I am just curious have you already logged in the supply for 7-nanometer and as we go into second half of the year especially as you ran the game consoles, I believe that those die sizes tend to be very large. I am just curious if you were to get upside and how you are feeling about your supply situation? Thank you.
+Lisa Su
+Yes. So PSMC has supported us very well through the first couple of quarters of our 7-nanometer ramp here in 2019. I think as we go into 2020, there will certainly be a significant growth for us in 7-nanometer. Our current visibility supports the revenue guide that we gave you. It is fair to say that wafer supply is tight and so it’s really important for us to be planning with our customers and that’s what we are working on.
+Srini Pajjuri
+Thank you. Good luck.
+Lisa Su
+Thank you.
+Operator
+Thank you. We reached the end of our question-and-answer session. I’d like to turn the floor back over to management for any further or closing comments.
+Lisa Su
+Thank you very much everyone for joining us today. We do look forward to having you join us on Thursday, March 5 for our Financial Analyst Day which will also be broadcast from our website. Thank you very much. Have a great day and we will talk with you again soon.
+Operator
+Thank you. That does conclude today’s teleconference. You may disconnect your line at this time and have a wonderful day. We thank you for your participation today.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+11 Authors in the Last 90 Days

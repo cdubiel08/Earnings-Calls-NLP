@@ -1,0 +1,254 @@
+QUALCOMM Incorporated (NASDAQ:QCOM) Q3 2019 Earnings Conference Call July 31, 2019  4:45 PM ET
+Company Participants
+Mauricio Lopez-Hodoyan - Vice President, Investor Relations
+Steve Mollenkopf - Chief Executive Officer
+Dave Wise - SVP, Interim Chief Financial Officer, Treasurer
+Alex Rogers - EVP and President, Qualcomm Technology Licensing
+Cristiano Amon - President
+Don Rosenberg - EVP, General Counsel and Corporate Secretary
+Conference Call Participants
+James Faucette - Morgan Stanley
+Chris Caso - Raymond James
+Blayne Curtis - Barclays
+Samik Chatterjee - JPMorgan
+Tal Liani - Bank of America
+Ross Seymore - Deutsche Bank
+Matt Ramsay - Cowen
+Stacy Rasgon - Bernstein Research
+Mitch Steves - RBC Capital Markets
+Rod Hall - Goldman Sachs
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to the QUALCOMM Third Quarter Fiscal 2019 Earnings Conference Call. At this time, all participants are in a listen-only mode. Later we will conduct a question-and-answer session. [Operator Instructions] Please limit your questions to one question and one follow-up.
+As a reminder, this conference is being recorded July 31, 2019. The playback number for today's call is 877-660-6853. International callers please dial 201-612-7415. The playback reservation number is 13692366.
+I would now like to turn the call over to Mauricio Lopez-Hodoyan, Vice President of Investor Relations. Mr. Lopez-Hodoyan, please go ahead.
+Mauricio Lopez-Hodoyan
+Thank you. And good afternoon everyone. Today’s call will include prepared remarks by Steve Mollenkopf and Dave Wise. In addition, Cristiano Amon, Alex Rogers and Don Rosenberg will join the question-and-answer session.
+You can access our earnings release and a slide presentation that accompany this call on our Investor Relations website. In addition, this call is being webcast on qualcomm.com. And a replay will be available on our website later today.
+During the call, we will use non-GAAP financial measures as defined in Regulation G. And you can find the related reconciliations to GAAP on our website. We will also make forward-looking statements, including projections and estimates of future events, business or industry trends, or business or financial results.
+Actual events or results could differ materially from those projected in our forward-looking statements. Please refer to our SEC filings, including our most recent 10-K, which contain important factors that could cause actual results to differ materially from the forward-looking statements.
+And now to comments from, QUALCOMM's Chief Executive Officer, Steve Mollenkopf.
+Steve Mollenkopf
+Thank you, Mauricio. And good afternoon, everyone. Thanks for joining us today. We executed well this quarter, against challenging industry conditions. Despite weakening demand for our 4G solutions, fiscal third quarter non-GAAP earnings of $0.80 per share was at the high end of our guidance range, driven by improved product margins, lower R&D and SG& A and a lower tax rate.
+In QTL, following the district court's ruling, our licensees continue to perform under their agreements. In parallel, at the Ninth Circuit Court of Appeals, we are pursuing a partial stay in appealing the ruling. Of note, with a statement of interest of the Department of Justice in support of our stay motion, stating that Qualcomm is likely to succeed on the merits in the appeal.
+The Huawei export ban, along with the pivot from 4G to 5G which accelerated over the past couple of months, has contributed to industry conditions particularly in China that we expect will create headwinds in our next two fiscal quarters.
+As a result of the export ban, Huawei shifted their emphasis to building market share in the domestic China market, where we do not see the corresponding benefit in product or licensing revenue.
+In addition, our customers in the China market are working through their existing 4G inventory and deemphasizing their second half 2019 4G launches, as they shift their priorities to their 5G launches in early 2020. As a result, we do not expect the typical seasonal benefits given this unique market dynamics.
+For the first calendar quarter of 2020, we anticipate reaching the inflection point as our financial results begin to reflect the benefits of our substantial efforts over the years to bring 5G to the market worldwide.
+Let me walk you through the dynamics of 5G rollouts. 5G network rollouts are progressing at a much faster rate when compared to 4G. We expect over 20 operators to launch 5G service and over 20 OEMs to have 5G devices in the first 12 months after the first commercial launch. This compares to four operators and three OEMs with the launch of 4G with the major difference being that China is launching 5G in the first year.
+In China, 5G commercial service was officially approved in early June and our current estimate is that by the end of this year, the three operators will deploy roughly 100,000 5G base stations, which to put in context is the equivalent of the scale of the entire network of a large US wireless operator.
+And in the US, 5G is being deployed across sub-6 and millimeter wave for nationwide coverage. Verizon has noted that they expect three quarters of the phones they are launching next year will be 5G.
+AT&T announced that they are on track for a nationwide 5G coverage in midyear 2020 and we expect the proposed T-Mobile-Sprint merger to result in an accelerated nationwide 5G rollout. I would add, that we expect the millimeter wave to be a mandatory requirement at all major carriers in the United States.
+Also helping to drive this accelerated transition to 5G is dynamic spectrum sharing which enables carriers to dynamically repurpose 4G spectrum for 5G use. DSS is a game changer for the carriers and will result in a much more rapid proliferation of 5G than we have seen in prior G transitions.
+Before I talk about our products, I would like to remind you of our contribution to develop the fundamental elements of 5G including innovations that enable massive MIMO, millimeter wave, security and the deployment of 5G technologies in networks across broad spectrum allocations.
+This early work has resulted in a valuable IP portfolio and provided us with an early insight into what products need to be developed and commercialized at scale. This will continue as 5G expands beyond Release 15 and the feature sets continue to evolve.
+Today, we are the only chipset vendor that has 5G system level solutions spanning both sub-6, gigahertz and millimeter wave bands. This is key to global deployment. Our 5G system level solutions span baseband, transceiver, RF front end and antenna elements as the components are tightly coupled together for best in class performance spanning multiple KPIs including power area and modem benchmarks.
+Let me now give us an update on our OEM traction. All of the major Android OEMs have announced 5G devices for this year and as volume ramps in early 2020; device offerings will expand beyond premium tier devices.
+As an example, China Mobile plans to drive 5G devices to price points under a US dollar equivalent of $300 by the end of 2020, representing about 40% of the Chinese smartphone segment by price band. Our Chinese customers have recently made product portfolio decisions consistent with that carrier objective to drive 5G into lower price bands.
+On the product side, our 5G design wins have doubled since our last earnings call. We now have over 150 5G designs launched or in development using our 5G chipsets. In addition to core chipsets, virtually all our 5G design wins are powered by our complete RF front-end solutions for 5G sub-6 and millimetre wave.
+We are the only company today delivering an end to end comprehensive modem to antenna solutions. The complexity of 5G and the value of innovative solutions enables us to expand our ASPs significantly from 4G.
+Turning to more detail on our legal matters. On July 8, we filed our motion for a partial stay with the Ninth Circuit Court of Appeals. And as you may have seen, the Department of Justice on behalf of the United States filed a statement of interest that supports our request. We cannot predict the exact timing, but we expect the Court of Appeals to rule in our stay motion in the near future.
+In the meantime, as can be seen from our results this quarter, licensees continue to perform under their agreements, consistent with our view, that the District Court decision does not nullify the existing license agreements.
+On our appeal on the merits of the FTC matter, the Ninth Circuit Court of Appeals granted their request for an expedited briefing schedule. We expect briefing to be complete by the end of the calendar year. And the court has said it will schedule the case for oral arguments on the next available hearing date, after briefing is completed. With regards to Huawei, we continue to pursue a negotiated resolution of the dispute, focused on a final agreement.
+Turning to QCT, on July 15, we announced our Qualcomm Snapdragon, 855 Plus mobile platform, providing about 1 billion mobile gamers, a leading flagship option for pro-like gaming devices.
+Expanding on our China relationships, we are pleased to announce a strategic cooperation with Tencent, to deliver premium 5G and gaming experiences to consumers and developers in China and other regions. This cooperation includes joint efforts on Snapdragon-based mobile gaming devices, Snapdragon Elite gaming, cloud gaming, AR, VR and always-connected PCs. We continue to execute on our growth opportunities across automotive, AR/VR, connectivity and networking and IoT. In compute, we are on track to see the first Snapdragon 8cx based designs, to launch in the second half of calendar year 2019.
+In summary, while near term demand trends are not surprisingly soft as the entire market and industry transitions to 5G, we are very excited with our design wins and growth in device content as 5G ramps, particularly into 2020. Put simply, our position at the center of developing this incredible technology represents a large opportunity for our stockholders.
+I would now like to turn the call over to Dave.
+Dave Wise
+Thank you Steve. And good afternoon, everyone. We delivered third quarter GAAP revenues of $9.6 billion which included $4.7 billion related to the settlement with Apple and its contract manufacturers.
+GAAP EPS was negatively impacted by a $2.5 billion non-cash charge to income tax expense due to a write-off of a deferred tax asset, resulting from recently issued US tax regulations.
+Our non-GAAP revenues were $4.9 billion despite top line softness. Non-GAAP EPS was $0.80 at the high end of our guidance range due to better QCT gross margins, lower combined R&D and SG&A expenses and a better-than-expected tax rate.
+During the quarter, SG&A expenses benefited from a faster than expected reduction in excess litigation expense. QCT delivered revenues of $3.6 billion on 156 million MSM shipments, below the midpoint of our guidance range given a larger-than-expected impact from market weakness. QCT's EBT margin was 14% in line with our guidance reflecting improvements in both gross margins and lower operating expenses. 
+QTL's third quarter revenues of $1.3 billion came in slightly above the midpoint of our guidance range, and included both current period Apple royalties and the last $150 million interim payment from Huawei. Our third quarter QTL results reflect the view that post the ruling in the FTC case, our licensing agreements remain enforceable and our licensees are expected to perform under their agreements which they have done to date. QTL's EBT margin was 70% above the high end of our guidance range on lower operating expenses due to a faster than anticipated reduction in excess litigation expense.
+Turning to our outlook. As Steve mentioned, as we look forward over the next couple of quarters, our business is being impacted by several factors in advance of the transition to 5G in early calendar 2020. We see continued weakness in China demand, Huawei gaining share inside of China and our Chinese OEMs managing their inventory ahead of 5G.
+We are lowering our estimates for global 3G, 4G, 5G device shipments in calendar 2019 by 100 million units to a range of 1.7 billion to 1.8 billion. We now expect handsets shipments to be down mid-single digits year-over-year.
+In China, through the June quarter, while device shipments from handset makers into the carriers and retailers was down only 5%, the device sell-through from carriers and retailers to consumers was more pronounced, down approximately 20% year-over-year, reflecting in part a pause by consumers ahead of 5G and an uncertain macro environment. As a result, we have seen a meaningful build in channel inventory during the first half of calendar year 2019.
+Over the next two quarters, we expect a significant impact on device shipment as sell-in and sell-through growth rates realign and channel inventory levels are drawn down in China.
+In other regions including North America and Europe, we are seeing lengthening of handset replacement rates impacting unit volumes, as well as some softness in India and in non-handset devices.
+Further, as a result of the trade dispute, our business is being impacted by a shift in OEM share towards Huawei as they increase their focus on domestic China sales and to a lesser extent by the loss of the direct sales to Huawei affected by the trade ban.
+Lastly, we are seeing our Chinese OEMs respond to these factors by pulling back on new 4G device orders and managing their inventory in advance of the transition to 5G in early calendar 2020.
+Turning to our fiscal fourth quarter guidance. We expect revenues to be in the range of $4.3 billion to $5.1 billion and non-GAAP earnings per share of $0.65 to $0.75. For QCT, we estimate MSM shipments to be in the range of 140 million to 160 million units, down 4% sequentially at the midpoint.
+Historically, we have seen mid teens percentage growth in MSM shipments from our third to fourth fiscal quarter reflecting normal seasonal strength in the latter part of the year as OEMs build for the upcoming holiday season. The estimated lower MSM shipments in our fourth quarter are being impacted by the factors I just described.
+The China related weakness is particularly impactful to QCT revenue subject to our leading position with a Chinese OEMs in the premium and high tiers. We estimate QCT's EBT margins for the fourth fiscal quarter will be 13% to 15%, flat sequentially at the midpoint. We estimate QTL revenues will be in the range of $1 billion to $1.2 billion with EBT margins of 62% to 66%, down sequentially versus the third quarter.
+Our fourth quarter forecast does not include any revenues from Huawei with the last interim $150 million payment, recognized in the third quarter. Similarly to QCT, QTL is not seeing the seasonal uptick in our fourth fiscal quarter, reflecting weaker device shipments.
+We expect non-GAAP combined R&D and SG&A expense to be down 1% to 3% sequentially, reflecting the absence of the catch-up and employee bonus expense that occurred in our third quarter offset by an increase in R&D spend.
+We plan to remain disciplined around cost management and expect operating expenses to increase slightly from our fourth quarter run rate as revenues ramp through fiscal 2020.
+We estimate our fourth quarter a GAAP tax rate to be 16% and our non-GAAP tax rate to be 13%. We believe the 13% rate is a good proxy for both our GAAP and non-GAAP tax rates going forward.
+As an update on our share repurchase activity as of today, we have completed approximately 90% of the ASRs at an average price of approximately $64 per share. As a reminder, we expect to complete the ASRs in early September.
+We are estimating 1.21 billion weighted average shares outstanding for the fourth fiscal quarter and expect to exit the fiscal year with approximately 1.16 billion shares outstanding post the completion of the ASRs.
+Looking beyond the quarter, we expect these market headwinds impacting our business to continue through the remainder of the calendar year and expect our revenues and earnings in our fiscal first quarter of 2020 will be in a range similar to our fourth quarter forecast.
+We are optimistic that 5G will be a catalyst to market improvement with broader rollouts of 5G networks globally, including the US, China, Europe, Korea, Japan and Australia. We expect 5G device volumes to ramp more meaningfully in early calendar 2020 with new flagship device launches from global and Chinese OEMs supporting 5G.
+In QCT, as we transition to 5G, our addressable dollar content opportunity per device is up to 1.5 times greater than a comparable 4G device, given greater chipset complexity and our ability to capture 5G RF front-end content.
+We remain confident in the incremental $2 of EPS related to the longer term contribution from the agreements signed with Apple as product shipments ramp. And one final comment, we will be hosting an Analyst and Investor Day in New York on November 19 this year. Please stay tuned for further details.
+Thank you. I will now turn the call over to Mauricio.
+Mauricio Lopez-Hodoyan
+Thank you, Dave. Operator, we are now ready for questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question comes from James Faucette with Morgan Stanley. Please proceed with your question.
+James Faucette
+Great. Thank you very much. I wanted to ask, you’ve mentioned that a couple of different forces that are impacting demand for QCT right now, both Huawei's more internal focus on China as well as pause in demand ahead of 5G.
+Can you talk a little bit about how that is impacting, not only unit volumes but the pricing and mix currently? And then how you're looking at the impact on at least qualitatively your anticipation for 5G volumes et cetera next year, especially since we seem to be coming off of a lower base?
+Then as a follow-up, can you just talk a little bit more and give a little more color on how you may be handling any requests for renegotiation for the FTC ruling and what the roadmap is that you’ve laid out for those licensees in terms of treating those requests and dealing with compliance in the interim? Thank you.
+Dave Wise
+This is Dave. Let me start and Cristiano will jump in. So if you think about the dynamics in the market we called down the market 100 million units, a meaningful portion of that is related to China where we’re seeing softness. We referenced in the comments the sell-through market to consumers being down 20% year-over-year through the first half of calendar ‘19 and our sell-in down 5%. So we see the back half of the year, a conversion of those growth rates so the sell-in rates coming down more aggressively in the back half of the year.
+That in the back half of the year is compounded by some runoff of channel inventory that's been built up over the first half as well. And so some pronounced impacts on really Q3 with respect to the channel inventory runoff. And so we think that the market dynamics in the market units flow out a little bit in Q3 and then hitting our Q4 and our fiscal Q1 as those dynamics play out.
+And the way to think about how that impacts the business is first you think about QCT. We typically would see from a seasonal perspective maybe a 15% to 17% increase in MSM shipments as we move from Q3 to Q4. I mean, obviously, we guided down 4%.
+So if you think about jumping off from 156 million MSMs in Q3 that gap from what we normally expect to see is about 35 million units. About two thirds of that is market related with China being a meaningful component of that. I would point out that a lot of the China dynamics and certainly the things related to pause before 5G are more premium and high tier dynamics that are more impactful from a revenue perspective for us.
+And the other third would be really share shifts, there's OEM share shifts towards Huawei away from some of our OEMs, as well as a little bit of a share loss at the low tier, but that's not really sort of financially impactful. So that's I think the way to think about the impacts on the next quarter to hear.
+Cristiano Amon
+Jim, this is Cristiano. Just to add some additional color. So building what Dave had said, if you remember I think China got authorization to launch 5G back in the June. And so there was a lot of uncertainty whether they will launch or not given the environment they did the launch.
+And what we’re seeing to some counterintuitive, but actually building confidence on the 5G transition as we had some of the OEMs cancel some of the 4G launches and moving their portfolio towards 5G designs. We’re seeing a lot of requests for pulling in and we see preparing for the 5G ramp at the next selling season. And one we do have this I would say onetime impact as Huawei demand got suddenly reduced in Europe there we saw an increased focus of Huawei in China. That kind of changed the OEM mix.
+But the general sentiment and that's what we're seeing in the activity is to drive as fast as possible to the 5G ramp as we bleed this inventory on the premium and high end channel and we see 5G ramping across multiple tiers as Steve said even at the price points of $300 and above.
+Alex Rogers
+Jim, this is Alex. On the second part of your question, how we're handling requests for renegotiations. As you may have seen we had a number of request for renegotiations coming. We've also had license agreements that were in the process of renegotiation recently.
+And with respect to those requests, we’re ensuring essentially what we call a FRAND process that the licensee has an opportunity to drive to a fair reasonable and non-discriminatory result in any license agreement that's ultimately reached.
+And so we’re engaging as we always do very thoroughly with licensees to try to get to a process that recognizes the value of our portfolio. We think -- which we think is a very, very good as 5G ramps.
+Operator
+Thank you. The next question comes from the line of Chris Caso with Raymond James. Please proceed with your question.
+Chris Caso
+Yes. Thank you. I guess first question is on the sell-through versus the sell-in expectations over the next couple of quarters and understand what you guys said on the revenue expectations for you that take into account some of the inventory adjustment that's going on.
+What are your expectations for sell-through? Does it stay at this sort of down 20% year-on-year rate as we get into the 5G transition at the beginning of next year? What's embedded in the guidance?
+Steve Mollenkopf
+Yeah. Essentially what's in our guide is we’re not expecting to sell-through to remain low through the rest of the calendar year reflecting as we said sort of some of the macro environment, but also really some of the pause before 5G ramps more meaningfully next year.
+So we expect that to remain low and then the sell-in to start to converge towards that over the remainder of the year. And then that's just as we said compounded by the fact that there's been some channel inventory build - built in the first half that will bleed off that’s more of a Q3 probably factor.
+Chris Caso
+Okay. That's helpful. Thank you. As a follow-up, I guess we all understand that you're hoping to get a stay in the FTC ruling. Could you lay out for us what the contingency plans are in the event that a stay is not granted? What are the steps that would need to be taken and what would be the financial impact of having to take those steps before appeal is finally decided?
+Don Rosenberg
+Hi. Chris, this is Don Rosenberg. As you know, we are smack in the middle of the Court of Appeals reviewing our motion for a stay. So we’re limited in what we can say about that. But I should point out, I don't think it's missed your eyes that it's fairly widespread consensus that Judge Koh’s order is erroneous in many, many respects. And the fact that United States, the Justice Department through the - with the support of the Department of Defense and Department of Energy have filed a brief - statement of interest rather in support of our motion to stay, in which among other things they objected both to the remedy, but also indicating that they think we’re going to be successful on the merits.
+In addition the Court of Appeals has expedited their review of our appeal on the merits. And so I think we’re very encouraged by this kind of support, we think as I said that there is a widespread view that our chances are very good. So we’re at the point where we want to wait for that decision on the stay and then proceed from there.
+Alex Rogers
+This is Alex. I’ll just add very quickly. One of the, I think fundamental points that can't be missed is that the current agreements are valid and enforceable even the FTC has waited and said that the agreements are not nullified, and so that's very important.
+In addition we have a couple of what I would call anchor agreements that are very good agreements that we're quite happy with and that's Samsung and the recently signed Apple agreement. And as I said our IP position is very, very strong through 4G and ramping into 5G.
+Operator
+Thank you. Our next question comes from the line of Blayne Curtis with Barclays. Please proceed with your question.
+Blayne Curtis
+Hey, guys. Thanks for taking my question. I was wondering if you could comment on Apple purchased Intel's modem and then as you think longer here, it sounds like Huawei's focusing more on post this ban – attempted ban here, focusing more internal on their modem. I know you shift to a portion of that, so I'm kind of curious.
+Any view on how this Apple purchase affects the $2 you guys talked about? And then can you just comment on Huawei and if they gain share and do more in-sourcing, the opportunities for you as you go into 5G?
+Steve Mollenkopf
+Blayne this is Steve. I'll handle the first one and Christiano I think is going to jump in onto Huawei question. I would say in terms of the recent news flow, it's really - I think that was pretty highly anticipated. It was clearly anticipated in the agreement that we did. Remember we did two agreements a patent license agreement as well as a product agreement, multiyear product agreement.
+We don't see anything changing in terms of our ability to deliver on those agreements and we think it still remains a pretty competitive at least attractive competitive dynamic for us when you look at industry and our roadmap versus others even after those agreements expire. And I think very clearly in answer to your question we don't see any impact to the $2 number that we have put out there.
+Cristiano Amon
+Hi. This is Cristiano. So on the Huawei, Huawei has been in a number of years that their premium and high tier has been focused on their own. And I think our shipments to Huawei so kind of that mid-to low tier pair. But I look at the Huawei focus on China a little different; I think it creates an opportunity for our customer base coming out of China companies like Vivo, Oppo, OnePlus, and Xiaomi, outside China especially in Europe that's accretive to us especially in the 5G transition. And we look that opportunity is probably permanent not one-time. I think the interest on the European carriers have been very high.
+And when some data came out that we’re very pleased that show since we're kind of generations ahead on our 5G chip, I think the latest report show that the Huawei modem is at least 50% bigger in area than the first generation QCT.
+I think, we had compete with many other companies throughout the years and we’re optimistic about that lead we have in 5G. And hopefully, that will drive a good transition for us to look for customers in China including competing with Huawei in domestic China as well.
+Operator
+Thank you. Our next question comes from the line of Samik Chatterjee with JPMorgan. Please proceed with your question.
+Samik Chatterjee
+Hi. Thanks for taking the question. I just wanted to start off with - kind of question on 5G. You're clearly excited about your position in 5G, but as you kind of think about the impact on the smartphone industry you’re expecting volumes to improve, but lowering the cost of solution also there’s probably going to a big driver. So how you are seeing kind of the progress on that front?
+And just as a follow-up, I think you mentioned kind of plenty of operations you expect to launch 5G. Can you just help us think about the mix of sub-six versus millimetre wave?
+And you mentioned you would expect the millimeter wave to be mandatory kind of what's driving your view there given what we hear is the infrastructure is not really ready to support millimeter-wave in most geographies yet? Thanks.
+Steve Mollenkopf
+Samik, this is Steve. Maybe I'll take the first one and Cristiano will jump in a bit on the RF components. I would say, I look at the 5G rollout in general has a higher intensity and a more global nature than what we saw even in 4G. So the pressure that we are getting to accelerate not only the premium tier, but also higher tier devices is pretty amazing.
+If you were to look China Mobile came out with a data point that said essentially RMB 2,000 devices roughly $300 phone that will be where they're going to target the 5G line next year pretty substantial by the end of the year. That's pretty substantial move.
+I would expect at the beginning of the year, which is what really focused on right now, you'll start to see that line be somewhere close to the RMB 3,000 so roughly $430 price point. That's pretty significant actually.
+And it's anticipated in our roadmap in terms of our integration. You may have seen us and remember that we have talked about how we have been moving our 5G into an integrated roadmap even more quickly than we did in 4G.
+Now two things happened to us that I think are beneficial in addition to just a good a dynamics that happen when you have transitions in technology. One is because the complexity of 5G goes up the ASP of the baseband, we tend to have an attractive move just from the ASP baseband alone tier-to-tier. So 4G same tier to 5G same tier. The ASP the baseband is good for us.
+Secondly, we see a strong opportunity in the RF to grow the content of the device. As you know, we have had strong traction there in part because of the importance of wrapping the system design around the antenna.
+You will see consistent with the design that I mentioned or the feature that I mentioned dynamic spectrum sharing you'll see an opportunity to extend of those 5G RF design opportunities into the legacy 4G bands as they are effectively dynamically reformed with that feature.
+So we see a continued roadmap for us to continue – to grow content per device and that's why we've been investing so heavily to put that in place. It's in a place now, and the real activity is for us is how quickly can we get this to ramp and can we do it worldwide. So we are pleased with that, I would say the dynamics. And we have a lot of visibility to that. We have a lot of confidence that we think that we'll be able to do it.
+Alex Rogers
+Hi. So Cristiano, just to answer your question on sub-6 and millimeter wave mix. So millimeter wave right now is a requirement across all the main carriers in United States. I think we saw phones again launch the millimeter wave, and in 2020, we'll see that in Korea and Japan.
+So if you look at developed economies, I think of Japan market, Korea market and the States market require millimeter wave. That will be no high attached in terms of the total 5G volumes. But it's not stopping there.
+So Europe that is launching with sub-6 millimeter wave has already been auctioned in Italy. And it is a now likely to get license in the UK as well. So 5G's really been designed for the combination of sub-6 and millimeter wave. And we are optimistic about millimeter wave attach increasing.
+One other thing to mention is, sub-6 in general, we will see in ‘20 a lot of reforming on existing spectrum because of the dynamic spectrum sharing technology. So that also create opportunity for us to expand our RF front-end that today is focused on 5G, these new sub-6 bands and millimeter wave to also add the reform bands and so that's how we think about the RF.
+Operator
+Thank you. Our next question comes from the line of Tal Liani with Bank of America. Please proceed with your question.
+Tal Liani
+Hi, guys. When you say that there is slowdown in the 4G versus 5G, is it only China-specific? Or can give the global context of this comment? It's just hard for me to believe that there is any slowdown in Europe or the US because of 5G. So I want to understand it?
+Second can you comment on relationship with Apple, post the acquisition of Intel's modem business by Apple? How do you view it? And what’s - where do you see yourself kind of in the future playing with Apple, kind of how do you work with Apple, given that they're going to have a modem asset in-house? Thanks.
+Dave Wise
+This is Dave. I'll start. So let me start with China. So we are seeing a pause or a slowing in terms of 4G orders in advance of 5G in China. Really there is a number of – as we reference a number of dynamics going on in China right now. There is sort of a realignment of the sell-in towards the lower sell-through growth rate, so some compression on growth rate in the back half of the year, the channel inventory being drawn down. And so headwinds for the OEMs in terms of the market in the China in the back half of the year.
+And then what we're seeing is an element of the softness in the sell-through market, really being attributable to more high and premium tier segments of the market pausing before 5G. So we are seeing that - some of that pause before 5G and a desire by some of our OEMs try to accelerate efforts to bring 5G into the market, so seeing that there. 
+Outside of China we referenced lengthening replacement rates in developed markets like the US and Europe. And so, we think a little bit at play there as well in terms of some pause again at sort of the higher tiers in advance of 5G. 
+Steve Mollenkopf
+And Tal, this is Steve. With respect to Apple, I think the relationship is quite good what really characterizes it now is the 100% of the intensity is how do we get products out together. Very natural I think for both companies.
+We and I think both sides really anticipated that there would be some announcement like you've seen. But it hasn't changed the way in which we move forward. We’re used to that and the real effort is how do we get products out together and I think that's very healthy relationship.
+Operator
+Thank you. Our next question comes from the line of Ross Seymore with Deutsche Bank. Please proceed with your question.
+Ross Seymore
+Hey, guys. I want to talk about the 5G side. You're clearly excited about the first half of next calendar year. Can you talk a little bit through do you think it's going to be more of a unit demand environment where that's really going to rise? Or is it going to be more of a substitution effect there? And people on the sell side and buy side should more or less focus on that 1.5x increasing content that you talked about Steve?
+Steve Mollenkopf
+Yeah, Ross. I think as we look out over the next year and the transition to 5G, we don't really look at it in terms of being a unit growth story, where the market units increase. What we really see is in a flat market, the transition over to 5G creating an opportunity for us by the fact that our monetization per phone is going up as Steve referenced. We see high rates ASPs associated with the complexity as well as the capture of the 5G RF front-end content. So it's really more about of that as a growth driver for us as we head into the first calendar quarter next year and on into rest of fiscal 2020.
+Cristiano Amon
+Ross, this is Cristiano. I'd like to add the following. When you look at the first half just the launch of the 5G by the operators and how unlimited data plan starts to move to the 5G devices you'll see that replacement and with that you do see this 1.5 factor coming in as we grow content and RF front end.
+Overtime, it’s hard to make predictions, but we've seen it with every different a transition. Some of the service of every a video or gaming or streaming gaming starts to become more popular and device form factor changes for a larger screen. You could see the market growing faster than single-digit. But we're not making that assumption for 2020.
+Ross Seymore
+That's helpful. I guess as my follow-up question sticking with China theme in general, can you give us whether its your QCT revenues or the MSMs any sort of even rough estimates about the percentage of those that are associated with China, because the year-over-year growth rates you're talking about, or decline in this instance are quite acute.
+I know in the September quarter you had 14 weeks last year and some of things have changed and you walked through the inventory dynamics. But even if I adjust for those, it seems like you're down a better part of 15%, 20% year-over-year. So to the extent China is such a larger exposure for you, can you just talk about how big is it?
+And is there anything that you can do to help mitigate these sorts of booms and busts as we go into that first half of 2020, when the count with the 5G ramp could lead to the same sort of volatility?
+Dave Wise
+Yeah. A quick comment on year-over-year, so if you take a look at where we are year-over-year there's a couple of thing – couple of factors that affect the decrease, or the reduced level of revenues. One, I would remind you that last year there was significantly more Apple in our business versus the current quarters.
+So that's a meaningful portion of the decrease in revenues on a year-over-year basis. We also had some low end share loss over the last year that had some contribution to the reduction as well, but Apple a big part of it in terms of QCT.
+On the QTL side, just to highlight it in the year ago quarter we had $500 million from Huawei compared to $150 million in the current quarter. So, overall that contributes to the comparison also.
+Steve Mollenkopf
+And I will just add one - this is Steve. I would just add one I think you have an unusual event here, which was the reaction of Huawei to the ban and how it retrenched into China. And I think that was a very unusual share shift that obviously we got impacted probably more than other folks probably because the tiers and the OEMs that were impacted are ones that we tend to monetize.
+We think that gets back into more normal position kind of snaps back the other way with the launch of 5G. And hopefully, wouldn't have a one-time event like that, but it should be more stable post that big ramp with 5G.
+Operator
+Thank you. The next question comes from the line of Matt Ramsay with Cowen. Please proceed with your question.
+Matt Ramsay
+Yes. Thank you very much. Good afternoon. A couple of additional question on China, one from each side of the business. I know Steve or Cristiano, I know you've talked a little bit about the Huawei retrenchment and the impact on QCT units. It's been topical that obviously China after the Huawei entity list stuff and other factors has maybe focused more as a country on indigenous development.
+Have there been any movements for high silicon to supply any other OEMs in China or for OEMs broadly source from China? And then on the QTL side, since Judge Koh's ruling any change in compliance with Chinese OEMs outside of Huawei that we should note? Thank you.
+Steve Mollenkopf
+Thanks for the question. Look, I think the way to think about it, Huawei had a sudden change in their phone landscape, especially what happened with Europe. I think there was a drastic reduction in demand. And I think that causes them to be very focused on China, because that's the place they could be focused on.
+I think the big picture answer to your question is China has many initiatives and their initiative in China is not only about China domestic market, but also the Chinese mobile system growth outside China. And what we have seen, it's - our relationship with China remains a very healthy and is expanding, and in addition to the relationship with Vivo, Oppo and OnePlus as they range in Europe, we recently signed an agreement with Tencent talking about content in 5G use case development.
+And I expect that the relationship between QCT and China in the 5G era will continue to be healthy, because we help the expansion outside China. And that's how we look at. We don't see any signs today that the dynamic is changing.
+Alex Rogers
+And then this is Alex. On the QTL side, there was as we referenced one incident that would have affected the compliance and we engaged very rapidly on that take to it very seriously. But as you can see as we ended the reporting here we've got good compliance.
+Operator
+Thank you. Our next question comes from the line of Stacy Rasgon with Bernstein Research. Please proceed with your question.
+Stacy Rasgon
+Hi, guys. Thanks for taking my question. I wanted to ask about the QCT trajectory. So, I know you talked about inventory flash and some of the weakness in everything else. But at the same time, if I look at your forward guidance on chipsets, I mean you've been missing for the last several quarters. So why all of a sudden is the inventories in a pause in front of the 5G versus just a continuation of the trend that we've already been seeing for the last three or four quarters?
+And for my follow-up, I just want to know do you guys think 5G overall is accretive to licensing revenues? I mean, you lowered the rate when you included it you have the ASPs capped, it doesn't sound like you’re looking for incremental unit growth for the market for 5G. So, how do we think about 5G's impact on the run rate of royalty revenues as it is today? Thank you.
+Dave Wise
+Hey, Stacy. So, with respect to QCT side, first of all, I would make the comment that stepping back over the course of this year, I think with the recent 100 million unit reduction, we've seen a sort of a continuing erosion in the handset market over the course of this year. So, this has been something that has been a headwind for the business I think for the last several quarters. And so I think that's been a dynamic that has been impacting MSM units as well as sort of the overall business.
+I think what we saw this -- what we're seeing now is maybe a little more pronounced growth impacts on the back half of the year as again we go back to the sort of sell-through rates remaining down in China and the sell-through -- sell-in rates not yet aligned with that.
+So realignment there -- the fact that they weren't aligned in the first half resulting in some channel inventory build. So, really more market dynamic in terms of pressure on units.
+As we said a little bit of share loss at the low end, not financially significant. And then the more I would say unique situation was Huawei really entrenching and focusing on the domestic China market and really putting their attention there and grabbing significant share.
+So, that little bit more of a unique situation to what we're seeing right now. But I would say a lot of it is really attributable to the market headwinds that we've been frankly seeing all year long.
+And then QTL, with respect to how to think about that as a 5G as an upside a lot of the agreements we signed are for 4G -- 3G, 4G, 5G. And so really we look at it as just a continuation and extending of the monetization of the handset market as it evolves from 4G to 5G just like we did from 3G to 4G.
+Operator
+Thank you. Our next question comes from the line of Mitch Steves with RBC Capital Markets. Please proceed with your question.
+Mitch Steves
+Hey, guys. Thanks for taking my questions. Just had a quick one just kind of turning back to the ASP as expected if we're going to ramp 5G faster. So I guess two parts. So, first does this mean that essentially we're going to see kind of a bigger pause in smartphones shipments and then to increase demand for the kind of 5G shipments out in 2020? And then secondly, if that's not the case, what should we think about as a kind of a normalized unit base for the smartphone industry at this point?
+Steve Mollenkopf
+Yes. In our comments when we talked about the 100 million unit reduction, we kind of gave a sense it's 1.7 billion and 1.8 billion units in total. We indicated that now translates into a handset market being down sort of mid single digits year-over-year.
+And so if you look - if you step back over the last number of years, it's been relatively flat handset market, so down a little bit as we see some of this pause and some of the macro environment impacts affecting us. So we don't really see any sort of it changes in the overall unit market beyond the comments that we made.
+Mitch Steves
+Yes, just to clarify a quick, I heard you guys, did a good job as a question referring more to 2020, so essentially, if people are pulling down the numbers for this year. Does that mean essentially 2020 should be up like 7% or 8% to kind of offset those as more of a down year or is it too early to call that?
+Steve Mollenkopf
+Probably too early for us to call what we’ll see in ‘20. But I think we would expect to as we said see an inflection beginning in the first calendar. So it will be our second fiscal quarter with 5G launches happening more significantly in China, as well as other flagship device launches at Mobile World Congress and things like that and then sort of a building over the course of the year as we think about moving towards really more flagship launches happening in the fourth fiscal quarter.
+Operator
+Thank you. Our next question comes from the line of Rod Hall with Goldman Sachs. Please proceed with your question.
+Rod Hall
+Yeah. Thanks for squeezing me in guys. Just a couple of things, I wanted to ask kind of deviate from all the demand staff and just ask you if you could update us on the CFO search kind of what the status of that is? And then I also want to come back to just the demand stuff, just to kind of clarify what your -- what information you're acting on?
+So are you seeing - did you see deterioration of demand through the quarter? Could you just kind of talk to us about what sort of data points you've seen here and how they came to you? Did things weaken toward the end of the quarter or they just remained weak or kind of give us some idea what trajectory look like to you? Thank you.
+Steve Mollenkopf
+Rod hi, it's Steve. We continue to look nothing to announce right now. But we'll keep you updated.
+Dave Wise
+Then with respect to sort of how things have unfolded I guess more recently. So one I think we tracked like the CMMR Report. I mean, we track that like probably a lot of others in terms of watching what's happening with the sell-through. And so we've seen that continue to be down even through the June quarter with really no significant movement away from that trend.
+And then we'll look at that relative to kind of where we see handset demand coming in with respect to sort of our own data points around the markets. And so we look at it from that standpoint.
+We look at our demand profile is coming in from customers in QCT and factor that into the mix as well. And that's why we've seen some of the pullback that we talked about with respect to 4G units.
+Cristiano Amon
+This is a Cristiano. Like we - I think I've mentioned it before. We saw some phone model cancellations, which is on the 4G segment second half launch. So that's an indication they wanted to accelerate the 5G and that’s unusual metric having the phone model cancellation on the 4G side.
+Operator
+Thank you. Ladies and gentlemen that concludes today's question-and-answer session. Mr. Mollenkopf, do you have anything further to add before adjourning the call?
+Steve Mollenkopf
+Thank you. I just want to thank everyone for joining us today. And maybe just to the employees of Qualcomm, thank you for a good quarter. We have a lot of work ahead to launch 5G. It's a big opportunity for the company and look forward to the next several quarters. And a lot of work to do, but I think a great opportunity for us. Thank you.
+Operator
+Thank you. Ladies and gentlemen, this concludes today's conference call. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+4 Authors in the Last 90 Days

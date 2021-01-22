@@ -1,0 +1,172 @@
+Broadcom Inc. (NASDAQ:AVGO) Q2 2020 Earnings Conference Call June  4, 2020  5:00 PM ET
+Company Participants
+Beatrice Russotto - Director of Investor Relations
+Hock Tan - President and Chief Executive Officer
+Thomas Krause - Chief Financial Officer
+Conference Call Participants
+Vivek Arya - Bank of America Merrill Lynch
+Craig Hettenbach - Morgan Stanley
+John Pitzer - Credit Suisse
+Ross Seymore - Deutsche Bank
+Harlan Sur - JPMorgan
+Stacy Rasgon - Sanford C. Bernstein & Co., LLC
+Blayne Curtis - Barclays Capital
+Timothy Arcuri - UBS
+Pierre Ferragu - New Street Research LLP
+Christopher Danely - Citigroup
+Operator
+Welcome to Broadcom Inc.’s Second Quarter Fiscal Year 2020 Financial Results Conference Call.
+At this time, for opening remarks and introductions, I would like to turn the call over to Beatrice Russotto, Director of Investor Relations of Broadcom Inc. Please go ahead, ma’am.
+Beatrice Russotto
+Thank you, operator, and good afternoon, everyone. Joining me on today’s call are Hock Tan, President and CEO; and Tom Krause, Chief Financial Officer of Broadcom.
+After the market closed, Broadcom distributed a press release and financial tables describing our financial performance for the second quarter of fiscal year 2020. If you did not receive a copy, you may obtain the information from the Investor section of Broadcom’s website at broadcom.com.
+This conference call is being webcast live and a recording will be available via telephone playback for one week. It will also be archived in the Investor section of our website at broadcom.com.
+During the prepared comments, Hock and Tom will be providing details of our second quarter fiscal year 2020 results, guidance for our third quarter, as well as commentary regarding the business environment. We’ll take questions after the end of our prepared comments.
+Please refer to our press release today and our recent filings with the SEC for information on the specific risk factors that could cause our actual results to differ materially from the forward-looking statements made on this call.
+In addition to U.S. GAAP reporting, Broadcom reports certain financial measures on a non-GAAP basis. A reconciliation between GAAP and non-GAAP measures is included in the tables attached to today’s press release. Comments made during today’s call will primarily refer to our non-GAAP financial results.
+So with that, I’ll now turn the call over to Hock.
+Hock Tan
+All right. Thank you, Bea, and thank you, everyone, for joining us today. Before I provide our quarterly results, I do want to take a moment to acknowledge and thank all of the healthcare professionals and essential workers on the frontlines, who are showing incredible courage during these unprecedented times. I speak for all of Broadcom, when I say we are very grateful for their work.
+I also especially want to thank our team of more than 20,000 employees working all over the world to keep our business running. I’m proud of their tireless efforts to preserve and protect our enterprise. Now, more than ever, our customers and communities are counting on us to continue to deliver the essential technologies that enable the continuity of functions critical to daily life.
+So now, let me turn to our second quarter results and our outlook for the third quarter. We delivered second quarter net revenue of $5.7 billion, very much in line with our guidance, down 2% sequentially, up 4% year-on-year.
+Semiconductor solutions revenue was $4 billion, declining 2% year-on-year. Infrastructure software revenue was $1.7 billion, up 21% year-on-year, which, of course, includes contribution from Symantec.
+On a sequential basis, semiconductors were down 4% while software was up 3%. So, on to more color starting with semiconductors, we face a very interesting demand environment in the midst of a challenging supply chain ecosystem. Let me provide more color on various semiconductor end markets.
+Beginning with networking. Q2 reflected an expected recovery and was up 11% sequentially. Demand was healthy as we began to ramp our next-generation Tomahawk 3 and Trident 3 switch products at our various cloud customers, and in network routing, Jericho 2 at our telco customers. This steady recovery which we saw in Q2 is now turning into a demand surge in Q3 as we are seeing strength for existing generation products in addition to this next-generation range.
+We are also seeing a strong uplift in demand from the neck – from the ramp of next-generation deep learning inference chips for a lead cloud customer. In server storage connectivity, we note a similar situation. From a 14% sequential revenue decline in Q2, demand in Q3 has turned around and is accelerating.
+Demand – sorry, demand from enterprise customers for our RAID data protection controllers has recovered and is showing considerable strength. Demand from cloud service providers for our PCI Express switches that drives solid state memory and AI applications has been particularly strong.
+Turning on to broadband, which was flat sequentially in Q2. We expect approximately 10% revenue growth quarter-over-quarter in Q3 driven by strong adoption of Wi-Fi 6 in next-generation access gateways not only from enterprises, but also from telcos and other service providers.
+We’re also seeing increased demand for broadband, DSL, and PON and next-generation cable DOCSIS 3.1. That being said, we expect this to be partially offset by a sharp decline in video, particularly in satellite set-top boxes, given the current constraints on live sporting events.
+Then moving on to wireless. Wireless saw typical seasonality in Q2, was down 14% sequentially much like last year. In Q3, we would normally expect to see a double-digit sequential uplift in revenue from the ramp of next-generation phone at our large North American mobile phone customer.
+However, this year, we do not expect to see this uptick in revenue until our fourth fiscal quarter. So accordingly, we expect our wireless revenue in Q3 will be down sequentially as it was down in Q2.
+Turning last to industrial. We began to see recovery in Q2, and revenue was up 13% sequentially, consistent with recovery in resales to end market. Even as we expect resales in Q3 to be flat, given the current market uncertainty arising from the current – the COVID-19 pandemic, we are aggressively moving to bring down channel inventory globally, especially in Europe and Japan. As a result, we expect a double digit sequential decline in recognized shipping revenue in the third quarter.
+I would note, resales in Asia Pacific, in particular China, are expected to be up quarter-over-quarter, while other regions – all other regions are expected to be down. So, that’s the demand picture.
+Now, on the supply chain side, we have experienced and continue to do so, some challenges, some of which are unique to us. Lead times, especially in leading-edge processes have extended and are running at historical highs.
+Coupled with this, we have significant test capacity – repositioned significant test capacity in Malaysia, where we also have a central – centralized warehouse. And this is a location, which has experienced intermittent COVID-19 lockdowns and significant logistical delays. Bottom line, in Q3 we really have much more demand than we can supply and this may very well continue beyond Q3.
+In summary, we clearly see significant puts and takes. On the positive side, a surge of demand in networking, storage and broadband; on the negative side, supply chain constraints and the product cycle delay in wireless. Therefore, we forecast our semiconductor solution revenue to be up 3% sequentially, but only down 5% year-on-year for the third quarter despite the major product cycle delay in wireless.
+Right. Now turning to software. CA was up 2% year-on-year and flat sequentially. Bookings in our core accounts grew double digits annually, which was offset by the expected reduction in services revenue.
+Symantec grew 2% sequentially and contributed over $400 million in the quarter. After two quarters, we have successfully integrated Symantec onto the Broadcom platform and have largely contributed – completed the transition. As mentioned, bookings in our core accounts are growing and more than offsetting the transition out of smaller commercial accounts as we continue to rationalize the business.
+While Brocade was down 21% year-on-year, it was up 11% sequentially in Q2 and was the – and that was the third quarter in a row of sequential growth for Brocade following the Q3 bottom last year.
+Looking ahead to next quarter, we expect revenues from CA and Symantec, of course, to sustain on a sequential basis. However, very consistent with our distribution strategy in semiconductors, we are reducing channel inventory significantly for Brocade and expect Brocade revenue will be down significantly quarter-on-quarter in Q3.
+So as a result, we expect revenue from the Software segment to be down approximately 7% sequentially in the third quarter. So, in sum, we expect our consolidated third quarter net revenue to be $5.75 billion, roughly flat from Q2. This reflects a 3% sequential projected revenue increase in semiconductors and a 7% sequential expected revenue decline in software.
+With that, I’ll turn it over to Tom.
+Thomas Krause
+Thank you, Hock. Let me now provide additional detail on our financial performance. First, on the P&L, gross margins were 73% of revenue in the quarter and relatively flat with Q1, but up approximately 100 basis points year-on-year. The increase in software as a percentage of our overall revenue drove the increase.
+Operating income from continuing operations was $3 billion and represented 53% of net revenue. Operating margins were effectively flat quarter-over-quarter, but down year-on-year by approximately 70 basis points, primarily due to the stranded costs for Symantec we carried in the quarter.
+In fact, operating expenses were $1.2 billion, which was down $28 million compared to Q1, but still included approximately $35 million of Symantec-related expenses that we expect to go away over the remainder of the year. Adjusted EBITDA was $3.2 billion and represented 56% of net revenue. This figure excludes $147 million of depreciation.
+Looking at cash flow. We had record quarterly free cash flow of $3.1 billion, representing 53% of revenue. This is up a little more than 20% year-on-year. Collections were quite strong and it’s worth noting that our software businesses are seasonal, with December and to a lesser extent March, being particularly strong bookings months. As a result, our fiscal Q2 is the peak collections period for software.
+In addition, we strictly managed working capital to improve liquidity, but also out of an abundance of caution, given the continuing lack of visibility. Notably, we moved most of our business to build the order during the quarter and are continuing to operate this way.
+However, the downside to our conservative approach is our ability to respond to short lead time orders is very limited. Overall, we’re going to continue to operate and plan for challenging conditions going forward, given the uncertain environment.
+Turning to capital allocation. In the quarter, we paid our common stockholders $1.3 billion of cash dividends. We also paid $219 million in withholding taxes due to on vesting of employee equity, resulting in the elimination of approximately 900,000 AVGO shares.
+We ended the quarter with 402 million outstanding common shares and 452 million fully diluted shares. Note that, we expect the fully diluted share account to stay at 452 million in Q3.
+On the financing and investing front, we derisked our balance sheet with over $18 billion of debt refinancing, including $2 billion of commercial paper. This allowed us to push out average debt maturities to six years from four years, while our average cost of debt increased by just above 50 basis points.
+Note these figures are inclusive of the $8 billion financing and $3. billion – $3.9 billion, excuse me, exchange offering that we executed in the first month of our third fiscal quarter.
+All told, we ended the quarter with $9.2 billion of cash and currently have $14.2 billion of liquidity, including our $5 billion revolver. Note, we did drawdown $3 billion on our revolver earlier in the quarter, all of which we have repaid as part of our refinancing activity. We ended the quarter with $45.8 billion of total debt, of which approximately $800 million is short-term.
+In closing, given our strong free cash flow generation, healthy balance sheet and enhanced liquidity position, we remain committed to maintaining our dividend, while we navigate this uncertain environment.
+That concludes my prepared remarks. During the Q&A portion of today’s call, please limit yourselves to one question each, so we can accommodate as many analysts as possible. Operator, please open up the call to questions.
+Question-and-Answer Session
+Operator
+Thank you, sir. [Operator Instructions] Our first question comes from the line of Vivek Arya of Bank of America. Your line is open.
+Vivek Arya
+Thanks for taking my question. Hock, the question is on wireless. Historically, you see some of that growth in Q3 from a seasonal perspective and then a larger growth in Q4. This time, you’re saying it’s going to be shifted by a quarter. And then I think in the past, you’ve also mentioned strong, I think, 30% kind of content growth when it comes to 5G.
+So the question is, how should we think about the wireless recovery in Q4, and if you could help us kind of align it, whether it can be up year-on-year or flattish year-on-year? Just give us some more color around how we should think about the wireless expected recovery into Q4? Thank you.
+Hock Tan
+I’ll answer it this way, Vivek. We definitely – as you know, and which you are implying to in your question, we’re designing, obviously, in those flagship – big flagship phones in our large North American OEM phone makers. When? There is no question.
+The question is the timing, and you’re right. In the past years, seasonally, the business seasonal and the trough of every fiscal year has been Q2. We believe because of product cycle delays, the trough for our fiscal year will be Q3 this coming quarter, and that’s what we reflected in our forecast, that’s reflected in our numbers in the way we are guiding Q3.
+Nothing has changed in terms of designs. Nothing has changed in terms of the content you indicated. And you’re right, the content has been up for 5G phones over 30% – way over 30%, more close to the 40% from where we were last year. It’s just the timing, and we’re guiding Q3, and I don’t mean to be rude, but we’re not guiding Q4 at this point.
+Operator
+Thank you. Our next question comes from Craig Hettenbach of Morgan Stanley. Your line is open.
+Craig Hettenbach
+Thank you. Hock, just a question on software with CA and now Symantec. Just wanted to ask about how you – how the strategy is really taking hold? In particular, how these businesses are performing today versus as you’re doing due diligence and ahead of the deals closing, just kind of what you’re seeing in this business and anything incremental would be helpful?
+Hock Tan
+Well, very good question. So, let me spend a few minutes to respond to that and give you a lot more color. We now have CA under our belt and CA comprises mainframe and distributed software as well, especially a whole range from DevOps to business operation platforms.
+An answer to – given that we have almost a year-and-a-half of CA under our belt, we’re very, very pleased with that acquisition. It has performance. Financial performance of CA has exceeded even our regional plan when we did the deal 18 months ago. And it’s evidence in the sense that, as I say, we are able to expand and grow our bookings by focusing on the largest enterprises, who buy – which buy a lot of this software out there in the world.
+And as I indicated in my prepared remarks, we have been successful in selling more capacity, more adjacent products to these large enterprises, which have enabled us to book and to expand bookings in these core accounts over 20% annually over the past 18 months, and so that to us has been a great success.
+We’re trying to do the same with Symantec, same playbook, the same focus on the core customers which happens to be a very similar set of core customers. We have two quarters under our belt now, and we are quite pleased with the way this thing has turned out.
+Operator
+Thank you. Our next question comes from John Pitzer of Credit Suisse. Your line is open.
+John Pitzer
+Yes. Good afternoon, guys. Thanks for letting me ask a question. Hock, I just want to go back to your comments about some of the supply constraints you saw in the fiscal second quarter and expect to see in the fiscal third quarter. Is there anyway to quantify the revenue impact?
+And I guess, specifically, why I’m asking, while the sequential growth in network up 11% in the fiscal second quarter is solid, at least by our math on a year-over-year basis, it’s only up about kind of mid to high-teens, which is kind of significantly underperforming a lot of the other cloud semi guys that have reported. And so, I’m just trying to square that circle, and were the supply constraints more dominated in a certain part of the business?
+Hock Tan
+You’re right. We sell a fairly broad range of products, even into data centers. And as I indicated, we sell known networking products, switching. We also sell server storage components, server storage connectivity, and we also sell some of these components into hard drives that goes into those nearline cloud datacenters.
+So, it’s a broad diversity. And the impact, the challenges and constraints on the supply chain cuts across some of these products, not all consistently. And – but we basically see very, very strong demand, and our challenge is to be able to optimize how we are supplying in those situations.
+Very fortunately, in our view, our products are very strong franchises in their own rights. And so, I would say, we see our customers are very, very willing and able in many situations to work with us as we work through our supply chain challenges. In other words, the demand has not been seen to be perishable. 
+Operator
+Thank you. Our next question comes from Ross Seymore of Deutsche Bank. Your line is open.
+Ross Seymore
+Hi, guys, thanks for letting me ask the question as well. I want to piggyback off John’s question and maybe look a little further forward on the supply side with the constraint. Hock, you mentioned that, that was going to be a limitation in the third quarter and also could even go into the fourth quarter.
+Is the specifics of it enough away from wireless, that if you’re pushing out the wireless business and you’re still shortage – short of supply, that when that wireless business comes back, are you going to have even bigger problems and have to make sacrifices elsewhere? Are those supply chains sufficiently differentiated that you can have the wireless side come back and not have to have -- make any sacrifices on the rest of the business when we look into fiscal 4Q?
+Hock Tan
+Ross, we love you dearly. You’re overanalyzing. Things are improving week-by-week in our – in some of those unique constraints we have. Of course, they’re. Malaysia is gradually opening up. Our warehouse are gradually expanding their capacity – our operating capacity as are the test capacity – as our ability to shift test capacity to other locations, where we have back-end assembly capacity.
+So we’re working to step-by-step increase it. And look, we will overtime get there and improve as we go along. As I say, we’re working through Q3 now very vigorously, and we’ll worry about Q4 when we get there, at which time, for sure, we would have improved the situation considerably.
+Operator
+Thank you. Our next question comes from Harlan Sur of JPMorgan. Your question, please.
+Harlan Sur
+Good afternoon. Thank you for taking my question. Given the sharp COVID-19-related increasing compute and data traffic, I can understand the strength in the cloud data center business. And obviously, the requirements to add more networking capacity, not sure that this dynamic actually goes away, even as global geographies start to open back up.
+And then Hock, as you mentioned, on top of that, you guys are ramping Tomahawk 3, Jericho 2, some of your compute acceleration, ASIC. So given all of this, do you see sustainability of demand for your cloud products into the second-half of the year? Because there seems to be a view out there that post-COVID-19, cloud customers are going to take a pause in the second-half of the year?
+Hock Tan
+Harlan, that’s an extremely good question. And it’s a question that we keep – that goes through our head constantly. And the bottom line is, I don’t know the answer. I mean, I’ll be honest with you that if you asked me that question four weeks ago, five weeks ago, I would really have a high degree of doubt that you will sustain.
+It doesn’t mean I agree that you will sustain, but we have been seeing right up to now about 11 weeks, and we track this very closely of extremely strong bookings, and it continues as we sit here right now, that’s the fact. Does that mean, you will sustain? Don’t know. We don’t know the answer.
+Operator
+Thank you. Our next question comes from Stacy Rasgon of Bernstein Research. Your line is open.
+Stacy Rasgon
+Hi, guys. Thanks for taking my question. I wanted to go back to wireless. In the press release, you used the word expected substantial reset. So does that mean that the product delay was expected, or is that expected a reference to the semi custom business that we knew was rolling off that you had told us a couple of quarters ago, that being going from $1.1 billion last year, like $500 million this year.
+And more generally, two quarters ago, you gave us some wireless growth targets for the year, I think, it was down about 10% for the full-year. I assume you’re tracking below that now. given what’s going on. But can you give us some order of magnitude idea of how the wireless business is actually tracking right now versus the color that you had given us two quarters ago for what to expect this year?
+Thomas Krause
+Great. Stacy, it’s Tom. I think, there’s no correlation between what we talked about earlier this year and where we are today. The reality is what we see is content’s up, as Hock talked about, 40%. There has been a shift in terms of when product is going to be delivered. There are some supply chain constraints, of course, on top of that.
+And so when you put that all together, comparing anything to what we talked about, I think, two quarters ago was difficult. I think the key point is, we remain very much on track from a product roadmap standpoint and from a content standpoint consistently we talked about in the past. And I think that bodes well obviously for later this year, but also in the future.
+Operator
+Thank you. Our next question comes from Blayne Curtis of Barclays. Your question, please.
+Blayne Curtis
+Thanks for the question. Maybe just follow-up on wireless. Just want to understand that, you said 30%, almost 40% content gains in 5G. So I’m assuming you’re talking just cellular, and that’s just some portion of the mix. And then – so I’m assuming that – that will flow in the model over the next couple of years. And maybe you can just give us a perspective on Wi-Fi, as well as the kind of composite content story over the next couple of years in wireless?
+Hock Tan
+Well, I assume your question is more on content. Yes, go ahead, Tom.
+Thomas Krause
+Blayne, I think, first of all, on the content side, it’s inclusive of all of our products in that area, right? So it’s not just RF, but it’s also custom and it’s Wi-Fi. And so I think what you’re referring to is what’s the mix of 5G versus non-5G phones? And how does that play out over time?
+I think what we’ve talked about in the past, it’s going to take several years for that to transition. Obviously, we don’t control that, but that’s our expectation. When we talked about the growth rate of wireless over time, the next several years being high single digits, that’s what ties into the content growth, plus the expectation, it takes several years to go all 5G.
+Operator
+Thank you. Our next question comes from Timothy Arcuri of UBS. Your line is open.
+Timothy Arcuri
+Hi, thanks. I guess, I had a question on just big picture demand. It’s obviously quite odd to have such big supply constraints amid a global economic downturn. And you’re definitely talking about demand across your end markets being strong, I think, Hock, used a word a surge recently.
+So, how do you handicap the demand strength? Is sell-through sufficient to support the orders? Or are we maybe robbing from some future quarters, given that the customers know that there’s some supply constraints and maybe robbing from the end of the year into 2021? I guess, I’m sort of asking if you can bridge sell-in and what you’re hearing from your customers on sell-through? Thanks.
+Hock Tan
+Well, look, let me try to answer that. First and foremost, most of all these orders, all these big demand constraint we’re talking about are direct – are orders directly from the end users, both of them. This – and a lot of this is what you all have heard about, strength in the cloud, mega scale, cloud vendors are buying it. Strength in broadband from – directly from the telcos, the service providers.
+We are getting most – a lot of these customers we deal with directly. And even if they go through OEMs, not distributors, OEMs, we have clear visibility on pools from end users, which are the customers of the OEMs, like the telcos, the cable companies, service providers. So these are all largely direct.
+And as I pointed out, too, if anything else, distribution, we are bringing down bookings, channel inventory and distributors back to our view – Tom’s view of managing our exposure out there and in this environment of very strong end demand.
+Last thing, we need to do is get distracted with general inventory. So we are very aggressively bringing down channel inventory by reducing ship into distributors even at their – as their resale is maintained, as I mentioned, depending on end markets at a fairly decent level.
+So these are coming direct. And from customers, mainly a lot of it cloud customers, a bunch of probably OEMs, these big OEMs, who sell to large enterprises. And I think a lot of these guys are not holding – as far as we’re aware, they are not holding it for inventory. Doesn’t mean, we don’t dread for a fact. But as far as we can see, they have been deployed or they’ve been quickly deployed. So we have – we do not have a clear sense on how much inventory are being accumulated, if any.
+Operator
+Thank you. Our next question comes from the line of Pierre Ferragu of New Street. Your question, please.
+Pierre Ferragu
+Thank you. Thank you for taking my question. So, Hock, if I understood you correctly, you saw the surge in demand for your direct end customers in cloud and telcos? And I was wondering if you saw a similar trend of things trending differently with your networking equipment clients?
+Hock Tan
+You’re talking about, I assume the original equipment manufacturers, the OEMs. Now, most of the OEMs, not all buy from us tend to, as you probably – I assume are implying here buying a lot for enterprises, more than traditional enterprise side. And so as we see over the past 12, 13 weeks, which represents one quarter of bookings we are seeing, a lot of the OEMs are also buying for those enterprises.
+So – and on the basis that which we use scrutinize where those orders come from, and a lot of these orders are also for demand from fairly large enterprise customers that these guys have, not to the scale of strength that we see among cloud mega scale players or from telcos and service providers at this point, especially in broadband, but certainly we do not see weakness there, but with not the strength that we see for our direct purchases from cloud guys or from telcos for their business.
+Operator
+Thank you. Our next question comes from Chris Danely of Citigroup. Please go ahead.
+Christopher Danely
+Hey, guys, thanks for letting me ask a question. I guess, I’m going to try for like a series of confirmations on the lead time situation. So can you just talk about a little more color on lead times what’s normal and what they are now? Do you see them getting worse or getting further extended? And then also, if you could tell us what sort of percentage of revenues are impacted by the extended lead times? And then do you see any signs of double ordering?
+Hock Tan
+Well, lead times, in fact, has been pretty long for a while, especially in leading-edge processes. When you talk about wafer foundries, leading-edge processes, this is not something that just showed up recently. It’s over the past many – several months, lead times at the major foundries for leading-edge processes has always been very, very extended.
+And as is long lead time for not just wafers, I would add also for specialized material components like substrates, so also a massive long lead time because of capacity limitations if something like it happened more than a year ago on MLCCs for that extent. In this case, it’s wafers and all that. I think that and I think it will improve. It will improve and we are starting to see some improvement. It will improve as times progress over this.
+What really makes a difference, maybe from the way we’re addressing and Tom highlighted it is, many of our – many companies out there when they buy their – when they try to manufacture their chips, perhaps buying – order those from the suppliers on forecast with the anticipation that their forecasts are good and they can, therefore, have a head start on already pre-building a lot of that product inventory, and therefore, they can supply. But building the forecast obviously carries with it a high level of – some level of risk that you could be forecasting a demand that doesn’t materialize.
+And that’s – that enables you to do – to lead – to deliver – manufacture and deliver the chips, the final product in period less than normal standard lead time, which would be what you take to start from the beginning of a wafer to the end product. And that is what’s happening.
+The whole lead time from beginning to end is probably longer today and has been that way for months now. It is much longer than normal lead times, many of my peer group companies in the semiconductor industry give to their customers. We have chosen now to build because of risk mitigation purposely and built only to orders, not to forecast. And that might be what is the biggest difference here. All right.
+Operator
+That will conclude our call today. Thank you all for joining. Have a good day.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+5 Authors in the Last 90 Days

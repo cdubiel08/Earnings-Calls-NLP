@@ -1,0 +1,321 @@
+Fortinet, Inc. (NASDAQ:FTNT) Q1 2020 Results Earnings Conference Call May  7, 2020  4:30 PM ET
+Company Participants
+Peter Salkowski - Vice President of Investor Relations
+Ken Xie - Chairman and Chief Executive Officer
+Keith Jensen - Chief Financial Officer
+Conference Call Participants
+Sterling Auty - JP Morgan
+Fatima Boolani - UBS
+Brian Essex - Goldman Sachs
+Brad Zelnick - Credit Suisse
+Shaul Eyal - Oppenheimer & Co.
+Melissa Franchi - Morgan Stanley
+Saket Kalia - Barclays Capital
+Robert Owens - Piper Sandler
+Michael Turits - Raymond James
+Walter Pritchard - Citigroup
+Daniel Bartus - Bank of America Merrill Lynch
+Amit Daryanani - Evercore ISI
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to the Fortinet First Quarter Earnings Conference Call. At this time, all participants lines are in a listen-only mode. After the speaker's presentation, there will be a question-and-answer session. [Operator Instructions].
+I would now like to hand the conference over to your speaker today. Peter Salkowski, Vice President, Investor Relations, please go ahead, sir.
+Peter Salkowski
+Thank you, Michelle. Good afternoon, everyone. This is Peter Salkowski, Vice President of Investor Relations at Fortinet. I am pleased to welcome everyone to our call to discuss Fortinet's financial results for the first quarter of 2020.
+Speakers on today's call are Ken Xie, Fortinet's Founder, Chairman and CEO, and Keith Jensen, our Chief Financial Officer. This is a live call that will be available for replay via webcast on our Investor Relations website. 
+Ken will begin our call today by providing a high-level perspective on our business. Keith will then review our financial and operating results for the first quarter, provide some additional details regarding our first quarter performance and some insights into how April performed and provide our guidance for the second quarter of 2020 before opening the call for questions. 
+During the Q&A session, we ask that you please keep your questions brief and limit yourself to one question and one follow-up question to allow others to participate.
+Before we begin, I'd like to remind everyone that, on today's call, we will be making forward-looking statements and these forward-looking statements are subject to risks and uncertainties, which could cause actual results to differ materially from those projected. Please refer to our SEC filings, in particular the risk factors in our most recent Form 10-K and Form 10-Q for more information. 
+All forward-looking statements reflect our opinions only as of the date of this presentation, and we undertake no obligation and specifically disclaim any obligation to update forward-looking statements. 
+Also, all references to financial metrics that we'll make on today's call are non-GAAP unless otherwise stated. Our GAAP results and GAAP to non-GAAP reconciliations is located in our earnings press release and in the presentation that accompany today's remarks, both of which are on our Investor Relations website. 
+Lastly, all references to growth are on a year-over-year basis unless noted otherwise.
+I would like to now turn the call over to Ken.
+Ken Xie
+Thank you. Thank you, Peter. And thank you to everyone for joining today's call to review our first quarter 2020 results. And we'd like to thank our employees, customers, partners, suppliers worldwide for their commitment to manage our response to the COVID-19 pandemic. 
+We are very pleased with our strong first quarter performance. Billings increased 21% to $668 million, driven by solid execution and across all three major regions. Revenue increased 22% to $577 million. The solid performance of our core firewall, security fabric, SD-WAN and work from home solution resulted in an 18% increase in product revenue and a 24% increase in service revenue. 
+Shipment of FortiGate unit increased 30% in the first quarter, driven by our home secure VPN and secure SD-WAN product, built with our ASIC-powered appliance.
+In addition, demand for broad integrated automated security fabric platform, especially the FortiClient, FortiAuthenticator and FortiToken was very strong.
+Our ability to directly manage our supply chain and shipping logistics allowed us to quickly adjust to the current dynamic environment. Today, Fortinet released a FortiGate 4200F, another milestone in our ability to deliver the industry highest performance and the most cost efficient secure solution on the market. Powered by the new NP7, the 4200F is engineered to meet the scale and performance demand of today's enterprise and service provider companies. 
+With 10x the VPN performance over competitors, its ability to scale teleworker solution will be a key competitive advantage for Fortinet as enterprise looks for cost efficient way to support our large, remote workforce. 
+During the quarter, we released the FortiOS 6.4 with over 350 new features, including new automation, scalability, performance and AI capability, providing for protection across entire digital infrastructure. 
+Included in the FortiOS 6.4 are several enhancements to our secure SD-WAN offerings. Fortinet is one of the fastest growing SD-WAN providers and the only major player in this market with the internally developed offering that provides security and SD-WAN networking in a single solution. We believe we'll continue to gain SD-WAN market share in 2020.
+Fortinet is an important strategic partner, especially as company looks to efficiently deploy their security budget, our industry-validated work from home and a secure SD-WAN offering, along with our SPU-driven FortiGates, Security Fabric platform and hybrid-cloud offerings, provide the best security with the most cost-efficient solution for companies across their entire digital infrastructure.
+I would now like to turn the call over to Keith for a closer look and our first quarter performance and our guidance. 
+Keith Jensen 
+Thank you, Ken. Let me first note, I would like to join Ken in wholeheartedly thanking our employees and their families, and our customers, partners and suppliers for their outstanding support in managing our response to the COVID-19 pandemic. 
+With that in mind, let's start the first quarter review with revenue. Total revenue of $577 million was up 22%. The fabric and cloud segment revenue growth was over 24%. The FortiGate network security revenue growth was 21%. Both our Fabric and FortiGate network security segments growth continued to benefit from our secure SD-WAN solutions. 
+The strong first quarter revenue growth once again illustrates the benefit of our diversification across geographies, customer segments, and industry verticals. The momentum our business has experienced is the result of our strategic internal investments made to broaden our product offerings, penetrate adjacent security markets, expand our global sales force and invest in our channel partners. 
+Product revenue grew 18% to $192 million, benefiting from strong demand for our FortiGate appliances, secure SD-WAN offering, integrated Fabric platform appliance and software solutions, as well as our embedded and standalone work from home security solutions. 
+Our growth rates and industry reports suggest we continue to take market share in both the firewall and SD-WAN markets, markets where we'd have contributed leadership and innovation. 
+Moving to service revenue, service revenue grew 24% to $385 million, representing 67% of total revenue. Over 90% of service revenue was from deferred revenue at the beginning of the quarter and continues to provide an increased level of revenue predictability. 
+FortiGuard security subscription revenue increased 25% to $211 million. FortiCare technical support and other service revenue increased 23% to $173 million. 
+The mix shift from 8/5 to our higher price 24/7 support was 6 points. And 24/7 support now represents just over 60% of this mix. 
+Let's shift to billings. Total billings increased 21% to $668 million. FortiGate network security billings increased 21% and accounted for 75% of total billings. Fabric and cloud billings combined increased 32%, driven by our secure access and our work from home related offerings, including FortiToken FortiAuthenticator and FortiClient. 
+Once again, the diversification of our business model by industry vertical was on display in the first quarter, with our top five verticals continuing to account for about two-thirds of our total billings.
+Service providers and MSSPs, which we believe serve a large portion of the SMB market, topped all verticals with 19% of total billings, representing its highest percent of total billings in five quarters. 
+Financial services had a very strong quarter, with billings growth of over 40% and represented 14% of total billings. 
+At the end of the first quarter, total deferred revenue increased 26% to $2.2 billion. Short-term deferred revenue increased 24% to $1.2 billion. 
+Looking at deals by dollar size. For deals over $250,000 and $500,000, the billings value increased 22% and 20% respectively. The dollar value of deals over $1 million increased 27%, illustrating our continued ability to move up market into the enterprise segment. 
+Moving back to the income statement, as shown on slide 4, gross margin improved 150 basis points to 78.7%. Product gross margin improved 300 basis points to 61.4%. Product gross margin benefited from over 40% growth in software products and lower indirect cost. Services gross margin increased 30 basis points to 87.4%. 
+Operating margin for the first quarter increased 190 basis points to 22.3%, benefitting from the improvement in gross margin and lower employee travel expenses related to the shift towards work from home. 
+During the quarter, we entered into a seven-year mutual covenant not to sue agreement with a competitor related to our patent portfolio in return for a $50 million cash payment to Fortinet. 
+We recognized a GAAP gain of $36.8 million as a credit to operating expenses, and we'll recognize the remainder over the term of the agreement. 
+We have excluded the $50 million cash receipt from our free cash flow and the $36.8 million gain from our non-GAAP margins and other results. 
+Total headcount ended the quarter at 7,448, an increase of 24%, driven by increased investments we made to leverage the positive momentum in our business, while seeing improving attrition rates over the last few quarters. 
+We do not anticipate any COVID-19-related layoffs for the foreseeable future. 
+Given our strong operating income performance, net income for the first quarter was $104.4 million. Our earnings per diluted share increased $0.14 to $0.60 per diluted share. 
+On a GAAP basis, we reported net income of $104 million or $0.60 per diluted share. Including the patent-related gain noted above, GAAP earnings per share would have been $0.44 or an increase of 29%. 
+Moving to the statement of cash flow summarized on slide 7 and 8. Free cash flow increased 27% to $242 million. Due to the shelter in place orders, construction was halted on the new campus building in mid-March and resumed this week. 
+Capital expenditures for the first quarter were $28 million, including $20 million related to construction and other real estate activity. We estimate capital expenditures for the second quarter to between $40 million and $50 million. And for all of 2020 to between $200 million and $220 million. 
+We expect full-year cash taxes to be approximately $40 million and our full-year non-GAAP tax rate to be 22%. 
+In the first quarter, we utilized a portion of our cash and investments to repurchase approximately 10 million shares of our common stock for an aggregate purchase price of approximately $900 million. At the end of first quarter, the remaining share buyback authorization was $693 million. 
+In light of the buyback activity, together with a lower interest rate environment, let me offer two modeling insights. First, the full year share count should be 10 million shares lower than previously guided. 
+Second, interest income will likely be insignificant for the remainder of 2020. 
+Before moving to guidance, we wanted to offer some thoughts in two areas related to COVID-19, including steps that we have taken to contribute and certain observations about our business in Q1 and early Q2. 
+First, in response to the pandemic, we've taken a number of steps, including, one, substantially increasing our employee charitable match program for COVID-19 related donations to a total of $2 million. 
+And secondly, expanding our free to the public network security expert program, or what we call NSE. Last week, we further expanded the free NSE program from the first three levels to all eight levels. NSE is a self-paced online security training and certification program. By making this program free and more advanced, we hope to narrow the shortage of security skilled workers around the world and position people to emerge from COVID-19 with new and very marketable skills. In the first week, we've had over 50,000 registrations from over 5,000 different organizations. 
+And I'd like to share some observations about our business in Q1 and early Q2. We don't anticipate that these observations will continue in future quarters. However, in light of COVID-19, we thought they might be helpful and informative. 
+Looking at linearity, monthly linearity for the first quarter was consistent with prior quarters at around 50% through the first two months. While March linearity was typical, we did see an elevated level of buying during the middle two weeks of the month. 
+As for April linearity, it was slightly better than our first month performance for any second quarter in the last three years. 
+Turning the contract length and payment terms. In Q1, the average contract length remained flat at 25 months year-over-year. And average contractual payment terms increased, but less than 15%. 
+In terms of supply chain concerns, our product backlog was in line with historical averages and our suppliers delivered over 90% of their commitment to us.
+To offer some context on the puts and takes in Q1 billings, three of our Fabric platform products, FortiToken, FortiAuthenticator and FortiClient benefited from their increased value in securing organizations' employees in the shift towards work from home. Combined billings for these three products were about $10 million above expectations. In April, we saw these billings again significantly outperform expectations. 
+Looking at channel inventory, the total balance was flat quarter-over-quarter and up slightly year-over-year, which may relate to a small level of early buying by our customers. 
+Regarding SD-WAN solutions, secure SD-WAN billings for the quarter were a high single-digit percentage of total billings. April billings continued this trend and the Q2 pipeline for secure SD-WAN is strong. 
+And then, looking to customer segments, our G2000 billings increased 25%. SMB billings as a percentage of total billings increased slightly. Renewal rates remain within the guardrails that we provided at the Analyst Day. 
+And as a percentage of total billings, the worldwide retail segment remains one of our top 5 verticals and, as a percentage of total billings, remained unchanged year-over-year. 
+As our performance indicates, we did not see a material impact due to COVID-19 for the first quarter, and the second quarter is starting well. That said, there is a lot of uncertainty about future economic conditions. 
+Finally, I'd like to review our outlook for the second quarter summarized on slide 9, which is subject to the disclaimers regarding forward-looking information that Peter provided at the beginning of the call. 
+For the second quarter, we expect billings in the range of $700 million to $725 million, revenue in the range of $590 million to $605 million, non-GAAP gross margin of 77.5% to 78.5%, non-GAAP operating margin of 23% to 24%, non-GAAP earnings per share of $0.64 to $0.66 which assumes a share count of between 165 million and 167 million. We expected non-GAAP tax rate of 22%. 
+For 2020, due to the increased uncertainty associated with the economic impact from COVID-19, we believe the prudent thing to do is to withdraw our previously issued full-year guidance. 
+Along with Ken, I would like to thank our partners, customers and the Fortinet team for all their support and hard work during these difficult and unique times. 
+Lastly, I also would like to invite all of you to listen to the management keynote presentations at our virtual Accelerate being held on May 12. You can contact Peter for registration link. 
+And with that, I'll hand the call back over to Peter. 
+Peter Salkowski
+Thank you, Keith. Michelle, we're ready to do the Q&A if you can open up the lines for questions, please. Operator, are you there? 
+Question-and-Answer Session
+Operator
+ [Operator Instructions]. And your first question comes from Sterling Auty from JP Morgan. 
+Sterling Auty
+Yeah, thanks. Hi, guys. You mentioned that the June quarter – so, April is off to a fast start. Wondering, are you seeing the same products in high demand in April that you did in March? And do you think that that demand actually can continue perhaps into the back half or is this a temporary lift that you're saying? 
+Ken Xie
+I think pretty similar. Like we mentioned, we do see Fabric continue, especially work from home related, some are lower end. And also, like a FortiClient, Authenticator, FortiToken, still very strong. But, overall, I think it's the same.
+And also, the new product we introduced, both in the last quarter, the 1800F and also introduced the 4200F, see a very strong interest. I think so far we see pretty similar demand. 
+Keith Jensen
+Yeah. Sterling, I'd probably frame a response to add on to what Ken said by saying, obviously, we gave some insights in terms of what we were seeing in April. And as part of the guidance setting process, we would obviously normally look at what's your month one activity, what does your pipeline look for month two, and what does your pipeline look like in month three. So, I think you can assume that we've looked at those factors as part of setting the guidance for the second quarter. 
+Ken Xie
+Yeah. Also, a lot of feedback is really because our product has a good reputation. It's very cost efficient. The new one we announced and also the last few quarter, so have average VPN performance 10 times faster and had more capability compared to any other competitor that will be the secure competitor [indiscernible]. So, that's actually – a lot of company – a lot of enterprise, they usually have a work from home population, probably less than 10%. Now, they jumped over 90%. So, that's a huge demand for both headquarter, for office and also for some other work for home solution. So, that's where VPNs are very, very critical for all these enterprise. So, we see a lot of need for customer required solution compared to the other competitors. 
+Sterling Auty
+That makes sense. And then, the one follow-up would be, you mentioned 19% of revenue from the MSSP channel. I think investors always worried about that SMB exposure. Can you give us a sense of what you saw in terms of renewal rates in March and April, as well as just the demand pipeline from that segment? 
+Ken Xie
+Not actually. It's a very interesting area. We're also kind of a little bit surprised. Our overall SMB as a percentage of our business actually increased 1% to 2%, and that's where they grow faster than average. So, we kind of did some research. Probably there's two, three reasons. The first, whether the SMB or the work from home using network security as an endpoint seeing very, very low percentage, probably average only about like 5% or even low single digit. So, it's a very small percentage SMB work from home as a network security solution. So, that's where they may take this kind of opportunity to starting to kind of implement more work from home SMB solution. 
+The second one, we also believe whether – because SD-WAN or some other solution combined with both SD-WAN and Wi-Fi can also save a lot of cost, so we're cost efficient. So, that's where probably also the chance for customers to also using the new product. 
+And the third one, we do believe, if you look in last few quarters, we refreshed the low end first with all the F model. So, from like an 80F first almost three quarters ago, then 60F and then 40F we announced. It's all helping driving the SMB or work from home solution. So, maybe these two, three factors contribute SMB actually even grow faster than average.
+Sterling Auty
+Got it. Thank you, guys.
+Ken Xie
+Thank you.
+Operator
+And your next question comes from the line of Fatima Boolani from UBS.
+Fatima Boolani
+Thank you for taking the questions. Ken, maybe to start with you, just on the SD-WAN momentum you're seeing, I think there's some confusion around how SD-WAN conflicts or is accretive to your branch office business. I'm wondering if you can just give us a sense of how SD-WAN is accretive to the overall branch footprint that you have. And as you think about the next 12 to 24 months, as branch office architectures do change, how do you think that would impact the lower-end SKUs you have in your portfolio? And then, I have a follow-up for Keith.
+Ken Xie
+Yeah. Like I said in the script, so we are the only company internally developed SD-WAN and also built with security from very beginning. So, it's very cost-efficient and also combine multiple function together. So, that's where the customers see a lot of value. 
+At the same time, like I said, somehow SMB or some other work from home still a low percentage of – that SMB also helping because the overall SD-WAN is still a relatively small market and grow very fast. So, we already become a top three and also grow the farthest one. 
+And then also, it's a little bit different offer than the other. Other probably only SD-WAN function, but we do company security with a lot of other functions inside our offering. At the same time, performance is much better because our own ASIC has a huge computing power advantage, handle multiple function at the same time. 
+I think, overall, these all contribute both SMB and also – in fact, the FortiGate unit shipment grow 30%. That's also the highest one we see in the last few years. That's also probably – whether contribute to SD-WAN or contribute to work from home or SMB, it's pretty interesting and we still continue to see that in April. And so, we're still closely watching and also try to address any requirement from the customer to react quickly, both in SD-WAN and also for the SMB work from home solution. 
+Like I said, because we develop internally all this solution product, we can react much quicker compared with other competitors. They have to find a way to integrate, they have to – they have different SD-WAN, then the security, all the others. I think that gave us quite some advantage compared to other competitors.
+Fatima Boolani
+That's super helpful. And, Keith, just for you, appreciate that color on the shipment volume and shipment trends in the quarter and in April. I'm wondering if you can characterize for us how much of that is maybe pulled-forward activity. If you can contextualize that with the pipeline for the rest of the year. Just wanted to get a sense of if there was actually rush buying or any accelerated buying activity.
+And that's it for me. Thank you.
+Keith Jensen
+Yeah. I think any quarter, you've got puts and takes and that's kind of why we titled that section that way. There's some things that come in that maybe weren't in your commit to begin with that you weren't expecting, and there are some things that push out. I don't think that Q1 was really any different in any other way. 
+I think in terms of how we're looking at it in that regard, the purpose of providing some commentary about what we saw in April, which seemed to be contradictory to a thought that there was a bunch of pull-forward from Q2 into Q1 because April – we're happy with April.
+Fatima Boolani
+Thank you.
+Operator
+And your next question comes from the line of Brian Essex with Goldman Sachs.
+Brian Essex
+Hi. Good afternoon. Thank you for taking the question. And congratulations on the results in some pretty challenging economic times. I guess the first question, maybe for Ken, if I heard that right, you had some pretty strong financial services billings growth. Can you maybe comment on growth by vertical, where you saw maybe better strength in the quarter versus maybe some weakness?
+And it also seemed as though you actually did pretty well, surprising at the mid and entry-level range of your product spectrum. Any change anticipated for the rest of the year in terms of product release-driven activity versus maybe what might be more near-term work from home-driven expansion type sales?
+Ken Xie
+Yeah. First the vertical – probably Keith later can help answer – is we still see service provider starting pretty strong and probably the fast-growing in the last few quarters, even few years. And also, the finance service, some governments actually also pretty strong. Retail, a little bit weak, but it's just a little bit. It's not as – I think it's still among the top five. Enterprise is probably still pretty okay. Especially the big enterprise, we see grow faster than the overall growth. It grew 25% for the top 2,000 enterprise. 
+I think, going forward, we do see the new NP7 provide a lot of interest for big enterprise, especially work from home. They found out, suddenly, the workload, especially VPN, need almost 10x compared to before the pandemic. And a lot of competitor products cannot handle it anymore. So, we get a lot of requests from this enterprise IT, starting to see the advantage of our solution because we accelerate the VPN using ASIC, which on average, 10x better performance. So, that's actually – before maybe they not need that much VPN, but now they're starting to see, oh, that's a huge advantage which competitors cannot handle. So, we see very strong demand. And that's where the product we released today, the 4200F, and also last quarter 1800F, and also the previous middle high end, we're also starting to see pretty strong growth now.
+Keith Jensen
+Yeah. I think Ken did a very good job recapping the verticals. Just to kind of put a little more color on it, I think the government vertical, which for us is largely international, state and local, performed very well. We didn't need to call it out in the script, but it was clearly in the top three MSSPs. We talked about financial services. We talked about – as Ken indicated, retail was flattish year-over-year in terms of, I guess, percentage of billing. Tech had a pretty good quarter as well, but not enough to get it in the top five.
+Brian Essex
+Got it. That's helpful. Maybe if I could hit one more quick one on SD-WAN. I had a lot of questions this quarter from investors just concerned about potential branch office closures. Did you see any change in the deployment of – within the branch office environment due to closures or maybe was it accelerated because of the closures and maybe better access to networks as a result? Maybe just a little quick color there would be helpful.
+Ken Xie
+Yeah. I think we have a deployment we call a zero-touch deployment, and probably some IT, they leverage this opportunity to upgrade some infrastructure, whether at the branch office or – we don't see slowdown likely. We even see this accelerate a little bit.
+Brian Essex
+Super helpful. Thank you so much. 
+Ken Xie
+Thank you.
+Operator
+And your next question comes from the line of Brad Zelnick with Credit Suisse.
+Brad Zelnick
+Excellent. Thank you so much. And congrats to you all for the strong momentum and being there for all of your constituents during these crazy times. Ken, I've got another SD-WAN question for you. One of your competitors recently made an acquisition in the SD-WAN space with plans to leverage their technology in a thin branch architecture. Can you maybe just help us by comparing and contrasting your approach to SD-WAN and whether one solution is inherently more cost-effective or has more efficacy? Thanks.
+Ken Xie
+Yeah. We already spent like quite a long time developing SD-WAN, like 5 to 10 years. And so, from very beginning, combine that with the security together, so it can be used in security to decide how the SD-WAN function can be routed. So, that's very different than all the other major competitor, whether in the networking side or in the security side. They have to come from acquisition, which they have a lot of limitation, whether on a performance or combined networking function, security function together. So, that's the huge advantage we continue to enjoy. 
+At the same time, all this function is also ASIC accelerated, which kind of gave a 10x performance boost and also much lower total cost of ownership. So, that's how we see the benefit kind of more and more. 
+And on the other side, SD-WAN can be part of the total solution, whether the cloud or infrastructure or the other part. Combined security SD-WAN together definitely have a huge advantage, whether easy to deploy or easy to manage a single pack solution. And at the same time, we also balance among how the cloud and how the edge computing working together, but some function needs to be processed in the cloud. That's also working well with a hybrid cloud approach. And also combined headquarter, the branch office, work from home, we found out is – that's also the Fabric keeping growth faster. And even a lot of product within the Fabric are suddenly double, triple than the previous quarter, like we mentioned about the FortiClient, FortiAuthenticator or FortiToken, it's all related to the work from home products suddenly see a huge increase. And so, the Fabric approach also we benefit a lot from that.
+Brad Zelnick
+Thank you, Ken. That makes a lot of sense. And if I can just follow-up with you, Keith, how are you thinking about your hiring plans in light of the limited visibility you have? It actually seems like you're off to a pretty strong start in Q1.
+Keith Jensen
+Yeah. I think the hiring has been – we talked about this in the context over the last couple of quarters and the quarter, that within this balanced framework of profitability and growth that we're executing against, we thought coming into 2020 that we were going to tilt towards growth. And we think we saw that with some of the investments we made towards the end of last year, and we continue those hiring investments throughout the first quarter of this year. I think we'll start to lap some of those higher hiring percentages or growth in Q3 or Q4. And so, at that point in time, we'll start moving back in line with what we've seen historically.
+Brad Zelnick
+Awesome. Thanks so much, guys.
+Operator
+And your next question comes from the line of Shaul Eyal from Oppenheimer.
+Shaul Eyal
+Thank you. Good afternoon, guys. Congrats on the ongoing strong performance. You had a very solid European performance over the past few quarters. But I think specifically in the first quarter, some other companies have been reporting mixed-use mix outlook with respect to the European performance. What are you doing different or is it also driven by your strong partner relations in that region?
+Keith Jensen 
+Yeah. I probably look at this way. I think that when we say Europe, it also includes our emerging part of the business as well, emerging, meaning everything from Southern Africa up to the Middle East and into Eastern Europe. I think that latter component has been strong now for many quarters in a row. And yes, I do think that, one, it's great execution by that team. And I think also they do a very good job of how they, in some ways, are forced to go to market with that. 
+I think if you look at the quarter overall, we probably saw, as you would kind of expect with a pandemic, the US and the Americas probably outperformed Europe, Continental Europe a little bit more during the quarter, and that's kind of consistent with what we saw with the pandemic.
+Shaul Eyal
+Got it. And Keith, while we have you, gross margins, also probably highest in recent quarters. What should we be expecting going forward? And what's been driving that little bit of an uptick that we had seen with gross margins, specifically for the company, which is slightly more appliance-driven?
+Keith Jensen
+I think the guidance that we provided for gross margin is good for the quarter. I feel comfortable with that. I do think that we're benefiting as our cost structure changed a little bit with some of our newer products. And I think that we're partnering perhaps a little bit more effectively with our channel partners over the last couple of years than we had in the past.
+Shaul Eyal
+Good job. Thank you.
+Operator
+And your next question comes from the line of Melissa Franchi from Morgan Stanley.
+Melissa Franchi
+Thank you very much for taking my question. I want to go back to the discussion on the branch business. I think investors are trying to understand what the trajectory looks like for the branch, just given some exposure to economically-sensitive verticals like retail. So, I know that it's probably pretty early, but as you look into your pipeline, are you anticipating any change in terms of renewal rates for the branch? And I know that April is shaping up to be pretty well, but what should we expect for the second half of the year?
+Keith Jensen
+So, we didn't guide to the second half of the year. And we don't give a lot of specifics on renewal rates, but I think I made a comment that what we saw in the first quarter was that renewal rates were within that band that we provided at the Analyst Day. And I really don't see that changing based upon what I'm seeing. 
+I think it's probably helpful to kind of consider the context of our diversification. And I kind of made reference to it just a moment ago when I talked about the US performed very strongly and Europe was probably hit by the pandemic a little bit harder. 
+You're talking about a company now that's less than 30% of its business is in the US and there may be a lot of focus on retail headlines in the US, but it's probably passing over perhaps the recovery that's already started in Europe and the impact from Latin America and other geographies.
+Melissa Franchi
+Okay, that's very helpful. And just following up with you, Keith. I'm wondering if you could just maybe give a little bit more color on some of your underlying assumptions for the Q2 guide. I know April seems to be pretty healthy so far, but are you assuming that continues through the rest of the quarter or are you expecting a more challenging close? Thank you.
+Keith Jensen
+I think we feel very good about the business, about the products, about the strategy that we're executing, about the sales team's ability to execute, about our ability to support our customers and the ability to support our partners. 
+And with that in mind, I'm looking at the pipeline, I'm looking at the slicing and the dicing of the pipeline. As I kind of made reference a moment ago, I'm looking at different assumptions for different geographies based upon the status of the pandemic in those geographies. We're looking at deal sizes. Larger deals have typically more risk than smaller deals do as part of our assessment. We look at whether or not it's a new logo or an existing customer or a renewal. So, all those things go into the mix in terms of setting the guidance for the quarter.
+Melissa Franchi
+Thank you.
+Operator
+And your next question comes from the line of Saket Kalia from Barclays.
+Saket Kalia
+Hi, guys. Thanks for taking my questions here. Hey, Ken. Maybe first for you, a lot of questions on the branch and understandably so, but maybe even just thinking about the enterprise, how do you think your enterprise customers are thinking about their VPN strategies longer-term and how do you sort of expect Fortinet to play into that?
+Ken Xie
+I think this pandemic probably changing some of the working patterns. Like I said before, there is probably less than 10% people work remotely, access on VPN. Now due to this lockdown, probably, we see over 90%. Maybe if even we go back, reopen, whatever, maybe still 30%, 50% and it all depends on the vertical. So, that's making this remote access work from home starting to get more and more important, and especially the networking need to be combined with endpoint. Endpoint sometimes, you can address certain device. But if you are on the network side, you can actually secure the whole branch or the whole home and whatever that was there. And even different like, with Wi-Fi, [indiscernible] like different member of the family can kind of manage all these different bandwidths. We see this enterprise headquarter office VPN starting to have a pretty strong demand there. And some other like authenticated products, some other products – Fabric, we also see pretty good growth. Actually, even double, triple some of these different component of Fabric.
+Saket Kalia
+Got it. That's very helpful. Maybe as my follow-up for you, Keith. Or maybe can you comment on any trends in the FortiGuard bundles as a result of increased work from home? I know you talked about some of the trends in FortiCare with that nice uptick in customers opting for 24/7. But curious if you've seen any material shifts in the makeup of FortiGuard subscription with the different bundles that you have as a result of work from home?
+Keith Jensen
+No, no. Not really.
+Saket Kalia
+Okay, got it. Very helpful. Thanks, guys.
+Operator
+And your next question comes from the line of Rob Owens with Piper Sandler.
+Keith Jensen 
+Rob, are you there?
+Saket Kalia
+Hi. Can you hear me?
+Keith Jensen
+We can.
+Saket Kalia
+Okay. Sorry about that. You mentioned in your prepared remarks, your ability to directly manage supply chain and shipping logistics. And I'm curious, as you look forward towards the second quarter and should you still see strong surge in demand around the FortiGate solutions, any supply chain concerns or are those all relatively put to bed at this time?
+Keith Jensen
+I think I feel good about it, but the head of manufacturing has some work to do.
+Ken Xie
+Again, so far, we don't see any issue. We see it pretty good. They also would recover pretty quick in not only the supply chain, but also we manage our own shipment, shipping logistics and also our own supporting. So, we're not outsourcing any shipment or customer supporting. That's also with all these facility, with all the team, we can quickly address why and can make it more like redundant or whatever, resistant to any kind of downside to adopt quickly.
+Keith Jensen
+We still have a spot or two of components that may be lined up in Japan or the Philippines or Malaysia or something like that on an individual component. But keep in mind, part of our business model is looking at our inventory turns, which have been less than 3 recently. So, really, that means we're carrying about four months of inventory at any point in time. 
+And even at that level, we weren't at 100% execution, even though the backlog was consistent with other quarters. And so, probably, we're looking at our inventory level and thinking maybe as we go through the next quarter or two to move that up just ever so slightly as we start transitioning to further guard against this possible risk for pandemic.
+Saket Kalia
+I appreciate the color. And then, just briefly, if I may, I know there's been a lot of discussions around work from home, branch office, but where do you guys come down as you're talking to customers on kind of that cloud, SASE arguments? And strategically, as people are considering work from home, what's kind of been the response of customers as they're looking at your solution versus others?
+Ken Xie
+Like I said a few weeks ago, we feel the SASE, the best model is really working with a service provider. Like today, this morning, we also announced a partnership with NTT West, offer all these like whether work from home or kind of a [indiscernible] service provider solution for both SD-WAN and also security. And even ourselves, we do have the technology, but we do believe this cloud approach need to be working with edge and on-premise together. So, we have the structure. It's all in the testing and also working with a lot of service provider right now, because the Forti SASE approach is a little bit different than the traditional SASE approach, which they forward all the traffic, whether from endpoint to your device from home and also in the office to the cloud. 
+So, we believe the better approach for the SASE, we call Forti SASE, is for the endpoint of some work from home, your mobile device maybe makes sense to forward to the cloud to process, which we have all the solution. But when in the office, your forward office traffic to the cloud does not quite make sense. It's not very secure, because when you forward, it's not quite encrypted. And also, it increases a lot of network traffic and much high latency, much slow. 
+And most of these SASE companies, very interestingly, more leveraged, like whether open source of freeware to do the security. So, when you do the testing of the security, their security [indiscernible] not as good as some other dedicated security company because we have a few hundred people just doing all this intelligent research and has done this for 20 years. So, that's where from better security, better networking latency and better like cost-wise. 
+Some offers, probably if you using on-site premise, more like [indiscernible] solution to process a lot of traffic locally will be much better than forward all this office traffic to the cloud. So, that's where we have – it's a Forti SASE, but a little bit different. And also, when we're working with service providers, we also make – it's a profit model compared to a lot of other SASE company. They have to invest a lot of proper data center, which is making them keeping losing money.
+Eventually, all this service provider, they do have their own kind of own infrastructure. So, with their current infrastructure, they leverage what they can process on-site and in office will be much more secure and cost effectively to solve this issue, right, whether it is management or manage all this mobile security solution. So, that's where we have a little bit different approach. More leverage of service provider and also leverage both on the cloud and also on-premise on edge solutions. 
+So, I think that's kind of very, very good feedback from all this, both in the enterprise side, in the service provider, also in the customer. So, we feel that will be the right approach.
+Saket Kalia
+Thanks for the color.
+Ken Xie
+Thank you.
+Operator
+And your next question comes from the line of Michael Turits from Raymond James.
+Michael Turits
+You commented that, in the quarter, you got strong demand for VPN, authentication, token, endpoint, all clearly work from home driven, and you are seeing those same trends so far into April. The question is, do you have some feel for where we are in terms of customers getting up to the level of capacity they need in terms of that product? Is that a 2Q finish or does it extend further?
+Michael Turits
+Well, like I said, whether the SMB or work for home, still very low percentage. Probably US, maybe around 5%. Some other region, country, even lower than that. So, it's still huge potential on whether SMB or work or home. And then, when you try to access to home, to the office, suddenly, you need a huge increase, almost 10x increase on the headquarter or whatever the office VPN need supporting all this home worker, remote worker. 
+And then, at the same time, you also need a secure solution in the other side, whether from home or the device level authenticator. So, that's where we see quite strong demand there.
+Michael Turits
+Keith, I don't know if you have anything to add to that, but my follow-up question for you is about payment terms. I think you commented that duration was about 25 months on invoicing. Just remind us where it was and if you have any concern about that shortening. And you talked about 15% extension in payment terms. Again, any concern about that in terms of your need to help out customers and the impact of either one of those on cash flow.
+Keith Jensen
+Well, look, I think the headline would be that we have a strong balance sheet and we're certainly going to leverage our balance sheet where there's opportunities to gain market share and to support our customers and our channel partners. There's no real doubt about that in my mind. We don't guide to free cash flow, but there's probably some adjustment that you want to make to your free cash flow model for the second quarter because I do think that Fortinet is in a position to help others. And I expect us to use our balance sheet to do that on a case-by-case basis.
+Michael Turits
+Okay. Thanks, guys.
+Operator
+And your next question comes from the line of Walter Pritchard from Citi.
+Walter Pritchard
+Thanks. Two questions. One, I guess, for Ken. Just around the low end of the product line looked pretty strong. I'm wondering how strong of a trend it was that you saw actual work from home customers taking low end boxes and that being part of what you shipped, understanding that FortiClient was strong and the Token, Authenticator products and so forth. Just wondering how much that contributed on the appliance side.
+Ken Xie
+I think they're both pretty strong. The FortiClient probably even double, triple, but come from relatively small base. And then, the appliance, the low end, whether SMB or some work from home, also pretty strong. Like, if you see, the unit shipment increased 30%. That's mostly contributed from the low end because the high end, middle range will not impact that much of the unit shipment. I think the trend still, like I said, is still in the – we still get a lot of enterprise and also they see – the current, whether the competitor's product cannot handle suddenly the huge increase of the VPN or some other work-for-home solution. So we get a lot of interest. And so, IT guy also super busy, try to – whether do the deployment or whatever. And at the same time, we also try to help them supporting them and we have this called zero-touch deployment, help them to deploy whether the branch or some other headquarter solution quickly to meet all this strong demand. I don't see the trend slow down yet. But even after the pandemic, we do see the percentage of people starting work from home probably will be higher, maybe like a few times higher compared to before the pandemic.
+Keith Jensen
+It's Keith. I'll just to add to that. I think the model, so to speak, that you're more likely to see is that when people start working from home, it's not that they're going home and taking a firewall with them. I think they're installing FortiClients on their laptop. So, that's probably really not going to drive a low end business by itself. 
+On the other side of the corporate IT organization, now they're trying to – they need greater throughput and greater capacity because of things like VPN and authentication and so forth. And so, you may see the corporate buyer is actually moving up, if you will, in terms of what they're buying. But, again, it's not firewall for the home. 
+I think the other aspect of it is, we have a new product called the 60F, which was a real beast in the quarter just in terms of the volumes that it produced. And then, in our favor, it has a little bit different cost structure than its predecessor. So, it's giving us a little bit of lift on margins.
+Ken Xie
+I think it's also interesting really, the FortiClient probably can load on your laptop or your mobile, but that only secure one device. So, when you work from home, you're also probably competing with your kids for the bandwidth and then also some other things you need to manage together, some other appliance, could be like how this remote monitor device, all these things. That's where the FortiGate come in. It's very, very handy. Very, very good solution. So, they can manage different device from different load of bandwidths, secure Wi-Fi together and even some – I'm not sure how much use total SD-WAN, but it's still – but it's really the product offers so much function. They can have the whole house being managed much better secure, much better compared to one device. So, that's making them work from home as a much better security and also can kind of – it's much better than just one device.
+Walter Pritchard
+And then, Keith, just on the guidance, understanding we're seeing lots of companies pull the guidance because of the unprecedented times. I'm just wondering, if you look at your forecast and think about 90 days from now, what sort of things are you looking for in your forecasting to be able to get back to giving annual guidance? Specifically, what sort of things are unstable there or sort of too wide of a range to be able to call at this point that you'll be watching?
+Keith Jensen
+Like everybody else, I think our concerns or our interests are, is there going to be a second wave? What's the severity of the second wave going to be? What geography is it going to hit? And when is it going to hit in those geographies? And really, ultimately, what economy are you trying to provide guidance into? And that's just the unknown right now in the second half of the year.
+Walter Pritchard
+Okay, thank you. Understandable.
+Operator
+And your next question comes from Tal Liani from Bank of America.
+Daniel Bartus
+This is Dan Bartus on for Tal. I was just wondering if you can share some thoughts on overall security budgets and how you think they might trend this year. Curious if you're hearing from any customers that they're looking to already cut back maybe in 2Q or second half. 
+And then, just a quick follow-up for Keith, probably. Can you just help us think about how much of your SD-WAN business is driven by MSPs and MSSPs?
+Ken Xie
+I think from the [indiscernible] 2007, 2008, security budgets hold pretty well during this recession. But this time it's different. And that's where we also try to be very careful for any guidance. And so far, we see in the first quarter, also in April, we see pretty good and low impact, no any material impact. And if since not get worse, we feel pretty comfortable. But like Keith said, these times are different. We try to be very careful. 
+Keith Jensen
+I think in terms of the SD-WAN and the MSSPs, I would characterize that as being a market that we're very interested in because it's a very large market. Obviously, the MSSPs have already come to it with an incumbent that we're trying to displace. But that opportunity, without quantifying it, if you will, is something that I would say we're very focused on internally.
+Daniel Bartus
+Great. Thanks, guys.
+Operator
+And your next question comes from the line of Amit Daryanani from Evercore.
+Amit Daryanani
+Thanks for taking my question, guys. I have a question and a follow-up as well. I guess, first off, you guys have seen fairly impressive share gains over the last couple of years. I'm wondering how do you think the share gains stack up over the next few years as we go through a recession effectively. Do you think share gains can actually accelerate given the TCO proposition that you guys have in enterprises or is that unlikely to happen given no one probably wants to replace legacy gear at this point?
+Ken Xie
+We probably continue to leverage the strong technology product, whether leverage, we call the SPU, security process unit, and ASIC which gave a huge performance advantage and is a VPN function or quite a broad function and also the fabric approach, which is already 20, 30 product or most internally developed, working, integrate, automate together, which not a competitor have this advantage. 
+And at the same time, we'll continue to invest. We're continuing to hire, but also we found that it's more easy to hire some high-quality people and we will continue to – and the other part also, we found we probably have the biggest training program in this whole cybersecurity industry. And we started to open up outlets for free. And not only are we working with a few hundred university to train out the student, but also a lot of big enterprise, a lot of service provider, a lot of our work on home user, all starting see a huge need for the training. 
+Actually, we found that we set a new registration every few second. So, every few seconds, we get a new registration set up for the training and it's a huge benefit because, in this security space, it's – last year, there's a 3.5 million shortage of trained people to help in handle the security. So, that's also the opportunity we found out to train people and then recruit them also quickly and help us solve the whole industry problem. 
+So, we see this as a huge opportunity for us based on the big investment we made before and also where we continued working very hard with all the team and all the partners, all the customers try to make the whole Internet more secure.
+Keith Jensen
+I think there's three things that Ken's making a point or making reference of, and I'd probably summarize them this way. I think these three things are working in our favor at the moment. One is our fabric product set has continued to expand and has continued to mature and become even more competitive, if you will, in terms of features and functions with some of the best of breed. 
+You are seeing more and more customers, at least those that I'm talking to, and prospects, much more interested now in a platform approach that enables automation and integration and moving away from a best-of-breed solution for every aspect of the security platform. 
+And then, the third aspect of it, we are probably moving into an environment where cost effectiveness is a premium in your go-to-market messaging. By that, if you can argue that successfully and produce that and deliver that lower cost, more cost-effective option, you can be successful in this market.
+Amit Daryanani
+That's really helpful, guys. And then, Keith, a quick one for you. You talked about average contractual terms pushing out about 15%. What's the impact of that and what's the best way for us to read that statement?
+Keith Jensen
+It's payment terms, not the length of the contract, right? And I mentioned that it was slightly less than 15% increase, if you will. And I would probably think you just want to take a little bit of second looking at what your cash collection assumptions are in your free cash flow model for Q2.
+Amit Daryanani
+Got it, thank you.
+Operator
+I would now like to turn the conference back over to Peter Salkowski, Vice President, Investor Relations.
+Peter Salkowski
+Thank you, Michelle. I'd like to thank everyone for joining today's call and extend an invitation to listen to the management keynote presentations at the Americas Virtual Accelerate event on May 12. Please contact me for the registration link. 
+Also, Fortinet will be attending the following virtual investor conferences during the second quarter, including the JPMorgan conference also on May 12, the Bank of America Conference on June 4, and the William Blair conference on June 9. Presentations for these events will be webcast and links to these webcasts are available or will be available on our Investor Relations website. If you have any follow-up questions, please feel free to contact me. 
+Have a great rest of your day. Thank you very much. Have a good day.
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+3 Authors in the Last 90 Days

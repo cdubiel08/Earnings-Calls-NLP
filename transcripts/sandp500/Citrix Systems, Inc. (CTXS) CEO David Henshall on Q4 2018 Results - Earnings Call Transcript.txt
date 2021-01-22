@@ -1,0 +1,333 @@
+Citrix Systems, Inc. (NASDAQ:CTXS) Q4 2018 Results Earnings Conference Call January 23, 2019  4:45 PM ET
+Company Participants
+Traci Tsuchiguchi - IR
+Andrew Del Matto - Executive VP & CFO
+David Henshall - CEO, President
+Conference Call Participants
+Heather Bellini - Goldman Sachs
+Philip Winslow - Wells Fargo
+Raimo Lenschow - Barclays
+Mark Moerdler - Bernstein Research
+Walter Pritchard - Citi
+Karl Keirstead - Deutsche Bank
+Sanjit Singh - Morgan Stanley
+John DiFucci - Jefferies
+Nikolay Beliov - Bank of America
+Kirk Materne - Evercore ISI
+Brad Reback - Stifel
+Rob Majek - Raymond James
+Operator
+…my name is Zatanya, and I will be your conference facilitator today. At this time, I would like to welcome everyone to the Citrix Systems Fourth Quarter and Full Year 2018 Earnings Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer period. [Operator Instructions] Thank you.
+I would now like to introduce Ms. Traci Tsuchiguchi, Vice President, Investor Relations. You may begin your conference.
+Traci Tsuchiguchi 
+Thank you. And good afternoon, everyone, and thank you for joining us for today's fourth quarter and fiscal year 2018 earnings presentation. Participating on the call will be David Henshall, President and Chief Executive Officer; and Drew Del Matto, Executive Vice President and Chief Financial Officer.
+This call is being webcast on Citrix Systems' Investor Relations website, and the webcast replay will be posted immediately following the call. Please note that we have posted product specific and historical revenue trends related to our product groupings to our Investor Relations website.
+As a reminder, today's call will contain forward-looking statements made under the safe harbor provision of the U.S. securities law. These statements are based on current expectations and assumptions that are subject to risks and uncertainties. Actual results could differ materially from those anticipated.
+Additional information concerning these and other factors is highlighted in today's press release and in the company's filings with the SEC. Copies are available on our Investor Relations website.
+On this call, we will also discuss various non-GAAP financial measures as defined by SEC's Regulation G. A reconciliation of the differences between GAAP and non-GAAP financial measures discussed on today's call can be found at the end of today's press release and on the Investor Relations page of our website.
+We'd also like to mention that beginning in the first quarter of 2019, we intend to change the format of our earnings calls. Rather than reading our prepared remarks and then going in the Q&A, we will post a letter to our Investor Relations website with our commentary on the quarter in conjunction with the issuance of our earnings release.
+We request that you read the letter prior to the start of the call as the Q&A portion will begin immediately. We think this will result in a more efficient use of your time in what we know is a very busy night for you.
+Now I'd like to turn the call over to David, our President and Chief Executive Officer.
+David Henshall
+Thank you, Traci, and good afternoon, everyone. Thanks for joining us today. I'm very pleased to report strong fourth quarter and full year 2018 results. All of our key performance metrics came in at or above the targets we provided, and importantly, our subscription model transition accelerated. It's a great way to end what was a truly transformational year for Citrix.
+Across the organization, we're aligning to drive acceleration of our subscription transition and sustained top line growth. Our value proposition to customers is that our solutions [abstract] the way of complexity and simplify how work gets done.
+Similarly, we've eliminated complexities within our own organization to make it easier for our customers and our partners to do business with us. The foundational work that we've done and the changes we continue to fine tune support the exciting growth opportunities we see for Citrix in the years ahead.
+Our history of leadership in desktop and app virtualization provides Citrix with a unique cornerstone within large enterprise customers. Customers around the world employ our virtualization products, many of whom also leverage Citrix networking solutions as a natural extension of the workspace, a key component of application performance.
+That said, we believe our penetration in our existing customer base is only 25% or 30% of the available seats. We believe we're just beginning to scratch the surface on our longer-term opportunity to both expand within our installed base and also to attract new customers.
+The proliferation of applications, the top of mind criticality of security and the rapid expansion of mobile devices and cloud has set the stage for the need to adopt a unified and secure workspace. We believe Citrix is well positioned to help our customers maximize the productivity, the engagement and the satisfaction of their most valuable resources, their employees.
+Within our Workspace business, we have an opportunity to dramatically expand our footprint within our current customer base, beyond those who require virtualization to really everyone within the organization.
+We believe this concept will enable us to serve a substantially higher portion of enterprise knowledge workers. Not everyone requires the highest level of performance security and reliability that virtualization provides.
+The construct of a dynamic, more general purpose workspace enables Citrix to become a ubiquitous utility, upon which even the lightest application users can benefit from the intelligence, automation and security that the Workspace provides.
+For example, secure SaaS enables enterprises to support a growing number of SaaS applications while ensuring there's no data leakage. With single sign-on, enhanced security for SaaS apps, web filtering and analytics, Citrix Workspace helps our customers provide a more seamless experience that underpins improved employee engagement and productivity.
+Longer term, the general purpose Workspace concept represents an opportunity for Citrix to reach a much broader customer base. It also provides a platform upon which our partners can deliver unique functionalities, specific to the needs of different vertical markets and enables us to provide a solution to every user on any platform anywhere in the world.
+Dentons, the largest law firm in the world, is a great example of how Citrix helps customers simplify complexity and provide a great consistent user experience that helps drive productivity.
+Following a series of acquisitions, Dentons now has around 16,000 employees globally, all of whom have to operate under the various rules, customs and regulations applicable to their locations.
+Compounding this complexity is a need for flexibility in moving some of their offices entirely to the cloud, while other locations, with more legacy infrastructure, require the move to be at a more measured pace and others likely to remain in a hybrid environment for the foreseeable future.
+This long standing customer chose Citrix Cloud services on Azure in partnership with Microsoft because we're the only ones that can provide a seamless, single and strategic solution to help alleviate this business complexity.
+Similarly, American furniture retailer, Our House, is struggling with the fixed capacity and constraints of its on-premise infrastructure and needed to improve application performance without making big capital commitments.
+Citrix Cloud is helping solve Our House's business and technical challenges by moving workloads between on-premise and cloud locations, enabling the scale-up of cloud resources as their business requirements change and preserving their flexibility to mix and match cloud infrastructure in the future.
+In addition to the opportunity we have to increase Citrix's penetration within our customer base, the organizational changes we've made to accelerate the move to cloud in our subscription model increases our focus and improves our ability to attract new customers.
+In fact, in the fourth quarter, total bookings from new customers to Citrix Cloud delivered strong growth, both on a sequential and year-over-year basis. And the number of new customers added to Citrix Cloud accelerated dramatically relative to Q3 and more than doubled from a year ago period.
+For the full year, the number of new customers added to Citrix Cloud more than tripled. From a bookings perspective, the customers migrating to cloud continue to gain momentum, within the relatively early stages of moving our current installed base.
+In 2018, less than third of our cloud bookings came from migrating installed base with the majority of bookings coming from either new seats or net new customers. This success is a direct result of a number of initiatives we executed in 2018, all of which are aligned against our broader initiatives.
+First, with accelerating to the cloud, from product development and innovation to sales marketing and back-end supporting functions and infrastructure. We're now organized. We've made the transition to the cloud as a priority.
+Second is we define our portfolio. Not only do we unify our product road map, but we've also simplified our messaging and our naming conventions that enable us to up-level conversations with our customers to the C-Suite. We continue to pivot our selling motion towards emphasizing the value of our complete solutions rather than just selling point products.
+The third area is about expansion into new opportunities. In our Workspace business, we're moving from organizing work to really guiding and automating work. In networking, we're expanding our analytics capabilities to address the challenges inherent in complex, hybrid, multi-cloud environments.
+We also executed a few technology tuck-in acquisitions, one for real-time Internet traffic management and another for intelligent consolidated access to Workspace activities and integrations with a number of business critical apps. These acquisitions accelerate our road map and demonstrate our commitment to making thoughtful, strategic investments in innovation.
+However, growth in ‘18 was clearly driven by the Workspace, which delivered the fastest bookings growth since 2012, with product and subscription bookings up in the teens. I expect Workspace to continue to lead Citrix' growth as we progress through 2019.
+Networking, of course, continues to be a cyclical industry with some secular trends that are worth noting. Today, a large majority of our networking revenue is being derived from hardware. While we continue to support our installed base, we're clearly putting the investments and our focus on the subscription software piece of our networking business.
+The value of hardware revenue stream is very different from that of the higher-margin revenue generated by subscription software. And of course, at its heart, Citrix is a software company and increasingly, a subscription-based recurring revenue software company.
+Our networking strategy is to focus investments in the faster growing software business. The future of networking, of course, is software and we're looking to position Citrix as the long-term beneficiary of this secular shift.
+Consistent with this hardware related volatility, our SSP segment tends to be the most valuable part of the overall networking business. In Q4, SSP accounted for only about 15% of total networking bookings, down about 15% year-on-year. We continue to expect this to be the case in ‘19 due to the sporadic purchasing patterns of a handful of hyperscale customers.
+That said, we're confident in the longer-term growth opportunities within networking software. We're positioning Citrix to benefit from the evolution of network architectures from monoliths to microservices and across platforms with hybrid, multi-cloud environments. This is an opportunity for Citrix to provide platform-agnostic flexibility, performance and a consistent experience, regardless of where applications reside.
+These opportunities in both our Workspace and networking businesses, combined with our increased investments we're making in product development, marketing, demand generation and our growing number of quota-carrying reps and channel partners, gives me the confidence in our outlook for the years ahead.
+Today, I believe we have the best product portfolio we've ever had. We're solving real, complex customer challenges, and we're focusing on customer experience and customer success in a holistic way to drive better outcomes for our customers, and of course, for Citrix.
+Our strategic partnership with Microsoft is stronger than ever, and we continue to collaborate in development and go to market and benefit from the great symbiotic relationship. And we continue to deliver both strong financial results and innovation while driving continued progress in our subscription model transition.
+With that, let me turn it over to Drew to review our financials and guidance in more detail. Drew?
+Andrew Del Matto
+Thank you, David. And thank you all for joining our call this afternoon. As David mentioned, we delivered strong fourth quarter results with our model transition progressing ahead of plan.
+Our subscription mix accelerated to over 50% of product bookings in the quarter, up from 30% in the fourth quarter of last year. The full year subscription bookings accounted for 42% of total product bookings.
+As we enter the next phase of our subscription model transition, we know it would be helpful for you to better understand the components of our subscription revenue. So we'd like to provide more transparency into the SaaS portion of our subscription revenue. This will make it easier for you to track the progress of our Citrix Cloud revenue stream over time.
+Internally, we continue to prioritize SaaS, which has grown to more than $270 million in 2018, which was approximately 50% of our subscription revenue and growing faster than total subscription revenue. In the fourth quarter, SaaS revenue grew to $78 million, nearly 10% of total revenue.
+Going forward, we believe SaaS revenue will be one of the most important measures of the evolution of our business model and an important KPI for the progression of our subscription transition. As such, we plan to provide the SaaS component within the subscription revenue on an ongoing basis, beginning in the first quarter of 2019.
+Importantly, this will also serve to isolate the variability that comes from the parts of the subscription revenue that are more susceptible to seasonal fluctuations. For example, the on-premise churn and transaction elements within subscription revenue are subject to seasonally softer periods like the first quarter.
+[With mobile] business migrating to the higher-value recurring revenue stream associated with a subscription model, more of our business booked in the current period will be recognized in future periods. This could be monitored in the data provided on our future committed revenue or deferred and unbilled revenue as seen on our supplemental disclosures.
+Our future committed revenue grew 12% year-over-year to $2.2 billion in the fourth quarter. Please note that the adoption of revenue accounting standard ASC 606 creates an approximate 200 basis point headwind to our fourth quarter 2018 deferred and unbilled revenue compared to that of the fourth quarter of 2017.
+In the fourth quarter, revenue grew by 3% year-over-year, driven by subscription revenue growth of 45% from the year-ago period, which accelerated from the third quarter. It's important to note - to highlight that the subscription model transition had a dampening effect on the fourth quarter reported revenue of approximately 150 to 200 basis points.
+Workspace revenue of $557 million increased 6% from the year ago period and increased 6% for the full year. Workspace subscription revenue grew 35% in the fourth quarter. In fact, year-over-year, Workspace subscription revenue increased more than 30% in every quarter during 2018.
+We continue to be very pleased with the underlying strength of the Workspace business. Our leadership and vision in Workspace, as David described, is clearly resonating with customers. As Citrix Cloud offering and ability to support hybrid cloud environments, it's helping us both expand within our existing customer base and attract new customers to the Citrix platform.
+In the fourth quarter, subscriptions accounted for over 60% of Workspace product bookings versus 42% in the year ago period and 57% in the prior quarter. We are tracking well ahead of our original transition milestone in this business.
+Within Workspace, content collaboration revenue increased 4% year-over-year to $47 million in the quarter. Please keep in mind that this was the final quarter in which we will separately break out revenue for the ShareFile business.
+As discussed on prior calls, this business has evolved to more of an integrated file, sync and sharing solution for our enterprise customers as opposed to primarily addressing the stand-alone SMB space. As such, content collaboration results are now integrated into our Workspace business.
+Networking revenue of $206 million declined 4% year-over-year, due to large part to the cyclical ordering patterns at the large hyperscale providers. In fact, the decline in the SSP business negatively impacted networking revenue by approximately $20 million in the fourth quarter as compared to the year ago period.
+Despite this SSP headwind, we were able to achieve both top and bottom line expectations. For the full year, total networking revenue increased 3% compared to the full year of 2017 and increased from 4% to 9% of the total.
+Looking ahead, as the mix within our networking business transitions away from hardware, it will create pressure on reported revenue. As we progress through this mix shift transition, the growth of networking subscription revenue will be a more meaningful reflection of the underlying performance of this business.
+In the fourth quarter, networking subscription revenue more than doubled year-over-year, both in the fourth quarter and for the full year. That said, we are earlier in the transformation of our networking business to the subscription model relative to the transformation of our Workspace business.
+The momentum of our business remains strong, particularly considering the 150 to 200 basis point subscription revenue mix headwind as well as the previously noted $20 million SSP headwind. We continue to be pleased with the underlying growth of our core software business in the mid to high single digits on a year-over-year basis.
+Turning to the geographies. Subscription revenue in the fourth quarter grew more than 40% year-over-year in the Americas and in EMEA and it nearly doubled year-over-year in APJ.
+For the full year, revenue in the Americas accounted for 58% of total revenue, EMEA accounted for 32% and APJ accounted for 10% of the total revenue for the full year.
+Adjusted operating margin in the fourth quarter was 35% and was 32% for the full year, slightly above the high end of our guidance range. Recall that adjusted operating margin in the fourth quarter of 2017 was positively impacted by the restructuring actions we took in October of that year to realign the organization to better support our subscription model transition and enable us to more aggressively invest in innovation.
+The lag between the time of the restructuring and the time it takes to grab thoughtful and disciplined investments in the business explains the variation in adjusted operating margin relative to the year ago period for the quarter and for the year.
+Looking ahead, we will continue [balance] expanding profitability with investments to improve our long-term sustainable growth trajectory. In the quarter, cash flow from operations was approximately $206 million and down from the year ago period. This year-over-year decline reflects the impact of the timing of the cash collections as a result of our subscription model transition.
+As a consequence of the rapid subscription model ramp [ph] more revenue and more cash flow will be recognized and collected in future periods. The primary offset of this is unbilled revenue, which increased over 300% during FY ‘18 to over $325 million. For the full year, cash flow from operations was $135 billion [ph], up 7% from 2017. We expect full year cash flow from operations to continue to grow year-over-year in 2019.
+Looking at the balance sheet, we ended the fourth quarter with approximately $1.8 billion in cash and investments. During Q4, we repurchased approximately $380 million of shares, thereby completing our $2 billion share repurchase commitment announced in November of 2017. We currently have $770 million of share repurchase authorization remaining.
+In the fourth quarter, we also paid our first quarterly dividend, returning an additional $47 million to shareholders following our Board of Directors $0.35 per share dividend declaration.
+As mentioned on today's earnings release, our Board of Directors declared our quarterly dividend of $0.35 per share to be paid later this quarter.
+Now turning to guidance. For the full year 2019, consistent with our multiyear strategy, we expect continued momentum in the adoption of our cloud services. We are reiterating our full year 2019 guidance, which includes, revenue between $3.08 billion and $3.09 billion, adjusted operating margin of 31.5% to 32% and adjusted EPS of approximately $6.
+This guidance reflects our belief that subscription bookings as a percentage of product bookings will increase from just over 40% last year to as much as 55% in 2019. This mix shift creates a revenue headwind of between 150 and 200 basis points during the year. This guidance also contemplates a headwind from networking hardware.
+The timing of this networking hardware headwind is the primary driver of our first quarter guidance. We currently anticipate revenue between $700 million and $710 million, adjusted EPS of approximately $1.15 to $1.20.
+To provide some context with regard to the quarterly progression through the course of 2019, please keep in mind that the first quarter is always the seasonally weakest quarter of the year for Citrix. However, we expect strong Workspace growth in the quarter, primarily driven by Citrix Cloud subscriptions.
+Given the visibility of the timing of the networking hardware orders into a concentrated number of hyperscale customers, we expect the headwind to the first quarter of revenue to be more pronounced. As mentioned, orders from these customers are volatile.
+While it's helpful to look at the historical seasonality of our results for the ramp in margins and the EPS throughout the year, it is important to note that 2018 results were positively impacted by our 2017 restructuring and the adoption of ASC 606.
+As mentioned earlier, operating expenses from the first half of 2018 benefited from the restructuring actions taken toward the end of 2017 and reflect the lag in time it takes to reinvest in the business.
+As such, in the first quarter, you should expect to see bookings revenue, adjusted margin and EPS at the lowest point of the year. In other words, 2019 operating margin expansion and EPS growth will be weighted towards the second half of the year due to normal seasonality, our continued shift to subscription revenue and our recent investments in building sales capacity.
+With that, I'd like to open the call up for questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] And your first question comes from the line of Heather Bellini with Goldman Sachs. Your line is open.
+Heather Bellini
+Great. Thank you so much for taking the question. David, 2018 was a really good year for Citrix. The transition seems to be coming about nicely. I was wondering if you could talk a little bit, just looking at your 2020 free cash flow target and where you just came in for 2018, which was pretty close to that. Can you give us an update on how you are thinking about the 2020 target and potentially 2022 based on where you currently are? Thank you.
+David Henshall
+You bet. Just to remind everybody, we - about a year ago, when we laid out our multiyear plan, we put a target for 2020 at $7 per share of free cash flow. Clearly, as Heather pointed out, '18 was a really strong year. Our overperformance led us to the point where we're nearly there already looking backwards. So we're going to exceed that target in 2019, usually a year ahead of that plan.
+This is despite all the current headwinds from the success we're having in transitioning the business. [Technical Difficulty] well ahead of our original plan, at least a year ahead at this point.
+Heather Bellini
+Great. Thank you very much.
+David Henshall
+You bet. Thank you.
+Operator
+Your next question comes from Philip Winslow with Wells Fargo. Your line is open.
+Philip Winslow
+Hey. Thanks for taking my question. You guys had a great [ph] closer year. David, just want to focus on Workspace Services. If you look at sort of just your numbers this year, that's been really the area of upside. You talked about, I think, the best growth since 2012, and then Drew even talked about sort of leaving expectation for potentially continuing in the mid to high single-digit growth there.
+I guess, sort of what's changed that we're returning back to those sort of 12, 12 growth rate levels and sort of that - the forward comps and grow it as a product. Is it the pricing side? Is it called just unit growth? I mean, just maybe kind of help me through the puts and takes there.
+David Henshall
+You bet, Phil. So yes, just to remind everybody, what we talked about the call, I mean, Workspace as our largest business. Let's add bookings growth in the double digits, and that's been accelerating over the last couple of years. So we're really happy with where we are, and we expect double-digit performance again in 2019.
+So what's happening is that, overall, we've just laid out a really compelling vision for customers. And we've been able to articulate not just incremental value around the Workspace for how we're organizing work and we're helping secure and manage a lot of their applications, bringing together content into really a clean, simple solution. But we've articulated this vision now for what I described in the prepared remarks as really general purpose.
+And so what that means in simple terms is that we're adding value to non-virtualized use cases as well. So now we've got a full package of the Workspace that could be applicable to every user in every enterprise, not just at current 30% that today is using virtualization, but more of a ubiquitous platform that allows us to go wall to wall. And as we're successful driving that penetration, we can add a lot of incremental value with new engagements and new solutions on top of that for customers.
+So it's a combination of more focused and direct selling. Our sales teams did a great job in 2018, the best products that we've ever had and I think the most compelling vision, both for virtualization capabilities and now outside, and that's what's driving that business recovery overall.
+Philip Winslow
+Got it. Thanks. And also just, David, on the go-to-market, wondering if you can comment there because obviously, the margin's been strong this year if you look at just sort of the sales and marketing to the product ratio. And just the bookings ratios, it looks like you've had good productivity. Similar thing, what's driving that? How do you think sort of sales productivity as you enter ‘19 here?
+David Henshall
+Yes, Phil. Overall, we - as part of our overall transformation, as people remember, we're moving from being a, what I would describe as more of a project-based or bottoms-ups sale to much more of a strategic top-down sale, engaging with a C-level. That's of the motion we've been driving our field organization over the course of the last 18 months. Along with that, we're able to do larger transaction size.
+So we closed a record number of $1 million plus deals last year, over 300 of them, a record number of 8 figure deals and also, the largest transaction in the company's history. And so all that is just really the result of all of these individual steps we've been taking along the way. Because of that, we're actually getting better productivity.
+The second reason we're getting better productivity is as part of the transformation, we've simplified the story. We've simplified exactly the message and the value prop we're bringing for our customers. And we've simplified our product portfolio, frankly, and removed the non-strategic elements that just weren't adding value.
+Philip Winslow
+Thanks, guys. Congrats.
+David Henshall
+Thanks, Phil.
+Operator
+Thank you. Your next question comes from Raimo Lenschow with Barclays. Your line is open.
+Raimo Lenschow
+Good evening. Thanks for taking my question. Can I start on the networking side? Obviously, like the issues with the big service providers and with the Internet service providers has been going on for a while. What gives you the confidence like that would, at some point, resolve during the year? Obviously, there has been other guys that kind of sell into that spending area, have been kind of being somewhat cautious about that in 2019. Can you just talk a little bit towards that? Thank you.
+David Henshall
+Sure, Raimo. So let me put a little context around that. So if everyone recalls, a minute ago, we reiterated our full year guidance, but we shifted Q1 to account for the timing of SSP hardware. That's really the only volatile part of our business because Workspace is kind of rocking up into the right at this point in time.
+And so when we engage with a hyperscale, we generally have a demand intent for the full year. So we have a pretty good understanding of what their capital requirements are going to be for a full year period of time. And it just becomes a little harder to predict the exact quarters in which those will fall. We just happen to know, Q1 in particular is not a large concentration of purchases for that small group of customers. So we understand the full year.
+But what I'd say about overall demand in that segment is that the SSPs have been declining in the aggregate for about 3 years now. They're down in the low double digits, and we are seeing the DaaS [ph] going to phase in 2019. That's been in our plan in our guidance as well. So we're pretty much spot on in '18 from our expectation.
+Directionally, it's a combination of their infrastructure just becoming more efficient over time, combination of more of those capabilities moving towards software. So it's a kind of combination of those two dynamics but contemplated on our plan and our outlook.
+Raimo Lenschow
+Okay, perfect. And then the - I don't know if I missed that, but could you talk to about the Citrix service provider program? Like I know like you too - I think you wanted to give us more detail, but I'm not quite sure how much more I got from you. So ShareFile, you gave me a number for the last time. Could you talk about the service provider program, please?
+David Henshall
+Well, Raimo, let me take that question and kind of frame it a little bit because what's really important here is the subscription line of revenue. That's the line where it's reflecting the more ratable elements of our business. And so remind everybody that, as we've discussed on prior calls, our subscription revenue includes three components: SaaS revenue, which is from Citrix Cloud, that's the largest and fastest-growing component, second is the transactional revenue from CSPs, which continues to grow nicely, and then term licenses or on-prem license sales. Think of that as kind of a bridge to the cloud.
+And so what we're doing going forward is we're breaking those out so that everyone can see with more clarity exactly what's going on in the SaaS part of the business. That is most reflective of our actual strategic evolution, and that removes some of the noise that happens quarter-to-quarter with consumption-based programs like CSP and term licenses that have a little bit of an accounting adjustment that influences their recognition. Those tend to frankly be more seasonal in nature. So that's why we're isolating that.
+And I'd encourage you to go back and look at our presentation that we laid out because we gave all of the historical quarters for 2019 and allow you to model that really effectively going forward.
+Raimo Lenschow
+All right. I appreciate that. Thank you.
+David Henshall
+You bet.
+Operator
+Thank you. Your next question comes from Mark Moerdler with Bernstein Research. Your line is open. Mark, please check your mute button.
+Mark Moerdler
+I apologize. I was on mute. Trying to keep quite, okay. The move from hardware to subscription and networking is obviously a headwind to revenue, I think, you said about $20 million. But the margin of subscription should be higher in the networking business. Can you give us a sense of how much of a tailwind to margin this has been and how we should think about its impact on margins going forward? Then I got a follow-up.
+David Henshall
+Sure, Mark. I mean, Mark, if you think about the overall dynamics, I mean, it's clear to everyone that as application architecture has changed and where applications are being run, whether those are on-premise or the cloud, the networking industry is changing, more and more value is going to be delivered via software. That's why our solution has always been to approach networking as more of a hybrid multi-cloud. So really, what that means is we've got a software-based solution that can be deployed in the form factor of an appliance, virtual appliance, in a container, et cetera.
+And what we're seeing from our customers is more and more of those purchases are coming from the software form. That's really a reflection of the hybrid multi-cloud phenomenon.
+For us, when we talk about margins, in the aggregate, across the company, margin has a little bit of a pressure for - but there's two dynamic going on. So you'll see margins coming down a little bit. The reason they're coming down is because we're moving from extremely high-margin software business on a perpetual basis to cloud. That's really kind of function number one. That's offset, as you pointed out, by less hardware and more software on the networking side.
+So those actually helps and provides a tailwind. But in the aggregate, in general, the bigger shift is the one from on-prem to cloud. And so I think you should expect to see some gradual pressure on gross margin over the next several years as we drive the success of that transition.
+Mark Moerdler
+That's helpful. And as a follow-up, long-term deferred used to be increasing at a slower rate than previously. Maybe I missed out in all the data you gave us. But is there a billings duration decrease occurring or is there Citrix issue? How should we think about that?
+David Henshall
+Mark, what's going on is really the transition from our prior model to our new model. And so what we've been talking about all along is more - less about deferred revenue and much more about unbilled revenue. So everybody is clear, our typical Citrix Cloud contract is a 3 year contractual commitment with annual billings, and that's why we're looking at this huge growth in unbilled revenue.
+Historically, we would have billed all that upfront. But in the new model, it's much more of this combination of unbilled and deferred. So when Drew talks about future committed revenue, that's the number he is referring to. That's the number that was up about 12% year-on-year. It now sits at nearly $2.2 billion, and that's the one to keep an eye on.
+And I think when you add that change to our reported revenue, that gives you a very good approximation of the underlying bookings growth in the company. So that's more of how the business is progressing. Just to do the math for you, that shows that the underlying business is growing in the mid to high single-digit range.
+Mark Moerdler
+Thank you.
+Operator
+Thank you. Your next question comes from Walter Pritchard with Citi. Your line is open.
+Walter Pritchard
+Hi. Two questions. First, just maybe a quick one on the networking type, following up on Raimo's question. As we look at the growth maybe for the full year that you're expecting, I think you grew about 3% in '18. Are you still expecting growth in aggregate in your guide in that networking business?
+David Henshall
+To be determined on the hardware piece, how quickly that goes. We're certainly looking for growth in bookings, in overall bookings on the networking business. The question is how much shows up as subscription versus hardware. If that dynamic changes materially, then we'll come back and talk about that with the benefit of hindsight.
+Walter Pritchard
+Great. And then just David, on the subscription in Workspace, could you help us understand how - customer usage? You talked about kind of the term licenses or sort of an intermediate step [ph] to cloud, and then Citrix Cloud has a number of value propositions. Where are customers in terms of recognizing the sort of different stage of value propositions around ultimately adopting and consuming Citrix Cloud?
+David Henshall
+Well, the value prop around Citrix Cloud is changing pretty rapidly. I'd say a year ago most customers were looking at Citrix Cloud as a hosted control plane to simplify the management of their on-premise virtualization. And honestly, that proposition wasn't that compelling. I mean, it sounded expensive to a lot of customers.
+Fast-forward throughout 2018, and we have articulated a much broader story, and in fact, there's over a dozen services live as part of Citrix Cloud to be able to optimize on premise, should they want that. But more importantly, so much net new functionality, whether we're talking about analytics or unified endpoint management or content collaboration or secure SaaS application and all these other solutions inside the Workspace.
+So that's one of the reasons why at the end of the year, our trade-up motion has started to really uptick, but I expect that to be a strong motion throughout '19. So that entire value proposition is really changing. So the customers that are adopting right now are not doing it to simplify an old virtualization deployment.
+Frankly, we're encouraging them to leave that as is. This is really about that broad general-purpose expansion that I referenced earlier. How do we go much broader and deeper in those accounts? And then over time, as they move their workloads, the virtualization workloads to the cloud, then we can provide a lot of incremental value on top of that. But I look at that honestly as a Phase 2.
+Walter Pritchard
+Okay, great. Thank you.
+Operator
+Thank you. Your next question comes from Karl Keirstead with Deutsche Bank. Your line is open.
+Karl Keirstead
+Thanks. Hey, Drew. Could we go back to the progression of the total revenue growth rate throughout the first - throughout the year? Obviously, we're starting Q1 at roughly 1% growth given your guide, and you mentioned, in the full year, it will be 4%. So it needs to accelerate in quarters 2 through 4. But it sounds like the primary headwinds, the subscription transition and these NetScaler issues, are likely to persist throughout the year.
+So I'm just wondering if you could pinpoint the key growth drivers because your compares actually get modestly tougher, actually, in the next two quarters? Thank you. And I've got a follow-up.
+Andrew Del Matto
+Sure. Sure, Carl. It's really the timing of the SSP, the timing of the SSP orders, how they come in. And again, that's been a very cyclical business. And then the second thing is really just the ramp on the subscription, yes, the recognition of all the bookings, how that - how they get recognize this exactly.
+Karl Keirstead
+Okay, got it. Okay, that's helpful. And then my second question is just on the geo performance. Americas has done really well over the last, I think, 3 or 4 quarters, up 6% to 8%. I think it was negative 1% in the quarter just reported.
+And I'm just wondering if you could put your finger on what might have caused the decel on the Americas side. Maybe it was more heavily skewed to this SSP NetScaler issue, but maybe if there's anything else going on. Thank you.
+Andrew Del Matto
+That's it. You have it, Carl, with SSP.
+Karl Keirstead
+Okay. Got it. Thank you, both.
+Operator
+Thank you. Your next question comes from Keith Weiss with Morgan Stanley. Your line is open.
+Sanjit Singh
+Hi. This is Sanjit Singh for Keith Weiss. Thank you for taking the questions and I kind of want to follow up on the 2020 target that Heather alluded to earlier in the call. I think one of the targets out there was around subscription revenue being around 40% of revenue, and we're at - we're sort of standing at 16% today.
+So I wanted to better understand whether that was still the target going into 2020 and what that progression could look like from 16% to 40%? And I had a follow-up, if you don't mind.
+David Henshall
+Sure. Let me answer [ph] pretty quickly. As you saw, we went from 10 to 15. We haven't started to move the installed base yet. So that's really what's going to drive the more substantial uptick.
+Net new customers, net new seats, that business is humming [ph]. We've talked a lot about that. That's what's driving a lot of the unbilled and deferred. But the trade-up program from installed base, right now, we're less than 10% of the installed base looking back a year or so. So as we put more focus on that in 2019, that will provide some incremental tailwinds there.
+So I'd say we're directionally on track to where we'd like to be at this point. We're a little bit ahead from a bookings mix standpoint, and that will translate into recognized revenue as we go forward.
+Sanjit Singh
+Got it. That's very helpful. And then in terms of looking at - we've had a couple of quarters, actually, several quarters of the subscription transition. Do you have any sense of how the renewal rate on subscription sort of compare to historical renewal rates on maintenance? Are we looking at sort of a 90%-plus rate or is it sort of more in line with traditional maintenance? Any sort of characterization there would be helpful.
+David Henshall
+Not a lot of data points to really call out a trend yet. Mostly, it's 3 year commitments. But I will say that a lot of the investments we've been making over the last few quarters, and we will in ‘19, is around the customer success teams and those that really work hand in glove with customers to make sure that they're driving adoption, first off.
+And second, there are driving value out of the solutions they've purchased. That also positions us, as you'd imagine, much more cleanly to be able to layer in incremental new revenue streams as we introduce new capabilities.
+Sanjit Singh
+Appreciate it. Thank you.
+Operator
+Thank you. Your next question comes from John DiFucci with Jefferies. Your line is open.
+John DiFucci
+Hi. Thanks for taking my question. My question has to do with this transition to subscription. And I guess, I'm just a little confused because I mean, to me, I don't think that's new. I mean, that's something you've been talking about. That's something we've been seeing anyway in the market.
+And I guess, like - Drew, you gave us some like headwinds because of that. And I just - I guess, I want to understand - I appreciate that you're giving us that. But is there something else too that's happening, like you did talk about the large hyperscale customers. And we understand that, that's been happening for a long, long time too, and we understand that, that can cause some volatility. But it's not nearly the volatility that it used to be, as far as what we used to see in that business.
+So I'm just - there's a lot of questions around this, especially this next quarter's guidance relative to what's happening for the year. And I just - I don't know, it just seems like there's something else going on here. I just want to make sure we're not missing something.
+David Henshall
+To understand - but I'm not sure what you're looking for actually. There is really only two things going on. We've moved from up to 42% of new bookings coming from subscription or 30%, 30-ish or probably even a year before, mid-20s and then much lower 2 years earlier.
+And so Drew talked about the incremental headwind that comes from moving from 40% last year to 55-plus this year. Couple of hundred basis point headwind on revenue growth, incremental to where we were. And then it's just a matter of the networking business as we referred to, SSP a little bit lumpy. And then gradually, over time, hardware shifts into software. There's not really a dynamic.
+I think the easiest way to understand economically the change in our business is look at the change in deferred and unbilled right next to the recognized revenue numbers. It's probably the best way to just measure how many economic dollars are coming in.
+John DiFucci
+Yes. But David, with the deferred and unbilled, and I appreciate that. And you're not the only company that's saying to look at that. But frankly, depending upon the duration of the contracts and if that were to change, things like that, it's - and without a lot of historical information, it's really hard to just place our faith in that number right now.
+But I guess, my question, it has more to do with -- you gave guidance and you had given us an idea of guidance after the last quarter for next year too. And it sounds like you're sort of maintaining that, which is good to see. But at the same time, with the first quarter being a little bit lighter than at least we had, I - obviously, you hadn't given guidance for that and not raising that. I'm just trying to - I just want to make sure that we're not missing something. So you didn't lower guidance for the year. I get that, that's good. And I guess, you just feel like the same way you felt about the business when you gave guidance last quarter. This is kind of what I'm trying to get to.
+And I'm sorry for rambling there, but I'm just trying to - I - there's a lot of information about what headwinds were happening, but those headwinds aren't new. You've been doing that. That's what you planned for, I believe. Unless sales were incremental headwinds to that, you just didn't expect to transition to subscription, but I don't think that's right, right?
+David Henshall
+I'm not sure if that's a statement or a question, but...
+John DiFucci
+It's a question.
+David Henshall
+I'm not sure where this skepticism comes on deferred and unbilled. I'll tell you, our standard cloud contract is simply 3 year commitment, annual billings. I mean, that's what we go with, and we - that is the vast majority of contracts. So I'm not sure what that...
+John DiFucci
+But that standard has changed. That's changed over time, and it could change for any company. And given what we do - and with all due respect, David, you're very straightforward. You always have been. I appreciate that. But given what we do, we know that could change at any time and it often does. It has for you over the years too. And that's where that skepticism - and it doesn't - just for Citrix. I mean, that - I'm skeptical about that for any company. I think everybody should be. But I don't know. We could talk about that offline. I don't want to go into that too much.
+David Henshall
+Yes, probably a better topic offline. But I mean, I'll tell you the way that I'm looking at the business from a top-down standpoint is one of the dollars that customers were committing to and one of the value they're driving from our solutions is how does that compare with the year prior.
+So internally, our focus is entirely on product and subscription. That's the direction we're driving the business. We thought that giving more granularity in the subscription line is the easiest way to have the transparency into that because like you said, there's occasionally noise in contracts like on the prem firm.
+And so we'll just give you the details so you can look for it. And if there's follow-up questions, then let's take those offline.
+John DiFucci
+Okay. Thanks a lot, David. Thanks, Drew.
+David Henshall
+Thanks, John.
+Operator
+Thank you. Your next question comes from Nikolay Beliov with Bank of America. Your line is open.
+Nikolay Beliov
+Hi. David, question for you. Microsoft seems poised to launch Windows desktop virtual surveys on top of Azure. How is it changing your relationship with Microsoft? And could [ph] at some point, customers begin to foresee it [ph] best services and alternatives to Citrix rather than complement to Citrix?
+David Henshall
+I think the way everybody needs to think about Azure Virtual Desktop, which is the name of the platform, I mean, that is analogous to Windows Server platform when it comes to our business. That's the way to think about it. And then for the last 25 years, our products, our virtualization products that is, have embraced and extended the Windows Server platform.
+As Windows becomes subsumed by Azure, we now embrace and extend the Azure Virtual Desktop platform. It's the exact same analogy to where we've been over time. So I think it's fair to say that, that platform always gets higher functionality as time goes by. That hasn't changed in decades now.
+And so our strategy is always for that part of the business to embrace and extend. And we work with Microsoft on a collaborative basis for new initiatives like Desktop as a Service. We're the only vendor that is going to be announcing - well, has announced and going to be delivering a native DaaS service on top of Azure where we can bundle Azure capacity and sell that as one turnkey solution.
+I think that's a - right now, that is not a large part of the overall market, but we recognize that there are use cases where that is an important solution to have. That's why we're building those together.
+So overall, I mean, we're working very collaboratively with them, both on the development side and on the go-to-market side and we'll continue to, not just in virtualization, of course, but in areas like virtual WAN and mobility and many others.
+Nikolay Beliov
+As a follow-up, coming out of the Partners Summit a couple of weeks ago, what was the feedback from partners generally speaking? And what is the focus around incentives with partners this year 2019? Thank you.
+David Henshall
+Yes. I'd say it was - as somebody who's been to the last 17 Summits, it's been - it was one of our best ever. I mean, I'd say that the alignment across the go-to-market teams, both partners and Citrix badged, is as high as it's ever been, and the enthusiasm is good because they were successful in '18.
+The incentive changes that we made with partners are modest. Last year, in '18, we made pretty material changes to move them away from traditional models where they get paid to renew maintenance and things like that, really towards net new product, net new subscription.
+And so the next phase of that, that we introduce in ‘19 is starting to put more incentive around actual usage of those cloud solutions because it's really critical that customers see success in their purchases. So now one of the steps is to continue to drive active daily use of those products. And so as customers are successful, then the partner gets an additional incentive on the back end of that. That's more of just continuous engagement overall.
+We took them through a lot of this very similar messaging and then other content which was under NDA but really talking about this new broad market opportunity that exists by the extended general purpose Workspace, where we give them detailed road maps of where we're going on the intelligent Workspace. And that just gives them a lot more flavor for how the TAM is going to double over time and how we're moving into really higher-growth market opportunities.
+Nikolay Beliov
+Thanks for the color, David. I appreciate it.
+David Henshall
+Thanks, Nikolay.
+Operator
+Thank you. Your next question comes from Kirk Materne with Evercore ISI. Your line is open.
+Kirk Materne
+Thanks very much. David, maybe just actually another one come off the back of your Partners Summit. Obviously, lots of people concerned about maintaining economic conditions in places like Europe and Asia Pac and given that type of pretty broad curve yields in those regions. Anything changing from your perspective, from a macro perspective? Or the secular trends are powering over any macro noise in your view right now?
+David Henshall
+I think noise is a right way to put it. I mean, it is a headwind. So if you look at it specifically, we've been a public sector business, state and local or much larger parts for Citrix than federal. But I think it's reasonably to us - reasonable to assume that there's going to be some broader impact at some point. I mean, I can't point to it quantitatively.
+But qualitatively, there's conversations that everyone's having, just trying to understand the potential impact on their business, whether it's from U.S. shutdown, whether it's from global changes with Brexit or whether it's things like ongoing political volatility.
+So there is conversations out there, but we're anticipating that conditions in ‘19 are roughly similar to what we saw in Q4 time frame when this was already a pretty hot topic.
+Kirk Materne
+Okay. That's helpful. And then maybe just actually on the Windows Virtual Desktop. I think the plan is to now launch in the spring. Imagine having that much sort of launch activity around it. It's obviously a positive thing for you all.
+I guess, any chance though that - as customers - to sort of evaluate it and understand better how you guys sort of, to your point, extend the technology. Any concern you have on that, that could actually be a pausing [ph] function for folks? Or do you think there's - you've done off round [ph] to go to market to feel good about sort of the joint marketing effort around it that should change buying decisions or anything like that?
+David Henshall
+Well, I think this is the move we've been in many, many times over the years whenever any new platform comes out. And so one of the things that we did at our partner kick-off a couple of weeks ago was have a senior Microsoft executive on stage with our teams really talking about the joint solution and the fact that our enterprise customers, the typical people that we sell to, really needs Citrix capabilities.
+And that's why we go in and we do these things together because Citrix is successful. We bring through a lot of Azure capabilities. We bring through O365. We bring through lots of others. So it's a very symbiotic relationship, and we've been spending a lot of time together as organizations in the field talking about that dynamic.
+Kirk Materne
+Okay. That’s helpful. Thank you, David.
+Operator
+Thank you. Your next question comes from Brad Reback with Stifel. Your line is open.
+Brad Reback
+Great. Thanks very much. David, last quarter, you talked about the expectation of having a record quarter of large deals in 4Q. Was that the case?
+David Henshall
+Yes.
+Brad Reback
+And I don't think you guys provided the number of $1 million deals this quarter. Could you give us that?
+Andrew Del Matto
+Yes. On top of my head, I think it was 125. We have to follow up with you to confirm that number. Sounds right, but we'll just follow up.
+Brad Reback
+Okay. Thank you very much.
+Andrew Del Matto
+You bet.
+Operator
+Thank you. And your next question comes from Michael Turits with Raymond James. Your line is open.
+Rob Majek
+This is actually Rob Majek for Michael today. I know it's early, but how was - how has feedback been going so far on the offering you originally launched to help MSP deliver SD-WAN to their customers?
+David Henshall
+Yes, we've been talking about SD-WAN much. I mean, It's a small part of the business, but it's growing. And to your point, we've done a couple of things on that, that are focused on kind of creating and expanding the new MSP channel, which is it's early. It's starting to get traction.
+We've done some things with our channel programs, and we've done a few things like with Microsoft where we were basically their - the preferred virtual WAN provider on Azure.
+And so I think that market is evolving in a fairly interesting way. I mean, really, right now, the types of deployments that we're seeing from customers are really focused on optimizing SaaS performance, enhancing a lot of the delivery, resiliency and performance of things like Office 365 and those types of capabilities. And I think that's where that market evolves as well.
+Rob Majek
+Thanks a lot.
+Operator
+Thank you. Ladies and gentlemen, we have reached the end of the allotted time for question and answers. I will now turn the call back over to David Henshall, President and CEO for closing comments.
+David Henshall
+Thanks, again, everyone, for joining us this evening. Let me just leave you with a few final takeaways. Clearly, the fourth quarter results cap off a really important year for our overall transformation. We exceeded expectations across all metrics despite some of the cyclical headwinds in networking, hardware, the areas that we've talked about.
+Our subscription model transition is accelerating, as we've said, as evidenced by subscription revenue at 45% in Q4, the fact that unbilled and deferred revenue is up well over $200 million year-on-year and the other metrics that are supporting that overall.
+So clearly, we're excited about the opportunity to drive growth in the years ahead. Capitalizing on the opportunity to further penetrate both our existing installed base as well as really using the general purpose Workspace concept to attract net new customers, net new opportunities looking forward.
+So we'll come back in 3 months, provide you with an update on those initiatives. Everybody have a good night, and talk to you soon.
+Operator
+Thank you for participating in today's Citrix conference call. You may disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

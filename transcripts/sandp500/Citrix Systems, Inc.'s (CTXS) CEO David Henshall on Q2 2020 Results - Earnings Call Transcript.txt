@@ -1,0 +1,232 @@
+Citrix Systems, Inc. (NASDAQ:CTXS) Q2 2020 Results Earnings Conference Call July 23, 2020  8:15 AM ET
+Company Participants
+Traci Tsuchiguchi - Vice President, Investor Relations
+David Henshall - President and CEO
+Arlen Shenkman - Executive Vice President and CFO
+Conference Call Participants
+Phil Winslow - Wells Fargo
+Heather Bellini - Goldman Sachs
+Mark Moerdler - Bernstein Research
+Raimo Lenschow - Barclays
+Walter Pritchard - Citi
+Sanjit Singh - Morgan Stanley
+Brent Thill - Jefferies
+Matt Hedberg - RBC Capital Markets
+Jason Ader - William Blair
+Kirk Materne - Evercore ISI
+Ittai Kidron - Oppenheimer
+Robert Majek - Raymond James
+Operator
+Ladies and gentlemen, thank you for standing by. And welcome to the Citrix Systems, Inc. Second Quarter 2020 Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speakers’ presentation there will be a question-and-answer session. [Operator Instructions]
+I would now like introduce your host for today’s conference call, Ms. Traci Tsuchiguchi. You may begin, ma’am.
+Traci Tsuchiguchi
+Thank you, Kevin. Good morning, everyone. And thank you for joining us for today’s second quarter 2020 earnings call. Participating on the call will be David Henshall, President and Chief Executive Officer; and Arlen Shenkman, Executive Vice President and Chief Financial Officer. Please note that we have posted our second quarter earnings letter to our Investor Relations website.
+I’d like to remind you that today’s conversation will contain forward-looking statements made under the Safe Harbor provision of the U.S. securities law. These statements are based on current expectations and assumptions that are subject to risks and uncertainties. Actual results could differ materially from those anticipated.
+Additional information concerning these and other factors is highlighted in today’s earnings letter and in the company’s filings with the SEC. Copies are available from the SEC or on our Investor Relations website.
+Furthermore, we will discuss various non-GAAP financial measures as defined by SEC’s Regulation G. A reconciliation of the differences between GAAP and non-GAAP financial measures discussed on today’s call can be found at the end of our earnings letter found on our Investor Relations page of our website.
+Now, I’d like to turn the call over to David, our President and Chief Executive Officer. David?
+David Henshall
+Thanks, Traci, and good morning and thank you everyone for joining us today. Our second quarter results reflect our position in the market as the leading workspace company, empowering employees with a secure and consistent work experience, wherever it is the work needs to be done, in the office, on the road, whereas we’ve all recently experienced at home.
+Even when geographies and economies became to reopen, this concept of back to the office is moving beyond the discussion of just one mode versus the other. I think there is a realization at many companies, but a hybrid work style blends together the best attributes from a physical work environment with the flexibility that individuals need to be productive and do their best work.
+All of this will be dependent upon technologies like those provided by Citrix to ensure a safe, secure and productive work experience across all locations. I’m really proud of our team and the commitment to customer success that I’ve seen throughout 2020.
+So, with that, I’d like to open it up for questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question comes from Phil Winslow with Wells Fargo.
+Phil Winslow
+Hi, guys. Congratulations on another strong quarter. David, a question for you, on penetration, obviously we’ve seen, I call it, more people that haven’t been able to work remotely, you’ve start to work -- be able to work from home now and it seems like permanent work and flexible work to your point is just here to stay. How do you think about the ability to drive up to get the number of users that have access to Citrix, but as usage of Citrix also goes up more people using it concurrently, how do you think about penetration of that call that user base with licenses, so call it, the total user base growing than your license penetration of that? And then I’ll just have a one follow-up for Arlen.
+David Henshall
+Sure, Phil. Thanks. I think the big takeaway coming out of this great work-from-home experiment is that, remote work is really in fact working and so I don’t think perceptions of remote work have shifted more quickly than it has right now.
+I mean you take a step back, and as you mentioned, you have over 40% of the U.S. workforce now working from home, delivering somewhere over 60% of total economic output. So it’s fascinating to us to see that leaders in general are really realizing the benefit that remote work is bringing to their organizations and so it’s really becoming clear that hybrid work models are going to be here to stay. And you’ve seen a lot of these statistics and we’ve talked about some of them, CFOs are talking about reduction in everything from real estate portfolios to non-essential travel trade shows, et cetera.
+And so when we take a step back, I mean, now that we’ve effectively crossed the chasm for remote work not being seen as a perk or a unique attribute for a select few, it’s going to become much more mainstream and for us, that just means ability to accelerate penetration across our installed base, as well as tapping into net new customers.
+So from a long-term standpoint, I think, all the trends that we’ve seen up till this point should really benefit this idea that work is truly an activity about driving output and it’s not a place. And the one constant in all that is the need for a digital infrastructure that is flexible, that is secure, that is providing that level of engagement regardless of where people choose to work. So I see it as definitely a long-term positive for the business.
+Phil Winslow
+Got it. And then just a follow-up obviously the other big announcement this month was the extension of the partnership with Microsoft, obviously, that’s longstanding back to the late ‘90’s when Bill Gates talked about network computers. I wonder if you could just comment on just sort of the evolution of that partnership from year ‘97, ‘98 with network computers and MetaFrame to now with windows virtual, desktop and then Citrix Cloud and sort of how that symbiotic relationship sort of still applies?
+Arlen Shenkman
+Yeah. So if you take a step back and you think about, this is one of the longest partnerships across all of the technology that I can certainly remember. And the reason it’s worked so well for all these years is that, Citrix is largely about embracing and extending the Microsoft platform for a number of our technologies. And that’s one of the reasons why it works so well throughout the ‘90s and 2000s, but where we are right now is really announcing a more holistic and programmatic approach than anything we’ve seen in over a decade.
+We’re creating joint SKUs, joint roadmaps and a really comprehensive approach to give our customers a much clearer understanding of Microsoft Technologies and Citrix Technologies together, that roadmap to know how we’re adding value and then the infrastructure to really help them simplify the move to the cloud, make it easy to adopt Citrus Cloud, make it easy to adopt Microsoft Azure and I think that’s going to be a really powerful combination as we go into the next couple of years.
+Phil Winslow
+Great. Thanks guys.
+Arlen Shenkman
+Thanks, Phil.
+Operator
+Our next question comes from Heather Bellini with Goldman Sachs.
+Heather Bellini
+Great. Thank you so much for taking the question. David, I wanted to ask a little bit to follow-up on the question that Phil was just asking. Again, you talked about this having a higher penetration rate, but when you’re -- one of the questions we get asked a lot is when companies -- what are you hearing from CIOs, when companies do go back to work? There are some people that are afraid that this -- that -- it’s a big push for VDI or desk is actually going to go away and people might migrate back to how they were doing things before. If you can share with us some of the conversations you had with people that maybe thought this work-from-home was going to be a short-term situation at first and now it turned into something that’s going to be much longer. How has those conversations progressed in terms of how they feel about this permanently altering instead of just temporarily altering how they’re delivering compute to their employees?
+David Henshall
+Yeah. Heather, I think, it’s a combination both from a CIO standpoint, as well as executive leadership. On the executive leadership side, there is a perception pre-pandemic that remote working wasn’t necessarily working. I think it’s been that it’s probably been the single biggest eye opener for a lot of people is the recognition that remote work is actually way more productive in some instances.
+And so when you look at the research that our research team has done Stanford Economic Institute, a number of different organizations, the conclusion is that most businesses are looking at adopting a much more programmatic approach to flexible work, anywhere from one day a week, three days a week, you see us significantly higher than it has been.
+And again, the one constant there is that the need to provide a level of infrastructure that gives people the resources, the access, the security, the visibility, et cetera, that they need regardless of where they happen to be working.
+And then you kind of take a big step back and you think about what we have been discussing for the last couple of years around the future of the work, how we as an organization and our Workspace can help remove a lot of the noise that comes with work, automating and simplifying a simple tasks, engagement with your underlying systems of record, so that we can help from -- everything from a deployment standpoint and employee productivity standpoint, and everything in between. So I think it’s going to be a material change for quite some time.
+Heather Bellini
+Great. Thank you so much.
+David Henshall
+Thanks, Heather.
+Operator
+Our next question comes from Mark Moerdler with Bernstein Research.
+Mark Moerdler
+Thank you very much and congrats on the strong quarter. If you don’t mind, I’m going to ask a couple of related questions. Your SaaS ARR is up nicely Q-over-Q, while your paid subscribers, ex the healthcare organization was up modestly. Are you seeing an increase in revenue per success subscriber and then follow-up?
+David Henshall
+Yeah. Mark, we only haven’t broken out revenue by paid subscribers really depends on the solution that they’re adopting. Longer-term what we’re obviously looking for is strategically to get people onto the Workspace platform that is really the horizontal platform layer that is applicable to every single user in the enterprise, regardless of whether they’re a power user and they need all of the capabilities that come with a full virtual infrastructure or whether they’re just using a couple of SaaS applications and Office 365. We can provide value and incremental capabilities.
+And then once we’re in that platform, it allows us to better segment users to be able to add on incremental capabilities like analytics, like different forms of connectivity and contextual items. And so strategically that’s really where we’re driving, much more of a better segmentation of users versus just trying to put everybody on the most expensive SKU.
+Mark Moerdler
+That makes sense. Question, we’ve seen some software companies having COVID impacting net cash from operations and yet yours is quite strong. Are you seeing any delayed with payment terms or payment delays or anything else or given the criticality clients just paying as normal?
+Arlen Shenkman
+Hi, Mark. It’s Arlen. I think, we haven’t seen anything out of the ordinary. We, certainly, we had a very strong cash flow for the quarter and I think that’s really reflective of the breadth and the scope of our customer base, obviously geographically, as well as across industries. And we’ve had, what I would say, a handful of requests around extended payments, but generally, we’ve had pretty much business as usual in terms of our cash flow and our ability to collect.
+Mark Moerdler
+Perfect. Apologize. One last one, are you seeing any conversion of the short-term term licenses to perpetual or longer-term term or anything yet or is that in the future?
+Arlen Shenkman
+Yeah. I think that’s in the future. That’s certainly as you know in the first quarter we had a fair number of those that obviously tailed off in the second quarter to an immaterial amount. And as we exit the year and approach the beginning of next year, we’ll be very focused on converting those customers.
+Mark Moerdler
+Beautiful. Really appreciate and again congrats.
+Arlen Shenkman
+Thanks, Mark.
+David Henshall
+Thanks Mark.
+Operator
+Our next question comes from Raimo Lenschow with Barclays.
+Raimo Lenschow
+Hey. Congrats from me as well. David, can you talk a bit -- a little bit about the dynamic you have pointed out in your letter around people just maybe taking it in between step of on-premise term and then only later going to like the pure cloud cloud and in terms of like, is that just kind of to sweat the asset on the on-premise side, what are drivers there? And talk a little bit about the implications that’s you highlighted on the revenue side as well in your letter?
+David Henshall
+Sure, Raimo. I think, it’s less about sweating the assets and more just a recognition that 90% plus of our installed base is still on-premises. It was the easiest thing for a lot of them to do to just expand as they were making a rush to put people into a remote work environment back in the end of Q1 timeframe.
+So I think it’s an interim step. That’s the way we’re looking at it right now. I mean, those customers that have already made the move to cloud, we have one large financial institution for example. But they came to us, and said, I have no idea where we would have done with our tens of thousands of individuals have we not made those investments in the cloud already. So I -- there is a recognition that cloud consumption…
+Raimo Lenschow
+Thank you.
+David Henshall
+… Citrus Cloud, public cloud, et cetera, will continue to increase and probably accelerate due to this environment and the flexibility that it affords. But for us it’s just a matter of individual steps. As we talked about last quarter, customers were focused on more of the triage mode in Q1 and early Q2. And because of that, we’ve seen a number of projects, the larger projects like the cloud conversion just gets pushed out a little longer and so no change directionally, just a matter of sequencing.
+Raimo Lenschow
+And -- okay. One follow-up like if I look at the geographic split like it looked like Europe, Asia was doing a lot better than the Americas. Like is that kind of like where we are with COVID or is that kind of more kind of subscription in the U.S. versus more on-premise in the other regions, like, can you talk to that a little bit? Thank you.
+David Henshall
+Raimo, I think, the primary driver there was just the fact that the Americans had a blowout Q1. They were up well over 20% in the first quarter and so, probably, pulled business out of Q2 into Q1, I mean, the largest indicator and then there is mix underneath that. But I would look at it more from a first half performance across all the regions.
+Raimo Lenschow
+Yeah. Perfect. Thank you. Congrats.
+Operator
+Our next question comes from Walter Pritchard with Citi.
+Walter Pritchard
+Hi. Arlen and David, wondering how you’re thinking about the fact that you end -- you’re stopping the professional sales on October 1, what impact that will have on the Q3, Q4 perpetual licensing in Q4 falls off quite a bit, even in the past as sort of pull-forward will never come [Technical Difficulty] curious on that and then had a follow-up?
+David Henshall
+Yeah. Walter, we obviously plan for this for the year and felt very comfortable announcing this is a -- on October 1st timeline. So our guidance reflects what we expect in terms of activity from our customer base as we transition off of the perpetual plus maintenance business model.
+I think in fourth quarter, obviously, we have taken that into account, right? So when you think about the fact that we’re going to no longer offer perpetual plus maintenance licenses to customers in the fourth quarter, it’s reflected and how we are thinking about the business, and obviously, that creates somewhat of a headwind depending on the mix and how we think about the performance through that quarter.
+Walter Pritchard
+And then just a question on the networking side, I’m curious if you’re seeing any uptick in attach around NetScaler and related products to Workspaces, just given what’s been really heavy activity in that area, a little bit of color there would be helpful?
+David Henshall
+Yeah. I mean.
+Arlen Shenkman
+Yeah. Walter, if you…
+David Henshall
+Go ahead.
+Arlen Shenkman
+If you step back and think about networking, I mean is, I think, yes, you’re seeing more and more attach from the Workspace and part of that was just a way the contexture of the underlying solutions is going.
+As we’ve moved to much more of a software approach, much more of as a service approach, it’s just gives us a lot more flexibility to reposition many of these technologies, for example, as Workspace connectivity, Workspace performance, Workspace security and the story around better together is absolutely real.
+In the broader networking area, as you saw in our letter, we had a really pronounced uptick across the amount of subscription versus on-prem or hardware revenue. That’s just a trend that’s been in place for a while and it’s continuing right now. I think that’s something that we should expect on the straight line, but directionally up into the right for quite some time.
+Walter Pritchard
+Okay. Thank you.
+Operator
+Our next question comes from Sanjit Singh with Morgan Stanley.
+Sanjit Singh
+Thank you for taking the question. I wanted to ask about the VPN replacement opportunities, which seems to be a focus for the company in Q2. David is there any way you could sort of size that opportunity for us as COVID hit and customers move to remote work posture. How much of that is sort of a real time demand was or customers sort of leaned into that option for remote work. And what do you see as the opportunity whether it’s from a devices or users or a customer perspective to convert those VPN connections to its remote desktop?
+Arlen Shenkman
+Yeah. Sanjit, I think, it’s actually -- it’s a much longer opportunity, it’s probably still the predominant way that people access their network, even though it’s somewhat of an old technology, it’s in place and so VPN replacement with a more modern approach to a digital workspace that provides a different level of, not just conductivity, but a different level of productivity and engagement and kind of a holistic nature of delivering resources to employees is the broader way to think about this over a period of time.
+And so, I think, there a lot of companies that have had VPN in place or just extended that. It’s easy, it’s relatively cheap, but now they’re coming back and recognizing the constraints on that, whether it’s performance or just some of the other attributes we’ve talked about that are necessary to give people access to everything they need to do their job and then continue to be productive. So I wouldn’t look at it as a benefit in the short-term but much more of a -- I guess we call it a secular change over time.
+Sanjit Singh
+Understood. And then as a follow up question, it sort of goes back to the conversation on cloud, you seem to hit that, right now there is some app modernization projects or cloud initiatives that are just frankly tough to do in the current environment. But as you look at the Citrix customer base, what are their key friction points in terms of moving to cloud, what are some of the considerations that they have to deal with or the obstacles that they have to get through to more aggressively move to a cloud posture?
+David Henshall
+I think it’s just a combination of looking at the other projects in the broader economic situation. Clearly most enterprises have been somewhat distracted over the last three months, four months. And so large digital transformation type projects have just been pushed out a little bit, so just a timing activity in my mind.
+I mean, when you look at the things that we’re doing as an organization both by ourselves and with great partners like Microsoft. The idea there is just to make it as easy as we can for customers to migrate existing infrastructure and adopt public cloud and Citrix Cloud. And so that’ll be a combination of individual tools that help ease migration, as well as simple things like joint packaging and others just to remove the friction across the entire project space.
+Sanjit Singh
+Appreciate. Thank you, David.
+Operator
+Our next question comes from Brent Thill with Jefferies.
+Brent Thill
+Good morning. The number of paid subs in the cloud declined 3% sequentially in Q2. And you noted that the customers trading up to the cloud offering is not progressing at the rate you anticipated coming into the year. What do you think is holding that back and is there anything you need to do from your side or is this more just the burst of perpetual that’s helping right now?
+Arlen Shenkman
+Brent, I think, if you think about the decline in paid users. That’s clearly the reflection of a customer who is not in a position to make a very large transformation of their environment and I think that’s also reflected a bit of what David had said in the letter around our TTU motion.
+And so, while I think, we continue to know that business resiliency and continuity are incredibly important to our customers, many of those customers are continue buying what they’ve deployed because it works and it’s utilized and engaging for their employee base.
+And ultimately, they will get there at their own rate and pace, but it will take them some time and that’s what’s reflected in kind of our guidance and what you’re seeing in terms of the conversation about the number of users.
+Brent Thill
+Great. Thanks.
+Operator
+Our next question comes from Matt Hedberg with RBC Capital Markets.
+Matt Hedberg
+Hi, guys. Thanks for taking my questions. I wanted to go back to the expanded relationship with Microsoft. I guess maybe Arlen for you, when you think about your guide this year, are you guys just assuming more run rate business with that obviously longstanding relationship or how -- I guess, what I’m trying to get at is, you talk about Microsoft leading sales of Citrix Cloud? Is there any assumption in that guide that we might see a bit of more of a tailwind from Microsoft?
+Arlen Shenkman
+So, I think, Matt, when you think about the relationship for this year, we’re really focused and frankly into ‘21 about making sure that we’re holistically approaching our customers and we’re part of that conversation as they think about the transition to the cloud.
+And I think a fair amount of this discussion about TTU and about customer landscape transformation is much better addressed with Microsoft and Citrix together at the table in a way that is multifaceted and holistic around our relationship in terms of roadmaps and selling motions, and things of that nature.
+So, I think, that it’s clearly part of our long-term strategy is to be close to Microsoft and I think it has a long-term positive impact in our business, but I wouldn’t look at it and it’s quarter-to-quarter, year-to-year in terms of it’s going to be a separate driver.
+Matt Hedberg
+That’s helpful. And then, obviously, you talked about this -- the bespoke licensing offerings, it’s not really impacting the quarter ending I think in April. Could you talk about though how business progressed through the quarter? Obviously, you guys are coming off a strong Q1. But just did things sort of trend normally this quarter from month-to-month basis?
+David Henshall
+Yeah. I’d say it was actually better linearity than I’ve seen in a while, it was relatively straightforward quarter. I mean, it was less back end loaded than you see in a traditional enterprise software model. And it’s just back to the fact that, customers are looking at their environments or looking at all this work-from-home that we’ve talked about and they’re focused on high priority projects.
+And it’s one of the reasons why some of these big transformational type things are pushed out into the second half of the year. But the business was very stable, and probably, more so than it’s been in the last year or two.
+Matt Hedberg
+That’s great. Super helpful. Thanks, David.
+Operator
+Our next question comes from Jason Ader with William Blair.
+Jason Ader
+Yeah. Thank you. I had couple of modeling questions. As you shift away from a perpetual model, should the support and services line see further deceleration from here in terms of year-over-year declines? And then, secondly, how does the impact from the perpetual change effect Q4 and Q1 sort of normal seasonality for Citrix where we have see that the significant positive impact in Q4 and negative impact in Q1?
+Arlen Shenkman
+So I would think, Jason, in terms of the modeling, I think, we can think of this as a decline, I think, that’s pretty clear. And if you look at our trend on product and license over the past several quarters and we’re down 8%, this quarter, but we’ve been -- have a larger acceleration in other quarters. So I think you definitely should think about that as being down.
+I think that, the issue in the fourth quarter as we articulated in terms of our exiting the perpetual plus maintenance business. Obviously, the real revenue outcome is highly dependent on the mix of that business and the impacts of 606. So, I think, again, you should think of that in terms of how we guided and thought about our quarter, and the headwind that’ll represent for us as we exit the year.
+Jason Ader
+And on linear -- on the seasonality?
+Arlen Shenkman
+Again, it’s included in our guidance and our seasonality is essentially, obviously, fourth quarter tends to be a large quarter for us. And then you should keep in mind the impact of that business model change, which is included in kind of when you extrapolate how we’re talking about the year.
+And then, secondarily, obviously, I think, that just have to look at the jobless claims this morning’s numbers and you can see that there’s still economic uncertainty as we go from quarter-to-quarter and as this environment changes on all of us.
+Jason Ader
+Thank you.
+Operator
+Our next question comes from Kirk Materne with Evercore ISI.
+Kirk Materne
+Thanks very much and congrats on the quarter. I guess just two quick ones. I realize you all talk about this one healthcare client that wasn’t able to sort of shift over to the SaaS model. But can you just talk about renewal rates in general on the cloud, are they basically trending in line with what you would expect better. I know you’re not going to provide anything quantitative, but maybe just any qualitative color on that? And then, secondly, you all are obviously in a work from home profile as well. Just wondering how you’re thinking about sort of sales and marketing efficiency longer term, now that you’ve been in sort of more of a virtual selling model for a couple quarters. Are there some new opportunities for efficiency on that front as you think back towards a more normalized environment hopefully in ‘21? Thanks.
+David Henshall
+Sure, Kirk. Let me take two parts of that. So, I mean, just to be clear on the on the paid users part. I mean, we had probably our largest Workspace customer in the world look for a bespoke transaction where they had a time bound opportunity to the cloud, relatively short and based on their own priorities that period has lapsed. So those licenses reverted back to being a traditional on-premise perpetual license. We’ll work to trade them up and to Citrix Cloud when they’re ready in the future. So I think that was all pretty straightforward.
+When I think about the productivity of the sales organization, maintaining established relationships and expanding those is relatively easy on a remote basis. And we like a lot of other companies have spent a lot of time and effort focused on how to be as engaging as productive as in a physical mode.
+And so, I think, we’re getting pretty good at that. We’re doing a tremendous number of remotes executive briefings and the same types of things we would be doing in a physical construct. And so we haven’t seen a whole lot of change from a sales productivity standpoint.
+When you look at our renewals of the underlying subscriptions, our grocery renewal rates have actually been increasing across any type of recurring revenue and I think a lot of that is just is -- we’ve probably talked about the last several quarters, it’s just a renewed focus on the underlying programmatic side of things. The focus on customer success driving active use and whatnot, so our underlying renewal rates have been increasing across the Board.
+Kirk Materne
+Thanks, David.
+Operator
+Our next question comes from Ittai Kidron with Oppenheimer.
+Ittai Kidron
+Thanks. Hey, guys. A couple of questions from me. First, Arlen, I think, last quarter you talked about 1,000 new customers in the quarter, any chance you can give us some sort of a benchmark what was the performance this quarter? And then as a follow-up also on the SSP customer that moved to subscription, what are the odds we see the third one moving as well and if so, how do I think about timeline there?
+David Henshall
+So on a third SSP, I think it’s a matter of their decision. Obviously, we’re actively engaged with them. I think it will happen over time. I don’t think I can give you a quarter for that. Obviously, we take into account when we think about how we guide the business and provide a mix of subscription. But I think we will get there it will just take some time and we’ll continue to work on that.
+On the new customer, I think, last year we were -- I think it’s consistent. I would think of it as 1,000 or 2,000 new logos a quarter. I think last year we’re in that five to eight, I mean, something you can think of it as a similar type business obviously we had 400,000 customers. So, in terms of adding new logos, we have a very broad and diverse and global customer base.
+Ittai Kidron
+Very good. Good luck guys.
+David Henshall
+Thanks.
+Operator
+And our next question comes from Robert Majek with Raymond James.
+Robert Majek
+Thanks. As you start to convert some of the enterprise seats from discounted short-term licenses to longer term contract deals. Can you just help us understand what the uplift could be on a per seat basis?
+David Henshall
+I think that would be consistent as with what we’ve articulated in terms of 35% uplift in a seat license to the cloud. And I know, I think that the way to think about that Robert is, obviously, we want to convert those customers to the SaaS customers and to get them to have the additional functionality around security and analytics, and engaging with our employees if they get being on our SaaS platform. So I think that’s consistent and that will be our selling motion. And obviously, that will start to happen as we come into the beginning of next year and think about those users.
+Arlen Shenkman
+And Robert, I also think it’s important to point out that, if you remember, we excluded a lot of those tens of millions of dollars from our ARR calculation. And so, when those are converted to permanent licenses, those will come back in and be a tailwind to ARR.
+Robert Majek
+Thank you.
+Operator
+And I’m not showing any further questions at this time. I’d like to turn the call back over David for closing comments.
+David Henshall
+Great. Well, thanks, everybody for joining us. I just want to leave you with a few parting thoughts. Citrix is a workspace company, we’re enabling employees with a secure and consistent work experience wherever work needs to get done, whether that’s at home, in the office or really any place in between. Our subscription business model is obviously on track and it’s been supported by a great first half of 2020.
+As we’ve talked about here, today the pace of customers moving the big large workloads from on-premise to the cloud is likely impacted by economic conditions and shifting priorities. So our focus along with strong relationships with partners like Microsoft is going to be on aligning and making this transition as easy and successful as possible for these customers.
+So I’ll leave it at that and we look forward to speaking with many of you throughout the course of the quarter and on our third quarter earnings call. Have a great day.
+Operator
+Ladies and gentlemen, this concludes today’s presentation. You may now disconnect and have a wonderful day.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

@@ -1,0 +1,273 @@
+Intel Corporation (NASDAQ:INTC) Q3 2019 Earnings Conference Call October 24, 2019  5:00 PM ET
+Company Participants
+Trey Campbell - Head of Investor Relations
+Bob Swan - Chief Executive Officer
+George Davis - Chief Financial Officer
+Conference Call Participants
+CJ Muse - Evercore
+John Pitzer - Credit Suisse
+Joe Moore - Morgan Stanley
+Ambrish Srivastava - BMO Bank of Montreal
+Pierre Ferragu - New Street Research
+Stacy Rasgon - Bernstein Research
+Timothy Arcuri - UBS
+Ross Seymore - Deutsche Bank
+Vivek Arya - Bank of America
+Harlan Sur - JPMorgan
+Operator
+Ladies and gentlemen, thank you for standing by and welcome to the Third Quarter 2019 Intel Corporation Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speaker’s presentation there will be a question-and-answer session. [Operator Instructions] As a reminder, today's program is being recorded.
+And now I'd like to introduce your host for today's program, Trey Campbell, Head of Investor Relations. Please go ahead sir.
+Trey Campbell
+Thank you, operator, and welcome everyone to Intel's third quarter earnings conference call. By now you should have received a copy of our earnings release and the earnings presentation. If you've not received both documents, they're available on our investor website intc.com. The earnings presentation is also available in the webcast window for those joining us online.
+I'm joined today by our CEO, Bob Swan; and our CFO, George Davis. In a moment, we'll hear brief remarks from both of them followed by Q&A.
+Before we begin, let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it and as such does include risks and uncertainties. Please refer to our press release for more information on the specific risk factors that could cause actual results to differ materially.
+A brief reminder, that this quarter we have provided both GAAP and non-GAAP financial measures. Today, we will be speaking to the non-GAAP financial measures when describing our consolidated results. The earnings presentation and earnings release available on intc.com include the full GAAP and non-GAAP reconciliations.
+With that, let me hand it over to Bob.
+Bob Swan
+Thanks ,Trey. Q3, 2019 was the best quarter in our company's history. We generated $19.2 billion in revenue and a $1.42 in non-GAAP EPS, exceeding our guidance by $1.2 billion and $0.18, respectively. We've achieved record revenue both overall and in our data centric businesses while making continued progress on our strategic priorities.
+Simply put, our ambitions have never been greater. We are growing share in a large and expanding $300 billion market opportunity fueled by the exponential growth of data, which is reshaping computing.
+I want to start with a recap of our May Analyst Day and our three priorities; accelerating growth, improving execution, and deploying capital for attractive returns. First, growth. It starts with the core belief. We are at a key inflection point with the exponential growth of data creating massive demand for semiconductors. Cloud workloads are diversifying, networks are transforming, and more computing performance is moving to the edge.
+We've been on a multi-year journey to reposition the company's portfolio to take advantage of this industry catalyst. Today we have the product and technology leadership that uniquely positions us to capitalize on these trends and we're investing in the IP required to help our customers win the inflections of the future.
+The opportunity is massive. As we told you in May, we expect to generate $85 billion in revenue and $6 in EPS in three to four years. But that doesn't happen just by saying it. Achieving this goal means delivering on our operational and financial priorities every 90 days.
+Growth starts with our core business for our workload optimized platforms are winning in a highly competitive marketplace. It's now been nine quarters since the first Xeon Scalable processor launched and we're proud to have delivered over 23 million units as customers rely on Xeon to power their data-centric workloads.
+In the third quarter, leading cloud customers ramped our second-generation Xeon Scalable processors with AWS, Google, and Alibaba deploying instances based on Cascade Lake. Customers including BP and TU Darmstadt selected our highest performance Xeon Scalable platform, the 9200 series for their most demanding workloads.
+One key reason customers are choosing Xeon Scalable is the platform's built-in workload acceleration for AI. With the combination of Intel deep learning boost and AVX-512 technologies, we're seeing advantages of up to 9x in AI influence versus competitors' CPUs.
+We also see cloud and enterprise momentum building for our breakthrough memory technology, Intel Optane. This quarter we announced a strategic collaboration with Oracle. Oracle is incorporating the high performance capabilities of Intel Optane, DC persistent memory into its next generation Exadata platform, which powers high performance database infrastructure at most of the world's leading banks, telecoms, and retailers.
+And in Client Computing, we're excited that all our major PC OEM customers have Ice Lake designs with 18 already shipping out of a total 30 expected to launch this year.
+We recently announced the next generation of Intel Xeon W- and X-series processors for high-end desktops. These platforms lead the industry in bringing Intel deep learning boost powered AI acceleration into high-end PCs and mainstream workstations for the first time.
+Available soon, these products deliver performance and value that give enthusiasts and creators more reasons to keep choosing Intel. We've also embarked on a multi-year program called Project Athena that charts a course for the PC ecosystem to raise the bar on laptop innovation.
+Amazing devices like the Dell XPS 13, two-in-one, and the HP Elite Dragonfly, that meet the Project Athena spec are already available. Our PC and server franchises are vital, but our ambitions are even greater.
+We're extending our product leadership to power, and increasing the 5G and AI enabled world. We have multi-billion dollar networking and IoT edge businesses, delivering double-digit growth, and AI is driving significant revenue across our product portfolio.
+We began investing 10 years ago in network, IT, SOC capabilities, and software, so that we could drive workload convergence on Intel's silicon. Today, we achieved number one share in the network and silicon market, with expected 2019 revenue of more than $5 billion growing at 12% this year.
+We're also well positioned for 5G deployments in 2020 and expect to grow our market segment share and wireless base stations to 40% by 2022. And we're ready for the next market inflection as 5G enabled significant new IoT and edge growth opportunities that extend from in-network and on-premise edge equipment to smart connected endpoints.
+Winning here means blending the right compute performance per watt with the emerging killer apps of the edge. Computer vision and AI Inference acceleration, these are the differentiating capabilities that have propelled our IOTG and Mobileye businesses to leadership share and a combined annual revenues approaching $5 billion.
+The businesses are also growing quickly, up 18% year-to-date excluding Wind River. We're only at the bend of the curve in the edge opportunity, and we're investing to lead.
+Finally, Artificial Intelligence. AI is becoming a pervasive use case. According to IDC, 75% of enterprise applications will use AI by 2021, and that's why we're infusing AI in everything we build.
+But this isn't just about the future. We are driving meaningful AI revenue Inside Intel now. With products spanning from the Data Center to the Edge, we expect to generate more than $3.5 billion in AI driven data-centric revenue in 2019, up more than 20% year-over-year.
+We're confident in our growth, but we also need to improve our execution on multiple fronts. First, supply, we've increased our output in response to stronger-than-expected demand.
+We've invested record levels of CapEx the last two years to expand our capacity and support our customers' growth. With that investment, we've increased our 14-nanometer capacity 25% this year, while also ramping 10-nanometer production.
+We expect our second-half PC client supply will be up double-digits compared to the first-half, and we expect to further increase our PC client supply by mid-to-high single-digits in 2020, but that growth hasn't been sufficient.
+We're letting our customers down, and they're expecting more from us. PC demand has exceeded our expectations and surpassed third-party forecasts. We now think the market is stronger than we forecasted back in Q2, which has made building inventory buffers difficult. We are working hard to regain supply demand balance, but we expect to continue to be challenged in the fourth quarter.
+Our manufacturing process node execution is also improving. We have Fabs and Oregon in Israel and volume production on 10-nanometer and will soon start 10-nanometer production in Arizona. Yields are improving ahead of expectations for both client and data center products.
+The Intel 10-nanometer product era has begun and our new 10th Gen Core Ice Lake processors are leading the way. In Q3, we also shipped our first 10-nanometer Agilex FPGAs. And in 2020, we'll continue to expand our 10-nanometer portfolio with exciting new products including an AI Inference Accelerator, 5G base station SoC, Xeon CPUs for server storage and network and a discrete GPU. This quarter we've achieved power on exit for our first discrete GPU DG1 an important milestone.
+As we discussed at the May Investor Meeting, we are accelerating the pace of process node introductions and moving back to a two to two-and-a-half year cadence. Our process technology and design engineering teams are working closely to ease process design complexity and balance schedule, performance, power and cost.
+We are on track to launch our first 7-nanometer based products, a data center focused discrete GPU in 2021 two years after the launch of 10-nanometer. We are also well down the engineering path on 5-nanometer.
+Last, a few thoughts on our capital deployment priorities. We are confident in our future and our Board has approved an additional $20 billion share buyback authorization. We have an excellent balance sheet generate strong free cash flow and continue to invest in R&D and CapEx to grow.
+We've also returned 100% free cash flow to shareholders over the last 10 years. At the same time we're making trade-offs. While we've increased R&D spending by more than a $1 billion since 2015, we have reduced our total spending by nine points over the same period. Additionally, we have established clear criteria for our big bets like Mobileye, 5G and memory and storage.
+Our ambitions are to play a larger role in our customers' success and generate attractive returns for our shareholders. And if we can't do both, we'll take swift action. We are making great progress with our Mobileye acquisition. We've now shipped over 12 million IQ devices this year, up more than 40% over the same period last year. And in the third quarter, we delivered record revenue and secured six major new design wins totaling nearly 10 million lifetime units.
+We've increased our investment in 5G, but we've also announced our 5G smartphone modem exit and the sale of the IMFT fab to Micron. We expect those to close in the fourth quarter and we continue to take steps to improve 3D NAND profitability and reduced memory CapEx investments, while evaluating a variety of partnership options that can accelerate the path to profitability and improve returns.
+We are confident in our multi-year business plan and consistent with that we are increasing our buyback commitment. We expect to repurchase approximately 20 billion shares over the next 15 months to 18 months. We will fund the buyback from proceeds we generate from partnerships and/or non-core asset dispositions and by returning approximately 100% of 2020 free cash flow to investors.
+In summary, our energies are focused on accelerating our growth, improving our execution and allocating our capital wisely. Thanks to the team for a great quarter.
+And now, I'll hand the call over to George for more details on our Q3 results and business outlook.
+George Davis
+Thanks Bob, and good afternoon everyone. We had an outstanding Q3, with record revenue of $19.2 billion approximately flat year-on-year, and $1.2 billion higher than guide. We saw a record data-centric revenue of $9.5 billion, representing just under 50% of our total revenue an all-time high. DCG, IOTG, NSG and Mobileye, all individually achieved record revenue in the quarter. PC-centric revenue was down 5% year-on-year on a very tough compare.
+Q3 operating margin was approximately 36%, one point ahead of our guide on revenue strength and spending leverage. Gross margin for the quarter was 60.4%, modestly below expectations as strong flow through of higher DCG revenue was more than offset by mix effects of higher than expected NAND revenues and one-time impacts in NSG including the absence of an expected grant associated with our NAND factory.
+Q3 EPS was $1.42 $0.18 above our guide. The results demonstrate strong top line performance, expense discipline, increased share buybacks as well as non-operational factors like lower tax rate offset by the one-time items in our NSG business. Year-to-date, we have generated $11.7 billion of free cash flow and returned $14.3 billion to shareholders.
+Operating margin of 36% in the quarter was down approximately four points versus last year as ASP strength in our server and client businesses and lower spending were more than offset by NAND pricing degradation, changes in modem reserves, platform volume declines and higher cost as we ramp our 10-nanometer client products.
+EPS was up 1% or $0.02 year-over-year as lower operating margin was offset by lower share count, the absence of one-time impairments related to the IMFT joint venture and a lower tax rate.
+Our non-GAAP tax rate in Q3 was approximately 11%, down one point versus last year and below our 13% guide. As we reported a better than expected tax benefit related to our non-U.S. sales on our recently filed 2018 U.S. tax return as well as for the 2019 tax year.
+Let's move to segment performance. Our Data Center Group had record revenue at $6.4 billion, up 4% from the prior year on our recently filed 2018 U.S. tax return as well as for the 2019 tax year.
+Let's move to segment performance. Our Data Center Group had record revenue at $6.4 billion, up 4% from the prior year and up 28% sequentially. These results beat our expectations with platform ASPs up 9% year-over-year on strong adoption of our highest performance second-gen Xeon Scalable products.
+Against the tough year-over-year compare, platform units were down 6% while DCG adjacencies achieved 12% revenue growth driven by our connectivity solutions. DCG growth segments, cloud and comms, now represent over two-thirds of total DCG revenue.
+Cloud revenue was up 3% year-over-year. Returning to growth after a historic 2018 platform refresh as cloud service providers exited a three quarter passivity absorption cycle.
+Enterprise and government revenue came in ahead of expectations growing 1% on strong mix and better China demand while communication service provider’s revenue increased 11% on continued adoption and share gains of IA-based solutions.
+We estimate in Q3 that the enterprise and government and communications service provider segment benefited from trade-related demand pull-ins of approximately $200 million in revenue from Q4. As a result of the strong top line performance, DCG achieved record quarterly operating income and operating margin of 49% was up 13 points sequentially.
+Our other data-centric businesses were up 13% year-over-year, and Q3 marked IOTG's first $1 billion revenue quarter, up 9% year-over-year, underscoring Intel's expanding opportunity at the edge. IOTG operating income was down 4% year-over-year due to lower benefits from inventory reserves and a mix shift to lower margin products. 
+Mobileye revenue and operating income were up year-over-year 20% and 29%, respectively on continued ADAS penetration and new program launches.
+NSG revenue return to growth, up 19% on continued bit growth, partially offset by year-over-year pricing declines. These pricing declines along with the one-time impacts discussed earlier contributed to NSG's operating loss of approximately $500 million. PSG revenue grew 2% year-over-year on continued strength in wireless, partially offset by softness in Cloud and Enterprise. And operating income was down 13% on segment product mix.
+DCG revenue was $9.7 billion, down 5% year-over-year as ASP strength, partially offset lower platform volume. PC unit volumes were down 10% versus Q3 2018, where we benefited from drawing down internal inventory to satisfy demand. We continue to be supply constrained in Q3, particularly at the value end of the market as higher than expected PC demand strength continues to outpace our supply despite the capacity additions that Bob discussed earlier.
+Adjacencies grew 10% year-over-year, driven by strong demand for modems and connectivity solutions. Operating margin was 44% flat year-on-year as lower revenue was offset by lower spending driven by the 5G smartphone modem exit. Year-to-date, we have generated $23.3 billion in operating cash flow and invested $11.5 billion in CapEx.
+We also returned 122% of free cash flow to shareholders through dividends and buybacks. During the quarter we ramped buybacks purchasing 92 million shares at an average price of $48.78 per share.
+Now moving to the full-year outlook. As a result of our strong Q3 operating performance and momentum into Q4, we are increasing our revenue outlook for 2019 by $1.5 billion to $71 billion. We expect revenue from our data-centric businesses to be flat to slightly up for the full year and expect our PC-centric business to be flat to slightly down both improving versus prior guidance.
+Operating margin for the year is expected to be approximately 32.5%, up 0.5 point from our prior guide. Full year expectations for gross margin are unchanged at approximately 60%. We expect Q4 gross margin to be down two to 2.5 points sequentially as we continue to ramp 10-nanometer and will have sold through the previously reserved inventory consistent with prior expectations.
+Expectations for full year spending are unchanged, down approximately $900 million year-on-year. As a result, non-GAAP EPS for the year is now expected to be $4.60, up $0.20 from our July guide on the strong top line performance and tight expense control. We are raising gross CapEx by $0.5 billion to $16 billion, as a result of increased 10-nanometer and 7-nanometer investments. And we are raising our free cash flow guide by $1 billion to $16 billion.
+Let's turn to Q4. After adjusting for the impact of trade related pull-ins in DCG, we expect Q4 revenue of $19.2 billion, up 3% year-over-year and flat sequentially. Data-centric businesses are expected to be up 6% to 8% year-over-year on continued cloud recovery and sequential NAND pricing growth.
+Our PC-centric business is expected to be flat to slightly down year-over-year. We expect Q4 operating margin of approximately 33.5% and a tax rate of 13.5%. EPS is expected to be $1.24, down sequentially on lower gross margin, lower below the line non-operational benefits and a higher tax rate. In summary, we are very pleased with the Company's strong operating performance and we will be very focused over the quarter on delivering a record year.
+With that, let me turn it back over to Trey.
+Trey Campbell
+All right. Thank you, George. Moving on now to the Q&A, as is our normal practice, we would ask each participant to ask just one question. Operator, please go ahead and introduce our first caller.
+Question-And-Answer Session
+Operator
+Certainly. Our first question comes from the line of CJ Muse from Evercore. Your question please.
+CJ Muse
+Yeah. Good afternoon and thank you for taking the question. I guess a question on the data center side, it's just it's – to square up the numbers, it looks like you're suggesting DCG, up maybe 5% year-on-year. So, can you speak to the accuracy of that, and then I guess bigger picture the comm service provider side clearly a very large source of strength for you guys, up 11% year-on-year and now representing more than 40% of the mix. So, curious if you can kind of speak to the most important drivers of that business and how you're thinking about growth over the next one, two, three years? Thank you. 
+Bob Swan
+Yeah. Thanks, CJ. First, you're – we gave a DC centric guide of 6% to 8%, and yeah, I would – we didn't get DCG specifically, but I would say it's a little bit lower than our 6% to 8% data center growth. So, you're in the ballpark.
+On comm service, the comms this has been an extremely important aspect of the business for a number of years now where we've seen the programmability at the network with NFV and software defined networks, an opportunity for us to migrate the networking environment to IA architecture. So, we've been doing this for a number of years, it's been a source of growth for us over time. And in the quarter, the 11% growth was significant in and of itself, but remember last year's third quarter was also up in the mid-to-high 20s.
+So, we continue to make great progress. What we see going forward in this business is really a big opportunity in 5G so next year you're going to see – yeah, our good progress has been on 3G and 4G, next year we see real design wins that we've achieved real growth as we go into it a 5G world where we continue to see what we characterize as cloudification of the network. More and more compute moving from the cloud and data centers out to a network in edge and that's been an opportunity for us that we've been invested in over the past, and we expect to be a big source of growth for us going forward. Thanks CJ.
+Operator
+Thank you. Our next question comes from the line of John Pitzer from Credit Suisse. Your question please.
+John Pitzer
+Yeah. Hi. Good afternoon guys. Congratulations on the solid results. I want to stick with DCG Bob. If you look impressive that ASPs were up 9% year-over-year, especially as the mix shifted toward the comms business, which I believe tends to be lower ASPs. It's also happening in the quarter, where you're seeing your competitor ramping their next generation chips. So, I guess I'm trying to understand, what's the power of the Xeon Scalable upgrade cycle you referred to in your prepared comments, what innings are we in, in your mind, how much of an ASP lift can that give you, and do you anticipate any unusual pricing action as competition heats up in this market?
+Bob Swan
+Boy, was that your one question, John?
+John Pitzer
+Multi – multiple parts.
+Bob Swan
+Yeah. Okay. So first I'd say in our – yeah, obviously we're well into Skylake, but the transition now is in the Cascade Lake and that's a higher performance SKU. In the quarter, the high ASPs were really driven by particularly cloud customers really move into the highest-end product within the Cascade Lake family. So, we're seeing the transition from Skylake to Cascade Lake and within Cascade Lake a real high performance SKU, that's our highest, highest performance ASP.
+So, that mix dynamic in Q3, I don't expect that to stay where it is. I think we'll go to more of a balance as we get into Q4 next year. And in terms of competitive dynamics, I would just say that we've got a great lineup of products. We got Skylake to Cascade Lake; first half of next year, we're looking at Cooper Lake. As we talked before, we're really excited about Ice Lake server coming out in the second half of next year, and we realize that it will be a more competitive environment and we've tried to capture in essence on how we think about 2020's both demand – demand equation, but also the margins that we flagged a little bit on the – on our Q2 call or back at Analyst Day, I think. So good, good quarter, good momentum first half to second half, high performance SKUs driving real high ASPs even though you're right. The ASPs with comms have a tendency to be a little bit lower. I think that's...
+John Pitzer
+Perfect. Thank you.
+Bob Swan
+Thanks John.
+Operator
+Thank you. Our next question comes from the line of Joe Moore from Morgan Stanley. Your question, please.
+Joe Moore
+Great. Thank you. I wonder if you could talk to the shortages a little bit more. And, I guess, in the context of how much you said you brought 14-nanometer capacity up. And I realize demand is better, but it seems like it’s a few points better and yet the shortages are intensifying. Can you just talk a little bit about that and when do you think we'll be in a position where you don't have those tensions in your business anymore?
+Bob Swan
+Yeah. Thanks. Thanks, Joe. First, I'd just kind of try to put it into context. Over the course of the last three years, I guess, we've grown the business by about 20%, so $13 billion in revenue over the last three years, and the practical reality is we didn't anticipate that kind of explosive growth three years ago, so we didn't have the capacity in place to deal with it, and we've been working our tails off for the last 12 months to ensure for our customers that we wouldn't be a constraint on their growth.
+From the last two years, I think, as you know, we've spent over $30 billion in CapEx to both, have more capacity for 14, while we also begin to ramp 10. In my prepared comments I said, we added 25% wafer start capacity 2018 to 2019.
+Our first half to second half unit volume will be up double-digits. So we're making good progress throughout the course of the year, but our expectations were in the second half, we would be back in a supply/demand equilibrium. And the fact of the matter is we're not there, because the demand profile that's resulted in our $1.5 billion higher revenue is just higher than we had anticipated. So we have more work to do to meet our customers' demands in the fourth quarter and going into 2020.
+As we see fourth quarter, we're still going to be a constraint in our customers' growth, which is absolutely where we do not want to be. But with the higher demand, we will be constraining their growth in the fourth quarter.
+But as we go into 2020, our expectations are, we'll add another 25% capacity both for 14 and 10 and that we will have particularly for PC client we expect to be able to do a mid-to-high single-digit unit volume growth next year and that we don't expect the market to grow that fast. But we got to have just more inventory buffers, so we're there when our customers need it. So Q4 will be a little challenging and 2020, we expect to be able to rectify things.
+Joe Moore
+Thank you.
+Bob Swan
+Thanks, Joe.
+Operator
+Thank you. Our next question comes from the line of Ambrish Srivastava from BMO Bank of Montreal. Your question, please.
+Ambrish Srivastava
+Hi. Thank you very much. Bob, I wanted to go to the triarchy and the cadence that you talked about bringing it back to two, two-and-a-half year. Is that -- because my understanding it is that they were just simply laws of physics that were causing the cadence to stretch out. So what problems have the engineers and the process folk solved out there and -- or is it just limited to the 7-nanometer. And then you would revisit that again? Thank you.
+Bob Swan
+Yeah it's a good question. Last -- back in our Analyst Day, we tried to go through this in quite a bit of detail, both, one, kind of our lessons learned coming out of the challenges we had with 10 and how we're capturing those lessons learned as we think about the next two generations. But first our focus and energy is right now around scaling 10.
+And, as we said, we feel very good about the capacity we put in place, the products we have coming down the pipeline and the yields that we're achieving, almost week-on-week improvement over the last six months. So for 10, we feel really good.
+Second, when we put the design rules in for 7-nanometer, we were less aggressive in terms of density. Our learning from going from 14 to 10 is with a benefit of hindsight, we were just -- we tried to scale at a 2.7 factor and that was -- that ended up putting too much invention or revolutionary nodes into the fab environment to meet those kind of hurdles and the learning from that is, we just can't hit those kind of really aggressive targets, when, to your point, the dynamics are getting increasingly challenging. So lots of learnings out of 10. Our transition to 10 that we incorporated into 7, the design the design rules there's less complexity and for the last couple of years that we've been working with EUV.
+Litho has been the challenge. We've had EUV that we've been working with for a few years now and we expect to use EUV as we scale 7. And we indicated that our first product will be two years from this quarter. So fourth quarter of 2021, our first 7-nanometer product will come out and our expectation is that we'll get back on a two-year cadence from 7 and beyond. So lots of learnings out of 10-nanometer that we've incorporated, and we said back in May and we reiterated today, we expect to be back to a two to two-and-a-half year cadence going forward at least for the next few nodes. 
+Ambrish Srivastava
+Thank you. 
+Bob Swan
+Thanks a lot.
+Operator
+Thank you. Our next question comes from the line of Pierre Ferragu from New Street Research. Your question please.
+Pierre Ferragu
+Hey, thank you for taking my question. I'll ask one question, but maybe you have [Technical Difficulty]
+George Davis
+Pierre, you are breaking up
+Pierre Ferragu
+Okay, is it better now? Okay. So my question is really that if you look at the landscapes your [Technical Difficulty] And so my question is, what's your perception on the evolution with your competitive landscape in the last three months? Are things may be in line with what you had in mind and what you were expecting when we spoke over the summer? And then how much of the footprint you have in your data center you think you can lose to competition with that in mind?
+George Davis
+Pierre, let me kind of reframe that maybe. I think you're talking about competition and how we feel about that or now maybe both of the PC and the data center level and I'll -- maybe I'll jump in on the PC, because I think the year-over-year compare on Q3 is it could be causing to some concern.
+Just a reminder in Q3 of last year, we had basically drawn down more than we can have of inventory that -- which went into the channel and so when you do compares year-over-year on Q3 PC looks a little bit like on demand.
+Really as we look over the last 90 days, we haven't seen any difference in our view of the competitive dynamics. We are clearly being impacted significantly on the value end of the market which is a supply issue for us. It's one of the reasons why we're building volume capacity -- continuing to build volume capacity into 2020 because we think it gives us an opportunity to compete for those units again next year. 
+Bob, I don't know if you want to comment on the DCG side?
+Bob Swan
+Yeah, I'll try because I'm not exactly sure I got the question. But, you know, in terms of competitiveness if that's the question…
+George Davis
+That was, yeah.
+Bob Swan
+Look it's a more competitive world. And in that world we just raised our full year outlook by $1.5 billion and increased our operating margins. So yeah, I think, competitively nothing's really changed in the last three months, six months, nine months relative to what we expected. And our -- the only thing that's really changed is our performance.
+But we do know that going into next year that our role is to dramatically expand the role we play in our customers' success. So we're expanding the product, the architectures, the packaging technologies, the process capabilities and the software that we build.
+So we can continue to deliver better and better product performance for our customers. And yeah, I'd just say that we feel -- we feel really good about where we are. But we're not complacent by any means in terms of an increased competitive environment as we go into 2020.
+Pierre Ferragu
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Stacy Rasgon from Bernstein Research. Your question please.
+Stacy Rasgon
+Hi, guys. Thanks for taking my question. I was wondering if you could tell us within your enterprise cloud and comm businesses in DCG, in the quarter, how much of each of those was driven by China?
+And given the $200 million pull forward across enterprise and cloud that you mentioned -- enterprise and comm that you mentioned, was that beef in enterprise relative to your expectations more or less than $200 million?
+George Davis
+Yeah, I think Stacy, you've got the numbers right. $200 million was on the enterprise and government and comms area and that's -- I would say it was more in line with our expectations once you take out that 200 number. We had expected it to come up a little bit, the growth year-over-year was definitely above our expectations and--
+Stacy Rasgon
+So, by more than $200 million?
+George Davis
+Yeah that was -- yeah that was -- that was a fairly big number for us relative to our expectations.
+Stacy Rasgon
+So, how much of enterprise was China then?
+Rob Swan
+Yeah. Look I think in terms of the makeup of the business for data center, you got roughly two-thirds is cloud and comms and roughly one-third is enterprise and government. So, that that as you know has changed dramatically over the years as we've continued to grow our presence in the cloud and as I mentioned earlier to Joe's question I think gained share in comms.
+So, now we're in kind of a two-third/one-third state and enterprise and government was across the Board in DCG in the quarter. The strength was much higher than we anticipated back in July. We had a first half to second half acceleration, but the acceleration was just more than we expected. And I would say we saw strength across the Board.
+But as we look at the EMG growth in particular, we're trying to determine what is kind of -- what has a tendency if they pull in versus what can we count on as we project things forward. And our best guess on our stronger performances of the $1.2 billion that we were over roughly $200 million of that was particularly related to enterprise and government, particularly related to China. Thanks Stacy.
+Stacy Rasgon
+Thank you.
+Operator
+Thank you. Our next question comes from the line Timothy Arcuri from UBS. Your question please.
+Timothy Arcuri
+Thanks so much. Bob it sounds like for 10-nanometer, it sounds like Ice Lake is still on track for the second half of next year and it sounds like the 7-nanometer GPGPU is still on track for 2021.
+You did talk about for the first time about 5-nanometer. So, can you talk a little bit about how you think of make versus outsource? And really what I'm after is sort of anything sacred or if go into a foundry partner to make CPU or maybe even like a chiplet strategy. If that would eliminate a significant piece of your competitive disadvantage, would you consider that or is that sort of off the table for now? Thanks.
+Rob Swan
+Yeah I mean first to the comment. Yeah nothing new about process relative to what we said at Analyst Day ramp 10 two year cadence for 7 and our expectations at the cadence going forward to be more at two to two and a half year timeframe. So, intently focused on 10 now and 7 for the products you mentioned in the fourth quarter. So, we're investing to recapture process leadership going forward.
+At the same time, it's going to be extremely open-minded about how do we ensure that we're building the best products and where we build them was -- is something that we will always evaluate. I think as you know with the other foundry players, they've been a source of our capacity over the years and our expectation is to the extent that they can do something to support our growth better and/or for peak kind of demands, we're always going to look at how do we evaluate the opportunity set that's going to position us best to meet our customers' demand for the growing diversity of products that we have in our portfolio.
+Timothy Arcuri
+Thanks Bob.
+Operator
+Thank you. Our next question comes from the line of Ross Seymore from Deutsche Bank. Your question, please.
+Ross Seymore
+Hi, guys. I wanted to ask on gross margin. A year ago on your third quarter call, Bob you gave some directional commentary on what you thought for the out-year for 2019. Today, as we look into 2020. You have a lot of moving parts with two nodes ramping 10-nanometer, 7-nanometer yields competition lots of moving parts admittedly. But I was hoping at least versus maybe the fourth quarter exit rate this year that you could give some puts and takes on how you're feeling about next year's gross margin?
+George Davis
+Hey, Ross. This is George. Maybe I'll take that. Actually, there is – with respect to 2020. There is no material change to my characterization on the last call, where we were talking about a 58% outlook for Q4 and 57% in 2021. And the question was well should that – are those good proxies for 2020, and my point was now we think we'll be closer to 60% than to those numbers. But, if you want to think about tailwinds and headwinds going into 2020 that we look at, as we think about that number. So tailwinds will be obviously we're going to have lower modem in the mix next year.
+Memory is starting to come out of that deep down ASP period, and we think volumes are going to be up as we get a little better supply and demand situation. The headwinds that we're very mindful of is obviously 10-nanometer ramping is – it can be a little bit of a headwind on margins, and also competitive impacts on ASPs. So, those are the – those are the things that we'll continue to look at, but as we look at those today no material change at all from my previous comments.
+Ross Seymore
+Well, thank you.
+Bob Swan
+I would probably just, I guess echo. In all the complexity and all the moving parts – George kind of flagged the – where I'd characterize the four things that we're really dialing in on. One, going into next year mix is going to be better as our modem volume will be lower and our NSG profitability will be better. So, mix is going to have a – mix has been a drag on 2019's gross margin, and it will be a big contributor as we go into 2020.
+And secondly, on the first half of 2019, we had a lot of the – on cost of sales related to pre-PRQ 10-nanometer products. So that will not repeat itself. So those two things are good favorable things.
+The third thing is just George flagged this I just simplified. There's no transition and for us no transition next year is going to be 14-nanometer, we'll be a little better in terms of its profitability. Yields won't be dramatically different because we're extremely mature. But depreciation levels will be lower, because a lot of these tools have been fully depreciated, there because we've been on that node for so long. So, for the node transition 14 will be a little bit better.
+Our expectation is 10-nanometer yields will continue to improve, but at the same time the mix of 10 versus 14 will be a little bit of a wait. So, no transition will work against us. And we also - we've tried the best we can take into account competitive dynamics as we exit this year and going into next year in our quest to play a bigger role in our customers' success. We're going to compete to protect our position and expand the role we play. So those are the four things and lots of complexity and lots of moving parts, but we – a year ago we dialed in 2019 pretty well. Now, we've got to dial in 2020 as well.
+Ross Seymore
+Thanks for all the detail.
+Trey Campbell
+Operator, I think we'll have time for two more calls.
+Operator
+Certainly. Our next question comes from the line of Vivek Arya from Bank of America. Your question please.
+Vivek Arya
+Thanks for taking my question. Bob, you mentioned you're still facing some capacity shortages. I wanted to understand how you are planning capacity for next year. What proportion will be 14? What will be 10? And will that mix require a higher or similar level of capital intensity as we saw this year?
+Bob Swan
+Yeah. I mean, our intention next year is to not be a constraint on our customer's growth first and foremost. And given that, what I indicated is we expect to increase capacity by 25% next year, which is the same kind of level that we did this year. We expect to do that again.
+So, we believe that data center we've been in pretty decent shape, but for client we just want to get to mid-single-digit kind of unit output -- mid to high-single-digit unit output. So one, we can meet what we expect customer demand profiles to be. But also -- so, we can rebuild buffer levels of inventory, so we can deal with these peaks, et cetera. So, we're trying to put the capacity in place that we think will meet the customer demand and try to give us the inventory buffer that has been depleted over the course of the last nine months or so.
+In terms of capital, and I would just say, we'll probably give you more detail on that come January, but George kind of laid out back in May a multi-year view of capital and wasn't any dramatic changes from kind of where we are now. But obviously that will be a function of growth.
+George Davis
+I would just add one thing to remind everybody is that in 2019 we made a major shift from move to spending capital in the memory area to moving that capital over to expand our -- both our 10-nanometer and some 14-nanometer, we continue to add capacity in 14-nanometer and began adding capacity at 7-nanometer as well. So, we are very focused on getting the capacity in place that will allow us to take the word shortage out of our quarterly discussions.
+Vivek Arya
+Very good. Thank you.
+Operator
+Thank you. Our final question for today then comes from the line of Harlan Sur from JPMorgan. Your question please.
+Harlan Sur
+Good afternoon and great job on the quarterly execution. Last time we had a cloud and enterprise spending digestion paused was first half of 2017. It's kind of the same setup as is passed by similar to 2017. DCG had strong second half growth, and in fact back in 2017 it kicked off what was a four or five quarter period of strong spending by your cloud customers. Do you guys get a sense in discussions with your customers that the spending reacceleration is sustainable for the next few quarters? I mean if I look at things like compute workload growth that continues at a strong pace. Workload themselves are getting more complex and so, just wanted to get your views on sustainability of this strong growth profile in DCG into next year.
+Bob Swan
+Yeah. So, to -- I think the trends, the macro trends that we see haven't subsided at all. And that is this insatiable appetite for the creation of data and the need to compute -- process store move make that data more relevant.
+Those macro trends have been very -- had been very attractive for the long -- for a while. And we expect those to continue, but to your point, the -- our experience with the cloud providers as they go through big buying cycles and then relatively long digestion periods.
+What we did experience last year was a gang -- gang-buster year. But it's been three quarters coming into the third quarter, where they went through digestions. And what we started to see in the third quarter was particularly for high performance compute started to see them come back into the market to really begin to -- begin to purchase a little bit more.
+So how long that cycle lasts is going to be a function of several variables. But yes their end demand seems to continue to be relatively strong. And therefore, they need to add capacity. We think will follow their end demand, given they have been out of the market a little bit for about three quarters now -- up to -- up till Q3.
+Harlan Sur
+Thank you.
+Trey Campbell
+Thanks Harlan. And we're going to hand the call back over to Bob for some closing comments.
+Bob Swan
+Yeah. Look thanks for -- thanks for joining us. We feel great about the quarter, it's -- we're looking at -- we had a record quarter where about raising our outlook for the full year.
+The market we see, the trends we see, are as big as they've ever been. And we're really focused on continuing to deliver for our customers. 10-nanometer area is now. We're ramping a multitude of products, we have increased confidence, in 5-nanometer.
+And as we mentioned, for seven and five getting back to a two-and-a-half two year cadence is what we're focused on. And we're confident in the future. And you're seeing both in the first nine months of the year as well as with our higher share buyback that we're putting your money where -- to work to reduce the flow.
+Because we think there is disconnect between the intrinsic values of the plan we shared with you back in May and how we're trading. So, with our balance sheet we're taking advantage of that.
+So thanks for -- thanks for joining us. Thanks for your questions. And we'll talk to you soon. Thank you.
+Trey Campbell
+Thanks Bob and George. And thank you everyone for joining the call today. Operator, could you please go ahead and wrap-up the call?
+Operator
+Certainly, thank you. And thank you, ladies and gentlemen, for your participation in today's conference. This does conclude the program. You may now disconnect. Good day.
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+10 Authors in the Last 30 Days

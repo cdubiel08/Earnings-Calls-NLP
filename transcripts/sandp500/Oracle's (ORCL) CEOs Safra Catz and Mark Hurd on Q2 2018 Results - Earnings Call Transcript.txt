@@ -1,0 +1,220 @@
+Oracle Corporation (NYSE:ORCL) Q2 2018 Results Earnings Conference Call December 14, 2017  5:00 PM ET
+Executives
+Ken Bond - SVP
+Larry Ellison - Chairman and CTO
+Safra Catz - CEO
+Mark Hurd - CEO
+Analysts
+Mark Moerdler - Sanford Bernstein
+Heather Bellini - Goldman Sachs
+Brad Zelnick - Credit Suisse
+Adam Holt - MoffettNathanson
+Philip Winslow - Wells Fargo
+Sarah Hindlian - Macquarie
+Kirk Materne - Evercore
+Kash Rangan - Bank of America/Merrill Lynch
+Operator
+Welcome to Oracle's Second Quarter 2018 Earnings Conference Call. 
+Now I’d like to turn today’s conference over to Ken Bond, Senior Vice President.
+Ken Bond
+Thank you, Holly. Good afternoon, everyone, and welcome to Oracle’s Second Quarter Fiscal Year 2018 Earnings Conference Call. A copy of the press release and financial tables which includes a GAAP to non-GAAP reconciliation and other supplemental financial information can be viewed and downloaded from our Investor Relations website.
+On the call today are Chairman and Chief Technology Officer, Larry Ellison; and CEOs, Safra Catz and Mark Hurd.
+As a reminder, today’s discussion will include forward-looking statements including predictions, expectations, estimates or other information that might be considered forward-looking. Throughout today’s discussion we will present some important factors relating to our business which may potentially affect these forward-looking statements. These forward-looking statements also are subject to risks and uncertainties that may cause actual results to differ materially from statements made today.
+As a result, we caution you against placing undue reliance on these forward-looking statements and we encourage you to review our most recent reports including our 10-K and 10-Q and any applicable amendments for a complete discussion of these factors. And other risks that may affect our future results or the market price of our stock.
+As a reminder and consistent with prior calls, Safra’s and Mark’s comments today will use constant dollar growth rates unless stated otherwise so we can have some measure of consistency across the quarter as well, as to reflect how we actually measure the business.
+And finally, we are not obligating ourselves to revisit our results or publicly release any revisions to these forward-looking statements in light of new information or future events. Before taking questions, we’ll begin with a few prepared remarks.
+And with that, I’d like to turn the call over to Safra.
+Safra Catz
+Thanks, Ken. Good afternoon, everyone. I’m going to focus on our non-GAAP results for Q2. I’ll then review guidance for Q3 and turn the call over to Larry and Mark for their comments.
+As you can see, we had another excellent quarter. Customer adoption of our Cloud products and services continues to be very strong and what we have called our on-premise business remains robust. Bottom line, our transition to the Cloud is going well. Despite the currency benefit being less than my guidance, total revenue was more than the high end of my guidance range and earnings per share was at the high-end even at a higher tax rate than expected.
+Cloud SaaS revenue for the quarter were $1.1 billion, up 47% from last year. Fusion Cloud revenue was up 56% for the quarter. Cloud PaaS and IaaS revenue for the quarter was $398 million, up 20% from last year. But just as a reminder, part of the Cloud PaaS and IaaS business is our legacy hosting services which don’t share the same high growth characteristics as PaaS and next-gen IaaS services.
+This portion of PaaS/IaaS saw growth of 46% in CD and 49% in USD, while the traditional hosting services, which we are de-focusing, were down nearly 10%. As traditional hosting services become a smaller part of total PaaS and IaaS, the underlying growth of PaaS and next-gen IaaS will be more visible.
+I want to also take a moment to review the announcements we made in October of bring your own licenses, what we call BYOL and autonomous database. Unlike the applications business where customers move to SaaS subscriptions, stop buying upfront licenses and shelve application support, BYOL customers can leverage their years of investment in Oracle database and technology software and bring those licenses to the Oracle cloud infrastructure instead of cancelling their licenses and support and moving to rent new licenses.
+With BYOL, we are seeing a strong increase in our technology installed base as customers renew their unlimited license agreement, invest in more licenses and options and renew support. Because BYOL is now available and customers better understand their transition options to move to the Oracle Cloud, technology new software license revenue is dramatically improving from the declines we were seeing previously. We expect this trend to continue as we roll out Autonomous Database as customers license the options and technology they need. We expect to continue to take share in database.
+Now, total cloud and software revenues were $7.8 billion, up 7% in constant currency and up 9% in U.S. dollars. In fact, we’ve consistently overachieved our software and cloud revenue forecast the last seven quarters. I focus on these numbers, which we refer to as the ecosystem revenues, because that is where all of our software assets come together and you can start to see the powerful dynamics of the business, especially with our BYOL model.
+Total cloud revenues in the quarter were $1.5 billion, up 39% from last year. Total on-premise software revenues were $6.3 billion, up 1% from last year, reflecting stable software license and continued high attach of software support and renewal rates that reflect the stability of our installed base of customers.
+GAAP application total revenues which is new licenses and support and SaaS, were $2.7 billion, up 13% and GAAP platform and infrastructure total revenues, which includes new license and support and PaaS and IaaS, were $5.1 billion, up 4%. As for cloud margins, our SaaS business continues to scale and grow and the gross margin has expanded to 66% up from 59% last Q2.
+We expect to see further improvement in FY 2018 and we remain committed to our goal of 80% SaaS gross margins. The gross margin of PaaS and IaaS was 40%, down from 44% last quarter as our geographic buildout goes forward in response to demand but ahead of the bulk of new revenue recognition. When we are at scale, I expect to see major improvement in PaaS and IaaS gross margin. Hardware revenues were $940 million, down 9%, and service revenues were $856 million, essentially unchanged in constant currency.
+Total non-GAAP revenue for the company were $9.6 billion, up 4% from last year and 6% in U.S. dollars. Non-GAAP operating income was $4.2 billion, up 8% from last year, 10% in U.S. dollars. The operating margin was 44%, which was up from 42% last year. The operating margins have now increased year over year for five consecutive quarters and while I can’t promise this will happen every quarter, I do expect that operating margins will continue to expand.
+The non-GAAP tax rate for the quarter was slightly higher than expected at 25.2%. As a result, EPS was $0.01 less at $0.70 a share in U.S. dollars, up 14% in U.S. dollars, 12% in CD. The GAAP tax rate was 22.1% and GAAP EPS was $0.52.
+Operating cash flow over the last four quarters was $14.6 billion, up 2%, and free cash flow over the last four quarters was $12.5 billion. Capital expenditures for the quarter were $599 million. I expect the cloud CapEx spending would be driven by our ARR growth and the PaaS/IaaS buildout that I mentioned earlier. Obviously, should we see higher than expected ARR growth, we’d expect to see higher CapEx investments as well.
+Now we have more than $71 billion in cash and marketable securities but net of debt our cash position is $10.9 billion. The short-term deferred revenue balance is $8.1 billion, up 6% in constant currency. This quarter we repurchased nearly 41 million shares for a total of $2 billion. Over the last 12 months we’ve repurchased 74.5 million shares for a total of $3.5 billion. We also paid out dividends of nearly $3 billion. The Board of Directors increased the authorization for share repurchases by $12 billion and again declared a quarterly dividend of $0.19 per share.
+Now to the guidance for Q3. My guidance is on a non-GAAP basis and in constant currency. However, there has been some currency movement and assuming current exchange rates remain the same as they are now, currency could be as much as 3% positive on total revenue or $0.03 positive on EPS. So, for Q3 in constant currency, Cloud revenue including SaaS, PaaS and IaaS are expected to grow 21% to 25%.
+Total revenues is expected to range from 2% to 4%. Non-GAAP EPS in constant currency is expected to be somewhere between $0.68 and $0.70. That puts the USD earnings per share at $0.71, and $0.73. This assumes a non-GAAP tax rate somewhere around 24%. Of course with the current and very real possibility of tax reform, the Q3 tax rate could easily end up being very different especially to the extent that there is repatriation.
+With that, I will turn over to Mark for his comments.
+Mark Hurd
+Thanks, Safra.
+Really, a solid quarter for Oracle from top to bottom. Just a few numbers. USD revenue was up 6%. Software and Cloud revenue was up 9%. Operating income was up 10%. Net income was up 16%. EPS grew 14%. That’s three quarters in a row where EPS growth has been over double digits.
+Safra’s point about our apps ecosystem, our application revenue was up 13%. That is a GAAP CD number. We’re growing roughly three times as fast as the market. I’ve seen market numbers of two, three, three-and-a-half, so depending on how you look at those numbers we’re more than three times as fast as the market, maybe for with nearly 90% of that revenue being recurring on a trailing 12-month basis.
+SaaS bookings was a strong quarter for us. We grew 42% in USD. That 42% accelerated meaning the growth rate was higher that prior year. PaaS revenue was up 47% and over $4.5 billion annualized run rate. ERP was up 66% organically. Overall ERP is now at $1.4 billion annual run rate.
+Fusion HCM up 77%, more than double the growth rate of Workday. CX double-digit growth with CX now at $1.1 billion annualized run rate. Data-as-a-Service, up 47%. Our verticals were up 19%. That’s on a compare of last year’s growth of 125%. Our technology ecosystem that’s on-premise license, on-premise support and our PaaS and infrastructure revenue altogether was up 4% with solid cloud growth and new software license which was essentially flat in the quarter.
+In terms of our platform and infrastructure revenue that was up 20%. Now there are couple of things to call out here. As was mentioned first inside our PaaS and infrastructure is the legacy hosting business which is declining. Second, we have Oracle Cloud Machine revenue which is not yet reported, which we discussed last quarter. If you put it altogether the 49% growth Safra mentioned earlier, if all that Oracle cloud machine had been provisioned our revenue growth rate would’ve been above 55% in USD.
+Business analytics was up 104%, data integration up 88%, storage and compute infrastructure as a service both up triple digits. Cloud revenue grew 41% in USD now over a $6 billion run rate and 80% of that trailing 12 months software and cloud revenue is now recurring. Our cloud deferred revenue was up 33%.
+Not just closing looking forward we’re executing well on a big and our pipeline is the biggest we’ve ever had and we expect to sell around $2 billion in SaaS ARR over the next four quarters, that being the second half of 2018 and the first half of fiscal 2019. Lastly, this was again another solid quarter from top line growth of 6% USD all the way down to the bottom at 14% EPS growth.
+I’m going to give you a few customer names, wins, we had in the quarter and I’ll just try to run through these quickly. But I think it’s important for you to hear these brand names. In ERP cloud Adventist Health, AXA, Banco Santander, Pasha Bank, City of Las Vegas, Club Core, Emirates Airlines, Federal Deposit Insurance Corporation, John Hancock, Johnson Controls, Mattel, News Corp, Wessar Motor, Sumitomo Heavy Industries, The Bank of Nova Scotia, UCLA, Williams-Sonoma.
+In HCM, Abu Dhabi National Oil Company, Association Generale, BioWare and Pharmaceuticals, Chicago Transit Authority, The City of Atlanta, Deutsche Post, Emblem Health, Emirates Air, Henry Ford Health Systems, Mars, Shell, Southwestern Energy Company, Treasury Wine Estate, Williams-Sonoma.
+Just a couple on the infrastructure and platform side, Akamai, Alliance, Arconic, Baptist Healthcare System, City of Palm Beach, CVS, Los Angeles County, Orange, Softbank, Tellier, University of Durham, U.S. Census Bureau, Oil Fuel Services, Zürich Insurance Group, a lot of logos. I could’ve gone for a lot longer, but I just wanted to give you some context of the sorts of brands that are buying our cloud technologies.
+With that, Larry’s got some comments.
+Larry Ellison
+Thanks Mark.
+This coming January, Oracle will deliver the world’s first autonomous database. We expect this innovative new technology to dramatically accelerate the growth of our PaaS and SaaS businesses and keep our database license business strong as well.
+People are buying database licenses to run on premise and in the cloud. You can run them either place. Their buying options to run on premise and in the cloud.
+Based on machine learning, the new autonomous version of the Oracle database is totally automated, a self-driving system that does not require human beings to either manage or tune the database.
+Using artificial intelligence to eliminate most sources of human error, the Oracle Autonomous Database delivers an unprecedented 99.995% system availability. That’s less than 30 minutes of planned or unplanned downtime per year.
+To achieve that level of reliability, the Oracle Autonomous Database automatically tunes and upgrades itself without human intervention. If a security vulnerability is detected, the database automatically and immediately detaches itself while the system is running. AWS databases can’t do any of this.
+Even more compelling is the cost comparison between running the Oracle autonomous database versus running an Amazon database like Redshift. In a series of published benchmark tests the Amazon Redshift database on average costs five times more to run the same exact amount of work as the Oracle Autonomous Database.
+Let me repeat that. If you take a workload from Amazon running on Redshift and move it over to Oracle, your Amazon bill will drop by 80%. It will cost you five times more to run Redshift than to run the Oracle Autonomous. And this is not total cost of ownership, this is not labor, this is not - this is your Amazon bill, what you pay Amazon to do a piece of work, you can run on the Oracle cloud and pay $.20 on the dollar by moving from Amazon to Oracle.
+We’re so confident of our cost advantages over Amazon that Oracle will provide our customers with written service level agreements that guarantee, that guarantee moving to the Oracle cloud will cut Amazon customer’s database bills in half or substantially more than half.
+Ken Bond
+Could we please go to Q&A?
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question will come from the line of Mark Moerdler, Sanford Bernstein.
+Mark Moerdler
+Could you give us a better sense of what exactly is driving clients select between Oracle’s private cloud, Oracle infrastructure service, Oracle PaaS, on-premise? Why is it taking longer right now [indiscernible] rollout? And then a quick follow-up question.
+Larry Ellison
+Why it’s taking longer, to provision the Oracle cloud machine, it’s the responsibility of Oracle to deliver the cloud machines and the cloud software and then the customers, then we have to actually install these cloud machines in the customer's data center and hook up to the customer’s network.
+And every customer is a little bit different. So it takes us a certain amount of time to configure the system on Oracle's side. But the big thing is now the customer has to get the appropriate networking gear and connect the Oracle cloud machine into their network. And that's what's proven to take longer than we had first anticipated.
+So we have a bit of a backlog on that. But it’s a matter of, again, easy for us to shift. Everyone receives the same cloud hardware. That’s easy for us to do. Everyone receives the same cloud software. But connecting it in the customer data center can vary from data center to data center and that’s what’s taking the extra time.
+Mark Hurd
+Good news, Mark, is we sold a lot and we’re in the process of implementing those as we speak and I tried to give them my comments that we would’ve had a significant improvement in growth rate win if those had been provisioned and they’ll get provisioned shortly. So it’s been a very successful launch for us.
+Mark Moerdler
+Excellent, very helpful. As a quick follow up, what’s the use cases for Oracle Cloud Machine versus infrastructure as a service, et cetera?
+Mark Hurd
+Well, listen, the good thing is it’s sort of all of our technologies when you start it. So we have customers that use it for ERP, for HCM, and it really, Mark, fits more into markets where the industries we have regulatory issues. So if you get into banking and pharma, you have more of these security issues, I won’t go through all of them in detail.
+And so in many cases, it’s easier for some of the big banks, some of the big Pharma companies and frankly, even in telecommunications where you see it’s easier to get through those regs, we’ll just take all the advantages of the cloud. So let me just go through this, Mark.
+You get really all of the price advantages, you’re buying variably. We do all of the work, we do all of the patching. The customer really doesn’t touch this so they get the benefits of cloud on one hand while not having to deal with some of what the regulatory issues might be on the other hand.
+The downside is what Larry went through. We have to actually physically go in and implement this and there’s some extra work that might be done as opposed to just hooking up directly into our cloud. Does that help you?
+Operator
+Our next question will come from the line of Heather Bellini with Goldman Sachs.
+Heather Bellini
+Mark, you mentioned in your comments that you’re going to do $2 billion in new SaaS ARR over the next year. I was wondering if you could help us think about how this translates into SaaS revenue growth trend as we look out over the same time period? Thank you.
+Mark Hurd
+A couple of things. One, I was not trying to confuse what I thought this year’s fiscal bookings in cloud would be with rolling four quarters, SaaS, ARR bookings would be. So those are two separate numbers and I’m glad the way you worded it because I must’ve said it right.
+The $2 billion is a forward-looking next rolling four quarters of SaaS bookings and I think that’s more than anybody is going to be even close to that sort of bookings number but obviously we’ll see. So we think that’s going to be very, very aggressive.
+What is going to happen on the overall ecosystem? As you probably know, and I know I’ve said before, most of what’s in our revenue base today did not come from our on-prem user base. Most came from competitors or came from companies that really are in their first set of application, midmarket companies, fast growth companies, et cetera.
+So what I think does happen is just to make sure you understand, I think we said it before, but Oracle actually goes live on cloud financials right at the turn of the calendar year. So our e-business suite base, which is not the predominant piece of our cloud SaaS base, will see this as a big, big move. So we are hopeful when you talk what the entire ecosystem that actually we’ll start to see a higher degree of Oracle’s user base moving.
+And I want to emphasize again, that is a good thing. We get materially more revenue when a customer moves from support of their existing on-prem applications to now SaaS. And that is roughly three times or more ARR and the three times, I want to emphasize again, is the equivalent of a like-for-like support compared to their new applications in the cloud. So what do I expect to happen in the ecosystem? I think the ecosystem actually grows faster as a result of everything I described. Most of our base today did not come from the Oracle base.
+The Oracle base now with more and more references to move certainly our latest releases which are now in release 13, more feature-rich than anything obviously we’ve ever had before, Heather, and as that support base moves to cloud, we actually get more revenue and, as a result, the ecosystem grows faster.
+Operator
+Our next question will come from the line of Brad Zelnick, Credit Suisse.
+Brad Zelnick
+I've got one for Mark and a quick follow up for Safra. Mark, Oracle has been maintaining share when we consider the entire database ecosystem, but we keep hearing competitors and surveys saying customers are moving off Oracle. Can you maybe share some firsthand customer perspectives and frame the value of what lives in Oracle database that isn’t going anywhere versus the type of stuff we might be hearing about?
+Larry Ellison
+I’d like to answer that. Let me tell you who’s not moving off of Oracle. A company you’ve heard of just give us another $50 million this quarter to buy Oracle database and other Oracle technology. That company is Amazon. They’re not moving off of Oracle. Sales force isn’t moving off of Oracle.
+Our competitors who have no reason to like us very much continue to invest in and run their entire business on Oracle. I don’t know whose moving off of Oracle. Maybe Mark does, maybe Safra does, but Amazon, you’d think Amazon would really want to move. 
+Let me tell you someone else who’s not moving off of Oracle, SAP. They had that database called HANA they’d like to move to. SuccessFactors, they’ve been trying to move off of Oracle for five or six years. SAP is running on Oracle. Ariba runs an Oracle. All SAP large customers run on Oracle. Amazon continues to buy Oracle technology to run their business. Salesforce runs entirely on Oracle. Go ahead, you tell me who’s moving off of Oracle.
+Mark Hurd
+Brad, thanks for the question. So a couple of points. Listen, I think when this comes up, I’d like to just go back to the math and just go back to the numbers. We’ve got sort of every other database being used just in shared terms is ours. And when you see us throwing up yet again another growth rate above market, it’s just any of these sort of stories, anecdotes - by the way, I’ve heard them for seven years, right? It predates me.
+So, you know, everybody’s moving off the Oracle database or what you think of this guy or that guy? And the latest guy, somebody told me, what do you think of – what’s that company? MongoDB. I said the only thing I remember about MongoDB is three numbers: 100, 200, 100.
+That’s their revenue 100, 200 were their expenses, and 100 was their losses. And so I have that implanted in my brain and the $100 million as a part of $40 billion seems really small to me. I don’t know. Maybe different, your math, your numerate as well.
+So I just look at our numbers and I look at us growing faster than market and it’s now been going on a while. By the way, an important thing to notice, I don’t really care whether we denominate that in platforms of service or, if you will, databases of service, licenses, Larry went into one example of a license deal, and/or database support. And I think when you look at that aggregated ecosystem, I guess with the stories, I just love somebody show up with something more than a story.
+Just show up with a number and all we do is keep showing up every single quarter with math that says, okay, could be true but whether Larry is talking about what Redshift, I brought up this other guy. Just look at the list of competitors out there and I just don’t see growth rates that certainly nobody gaining share over us. I’m not saying they’re not swapping share with each other and maybe they’ve got a story about this or that but when you just look at overall numbers we’re gaining share in database.
+Brad Zelnick
+It’s really helpful to hear you frame it and hear it first hand from you. Just really quick really for you, Safra, can you please remind us of your view on CapEx spending this year? And does the deceleration of CapEx spend in the quarter signal anything around future PaaS/IaaS revenue? Thanks again.
+Safra Catz
+Well, I think our capital expenditures will be very similar to last year. As I mentioned to you last year, we spent about $1 billion in kind of CapEx associated with the cloud. We spent about $1 billion in our real estate expansion. And the way that CapEx works really is there’s a certain amount when we open data centers, and that cost quite a bit to just get started.
+And then the buildout is a little bit less because there’s abasing starting block. So I think we -– and what happens is you start to get really major economies of scale as you – once your setup is basically set up, straight and ready to go. So I see it like last year.
+A lot of growth, about half of it is in real estate which I don’t expect to continue necessarily as much on that side. So no, no deceleration, just trying to get some economies of scale as we build out. We’ve got some plans but nothing. Now the revenues are coming in so that’s why we’re having the improvements in margins.
+Operator
+Our next question will come from the line of Adam Holt, MoffettNathanson.
+Adam Holt
+As you will know, I’ve been highly focused on your maintenance revenue of all things and this was the strongest license quarter we’ve seen in really a long time. Can you talk a little bit, was it just the BYOL that drove the license revenue in the quarter? And shouldn’t the stronger relative license revenue start to drive maintenance a little bit even faster?
+Safra Catz
+Yes, absolutely. So it’s not only BYOL. It’s also in preparation for Autonomous Database. So understand that to get the benefit of Autonomous Database in the Oracle cloud, you bring your own license, but you may also, you will also need depending on which service you need, you’re going to need some of the options in addition.
+And also, as you bring your own database licenses, you’re going to want to have app server licenses and middleware licenses in order to work with your database. So all of that, that BYOL is a fundamental change and is significantly different from how SaaS works.
+And that’s what I try to explain. In SaaS, you are now doing a SaaS subscription, you’re no longer using your license. You don’t need to buy more licenses, and you shelve your support. With BYOL, you buy additional licenses, you bring them to our cloud and you continue to pay support. And that is going to be very significant going forward. And it’s already, you already see it in this quarter already. And we announced it in OpenWorld. OpenWorld.
+Adam Holt
+If I could just ask a follow up on that because I’m getting a lot of questions about this and I just want a point of clarification. Is there any kind of a lag between people buying the licenses and renewing maintenance first, and then moving to the cloud? Because I think what some of us are trying to reconcile is the cloud guidance is a little bit slower than it has been. So it looks like something might be decelerating a little bit, and I just want to understand, is there a gap as people maybe buy licenses on premise? And then maybe it’s a quarter or two before they deploy in the cloud? Just trying to understand those mechanics. Thanks so much.
+Safra Catz
+The mechanics are not automatic, so let’s actually set this up. What has clearly happened, and I could already see this even at OpenWorld in talking to customers, they now understand that they will want to have more licenses.
+So as their unlimited agreements are starting to expire, they could have historically pick up. I’m going to rent all my licenses going forward, there’s no point in owning them, they would’ve certify those licenses and stopped buying additional and renewing unlimited agreements.
+So what they’ve now seen is there pathway with BYOL gives them complete flexibility of when they are ready to move to the cloud, but that there’s a benefit in owning your licenses and buying more and renewing support.
+So customers moved to the cloud when it makes sense for them. Autonomous Database, which is coming out in a little while here, that’s going to be an enormous driver for customers to actually move there important workloads to the cloud. You understand? The two are related, but not the same. Larry, I don’t if you want to...
+Larry Ellison
+I'll just chime in very briefly. Yes, they buy the license first, and a lot of customers are waiting for the Autonomous Database to become available. So we’ve seen a big uptick in renewals of ULA, these unlimited license agreements.
+The sale of certain options that are required for the Autonomous Database, that’s specifically rack and multi-tenant. The multi-tenant option those two options, and the high reliability option is called Active Data Guard.
+So all of those customers are buying those and then the Autonomous Database then rolls-out and begins to scale in January. So a lot of customers will have their first experience – the first big move of Oracle customers databases to the cloud really will begin in January.
+There’s been no big migration anyplace of Oracle databases into anyone’s cloud, including ours. There’s been some, but it’s a relatively very, very small business. This all begins to happen starting in January, where the capabilities of cloud are so much better. Or the economics in the cloud are so much better than what’s available on premise, that we think our customers are going to move very, very rapidly to the cloud. But they are waiting for our Autonomous Database.
+Operator
+Our next question will come from the line of Philip Winslow with Wells Fargo.
+Philip Winslow
+Safra, just a follow up for you on bringing your license and the subscription revenue versus license. Obviously you talk about the benefit of the license here and we saw in this quarter, and obviously we have seen on the total revenue guidance had a consensus for next quarter, but as Amit just pointed out cloud below. I wonder if you could help us just sort of walk through. It seems like obviously you’re pouring more water into the license bucket, sort of less on a relative basis, than in the cloud. Just because obviously PaaS versus IaaS is probably 40% less for IaaS than PaaS. Could you just help us walk through the math kind of how you’re thinking about the impact of BYO kind of on those two buckets?
+Safra Catz
+So there are a few things going on here. Remember, when you bring your own license to Oracle IaaS, the service you purchase is more expensive than the basic IaaS because you get all of the autonomous – all of the capability you wouldn’t otherwise get, first of all. But you cannot divorce the margin of just IaaS without remembering that both licenses are being purchased, and support is continuously paid. 
+That’s why you heard me say, maybe you heard me say, the so-called on-premise license, because it’s actually now that we’ve launched BYOL, it is actually a misnomer because the customer – it’s currently categorized on our income statement as on-premise software and support, for that matter. Those are called on premise, but there’s nothing on premise about them. You can bring them to the cloud.
+So you have to understand how much money in that pool because with SaaS on the applications side, remember, we don’t sell you a new license, you no longer renew your support, and you start renting SaaS licenses and the service all bundled together.
+So in this case, to the extent that - and, by the way, I just want to be clear, customers have the option if they don’t want to bring their own license, to buy, to rent licenses through PaaS. That’s also available to them. But financially for both them and us, it actually works out best if they bring those licenses and those with unlimited agreements can bring an unlimited amount of licenses to our cloud as well as continue to use whatever they’ve got still on premise at their own state while continuing to pay support and buying additional licenses. So the math is more complete and very profitable for both us and the customer.
+Philip Winslow
+Just shows up in different places. Understood. And just a very quick follow up for Mark on the cloud machine. Obviously, you called out that there’s a deployment lag there and that it sort of cost you 6 points of reported growth. Just curious what customers are saying to you about cloud machine versus the BYOL to the public cloud. Just any comments there about sort of the success you’re seeing. Thanks.
+Mark Hurd
+Well, our strategy has been to give the customer choice. So to the point that Safra is bringing up, you have a choice to using whatever currency you’d like. You can buy as a license, which means the customer buys one time as a traditional license transaction and can bring that to the cloud. And you can bring to the cloud a couple of different ways.
+If you’re in one of these highly regulated environments like I described, you can bring it to the cloud, utilizing the cloud machine, which is a very effective way of getting most of the benefits of the cloud without having to go through some of the hoops I described a few minutes ago. Or you can bring that license all the way to the Oracle public cloud.
+Some customers, frankly, use it as a continuum because, back to Larry’s earlier point about the autonomous database, it isn’t just about the flexibility of how you pay for it, the benefits now, most of our customers now have the opportunity with the Autonomous Database to simply get out of patching. That may sound like a really trivial issue when you say it on a conference call with an analyst.
+It is huge to all our customers. I sit in rooms with CEOs talking but how the heck do I get out of this damn patching? Some of our customers have 12-month lag time between the release of a patch and when they can get it implemented, the release of a patch from us and when they get it implemented. 
+This Autonomous Database actually eliminates all of that. It eliminates all of the labor they may have on premise, actually DBAs and so forth that are actually running these databases. And we’re trying to give the customer we think now exactly what they want. They can take advantage of this either on premise, they can now take advantage of the Oracle cloud in their data center with the cloud machine, or they bring it to the Oracle public cloud. And if you want to buy it as a license, you want to buy it as a cloud service, it’s totally up to you.
+So that’s been our strategy, Phil. And frankly, to Safra’s point about the economic model, we’re fine either way the customer wants to do it. And so that’s our strategy. And I think, my opinion for what it’s worth, is whether that shows up in a license and then brought to our cloud, that’s great for us.
+Whether deployed on the cloud machine, and granted Larry’s point about the latency between order booking and eventual deployment, it is what it is for a short period of time, but that’s just yet another thing that differentiates us from what anybody else can do in the market today. I hope that helps.
+Operator
+Our next question will come from the line of Sarah Hindlian, Macquarie.
+Sarah Hindlian
+There is really one thing I want to ask Safra that you mentioned, which was tax repatriation and possible implications of the Tax Code changes here in the U.S. I’d love to hear more about how Oracle is thinking about it and different ways you can deploy your balance sheet. If you could expand on your earlier comments, that would be very much appreciated.
+Safra Catz
+Well, to the extent that repatriation is part of the final bill, and to the extent that whatever is the rate for the cash that we bring back, either what we actually have or the deemed repatriation, that will make available to us under $60 billion, depending on the tax of cash that we can use for whatever would be available for us. We haven’t made any decisions about how we would use it. I believe that it is mandatory repatriation.
+So, a tax will be due on all cash outside the United States for all of those companies, and I believe we’d need to book it, or at least book an estimate for it in the quarter that the tax law changes. That will make our tax rate look sort of strange, but, of course, I’ll disclose the amounts and all that.
+I’m not sure that the final rate has been set, and, whether it will actually stay in the bill. So, we hope it does. We hope they do move to a territorial system. It will make us more competitive, and we look forward to that.
+Operator
+Our next question will come from the line of Kirk Materne, Evercore.
+Kirk Materne
+Mark, I want to jump over the applications business really quickly. Just could you just talk a little bit about the competitive environment, especially around ERP and HCM and sort of what’s underpinning your confidence in sort of the ARR growth numbers over the next year in that space? Thanks.
+Mark Hurd
+Well, first of all, underpinning my…
+Kirk Materne
+Your $2 billion outlook.
+Mark Hurd
+Yes, well as I’ve said several times, I really look through starting with like just our pipeline, so our pipeline is bigger than it’s actually – or actually growth in pipeline, Kirk, is just as it sits this second towards the end of the year, is just superb. I don’t want to go farther than that.
+I’m just really pleased with the progress in the number of opportunities we’re getting to participate in. And that gets to the competitive dynamics. If a customer wants SAS ERP, there really isn’t a competitive dynamic. So, it’s really us. So, we really lead in that category. And the reason we lead is because there’s nobody else. Full stop.
+Now to the degree in HCM, that HCM is combined with an ERP, which is becoming more and more the fashion of what you’re seeing, then we’re obviously significantly advantaged. We have a competitor in SAS HCM. We don’t have a competitor in SAS ERP.
+Now, the other thing I’d say that’s at issue is for us, over the last couple of years, is getting out of our traditional base. We’re getting better and better at now – because historically if you went back six, seven years ago, we’d typically call on the Oracle base of customers and the other traditional older on-premise ERP company SAP. Once you bought SAP, once you bought Oracle, those people didn’t move calling on the other customers.
+That’s all changing now. So now as customers get more aware of the difference between a traditional on-premise ERP and a new modern SAS ERP, we get a chance now to compete for their, these competitor customers that frankly, we hadn’t had a chance to compete for, if you will, in the older generation of applications. So, I don’t if that helps in the dynamics.
+By the way, those dynamics changed, because all of us usually on this call think about the United States of America. The farther you get from the United States of America, the better the dynamics become for us. Because of our global distribution, because of our global footprint, because of our global presence, because of our global references, because of our ability to deploy in multiple SAS data centers around the world, we’re even more advantaged with the farther away you get from the United States.
+So I’m optimistic. I’m optimistic because we have great products. We got a competitive product lead in the most important application segment in the world which is ERP. We’re about to go live with our applications internally and financials which now we’ve already gone live with HCM. We’ve gone live with other applications.
+Now we’ll have our flagship product automating Oracle. We’re just in a great position. I know that sounds like hype and I actually believe this. So this is what’s going on in the marketplace and one of the reasons why in our company, if you’re inside our company, in our apps group, you feel the sort of confidence and swagger that you see around our apps group today.
+Operator
+Our final question will come from the line of Kash Rangan, Bank of America/Merrill Lynch.
+Kash Rangan
+A couple of questions for Safra. One, Safra, do you think as the business continues to get scale, that operating income growth rate can continue to accelerate and outpace revenue? And secondly, just sort of a clarification, when you look at the guidance for cloud growth rate and kind of correlate that against what Mark said with respect to SaaS ARR bookings growth which looks to me about 40%, 50%. If you back that out of your cloud guidance for Q3, it looks like the IaaS/PaaS business, maybe it’s a temporary thing as down to slightly flattish. So I just want to clarify that’s the way we should be modeling the two different line items and how we should be interpreting your cloud guidance. Thanks. That’s it for me.
+Safra Catz
+For your first question, yes, I think that operating income is going to grow faster than revenue because we get economies of scale, we have margin improvement, and the business is growing. And when it grows, we get economies of scale that allow us to grow income, operating income faster than revenues. And I’m quite sure of that.
+I think you should not confuse bookings with revenue, and PaaS and IaaS forecast looks good. I’m not giving you – I’m not breaking them down for you, but I expect them to be positive and consistent with what you would have seen. And just as a reminder, the PaaS/IaaS includes a piece that is not growing and a piece that is growing. The piece that’s not growing is like 200 something, 240 – I can’t remember.
+Mark Hurd
+Just to try to help, I think the right word that Safra used is consistent. You should think of it being roughly the same in growth rate as you saw cash and the legacy piece is $0.5 billion, roughly speaking, annualized. So that would give you some help I think for the scale of the business. Actually, maybe a little more that but it’s roughly right, Kash.
+Kash Rangan
+So the comparables will get easier next year. I would think that for PaaS and IaaS you should start to resume that growth.
+Mark Hurd
+No question about it.
+Safra Catz
+No question because the PaaS/IaaS that we care about, the one we’re focused on is growing 40 something percent.
+Operator
+Thank you. I’ll now turn the conference over to Ken Bond for closing comments.
+Ken Bond
+Thank you, Holly. The telephonic replay of this conference call will be available for 24 hours. Dialing information can be found in the press release issued earlier today. Please call the Investor Relations department with any follow-up questions from this call and we look forward to speaking with you. Thank you for joining us today. Happy holidays.
+And with that, I’ll turn the call back to Holly for closing.
+Operator
+Thank you for joining today's Oracle Second Quarter 2018 Earnings Conference Call. We appreciate your participation. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+5 Authors in the Last 90 Days

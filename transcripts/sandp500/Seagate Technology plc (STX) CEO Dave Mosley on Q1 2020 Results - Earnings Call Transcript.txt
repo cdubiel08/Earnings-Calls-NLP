@@ -1,0 +1,254 @@
+Seagate Technology plc (NASDAQ:STX) Q1 2020 Results Earnings Conference Call November  1, 2019  9:00 AM ET
+Company Participants
+Shanye Hudson - Vice President, Investor Relations
+Dave Mosley - Chief Executive Officer
+Gianluca Romano - Executive Vice President and Chief Financial Officer
+Conference Call Participants
+Karl Ackerman - Cowen. 
+Steven Fox - Cross Research
+Katy Huberty - Morgan Stanley
+Aaron Rakers - Wells Fargo
+Christopher Muse - Evercore
+Ananda Baruah - Loop Capital
+Mitch Steves - RBC Capital Markets
+Mark Delaney - Goldman Sachs
+Vijay Rakesh - Mizuho
+Jim Suva – Citi
+Operator
+Good morning, and welcome to the Seagate Technology Fiscal First Quarter 2020 Financial Results Conference Call. My name is Denise, and I'll be your coordinator for today. At this time, all participants are in a listen-only mode. Following the prepared remarks, there will be a question-and-answer session. As a reminder, this conference is being recorded for replay purposes.
+At this time, I'd like to turn the call over to Shanye Hudson, Vice President, Investor Relations. Please proceed, Shanye.
+Executive
+Shanye Hudson
+Thank you. Good morning, everyone and welcome to today's call. Joining me today are Dave Mosley, Seagate's Chief Executive Officer; and Gianluca Romano, our Chief Financial Officer. We posted our earnings press release and detailed supplemental information for our September 2019 quarter on the Investors Section of our website.
+During today's call, we will refer to GAAP and non-GAAP measures. Non-GAAP figures are reconciled to GAAP figures in the earnings press release posted on our website and Form 8-K that was filed with the SEC. We've not reconciled certain non-GAAP outlook measures because material items that may impact these measures are out of our control and or cannot be reasonably predicted. Therefore, reconciliation to the corresponding GAAP measures is not available without unreasonable efforts.
+As a reminder, this call contains forward-looking statements, including our December-quarter financial outlook and expectations about our financial performance, market demand, industry growth trends, planned product introductions, ability to ramp production, future growth opportunities and general market conditions. These statements are based on management's current views and assumptions and should not be relied upon as of any subsequent date.
+Actual results may vary materially from today's statements. Information concerning our risks, uncertainties and other factors that could cause results to differ from these forward-looking statements are contained in our most recent Form 10-K filed with the SEC and the supplemental information posted on the Investors Section of our website. Following today's prepared remarks, we will open the call for questions.
+And with that, I'll now turn the call over to Dave.
+Dave Mosley
+Thanks, Shanye. Good morning, everyone. And for those of you here in Europe, good afternoon. Thanks for joining us. I will start today's call by summarizing key highlights from the September quarter, sharing our views on the market on the relevance to Seagate, and outlining the progress we've made on our key priorities. Afterwards Gianluca will provide further details on our financial results and our outlook for the December quarter. Following the prepared remarks, we will open the call for questions.
+Seagate had a solid start to the fiscal year, increase in revenue, non-GAAP operating profit, earnings per share, cash flow quarter-over-quarter. Our focus on optimizing profit dollars is driving strong and sustainable operating cash flow to fund our future growth, extend our technology leadership and sustain our strong capital return program. Over the past 12 months, we have returned a total of $2 billion to our shareholders through a combination of dividends and share repurchase -- reflecting our ongoing commitment to enhancing shareholder value.
+Our Board approved an increase to our quarterly dividend, demonstrating their confidence in our future growth and cash generation capabilities. This marks the first time in four years that we've raised our dividend. Moving forward, we plan to review the dividend payment consistently over time.
+Let me now share some perspectives on the near-term market environment, starting with mass capacity storage. This market is growing, both in terms of dollars and exabytes, and is comprised nearline, video and image applications, including surveillance, and NAS drives. The mass capacity storage market supports cloud and edge applications that are data-centric and require reliable, cost-effective, high-capacity storage best suited to HDD.
+In the September quarter, we delivered strong double-digit revenue growth in nearline, supported by improving demand across cloud and hyperscale customers. We are aggressively ramping our 16-terabyte nearline drives to fulfill strong customer demand for these products. With more than a dozen cloud and OEM customers qualified and several others underway, we are executing very well and are tracking to plan against our product maturity and customer qualification timelines. Based on our current outlook, we expect to ship more than 1 million drives in the December quarter, which would make 16 terabytes the fastest nearline product ramp in Seagate's history.
+Revenue from video and image applications declined in the September quarter following an unusually strong June period. Geopolitical tensions and regulatory hurdles continued to disrupt customers typical buying patterns across multiple markets, including surveillance. We expect some demand volatility to persist over the near term.
+And with the transition to IT 4.0, we see the emergence of edge storage applications, which like surveillance utilize high-definition video and image processing. For example, smart factories, smart cities and IoT, all require large amounts of data, which can benefit from low-cost high-reliability disk drives. We believe these video and image processing applications continue to represent meaningful growth opportunities for Seagate over the long term.
+In our legacy markets, which include mission critical, desktop, notebook, DVR, gaming and consumer applications, we saw a seasonal uptick in revenue in the September quarter. As we shared in the past, these markets contributed to Seagate's cash flow while requiring a little additional investment. Importantly, many of the enterprise customers and OEM partners that we are supporting in the legacy markets are the same ones we expect to create new storage growth opportunities at the edge and in private clouds, along with other new customers.
+With the trend towards a multi-cloud world and the build-out of the private cloud, customers are seeking to follow the same economical disk-centric storage architectures as the large public cloud providers. Low cost, high-density storage platforms are integral part of the solution to address data-rich workload requirement, as Seagate's high-density scalable system solutions are ideally suited to these big data applications.
+We believe Seagate's strong technology road map, broad product portfolio and deep customer relationships, make us well positioned to capitalize on the significant opportunities we foresee ahead. We forecast the mass capacity storage revenue TAM will more than double from current levels by 2025, supported by ongoing demand from the public cloud to build out of the private cloud and emerging edge storage applications. To capture this growing demand, we are executing our strategy to be first to introduce new product solutions in the market and consistently deliver cost and performance benefits to our customers.
+Today, Seagate is the only company mass producing 16-terabyte drives, which are the capacity benchmark for the industry. We are preparing to ship 18-terabyte drives in the first half of calendar year 2020 to maintain our industry capacity leadership. We are also driving areal density leadership with our revolutionary HAMR technology, which enables Seagate to achieve at least 20% areal density CAGR over the next decade. We remain on track to ship 20-terabyte HAMR drives in late calendar year 2020.
+As drive densities increase multi-actuator technology is required to maintain fast access to data and scale drive capacity without compromising performance. We generated revenue from our MACH.2 dual actuator solutions for the first time in the September quarter. We are working with multiple customers to qualify these drives, including a leading US hyperscale customer, who is qualifying the technology to meet their rigorous service level agreements without having to employ costly hardware upgrades. We expect to see demand for dual actuator technology to increase as customers transition to drive capacities above 20 terabytes.
+With that, I'll turn the call over to Gianluca to go into more depth on our September quarter results and share our outlook for the December quarter.
+Gianluca Romano
+Thank you, Dave. We executed well in the fourth quarter, growing revenue, operating income and operating cash flow to support strong return for our shareholders. Compared to the prior quarter, revenue increased 9% to $2.58 billion, above our guidance midpoint. Non-GAAP earnings per share were $1.03, at the high-end of our guidance range. Our performance was underpinned by improving demand for mass capacity storage. Further, exabyte shipments increased 16% quarter-over-quarter to 98 exabyte, driven largely by our nearline products.
+Revenue for the enterprise market, which includes nearline and mission critical drives, representing 45% of total September quarter revenue, up from 41% in the June quarter. Exabyte shipments into the enterprise market increased 34% sequentially to 51 exabyte, with nearline drives representing the vast majority of that total. Average capacity for nearline drive increased 10% quarter-over-quarter, reflecting the ongoing transition to higher capacity volume.
+Our 16-terabyte drives was a fastest growing nearline product, both in terms of revenue and exabyte. We anticipate strong demand for these products across cloud, hyperscale and OEM partners, and expect 16-terabyte to be our highest enterprise revenue product in fiscal Q2 and our largest company revenue contributor in fiscal Q3, ahead of our prior expectation to meet these milestones in the fiscal Q4 time frame.
+Revenue and exabyte shipments for our mission critical drives were sequentially higher in the September quarter. We continue to serve this customer demand for this performance drives, which has remained fairly consistent over the past several quarters. Revenue for the edge non-compute market represented 31% of total September quarter revenue, compared with 34% in the June quarter. Exabyte shipments remained flat at 33 exabyte quarter-over-quarter, as non-compute is comprised of surveillance, NAS, gaming, DVR and consumer applications.
+As noted on our prior call, a few surveillance customers accelerated demand into the June quarter, which resulted in slightly lower revenue in the quarter. As Dave mentioned earlier, applications such as surveillance, which utilize high-definition video and image processing, continue to be a meaningful growth opportunity for Seagate moving forward. Revenue from the edge compute market, including desktop and notebook price, contributed 17% of total revenue compared to 18% in the June quarter. Exabyte shipments increased 7% sequentially to 15 exabytes, reflecting seasonal demand for both desktop and notebook drives.
+Aligning with what we presented during our recent Analyst Day, we will change how we present our HDD business. Starting in the December quarter, we will breakout revenue and exabyte shipments in two primary categories, mass capacity storage and legacy market. Mass capacity is made up of nearline, video and image applications and NAS. This represents growing market that support data-centric applications, requiring high capacity, low-cost storage well suited to HDD. Our other HDD products are sold into legacy market. Mass capacity storage has been increasing as a percentage of our total revenue and contributed 47% of September quarter revenue, compared with 35% just two years ago. We expect this growth trend to continue over the next few years.
+The legacy markets made up 46% of total September quarter revenue. Our non-HDD business made out the remaining 7% of revenue with growth from both system and SSD solutions. By adding non-hard disk drive revenue, up 12% quarter-over-quarter. We continued to gain traction in our system business with OEMs and other customers. Within our SSD business, the pricing environment has been challenging for multiple quarters. Our main focus has been on enterprise SSDs, which complement our mass capacity HDD solution to provide our customers with a more complete storage solution portfolio. We remain focused on servicing those areas of the market where Seagate can deliver value to our customers.
+As a reminder, we're extending the useful life[Phonetic] of our capital equipment from a range of three years to five years to a range of three years to seven years, which resulted from a more efficient use of capital. This change lowered September quarter depreciation by approximately $23 million, a majority of which was included in cost of goods sold. Accounting for these change, non-GAAP gross margins for the September quarter was approximately flat with the prior period at about 27%. On top of the challenging industry conditions we discussed over the last few quarters, we incurred higher-than-expected costs associated with the initial ramp of our new products, which impacted gross margin by approximately 50 basis points. Looking ahead, we expect margins to improve as production scale and 16-terabyte drives become a more meaningful part of our total revenues.
+Non-GAAP operating expenses for the 14-week quarter came in lower than planned at $359 million. Discretionary costs and costs associated with the extra week were both lower than our original outlook. We are continuing to efficiently manage expenses and optimize profitability. In the September quarter, we expanded non-GAAP operating income to $329 million or approximately 13% of revenue. We expect to see financial leverage as we grow revenue and execute our road map to reduce cost per terabyte.
+We delivered non-GAAP EPS of $1.03, which was at the high end of our guidance range. Capital expenditures for the quarter were $147 million representing about 6% of September quarter revenue. We expect capex for the fiscal year to be near the midpoint of our target range of 6% to 8% of revenue to support our exabyte capacity expansion plans and prepare for the ramp of our HAMR Technology.
+We delivered healthy free cash flow of $309 million, up 4% sequentially. We utilized $450 million to retire a 9.2 million ordinary shares, exiting the quarter with 263 million shares outstanding, down 8% from the prior year. Through a combination of opportunistic share repurchase and dividends, we returned $620 million to shareholders in the quarter. As we announced[Phonetic] during the Analyst Day, our Board approved a 3% increase to our quarterly dividend payment to $0.65 per share, payable on January 8, 2020. This increase reflect our positive long-term demand outlook, as well as our confidence in sustainable cash generation.
+We've also been focused on further improving our balance sheet. During the September quarter, we successfully marketed a $500 million six-year term loan to restructure a portion of our debt. Through these efforts, we extended leverage debt maturity profile, lowered annual interest expenses by $13 million and reduced total debt to $4.1 billion. As of the end of September, cash and cash equivalents were $1.8 billion, with access to up to $1.5 billion available through our revolver.
+Looking ahead to our outlook for the December quarter, we expect total revenues to be in the range of $2.72 billion plus-or-minus 5%. Non-GAAP operating margin is expected to be above the midpoint of our long-term target range of 13% to 16% of revenue, driven by top line growth and improved gross margin. And non-GAAP EPS is expected to be $1.32 plus-or-minus 5%.
+Overall, we are executing very well, and while we continue to face geopolitical challenges, we believe improving industry demand combined with the ramp of our 16-terabyte drives, a solid foundation for revenue and profitability growth in the fiscal year 2020.
+I will now turn the call back to Dave for final comments.
+Dave Mosley
+Thanks, Gianluca. In summary, Seagate is consistently delivering solid performance and advancing our key business initiatives. We're generating sustainable cash flow and directing capital towards areas that provide the greatest return for all of our stakeholders. We are successfully scaling exabyte capacity and executing the Company's fastest ever production ramp on a nearline drive at 16 terabytes. We are on track to introduce HAMR and MACH.2 dual-actuator technologies to drive areal density and scale performance with capacity to deliver lower total cost of ownership to our customers over the next decade.
+While we are mindful of global macro uncertainties and the recent industry dynamics, we remain focused on delivering value for all of our stakeholders by executing our technology road map and optimizing profitability, and free cash flow. We continue to expect revenue and profitability to grow in fiscal 2020, with the second half projected to be somewhat stronger than the first supported by our 16 terabyte ramp and improving mass capacity storage demand. Through our ongoing execution, leading technology roadmap and deep customer relationships, Seagate is well positioned to capitalize on the significant opportunities in mass capacity storage.
+Before opening the call for questions, I would like to take a moment to thank our customers, suppliers, business partners and employees for their contributions to the ongoing success of our business.
+Gianluca and I will now take your questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Your first question comes from Karl Ackerman with Cowen. Your line is open.
+Karl Ackerman
+Hey, good morning, everyone. Thanks for letting me ask the question. Two if I may. There has been much investor debate whether you are better positioned among peers, who are gaining share in nearline, as you and one peer have 16-terabyte today, another one is in the lead on 14-terabyte[Phonetic]. But are there any other attributes that you'd like to call out that we should be aware of aside from just capacity per drive that would enable you gain share over the next few quarters? And I have a follow-up, please.
+Dave Mosley
+Yes, Thanks, Karl. I think, to simply put, the demand is increasing in nearline and we also see that the 16-terabyte is last with customers and so we have fairly good relationships, predictably getting into their architectures. I think we feel pretty comfortable that we'll be able to hit this volume ramp. I can't really speak to what other people might do on their capacity points, but being that, that's a leading exabyte point that's right in front of us. And probably, through significant portion of the next calendar year as well, we feel pretty strong.
+Karl Ackerman
+Got it. That's helpful. If I could ask you a question on gross margins, which I know that message today and on your Analyst Day has been around operating margins. But one of your competitors this week alluded to some pricing pressure in nearline. Do you think that pricing pressure will get worse before it gets better? Do you think pricing is the main reason why, maybe, we haven't seen an inflection yet in your margins -- gross margins that is despite higher levels of enterprise mix? And maybe more importantly though, as we continue to push the aerial density curve, and you certainly can leverage the additional capital required to pursue this greater complexity of heads and disks in the high-capacity points. Why can't margins push toward that fore handle[Phonetic]? Thank you.
+Dave Mosley
+They certainly can. I'll let Gianluca elaborate on the impact of the ramp costs that he mentioned in the script. But first just let me say that in our business, to your point, gross margin is a function of supply and demand, very specific to the demand for the products that you have. And for the last few quarters, exabyte demand was relatively weak. I mean, if I go back three quarters ago, we sense this was happening. We made conscious decision to throttle bills, manage cash, inventory, really carefully. And also start converting production to the new platforms. By the way, the new platforms are not just the 16-terabyte, but we have continued to ramp a various cost reductions for other products across the portfolio.
+So demand is definitely picking up. That's why -- one of the reasons why we're confident. The strength of the demand will go through the back half of this fiscal year, I think and potentially even further than that. So we feel like calendar year 2020 is very -- is a lot stronger than calendar 2019. And with the new products, I'm confident we'll get into that opex[Phonetic] model range that we talked about. Quite quickly, that's why Gianluca mentioned that we'd be above the midpoint of our long-term operating range in Q2 than what we drive it.
+To you point, I think gross margins will rise with all of those dynamics, and Gianluca, I'll let him elaborate here.
+Gianluca Romano
+Yes. Hey, Karl, thank you for the question. So, as we discussed in the previous earnings release call, we did not ramp all the production at full capacity in the last two or three quarters. And that was generating under-utilization charges that was higher, let's say, three quarters ago and they're starting to reduce. During this period of time, we are still adding capex, giving us the opportunity for even higher capacity when we are ready to take benefit from that. And I know, we have strong demand. So we are ramping hard. It's basically on our 16-terabyte, but also other product on lower capacities.
+When we ramp so fast, sometimes you have additional costs, a little bit lower yield, a little bit of additional scrap. We had a little bit of those impacts in F Q1. We don't expect that to happen again in F Q2 and after that. So we expect margins in general, so gross margin and operating margin to improve starting F Q2.
+Dave Mosley
+And I think, one other point we'd make is that -- to your point, we have to make sure we make the investments. So we've been investing in capex for the heads and media that we need to stage for the exabyte growth. So Let's make sure we make those investments and get paid for those investments. So we're mindful of that over the long term as well.
+Operator
+Your next question comes from...
+Karl Ackerman
+Thank you very much.
+Operator
+Oh Sorry. Your next question comes from Steven Fox with Cross Research. Your line is open.
+Steven Fox
+Thanks, good morning. I had two questions. First on, a follow-up on the gross margin question. I know you're not providing guidance beyond the current quarter, but is it safe to assume that as you ramp capacity the yield issues and scrap issues that you mentioned are less than the incremental margins that you would garner from the new products? If you could just sort of elaborate on what that path might look like? And then I have a follow-up.
+Dave Mosley
+Yes, Steven, that's exactly the right way to think about it. And it's not just one capacity point, which we all tend to fixate on, there's other cost refreshes as we talked about through the rest of the portfolio. So we feel pretty good about that strength going into next year.
+Gianluca Romano
+And in this, to bear in mind, we are saying that we expect the second half of the fiscal year to be stronger than the first half. So, of course, this is part of our confidence in the result.
+Steven Fox
+All right, that's helpful. And then just a question on the surveillance drives. I understand what you said in the prepared remarks about the tougher comparisons in some of the changes that you saw this quarter. What is the recent demand, say, though for surveillance drive prospects for the next few quarters? Are you lowering those or do you see different mix of capacity points, etc? Could you just give a little bit more view on that? Thanks.
+Steven Fox
+All right, that's helpful. And then just a question on the surveillance drives. I understand what you said in the prepared remarks about the tougher comparisons in some of the changes that you saw this quarter. What is the recent demand, say, though for surveillance drive prospects for the next few quarters? Are you lowering those or do you see different mix of capacity points, etc? Could you just give a little bit more view on that? Thanks.
+Dave Mosley
+It's a really interesting question. If I go back about a year to 18 months, the demand -- the box demand was actually higher. The exabytes have grown certainly in surveillance and some of the other mass capacity markets. But we started talking about three quarters ago about demand disruptions. And it's kind of interesting, the people want to focus that on just one local, but really that can be much more broadly based and it could have to do with people pulling stuff in, because they are speculative, maybe I think, they can gain share or something like that. So that demand has been disruptive for quite a while.
+The end demand -- the end market demand is strong for exabyte, and we believe it will continue to grow strongly next year. Exactly how we satisfy that demand is -- it is still a question. And what's interesting about some of the global markets is they're, really more what we call white brand markets. There is -- the people making the final buy decision out there is actually doing integration in a business or in a home or something like that. But it is a fairly small box size. We don't think that end demand is slowing down at all. As a matter of fact, we think it's growing.
+Steven Fox
+Great. That's helpful. Thank you.
+Operator
+Your next question comes from Katy Huberty with Morgan Stanley. Your line is open.
+Katy Huberty
+Thank you. A couple of questions. First, enterprise price per exabyte sell much more this quarter than in the recent history. Can you just talk about, is that mix or like-for-like price aggression in the market?
+Dave Mosley
+I think -- I don't think ours fell too much. I mean we're still analyzing what just went up. But I don't think ours fell too much. I think Katy, what I would say is that, a few quarters ago demand was soft, and so therefore there may have been some behaviors like that. I think as we feel -- going forward, we feel very confident about where we are, and that's one of the reasons why we think we can get back to that gross margin range.
+Katy Huberty
+And then last quarter you talked about some different behavior in buying in the China market. Intel gave an actual revenue attribution to some pull forward of demand ahead of tariffs. Any dynamic in your business this quarter, as it relates to a benefit from early buying around trade negotiations?
+Dave Mosley
+I would say that, it's still disturbed. And to your point, that's kind of what we discussed, not only last quarter but the quarter before, I think as well. There -- it's a Steven's question. Those disturbances are still present. I think we said something like that in the prepared remarks as well. I think that the end demand is still not strong. And I feel like calendar year 2020 will be better than calendar year 2019. We're certainly going into January quarter last year. We were signaling that we saw the softness. So the end demand is still there, I think, and it's just a matter of how do we exactly fulfill that end demand.
+Gianluca Romano
+And then...
+Katy Huberty
+Thank you.
+Gianluca Romano
+Katy, going back to your question for price impact terabyte in nearline, as you know, we also increased our average capacity per drive in that segment. And usually when you have this increase of the average capacity, you have a little bit of decrease in price per terabyte.
+Katy Huberty
+Okay. Understood. Thank you.
+Operator
+Your next question comes from Aaron Rakers with Wells Fargo. Your line is open.
+Aaron Rakers
+Yes, thanks for taking the question. I have two as well, if I can. I guess, going back a little bit to the gross margin line. Obviously, the yield ramp on 16 TBs and then I guess, as we look forward, the progression of HAMR into next year. But I'm just curious as you kind of add capacity, how should we think about the level of capacities shipped as kind of -- your kind of full utilization level here as we look out over the next couple of quarters? I'm just kind of curious relative to where we stand this last quarter at 98 exabytes.
+Dave Mosley
+Yes, I think the exabyte capacity will go up very strongly over the next few quarters. I'll let Gianluca talk here in a second. But Aaron, the way I would say it is 16 terabytes of some of the driver for that. There is other products across the portfolio that are driving as well, the margin improvement. We think we've positioned things well. It's a subtle point but a lot of the capital positioning is actually in heads and media. So it's different than drive capacity if you will. So, -- and so we're really responding proactively to that exabyte growth, making sure we have the right products ramped and at good yields and everything when the demand gets bigger.
+Gianluca Romano
+Yes, we are still not at full capacity, and we are still adding some capex. We have a huge expectation for volume increase demand in the next, I would say, two or three quarters. So we are preparing to satisfy that demand. And we should be at full capacity, I would say, maybe in two quarters from now. But of course CapE we want to add in few days.
+Dave Mosley
+And over the very long -- you know that's long lead time capital as well. But over the very long haul, I think to one of the earlier questions. We need to make sure we have that capacity in place, because we do believe there'll be constraints.
+Aaron Rakers
+Okay. And then just as a quick follow-up, as -- there was, not necessarily a competitor of yours, but a company last night alluded to basically a notable pause at one of the hyperscale guys. They also talked about hyperscale companies moving to more -- almost a more real-time procurement cycle. How would you characterize your engagement with the hyperscale guys as far as the visibility in demand for the nearline drives? Has that changed at all over the past few quarters as we kind of think about this recovery that seems to be you're confident kind of continuing to last over the next couple of quarters?
+Dave Mosley
+I would characterize our engagement as very strong, and their problems -- depending on who they are, they're different, but their problems are very complex. So it's not a one size fits all the answer. And I think part of the issue that you might see with other companies that I won't speculate too much, but the issues you might see if you're qualified on one part of an architecture and also that architecture gets delayed for whatever reason, it could be impactful.
+I think, generally speaking, some componentry and hard drives are in there as well, tend to be fairly broad-based, although, for example, we may have an 8-terabyte drive qualified on one architectural point and that doesn't move as fast. So it's not like the entire fleet transitions at the same time. These customers have complex not only supply chains, but also problems sets themselves. And I'm speaking globally as well. As the bigger the world gets, the more -- there is some of these inherent inhibitions to transitions. They have to make sure that they test them against more complex set. So it's not surprising to me that from time to time that you can see one architecture affecting you. But I think most of the demand that we see is -- across exabytes broad based across architectures that -- what drives our confidence.
+Aaron Rakers
+Okay. Thank you.
+Operator
+Your next question comes from Christopher Muse with Evercore. Your line is open.
+Christopher Muse
+Yes, thanks for taking the question. Your first question, as you think about the 16-terabyte ramp really accelerating in the first half of the year, how should we think about seasonality into your March quarter versus what typically at least over the last five years is tracked down 10% sequentially?
+Dave Mosley
+Yes, good question. Thanks. There will be seasonality in some of the legacy markets that we always talk about. But I think the exabyte demand in the mass capacity markets is strong. And there, obviously, dynamics in one quarter with Chinese New Year coming and then the quarter after that is the seasonally weakest quarter, but we think that there is such strength. That's why we're so confident in our back-half revenue numbers that I may have referenced here earlier.
+There is also a fairly large transition that will happen between people who would -- exactly to the earlier question, the people who were on 8s or 12s or 14s and made transition to the 16s, or 18s, sometime way next year. As all those transitions go up, the exabytes growth is very good. And so getting out substantially is our top priority.
+Christopher Muse
+Very helpful. As my follow-up, considering you had the extra week in the September quarter, is the math just simply removing that week, so roughly $350 million opex, and as part of that, how should we kind of model that trajectory of opex beyond the December quarter into calendar 2020.
+Gianluca Romano
+Yes, OpEX F Q1 was actually will be better than what we were planning. But you are right. So if -- one-extra week, I would model fairly flat for the next, maybe quarter or two.
+Dave Mosley
+We think we can support all the customer transitions that we need to without raising opex -- we can always trim if we had to, depending on macro conditions. But we don't really see that need right now. So I think flat is a good way to model it.
+Christopher Muse
+So to be clear. So flat at $378 million[Phonetic] even though you had the extra week in September?
+Gianluca Romano
+I think, your $378 million is providing including share-based compensation. So you should take that out of there. Just look at what we reported yesterday.
+Christopher Muse
+Okay, good.
+Operator
+Your next question comes from Ananda Baruah with Loop Capital. Your line is open.
+Ananda Baruah
+Yes, thanks for taking the question guys. I was going to say good morning but good afternoon for you guys. Two, if I could. The first is a clarification on gross margin. Gianluca, you had mentioned one or two items that could be adjusted back to get a sense of structural gross margin. You mentioned 50 basis point headwind from new product ramp costs, and then there is mention of a $23 million impacting gross margin as well. Are those separate items? And I guess, my question, if they are, is it an accurate way to think of kind of structural gross margin, I guess, 50 basis points impact from each of that. So it would be actually be a 100 basis points higher for the quarter. And walk us through that If that's not accurate. Thanks. And then I have a quick follow-up.
+Gianluca Romano
+I'm sorry, Ananda, we couldn't hear you second part of the question. So a 50 basis points we got it. What is the second one?
+Ananda Baruah
+The other one was, there was a mention -- you made a mention of a $23 million impact. And the question is, is that separate from the 50 basis points from the new product cost ramps?
+Gianluca Romano
+Yes, so -- yes. And the 50 basis points that are related to, let's say, lower yields and higher scrap -- related to that ramp, we don't expect that to happen in F Q2. So you should count that as an improvement. I think the $23 million that I mentioned in the prepared remarks were the depreciation change -- was a impact of the depreciation. Now in F Q2, you will have a little bit higher impact. So you should consider also this one. The timing when you start the change, part of the impact is in inventory. So Q1 was -- P&L impact was $23 million [Indecipherable] a little bit higher, not much higher, a little bit higher.
+Ananda Baruah
+Got it. Understood. And then the second question is just with regards to where the hyperscale cycle is right now? Dave, is it accurate that you mentioned in the prepared remarks that it's a little bit of ahead of expectations were you guys thought it would be? And then I guess like, how -- you made comments in the past about what you think potential for this cycle could be with regards to growth. Do you still feel those are valid? Could you give us an update there? How you feel, sort of, what you're thinking in terms of growth potential?
+Dave Mosley
+Yes, from the demand perspective, it's about where we thought it would be. It doesn't mean that it ticks and ties everywhere where we thought it would be, but it's about relative to where we thought it would be. There is some indication that there is -- to the point I made earlier about the complexity that some of the global partners have to qualify new products and things like that. We think that there is a little bit of an urge around that, but obviously[Phonetic], suggest that even thought it might be later, it suggests a higher demand to get back to the point of 18 months ago when the demand was very high. So that's one of the reasons we feel comfortable about the demand cycle.
+I think, what we talked about was a 16 terabytes on plan to slightly ahead of plan. So happy with the qualifications across more than a dozen OEMs now. We start -- we ship those first drives in April remember. So there has been a lot of work to get here. The qualifications have run very well. Customer demand is high and that's where we get more bullish.
+Ananda Baruah
+Okay, that's great. That's helpful. Thanks a lot.
+Operator
+Your next question comes from Mitch Steves with RBC Capital Markets. Your line is open.
+Mitch Steves
+Hey guys. Thanks for taking my questions -- the first one is just to kind of flesh out a bit on the data center side. So if I hear this right, the data center piece is probably going to be one of the faster growing end markets for you guys in kind of December and March. Are there any ways to directionaly help us out in terms of what markets you guys have seen do better over the next couple of quarters or so?
+Dave Mosley
+Yes, I think definitely data centers are the strength that we're seeing. We call it all there, like -- I get your your point, but globally, different people are building on different types of data centers. But we call it all nearline strength.
+Mitch Steves
+Yes. The second one I had is, your competitors kind of talked about the 30% gross margins for hard disk drive in December. So how long should we expect kind of a product transition? I kind of understand the investments cycle out there. But how long should we wait? And do you guys think you can hit maybe 30% on the HDD side?
+Gianluca Romano
+Well, we don't guide gross margin. As I said, we expect F Q2 to be higher than F Q1, and you can probably model based on our revenue and EPS guidance. But as we said, we expect an improvement quarter-over-quarter.
+Dave Mosley
+Yes, the opex will be above the midpoint of the range as well. And so we'll just -- continue to look at the value that we provide. And customers' demand, like I said, is strong. So we continue to work that. Our cost reductions are good. So all vectors are pointed in the right way -- direction. But we don't want to get specific on guidance.
+Mitch Steves
+Yes, let me ask you in a different way. Is 30% attainable for the Company, gross margins long term?
+Dave Mosley
+Certainly, the demand -- if the demand picture is high enough, Yes. I mean we...
+Mitch Steves
+Okay.
+Dave Mosley
+Eventually driven the capital -- the operations to be sized for exabyte growth. And if the demand picture goes there then we have the right products to get it. Sure.
+Mitch Steves
+Perfect. Thank you so much.
+Operator
+Your next question comes from Mark Delaney with Goldman Sachs. Your line is open.
+Mark Delaney
+Yes, good morning. I have two questions as well. Thanks for taking them. First is on the fiscal 20 revenue outlook. I think at the Analyst Day the Company talked about the potential for revenue to increase in fiscal 2020. And on the comments today, I think, we talked about having some good backlog and expecting strength in second half fiscal 2020. So as you sit today, do you still think that's achievable? And any more quantification you may be able to provide around fiscal 2020 Revenue.
+Dave Mosley
+Yes, that's the right takeaway mark, and that's where the confidence comes. The one thing, we did -- I did mentioned earlier was, as some of the transitions that are going on globally from one platform to another in spite some of the different customers, there is more opportunity I think for us to have a better product portfolio in there, whether it's a lower cost, lower capacity drives or whether it's the 16-terabyte kind of marquee point, that provides us opportunities to get more revenue than we have.
+Mark Delaney
+Okay. That's helpful. And my second question is a follow-up on some of the prior questions on gross margins. I understand and there has been some near term headwinds around cost and yields. But if we look at gross margins for both Seagate and your main competitor there, they're down cycle-to-cycle compared to where they had been in past points when nearline was doing well.
+I'm assuming pricing has gotten a bit more difficult. But is there anything else beyond pricing, that those maybe more structural? I don't know if nearline mix increases more towards hyperscale compared to be more balanced in the past between OEM and hyperscale. Is that having an effect or anything else that may be more structural versus temporal in nearline gross margins? Thanks.
+Dave Mosley
+Yes, I can only really speak to us. So what I would say is that demand is not as strong as it was 18 months ago, to your point. The peak at the last cycle, Q4, Q1 a year ago, demand was quite strong then. So it's not been a strong, but we think it's the strength of building, and that's what we've been talking about, and then having the right products in the market that we feel comfortable to ramp and high volume against that, that's what gives us the confidence.
+Mark Delaney
+Thank you.
+Operator
+Your next question comes from Vijay Rakesh with Mizuho. Your line is open.
+Vijay Rakesh
+Yes, hi guys. I just wondering as you look at the next time of transition, when do you expect that to ramp? What do you expect the mix would be end of 20 years, mid-2021ph? And if you could give us some margin profile or cost profile on that? Thanks.
+Dave Mosley
+Yes, I think that's -- Thanks for the question. There is -- the highest capacities, which -- depending on where you're shipping them, the qualification cycles can be long or short. There's also opportunities for even lower capacities built out in that same platform. So, we will ramp that to your point as the yields makes sense. And if the cost makes sense to insert in the market. As time goes on, we gain confidence because we keep solving the engineering problems. So we're pretty happy about that. I think there is 18-TB before, there's 20-TB as well. So I think that's going to come to the market. But the HAMR transition is ultimately something that's going to drive us forward into 2021 and 2022. And we'll continue to ramp there.
+Vijay Rakesh
+Got it. And then, I think you mentioned nearline or overall you're seeing a little softness. As you look through 2021, do you expect overall data center spending, nearline spending to be more back half loaded or middle of the year, any some more colour if you can give? Thanks.
+Gianluca Romano
+Are you talking about fiscal year or calendar year?
+Vijay Rakesh
+Calendar year, sorry.
+Dave Mosley
+Oh Sorry, Calendar year, so yes, calendar year 2019 was relatively muted, especially in the first two quarters. Calendar year 2020 will be stronger year-over-year and it's more broad based exactly to your questions. That -- not only the exabyte transitions that are going on, but the demand picture as well.
+Vijay Rakesh
+Thanks.
+Operator
+Your last question comes from Jim Suva with Citi. Your line is open.
+Jim Suva
+Thanks very much. Earlier in the call, you mentioned you will be fully loaded or higher utilization rates, can you remind us of that time period, and was that calendar or fiscal year? And then as a follow-up as HAMR ramps up, will there be much of a impact to operating or gross margins? As we go about that, I know, certain technology changes. Do you have a meaningful impact to margins like short-term headwind and then longer-term positive, but I just didn't know what's HARM ramping if it's going to be material to your company-wide margins? Thank you.
+Gianluca Romano
+Yes, in terms of capacity, I said we will be close to full capacity in the next couple of quarters. So let's say in the first half of calendar year. And Dave maybe taking the HAMR question.
+Dave Mosley
+Yes, I think on HAMR we will do the right thing. As time goes on, we'll continue to manage for operating income and free cash flow and continue to work the cost to the earlier question. I don't expect it to change the model. Obviously, we want to drive the model as hard as we can, and if we can drive it to the high end or drive the model up that's great too. But I don't expect HAMR to change the model.
+Jim Suva
+Thank you so much for your clarifications. Its greatly appreciated.
+Operator
+I'd now like to turn the call back over to Dave Mosley for closing remarks.
+Dave Mosley
+Thank you. Once again thank all of our employees, customers, suppliers and business partners for all their contributions to our third quarter performance, and thanks to our shareholders for their ongoing support. We'll talk to you all next quarter. Thanks.
+Operator
+This concludes today’s conference call. You may now disconnect.+
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+4 Authors in the Last 90 Days

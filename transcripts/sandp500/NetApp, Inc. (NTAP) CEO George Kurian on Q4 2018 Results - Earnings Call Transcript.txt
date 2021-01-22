@@ -1,0 +1,355 @@
+NetApp, Inc. (NASDAQ:NTAP) Q4 2018 Results Earnings Conference Call May 23, 2018  5:00 PM ET
+Executives
+Kris Newton - VP, Corporate Communications and Investor Relations
+George Kurian - Chief Executive Officer and President
+Ron Pasek - EVP, Chief Financial Officer
+Analysts
+Andrew Nowinski - Piper Jaffray
+Katy Huberty - Morgan Stanley
+Joe Wittine - Longbow Research
+Lou Miscioscia - Pivotal Research Group
+Wamsi Mohan - Merrill Lynch
+Sherri Scribner - Deutsche Bank
+Steve Milunovich - UBS
+Ananda Baruah - Loop Capital
+Srini Nandury - Summit Insights Group
+Steven Fox - Cross Research
+Jim Suva - Citi
+Eric Martinuzzi - Lake Street
+Paul Coster - J.P. Morgan
+Amit Daryanani - RBC
+Nehal Chokshi - Maxim Group
+Operator
+Good afternoon, ladies and gentlemen. Welcome to NetApp's Fourth Quarter and Fiscal Year 2018 Financial Results Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will be given at that time.
+I will now turn the call over to Kris Newton, Vice President, Corporate Communications and Investor Relations.
+Kris Newton
+Thank you for joining us on our Q4 fiscal year 2018 earnings call. With me today are our CEO, George Kurian; and CFO, Ron Pasek. This call is being webcast live and will be available for replay on our website at netapp.com, along with the earnings release, our financial tables and guidance, a historical supplemental data table, and the non-GAAP to GAAP reconciliation.
+As a reminder, during today's call, we will make forward-looking statements and projections with respect to our financial outlook and future prospects, such as our guidance for the first quarter and full year fiscal 2019 and our expectations regarding future revenue, profitability, cash flow and shareholder returns, all of which involve risks and uncertainty. We disclaim any obligation to update our forward-looking statements and projections.
+Actual results may differ materially from our statements and projections for a variety of reasons, including global political, macroeconomic and market conditions and our ability to expand our total available market, introduce and deliver new and differentiated products and services without disruption, manage our gross profit margins, capitalize on our market position in cloud strategy, maintain execution, and continue our capital allocation strategy.
+Please also refer to the documents we file from time to time with the SEC, specifically our most recent Form 10-K for fiscal year 2017 and our current reports on Form 8-K, all of which can be found on our website. During the call, all financial measures presented will be non-GAAP, unless otherwise indicated.
+I'll now turn the call over to George.
+George Kurian
+Thanks Kris and good afternoon, everyone. Thank you for joining us today. The fourth quarter marked a great finish to a strong year with all key financial metrics in line with or above our guidance. We again saw a solid demand environment with key customer wins and footprint expansions in all geographies. Our momentum with customers continues to accelerate and we are increasingly viewed as a critical strategic partner for data driven digital transformations.
+Fiscal year 2018 was an important milestone in NetApp's transformation. We successfully pivoted to the growth areas of the market and improved operational discipline to deliver sustained and profitable growth. Through a focus on execution we grew total revenue by 7% while improving both gross and operating margins from fiscal year 2017. Most notably, product revenue grew 15% and we expanded product gross margins by 350 basis points. Growth in revenue from strategic solutions was strong and revenue from mature solutions stabilized as expected.
+Our Data Fabric strategy and industry leading solutions enable us to win new customers, expand share within existing customers and create new business opportunities. In fiscal 2018 we lead in all-flash arrays, entered the hyper converged infrastructure market with a differentiated enterprise grade offering and began capturing the shift to cloud with unique industry-leading partnerships. Clear innovation leadership coupled with strong go to market execution has enabled us to gain share in all key product categories and in every geography.
+Organizations are undergoing data-driven digital transformations to radically improve their business performance. These customers require solutions for a complex world where data resides in the data center, in multiple clouds, at the enterprise edge, and in externally linked applications and platforms. NetApp is uniquely positioned to help organizations derive business value and competitive advantage from their data regardless of its locations.
+We empower customers to take advantage of capabilities in the cloud across multiple hyperscalers, operate with hyperscaler cloudlike infrastructure and modernize traditional IT with flash and connections to the cloud. The Data Fabric connects customers to all the leading public cloud solutions and provides industry-leading data services across public cloud, private cloud, and the enterprise.
+Our competitors are struggling to adapt to this new era of hybrid cloud and without any semblance of a cloud strategy or cloud integration, they continue to fall behind. The strength of our strategy is alignment with customer's direction and our consistent execution is evident in the growth of our strategic solutions.
+In Q4 strategic solutions were 74% of net product revenue up 25% year-over-year. As expected, the headwinds from mature solutions have abated. Mature solutions contributed 26% of net product revenue in Q4 up 4% year-over-year. While we are encouraged by the stabilization in our mature business, we continue to look to our strategic solutions to drive product revenue growth in fiscal 2019. This shift to flash, which is still in its early innings is creating enormous new opportunity for us, as we consolidate and displace competitors' legacy equipment, gain share in new workload deployments, and upgrade our installed base.
+Our cloud connected all-flash solutions help customers modernize their IT environment and power artificial intelligence and compute in memory intensive applications. In Q4 our all-flash array business inclusive of all-flash FAS, EF and SolidFire products and services, grew 43% year-over-year to an annualized net revenue run rate of $2.4 billion.
+At the start of fiscal 2019 we expanded our innovation leadership in the all-flash market with the introduction of the AFF 800, the first available end-to-end NVMe platform and the industry's first support of high density 30 TB SSDs. We are helping data-driven customers thrive as they look to deploy new workloads like advanced analytics, artificial intelligence, and machine learning, with the fastest, most cloud connected enterprise all-flash systems.
+Our strength in flash is also driving our success in SAN and converged infrastructure markets. With our highly successful competitive takeout program we averaged two predominantly SAN displacements per day during fiscal 2018. This success is driving share gains in the SAN market from both new customer acquisitions and wallet share gains at existing customers.
+As customers look to accelerate their digital transformations they are increasingly turning to the simpler deployment models of converged and hyper converged infrastructure to build cloud. Driven by the strength of the all-flash FlexPod we are gaining share and grew 16% year-over-year in the converged infrastructure market per IDC’s quarterly converged systems tracker for calendar Q4 2017. This represents the fifth consecutive quarter of year-over-year share gain in the converged infrastructure market.
+Our relationship with Cisco remains strong and we've expanded our reach with our Fujitsu partnership. We began shipping NFLEX converged infrastructure solutions in Q4 and are excited by the opportunity to engage with Fujitsu's loyal customer base.
+In the HCI market we are winning against first generation players because of the strength of our enterprise grade HCI solutions, data fabric integration and track record for customer success. Customer demand for our HCI offering is driven by our ability to support heterogeneous workloads at scale with guaranteed quality of service and an efficient approach to flexing storage and compute separately reducing over provisioning and license costs.
+As customers undergo digital transformations, the public cloud offers many advantages, including rich applications, on-demand compute power and infrastructure efficiencies. An increasing number of customers are driving a cloud first IT strategy. Even customers without a cloud first agenda are mindful of future proofing their environments for cloud deployments which strongly benefits NetApp.
+With our strategic partnerships and cloud integrated data services portfolio, NetApp is uniquely positioned to help customers integrate, optimize, and protect their data on all the leading clouds. We enable our customers to leverage the innovation, time to capability, scale and efficiencies of the cloud while providing consistent data services and integration across hybrid and multi-cloud environments.
+Our approach to cloud is winning us new customers and driving richer and more strategic customer engagements across all our offering. Only NetApp has partnerships with all the leading hyperscalers and a complete cloud data services strategy for customers. We are grateful for and excited by the opportunity to work with customers in new ways and to have our data fabric be endorsed by the leading hyperscalers as a fundamental part of their data services offerings.
+NetApp cloud volumes for AWS is now generally available. We on-boarded customers for revenue in Q4 ahead of plan as your NetApp files for Microsoft Azure is in private preview with a growing pipeline of customers and we're off to a strong start in fiscal 2019 with the announcement of NetApp cloud volumes for Google cloud platform. The cloud volume user experience will be integrated into the Google cloud console and is in private preview now.
+Fiscal 2019 is a foundational year for this part of our business. As it grows we will provide you insight into how it is progressing. Our cloud data services allow us to monetize customers' use of the cloud and increase our opportunity to expand our market share as we help customers modernize their on-premises deployments.
+The breadth of our partnerships and momentum in the cloud give us an even stronger story for on-premises customers. Additionally, we are able to participate in new opportunities for born in the cloud applications and the uptake of advanced analytics, artificial intelligence, and machine learning on the hyperscalers the addition of Google to our cloud partnerships is a further endorsement of our cloud leadership and enhances our ability to provide even greater value to customers. The opportunity created by this part of our business is incredibly exciting.
+In summary, what a difference a year makes. We improved the consistency of our results, expanded our market opportunities, and successfully accelerated our momentum over the course of fiscal 2018. We are undoubtedly in the best position since beginning the transformation of NetApp. Our business is overweight in the growth parts of the market. We have industry-leading partnerships with all the top hyperscalers and we are acquiring new customers and addressing new workloads.
+We have made great progress and will continue to capitalize on our momentum in fiscal 2019. We laid out a compelling plan at our recent Analyst Day for growth with expanding margins and increased shareholder value. With our strong momentum, I am extremely confident in our ability to successfully deliver this plan.
+I want to thank the entire NetApp team for their relentless commitment to execution, customer success, and innovation. NetApp employees, partners, and customers all help contribute to a fantastic year.
+I'll now pass it over to Ron to go through our financial results and expectations moving forward. Ron?
+Ron Pasek
+Thanks George, good afternoon everyone and thank you for joining us. As a reminder, I'll be referring to non-GAAP numbers today unless otherwise noted. As I mentioned at our analyst Day, our team is extremely proud of the progress we've made. Our Q4 and full year results highlight our successful pivot to the growth areas of the market with our industry-leading innovation and execution.
+As George noted, we are seeing accelerating momentum through the transformation of NetApp, best highlighted by our product revenue growth and gross margin expansion. We expect continued progress in fiscal 2019 and are well positioned to deliver on our commitments to customers and shareholders.
+Before discussing our full-year results and guidance, I'll provide detail on our performance in the fourth quarter. Net revenues of $1.64 billion exceeded the midpoint of guidance growing 11% year-over-year including a three point currency tailwind. We achieved over $1 billion in product revenue which increased 19% year-over-year reflecting the continued strength of our strategic products, as well as the four and half point currency benefit.
+This is the sixth consecutive quarter of year-over-year product revenue growth. The combination of hardware maintenance and other services and software maintenance revenues of $630 million were flat quite year-over-year and increased 4% sequentially, reflecting improved execution on renewals and continued growth in product revenue.
+The maintenance attach rate to new product sales remains consistent and we continue to see healthy growth in our install base. Gross margin was 63% above the high-end of our guidance range. Product gross margin of 51.5% increased 2.6 points year-over-year reflecting improved sales discipline and some currency benefit. Both hardware maintenance and other services gross margin and software maintenance gross margin were relatively flat year-over-year.
+Operating expenses of $699 million came in higher than expected. The increase was due almost entirely to higher variable compensation expense associated with our over performance. Excluding variable compensation expense and to a lesser extent currency and salary increases, OpEx would have been flat year-over-year. We remain committed to strong OpEx discipline and with the annual reset of variable compensation expect OpEx dollars to be down year-over-year for the full-year fiscal 2019.
+Operating margin of 20.4% was within our guided range. Weighted average diluted shares outstanding were $273 million down $3 million sequentially, reflecting the completion of our previous $2.5 billion share repurchase commitment. EPS of $1.05 was above the high-end of our guided range and increased 22% year-over-year demonstrating the considerable leverage in our business model. The EPS upside was predominately driven by healthy growth in product revenues and expansion in product gross margins.
+We closed Q4 with $5.4 billion in cash and short-term investments. Similar to Q3 we saw healthy growth in deferred and finance unearned services revenue which increased 4% year-over-year and 6% sequentially. During the quarter we repurchased $344 million in our shares and reduced our outstanding commercial paper by nearly $250 million.
+As we discussed at our financial Analyst Day, the Board authorized a new $4 billion share repurchase program. We have also doubled our dividend and remain committed to increasing it further over time. Today we announced our fiscal Q1 cash dividend of $0.40 per share which will be paid on July 25.
+Our cash conversion cycle of negative 15 days improved 30 days year-over-year reflecting a 34-day increase in days payable outstanding and a seven-day decrease in days inventory outstanding, partially offset by a 11-day increase in DSO. DSO was impacted by a strong finish to Q4.
+We had another outstanding quarter of cash generation with cash flow from operations of $494 million, an increase of 35% year-over-year. We generated strong free cash flow of $446 million in the quarter which represented 27% of net revenues, an increase of 36% year-over-year.
+Now turning to our full-year 2018 results. Net revenues of $5.91 billion increased 7% compared to fiscal 2017 aided by a 2-point currency tailwind. Gross margin of 63.4% was up more than a point compared to the previous year and above our guidance range of 62% to 63%. Operating margin of 19% improvement was 2 points versus fiscal 2017 and was within our guidance range.
+In fiscal 2018 improved execution yielded strong product revenue growth, margin leverage and significant earnings and free cash flow growth. I am pleased to report that we met or exceeded our commitments across all of these metrics.
+EPS of $3.47 increased 27% from 2017, again demonstrating the operating leverage in our business model and disciplined execution. We generated free cash flow of $1.3 billion in fiscal 2018 which represented 23% of net revenues and is an increase of 64% year-over-year. We continue to deliver on our capital allocation strategy with nearly $800 million in share repurchases and over $200 million in dividends. We returned 76% of free cash flow to shareholders in fiscal 2018.
+Now on to guidance, as we outlined at our recent Analyst Day in fiscal 2019 we expect revenues to grow mid single-digits with linearity consistent with our normal seasonal patterns. We are forecasting gross margin of approximately 63% and expect operating margin in the range of 20% to 21%. We are committed to delivering EPS growth in excess of 15% and expect our effective tax rate to be approximately 18%. Additionally, we expect to continue to generate meaningful free cash flow in the range of 19% to 21% of revenues.
+As a reminder, we are transitioning to 606 revenue recognition in Q1 which we expect to be immaterial to our total results.
+Now on to Q1 guidance, we expect net revenues to range between $1.365 billion and $1.465 billion which at the midpoint implies a 6.8% increase year-over-year including a 1.3 point currency benefit. We expect Q1 consolidated gross margins to be approximate 64%. We expect Q1 operating margin to be approximately 18%. While we don't explicitly guide OpEx the implied Q1 year-over-year increase is driven by currency and merit compensation increases. Note that the Q1 year-over-year OpEx increase will be more than offset throughout the remainder of the year resulting in OpEx being down year-over-year for the full-year fiscal 2019.
+During Q1 we conducted a workforce realignment of less than 2% of employees as we continue to focus investment dollars toward the best market opportunities and key growth initiatives. We expect earnings per share for the first quarter to range between $0.76 and $0.82. In total, I'm confident about our growth opportunities, especially as it relates to our compelling cloud strategy. Additionally, I'm very pleased with the opportunity we have to continue margin improvement in fiscal 2019 and throughout the long-term plan we communicated at our Analyst Day.
+With that, I'll hand it back to Kris to open the call for Q&A. Kris?
+Kris Newton
+We'll now open the call for Q&A. Please be respectful of your peers and limit yourself to one question so we can get through as many people as possible. Thank you for your cooperation. Operator?
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions] Our first question comes from Rod Hall with Goldman Sachs.
+Unidentified Analyst
+Hi this is RK [ph] on behalf of Rod. Thanks for taking my question. Are you seeing NAND pricing start to come down and to what extent do you expect that to boost your all-flash array sales? And also for your latest NVMe product, could you talk about how it’s differentiated from the competitor offerings and whether it's intended just for high performance applications or for more mainstream workloads?
+George Kurian
+Let me start by telling you about our NVMe solution. We are the first to ship an end-to-end NVMe solution in the market. We had NVMe solutions that provide investment protected connectivity between the hosts and the storage system over InfiniBand and fiber channel that allows customers to leave in place the network footprints they have already deployed and take advantage of even lower latencies.
+We also have NVMe connected within the system either as storage devices or as caches and we are differentiated by the fact that we have an end-to-end offering. The fact that our performance from a IOPS perspective is substantially higher, from a throughput perspective it's four times higher than any other competitor in the marketplace and from a latency is industry leading at 200 microseconds and less. So we feel very good about the capabilities that we’ve introduced in the market. With regard to NAND pricing I'm going to let Ron comment.
+Ron Pasek
+Yes, we do see supply getting a little bit better and therefore prices leveling out and starting to go down a little bit. We're anticipating through the [indiscernible] we may see some price decrease, so we want to see those before we taken any actions.
+Kris Newton
+Thanks RK [ph]. Next question?
+Operator
+Thank you. Our next question comes from Andrew Nowinski with Piper Jaffray.
+Andrew Nowinski
+Great, thank you very much and congrats on the very nice quarter. You talked about new workloads moving on to the NetApp platforms and one of your competitors is talking about a large direct [indiscernible] storage replacement opportunity in the market which makes sense given the increasing network speeds allowing customers to leverage the benefits of shared storage without incurring a performance penalty. And it looks like, I guess given that you just expand your NVMe portfolio I’d imagine you’re also seeing similar trends, I'd love to hear your thoughts on that opportunity?
+George Kurian
+Clearly the lower the latency in the network fabric, customers can replace direct connected storage devices with shared storage and still get the benefits of high performance. I think the combination of NVMe connected storage as well as advancements in software like with our Plexistor technology will allow us to continue to give customers the benefits of shared storage for an ever increasing range of workloads.
+In particular the NVMe solutions that we’ve introduced for both InfiniBand and fiber channel allows us to go after the highest performance end of the fan market by redefining a fan landscape and it allows us to gain ever further market share using our flash portfolio, so we feel really good about the overall opportunity.
+Andrew Nowinski
+That’s good. Thanks. And then if you’re allowing a followup I guess just real quick on the gross margin, you clearly outperformed in Q4 and it looks like you expect the momentum to continue to improve in Q1 but your annual guidance suggests that product margin could deteriorate a little bit in the second [and the latter half] [ph] I guess is that just conservatism or is there something more specific that would drive that down from where it's at in Q1? Thanks.
+Ron Pasek
+So remember Andy, the weighting of product revenue to services revenue in Q1 is much, much higher so that weighting makes Q1 a little bit higher throughout than the rest of the year. What you're seeing from Q4 to Q1 is essentially product margins staying where they were in Q4 roughly and the benefit of the higher service revenue and higher service margin.
+Andrew Nowinski
+Very good, keep up the good work guys.
+George Kurian
+You bet.
+Kris Newton
+Thanks Andy. Next question?
+Operator
+Thank you. Our next question comes from Katy Huberty with Morgan Stanley.
+Katy Huberty
+Thank you. I want to followup on gross margins. Ron, you mentioned sales discipline improved and that was a factor in better product gross margins in the April quarter, but I also think you benefit from less OEM mix and the volume increase. So can you just break down the factors that were in play as it relates to April margins? And then you mentioned product mix is the boost in July. Is there anything else driving you to the higher margins in July? Thanks.
+Ron Pasek
+So, if I look at the bridge from Q3 to Q4, for product margins, most of the improvement was better sales discipline. We had a little bit of [indiscernible] FX. You also remember that we actually did quite well in the quarter. We outperformed particularly on the product revenue side and that wasn't at the expense of discounting, so we held our discounts constant and over performed revenue. The other part of your question is on Q1 with respect to just product margins specifically or I'm not going to guide it per se, but…
+Katy Huberty
+Yes, I mean how would you expect the product margins to trend in the July quarter?
+Ron Pasek
+We don’t guide it, but you can assume based on the guide in total, that it’s roughly flat.
+Katy Huberty
+Okay. Thank you.
+George Kurian
+We continue to see opportunities to expand product gross margin. I think we’ve had really good progress through the course of this past fiscal year. You'll see us continue to press on those levers and other levers going forward. I think the differentiation of our software is strong. The material addition of the cloud business to the portfolio further differentiates our offerings and as we head into this fiscal year we feel really positioned well to extract the full value of that differentiation.
+Kris Newton
+Thanks Katy. Next question?
+Operator
+Our next question comes from Joe Wittine with Longbow Research.
+Joe Wittine
+Hi, congrats on another great quarter. I want to ask on competition first, it's being reported that Dell may rationalize its storage portfolio, so George I'm wondering how you see this playing out. Perhaps comment on how much of your competitive advantage over call it the last five or six quarters or so may have been driven by an overly complex portfolio at the key competitor to the extent you can?
+George Kurian
+Listen, I think our strategic portfolio’s progress speaks for itself. It has been north of 20% in terms of year-over-year growth for seven out of the last eight quarters. So we feel very, very good about the differentiation of our portfolio and its expanded differentiation through the work that we've done with the hyperscalers.
+I think what Dell has to do in terms of not only rationalizing their portfolio, but then to develop a coherent cloud strategy is years of work, and so not only does it yield as they rationalize yields for us to take our platform as they transition and give us expanded opportunity, but they’re years behind of on everything from flash to cloud. So we feel really good, we're heading into this new fiscal year with by far the best momentum and the most unique position in the market that we’ve had in as long as I’ve been at NetApp which is quite a while.
+Joe Wittine
+And Ron, quickly could you just address the right way to model your interest in other line here in a rising rate environment? Thank you.
+Ron Pasek
+Yes, so we had, you saw the benefit this quarter we have most of our – except for the reduced amount of commercial paper in essentially fixed bonds. But we have our cash in short term variable rate, so we actually would as we have more cash in that, we will continue to have net interest income. That’s how you should think about it.
+Kris Newton
+All right, thank you. Next question?
+Operator
+Thank you. Our next question comes from [indiscernible].
+Unidentified Analyst
+Yes, thanks for taking my questions. The question is for both George and Ron. I'm looking at your quarterly product revenue and you've done a great job of accelerating the year-over-year growth throughout the year and looking into fiscal year ’19 I want to get a better feel for how you see these performance execution?
+If I were to look at your FY’19 revenue guide it implies that there is a deceleration. I was under assumption that with cloud HCI revenue kicking in, it would help sustain the growth and compliment the acceleration of some of the more mature products, but I don’t see that implied in the guide. So I'm sorry for a long question, you could turn into multi parts, but back to your guide, how should we think about product revenue on a year-over-year growth and if there's a deceleration would new revenue streams help offset that?.
+Ron Pasek
+So [indiscernible] what I try to imply with the Q1 guide which is about 6.8% year-over-year growth is there is about 1.3 point currency tailwind helping that, which puts it back to about 5.5%, which is in line with what we indicated at Analyst Day. We have that benefit initially in the fiscal year for FX, but as you go through the years I mean great stay where they are that equalizes, so it looks like a deceleration but absent FX it's really not.
+We don't guide product revenue so we really can't talk through the year, but you know what's different this year about last year is we are coming out as I say no growth here into ’16, into ’17 and accelerated growth through the year, you're going to see more of a normalized growth consistent through the year, so a little different than what we're coming out of last year.
+George Kurian
+May be where we are in the fiscal year, we are early in the fiscal year. We have as we have done in the past planned the business conservatively from an operating expense standpoint. As we develop more visibility through the year we will share that in terms of updating you all. Over the last couple of years what we have established as a pattern of operating the company is that if we outperform in the top line as we have done, those outperformance typically flows through the bottom line in terms of increased returns to shareholders.
+And so you’ve seen us take that philosophy, we are very bullish on the strength of our product portfolio. Having the strategic products which is the place that we are focused on for growth, grow at 25% last quarter year-on-year and to have north of 20% for seven straight quarters, seven out of eight quarters, just shows the strength of the portfolio, so we'll tell you more as the year plays out. Our philosophy is to build a plan that we can meet or beat and provide you more updates as we see more visibility through the course of the year.
+Kris Newton
+Thanks. Next question?
+Operator
+Thank you. Our next question comes from Lou Miscioscia with Pivotal Research Group.
+Lou Miscioscia
+Okay, great. So what you can share because I know you're not really guiding to product line, but obviously strategically has done very well what we expect the same type of growth and as we obviously looking at mature which is now stabilized would you even expect maybe low single digit growth there or more likely flat, just trying to understand that if possible?
+George Kurian
+So as we’ve said in prepared remarks we continued to focus on the strategic portfolio to drive growth. We are pleased that the results and they represent the strength of the portfolio. As we head into the second half of this year, you will see the additions of the cloud data services business come into play as well as an expanded set of capabilities in hyper converts. So we feel good about the prospects for the strategic portfolio product and we'll tell you more as the year pans out.
+With regard to mature, we have as expected seen the stabilization of the mature products. The mature products as we said before, depend on 7-Mode which is our legacy technology, the OEM business and add-on storage. 7-Mode is essentially no longer being sold and so you should expect that to be zero going forward. The OEM business and add-on storage are lumpy on a quarterly basis, but over the course of the year should be no longer a headwind at least to the business; whether it yields growth is dependent on the opportunities we capture. I think that we feel good about modeling it as at least flat for this coming year.
+Lou Miscioscia
+Okay, thank you. Could you share how much 7-Mode was for the fiscal year that just ended? 
+George Kurian
+Immaterial, small numbers.
+Lou Miscioscia
+Thank you. Good luck on the year.
+Kris Newton
+Thank you, Lou. Next question?
+Operator
+Thank you. Our next question comes from Wamsi Mohan with Merrill Lynch.
+Wamsi Mohan
+Yes, thank you. Quick clarification on the product gross margins, did NAND pricing have any impact on the quarter-on-quarter product gross margins I think you mentioned will be roughly flattish until fiscal 1Q as well, are you anticipating any puts and takes from NAND pricing within that?
+Ron Pasek
+No, it was immaterial, product gross margin either from Q3 to Q4 or what I looking at into Q1 as well.
+Wamsi Mohan
+Okay, great thanks Ron. And then you alluded to OpEx increase in the quarter really all driven by increase incentive comp from the outperformance, just wanted to understand your fiscal ’19 commentary, do you expect absolute OpEx dollars to be down X potential outperformance or is that an all in comment?
+Ron Pasek
+So we plan to make the plans, right? So if I look at the absolute OpEx dollars year-to-year they are actually going down now that we have that higher than expected Q4 results and therefore higher than expected compensation. There is some, so you get a reset of variable comp and then there's a little bit of headwinds due to FX on the OpEx side. All-in-all the full year is basically flat.
+Wamsi Mohan
+Okay, great thanks a lot.
+George Kurian
+We don’t try to model outperformance in the base plan we build for the year, right? We target the base plan for OpEx to be that we achieve the annual operating plan of the company. The outperformance would be reflected in operating expense that is accrued to reflect the outperformance and will vary quarter-by-quarter depending on the performance year-to-date.
+Wamsi Mohan
+Okay, thanks for the color George.
+Kris Newton
+Thank you, Wamsi. Next question?
+Operator
+Thank you. Our next question comes from Sherri Scribner with Deutsche Bank.
+Sherri Scribner
+Hi, thank you. I actually wanted to follow up on that question and thinking about the operating expenses declining as you guided to for the fiscal ’19, what are the additional opportunities you have to reduce OpEx at this point? It seems like you guys have been through the process of taking out a lot of those expenses and if you're assuming that revenue is going to grow mid single digits, I guess I'm trying to understand how OpEx is going to be able to be flat to support that?
+Ron Pasek
+So thanks for the question Sherri. We continue our transformation. There are a number of different initiatives we have going forward for the next several years really and they're different across each functions. In most cases we use that to fund other investments we are wanting to make, so you don't see the results of that necessarily. Occasionally yields restructuring charges as I mentioned in the call for Q1, but it’s rather small. But we're continuing to disinvest and reinvest and that’s how we're able to hold up that’s roughly flat.
+Sherri Scribner
+Thank you.
+Kris Newton
+Thanks Sherri. Next question?
+Operator
+Thank you. Our next question comes from Steve Milunovich with UBS.
+Steve Milunovich
+Thank you. I wanted to ask you about America's commercial, I think it decelerated to about 3% growth year-over-year was there anything particularly going on there? And then on AFA side what percentage of your capacity and of your revenue of your leadership [ph] is off last at this point?
+George Kurian
+The Americas commercial business continued to be good balanced book of business. We saw strength across all the different parts of the Americas theatre [ph] and strength in Canada. Latin Americas' performance varied by country. So, we feel good about the balance of business across the Americas. And it's reflective of us gaining share in terms of both net new customers as well as net new workloads in existing customers. I think the relative comparison of the Americas commercial business to other parts of the world we saw FX benefits for example helping us in Europe this fiscal year.
+With regard to AFA, of the capacity that we shipped 20% is roughly speaking the AFA capacity. It varies quarter-on-quarter, but I would just say it's in that ballpark. And from a config system perspective in terms of dollars, we have more than 50%, a good percentage more than 50% of systems are shipped out of the factory are now all flash arrays. So that lends support to our belief that strategic products are now the majority of our business and the strength of the strategic products growing at 25% year-over-year last quarter should lend support to the continued growth of NetApp.
+Steve Milunovich
+Thank you.
+Kris Newton
+Thanks Steve. Next question?
+Operator
+Thank you. Our next question comes from Ananda Baruah with Loop Capital.
+Ananda Baruah
+Hi good afternoon guys. Congratulations on the strong quarter. Just one from me if I could, you guys did the higher end of the revenue guidance, do you feel like for the fourth quarter, do you feel like you've continued to gain momentum or you feel like the environment is gaining momentum in fiscal year ‘19 over the last couple of months and if so, if there's anything specific to point to from a product area or from an application area that will be great. Thanks a lot.
+George Kurian
+You know, I would tell you that, IT spending broadly speaking reflects the economic landscape and I think that clarity on the economic outlook supports project based spending. I think we've also seen greater clarity in the enterprise in certain parts of the world around their applications for the cloud, so rather than hold projects waiting to decide about the cloud I think we're seeing people either move forward with cloud projects where we get the benefit or they say listen, I'm going to retrofit and upgrade my data center and modernize it because I'm not going to put that application on the cloud, so those are both secular trends that we saw through the course of the year.
+I think in terms of our own business, we continue to see people trying to look for data as a resource to expand business performance. So we've seen projects where in the medical sector data being used to help doctors make diagnoses faster, spend more time with the patient and similar corollaries for business effectiveness across various different verticals.
+And in terms of share, our performance has been very strong across all product categories and all geographies. Clearly, the focus is on the strategic products, all flash arrays, converged systems, hyper converged and cloud data services and there we are of course outpacing the market, but in aggregate that performance was balanced across all geographies, so we feel very good.
+Ananda Baruah
+Okay, great and you feel like it’s getting more pronounced as we move forward here through the beginning of the year, so momentum did you see the momentum building?
+George Kurian
+We certainly had a strong finish to our year. I would say that our confidence is very good heading into this fiscal year, better than it has been at any time in my tenure as the CEO. So I feel very good about our position. Is that more reflective of the broader landscape? I tend to wait to see that. I'd let other vendors report and see. I don't want to characterize my perspective as reflective of the broader landscape, but we feel very good about the projects we're getting involved in and the expansion of our business opportunities.
+Ananda Baruah
+Thank you, George. I really appreciate it.
+Kris Newton
+Thanks Ananda. Next question?
+Operator
+Thank you. Our next question comes from Srini Nandury with Summit Insights Group.
+Srini Nandury 
+All right, thanks for taking my question. It's a big picture question again, how do you see the network storage evolve or next couple of years with the arrival of NVMe and what does this mean to the hyper conversion offerings in the market, do you think that it see device and speed and we could see the growth of networks that's going forward? Thank you. 
+George Kurian
+I think that network storage will always be a part of customers landscapes and there is always put and take as network speeds get better and better people can consolidate storage into shared storage environments that are network connected for manageability, efficiency and scaling and so NVMe is just another step in that path, right albeit a step-up in terms of lower latency.
+I think the real benefit of NVMe comes into play as really high performance storage media come into the market like storage class memories where you couple a super low latency network fabric with an even lower latency memory, but it's helpful even in today's environments.
+I think with regard to hyper converged, we still see that offerings like hyper converged are really allowing customers to rapidly deploy new application environments and get trying to project value much more diminished than traditional systems.
+We've never said that hyper converged will be all of computing and all of the storage, but there is a class of the market where a well designed modular hyper converged solution like we have which support separation of computer and storage and the addition of technologies like NVMe even into hyper converged offering with the common management plane is of real benefit to customers and there will be a part of that will always be there.
+Kris Newton
+Thanks, Srini. Next question?
+Operator
+Thank you. Our next question comes from Steven Fox with Cross Research.
+Steven Fox
+Thanks. Good afternoon. You mentioned a couple times now that you gained share across all regions or all geographies. I was just curious if there's any differentiating factors by region that contributed to that growth? And then secondly with your all-flash array growth, I was wondering if there's any difference that you would highlight between Americas growth versus overseas growth? Thanks.
+George Kurian
+I would say that in terms of the theatre performance or the geographic performance it was well balanced and even across all the major geographies and it reflects two themes, one is focus on execution from an innovation and go-to-market perspective and the quality of themes that we've built together with our partner distribution models in those geographies. I think those were consistent themes.
+I think there are of course regional differences, I think in the Americas and in parts of the world like Australia, New Zealand our cloud story is extraordinary helpful to customers. In other countries like in Germany or certain parts of Europe, our strength in certain verticals like manufacturing or financial services is perhaps of more importance. Right? So there are different considerations for each geography when you get down into the details, but overall we feel very good.
+In terms of all-flash array performance, we saw strength in multiple geographies. I think the Americas clearly is the largest part of our all-flash array business like it is of our overall business and performed really well, but we did see strength in all the geographies.
+Steven Fox
+Great, thank you so much.
+Kris Newton
+Thanks, Steve. Next question?
+Operator
+Thank you. Our next question comes from Jim Suva with Citi.
+Jim Suva
+Thank you very much and congratulations Ron and George to your team. I have one question for each of you and I’ll ask at the same time, so you can take in whichever order is preferred. So George on the competitive landscape with Hewlett Packard Enterprise had pretty good storage, Dell doing the huge release, have you seen like more competitive pricing, it's always a competitive market or have you seen just a more healthier markets because recent data point show that kind of most of you are kind of doing a fair amount better.
+And then the question for Ron. Ron, when you mention OpEx going down obviously it's going to go down I believe in both dollars as well as percent of sales just given where the math looks out. But can you help us gauge, the magnitude or even importantly the timing of linearity when we should expect that progress and progression to occur? And again thank you and congratulations to you and your team.
+George Kurian
+Thank you. With regard to the competitive landscape, it's always been competitive. I think there are on any specific mix of players may shift or a period of time and the mix of transactions but it's always better competitive. I think there are on any specific transactional basis, there will be somebody who is trying to lead with price or discount heavily to keep footprint.
+I think what you seen from us this past quarter as you seen from us throughout the course of last year it continue to demonstrates sales discipline and extract the value of our software and increasingly the differentiation that we have in the cloud.
+Right, the cloud is a unique angle that we bring into transactions that make it very difficult for our traditional competitors to compete with. And I continue to see that as an opportunity to continue to differentiate us going forward, especially as our cloud data services become generally available and becomes even more of a comparative weapon for us.
+Ron Pasek
+And Jim with respect to OpEx you’re right, dollars are coming down slightly and the ways you think about it and if you look at the guide of Q1 it’s up slightly year-over-year but as I said in my prepared remarks, transformation occurs throughout the year. As well as some of the compares later in the year have in FY’18 a lot of variable comps which right now we don't see, we planning for a 100% over that, so you're going to see some reductions all things meaningful later in the year just because of that.
+Kris Newton
+Thank you, Jim. Next question?
+Jim Suva
+Great, thanks so much for the details. Thank you.
+Operator
+Thank you. Our next question comes from Eric Martinuzzi with Lake Street.
+Eric Martinuzzi
+My question is for Ron and it has to do with your outlook for the free cash flow of the business in FY’19, you talked about free cash flow as a percent of revenue in the range of 19% to 21%. And given the fact that the topline of the growing mid single digit, the gross margin is going to be roughly the same this year OpEx down slightly. You just finished the year and I think it was 22.6%, so I'm just wondering what's keeping that throttle back for FY’19?
+Ron Pasek
+Yes, that was a good question. It’s very, very slight and we actually talked about this at our financial Analyst Day. We talked about the build out of some of our cloud services and that would be an increase to CapEx above and beyond what you normally see that’s the only headwind to free cash flow in FY’19.
+Eric Martinuzzi
+And what’s the linearity of that investment?
+Ron Pasek
+It’s a little frontend loaded in the front half of the year, so you should see that equalize as the year goes on.
+Eric Martinuzzi
+Thank you.
+Kris Newton
+Thank you, Eric. Next question?
+Operator
+Thank you. Our next question comes from Paul Coster with J.P. Morgan.
+Paul Coster
+Yes, thank you for taking the question. It's really about the cloud data services business and can you share with us any revenue run rate numbers associated with that business, can you can you kind of elaborate on maybe be the engagement level that you seeing sort of the private preview or any other data you’re getting back to your partners there. And finally on the subject do you in time anticipate patience with go to [indiscernible] partners even in 2018? Thank you.
+Kris Newton
+I’m sorry Paul, your second part of the question broke up.
+Paul Coster
+Yes, are there any customer engagements statistics you can share with us or any other data that’s illustrative of the take up of your offerings through those three cloud service providers?
+George Kurian
+We are in the foundational part of the year, in terms of operationalizing those cloud services. So we are entirely focused on getting those services up for commercial readiness and off the three hyper scalars we are generally available meaning in full commercial availability with AWS. We are in private preview with both Microsoft and Google, and we will provide you more details of the availability as we go through the course of the year.
+I think that we are very excited at the customer interest and the uptake. We have several hundred customers in these private previews well above our plan and in fact we're oversold and not taken anymore at this point which proves the relevance of the capabilities that we bring to those customers.
+I would say that the majority of those customers are net new to NetApp, meaning not existing customers, so we’ve seen a lot of new logos for net new workloads or net new customers to NetApp which we are excited about. And in terms of the engagement models, with regard to the partners we are readying a cloud focus partner program. We will make announcements of that at our upcoming partner conference. There will be some of our traditional partners who will have the capability to participate, but it will also require us to recruit some new partners and so we're going to focus on that this year.
+I'm very excited. We are already winning on-premises footprints before the commercial availability of the cloud services because of our roadmap. I'll give you an example of an all-flash array win that we had against one of our pure play competitors where the fact that the customer had a roadmap to Azure and wanted to have a solution for Dr. in Azure allowed us to win not only their future cloud business but also of their entire data center upgrade to an all-flash array. So we will get you more details and visibility as the services become more operational, but we're excited about where we are, really excited.
+Paul Coster
+Thank you.
+Kris Newton
+Thank you, Paul. Next question?
+Operator
+Thank you. Our next question comes from Simon Leopold with Raymond James.
+Unidentified Analyst
+Hi guys. This is Victor [indiscernible] for Simon Leopold. I wanted to drill down a little bit on the traction that you're seeing with your customers around your hyper converged solution because your approach embraces a slightly different architecture compared to what you know most would recognize as traditional ACI under the strict definitions.
+So first I guess, how would you describe your customers reception from what you seen so far to the approach of scaling the computing storage separately and secondly do they see the desegregation of the computer storage as an advantage versus your competitors or are they just more focused on the performance versus some of the incumbents that you see in the market?
+George Kurian
+We are focused on the enterprise segment of hyper converged. Traditionally hyper converged infrastructure was sold more into a departmental environment for a single application, typically for virtual desktop infrastructure and then in some cases for non-production single purpose use cases, where a departmental owner was making the project decision.
+We are much more focused on the future growth of the hyper converged market which is in the enterprise as even the hyper converged vendors would tell you and in those cases our value proposition is clearly resonating. Right? The customer wins that we have had against the competition and there have been notable ones, have been about this value proposition of a modular system that scale, storage and compute efficiently and lowers the cost of over provisioned resources, licenses and simplified upgrade cycles.
+It allows them to run mixed workloads in customer after customer where we've beaten one of the incumbents in HCI, it is because of our ability to support production class mix workloads. So we feel very good about our positioning and the initial value prop. We are not targeting the entire hyper converged market, but a very specific large segment of it where we think we've got a winning architecture.
+Unidentified Analyst
+Excellent, that’s helpful. Thank you.
+Kris Newton
+Thanks Victor. Next question?
+Operator
+Thank you. Our next question comes from Amit Daryanani with RBC.
+Amit Daryanani
+Hi, thanks for taking my question. I guess the question is really on capital allocation, any sense on how should we think about the new buyback tranches that you have announced, the pace of it relative to the way you guys did the last tranche, how is it helpful and then how do you think the dividend growth as you go forward as well in the model?
+Ron Pasek
+So, as we indicated as our financial Analyst Day, I’m not really giving any timeline. We'll give you the details after the fact, so if we do a repurchase in Q1 we will certainly tell you about that, but we’re not going to telegraph the timing.
+Amit Daryanani
+Got it. And I guess if I just followup, Ron I think you mentioned ASC 606 in totality or mutual impact or immaterial I think is as what you said, in July gross margins is there any benefit from that transition for you?
+Ron Pasek
+No, again in total I’m only guiding the total gross margin, so no benefit. When we report you should see as I indicated at Analyst Day, you would see product margins slightly higher and services margins slight lower partly because of the allocation methodology. So again, I’m not guiding at that level but I did indicate that at financial Analyst Day.
+Amit Daryanani
+Got it. Thank you.
+Kris Newton
+Thank you, Amit. Next question?
+Operator
+Thank you. Our next question comes from Alex Kurtz with KeyBanc.
+Unidentified Analyst
+Hi guys, this is [indiscernible] on for Alex. I was wondering what trends you guys are seeing in the high end scale-out system market and I was wondering if pricing stabilized there in these multi terabyte type deals?
+George Kurian
+I would tell you that these large transactions are always competitive. I think the differentiation is really in software and the ability to scale-out system. I think in our situation for scale-out file systems the technology that we brought out in ONTAP 9 which is called FlexGroup gives us linear scaling and performance advantages over most of the competition and so we feel very well positioned. We have taken back several footprints from Isilon in that segment of the market and frankly they're trying to chase us now to try to scale up their solutions.
+With regard to [indiscernible] storage we've seen increasing momentum though it's a small business for us, we've seen increasing momentum through the course of the year. Our unique offering there is to allow customers to build a hybrid architecture that spans availability zones within your own enterprise boundary as well as some of the public hyperscalars and that is unique in the market and is allowing us to win deals against the competition. The number of competitors in objects storage continues to diminish and some of the players become pure cloud offerings or end up in unviable positions in the market.
+Unidentified Analyst
+Great, thank you.
+Kris Newton
+Thanks Steve. Next question?
+Operator
+Thank you. And our final question will come from Nehal Chokshi with Maxim Group.
+Nehal Chokshi
+Yes, thank you for taking my question. So if I look at the midpoint of your guidance, I think that implies product revenue would decline about 20% Q over Q which is a little bit more than your past two July quarters. And then when I also put that into context that your DSOs was up 11 days year-over-year and you did note that was due to a strong finish which indeed was, and congratulations on that, but the concern is here as that, is this less than seasonal guidance due to concern regarding having drained a pipeline or is it just your general conservatism?
+Ron Pasek
+We did do better than we thought in Q4. I wouldn’t say we drained the pipeline, still we could see in Q1 year-over-year is a - even it’s after currency it is 5.5% growth, so we’re happy with that. And you know as George indicated there is - we want to make sure we give numbers that we can, we know we can meet or beat, so there is some general conservatism.
+Nehal Chokshi
+Okay, thank you.
+Kris Newton
+All right, thank you Nehal and before we go George has a couple closing remarks.
+George Kurian
+Thank you everyone. It was a fantastic finish to a great year. We are well positioned to continue our momentum by enabling our customers' data driven digital transformation and addressing their biggest IT imperatives, inspiring innovation in the cloud, building clouds to accelerate new services and modernizing IT architectures with cloud connected Flash. We will continue to drive results in fiscal year ’19 by remaining focused on our transformation priorities, aligning to the high growth areas of the market and focusing on reaching more customers in more ways.
+Maintaining our disciplined approach to enabling investment in big opportunities by deemphasizing areas with less return potential and finally continuing to balance shareholder returns with investment in the business for long term growth. I'm really excited for fiscal year ’19. We’re entering the New Year, clearly the best position in my tenure and I am confident in our ability to achieve the goals that we laid out at our Analyst Day. Thank you for your time today and I look forward to speaking with you next quarter.
+Operator
+Ladies and gentlemen thank you for participating in today's conference. This does conclude the program. You may all disconnect and have a wonderful day.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

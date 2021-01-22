@@ -1,0 +1,282 @@
+Synopsys, Inc. (NASDAQ:SNPS) Q3 2018 Earnings Conference Call August 22, 2018  5:00 PM ET
+Executives
+Lisa Ewbank - Vice President, Investor Relations
+Aart de Geus - Chairman and Co-Chief Executive Officer
+Trac Pham - Chief Financial Officer
+Analysts
+Gary Mobley - The Benchmark Company
+Rich Valera - Needham & Company
+Tom Diffely - D.A. Davidson
+John Pitzer - Credit Suisse
+Sterling Auty - JPMorgan
+Mitch Steves - RBC Capital Markets
+Jay Vleeschhouwer - Griffin Securities
+Monika Garg - KeyBanc Capital Markets Inc.
+Krish Sankar - Cowen and Company
+Operator
+Ladies and gentlemen, thank you for standing by and welcome to the Synopsys Earnings Conference Call for the Third Quarter Fiscal Year 2018. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will be given at that time. [Operator Instructions] Today’s call will last one hour. Five minutes prior to the end of the call, we will announce the amount of time remaining in the conference. As a reminder, today’s conference call is being recorded.
+At this time, I would like to turn the conference over to Lisa Ewbank, Vice President of Investor Relations. Please go ahead.
+Lisa Ewbank
+Thanks, Ana. Good afternoon, everyone. Hosting the call today are Aart de Geus, Chairman and Co-CEO of Synopsys; and Trac Pham, Chief Financial Officer.
+Before we begin, I would like to remind everyone that during the course of this conference call, Synopsys will discuss forecasts, targets and other forward-looking statements regarding the company and its financial results. While these statements represent our best current judgment about future results and performance as of today, our actual results and performance are subject to many risks and uncertainties that could cause actual results to differ materially from what we expect.
+In addition to any risks that we highlight during the call, important factors that may affect our future results are described in our most recent SEC reports and today’s earnings press release. In addition, we will refer to non-GAAP financial measures during the discussion. Reconciliations to their most directly comparable GAAP financial measures and supplemental financial information can be found in the 8-K, earnings press release and financial supplement that we released earlier today. All of these items, plus the most recent investor presentations, are available on our website at synopsys.com. In addition, the prepared remarks will be posted on the site at the conclusion of the call.
+With that, I’ll turn the call over to Aart de Geus.
+Aart de Geus
+Good afternoon. I’m happy to report that Synopsys delivered another outstanding quarter and passed the $3 billion mark in trailing 12-month revenue. An exciting milestone as we enter our next phase of growth, and it’s a good time to think our Synopsys team, our customers, our partners and all of you for your support.
+We entered fiscal 2018 with expectations for solid revenue, earnings and cash flow. As a result of strong customer demand and excellent execution, we’re on track to substantially exceed the targets we communicated last November and expect to deliver double-digit revenue and non-GAAP earnings per share growth for the year.
+For Q3, we posted revenue of $780 million, with strength across all product groups; non-GAAP earnings per share were $0.95, and we generated $289 million in operating cash flow. We repurchased $165 million of our stock, bringing the total for the year to $400 million.
+Lastly, we’re raising our revenue and non-GAAP earnings guidance for the year. Trac will provide more detail in a moment. The customer environment is strong, as the age of AI, or digital intelligence, drives hefty investments by traditional and new semiconductor and systems companies, as well as software developers across many industries.
+Investments are directed at supplying the increasing demand for compute power, cloud storage, and networking infrastructure, all in support of massive data and complex software. Add to that the huge and growing challenge of security, and one can readily see that the need for design solutions will continue to expand for years to come.
+Synopsys is uniquely positioned to address these technological challenges, sitting at the intersection of hardware and software. As a result, we’ve grown and strengthened our leadership position in EDA, built a strong and broad IP business group, and branched out into the large, adjacent TAM of software security and quality.
+In this context, let me provide some highlights from the quarter, beginning with EDA. The primary driver of EDA growth is complexity. Whether due to more advanced process technologies, sophisticated designs at established nodes, or immense amounts of software embedded on a chip. In our entire history, leadership in electronic complexity has been the differentiator for the Synopsys solutions. Today, this means moving to 7, 5, or even 3-nanometer process technologies.
+With our TCAD and lithography tools, we’re a key partner in the initial stages of manufacturing process development. These early engagements benefit all subsequent products, as demonstrated by some of the successes in the quarter. We announced broad certification for several Samsung Foundry advanced processes, from digital and custom design to verification.
+And just last week, we announced a collaboration with IBM to enable their very advanced process development with our manufacturing, digital design and IP capabilities.
+Our design platform generated revenue greater than plan, reaching an all-time high, with accelerating growth over the past year. On the digital side, our recently introduced Fusion Technology, which brings about a revolutionary new level of integration between synthesis, place & route, and signoff, is really hitting the mark with customers.
+Not only does the Fusion Technology provide a fundamental infrastructure to design better chips, but we’ve already embedded a number of AI techniques that further improve speed, area and power. Engagements with partners and customers have grown. Samsung Foundry has certified our Fusion Technology for its 7-nanometer Low Power Plus process with EUV.
+Multimedia SoC provider Vatics standardized on this technology after realizing 40% runtime reduction. We are seeing plan-of-record adoption by several high-profile systems companies. And at the Design Automation Conference, industry leaders AMD, Broadcom, Qualcomm, Renesas and Samsung presented the benefits that the new technology brings to their implementation flows, highlighting solid early results.
+Now to verification, where we also delivered an excellent quarter. Demand is high for our Verification Continuum Platform, built upon the fastest engines in the industry and our number one positions in all three key areas: emulation, FPGA-based prototyping, and verification software.
+Verification hardware had another very strong quarter, with broad-based adoptions and renewals. High profile companies Samsung, Intel and AMD presented to fellow engineers at DAC their real-life successes using ZeBu.
+In Q3, we announced general availability of ZeBu Server 4, the industry’s fastest and largest-capacity emulation system. With 2X the performance over competing systems, ZeBu is ideal for the extremely demanding verification requirements in automotive, 5G, networking, machine learning, and datacenter SoCs.
+In analog simulation, Toshiba Memory and Synopsys collaborated to accelerate 3D flash memory verification. The resulting technologies address increasing design complexity and reduce multi-day simulation runs to less than a day.
+Let me now move to IP, where we expect another record year. Double-digit growth in IP is driven by several dynamics. One, continued outsourcing of semiconductor IP blocks. Two, an increasingly broad portfolio covering interfaces, embedded memories, security, and processor IP optimized for high-growth markets such as automotive, AI, and cloud computing. Three, coverage of leading-edge and established process nodes. And four, the demand for IP subsystems that make it easier and more efficient for customers to outsource their designs to us.
+We are seeing strong demand for our processor IP solutions, notably the ARC Embedded Vision Processor that features the industry’s first ASIL-D-Ready embedded vision IP for autonomous driving applications. Our acquisitions in non-volatile memory are also bearing fruit, with significant orders in the quarter across many different market segments.
+Now to software integrity, where Synopsys provides testing for security vulnerabilities and quality defects in software code during the development phase. While software developers in our traditional customer base are a prime growth opportunity for us, the number of companies who develop and rely on software as a critical component of their business is much broader than EDA and IP. This mounting need in verticals such as medical devices, financial services, automotive, aerospace and industrials represents a large TAM that we are just beginning to tap.
+Our mission is to enable companies to more easily test both open source and proprietary code through a combination of a unified tool platform and consulting services. With general availability planned for next year, we’re making steady progress towards our Software Integrity Platform, with early testing happening now.
+An important part of the platform is the set of Black Duck testing tools, which address the growing need to diagnose security risks in open source software. A recent analysis of more than 1,100 commercial code bases found that 96% of applications scanned had open source components. 78% contained at least one open source vulnerability with an average of 64 vulnerabilities per codebase. The integration of Black Duck is going well. For us, this is visible through both early cross-selling opportunities and enhanced brand recognition.
+Our services organization is another important aspect of our holistic approach to assisting the customer journey towards a more mature security development process. The progress made over the past four years has been recognized by industry leaders such as Gartner and others, stimulating further strong interest by new customers.
+For example, at the recent BlackHat Security Conference, we received around 7,000 inquiries from current and potential customers, nearly doubling last year’s tally. From a financial perspective, we’re also executing well. We’ve reached critical mass, passing a quarter billion dollars in trailing 12 months revenue, and are quite enthusiastic about the future potential.
+Reaching up into emerging vertical market segments, automotive is a key focus for Synopsys, not only in software security, but across our entire portfolio. Our unique virtual prototyping is gaining traction across the automotive supply chain. By providing models of critical chips and subsystems, Tier 1s and OEMs can start software development earlier to better meet strict time-to-market objectives.
+We’ve collaborated with the leading automotive semiconductor companies to create the most comprehensive ISO-26262-qualified tool flow, with differentiated technologies for functional safety and reliability.
+At DAC, we hosted an automotive panel with leaders from NVIDIA, Panasonic, TSMC and NSI-TEXE, a division of leading automotive Tier 1 Danso, who shared their successes with Synopsys. We also have the most comprehensive portfolio of automotive-certified IP, ranging from our ASIL-D embedded vision processor to key interfaces and memories.
+To summarize our strategy over the past several years, our actions have been deliberate. First, maintain and grow our leadership in EDA. As the market leader, we’re rolling out new leading-edge technology and have gained share.
+Second, continue to broaden our IP portfolio and customer adoption. As the number two global IP vendor, we’ve built the most comprehensive portfolio of high-value titles and continue to see double-digit revenue growth.
+And third, enter and scale the brand-new, high-growth TAM and diversified customer base in Software Integrity. We believe that we’ve reached critical mass by passing the quarter billion dollar mark, having built a recognizable brand, and are poised for ongoing 20% organic growth.
+During the past years, we made significant investments, both organically and through M&A. We did these while also delivering on our guidance for high single-digit EPS growth. In fact, in the last two years, Synopsys overachieved, delivering double-digit revenue and earnings growth and crossing the $3 billion mark earlier than our own internal projections over few years ago.
+This backdrop provides a solid foundation for continued growth and increased operating leverage in the business. We will be in a position to provide an update to our long-term operating model objectives and assumptions when we report next quarter. For now, I will say that we currently intend to drive non-GAAP operating margin to approximately 26% over the next three years, with a longer-term ambition of high-20s.
+As we are presently in the middle of our budgeting process, we are not yet ready to provide 2019 guidance, but even with the change in revenue accounting next year, we expect non-GAAP operating margin to increase in FY19.
+To conclude, we delivered another excellent quarter and are raising revenue and non-GAAP earnings guidance for the year. Our strategic investments over the past several years are paying off. Near-term, our strong products and customer relationships in EDA and IP are leading to very good revenue and EPS growth.
+Longer-term, our expansion into the new software security and quality TAM is making excellent progress.
+Let me now turn the call over to Trac.
+Trac Pham
+Thanks, Aart. Good afternoon, everyone. Reaching $3 billion in revenue is a great accomplishment that not only reflects our financial execution, but also demonstrates that our strategy and investments for the long-term are paying off. This is evident in our strong performance this quarter and improved outlook for Q4. As a result, we’re raising our 2018 revenue and non-GAAP EPS guidance.
+Now to the numbers. As I talk through the results and targets, all comparisons will be year-over-year unless I specify otherwise. Total revenue increased 12% to $780 million, reflecting strength across our product portfolio and in all geographies.
+Total GAAP costs and expenses were $716 million, which includes a $26 million charge for the Mentor Graphics patent litigation settlement. Total non-GAAP costs and expenses were $612 million, resulting in a non-GAAP operating margin of 21.5%. GAAP earnings per share were $0.52. Non-GAAP earnings per share were $0.95, exceeding our target range due to strong revenue growth and operational execution.
+Operating cash flow for the quarter was $289 million, reflecting very strong collections and offset by a one-time payment of $65 million related to the Mentor legal settlement. Cash and cash equivalents at quarter-end were $741 million, 18% of which is onshore, with total debt at $622 million.
+We launched a $165 million accelerated share repurchase in May, bringing our total buybacks year-to-date to $400 million. As a result, we’ve been able to reduce our share count versus last year. We currently have $325 million remaining on our share repurchase authorization.
+We’re progressing very well with our integration of Black Duck, and remain on track to achieve our 2018 target of $55 million to $60 million in revenue. This estimate reflects a purchase accounting deferred revenue haircut of about $20 million. In addition, we continue to expect Black Duck to be approximately $0.12 dilutive to 2018 non-GAAP EPS and to reach break-even in the second-half of 2019.
+Before moving on to guidance, let me provide some brief commentary about the new ASC 606 revenue accounting rules, which will go into effect for us in fiscal 2019, beginning in November. As we’ve previously discussed, we do expect a one-time loss of backlog at the time of transition. While revenue recognized under the new rules will be slightly lower than under the current rules, we do not expect a material impact based on our current forecast, and there is no impact on cash flows or the economics of the business.
+As we look to 2019, please note that we’re still working through our normal budgeting process, and are assessing the business outlook, coming off another record hardware and IP year in 2018. Therefore, we would suggest that it’s premature to change your 2019 estimates until we provide detailed guidance next quarter. We will also provide a full-year, full view of our long-term operating model objectives and assumptions at that time.
+In the meantime, let me reiterate what Aart said. We intend to increase operating margin in 2019 and beyond, with a goal of reaching 26% in the next three years and the high 20s longer-term.
+Now to fourth quarter and fiscal 2018 guidance, which reflects overachievement in Q3 and incremental upside in Q4. For Q4, the targets are: revenue between $774 and $804 million; total GAAP costs and expenses between $722 and $738 million; total non-GAAP costs and expenses between $655 and $665 million; other income and expenses between minus $3 million and minus $1 million; a non-GAAP normalized tax rate of 13%; outstanding shares between $153 million and $156 million; GAAP earnings of $0.39 to $0.47 per share; and non-GAAP earnings of $0.76 to $0.80 per share.
+The revised targets for fiscal 2018 are therefore: revenue of $3.1 billion to $3.13 billion; other income and expenses between minus $5 million and minus $3 million; a non-GAAP normalized tax rate of 13%; outstanding shares between $153 million and 156 million; GAAP earnings of $1.55 to $1.63 per share; non-GAAP earnings of $3.89 to $3.93 per share; capital expenditures of about $110 million; and cash flow from operations of $460 million to $500 million, reflecting the one-time Mentor legal settlement.
+In conclusion, we delivered strong Q3 results and are raising full-year guidance for both revenue and non-GAAP earnings, reflecting another year of double-digit growth. We reached $3 billion in revenue by investing to carry out our growth strategy, while also delivering on our earnings commitments and returning cash to shareholders through a consistent stock repurchase program.
+We’re confident in our balanced approach to maximizing long-term shareholder value, making the most of compelling revenue growth opportunities while also driving operating leverage.
+Let me now turn it over to the operator for questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question comes from Gary Mobley with Benchmark. Please go ahead.
+Gary Mobley
+Good evening, everybody. Thanks for taking my question. I wanted to delve a little bit deeper into your implied Q4 operating margin on a non-GAAP basis. I believe the implied operating margin is what 16.5%, down about 500 basis points sequentially, down about 700 basis points from what you’re implying 2019 operating margin maybe. So I’m just curious what sort of investments have been made, because Black Duck seemingly would be just a small contribution to that dilution? And – well, I’ll stop there and change the question?
+Trac Pham
+Okay, Gary. You’re in the ballpark, Gary. The – it’s really a timing of the expenses and nothing unusual. I wouldn’t take the Q4 expense ramp and normalize it for next year. Given how strong our outlook is for the year, we’re seeing a true-up in our variable comp program this quarter and the next quarter as well. So it’s really a reflection of very strong outlook for the year.
+Gary Mobley
+All right. And your main competitor announced a cloud-based delivery system at the Design Automation Conference. And I think your position has been that maybe the infrastructure isn’t ready from a security standpoint, from a file system standpoint, and just from a latency standpoint. I wondered if you have softened on that stance and maybe just give us your latest thoughts on whether or not EDA is ready for the cloud?
+Aart de Geus
+Sure. The first thing is to understand clearly why people are interested in the cloud. It’s to find sort of the sweet spots between available performance and the economics, and this is often driven by the need to have point utilization go up for a short periods of time, for example.
+From a practical point of view, all large customers have very large clouds themselves. We have a very large cloud. And actually, we have quite a number of customers that are running the software on our own cloud, and we have a substantial number of customers that are running our software on commercial clouds already.
+It’s also noteworthy to say that we have an ability to provide also our emulation through the cloud. And so the combination of all of those have definitely provided opportunities for customers to either get peak performance or if they’re very small to start without having to make big investments.
+The comment on security is one that on one hand have dramatically improved, on the other hand never quite goes away. And you’re correct that quite a number of years ago, there was a very high concern about security and rightfully so, I would say.
+Today, that is substantially better resolved It is also the case that customers are a little bit more centered in terms of how they look at the issues. I think, on the margin, any system retain certain vulnerabilities and, of course, that is helped or hopefully helped by our other part of our business. But fundamentally, I think, the time for doing certain things on a variety of clouds is upon us.
+Gary Mobley
+Thank you, guys.
+Aart de Geus
+You’re, welcome.
+Operator
+Our next question comes from Rich Valera with Needham & Company. Please go ahead.
+Rich Valera
+Thank you. Question on operating margin. You’ve done quite a bit of M&A in the Software Integrity business, which you’ve indicated is going to be dilutive to margin this year. Is there anyway you could give us a sense of what the operating margin of the base business would be without the SI business without the Software Integrity business?
+Trac Pham
+That’s a good question, Rich. I think if you were to look at the commentary that we provided in the past around our investments in Black Duck digital and even Coverity when we started five years ago, it would probably – our overall operating margins would probably go up on the order of 250 basis points because of the investments in the new TAM.
+Aart de Geus
+Yes, if I can answer that, you may recall that every time we’ve made one of the major acquisitions, we said that notwithstanding the fact that these companies typically tended to not be particularly profitable in the first place. There was a haircut in that we typically would work through those in a period of 18 to 36 months. And I grant you that’s a fairly broad window, but the circumstances were all different.
+I think, we are living up very much to that. And so an additional reason why we think that now the time has arrived for that business to see some operating leverage is that we are a critical mass. The integrations have gone well. And in general, the markets that we hope would be a positive market has definitely manifest itself. So we see growth opportunities. So it’s our job now to make sure that, that additional growth comes at high degree of profitability.
+Rich Valera
+Thanks for that. And just a quick follow-up to that Trac. The plus 250, what baseline would that be relative to that sort of relative to your expected fiscal 2018 baseline?
+Trac Pham
+Yes, Rich, that refers to where we are at today.
+Rich Valera
+Got it. And then just one more on the ZeBu Server 4, nice to see that when GA at DAC. Can you say if there was – I know it was in production with limited production release, I guess, before that with, I think, you mentioned 10 customers or more in that release. But what’s their pent-up demand of customers that wanted ZeBu Server 4 and now they’re getting it sort of in this current quarter and beyond?
+Aart de Geus
+I wouldn’t say pent-up demand. I think that, that we manage the demands by virtue of introducing the product gradually, which allowed us to make sure that it was really a solid by the time we went to general availability. And also some customers were clearly further ahead and they’re thinking about how to bring up software on hardware as part of a strategy to increase the speed with which he could bring products to market.
+And they’re now a number of quite extraordinary stories of chips for cell phones, for example, for smartphones, that literally shaves off the number of months to go-to-markets and I had to tell you that, that’s a market that is hypercompetitive. And so I think, the capabilities are coming online at the very moments, where the demand is strong. And so we have high hopes for the new Server 4 ZeBu.
+Rich Valera
+Got it. Congratulations on a strong results. Thank you again.
+Aart de Geus
+Thank you, Rich.
+Operator
+Our next question comes from Tom Diffely with D.A. Davidson. Please go ahead.
+Tom Diffely
+Hey, good afternoon. Just a thought on the operating margin projection they have over the next few years. So most of that increase coming from the software integrity [Technical Difficulty].
+Aart de Geus
+Hi, Tom, I had a hard time hearing you. But I think the question was, where is the operating margin expansion coming from whether it’s specifically to software integrity or across the board? I would – yes, the short answer is, it’s going to be across the board. Having reached $3 billion of revenues, we’re at a point where we should be able to drive cooperating leverage in the business. The expansion is going to come through a combination of both solid revenue growth going forward and looking for improvements in the way they were executing on the various businesses.
+Tom Diffely
+Okay. Would you expect the software integrity business acquisition rate to slow then going forward?
+Aart de Geus
+Well, we generally don’t comment on what our acquisition strategy is. And so going into it, we’ll look at each deal on its own and whether or not it fits into the overall strategy.
+Tom Diffely
+Okay. And then, Trac, I know it’s early, but can you give us a feel for what you’re seeing right now for the tax rate for next year? I think it was going to go up 700 basis points?
+Trac Pham
+Are you asking about the tax rate, Tom?
+Tom Diffely
+Correct. Yes?
+Trac Pham
+It’s still little early. I think, I would say, it’s safe to say, it’s somewhere between 13 and where it’s been historically 19.
+Tom Diffely
+Okay.
+Trac Pham
+And again, we are in the midst of working through how we’re going to approach tax strategy going forward in light of the very significant changes in the U.S. tax – U.S. taxes.
+Tom Diffely
+Okay. And then finally, when you look at the some of the advancements of 5-nanometer and 3-nanometer nodes, how large are those nodes today from a business point of view for you? Are they just nodes you want to get in front of before they happen or – are they – is it meaningful revenue today?
+Aart de Geus
+So the – if you look at the advanced nodes, the nodes that are now moving into substantial production that are most advances is really 7-nanometer. The 5-nanometer is now technically ready and the first designs are being done and the 3-nanometer is at least, to say, at least is work in progress, I would say.
+But what is quite astounding is that, these technologies would have been viewed as impossible again a number of years ago and here we go. And that’s a theme that we know well for like over 20 years now. And so we are in the midst of quite exciting technologies that are in high demand, but also demand – the high degree of sophistication of the tools, and so we feel right at home.
+Tom Diffely
+Okay. Thank you.
+Aart de Geus
+You’re welcome, Tom.
+Operator
+Our next question comes from John Pitzer with Credit Suisse. Please go ahead.
+John Pitzer
+Yes. Good afternoon, guys. Congratulations on a solid results. Thanks for that. Let me ask the question. Trac, just one more question on the operating margin target sort of 26% over the next three years, given that there is leverage as revenue grows. Can you help us understand the underlying growth rate assumption to hit that target? And if you’re not ready to give us sort of an absolute numbers, somewhere you could kind of give us a relative number to kind of historical trades the business has seen?
+Trac Pham
+Yes, I think you answered the question there, John. We’re not prepared to talk about the FY 2019 or the components of the long-term model. But definitely, we’ll give you more details of that in December. At a high level, I would refer you to the comments that we’ve made in the past in terms of where we see the growth for the different areas of the business.
+Traditionally, we expect growth in EDA in the low to mid-single digits. IP is comfortably in the low-double digits, and then software integrity is in that 20% range. The other thing I would highlight is in terms of revenue growth year-over-year, keep in mind that we’ve got the benefit of the extra week for this year, which accounts for about 2% impact. And then even though, I think, at a high level that 606, the new rev rec rules will be immaterial to the the results. It will have a slight negative impact too to the numbers. But we’ll give you more details to that coming December.
+John Pitzer
+That’s helpful. And then, Aart for you, I’ve spent the last couple days in the Valley at the Hot Chips Conference. And at least over the last couple of years, there’s sort of been a resurrection of the debate in sort of general purpose compute versus ASIC, the thought process being with things like Moore’s Law becoming more difficult the large scaling slowing and end of law that maybe we’re entering into a world of just more ASICs over general purpose compute. I’d love to get kind of your thoughts on that to be, I guess more importantly, if you’re moving into a more ASIC-driven world, how does that impact your business model within EDA, but maybe across your portfolio?
+Aart de Geus
+Okay. Well, in my mind there has been no doubt already for many years that while general computing will continue to be pushed forward massively, especially at general offerings in the cloud, that the demands of the emerging machine learning in AI techniques are that with the present success. The one thing you’d like to have is not 2x more computation, but a 1,000x more computation.
+And so no matter how hard you squeeze the silicon technology and who get squeeze still further, there’s no reason to be able to believe that you could get thousand times faster results. And so what can you do? Well, the thing you can do is to say reduced the breadth of the problem, i.e., go to special processors that do a task particularly well and now suddenly you are in the 10 and 100x more capabilities, and you can call that an ASIC, or you can call that dedicated processors. But that is where this is heading at a rapid speed.
+And the evidence is already clearly visible and we can see it in our own business, because in the last few years, we have had a number of brand new semiconductor companies that all are building the ultimate AI chip, and we’ll see which one is the ultimate. But the investments are broad. We see a number of existing players add substantial dedicated engines to their offering.
+And so I think, the push will be on – in every dimension. And we benefit from that, because these are designs that all immediately go to the leading edge that used the most advanced the silicon techniques that typically drive the complexity of the chips to the maximum that is manufacturable at a, not even reasonable cost, but affordable cost, and it’s driving the state-of-the-art.
+Lastly, I wouldn’t underestimate the amount of effort that is also going into various forms of storage and, of course, the communication between processing and storage, because, of course, the term big data is not new to you and there’s a lot of data. And so the key is going to be where do you keep it and how quickly does it become accessible for computation.
+So all of this, I think, bodes well for the domains that we’re in, including the very fact that there are also some risk factors in the form of security around these systems. And we have the good fortune of touching many of those from multiple angles.
+John Pitzer
+Aart, is there anyway of quantifying what this new dynamic has done either to your growth over the last couple of years or your addressable market, whether it’s looking at kind of non-traditional customers that might not have been customers a few years back or however you want to cut it? Is there anyway to sort of quantify what this does to the growth rate of the TAM?
+Aart de Geus
+Well, as you know, the growth rates are a function not only of the technical needs and the demand, they’re also a function of the health of the semiconductor industry. And as you may remember many years ago actually, five, six, seven years ago, there was always this lamenting of the semiconductor industry not growing particularly well.
+Well, the opposite has been the case precisely, because that very industry supplies the hardware that makes this possible. And so it’s really a phenomenon that is actually pretty broad. That doesn’t mean that every year will be an incredible banner year. I think, it’s more that the solidity of – about the market that we serve and of our own market is higher. And maybe that is an additional reason why we’re looking at healthy growth going forward, but also the opportunity to focus more and increase our operating leverage in that process. So I would consider both of those terms part of a healthy market.
+Operator
+Our next question comes from Sterling Auty with JPMorgan. Please go ahead.
+Sterling Auty
+Yes, thanks. Hi, guys. Trac, maybe a couple for you. As we’re sitting here trying to work our models, especially as we’re working into the quarters of next fiscal year need to understand the comparables with Black Duck. Can you give us a sense of what the organic growth was in the quarter?
+Trac Pham
+The organic growth for SIG, generally, we think the market is growing in the 20% range and we’re keeping pace with that.
+Sterling Auty
+No, I’m saying for Synopsis overall. So if you look at what is the organic revenue growth for Synopsis overall?
+Trac Pham
+Overall, I think that, I would say, the majority of what growth, which we’re seeing in the business right now is organic. The acquisitions we made this year that has material impact is really on Black Duck. And keep in mind, while we’re successful in terms of driving that north of 250, this is on a $3 billion-plus business. And you’re seeing growth across the entire portfolio and you’re seeing across all regions. So a lot of healthy growth.
+Sterling Auty
+Because I was looking at an estimate that would be somewhere around 125 to 150 bps of impact to the growth rate in the quarter if you want organic versus reported?
+Trac Pham
+Well, we haven’t talked about that separation. I’d just say, we’d safely say though a good portion of a large portion of our growth for this year is organic.
+Sterling Auty
+Okay. And when you talk…
+Trac Pham
+You can see where that’s coming from to is, we’re having a phenomenal year on IP, and the growth rate in EDA has been very strong for the last two years.
+Sterling Auty
+Okay, okay. And the comment that you made about 26% operating margins over three years, since you’re transitioning to ASC 606, I want to make sure we’re on the same page. Does that 26% include the benefit if you have one of moving to the sales commission recognition under the new rule. So in other words, are you recognizing sales commissions upfront today? Are you going to move to ratable? And how would that impact that 26%?
+Trac Pham
+You’re starting at the highest level of – the increase in 26% will really be operational. As far as reporting goes, 606 has two impacts for us. One is on the impact of revenues for next year, which would be is negative, but we think is immaterial. As far as the impact on commissions, the net-net of that is going to be neutral over the next few years.
+So when we talk about improving operating leverage, it really truly is operating leverage as opposed to any reporting benefit or drag. And while I’m on the topic, we’ll give more details in 2019 of December, but we want to clarify that. When talk about margin improvement, we do expect margin improvement in 2019 even with the impact of 606. The specific amount, I think, we’ll have to test out, but we do expect margins to improve.
+Sterling Auty
+Excellent. And then last question, Aart, you mentioned products that are currently actually running on the Synopsis cloud and on the customer clouds. I think, it’s easy for us to understand how verification emulation will work in the cloud, because you’re running kind of a batch process versus some of the actual design where you have that interaction. So I’m kind of curious, which products are actually up and running in some of these customer or Synopsis clouds for customers?
+Aart de Geus
+Well, we actually, I think, have examples, I would say, broadly across the spectrum. But your opening comment is actually right on, which is that the variety of verification or analysis tools tends to go to the cloud first, because they’re very batch-centric. And so you do large simulations there, for example, or large verifications and I think that will continue for awhile.
+We have really not announced what we’re doing in this area. And so I don’t want to have too many comments on this. But I think, the gist of your question has its own answer, it is very much verification.
+Operator
+Our next question goes to Mitch Steves with RBC Capital Markets. Please go ahead.
+Mitch Steves
+Hey, guys, thanks for taking my questions. I had a few couple of quick clarifying ones and one long-term one. So for the July quarter sort of one thing that happened is gross margins came down. Can you help us understand why there was a case of hardware slowing down a little bit due to the outperformance over the last couple of years?
+Trac Pham
+Keep in mind, Mitch, that the – there’s a few things that actually roll up into COGS, it’s not just hardware. So I wouldn’t extrapolate changes in gross margins as strictly an impact of variation in hardware. Remember, we – the Sidense acquisition that we made last year, which is a services business – security services business, you’ll see the COGS flow that line.
+And then the other part is, there’s an element of IP specifically, the consulting part of IP that’s recognized on a percentage completion basis, and you’ll see COGS there. And there’s really no correlation between the movements in COGS and gross margins, because the variability of IP and hardware as we stressed over the last few years has been very lumpy.
+Mitch Steves
+Yes.
+Trac Pham
+But overall when we look at individually of that, we feel like we’re running the business in a appropriate way as far as margins for – at the gross margin level for each of those businesses.
+Mitch Steves
+Got it. And then the second clarifying one is, so your cash flow number of 460, or 500, right. So I know you guys had a bunch of one-time charges. Can you maybe walk us through what the, I guess, the normalized one would be, because you had the Hungarian loss, you had the repatriation and you had the Mentor settlement. So what would be kind of the more normalized cash flow number?
+Trac Pham
+Yes, you hit the big one. So let’s take – let’s start with the guidance for the year. It’s 460 to 500. We had – we have about $165 million of one-time items for this year, right? At the beginning of the year, we had a $33 million payment related to the Q4 repatriation. Early in the year, we also had an outflow $65 million related to the Hungarian tax dispute.
+Now keep in mind, that’s still pending, but we had to pay in order to litigate. And then in this past quarter, we had a $65 million outflow for the Mentor settlement. And so at that end, it’s – you can see that the business is healthy and generating very, very strong cash flows.
+Operator
+Our next question goes to Jay Vleeschhouwer with Griffin Securities. Please go ahead.
+Jay Vleeschhouwer
+Hi, thank you. Aart, two broad questions for you about the EDA market or Synopsis as a whole. The first part is, as Synopses business mix has evolved, including but not exclusively with SIG, and as the customer base has evolved included in particular the rise with your systems customers, what are the external or leading indicators that you as a CEO and management use, if any, to anticipate or plan the business? And then how are you thinking about the external indicators differently perhaps now than when you were a $1 billion or $2 billion company?
+And then secondly and more specifically about EDA. The question was prompted by the recent announcement by NVIDIA of its touring chip. And the question is we generally assume that customers ingest EDA tools and technologies and voila out the other end comes super chips of the kind that you’ve been talking about. But is that really so? In other words, what have you seen and what do you think you’ll need to see in terms of customers’ methodologies and design implementation skills and differentiation having to change along with your tools and along with the node changes?
+Aart de Geus
+Okay. So regarding the internal – the external indicators there, obviously, multiple sort of horizons around that. The macro horizon is all around the belief that the – both connectivity and smarts of the electronics world is dramatically changing. And both of those words are relevant, because they imply large amounts of data being moved around with risk, i.e., security risks. And then, but also with the need to be manipulate, stored and so on. And therefore, opportunities for silicon utilization and new chips.
+As we zoom in a little bit more into the Software Integrity business and I assume most of your question is motivated by that. There we also serve that what difference, let’s say then, at least the last 10 years-plus in EDA or IP is, we are still getting many more new customers, meaning, logos that we’ve never touched or even never heard of before.
+While simultaneously seeing that a number of companies that we’ve done business with for a number of years are gradually moving to a larger spending levels, because they adopt more with more users or with more departments in the larger companies. And those two things we watch, we measure, we look at the renewal rates, essentially, we continue to try to assess is the business healthy. And so the combination of the external landscape and the internal execution so far have been good.
+When you talk about companies like NVIDIA that are extremely sophisticated, they also have extremely sophisticated utilization of our tools of combinations of our tools of certain things that they have added to this. And the word methodology is right on, which is really great companies know what to pay attention to and when to pay attention to in the flow.
+So that they a, reduce risk and b, maximize how much they can squeeze out of the given silicon technology. In general to your point of do people have to evolve their methodology? My answer would be absolutely yes. The complexity that we see is changing, not only in scale, meaning, more transistors. But also in systemic complexity, meaning, more dimensions that have to be satisfied simultaneously. And the traditional dimensions of speed, area and power are still very foundational.
+But so is now the approach to temperature, thermal issues on a chip the dealing with the reliability and safety of certain constructs in automotive spaces and so on. And then on top of that is increasingly the intersection between hardware and software, where a lot of issues popup, but also opportunities are sitting.
+So it’s in that context that we provide an increasingly large amount of methodology support and help. And also in our Fusion Technology have integrated a number of tools together to essentially accelerate what could be viewed as methodology, but is really the intersection between tools. So this may sound somewhat convoluted and complex and for us is actually good news, because that’s where we add value.
+Operator
+Our next question comes from Monika Garg with KeyBanc. Please go ahead.
+Monika Garg
+Hi, thanks for taking my question. So first one here for our estimates, software security is growing 20%, which you talked about. And it could be greater than $350 million business next year, which is a pretty good sized business. Could you talk about how to think about the profitability of the business? And is 20% growth a right way to think about the growth?
+Aart de Geus
+Well, we’ve said before that we do see this business growing in the 20% range. And so after that, you probably did the math correctly. We’re not pre-announcing 2019, but directionally, you’re certainly right on the mark.
+From a probability point of view in a very rapidly growing business, we have commented on the individual pieces, where each one of the companies we acquired over time were becoming profitable in eight to 36 months. We have commented I believe on Black Duck turning profitable in the second-half of next year.
+And so you can see that, in aggregate, all of that is moving in the right direction. And yes, there will be a bit of trading off how we look at growth versus profitability and how we manage that. But in the bigger picture of Synopsys, the numbers that you’re mentioning essentially say, this is heading towards being 10% of the overall company. And while it’s material forward to the bottom line, it is in that range of its contribution.
+Monika Garg
+But Aart, you are guiding to greater than 40% top line growth for this year. Black Duck, you have given us estimate, it’s probably adding about 2% in organic growth. And even if I take the effect of the extra week in 2018, I mean, growth definitely is accelerating year-over-year on the organic basis. Could you talk about the factor, which is leading to high growth? Thank you.
+Aart de Geus
+Yes. Well, again, I’m a little reluctant to get too close to giving directives for 2019 largely, because we’re not done with our own process. And we tend to not extrapolate from years that are not great and not extrapolate from years that are great. We just want to be careful and making sure that we hit it just right against what we think we can deliver.
+Having said that, I think, the reason why overall growth is good is, because the external factors of the importance of electronics and used electronics has the broader term for combination of hardware and software are very positive. The complexity is all coming our way in the EDA’s direction for providing sophisticated tools. And I think that over the last few years, we have proactively made investments that maybe penalize the OPs margin a bit, but we’re, I think, right on from a strategic point of view. So we feel that we’re in the right position.
+So the combination of all of that says, okay, we’re looking forwards to give you a predictions on 2019, but we’ll do that at the end of last year. And lastly, we continue to see in a number of areas the run rate of the company grow. And so, at least, it says, we have a fairly solid outlook.
+Monika Garg
+Okay. Just last one on the cloud side. Could you talk about how ready Synopsys solutions are for usage in the cloud? And are you seeing interest from customers to use the solution in the cloud? Thank you so much.
+Aart de Geus
+Well, we can make things work quite well in the cloud. It is different than when people own their own environment for a variety of reasons. It is also interesting that, the EDA utilization of computation tends to be at the high-end of sophistication. Meaning that our programs are arguably among the most complex and demanding in the software world period.
+And so they tend to use both maximum computational power, but also need a high degree of memory availability to actually run the very large designs that are there. And so we have quite a number of customers that on their own run a number of our products on the cloud. I think, they are continually looking at the economics in their favor or are they better off if they are a large customer to do it themselves. And I think that won’t go away anytime soon.
+Operator
+And our next question comes from Krish Sankar with Cowen. Please go ahead.
+Krish Sankar
+Yes. Hi, thanks for taking my question. I had a couple of them. Aart, you spoke about your foundry customers doing like 7-nanometer and then 7-nanometer plus at EUV. I’m kind of curious when new customers start doing that, where they start introducing EUV either for like 1, 2, 3, 5, 7, several layers. What impact does it have on EDA design? Is it a material impact, or do you have to go and redo the design? I’m just kind of curious and then I also had a follow-up question?
+Aart de Geus
+Okay. Well, in general, every time we introduced anything new in reality, it reduces complexity, it adds more things that you have to know about what that technology is. And while EUV has different needs in terms of masks or fewer needs in terms of mask-making, it is typically limited to only the lowest layers, because it’s quite expensive and slow. And the design has to be prepared well for those techniques.
+And so we’re quite familiar with EUV needs and satisfy those. And so I wouldn’t say that EUV has changed our business perspective massively. I’m looking at it more as a – well, the push for smaller dimensions is still continuing. And so it touches another part of our company more, which is the part that is doing simulations in three dimensions of very small features, because some of those features are new – are only possible if you use EUV. But for the broad designs, it is really a set of steps that that is related to the manufacturing that we have solutions for. I don’t think it changes our business picture all that much at this point in time.
+Krish Sankar
+Got it. That’s very helpful. And then as a follow-up, you guys have been interacting with your other customers for a long time for several years now. Back in the days like the auto customers would like to have the same design, same component or whatever design in for like eight to 10, 12 years. Has that behavior changed now with increasing semiconductor content and technology going into autos? Is that cycle time shortening, where they’re willing to refresh design every few years now, or is – has that philosophy not changed?
+Aart de Geus
+This is a very complex question, because even when you said we’re attracting a lot with automotive companies for a long time, it almost feels that we were interacting, they were not. And the reason was that automotive companies for many, many years had a layer of suppliers called the Tier 1s that really provide them with subsystems.
+And what the automotive companies did, they would give the general spec of what a subsystem needed to do to them and the Tier 1s would deliver. And the Tier 1s in turn would go to the semiconductor people and those we certainly knew very well and then have certain demands for automotive characteristics in the chips.
+And so we have worked our way literally up, the value chain, so to speak. And now in the last few years, we have certainly had many more interactions directly with people that actually sell cars and so automotive companies. And you say why did that change? Well, the change is, because the two macro changes on the automotive industry, one is electrification and the second one is the push towards autonomous driving are so phenomenally deep that companies have to deal with this.
+What has come down from the OEM – from the automotive companies through this food chain all the way to us is that notion of safety now have to be anchored in how certain chips are designed, and we are pushing right up, because we’re adding the notion of security, which is mostly manifests as software back up to them. So to say the least, we have a much richer set of interactions with them. The industry will, in my opinion, struggle with your question. Meaning that, if you want to design something for a 20- year life, just imagine using the products that we have 20 years ago and you are a most modern smartphone, it’s completely inconceivable.
+And so I think these car companies re going to have to go to mechanisms, where certain part of their platform is meant to survive long periods of utilization. But some of the pieces will be upgradable over the years. And that in itself is a challenging question, because if you upgrade something, there you make sure it still works.
+And so you can see that the number of technology problems that are moving up the value chain is phenomenal. And while we, of course, play with many others that bring great value. I think, we’re well-positioned to connect with these companies in multiple dimensions.
+My last comment is, this is also visible by the way in our Software Integrity business, and we’ve already done a number of transactions some quite significant directly with automotive companies. And this is almost like coming at this company from two completely different angles. But at the end of the day, they all connect back to the intersection of hardware software.
+Operator
+I will now turn it back over to our host for closing remarks.
+Aart de Geus
+Well, thank you very much for participating in the earnings release today. It has a little bit of a special color by version of the $3 billion milestone. And so we do appreciate that many of you have covered and followed the company for many years. And while we may differ in perspective from time to time, we are also very often aligned and we always feel that your reporting is to the point and appreciate the very support that you have given our company. And so on to the next milestone and thank you for the time spent today.
+Operator
+Ladies and gentlemen, that does conclude our conference.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

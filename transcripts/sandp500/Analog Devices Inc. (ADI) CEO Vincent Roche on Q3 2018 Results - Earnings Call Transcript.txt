@@ -1,0 +1,212 @@
+Analog Devices Inc. (NASDAQ:ADI) Q3 2018 Results Earnings Conference Call August 22, 2018 10:00 AM ET
+Executives
+Michael Lucarelli - Director of IR
+Vincent Roche - CEO
+Prashanth Mahendra-Rajah - CFO
+Analysts
+Craig Hettenbach - Morgan Stanley
+Ambrish Srivastava - BMO
+John Pitzer - Credit Suisse
+Vivek Arya - Bank of America Merrill Lynch
+Stacy Rasgon - Bernstein Research
+Tore Svanberg - Stifel
+Chris Danely - Citigroup
+Jerry Zhang - Barclays
+Toshiya Hari - Goldman Sachs
+William Stein - SunTrust
+Operator
+Good morning, and welcome to the Analog Devices Third Quarter Fiscal Year 2018 Earnings Conference Call, which is being audio webcast via telephone and over the web.
+I'd like to now introduce your host for today's call, Mr. Michael Lucarelli, Director of Investor Relations. Sir, the floor is yours.
+Michael Lucarelli
+Thank you, Jennifer and good morning, everybody. Thanks for joining our third quarter 2018 conference call. With me on the call today are ADI's CEO, Vincent Roche; and ADI's CFO, Prashanth Mahendra-Rajah.
+For anyone who missed the release, you can find it and related financial schedules at investor.analog.com. This conference call is being webcast live and a recording will be archived in the Investor section of our website.
+Now on to the disclosures. The information we're about to discuss including our objectives and outlook includes forward-looking statements. Actual results may differ materially from these forward-looking statements as a result of various factors including those discussed in our earnings release and in our most recent 10-Q. These forward-looking statements reflect our opinion as of the date of this call. We undertake no obligation to update these forward-looking statements in light of new information or future events.
+Our commentary about ADI's third quarter financial results will also include non-GAAP financial measures which exclude special items. When comparing our third quarter results to our historical performance special items are also excluded from the prior quarter and year-over-year results.
+Reconciliations of these non-GAAP measures to the most typically comparable GAAP measures and additional information about our non-GAAP measures are included in today's earnings release and on our web schedules which we've posted under the Quarterly Results section at investor.analog.com.
+Okay. So with that, I'll turn it over to ADI's CEO, Vincent Roche. Vince?
+Vincent Roche
+Thanks, Mike and good morning to everyone.
+Analog Devices well we had an outstanding fiscal third quarter. Our performance demonstrates the disciplined execution of our strategy as we continue to deliver value for our customers helping them meet their evolving needs in this dynamic market environment.
+It also reflects our ability to deliver strong results for our shareholders while investing in growth opportunities to expand market share, continuously innovate and strengthen our position for the long-term.
+In the quarter, revenues came in above the high end of our guided range. Our growth was once again driven by continued strength in our B2B markets, especially, in the industrial and communication sectors. These strong results were supported by yet another record quarter from our Linear Tech franchise.
+Operating margins expanded meaningfully compared to last year and non-GAAP EPS increased over 20% year-over-year and came in above the high end of our guidance. We also delivered very strong free cash flow generating $2.2 billion in free cash flow on a trailing 12 month basis translating to approximately 36% free cash flow margin.
+ADI's cash generating capabilities enabled us to achieve our 2x leverage ratio goal three quarters ahead of plan and we are pleased to announce that we have reinstated our share repurchase program. And given the long-term prospects of this business, our Board has authorized an additional $2 billion in share repurchases.
+Now before Prashanth goes deeper into our financial performance, I'd like to continue the discussion around key market trends that are shaping our industry and the steps that ADI is taking to seize these opportunities.
+On the last earnings call, I spoke about the transition to 5G for wireless communications and what it means for ADI. Today, I'd like to focus on Industry 4.0, which is driving the next evolution of innovation and investment in industrial automation.
+For many industries, the digital factory will bring greater supply chain efficiencies higher quality more flexibility and a safer workplace, all contributing to higher productivity. This manufacturing in which cyber physical systems monitor the physical process of the factory or plant will use additional data for decentralized decision making, human assistance, increased safety and more predictability. This will require a vast deployment of intelligent sensors at the edge.
+For many decades, ADI has been viewed as the go-to-edge solution provider, the place where the data is born so to speak. And I'll highlight later how we are enabling this evolution. Although ADI is excited about this emerging opportunity, we expect this transition to take time while the deployment of today's existing sensing signal processing and power architectures will continue to drive growth for many years.
+In fact, our core automation business represents a significant portion of our total industrial business today, and we're taking a long view to ensure that we keep at the cutting edge of technology and customer support.
+Our domain expertise is unmatched and gives us invaluable insights to understand our customers' challenges and where the markets are going. And we've been investing ahead broadening our portfolio through targeted R&D, collaborating with leading automation customers and leveraging strategic M&A to enhance our offerings to include algorithms and software.
+At the same time, we've extended our reach with the addition of the LTC sales force and SAEs. And the complementarity of our customer bases enables us to access more opportunities at current customers and to increase penetration at new customers. We believe that these targeted investments position us to continue to grow our market share and to outperform in the years to come.
+For decades our products and solutions have been adopted by many thousands of customers around the world. Their equipment is used at the factory floor level across a very diverse set of end market such as automotive, pharmaceutical, oil and gas, smartphones, food and beverage, and many, many others.
+And this is a long life cycle business. Once qualified and deployed to strict industrial requirements, customers keep using ADI's proven products. This makes this business very sticky with high barriers to entry.
+With a broader set of technologies and capabilities our customers continue to turn to ADI for the best performance and precision, robustness and safety. The addition of LTC as high performance power to our already extensive portfolio enabling further innovation, and in fact power plays an increasingly critical role in solving more and more of the design challenges of our customers as they further automate in space and energy constrained areas.
+For example, we just recently launched a product that enables up to eight analog outputs on a card previously unachievable due to excess heat. We succeeded by combining the signal chain expertise of ADI with LTC's power know-how to maintain an unchanged power density.
+Safety is also critical. These systems require essential electrical isolation barriers to protect low voltage electronics as well as humans from high voltages. Traditionally customers have used optical technology to transfer data across these safety barriers. However, frustrated by their lack of reliability and power, we increasingly see customers turning to ADI for our digital isolation technology.
+So with the unique architectures and leading process technology, our high coupler isolation solutions are significantly more reliable and can transfer data and power twice as fast as our nearest competitor.
+We also removed customers' industry certification pain with ready to use solutions accelerating their time to market. As a result of all that we've shipped over two billion channels and are increasing our market share and driving revenue growth well into the double-digit annually.
+Today as manufacturers respond to a more demanding consumer base they are turning to more distributed and flexible architectures. With this in mind, I will focus now on two examples to highlight how innovation at the factory floor is driving new growth opportunities for ADI.
+The first is robotics. Across all geographies significant investments are being made to upgrade from a labor intensive footprint to a more sophisticated automated infrastructure. Repetitive tasks are now being performed by collaborative robots commonly known as cobots. These are smaller robots that work in collaboration with humans. While the traditional large scale industrial robotics industry remains healthy and growing the newer collaborative robotics market is in the early stages of growth.
+Collectively this market is expected to grow at more than 10% annually adding more than 500,000 systems per year by 2022. ADI is unique in our ability to combine all these key technologies for the traditional large scale robots as well as the fast growing cobots segments.
+Along with our traditional precision controlled technology solutions including signal chains and digital isolation we effectively more than triple our constant opportunity with the addition of power management, communications and sensors.
+The secondary of innovation is the flexible factory floor. Here robots operate in tandem with many other systems including POC controllers and a vast array of sensors and actuators. These machines or devices are designated as either inputs or outputs. Several years ago ADI took on the challenge of implementing an integrated software configurable I/O architecture based on our high performance position signal processing portfolio.
+With this breakthrough in innovation ADI created a disruptive capability allowing universal selection and configuration of many types of input and output devices. This has opened new opportunities and allows customers to easily install and reconfigure their automation equipment.
+In addition to flexibility the big value impact comes in the total cost of ownership at the factory level. Significant savings for customers include eight weeks on average faster installation time savings on engineering and a significant reduction in factory space.
+Factory production flows can be adopted more easily and these changes that could conditionally take hours can now be done in minutes. With this new capability we've increased our SAM by an additional $200 million. And since our initial design wins of meeting customers over the past year we've substantially increased our opportunity pipeline.
+As we look towards the future with the digital factory, flexible architectures with an increase of robotics will enable the transformation of manufacturing.
+With that comes a demand for higher bandwidth, predictability of machine health, robustness and security. Working closely with our customers we've invested to extend our portfolio and ability to solve these challenges.
+In addition to offering the most robust industrial wireless network and technology ADI is enabling the transition to newer, secure connectivity architectures. We are leading the path to higher bandwidth industrial ready Ethernet using the latest time sensitive networking standards.
+ADI's industrial deterministic Ethernet is a far cry from standard Ethernet and provides the determinism, reliability, robustness and the security required in the hostile environment of the digital factory.
+Finally, our sensing and measurement technology provides contextual data enabling predictive outcomes. ADI's depth optical and touch sensors are used to create safe working zones for humans while vibration, electrical and temperature sensors are used for condition based monitoring, predicting the mechanical ware of the machines to maximize factory uptime.
+So to summarize at the edge of the factory floor where the data is born, ADI is the leader in industrial automation. This market has grown steadily for many years and we're witnessing a new era of opportunity, innovation and growth.
+While our core technologies continue to provide the foundational performance for control and precision, our new investments double our sum and allow us to solve the emerging challenges our customers face. All-in-all, I'm very optimistic about what the future will bring for ADI in this new world.
+So with that I'd like to hand over to Prashanth who will take you through the financials. 
+Prashanth Mahendra-Rajah
+Thank you, Vince. Good morning, everyone and let me add my welcome to our Q3 2018 earnings call.
+With the exception of non-op expenses, my comments on the P&L line items will be on a non-GAAP or adjusted basis, which excludes special items outlined in today's press release.
+As Vince mentioned, we delivered another record setting quarter. We had 8% revenue growth, 20% higher earnings per share, free cash flow margins at 36%. But before I get into the details of the income statement, let me cover the end markets.
+Our B2B revenue increased 13% year-over-year led by double-digit growth in the industrial and communications markets. The industrial end market represented 50% of sales in the quarter and increased in the low double-digits year-over-year. Growth in this market continues to be broad-based with nearly all applications and geographies increasing double-digits compared to the year ago quarter.
+As Vince highlighted, the factory automation market is undergoing changes not seen in decades and customers are looking to ADI as the trusted partner to provide next generation solutions to transform their industry and increase productivity.
+In the communications market which represented 21% of sales in the third quarter, sales into both wireless and wired applications increased at a double-digit rate compared to the same period last year. Growth in our wireless business accelerated as the market continues to densify their 4G networks, accelerate small cell deployments and begin the transition to 5G massive MIMO.
+This better market environment combined with our strong position across carriers with our high performance mixed signal and RF portfolio positions our comms business for continued growth and outperformance.
+Our automotive business represented 16% of sales in the quarter. And in line with our commentary last quarter sales increased at a mid single-digit rate compared to a year ago with all applications increasing over that time period. ADI organic revenue performed well once again increasing high-single-digits year-over-year.
+And finally, our consumer business represented 13% of sales in the third quarter, and as expected decreased year-over-year primarily due to lower demand for products used in the portable consumer applications.
+Now moving on to the P&L. Revenue for the quarter was $1.57 billion, above the high end of our guidance, increasing 8% year-over-year and up 4% sequentially. Gross margins of 71.2%, increased 70 bps year-over-year, and given the mix of business were down slightly sequentially.
+OpEx in the third quarter was $448 million or 28.5% of revenue. Strong revenue growth combined with operational execution resulted in operating margins at the high end of guidance at 42.7%.
+Non-op expenses in the third quarter were approximately $58 million and our tax rate was approximately 6%. Non-GAAP diluted earnings per share for the third quarter came in above the high end of guidance at $1.53, increasing more than 20% year-over-year.
+Moving on to the balance sheet. Inventory increased 2% sequentially, and days were 112 in the quarter, down four days from the second quarter. Disty inventory was just above 7.5 weeks, flat sequentially and up modestly compared to the year-ago quarter.
+We generated free cash flow of approximately $570 million in the quarter, bringing our trailing 12 months free cash flow to a record $2.2 billion with associated free cash flow margin of approximately 36%. And during the quarter, we also paid down $430 million of debt, bringing our net leverage to 2x.
+Capital additions in the third quarter were $52 million and we expect CapEx to continue to run at our model of approximately 4% of sales. During the quarter, we paid $179 million in dividends with an associated quarterly cash dividend of $0.48, representing an annual dividend payment of $1.92 per outstanding share of common stock.
+All-in-all, it was a terrific quarter and the Q4 guide is equally strong, which with the exception of revenue and non-op expenses are also on a non-GAAP basis and exclude items outlined in today's press release.
+At a high level, we're expecting the fourth quarter to look a lot like the third quarter. We're planning for the revenue in the fourth quarter to be in the range of $1.53 billion to $1.61 billion. At the midpoint of guidance, we expect our B2B markets of industrial, auto and comms in the aggregate to increase in the low-double-digits year-over-year. This would represent our seventh consecutive quarter of double-digit year-over-year revenue growth for our B2B markets.
+We're planning for gross margins to be approximately 71%. We expect our operating expenses to be in the range of $440 million to $450 million. At the midpoint of guidance, this implies OpEx as a percentage of sales will be approximately flat sequentially, which brings operating margins in the fourth quarter expected in the range of 42% to 43%. We expect non-op expenses to be approximately $57 million and our tax rate around 7%.
+And based on these inputs diluted EPS excluding special items would be in the range of $1.46 to $1.58. Now before we move to the Q&A session I wanted to provide some context for last night's press release.
+As I mentioned earlier, we achieved a two times leverage ratio during our fiscal third quarter just 16 months post-closing of the Linear acquisition. Over those 16 months we paid down $2.3 billion of debt or nearly one-third of the debt we raised for the deal.
+During the same period we also returned approximately $850 million to our shareholders through dividends. With this milestone achieved we can now provide more clarity on our capital allocation plans.
+Our first call on capital will always be to invest in the business whether through targeted R&D, smart capital spending or strategic M&A. These investments ensure we continue to have the right technology portfolio to increase our competitive advantage and drive profitable and sustainable growth.
+Given the profitability of this franchise the long-term prospects for our business and the benefits from U.S. tax reform we now plan to return 100% of our free cash flow after debt repayments to investors. Under this framework the dividend policy remains the cornerstone of our capital allocation policy. We have increased the dividend 15 times over the last 14 years and remain committed to our goal of a 5% to 10% increase annually.
+As you saw in yesterday's press release we are reinstating our share repurchase program and announced a $2 billion authorization from our Board of Directors. We plan to use this approval to offset dilution and over time lower our share count. We believe this capital strategy will continue to deliver value for our shareholders and allow us to continue the investments necessary to meet the evolving needs of our customers in a dynamic growth environment.
+So to wrap it up this was another record quarter for ADI across many metrics. The strength in our business resulted in strong revenue growth and profit conversion. We see this momentum continuing for Q4 and the early achievement of our two times leverage goal enables us to reinstate our share repurchase program.
+And with that let me turn it over to Mike for our Q&A session.
+Michael Lucarelli
+Thanks Prashanth. Okay. Let's get to the Q&A session. [Operator Instructions] Operator, can we have our first question please?
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question comes from Craig Hettenbach with Morgan Stanley.
+Craig Hettenbach
+Just a question on B2B, understanding it's double-digits in aggregate there has been some moving pieces between segments particularly kind of autos and comms. So any color as you're looking into the October quarter? Just a little bit more granular between the comms business industrial and autos for the October quarter?
+Vincent Roche
+Yes. Well look Craig, B2B remains very strong. We've had a couple of stellar years of growth and we remain in a strong zone here. The growth has been led primarily by industrial and comms. And that's as you know 70% of our business today. So I'd say at this point inventory is in very good shape, well-managed on our balance sheets. It's in good shape in the channel. And I'd say lead times are stable as well.
+And our overall guidance implies as Prashanth said our second - our seventh consecutive double-digit year-over-year growth in B2B. So I think we said clearly that we see pockets of slowing growth in industrial. It's - I think over the foreseeable future industrial will perform in the 2x to 3x GDP area probably at the higher end of that.
+Clearly, comms is ADI's position. 4G systems is good and carriers are spending more money in 4G. And we're beginning to see as well the early stages of deployment in 5G. So given the portfolio we have the penetration we have the key customers and wireless communications infrastructure I think we're poised to see some stellar growth in the wireless comms side of the business.
+Also there is a significant upgrade cycle taking place in the kind of the back of the optical back hold. So I foresee see that again given the strength of our penetration and the product portfolio that we have we'll see some decent growth there too. You know, we've talked about automotive many times. My sense is that that will continue to perform in the kind of the mid single-digit growth level. So it's I'd say moderate but very, very important part of what we're doing.
+Operator
+Your next question is from Ambrish Srivastava with BMO.
+Ambrish Srivastava
+I just wanted to focus on the gross margins side. I get the mixed change, consumer was stronger at least kind of versus what you were modeling. So it came in a little bit lighter versus what you guided to Prashanth? But if you look at the guide that seems a little bit lighter as well. So can you just help us understand the puts and takes across margin please? 
+Prashanth Mahendra-Rajah
+Absolutely, Ambrish. Thanks for the question. So recall that our gross margin model is to be above 70% which is industry leading. And we're above that goal for the third quarter and the fourth quarter. But you're right margins were slightly lower. The upside driven by communications and consumer and the result was our industrial mix declined to 50% or about 200 bps from where we were at second quarter levels.
+And as we look at the fourth quarter very similar to what Vince just told Craig our strongest growth is going to come from comms and automotive. So that mix in the businesses is driving a little bit of that shift in gross margins but still well above our model. And I will remind everyone that we do have about another $100 million of cost synergies which should start layering in towards the beginning of 2021, late 2020.
+So we still expect to be able to continue to drive the gross margins up as the operations team shuts down the facility in Singapore and in California. And then overall, our focus is on expanding op margins. So as long as we can keep driving our revenue faster than our operating expenses we'll be able to continue to drive the profitability for this business. Thanks for the question, Ambrish.
+Vincent Roche
+Just one quick follow-up to that. Prashanth was talking about the fastest growth sequentially and year-over-year basis the strongest growth is once again the industrial and communications which both grow on the double-digits. We have a next caller please?
+Operator
+Your next question comes from John Pitzer with Credit Suisse.
+John Pitzer
+Congrats also on the strong result, especially B2B. My question is just a little bit on the consumer side. If I back into kind of using the B2B guidance for Q4 to be up kind of low-double-digits, you kind of back into the consumer number which puts consumers down about 20% for the full year which is kind of at the high end of the range of the down 20 to 30 that you guys have been talking about at the Analyst Day - the low end of the range, sorry. I'm just kind of curious. Does that now reflect the new base off of which you guys can grow that consumer business? Or were there some things that happened this year that means that as we move into FY 2019, you might still have some headwinds to work through in that consumer business with that one large customer?
+Vincent Roche
+So I think what’s implied is just about right John. At this point, it's very, very hard to say what will happen next year. So we've got a good rhythm what the number will be this year in terms of the decline in the portable business. It's very hard to tell what 2019 will look like quite yet, but it's a fast-cycle business.
+And we win designs and you can lose designs as well in a very, very short period of time. But I would say to directly answer your question, as it stands today the consumer business hasn't yet trough in 2018, so we'll see some further decline in the portable part I believe in 2019.
+Operator
+Your next question comes from Vivek Arya with Bank of America Merrill Lynch.
+Vivek Arya
+Vince, your industrial and communication segments are doing quite well, but auto is at kind of this low to mid-single-digit growth remains below the peer group. Can you give us a sense of what has been done so far to, perhaps take some of the issues what needs to be done so that you can get back to the high-single-digit to double-digit growth rates like a number of your competitors are growing at? Thank you.
+Vincent Roche
+So the numbers that we've talked about are the combined legacy ADI and LTC. The legacy ADI part of the business is growing in the high-single-digit area and the LT part in the low-single-digits arena. So there are two primary components I would say that we are working hard to correct particularly on the legacy LT side of things.
+Number one is making sure that our BMS business, the Battery Management business gets back into a solid growth track. And I'm very encouraged by the progress we've made there, particularly in the last two quarters, holding onto the sockets that we've had and finding new sockets across the globe particularly in North America and Europe in the electric power train. And we've also got a couple of new products coming I think that are very, very exciting.
+And also on the power side of things, we are more aggressive. We were leveraging the ADI cost base where we've got fundamentally better cost structures to make sure that we take off our unfair share of high performance power sockets across the globe.
+So I think it's fair to say that it we'll be in this mid-single digit growth area depending on the market of course for the next year and a half two years. But somewhere in the 2020 area I expect us to see a meaningful bend upwards in the growth curve.
+Operator
+Our next question is from Stacy Rasgon with Bernstein Research.
+Stacy Rasgon
+Just wanted to get back to the segment growth. Were you trying to imply that everything is actually growing? I know you have some differences in sequential growth versus year-over-year growth across the segments.
+But are you still implying that everything is I guess it would come as everything like are you still trying to say everything is flat to up sequentially? Or you still having some B2B segments that could be down sequentially even driving double digit year over year growth?
+Vincent Roche
+No Stacy. You got it right. Everything as we move from Q3 to Q4 is up sequentially. What you do see is stronger growth up sequentially. And as you know we don't guide by segment anymore. But we what we do see is stronger growth coming sequentially from comms and automotive.
+And that is driving some mix impact overall which we expect to - I think it was Ambrish's question.
+Stacy Rasgon
+I guess my only issue it seems to take above your B2B growth. Although maybe you're suggesting when you say low double digits you're more than like 10% I guess is what you have to be implying with that guidance.
+Prashanth Mahendra
+Correct. I think if it was 10% we would've said 10% in low double-digits to me means five and we're being at 10% to 12%. So I'll think about it Stacy.
+Operator
+Your next question is from Tore Svanberg with Stifel.
+Tore Svanberg
+Yes, thank you and congratulations on a strong results, a question for Vince on the industrial market. You said it's slowing. Is that just a function of getting back to the mean from some very strong year-over-year growth rate? Is it seasonality? Or are you seeing anything else going on in that end market? Thank you.
+Vincent Roche
+So I think from a global standpoint what we see is that the macro economy is mainly constructive right now. You've seen PMI and GDP remain solid across the globe the PMIs and GDP.
+I've spoken with several customers and they remain optimistic as well about the future. So I'd say in industrial business now is good. As I mentioned earlier there have been some pockets of slower growth.
+I think driven by the uncertainties primarily in the geopolitical arena as people think through what this tariff situation means for everybody. But I'd say demand is resilient. And as we have in our guidance for B2B we've talked with double-digits growth again here on an annual basis.
+So I would say in general the growth is getting back to a more normalized level. In our FY 2017 our industrial business grew in the low 20s low 20%. This year it will be in the kind of mid-teens.
+So what I'm implying is that given the tougher compares and given the environment right now the demand is strong. I think we're getting to a more normalized 2x to 3x GDP growth and probably at the higher end of that. 
+Operator
+Our next question is from Chris Danely with Citigroup.
+Chris Danely
+I guess just one sort of summary a question on the end markets. So Vince you're kind of giving us the longer term growth of auto and industrial. How about comms? So comms looks like it's going to grow sort of in the mid double-digits this year. What do you think that should be longer term? And then maybe as just a brief follow on given industrial is flowing what should that mean for gross margins over the next several quarters? Should we think of them as part of a flattish type of trajectory? 
+Vincent Roche
+So at this point, I'd say given the product crop that we have and the penetration we've got and the secular trends in the wireless communications area in particular my sense is that even though it's a very, very lumpy business when you look at the quarter-by-quarter with 4G continuing to deploy with new architectures and 5G coming on board, my sense is that can be a double-digit kind of a 10% growth area for ADI for kind of the next three, four years. That's my sense.
+The backhaul market particularly the optical side of that I think is capable of growing as well in the kind of high single-digit area. So a lot of that is driven by the market conditions are better I think in general carriers are more optimistic and are working hard to get new technologies into market as fast as they can.
+But as I said we've got a great new product crop. And we have deeper and wider penetration not to mention the fact that we're starting to see the early stages of the cross-selling of LT's power technologies with ADI's signal chain.
+So my sense is I feel good about that market. And right now even though prediction is a dangerous game, my sense is that we should be able to grow that business in the kind of the low I would say double-digit area for the foreseeable future.
+And I'll turn it over to Prashanth to answer the gross margin implication question. 
+Prashanth Mahendra-Rajah
+So Chris the way that I guided to think about gross margins longer term is, I think, sort of flattish from where we are. We are as you know we are still ahead of our long-term model of 70%. Our industrial business has very rich gross margins. Our comms business has great margins but not as strong as the industrial.
+And as Vince mentioned, as we see more growth in that comms business which is what we would expect for 2019 that is going to drive a little bit of mix on the margins. So probably more to be in line with flattish to what we're expecting Q4 to be.
+On top of that I do want to remind folks we are looking at about $100 million of cost synergies that should be modeled in for future sort of in the late 2020, early 2021 closing both the facilities the one in Singapore and the one in the Bay Area in California. 
+Operator
+Our next question comes from Blayne Curtis with Barclays. 
+Jerry Zhang
+This is Jerry Zhang on for Blayne. I just have a question on the pace of buybacks. So when should we expect the share count to eventually start trending lower? And also as a follow-up how do you think about the plan for deleveraging going forward?
+Prashanth Mahendra-Rajah
+So I guess the way that I would guide folks to think about our repurchase activity. I'll start with reminding everyone, we generate a lot of cash, $2 billion plus on a trailing 12 month basis. And we have one of the highest free cash flow margins in the S&P 500. About $700 million plus of that is committed to the dividend.
+And as I mentioned, we're still targeting to grow that in the 5% to 10% annually as we've done for the past 14 years. So the dividend would account for - let's call it, mid to high-30s of our free cash flow. That leaves a fairly substantial amount of our free cash flow available both for buybacks and debt repayments. Our focus will be to be in the market every quarter as an effort to at a minimum work to offset dilution and then opportunistically we're going to look to reduce share count over time.
+When you ask about leverage, I think it's a similar answer in that - at a high level, we like to keep a good bit of cash available, so $750 million to $1 billion or so on hand. And then we do have a revolving credit facility in place for about another billion. I don't think about leverage as a specific target for ADI, but more as how do we optimize the balance sheet. And what do we need to do to maintain investment grade, so we have the flexibility that we need.
+So given kind of the cash generating capabilities of the franchise, there's probably no need for us to be operating in a net cash position. So going forward, I think you can expect us to always carry some level of debt, and will be mindful of what is the right environment as well as what are the other opportunities for us to invest in, and use that to kind of balance where we maintain our leverage. Thank you for the question.
+Operator
+Our next question is from Toshiya Hari with Goldman Sachs.
+Toshiya Hari
+I had a question on M&A. I was hoping you could talk a little bit about your appetite for further acquisitions now that Linear is integrated as part of ADI and to the extent you do have aspirations to buy more assets down the line, if you can talk a little bit about the technologies or the conditions that you would look for in a business. Thank you.
+Vincent Roche
+Well, our overall capital allocation framework, as Prashanth outlined hasn't changed very much. The long-term value of our investments both organic as well as inorganic will continue to drive the long-term profitable growth trajectory for ADI.
+Our approach to acquisitions has been and will continue to be very disciplined and at a very high level our strategy is really focused on acquiring assets that improve our competitive moat - the breadth and depth of our competitive boat from an innovation standpoint.
+So our goal really is to acquire technologies and engineering capabilities that will enhance us, make our portfolio more complete to meet the demands of the markets and customers in the future, and basically increase our overall ability to deliver increasing value to our customers. That's the path we're on, and that's the path we'll continue to be on.
+And I'm not going to talk about specific targets. We've got a successful track record. What we're looking at - we're always looking but our standards are very, very high.
+So this was the case when we acquired Hittite and Linear, LTC and also the myriad smaller things we've done over the last three or four years. So I'm very pleased with where we are now in terms of our overall portfolio but we're always on the look. As the markets evolve and customers' needs to evolve. So hopefully that gives you at least a philosophical view of how we think about M&A.
+Operator
+And our final question comes from William Stein with SunTrust.
+William Stein
+And congratulations on good results especially with regards to the balance sheet in the buyback. My question is about revenue synergies. Can you update us as it relates to revenue synergies for the Hittite acquisition which is clearly a few years in the rearview mirror but I think you're starting to see revenue synergies kick in there? And what you anticipate with regard to the same issue with Linear. Thank you.
+Vincent Roche
+And in as much as Hittite can give an indication of what's possible with regard to LT. We've more than doubled. When we took Hittite on board we've more than doubled the growth rate. And we've been able to scale Hittite across a broader range of customers bring a much more sophisticated manufacturing and quality assurance capability to the portfolio.
+So we've more than doubled the growth rate of Hittite. And off a $270 million-ish revenue point you can back out what those numbers are. We're in the early stages. It's taken us basically I'd say three years to get to the point with Hittite where we're able to accelerate the conversion of the pipeline.
+It takes about - a while to build it takes a while to convert it just given the latencies in the various markets that we attack. I've said before that with LT we are looking to make sure that for every dollar of mixed signal opportunity that ADI has it's a $ 4.5 billion-ish today. Today is kind of revenue levels that legacy LT power should be a one-for-one match. So we're seeing a huge opportunity. We're excited by the areas that we're starting to win.
+We're in early production stage for example in communications and automotive sectors which we felt would be the two most obvious places to get revenue synergy in the shorter-term. So my sense is again getting to a doubling of the overall LT legacy growth rate in a period of three to four years is a reasonable expectation.
+Michael Lucarelli
+Thanks everyone for joining us. Thank you, Will. A copy of the transcript will be available on our website and all available reconciliations and any additional information can also be found at the Quarterly Results section of our Investor Relations site at investor.analog.com. Thanks again for joining us and for your continued interest in ADI.
+Operator
+This concludes today's Analog Devices conference call. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+2 Authors in the Last 90 Days

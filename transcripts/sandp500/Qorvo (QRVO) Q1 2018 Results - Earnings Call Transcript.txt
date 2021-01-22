@@ -1,0 +1,326 @@
+Qorvo, Inc. (NASDAQ:QRVO) Q1 2018 Earnings Call August  2, 2017  5:00 PM ET
+Executives
+Douglas DeLieto - Qorvo, Inc.
+Robert A. Bruggeworth - Qorvo, Inc.
+Mark J. Murphy - Qorvo, Inc.
+James L. Klein - Qorvo, Inc.
+Steven Eric Creviston - Qorvo, Inc.
+Analysts
+Toshiya Hari - Goldman Sachs & Co. LLC
+Wills Miller - Bank of America Merrill Lynch
+Edward Snyder - Charter Equity Research
+Harsh V. Kumar - Stephens, Inc.
+Mike Burton - Longbow Research LLC
+Craig M. Hettenbach - Morgan Stanley & Co. LLC
+Bill Peterson - JPMorgan Securities LLC
+Cody Acree - Drexel Hamilton LLC
+Kulin Patel - BMO Capital Markets (United States)
+Chris Caso - Raymond James & Associates, Inc.
+Quinn Bolton - Needham & Co. LLC
+Srini Pajjuri - Macquarie Capital (NYSE:USA), Inc.
+David M. Wong - Wells Fargo Securities LLC
+Blayne Curtis - Barclays Capital, Inc.
+Vijay Raghavan Rakesh - Mizuho Securities USA, Inc.
+Operator
+Good day and welcome to the Qorvo Fiscal 2018 First Quarter Conference Call. Today's conference is being recorded.
+At this time, I would now like to turn the conference over to Doug DeLieto, Vice President of Investor Relations for Qorvo. Please go ahead.
+Douglas DeLieto - Qorvo, Inc.
+Thanks very much, Melinda. Hello, everybody, and welcome to Qorvo's first quarter fiscal 2018 earnings conference call. This call will include forward-looking statements that involve risk factors that could cause our actual results to differ materially from management's current expectations. We encourage you to review the Safe Harbor statement contained in the earnings release published today, as well as the risk factors associated with our business in our Annual Report on Form 10-K filed with the SEC because these risk factors may affect our operations and financial results.
+In today's release and on today's call, we provide both GAAP and non-GAAP financial results. We provide this supplemental information to enable investors to perform additional comparisons of operating results and to analyze financial performance without the impact of certain non-cash expenses or other items that may obscure trends in our underlying performance.
+During our call, our comments and comparisons to income statement items will be based primarily on non-GAAP results. For a complete reconciliation of GAAP to non-GAAP financial measures, please refer to our earnings release issued earlier today available on our website, qorvo.com, under Investors. In fairness to all listeners, we ask that each participant please limit themselves to one question and a follow-up.
+Sitting with me today are Bob Bruggeworth, President and CEO; Mark Murphy, Chief Financial Officer; Eric Creviston, President of Qorvo's Mobile Products Group; and James Klein, President of Qorvo's Infrastructure and Defense Products Group; as well as other members of Qorvo's management team.
+And, with that, I'll hand the call over to Bob.
+Robert A. Bruggeworth - Qorvo, Inc.
+Hello everyone, and welcome to Qorvo's fiscal 2018 first quarter conference call. On our call today, we'll discuss our quarterly performance and provide an update on market dynamics. We'll address these dynamics within the context from our longer-term goal of creating a more profitable and diversified company that's built to outpace underlying markets.
+In the June quarter, the Qorvo team executed well with revenue and EPS at the high-end of our guidance and continued progress toward achieving our margin targets. On the revenue line, IDP was a standout with record revenue of $184 million, up 22% year-over-year. IDP's repositioned product portfolio is targeting the highest growth opportunities. As the June quarter unfolded, demand was stronger than expected and the organization worked hard to support our customers.
+In Mobile Products, June quarter revenue was in line with expectations, reflecting the growth at Samsung and a modest demand recovery in China. Looking to the September quarter and beyond, we're confident in our content gains at large customers and we expect mobile revenue will track the ramp profiles of marquee devices. Across both Mobile Products and IDP, we're developing highly integrated single placements and highly differentiated discrete solutions for industry leaders.
+We are expanding our product and technology portfolios to deliver greater functionality and superior performance in miniaturized form factors and we are addressing our industry's most complex architectures, where performance wins. Our highest priority initiatives support our growth and margin targets, with an emphasis on BAW-based opportunities. We are converting to larger diameter wafers and we are shrinking dye sizes.
+It's our intent to reduce BAW cost and increase asset throughput and BAW utilization as a primary driver of our gross margin performance. We've launched multiple BAW 5 based discrete and integrated solutions. And we expect the market will continue to require more BAW filters as consumers demand more mobile data and as carriers work to increase the capacity of their networks.
+Of note, in Mobile Products, we continue to be pleased with our progress on a development program with our largest customer for a module that combines multiple high order BAW multiplexers. As we discussed at our Analyst Day, this is our single largest opportunity for driving growth and utilization. And we're on track for this development program.
+Looking at our June quarterly performance by segment, Infrastructure and Defense grew 22% year-over-year and 9% sequentially. Since repositioning IDP to focus on secular high growth markets, we've absolutely been hitting our stride. We've seen eight consecutive quarters of strength and the sales funnel continues to expand.
+In base station, we launched the industry's first GaN on silicon carbide 5G front-end module for the 39 GHz frequency band. The module's compact design integrates two powerful GaN mimics and uniquely addresses the complex challenges faced by telecom equipment manufacturers designing next-generation millimeter wave systems. In addition, we helped advance the development of 5G with a newly launched portfolio of ultra-high performance 28 GHz solutions. These hybrid solutions draw upon Qorvo's process expertise in both GaN on silicon carbide and gallium arsenide to deliver leading-edge performance in miniaturized footprints. It's also worth noting that we're seeing an increase in customer pull for our high-power BAW for the 3.5 GHz band for 5G massive MIMO antennas.
+Our defense business was also particularly strong. GaN and BAW have been a big part of this strength, growing over 25%. We are experiencing significant growth with our ongoing multi-year defense contracts, supporting programs like F-15, F-16, and the F-35. In fact, first quarter revenue with our largest defense customer more than doubled year-over-year.
+In Wi-Fi, IDP grew greater than 50% year-over-year. Of note, during the June quarter, IDP launched new BAW filters that enabled triple the range for smart home and enterprise applications. These new bandedge and coexistence Wi-Fi filters deliver robust coverage across the entire allocated spectrum and are half the size of earlier generation solutions. IDP also supported the transition to 802.11ax as customers implemented our recently released portfolio of BAW filters and 2.4 and 5 GHz FEMs.
+These newest Qorvo Wi-Fi solutions provide the high throughput and extreme thermal efficiency that are critical to high density 802.11ax connectivity. Our customers are quickly filling the Wi-Fi sales funnel and we continue to expect robust growth in fiscal 2018. Mobile Products also drove growth in IoT, supporting a range of applications, including automotive, asset tracking, meter reading, agricultural, industrial, and even the large bicycle sharing services in China, all with mobile M2M solutions.
+On the design front, we were selected by the leading China-based smartphone OEM to support a marquee device ramping this fall with Qorvo power amplifiers, premium filters, high performance switches, and an ET PMIC. We've also secured design wins for a broad suite of BAW 5 products, including quadplexers for carrier aggregation, Wi-Fi Sense for Oppo, Xiaomi, LG, ZTE and Nokia, and a Wi-Fi coexistence filter for a marquee smartphone platform.
+We helped enable a new smartphone entrant in the Android ecosystem, winning more than $12 of Qorvo content in a smartphone expected to ship very soon. We're also recognized as a partner by the China Mobile 5G Innovation Center, formalizing our alliance with China Mobile and defining what 5G can make possible. And we were honored by Vivo with their Innovation Technology Partner Award.
+Now for the open market, we released a broad family of premium BAW 5 filters and quadplexers that are critical for enabling the continued proliferation of carrier aggregation and high performance Wi-Fi. We also commenced shipments of our next-generation antenna tuners which reduce the complex design challenges related to band proliferation, the deployment of carrier aggregation, the implementation of MIMO and the popularity of new features like shrinking bezels and dual cameras, which require the already limited board space available for antennas.
+Across our Mobile Product platform, we're offering leading-edge solutions that compete on performance, not price. A long-term market trend is migrating to more functional, higher content performance tier phones and we expect this trend will drive growth in not just BAW filters, but also in envelope tracking, switching, antenna tuning and amplifiers.
+So at a high level looking at both Mobile and IDP, Qorvo is a recognized global leader serving a diverse set of markets, products and customers with an expanding portfolio of innovative solutions. In the current quarter, we're forecasting strong sequential revenue growth, primarily on the strength of mobile content gains on marquee platforms, modest improvements in the China market and continued strength in IDP.
+We have booked record sales of GaN solutions. The market for our switches and tuners is robust. We're advancing the design, performance, and breadth of our filter and multiplexer portfolios. And the broad strength of our product and technology portfolio is enabling Qorvo to grow content on multiple future generations of marquee platforms. We're building our industry's most highly integrated RF solutions and we're targeting the most complex and most profitable opportunities.
+And, with that, I'll turn it over to Mark for commentary on our financials.
+Mark J. Murphy - Qorvo, Inc.
+Thanks, Bob, and good afternoon, everyone. Qorvo revenue for the first quarter was $640 million, exceeding the midpoint of our guidance by $10 million. The variance was driven by our IDP business of $184 million with stronger than expected demand for defense, Wi-Fi, and broader IoT products.
+Mobile Products revenue was in line with expectations at $456 million. Gross margin in the June quarter was 47.3%, a sequential increase of 110 basis points and 30 basis points above our guidance. Operating expenses were $166 million and operating income for the quarter was approximately $137 million. Non-GAAP net income was $114 million. Diluted earnings per share was $0.87 or $0.07 over the midpoint of our guidance.
+First quarter cash flow from operations was down seasonally to $104 million, but approximately 75% higher than last year. Capital expenditures were down sequentially to $124 million and will continue to decline as we wrap-up recent expansions, tool conversions and other investments to support future growth. Cash at quarter-end was $513 million. We repurchased $32 million of stock in the quarter and intend to continue buying as part of an ongoing commitment to return capital to shareholders.
+Let's turn to our outlook. In the fiscal year 2018 second quarter, we expect non-GAAP revenue between $800 million and $820 million, a 27% sequential increase at the midpoint; gross margin of approximately 47.8%, up 50 basis points from the prior quarter; and diluted EPS of $1.43 at the midpoint of our guidance. This guidance reflects seasonal effects at our largest customer and modest improvements in the China market, but continued strength in IDP. Operating expenses are forecast to remain flat sequentially as productivity improvement are offset in part by R&D related to custom product development for our largest customer.
+For full year of fiscal 2018, we forecast revenue to strengthen from the September to December quarter followed by a seasonal decline in March. We project double-digit year-over-year growth in the second half with a stronger China market, gains on new mobile platforms and continued above market IDP growth. With our current top line outlook and efforts to minimize inventories, utilization rates are lower than expected. We still see opportunities for gross margin expansion through improving mix, yield improvements and other productivity efforts and lower than previously projected CapEx spend and depreciation.
+OpEx is forecasted to be down in dollars from fiscal 2017 and in the full year between 20% and 21% of sales. We're modeling an 8.5% tax rate. We've lowered our view on CapEx for the year from around $400 million to less than $300 million to take into account improvements in fab yields, successful wafer size conversions, progress on dye shrink programs and a near-term focus on improving utilization. Projected CapEx for the year is less than 10% of sales and over 800 basis point drop from last year. And combined with operating cash flow, we expect this will lead to a tripling of free cash flow in fiscal 2018.
+The view we laid out at Investor Day is intact. We have the technology and product portfolio to address industry trends; the advanced design capabilities to engage on the most difficult RF product development projects; a world-class manufacturing footprint capable of supporting low-cost, double-digit growth; and an organization committed to operational excellence.
+In IDP, we have a broadly diversified, high-growth business leveraging our technologies, including BAW, GaAs, and GaN, and serving IoT, 5G and other emerging markets. In Mobile, we're competing on the most advanced slots at the most challenging customers for the most valuable parts of the RF TAM. We're focused on BAW-based revenue because BAW filters are increasingly required to meet customer performance requirements for the most attractive part of the RF TAM.
+Our core BAW technology and production capability provide a significant competitive advantage that we're leveraging to win higher margin, performance-driven designs at leading customers. While the exact timing of customer technology adoption is hard to predict in the short-term, over time, the trends of more advanced filtering and more integration are inevitable.
+We strongly believe the comprehensive nature of our products and technology portfolio anticipates where our industry is heading and enables us to best support our customers' requirements for performance integration and cost. Our mid to long-term growth and margin expectations are unchanged. We intend to outgrow the market, expand annual operating margins 10 points by fiscal year 2020, and plan to generate substantially more free cash flow going forward on stronger operating results and lower capital intensity.
+With that, I'll turn the call back over to the operator for questions.
+Question-and-Answer Session
+Operator
+Thank you. And we'll go to Toshiya Hari, Goldman Sachs.
+Toshiya Hari - Goldman Sachs & Co. LLC
+Great. Hi, guys. Thanks for taking the question. Mark, sorry if I missed this. But I think three months ago, you guys talked about growing top line double-digits year-over-year in fiscal year 2018. Is that still intact today or have you made changes? And if so, what's changed over the past three months?
+Mark J. Murphy - Qorvo, Inc.
+Yeah. So good question, Toshi. So our full year right now looks to be not far off what the current external view is of our full year, so between 4% and 5%. Again, if you look at our first half, it's been a weaker China than we expected. And most of the variances relate to the slower pick-up in China and rest of year view on China. Some marquee phone effect but really the – that's the smaller effect. And we believe the worse is behind us at this point. As we mentioned in our opening comments, we do expect a sequential increase September to December. And at this point, we see a bit of a less than normal seasonal decline in the March quarter. And so if you look where the year has been, a bit softer out of the gate in the first half followed by a double-digit year-over-year growth in the second half, you get a full year that's in the 4% to 5% range.
+Toshiya Hari - Goldman Sachs & Co. LLC
+Got it. Very helpful. Thank you. And then my second question on IDP, very nice growth here. Acceleration from last quarter to this quarter despite a higher base. Bob, you've kind of walked through some of the end markets, but I was hoping, if you can elaborate on the one or two things that really drove growth in the quarter and if you can talk to sustainability in those businesses going forward, that will be great. Thank you.
+Robert A. Bruggeworth - Qorvo, Inc.
+Yeah. I would like to, but I believe James would love to.
+James L. Klein - Qorvo, Inc.
+Yeah.
+Robert A. Bruggeworth - Qorvo, Inc.
+So I'd let him have his moment. He's earned it.
+James L. Klein - Qorvo, Inc.
+We're particularly strong in Wi-Fi. Combining best-in-class power amplifier technology and our BAW filters and integrating those have allowed us to get significant traction in the market. And we're focused on those high performance slots and also on the transition to ax. So in that market, we believe that we'll be sustainable. And as Bob mentioned, we grew 50% year-over-year in Wi-Fi. Defense also has been particularly strong really across all of the submarkets inside defense and broad reaching inside our channel as well. GaN and BAW have been the big part. Both grew over 25%. And we also experienced significant growth on our multi-year defense contracts supporting the programs that Bob mentioned earlier, and particularly proud of the ability to double our largest customer in that space year-over-year. And again, I think, we see with defense a long-term sustainability in that part of the market.
+Robert A. Bruggeworth - Qorvo, Inc.
+Thanks, James.
+Toshiya Hari - Goldman Sachs & Co. LLC
+Thank you.
+Operator
+And we'll next go to Vivek Arya, Bank of America Merrill Lynch.
+Wills Miller - Bank of America Merrill Lynch
+Hey. This is Wills Miller for Vivek. Thanks for taking my questions. Given your commentary regarding your marquee phone, as it pertains the September quarter, should we assume above seasonal growth in December quarter and if so by how much?
+Robert A. Bruggeworth - Qorvo, Inc.
+As far as our comments have been is that we are expecting December to be up quarter-over-quarter compared to September. We're not guiding at this time December, but we believe it's going to be up.
+Wills Miller - Bank of America Merrill Lynch
+That's helpful. And then, maybe can you just talk about the demand environment and how it's shaping up in China in the second half and just kind of some color on how visibility is there around inventory?
+Robert A. Bruggeworth - Qorvo, Inc.
+Eric, you want to take that?
+Steven Eric Creviston - Qorvo, Inc.
+Sure. We mentioned in the prepared comments a modest recovery in China. I think that's a good way to characterize it. We're clearly seeing units turn around and begin to pick up well, seeing channel inventory coming to healthy levels this quarter. The only drag on it is the mix is towards lower content phones so far in the cycle. So we're seeing less uptake in particular of like carrier aggregation and super high performance Wi-Fi components and so forth. So we expect as we go through the year, we'll see more flagship models released, which will bring those features back in. But we're glad to see the units turning around. It's definitely becoming a healthy sequential growth for us coming out at this point.
+Wills Miller - Bank of America Merrill Lynch
+That's helpful. Thank you.
+Operator
+We'll next go to Edward Snyder, Charter Equity Research.
+Edward Snyder - Charter Equity Research
+Thanks a lot. First off, Mark, your CapEx guidance has declined a bit. What does that say about Farmers Branch? Have you brought that up? Is it in qual? Are you slowing down? Can you give us some color on specifically where you are with that ramp for the qualified line?
+And then, James, it sounds like a great quarter here overall. Are you seeing a demand for – I know the Wi-Fi was very strong and there's been a lot of push for modules on the mobile side of it. I know that Eric's group is starting to look at the iFEMs. Are your customers looking at any of that type of product or given that you're such a higher performance, higher power solution, is it still mostly discrete or are they talking about it now, period?
+And then one for Eric, if I could. In terms of the profile for next year, I know it's too early to tell because you haven't been awarded wins, et cetera. But in general, all else being equal, is your confidence on say antenna tuners or LNAs or BAW filters higher heading into next year in terms of growth prospect by technology from where we are right now?
+Robert A. Bruggeworth - Qorvo, Inc.
+Okay. Let's go ahead and take these. Mark, do you want to take the Farmers Branch, our plans there?
+Mark J. Murphy - Qorvo, Inc.
+Yeah as we continue to get the qual lines done at Farmers Branch, we're moving quickly on that. We want the facility ready for when we're going to need it, which is going to probably be fiscal year 2019. And it's again going very well. The yields there are in line with what we have in Richardson, which is outstanding. So I would say it's going better than expected. Steve Grant would say it's going absolutely as expected. And so, great job by the team there and it's going to be ready when we need it.
+Robert A. Bruggeworth - Qorvo, Inc.
+Thanks, Mark. James, he wanted to know about iFEMs in your market, where it's more performance?
+James L. Klein - Qorvo, Inc.
+Yeah. Ed, the growth in Wi-Fi was particularly in our retail space. I wanted to clarify that, and largely with some of our customers in Asia. The uptick of iFEMs has been very positive in the market. So, as Bob talked about earlier, we are seeing integration. We are putting BAW inside those integrated FEMs in some cases. And we do have FEMs out for both 2.4 and 5 GHz.
+Robert A. Bruggeworth - Qorvo, Inc.
+Thanks. Eric?
+Steven Eric Creviston - Qorvo, Inc.
+Yeah. So, in terms of confidence looking into next year, saw new product ramps. Certainly, BAW is going to be critical for us and we're working on some very complex BAW modules with high order multiplexers in them. Our confidence continues to grow every single week that we get closer in the development. We're really getting outstanding performance out of these modules today and delivering in relatively high volumes considering where we are in the program. So very excited with what the team is doing. We're confident that's going to lead to tremendous growth in our BAW-based revenue next year.
+Tuners overall are just a fantastic opportunity for us. It's one of the largest growth areas in our available market. And we've got a lot of generation over generation technology improvements coming and the market demand or the need for the improvements is greater than ever with more antennas coming into the handsets, new case designs, MIMO and so forth. And it's not just in the premium or flagship tier. We're seeing it now move well into many of our China customers, down into their portfolio as well. We had a lot of expertise there, so our confidence is quite high in that growing as well next year.
+Edward Snyder - Charter Equity Research
+And then if I could, your competitive environment in tuners is quite a bit different than it is in most of the other areas that you compete into. And I know there are folks starting to sell it. I know you guys landed head-to-head with Skyworks and a few others guys. You've landed slots in what would traditionally wouldn't be considered your strong area. Can you give us a thumbnail sketch of the competitive environment in that versus today versus say filters?
+And then if I could, Mark, it – Bob highlighted a number of progress points on BAW, both in quadplexers and filters in the open market and how you guys are landing more slots there. Clearly that's coming out of Richardson at this point. Can you just give us idea, as utilization moved up there, as the unit volumes pushed it back down, where are you with regard to that? And if you land the marquee parts that you've been talking about for next year, you're absolutely going to have to have Richardson display that. Are you not? Thanks.
+Robert A. Bruggeworth - Qorvo, Inc.
+Yeah. Okay. Eric, first part.
+Steven Eric Creviston - Qorvo, Inc.
+All right. So regarding the competitive environment in tuners, it is different, as you point out, from other parts of the radio, primarily because you're working with the customer as part of his case design, electromechanical team. And so it also has got quite a bit of applications experience required. So our many, many years in this industry and I think we've got the industry's best talent by far working in this area. The intimacy we built with our customers to help them, I think, is a key competitive advantage for us and I think there are a few that can replicate that.
+Robert A. Bruggeworth - Qorvo, Inc.
+Mark, utilization, BAW and Richardson?
+Mark J. Murphy - Qorvo, Inc.
+Yeah. Ed, the utilization in Texas is – at Richardson is not what we want it to be. It's not what we expected it to be. The slow start in China has weighed on that facility's utilization. And as you know, with the (27:53) conversion going on there, it's actually – I don't want to say made the problem worse, but certainly on that metric it's worse and that we – just more output for a given input. So we are – that is part of the reason that between that and yields improving and other things, we don't need the same level of spend that we needed before.
+I think we knew that that the capital intensity of the business would go down. That's been accelerated a bit here. So that's why we've called the forecast down. I think it bears repeating Eric's comment that BAW is BAW growth and these advanced modules requiring BAW, absolutely critical to our growth plans. It's critical for our margin expansion plans, not only because of the higher margin BAW product mix, but the increased utilization has a tremendous effect on our margin going forward.
+Operator
+And we'll next go to Harsh Kumar, Stephens.
+Harsh V. Kumar - Stephens, Inc.
+Yeah. Hey, guys. Hey. A question to you, Bob, for your large – you've got a pretty large sequential increase in the mobile side. Some companies give a ratio called the coverage ratio. I suspect it pertains to how much orders you have hard on the books. Is there anything like that that applies here? And then you also mentioned a full year guide of between – call it metric of between 4% and 5%. I'm trying to spread it out and maybe if you could provide some color on how much is typical March seasonality in your viewpoint that would be helpful.
+Robert A. Bruggeworth - Qorvo, Inc.
+Yeah. Thank you, Harsh. As far as backlog coverage and things like that, in some ways, that's really outdated. We're on a lot of schedule share programs with many of our customers. And I think the main point here is we've got visibility to the demand that we're very comfortable with what we guided. So let's leave it at that way, some customers that book and some of it's schedule share, Harsh. And the second part, normal seasonality – again, there's a large range. Sometimes it's down 15% or more, sometimes a little bit less. So this time, we're thinking it's going to be maybe double-digits, but not up towards 15%.
+Harsh V. Kumar - Stephens, Inc.
+Understood. And then for my follow-up, I just wanted to say pretty tremendous job on gross margin execution guide that's been going up. I guess my question is it's going up again in September. What would you say is the biggest thing that's driving? Is it just the revenue ramp? And then also are we – is 50% still in the site to be hit some point in time this year?
+Mark J. Murphy - Qorvo, Inc.
+Yeah. Good questions, Harsh. And I would – we're not giving – on the walk to September, there's a lot of puts and takes, some positive as you can imagine, some negative. On the positive side, we've got just continued productivity improvements, so it's much of what I talked about before. We have low-band pad ramping, which is headwind, but this generation of low-band pad is more profitable than the last generation. That's a positive.
+And then, finally, as we were – just our normal course of accounting activities and as we were spending for all these conversions, it arose that that converting SAW processes from four to six and BAW processes for six to eight just depend on we could reuse a lot of the tool sets and equipment. So, based on this, we evaluate useful life and adjusted depreciation schedules to reflect this which we had to do. So, it's a large percent of the process tools for – the conversions are reused up to 90%.
+On the negative, we've got – June to September we have an increased mobile mix. So, just the business mix is unfavorable against gross margins sequentially. Again low-band pad though it's – this particular version is higher margin than the last. It's still lower margin than much of our average margin. And then you heard the question from Ed and the utilization in the fab network, specifically Texas, is really weighing on us. So, puts and takes, but that's the summary.
+Harsh V. Kumar - Stephens, Inc.
+Thank you, Mark. Appreciate it.
+Robert A. Bruggeworth - Qorvo, Inc.
+Thanks, Harsh.
+Operator
+We'll next go to Mike Burton, Longbow Research.
+Mike Burton - Longbow Research LLC
+Hey. Thanks, guys. So I was just wondering if – sorry if I missed it, but if you could just repeat your 10% customers for the quarter. And then can you provide some more color on your progress with Samsung? You sounded very confident in getting them above 10% on a previous call. I was curious how they tracked for you, both last quarter and your expectations for the rest of this year?
+Mark J. Murphy - Qorvo, Inc.
+We had two 10% customers in the quarter. One is 27% and the second was...
+Robert A. Bruggeworth - Qorvo, Inc.
+Samsung was 10% and...
+Mark J. Murphy - Qorvo, Inc.
+Yeah.
+Robert A. Bruggeworth - Qorvo, Inc.
+Outlook for the year on Samsung?
+Mark J. Murphy - Qorvo, Inc.
+11%.
+Robert A. Bruggeworth - Qorvo, Inc.
+Yeah.
+Mark J. Murphy - Qorvo, Inc.
+Yeah.
+Mike Burton - Longbow Research LLC
+Okay. So...
+Steven Eric Creviston - Qorvo, Inc.
+Yeah. So the outlook for our business with Samsung is we continue to actually make a lot of progress there across multiple tiers. There's a lot of opportunity for us opening up now, more next fiscal year, but early in the fiscal year and they are mass tier programs, which had a lot of volume. We've always had switch participation there, but a lot of opportunity now opening up in integrated modules for both the mid and high-band and low-band for that matter. And we've got similar trends as we do with Huawei, where we've got a little lot out of sync with them last year. We're coming back into focus now. I think, Huawei, even much sooner than Samsung, you're going to see significant turnaround in our share there.
+Mike Burton - Longbow Research LLC
+Thanks. And then, Mark, on OpEx going forward, what are the puts and takes as we look past the September quarter on the OpEx side? Thanks.
+Mark J. Murphy - Qorvo, Inc.
+Yeah. Mike, we expect OpEx to continue to trend down on a dollar basis. It's just due to a number of productivity programs underway. The whole organization is being trained on Lean, better documented processes and things like that. Working on improving or prototyping efficiency and then this depreciation benefit I talked about earlier. There's a little bit that goes down into OpEx and going forward that helps a bit. So we're just expecting to get much better leverage off of our fixed cost base going forward. And that's driving us to close the gap with our peers.
+Mike Burton - Longbow Research LLC
+Great. Thanks.
+Operator
+Craig Hettenbach, Morgan Stanley.
+Craig M. Hettenbach - Morgan Stanley & Co. LLC
+Yes. Thanks. Yeah. Mark, I just had a follow-up question on gross margins. I wasn't clear if you're saying kind of 50% target for March is on track or there is puts and takes for that to play out?
+Mark J. Murphy - Qorvo, Inc.
+Thanks, Craig, for asking the question. And, Harsh, I apologize for not getting the back half of your question. We certainly still – it remains our target. But since we're nor providing fourth quarter 2018 guidance, I'll refrain from making a commitment. What I can say, Craig, is that we continue to make progress and expect to be over 50% as BAW mix increases and the Texas fabs are fully utilized. I think related remind you that our operating margin model is 30%, so gross margin 50%, OpEx 20% for an operating margin of 30%. We expect to be over that actually this year in the December quarter. So we're making progress down to the operating margin line. I expect the gross margin progress to continue. But, again, as we said a couple times here BAW is critical to making that happen.
+Craig M. Hettenbach - Morgan Stanley & Co. LLC
+Got it. Appreciate the extra color. And then just any thoughts on capital allocation. It looks like CapEx is coming down a bit. I mean, historically, you've done buybacks and some tuck-ins, but how you're thinking about best use of cash here and updated thoughts on M&A opportunities.
+Mark J. Murphy - Qorvo, Inc.
+Yeah. We do have, Craig, decision to make on the free cash flow. We're committed to continue to return it to shareholders just as we communicated at the Investor Day. We'll first look at it, are there any acquisitions, inorganic growth that makes sense. IDP is a business in particular that we would look at opportunities there, at bolt-on technology or markets. But we're comfortable with our leverage and barring any acquisition opportunities would likely return cash to shareholders.
+Craig M. Hettenbach - Morgan Stanley & Co. LLC
+Got it. Thanks.
+Robert A. Bruggeworth - Qorvo, Inc.
+Thanks, Craig.
+Operator
+Bill Peterson, JPMorgan.
+Bill Peterson - JPMorgan Securities LLC
+Yeah. Hi. Thanks for taking the question. There's been some fears in the market about pricing, people being more aggressive on pricing. I guess with some of the wins you have at the leading Chinese maker as well as the other smartphone manufacturers in China, how should we think about your design wins and with BAW or iFEMs or some of the other content gains you have? How is pricing and what's the impact to gross margins on some of these newer platforms? Thanks.
+Steven Eric Creviston - Qorvo, Inc.
+Right. We're really focused on the premium tier and driving towards highly integrated solutions with few competitors. And in that market, you really win or lose by having the product ready on time and meeting the performance requirements. So pricing isn't as much an issue for us in that market.
+Bill Peterson - JPMorgan Securities LLC
+Okay. Very good. And then maybe switching to IDP, James, continued great results in IDP and you talked about some of the near-term dynamics. I guess embedded in the 15%-plus year-on-year growth which looks beyond even I guess the next quarter or two, what would be some areas of, let's say, outperformance and then what would be any areas that could be holding it back? Thank you.
+James L. Klein - Qorvo, Inc.
+Yeah. I think we'll see a similar story as we go through the rest of the year, significant strength in our defense business and in our IoT part of the business. IoT will really be both around our Wi-Fi products, but also what we call low power wireless. We're seeing a very nice growth here with the GreenPeak Technologies that we brought into the company about a year ago. So really against those three areas, any headwinds would be some pressure on our base station business in predominantly in China and a little bit of headwinds on our traditional long haul optical business.
+Base station we're modeling to be down between 5% and 10% year-over-year for the full year. So that's a bit of a headwind for us. Long-term that markets, the trends still look very, very positive as we see GaN aggressively moving in, 5G coming on board, massive MIMO systems getting deployed. All those we think are very, very positive trends. Same thing with optical. I think, as optical begins to rebound, we believe we've got some of the best performance technology in the market for next-generation drivers in long haul metro and those will continue to drive growth in that business.
+Bill Peterson - JPMorgan Securities LLC
+Terrific color and great results despite those headwinds. Thanks.
+James L. Klein - Qorvo, Inc.
+Yeah. Thanks.
+Robert A. Bruggeworth - Qorvo, Inc.
+Thank you.
+Operator
+Cody Acree, Drexel Hamilton.
+Cody Acree - Drexel Hamilton LLC
+Yeah. Thanks for taking my question. Maybe, Eric, if we could go back to China and just, I'm just trying to better understand the delta between last quarter's conviction that you were thinking about a 10% annual growth and now 4% to 5%. It sounds like it was largely around China. So I'm just trying to get a better understanding of what changed.
+Steven Eric Creviston - Qorvo, Inc.
+Yeah. Thanks. It is largely China. As we mentioned, the recovery is taking off slowly in terms of units, but what's more important to us is the actual mix towards the higher end of the portfolio. We're heavily levered towards carrier aggregation and high performance Wi-Fi, envelope tracking sort of solutions which many of our largest customers in China are clearly designing in and moving forward with, but it's in their more premium part of their handsets.
+And I think in general, people all over the world, but in China in particular are waiting to kind of see what happens with our largest customer's ramp this year, decide what competitive looks like in that premium tier, and then decide which exact models they're going to release and roll out after that. So we've taken a relatively cautious stance on how the units are going to continue to go on China. Once they do turn it on in full steam, a large part of our fiscal year will potentially be behind us. So that's kind of the color behind the guide.
+Cody Acree - Drexel Hamilton LLC
+Eric, do you think that there has been some structural share loss in China or is it just related to kind of a shift in timing of some of these programs?
+Steven Eric Creviston - Qorvo, Inc.
+Yeah. Share loss in as much as the mix is more towards low-end, which doesn't use as much of our products. I mean, in any one product segment we compete, I don't think there is any issue there with that. The handset mix is more towards lower end. If that continues, that will add up to share loss.
+Cody Acree - Drexel Hamilton LLC
+And then lastly, in years past, we have had your largest customer at times really front-end load their build for their launch. This last season, it seemed to be a little more paced, a little more measured demand build pacing with what they were seeing as demand. If we go back into kind of the 6S what was very front-end loaded, they got into problems I guess. What are you expecting this year as far as that largest customer's build pattern?
+Robert A. Bruggeworth - Qorvo, Inc.
+Sorry. We're unable to comment on anything that's actually not been announced publicly. So we've given you our guidance and that's the best we can do.
+Cody Acree - Drexel Hamilton LLC
+Okay. Thanks.
+Operator
+And we'll go to Ambrish Srivastava, BMO Capital Markets.
+Kulin Patel - BMO Capital Markets (United States)
+Hi. This is Kulin Patel calling in for Ambrish. Thanks for taking my questions. On the balance sheet, inventory tick up a bit in the June quarter. What's driving that and how should we expect that to trend in the September quarter and I guess throughout the year?
+Robert A. Bruggeworth - Qorvo, Inc.
+As far as the inventory buildup, it's pretty much seasonal for us. If you've studied us over the years, we typically build inventory in June to support a big September ramp. And given our guidance, we expect to consume that in September and we've also made comments that we're expecting a strong December. So we're expecting inventory to come down over the next few quarters.
+Kulin Patel - BMO Capital Markets (United States)
+Okay. And how much of your mobile business was from China? I think in the last quarter you mentioned it was 35%.
+Steven Eric Creviston - Qorvo, Inc.
+So excluding Huawei, it's about 30% of mobile in the June quarter.
+Kulin Patel - BMO Capital Markets (United States)
+Okay. Great. Thanks.
+Operator
+And Chris Caso, Raymond James.
+Chris Caso - Raymond James & Associates, Inc.
+Yes. Thank you. Good evening. Just the first question on the – your comments on adjusting the depreciation schedule. Could you clarify that a bit in terms of what's the timing of that adjustment? What's the magnitude of the adjustment on margins?
+Mark J. Murphy - Qorvo, Inc.
+Yeah. The timing of the adjustment – hey, Chris, I think you need to put your phone on mute. We're getting a bad echo here. Timing the adjustment would be this second quarter you'll see it. We actually put it place this fiscal year, but only had an effect on – small effect on OpEx in the first quarter. $0.01 or so on EPS was considered in our guide.
+And then in the second quarter you begin to see the effects of that on gross margin. It's 150 basis points give or take on gross margin. And then one quick comment while I have the floor here. Just on the free cash flow and the use of cash, I just want to make it clear. I'm not going to indicate rate and pace of the buyback, because there is – could be acquisition opportunities or some other location of cash or other issues, which my impact the timing of the use of that cash. We assume for guidance purposes in our EPS that we just offset dilution. I wanted to make that clear.
+Chris Caso - Raymond James & Associates, Inc.
+Okay. Thank you. And just as a follow-up, if you talk about that the – you said that the BAW opportunity at your largest customer was on track. Could you clarify what on track means? Any kind of update you could provide there and what potential timing we would have a more substantial update on that on whether or not that project may go forward?
+Steven Eric Creviston - Qorvo, Inc.
+There is very little color we can add. On track means we're competing head-to-head and we still have every reason to believe that we can win a portion of the business. And in terms of clarity, we've increased throughout the year. It will likely be end of this calendar year, maybe a little in the next year before we have full clarity.
+Operator
+Quinn Bolton, Needham & Company.
+Quinn Bolton - Needham & Co. LLC
+Hi, guys. Just wanted to follow-up a couple of comments. First, the less than seasonal decline in March, Bob, was that really being driven by the timing of marquee phone wins or were there some other dynamic leading you to believe that March could be better than seasonal this year?
+Robert A. Bruggeworth - Qorvo, Inc.
+Yeah. I think integrating all the customers – what we talked about as some of the wins that we've got in the back half of the year. We talked about China. We talked about the shift of what we see going on there. We've talked about coming back at Samsung. We talked about coming back at Huawei. I think layering all that in, that's why we made the comment.
+Quinn Bolton - Needham & Co. LLC
+Got it. And it sounds like as part of that, it does anticipate sort of this more positive mix shift in China going from sort of the low end back towards the premium phones sometime into the December and March timeframe?
+Robert A. Bruggeworth - Qorvo, Inc.
+That is correct.
+Quinn Bolton - Needham & Co. LLC
+Great. And then just one for James. You mentioned the 39 GHz and 28 GHz solutions for 5G. It wasn't clear if those are PA-based solutions? Are they filter-based solutions or just give us a little bit more color on what you're supplying for the 5G massive MIMO antenna arrays?
+James L. Klein - Qorvo, Inc.
+Yeah. For reference, there is a couple of nice press releases that we did before at MTT that will kind of give you a little bit more detail about what's in there. Basically PA-based films and mixed technology in some cases where we're integrating both gallium nitride and GaAs just for those high frequency ranges.
+Quinn Bolton - Needham & Co. LLC
+Great. Thank you.
+James L. Klein - Qorvo, Inc.
+But not discrete power amplifiers, more integrated solutions.
+Operator
+And Srini Pajjuri, Macquarie Securities.
+Srini Pajjuri - Macquarie Capital (USA), Inc.
+Thank you for taking my question. Bob, just a question on the BAW opportunity that you talked about. Given that you still don't know for sure what your market share might be, why CapEx now, because that's a large customer? The opportunity could be pretty significant.
+Robert A. Bruggeworth - Qorvo, Inc.
+I'm sorry. I didn't understand totally the question. Would you repeat the last part?
+Srini Pajjuri - Macquarie Capital (USA), Inc.
+Yeah. Yeah. I'm just curious as to why reduce CapEx when you don't have visibility into how big the BAW opportunity for next year could be?
+Robert A. Bruggeworth - Qorvo, Inc.
+Yeah. I think those are two separate things. As far as – CapEx is not related to that project. I think Mark outlined things are going pretty well there. We've got Farmers Branch still on track to support significant growth in FY 2019. We're cutting back. We're making the transition to 8-inch. It's going extremely well. We've talked prior about our dye size reductions, things going well there. So those aren't even related.
+Srini Pajjuri - Macquarie Capital (USA), Inc.
+Okay. Fair enough. And then a question on the content expansion, Bob. Can you give us an idea how much content expansion you're expecting in the second half of this year? And then if there is a significant difference between different SKUs? Thank you.
+Robert A. Bruggeworth - Qorvo, Inc.
+Sorry. As I commented earlier, we're not able to comment on anything that hasn't been made public yet. Sorry about that.
+Operator
+And David Wong, Wells Fargo.
+David M. Wong - Wells Fargo Securities LLC
+Thanks very much. Can you give us some idea on the degree of visibility you have on these very big jumps that you're seeing? Do you have some bookings extending into December deliveries? Have you got forecast through December or perhaps even into the March quarter yet?
+Robert A. Bruggeworth - Qorvo, Inc.
+Yeah. As far as, David, with several of our customers, yes, we have bookings through December and if someone changes business it actually goes out a year, so depending on the particular business. In mobile, for our large customers, we have visibility in their production plans for well over the next year. And that's what we actually quote book orders on. So we have good visibility into what their plans are. But just like you, we don't have great visibility into how many of their phones they are actually going to sell. But as far as what their plans are, we have very good visibility.
+David M. Wong - Wells Fargo Securities LLC
+Great. Thanks very much.
+Operator
+Blayne Curtis, Barclays.
+Blayne Curtis - Barclays Capital, Inc.
+Hey, guys. Thanks for taking my question. I apologize if this is already asked. But just into the September quarter, just curious what the bigger driver, you're seeing a big step up in mobile. Just curious between marquee smartphone and the recovery in China that you noted, what's the bigger driver for that sequential growth?
+Robert A. Bruggeworth - Qorvo, Inc.
+Yeah. Thanks, Blayne. As far as the majority of the driver, it is the launch of new phones. I'd make that pleural, if I could. And then the second part would be the recovery in China.
+Blayne Curtis - Barclays Capital, Inc.
+Helpful. And then maybe, Mark, just on the change in the depreciation schedule, maybe I missed this. Just curious. What was the prior length and what is it now and when was this implemented?
+Mark J. Murphy - Qorvo, Inc.
+Yeah. It's a mix of assets, Blayne. So, yeah, it's a difficult question to answer. You'll see the disclosure in the Q, which we'll file tomorrow. I have given you the highlights. And I think it's important to realize that while we haven't done the review and back in yet in the fall, when we gave our original guidance, again, lot of puts and takes. Some things have gone our way. This happen to be an accounting justification that was – better matches the lives of those assets with our use. And some things have not gone our way, specifically the BAW, utilization in Texas, which is actually – the effect of that is 200 basis points or more. So that's it on that.
+Operator
+Vijay Rakesh, Mizuho.
+Vijay Raghavan Rakesh - Mizuho Securities USA, Inc.
+Yeah. Hi, guys. When you look at the BAW ramp, can you give us a percentage of what percent of June quarter was BAW filters? And if you look at the September quarter, what's the mix of BAW and so we can get an idea of the BAW ramp? And also the depreciation expense...
+Mark J. Murphy - Qorvo, Inc.
+Yeah. We don't give that level of detail quarter-to-quarter.
+Blayne Curtis - Barclays Capital, Inc.
+Yeah. Okay. And the depreciation expense just following back on Blayne's question. Is that going up or down with the adjustment? And the second part was on the fiscal 2019 ramp on the Farmers Branch, is that the eight-inch ramp for fiscal 2019? Thanks.
+Robert A. Bruggeworth - Qorvo, Inc.
+Farmers Branch, as far as what we're qualifying in Farmers Branch today and the line that we're qualifying is eight-inch, so that factory will be all eight-inch. And the Richardson factory, it was originally pulled up on eight-inch tools for six-inch diameter, so about 90% of those tools were converting to eight-inch, as we ramp. And as far as Blayne's question, the depreciation, it will be going down on the assets that were currently in place, as Mark pointed out various different lives. And that's taking affect this quarter from a gross margin perspective.
+Operator
+And that does conclude today's question-and-answer session. I will now turn the conference over to management for any additional or closing remarks.
+Robert A. Bruggeworth - Qorvo, Inc.
+Thank you for joining us tonight. Qorvo is at the heart of the systems and technology that connect the world, both wired and wirelessly. We've build a strong foundation on innovation and we're targeting our industries' most complex and most profitable opportunities. In fiscal 2018, we anticipate strong operating performance highlighted by revenue growth, margin expansion operating leverage, EPS growth, and a tripling of free cash flow. Thank you, again, for joining us and have a good night.
+Operator
+And that does conclude today's conference call. We thank you all for joining us.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

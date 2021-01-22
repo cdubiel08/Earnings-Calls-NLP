@@ -1,0 +1,267 @@
+ANSYS, Inc. (NASDAQ:ANSS) Q2 2019 Results Earnings Conference Call August  6, 2019  8:30 AM ET
+Company Participants
+Annette Arribas - Senior Director, Global IR
+Ajei Gopal - CEO
+Maria Shields - SVP and CFO
+Conference Call Participants
+Ken Wong - Guggenheim
+Jay Vleeschhouwer - Griffin Securities
+Matt Pfau - William Blair
+Jackson Ader - JPMorgan
+Ken Talanian - Evercore ISI
+Steve Koenig - Wedbush Securities
+Tyler Radke - Citi
+Gal Munda - Berenberg Capital Markets
+Adam Borg - Stifel
+Nate Hitchcock - Needham & Company
+Jason Celino - KeyBanc Capital
+Robert Simmons - RBC
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to the ANSYS' Second Quarter 2019 Earnings Conference Call.
+With us today are Ajei Gopal, Chief Executive Officer; Maria Shields, SVP and Chief Financial Officer; and Annette Arribas, Senior Director, Global Investor Relations.
+At this time, I would like to turn the call over to Mr. Arribas, for some opening remarks.
+Annette Arribas
+Good morning, everyone.
+Our earnings release and the related prepared remarks document have been posted on the homepage of our Investor Relations website this morning. They contain all the key financial information and supporting data relative to our second quarter financial results and business update, as well as our Q2 2019 outlook, and the key underlying assumptions.
+I would like to remind everyone that in addition to any risks and uncertainties that we highlight during the course of this call, important factors that may affect our future results are discussed at length in our public filings with the SEC, all of which are also available via our website.
+Additionally, the company's reported results should not be considered an indication of future performance, as there are risks and uncertainties that could impact our business in the future. These statements are based upon our view of the business as of today and ANSYS undertakes no obligation to update any such information unless we do so in a public forum.
+During this call and in the prepared remarks, we'll be referring to non-GAAP financial measures unless otherwise stated. Please take any reference to revenue to mean revenue under ASC 606. A discussion of the various items that are excluded and a full reconciliation of GAAP to comparable non-GAAP financial measures under ASC 606 is included in this morning's earnings release materials and related Form 8-K.
+In closing, I would like to remind everyone that our 2019 Investor Day will be held on Thursday, September 12th in Pittsburgh, with a reception and technology showcase event the evening before. Further details around location, logistics, agenda and registration can be found on our IR website.
+I would now like to turn the call over to our CEO, Ajei Gopal, for his opening remarks. Ajei?
+Ajei Gopal
+Thank you, Annette, and good morning everyone.
+Q2 was another record- setting quarter for ANSYS. We surpassed the high end of our guidance in revenue as well as earnings per share, setting new Q2 records in each category. Our ACV growth was excellent coming in at mid-teens for the quarter in constant-currency.
+Based on our outstanding financial performance, and the strength of our pipeline, I'm excited to announce that we are raising our 2019 revenue, EPS and ACV guidance for the second time this year. Maria will provide the details shortly.
+Our success over the past several quarters is due to a number of factors including our strategy of making simulation pervasive across the product life cycle, that strategy is driving more simulation and therefore larger deals. We are operating across two vectors to increase the size of our deals.
+First, by enabling deeper penetration of a single physics through new use cases and users; and second, cross-selling our broad multi physics portfolio to help customers address modern product challenges.
+Let me give you an example of the first vector. In Q2, we closed a $49 million deal, the third largest in our history, with a South Korean high-tech leader, this, the largest single physics deal in our history demonstrates that we can significantly increase the size of our transactions with the power of our gold standard solutions.
+Moving to the second vector, as products become more complex, companies are increasingly addressing product challenges that involve multiple physics. That creates significant opportunities across our market-leading multi-physics portfolio.
+In Q2, we closed a large multi-physics deal with a U.S. Department of Defense prime contractor. In addition to our flagship physics solutions, our materials intelligence solution from this year's Granta Design acquisition coupled with the additive manufacturing applications built on a foundation from the 3DSIM acquisition were key considerations in the deal to help them modernize their workforce and accelerate the development of complex systems.
+This is just one of many examples that demonstrates our technology leadership and the broad moat that separates us from our competitors. On the partnership side, I was excited to discuss our alliance with SAP and the value that we are jointly bringing to customers during a presentation at SAP's Sapphire Now Conference.
+During the conference, we heard how SAP's Predictive Engineering Insights Enabled by ANSYS has helped the customer to streamline its order timeline from months to days. SAP representatives also joined me during June's Paris Air Show where we showcased the benefits of digital twin technology with leaders from the aerospace and defense industry.
+Our partnership with PTC where ANSYS Discovery Live has been embedded into PTC's new Creo Simulation Live is also gaining momentum. During its most recent earnings call, PTC reported that it had closed 76 transactions with an average deal size above the previous quarter's level.
+Our two companies collaborated at the defense contractor I mentioned earlier resulting in PTC landing the largest ever Creo Simulation Live deal and the ANSYS team closing a substantial Discovery Live order. 
+That contractor is noteworthy because it intends to deploy both Creo Simulation Live and ANSYS Discovery Live to potentially thousands of users across multiple business units. That demonstrates the opportunity for Discovery Live at some of the largest enterprises where it complements traditional simulation and CAD offerings and drives even more value for users.
+Staying with Discovery Live for a moment, I'm excited that this new product continues to garner accolades from the market as well as the media. The most recent recognition was from Fast Company, which in its September issue named ANSYS as one of the 50 best workplaces for innovators for our development of this groundbreaking product.
+In past earnings calls, I've highlighted specific products or solution areas in the ANSYS portfolio. For example, during our Q1 call, I spoke about how our gold standard solutions like ANSYS HFSS and ANSYS RedHawk are driving success in their respective markets.
+In Q2, I'd like to highlight the ANSYS Solutions that are making autonomous vehicles a reality. With an estimated $7 trillion impact on the global economy by 2050, the financial implications of autonomous vehicles are considerable and will dramatically impact OEM's and the entire supply chain.
+Given the sophistication, complexity and safety critical nature of these products, it is clear that they cannot be developed without the extensive use of simulation. As a result, we are seeing increased interest from automotive OEMs, A&D companies and their entire supply chains to make these next-generation vehicles a reality.
+And while there may be speculation around the timing of when truly autonomous vehicles will take to our roads and airways, the simulation work around autonomy is paying dividends in the form of ongoing improvements in vehicle safety, features and efficiency.
+ANSYS' best-in-class multi-physics products coupled with leading technologies that we've obtained through our recent acquisitions including Medini and OPTIS are enabling automakers and aircraft manufacturers to virtually test their products to ensure safety and reliability for these future transportation systems.
+In Q2, we announced a landmark deal with automotive leader BMW to create what we believe to be the industry's first holistic simulation tool chain for developing autonomous vehicle technologies.
+The tool chain will optimize valuable test data by providing a development framework around rigorous safety planning, efficient test space exploration and data analytics in a virtual driving environment. Using this solution, the Company expects to launch its highly automated BMW iNEXT in 2021.
+As part of this agreement, ANSYS will also assume exclusive rights to the BMW developed portion of this tool chain for commercialization to the wider market. Autonomy will affect multiple industries, including automotive and aerospace and defense.
+In Q2, we also announced an agreement with Airbus Defence and Space, which will use ANSYS SCADE Solutions to enable safety critical controls with sophisticated artificial intelligence with the goal of fully autonomous flight by 2030.
+Airbus plans to use our solutions to link traditional model based software development with new AI based workflows. Their goal is to drive the development and certification of drone flight control software to accelerate time to market and cut associated expenses. We further expanded our product leadership in the simulation of autonomous systems with the Q2 release of ANSYS 2019 R2.
+In R2, we've expanded the capabilities of our VRXPERIENCE Driving Simulator to prepare advanced scenarios and run simulations with complete and accurate multi-body vehicle dynamics. This innovation is already being used by automotive leader Renault to reduce physical testing, shorten time to market and ensure safety for its autonomous vehicle initiative.
+R2 also dramatically enhances capabilities crucial to the design and analysis of RADAR used in autonomous vehicles. Our new innovation around Accelerated Doppler processing provides more than a 100x speed up for the time it takes to simulate radar systems.
+This new breakthrough capability delivers gold standard accuracy and enhances collaboration between radar sensor designers and the OEMs that incorporate the sensors on vehicles.
+Autonomous vehicles have the potential to fundamentally reshape the way we think about safety, mobility, land use and our environment. With our powerful multi-physics solutions and partnerships, I am excited that ANSYS is well positioned strategically and can play a role in making the dream of autonomous vehicles a reality. This represents a significant long-term market opportunity for ANSYS.
+Switching gears, I'd like to welcome Lynn Ledwith as our Vice President of Marketing. Lynn has more than 30 years of experience and brings an outstanding track record across digital and field marketing as well as corporate branding. She has held marketing leadership positions at Worldwide Clinical Trials, Qlik Technologies, SunGard, Siemens and HP amongst others. Lynn brings a fresh approach to how we market that will open new avenues to build demand and to branding.
+In summary, I'm proud of what we've accomplished in Q2. Our excellent financial performance coupled with the increased functionality of our gold-standard solutions and our ability to help customers take advantage of megatrends like autonomy, electrification, 5G, IoT and others, give us confidence in our ability to achieve our goals for the remainder of 2019 and beyond.
+And with that, I'd like to turn the call over to Maria. Maria?
+Maria Shields
+Thank you, Ajei. Good morning, everyone.
+Ajei shared a few highlights from our Q2 results and now let me take a few minutes to add some additional perspective on our very strong second quarter financial performance and provide color around our outlook and key assumptions for Q3 and the remainder of 2019. Consistent with our standard practice, my comments will be in terms of non-GAAP unless I state otherwise.
+Our record Q2 results reflect continued strong customer and business momentum, combined with solid execution across the business. We finished the quarter with constant-currency revenue growth of 23% and operating margin and EPS results that were both well above the high end of our Q2 guidance.
+The revenue performance in Q2 was driven by strong sales execution, including a larger dollar value of multiyear lease transactions and the closing of a few deals that were originally forecasted to close in the second half of the year.
+The combination of our strong second quarter and first half results, which have been driven by success, most notably in high-tech, automotive and A&D and the strength of our pipeline, gives us confidence that we are on a path to continue to make progress against our strategic priorities and to deliver another year of record financial performance in 2019.
+Key financial metrics for the quarter begin with Q2 ACV of $326 million or constant-currency growth of 14%, and total revenue of $370.5 million. Key currency exchange rates were within the ranges that we provided with our Q2 guidance.
+The increase in software lease license sales combined with strong maintenance renewals contributed to building our deferred revenue and backlog to a Q2 total of $717 million, a 22% increase over last year's comparable balance and a new record Q2 high.
+The exceptionally strong topline results helped to drive a second quarter gross margin of 91% and an operating margin of 46%. We also experienced a slightly slower pace of hiring than we had planned for the quarter.
+That being said, we did increase our employee base by approximately 100 employees in Q2. It's our intention to continue to execute on our hiring plans throughout the second half of the year. We reported record second quarter EPS of $1.61 benefiting from the revenue overperformance and representing growth of 19% over Q2 of 2018.
+With respect to taxes, our effective tax rate in Q2 was 19%, which was slightly below the range that we had guided coming into the quarter. Going forward, we expect our effective tax rate to be in the range of 20% to 21% for Q3 and 20% to 20.5% for the full year.
+Our cash flow from operations totaled $89 million for the quarter and $240 million for the first half and we closed Q2 with a total of $632 million in cash and short-term investments. We repurchased 80,000 shares during the quarter, which leaves us with 3.5 million shares available for repurchase under the current authorized program.
+Now, let me turn to the topic of guidance. Coming off our exceptionally strong finish in Q2, we are initiating guidance for the third quarter and increasing our revenue earnings and ACV outlook for 2019. Before I get into the specific numbers, let me just provide a few comments with respect to the impact of the ongoing trade discussions between the U.S. and China.
+I'd like to remind everyone that in 2018, our China business accounted for less than 5% of our total annual revenue. And point out that our increased outlook for 2019 does take into consideration our reduced expectations from China.
+Now, let me move to the details of our outlook. For Q3, we expect non-GAAP revenue in the range of $320 million to $340 million and non-GAAP EPS in the range of $1.15 to $1.28. For the full year, we are increasing our outlook to non-GAAP revenue in the range of $1.460 million to $1.500 million or constant currency growth in the range of 14% to 17% or 15% at the midpoint and EPS in the range of $5.98 to $6.28.
+We are also increasing our ACV outlook for 2019 to a range of $1.440 million to $1.475 million. This represents constant currency ACV growth of 10% to 13%. Our outlook for the remainder of 2019 factors in everything that we are currently aware of with respect to ongoing trade discussions, political situations and customer sentiment across our geographically and industry diverse customer base.
+It also reflects additional spending in the second half related to several business infrastructure and digital transformation projects, increased sales commissions and hiring costs that were delayed from the first half's hiring shortfall.
+With respect to annual operating cash flow, currently, we are maintaining our outlook for 2019 in the range of $470 million to $510 million. I would like to remind everyone that our outlook for operating cash flow in 2019 includes higher tax payments that relate to the acceleration of lease license revenue and the related profitability under ASC 606, including additional tax payments relating to the strong Q4 finish in 2018, and the first year impact of the acquisitions that we closed earlier this year.
+Looking ahead to Q3, we're expecting operating margins of 39% to 40% and for the full year we're expecting a slight uptick in operating margins in the range of 43.5% to 44.5%. Further details around specific currency rates and other key assumptions that have been factored into our outlook for Q3 and 2019, are contained in the prepared remarks document.
+The key takeaway from our Q2 and first half results is that our strategy to make simulation pervasive is working as evidenced by double-digit growth on both the top and bottom lines and strength across the business.
+Part of our confidence behind raising our guidance for the remainder of the year is based upon the continued momentum that we see from our diverse customer base. We believe that the megatrends that Ajei mentioned along with industry-wide recognition that simulation can drive a competitive advantage for our customers are bolstering demand for our products and services.
+We remain confident that our continued focus on execution and investing in the business, combined with the ongoing growth in our recurring business, our strong customer relationships and healthy sales pipeline, provide a solid foundation to continue to deliver on our 2019 goals, as well as our longer-term 2020 financial targets.
+Operator, we will now open the phone lines to take questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question today comes from Ken Wong with Guggenheim. Please go ahead.
+Ken Wong
+And another great quarter. On the topic of China, could you tell us whether or not you guys saw any immediate impact in Q2. And then as we look ahead, you mentioned in - you guys have factored in some conservatism in guide. Any chance you guys can help quantify what that headwind is. And as far as kind of recent headlines, obviously there's a lot of currency headlines right now, was that also already considered in the outlook?
+Maria Shields
+Yes. So, Ken, I'll take that. Yes, we did see a little bit of positive impact from the China situation in Q2, which helped to drive some of the overperformance in revenue. That being said, it wasn't material to the quarter. We have factored in a reduction in our expectations from the China business in the second half. I would say somewhere in the $5 million to $10 million range. And yes, the - what transpired relative to currency is all factored into the outlook that we gave last evening in our earnings announcement.
+Ken Wong
+And then maybe - for Ajei. You mentioned the large single physics deal, the $49 million multi-year deal. When you think about kind of similar type transactions in the past, is there an opportunity to turn this into a multi-physics type of a transaction and typically what kind of uplift, something like that deliver in terms of future results?
+Ajei Gopal
+Yes, there is - there is always an opportunity for us to convert single-physics deals into multi-physics deals. Obviously some of it depends on the use cases some speaking in generalities, but it depends on the use cases of the customers are half of a specific application, but I said in general, as I said in the call, we're trying to expand deal sizes, not only by focusing on single-physics, as is the case with this one, but we're also trying to drive the multi-physics cross-sell across the organization. And those two work together.
+So even as we deepen single-physics, we're continuing to look at broadening the multi-physics and even in the organization, which has a multi-physics sales there is opportunities to deep individual holding. So they're both kind of working parallel with each other but absolutely, it's the basis of our ability to drive larger deals.
+Operator
+And our next question comes from Jay Vleeschhouwer with Griffin Securities. Please go ahead.
+Jay Vleeschhouwer
+Good morning. Ajei. Two questions for you. You noted the strength in high-tech, which is quite evident. And we're also seeing momentum the aero and auto. But you do seem to be see not quite the same growth in industrial equipment for the last couple of quarters or more, perhaps you could talk about that end market and what you're thinking is for the intermediate term, in terms of the industrial market showing some improved momentum that's a shorter-term question. Long-term question, at the Design Automation Conference two months ago in Las Vegas, ANSYS Management, including the new CTO, gave a very interesting presentation on ANSYS' long-term technology vision and there were references for example to things like new computational methods in new business areas, collaboration in cloud, services-based architecture including interestingly at least for me SPDM services.
+So the question is with regard to that technology vision, how is that today in forming your internal investments in R&D and perhaps even in sales and marketing to effectuate that longer-term vision.
+Ajei Gopal
+So let me start with the second question first. As you know, we at ANSYS fight ourselves on the nature of our technology, the accuracy of our solutions and the effectiveness that we have in bringing new ideas and new technologies and new techniques to market, and we continue to make investments.
+And obviously, Jay, what you're referring to, and what you saw, is a glimpse into some of the work that we're doing within our organization to continue to drive innovation, you mentioned the cloud, obviously, we continue to make investments in the cloud, we continue to drive product - product capabilities in the cloud.
+We have most recently an announcement, I think a couple of quarters ago, for ANSYS' Cloud, which is obviously driving - which is driving Cloud usage as well as of course HPC usage within the traditional data center. We've talked about investments that we're making in computational techniques that result in faster speed up of our algorithms, we continue to make investments, in fact I referred to one of those investments we were able to get 100x speed up in some of our capabilities in my script.
+So I think that there is a significant amount of investment that we're making in a different set of vectors you mentioned, componentized architectures and that obviously reflects the next generation as we invest in our platform activity.
+We have an industry-leading platform in the form of ANSYS Workbench and we continue to make investments in that technology as well. So there is a number of different investments we're making in machine learning, artificial intelligence, big data analytics, all of which we think support our business and make us most successful. So that's obviously the case, and you're seeing some of that and I'm glad you were able to look at that presentation.
+As far as the industry verticals are concerned, what I'm excited about of course is the growth that we're seeing in the high-tech markets, aerospace and defense and automotive and all of these areas are drive - there is a significant level of industry focus on those areas and frankly those constitute tailwinds that are driving the growth of our business and we're excited about the activity that's taking place, and the activity that's taking place really permeates the entire supply chain an.
+And in many cases as you know, when we think about the end markets we refer to customers where they belong even though from an electronics company might be supplying other companies elsewhere in the supply chain as well. So I hope that I answered your questions.
+Operator
+And our next question comes from Matt Pfau with William Blair. Please go ahead.
+Matt Pfau
+I just wanted to get some additional detail on how you're driving deeper penetration with single physics products within your customer base, and I guess I'm trying to understand, are you gaining additional business units, are you getting new types of engineers to use ANSYS or are they competitive displacements some additional detail there would be helpful. Thanks.
+Ajei Gopal
+So usually what happens is, firstly, obviously two vectors, one, is there more users using the technology and there is more usage of that technology and that might be in more use cases that may be in more complex products that require greater amounts of simulation.
+Our sales team is engaged with the customers, we try to understand the nature of the technologies, the nature of the problems they are trying to solve. And we are obviously effective in positioning simulation as the way of being able to address some of that challenges. And so as they take on more and more different products, in some cases across different departments, across different parts of the organization, the success that we are enjoying in one part of the organization starts to become infectious across that organization.
+And so I think that that's one important dimension. The other thing to realize is as products become more complex, the amount of simulation required to validate or to effectively launch those products increases and that requires more - more simulation to be run. So that's greater use of HPC, high performance computing and that translates obviously into ultimately more business for ANSYS, and so it's more users, it's more use cases, it's more HPC, all of which drive to use within a single physics.
+And then of course as I've said before, problems tend to be multi-physics in nature for - especially for larger companies that are looking at season and broader products and in that case, we're able to then leverage single-physics into a multi-physics sale.
+Operator
+And our next question comes from Sterling Auty with JPMorgan. Please go ahead.
+Jackson Ader
+This is Jackson Ader on for Sterling this morning. If you could just touch maybe going back to industries. If we take autonomous driving out of the automotive sector, how does the, maybe traditional simulation in the automotive space, particularly in the U.S. look, in the first half of 2019 and then for the second half?
+Ajei Gopal
+So when we think about the automotive industry, the two broad trends. I would say are perhaps addressing and changing the way that the automotive industry thinks the first is electrification and the use of electric power to drive these cars. And the second is - the second is autonomy and the use of - and the creation of safer and smarter cars leading ultimately to autonomous cars. And both of those are massive - there is massive levels of investment in both of those areas.
+And if you have a conversation with an automotive company, those two areas tend to be huge areas where they're spending - they're spending money, they're retooling, they are trying to make sure that they can stay ahead as the industry goes through this transition.
+So those remain big, but at the same time car companies are building cars, so they're still worried about the fundamentals that they've worried about for many years, which include how do you deal with - how do you deal with structural analysis and integrity, but to give you one example; the problems of structures and vibration analysis and noise is an area that we've been in for a number of years, we've helped customers solve that problem.
+Well, when you move to an electric car that problem becomes even more pronounced and so what might have been okay with an internal combustion engine, which was drowning out the noise in a car is no longer okay, when you're dealing with an electric car which might be much quieter.
+So the problems that they're dealing with and they're trying to solve in some cases are even more complex because of this new technology. And so, absolutely, we see an ongoing demand for simulation to be used, not only where it's historically been used, but also for these incremental new use cases like electrification and autonomy.
+The other thing that I would draw your attention to is materials, I mean companies are starting to look at the use of different materials and understanding the role of materials and the nature of the interaction between the materials they use and the outcome that they get, that's also important. And of course that's where some of the acquisitions and technology that we got through Granta come into play a role.
+So when I think about the automotive industry, every single one of our technologies and techniques whether it was original ANSYS Mechanical which was the heritage and the foundation of the Company to the most recent acquired technologies that we have, are all relevant for the automotive industry and are solving problems that are absolutely pertinent and center for them being successful as they go forward in the industry.
+Jackson Ader
+One quick follow-up for you, Maria. Just on the cash flow. I think we want to make sure we're clear. So the - are these large lease deals that you signed in the first half or particularly in the second half, are they leading to larger tax payments than you previously contemplated and that's why the operating cash flow guidance has remained unchanged?
+Maria Shields
+No. So just to be clear, that deal was actually in our forecast, it wasn't an outlier. But that being said, as we began to articulate in Q1 that under 606, no doubt the tax payments have increased. So as a result, the combination of the increase in tax payments under 606 as well as about a 2% headwind for the full year and the dilutive impact on cash flows from the acquisitions that we did earlier in the year, all lead to us deciding that it's probably prudent not to take up the cash flow guidance until we get a sense of the timing around closing of those larger deals in the second half to see whether or not they will impact 2019 cash flows or move into Q1 of 2020.
+Operator
+And our next question comes from Ken Talanian with Evercore ISI. Please go ahead.
+Ken Talanian
+I was wondering if you could give us a sense for how are you thinking about organic ACV growth for the remainder of the year.
+Maria Shields
+Yes, I would say the impact - the inorganic impact of the acquisitions that we did this year are about 3%. So the remainder is all organic.
+Ken Talanian
+And then Ajei, it sounds like R2 offers a more integrated workflow than available before. Could you discuss were you're more broadly in terms of technical integration for both your existing products and recent acquisitions?
+Ajei Gopal
+Well, as you know, we've had a strategy for a number of years that we've been executing against to integrate our products together through the ANSYS Workbench and that continues to be - that continues to be the strategy, it was a very innovative solution that make - that made simulation dramatically easier, and it gave us a framework and a mechanism by which new technologies could be integrated together.
+And frankly, our strategy continues to be to drive that level of platform integration both through Workbench and as I said earlier, we continue to invest in our ongoing platform work to componentize the platform to make it easier for people to drive that level of integration, because we believe an open strategy here is in the best interest of ANSYS and our customers.
+So we define APIs, we allow third-parties to integrate in, we certainly integrate our technologies together when we define workflows and we continue to do that and that's part of the strategy that we've had for a number of years, of course, we continue to increase our level of investments in that. When you think about some of these next-generation challenges that we're addressing with our customers, I mentioned electrification, I mentioned autonomy, 5G, et cetera.
+These are also intrinsically multi-physics solutions, which require an integrated workflow and we're able to position and provide those to our customers as well, based on the integration work we've done across our products.
+Operator
+And our next question comes from Steve Koenig with Wedbush Securities. Please go ahead.
+Steve Koenig
+Perfect, thank you very much. Hi ANSYS, congratulations on a great quarter.
+Ajei Gopal
+Thank you.
+Steve Koenig
+I got one for Maria, and a follow-up for Ajei, if you don't mind as well. So for Maria, we've been hearing from some other companies about maybe selected weakness in certain countries, maybe towards the end of the quarter and in some - some sort of kind of non-linearity from some people in certain - certain countries. Did you see any pockets of weakness or was everything pretty much good across most every country and how did your linearity look like?
+Maria Shields
+Yes, so I would say the linearity was about the same as we've experienced throughout 2018 and Q1 of 2019. I can't speak to any specific country that we saw weakness at the end, obviously the tariff situation in China, but we've got enough resiliency in the model from our geographic and our vertical distribution that - that we were able to execute against our forecasts, and closed successfully.
+And as you saw, each of the major geographies delivered double-digit constant-currency revenue growth, so we feel good about our execution in Q2, and obviously as we've taken up our guide on all of our key metrics for earnings, ACV and revenues for the full year, we still see a lot of momentum and we've got a healthy pipeline. So now we just need to focus on execution for the remainder of the year.
+Steve Koenig
+And for you, Ajei. Could you give us some color on the Discovery Live activity that you're seeing and like what's the value proposition for Discovery Live and maybe distinguish that from the value prop or the situations in which you're selling as part of the PTC CAD workflow.
+Ajei Gopal
+The value proposition for Discovery Live is really unchanged from what it's been and what I've described in the past, namely Discovery Live offers an individual a very quick way - a real time way of getting a directionally accurate solution in - or an analysis of a particular problem that the real-time nature of Discovery Live is what makes it so valuable and the fact that make it's so intuitive to use and so easy to use, is what makes Discovery Live accurate.
+Now, we found - we found that there are use cases certainly, where customers or users are completely new to simulation, we'll see the benefit of use of Discovery Live and there are - we have cases where that's the case.
+And we also have other cases where Discovery Live is being used by much - by people who are much more adept, who have used simulation in the past, in fact are able to use the ANSYS flagship tools as part of their day-to-day work, but by using Discovery Live to give them a directional idea of where they need to apply deeper levels of simulation.
+And obviously as I said, the value proposition for Discovery Live is it gives them that immediate - it gives them that immediate feedback without having to do the deeper analysis. And then they can use that immediate feedback to figure out whether they should start looking to do deeper analysis.
+So we see both of those kinds of use cases. Certainly, when you think about enterprise customers, you see exactly that because there are people in within larger enterprise organizations who are users of ANSYS and you see people in there who are taking advantages of relive who are not currently users of the ANSYS suite but take advantage of Discovery Live to give them insight simulation-based side.
+Now as far as the co-existence with PTC and - is concerned, as an example in CAD or in general with CAD. There is a cadre of users who are using CAD from their vendor. And what we are in a position to do in that model with PTC of course is to make Discovery Live capabilities visible to the CAD user natively. So someone was those laying out of CAD design will be able to use the PTC Creo simulate live solution to be able to quickly iterate and that gives them obviously an integrated workflow within the PTC solution and so that's an advantage.
+But there are also users, as I pointed out in the case of the defense DoD contractor that I referred to in my script. There are also users who are not currently CAD users. And we have a situation where, in that case where the customer made a decision to purchase both Discovery Live, as well as PTC Creo simulate Live.
+They are trying to strategically drive upfront simulation across the supply chain, both internally and externally, and what they want to try to do is to get every single engineer to be able to run their own simulation, whether they're a simulation expert or not, so that they can get to more rapid and informed decisions early.
+And as I said in that situation, we expect to see potentially hundreds or thousands of engineers across multiple business users - taking advantage of simulation, some case there'll be CAD users using the PTC solution, in some cases, they won't be CAD users they will be taking advantage of the Discovery Live solution. And of course, if a customer is using another CAD solution, we have natural interconnections between Discovery Live and the other CAD Solutions, where you have the ability to take advantage of both technologies in parallel.
+Operator
+And our next question comes from Tyler Radke with Citi. Please go ahead.
+Tyler Radke
+So I am free to ask question here. You touched on China and obviously you sounds like you didn't see much macro weakness broadly in Q2. I guess my question is, you seen any changes here in the first month or five weeks since you've closed Q2 and how are you just thinking about the ability to close large deals in the second half of the year relative to the first half, just given a potentially weaker macro backdrop? Thank you.
+Ajei Gopal
+I mean, I think the Maria’s comment actually said - said it very clearly. We have looked closely at our pipeline and given where we are. The guidance that we're giving takes into account everything that we understand about our pipeline and what we understand about the macro and the situation and the trade discussions between the U.S. and China, as well as the broader macro. So we are in a position, our guidance is based on what we know now and what our analysis is based upon the circumstances that we see in the market today.
+Tyler Radke
+And then you talked a lot about kind of some of the autonomous and electrification trends, in the autos and high-tech end market in addition, you talked about 5G. I guess just how far do you think we are through that opportunity, is this the multiyear opportunity to come or how are you thinking about just - where we are through the various stages of that? Thank you.
+Ajei Gopal
+All of the ones that I mentioned, autonomy, electrification, 5G, IoT all of these I think are very early in their development. We think were broadly very early in their development. We certainly see customers who will make significant levels of investments in this over multiple years as products get better and better, and as technology starts to improve. Certainly in the case of Autonomous, as I mentioned, and I alluded to, I think in my script.
+I don't think you can get experts to agree on when the Level 5 full autonomy is going to be ready in the marketplace. Some people will say sooner or some people will say later, but the fact remains that on the path towards Level 5 full autonomy there are all kinds of innovations which are being created that will make vehicles better and safer and even partial autonomy starts to significantly improve the safety capabilities on the road.
+And simulation plays a significant role. So this is a multiyear journey that the industry is on, where simulation is going to play a huge role in autonomy. And I would make the observation of course that it’s not just in automotive, it's aerospace, it's other industrial equipment. I think I talked in an earlier conference call about undersea equipment as well, so an autonomous submersible.
+So there are all kinds of areas where autonomy is applicable and there continues to be enormous amounts of work ahead of us as an industry. Similarly for electrification, I could go through it in similar detail and equally for 5G, equally for IoT, all of these are major, major mega trends that we believe to be multi-trends trends that are frankly driving the growth of our core business.
+And so, I think we're in a very enviable position as a company to have a core business that's in a very strong and actively growing part of the market and with products that are leading edge products to be able to address customers' problems in these multiyear mega challenges that they're facing.
+Operator
+And our next question comes from Gal Munda with Berenberg Capital Markets. Please go ahead.
+Gal Munda
+So the first one is just for you guys in terms of the ability to forecast those large deals that are coming in. Now you've had the fourth deal above $30 million coming in less than a year and a half. What have you learned from those deals and what is - when you look at your pipeline and the potential for those deals to close, kind of, towards the end of the year but even going forward. Are you able to say more is it more confident in kind of having the ability to predict when those deals might close considering the fact that we've only really started a year and a bit ago?
+Ajei Gopal
+I think that - anytime you're looking at pipeline and trying to predict exactly what happens in the pipeline, especially for some of these larger deals. It varies on an individual customer by customer basis. We're not assuming, we obviously the ANSYS business if you think about the overall volume, we do have a certain number of large deals and larger customers.
+But of course we have a large amount of the business that's much smaller more transactional in nature. And obviously that's easier to predict because we know we have a law of large numbers of volumes working as when we're dealing with be the more transactional piece of the business.
+For the larger deals of course we understand exactly what the customer problem is. We know what the value proposition is. In many cases we've been working with the customer for a while, we understand the challenges that they're dealing with. And we understand the compelling event that's driving them to spend the money with us. They're trying to make a particular product launch. They're trying to get some particular technology out to market. They are trying to compete in a different way in the market.
+All of these are major drivers and they're spending money with us to help achieve these business objectives. And so, when we link these business objectives with our understanding of the value that we can provide, and we put it together, given the nature of the relationships we have with some of these customers. We can predict and we factor that in, into our prediction of the pipeline. So it's a more - it’s a thoughtful analysis of where we are and that results in the guidance obviously that - we give to you guys.
+Gal Munda
+And then just as a follow-up, got a question on Discovery Live it seems like from both commentary around you and what PTC has said recently it's getting more traction definitely. We understand that there is nothing material in the numbers, especially for this year. But could it become more material driver of growth in let's say, a year or so. Do you have expectations for that, did you think that Discovery Live will take another few years in order to really ramp up in terms of the volume to move to the needle?
+Ajei Gopal
+Yes, we will obviously be able to give you a longer discussion during Investor Day when we’ll talk a little bit more about Discovery Live and the technology, but I think a quick way to think about it, Gal is that in our industry, our customers tend to be quite conservative. And even for a breakthrough product like Discovery Live, our internal expectations are that it will take time for customers to take advantage of these technologies.
+And so, as you rightly point out, it's not really a material part of our business as we think about it this year or in the short term. So we'll give you more insights, perhaps be able to address these questions and others during the Investor Day presentation in a couple of months. Next month.
+Operator
+And our next question comes from Adam Borg with Stifel. Please go ahead.
+Adam Borg
+Regarding services, so it's great to see the continued strong services momentum as you sell a broader platform to customers. Are you just curious about your plans to continue getting partners involved with services and how sustainable the recent trends in the 30% to 40% growth is?
+Ajei Gopal
+So one of the areas, one of the reasons why customers are looking to ANSYS on more services is that they've got to solve some of these more complex problems were able to help them understand using services capabilities, using our services capability, how to solve some of these next-generation problems. So they're looking to solve some of these complex problems, reaching out to us to help them to do that. And that's where we provide services.
+But as you know, our business model is not to be a services company, we are a software business and yes, services is not a big portion of our business and it's not going to be a big portion of our business, going forward.
+Our plan is to, our plan is to work with - continue to work with third-parties and partners as appropriate, and we're continuing to evaluate third-parties to take to take on responsibilities to some of these newer solution areas that customers are looking to.
+And we will continue to drive our investments in our business where services drive license revenue. So that's the way you should think about the services business, and obviously, we don't see that services ratio really changing as a percentage of our overall revenue in the term.
+Adam Borg
+And maybe just a quick follow-up for Maria. Could you just remind us for what the percentage of lease deals are that are one-year versus multi-year and what's the average duration for the multi-year deals? Thanks.
+Maria Shields
+Yes, we don't bifurcate between one year and multi-year. Today, the one-year tend to be at the transactional level and the multi-year obviously tend to be at the enterprise and strategic level. And the second part of your question?
+Adam Borg
+Duration.
+Maria Shields
+Duration hasn't really changed. I'd say those multi-year deals still tend to be between two and three years.
+Operator
+And our next question comes from Rich Valera with Needham & Company. Please go ahead.
+Nate Hitchcock
+This is Nate Hitchcock on for Rich, thanks for taking my question. Thinking about the simulation tool chain tech with BMW, other release note that ANSYS will assume exclusive rights for commercialization and where we were wondering, if you've begun marketing this product, marketing this tech to other auto OEMs or if you can share anything regarding vision or plans in this space. And then I do have one follow-up.
+AjeiGopal
+We will talk more about autonomy in general perhaps at our Investor Day and you'll have a chance to understand a little bit more about half the technical detail about what we're doing in autonomy in general. But no in ANSYS, direct answer your question that we're not marketing that externally at this point of time. We are working with BMW as they lead up to be to the launch of the BMW iNEXT which is expected to launch within the next - with the next couple of years.
+Nate Hitchcock
+And then also in 2Q we saw very strong revenue year-over-year growth and other Asia Pacific up 74% constant currency. And considering the following the prepared remarks regarding some of the second half deals closing earlier ahead of schedule, we're wondering if some of the strength and the other Asia Pacific geography as a result of company is buying ahead due to trade relations or if you can provide really any additional detail here?
+Maria Shields
+Yes, I would say it was driven by two things. Yes. Some companies buying ahead, but that was a smaller portion. The other was the large transaction that Ajei referred to in his prepared remarks. So the impact of both are what drove the performance in those numbers that you referred to.
+Operator
+And our next question comes from Jason Celino with KeyBanc Capital. Please go ahead.
+Jason Celino
+When I look at Q3 guidance for operating margins, it kind of suggests 400, 500 basis points of operating margin compression. Can you just talk about some of the investments we plan making or at least the increase in spend just a little more color.
+Maria Shields
+Yes. So I would say first of all, it's lower revenue is really the primary driver. But no doubt if you heard my commentary in my remarks, we are in the second half contemplating, continuing to hire and making up for some of the slower pace in the first half. We've got a number of digital transformation projects underway that we will continue to invest in heavily across the business. And of course the impact of the acquisitions that we closed earlier, so a combination of all of those, or what's driving the operating margin outlook for Q3 and the remainder of the year.
+Operator
+And our next question comes from Robert Simmons with RBC. Please go ahead.
+Robert Simmons
+So like you just mentioned, you've been behind on your hiring both Q1 and Q2, sort of a few questions on that. Are there particular areas that you're behind on or is it kind of across the board, and then kind of what's the bottleneck? 
+Maria Shields
+Yes, it's across the board, as I spoke on the last earnings call Q1 was a combination of not only, I'll call it a challenging hiring environment and that's not just a domestic issue that's really globally. But that was also impacted by, as you can imagine, when you do two acquisitions in a quarter before we just keep the hiring pipeline open, we take a look at the new talent that is joined ANSYS to see if there is opportunities to fill open positions and to broaden some of our new teammates responsibilities. So that slowed down some of the activity in Q1.
+As I said, we did hire 100 people in Q2 and the reality is we are going to continue to aggressively pursue our hiring plans throughout the remainder of the year, and we are recruiting for physicians across the business.
+So there is no single function or part of the business that's disproportionately impacted. It's really across the business and it is a more challenging hiring environment than we've seen at least, I've seen in at least a decade.
+Q – Robert Simmons
+And then, are you seeing turnover, you be liquidating rising or is that been pretty steady. And are you seeing wage demand is growing up or is it just harder to find people?
+Maria Shields
+Yes, no, we still got single-digit turnover, so we are able to retain, but it is the recruiting efforts that just takes longer. And as you can imagine, sometimes when you have very highly talented employees who go to their existing employer and announce they are going to be leaving, their existing employers are getting more aggressive relative to what do they have to do to retain those people.
+So it's tricky. We're continuing to find people as you also know, we are looking for highly selective candidates in what we're hiring for. So it's not always easy to find them. But we are confident that we can continue to attract and retain our talent as we've done for almost 50 years now.
+Operator
+And ladies and gentlemen, this will conclude our question-and-answer session. I'd like to turn the conference back over to Ajei Gopal for any closing remarks.
+Ajei Gopal
+I thank you all for your questions. Before I sign off, I'd like to once again thank my colleagues at ANSYS as well as our channel partners around the world for all of their hard work and their efforts that are leading to our success. Thank you all so much. And for the rest of you, thank you for joining the call and please enjoy the rest of your day.
+Operator
+The conference is now concluded. Thank you for attending today's presentation. You may now disconnect your lines at this time and have a wonderful day.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+2 Authors in the Last 90 Days

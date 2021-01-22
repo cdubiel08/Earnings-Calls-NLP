@@ -1,0 +1,268 @@
+Qorvo, Inc. (NASDAQ:QRVO)  Q3 2020 Earnings Conference Call  January 29, 2020  5:00 PM ET
+Company Participants
+Douglas DeLieto - Vice President, Investor Relations
+Bob Bruggeworth - President & Chief Executive Officer
+Mark Murphy - Chief Financial Officer
+Eric Creviston - President, Mobile Products Group
+James Klein - President, Infrastructure & Defense Products Group
+Conference Call Participants
+Karl Ackerman - Cowen & Company
+Toshiya Hari - Goldman Sachs
+Harsh Kumar - Piper Sandler
+Bill Peterson - JPMorgan
+Seth Gilbert - UBS
+Chris Caso - Raymond James
+Ed Snyder - Charter Equity Research
+Blayne Curtis - Barclays
+Craig Hettenbach - Morgan Stanley
+Raji Gill - Needham & Company
+Srini Pajjuri - SMBC Nikko Securities
+Vivek Arya - Bank of America Securities
+Operator
+Good day and welcome to the Qorvo Inc. Q3 2020 Conference Call. Today's conference is being recorded. At this time, I would like to turn the conference over to Douglas DeLieto, Vice President, Investor Relations. Please go ahead.
+Douglas DeLieto
+Thanks very much, John. Hello everybody and welcome to Qorvo's fiscal 2020 third quarter earnings conference call. This call will include forward-looking statements that involve risk factors that could cause our actual results to differ materially from management's current expectations. We encourage you to review the Safe Harbor statements contained in the earnings release published today, as well as the risk factors associated with our business and our Annual Report on Form 10-K filed with the SEC because these risk factors may affect our operations and financial results.
+In today’s release and on today’s call, we provide both GAAP and non-GAAP financial results. We provide this supplemental information to enable investors to perform additional comparisons of operating results and to analyze financial performance without the impact of certain non-cash expenses, or other items that may obscure trends in our underlying performance.
+During our call, our comments and comparisons to income statement items will be based primarily on non-GAAP results. For complete reconciliation of GAAP to non-GAAP financial measures, please refer to our earnings release issued earlier today, available on our website at qorvo.com, under Investors.
+Sitting with me today are; Bob Bruggeworth, President and CEO; Mark Murphy, Chief Financial Officer; James Klein, President of Qorvo’s Infrastructure and Defense Products Group; Eric Creviston, President of Qorvo’s Mobile Products Group; as well as other members of Qorvo’s management team.
+And with that, I’ll turn the call over to Bob.
+Bob Bruggeworth
+Thanks, Doug and welcome everyone. Qorvo delivered record EPS in the December quarter driven by strength in our end-markets of 5G, Wi-Fi and Defense. I am especially pleased with how our team is engaging with customers to enable breakthrough products and contribute to multiyear technology upgrade cycles. 
+In Mobile Products, the acceleration of 5G is driving demand for Qorvo’s high-performance and highly integrated solutions. Carriers are bringing advanced 5G services across new frequency spectrum and that’s driving greater complexity, enhanced designs as board space remains constrained. Qorvo is solving that complexity by integrating the industry’s broadest portfolio of technologies and advancing the state-of-the-art and functional integration. 
+Looking at December, we enjoyed significant design win traction for our BAW-based multiplexers across a range of band combinations including our hexaplexers and our recently launched micro BAW-based quadplexer. These are multiplexers enable advanced carrier aggregation and they are critical to next-generation higher data rate applications. 
+We also secured multiple design wins to supply low, mid-high and ultra-high band solutions for next-generation 5G smartphones. These are highly integrated and high performance 4G 5G solutions enabling customers to reduce product footprint, enhance system performance and deliver products to the market even faster. 
+Design wins for our ultra high band FEM were broad based across customers and made with multiple 5G cellular chipsets. Qorvo’s solutions deliver highly differentiated performance at higher frequencies as we expand our content in the next wave of 5G smartphones. 
+Consistent with what we said last quarter, we continue to expect approximately 300 million 5G handsets in calendar year 2020 adding approximately $2 billion to the mobile RF PAM. 
+Turning to IDP, our GaN customer engagements broadened during the December quarter as we ramp GaN high-power amplifiers and small signal components at a third major OEM in support of 5G massive MIMO deployments. 
+To support China Mobile’s deployment of 5G small cell, we ramped our newest BAW filters at a top-tier infrastructure OEM. We also introduced breakthrough GaAs FEMs addressing the more demanding requirements of second-generation 5G millimeter wave base stations. 
+In our Connectivity business, we enjoyed a rebound in demand driven by Wi-Fi 6 and supported by recently released GaAs and BAW processors. Customer demand for our newest Wi-Fi 6 FEMs was broad based and support CPE, retail and mobile applications. 
+For the Connected Home, we began sampling the industry’s first radio solution combining Zigbee, Thread and Bluetooth Low Energy SoC with a Wi-Fi 6 FEM to enable next-generation distributed Wi-Fi networks. 
+For the connected car, we introduced a complex – excuse me, we introduced a complete V2X front-end solution, featuring our recently released 5.9 gigahertz Wi-Fi coexistence BAW filters, which are quickly gaining traction among automotive OEMs and Tier 1 suppliers. 
+Finally, we continue to expand our customer base in the programmable power management end-market, shipping power management ICs into datacenter solid state drives for two of the top three storage providers. 
+After the quarter closed, we signed definitive agreements to acquire Decawave, a pioneer in ultra-wideband solutions for mobile, automotive and IoT applications; and Custom MMIC, a leading supplier of high-performance GaAs and GaN MMICs for defense and aerospace applications. 
+Adding Decawave establishes our position in the emerging market for ultra-accurate, ultra-secure short range location solutions. Custom MMICs expands our portfolio of high-performance GaAs and GaN solutions for the defense and aerospace industries. 
+Looking forward, we see both IDP and Mobile Products growing year-over-year in the March quarter on the strength of our broad technology portfolio and strong underlying trends in our end-markets. 
+And with that, I will hand the call over to Mark. 
+Mark Murphy
+Thanks, Bob and good afternoon, everyone. Qorvo's revenue for the third quarter was $869 million, $19 million above the midpoint of our guidance and driven by stronger than expected mobile demand.
+Mobile revenue of $662 million exceeded our expectations on Asia-based customer demand including 5G solutions. IDP revenue improved sequentially to $207 million on strong Defense volumes and remained down year-over-year due to export restrictions on infrastructure products. 
+We expect IDP revenue to increase again sequentially and return to year-over-year growth in the March quarter on sustained strength in defense, the ramp of Wi-Fi 6, and broader 5G infrastructure customer demand. 
+Non-GAAP gross margin in the December quarter was 49.3% with better than expected manufacturing costs and favorable mix effects. Non-GAAP operating expenses were $176 million, which were at the low-end of our guidance range. Non-GAAP net income in the December quarter was $221 million and diluted earnings per share was $1.86, $0.19 over the midpoint of our guidance.
+Cash flow from operations in the December quarter was $301 million and CapEx was $41 million, which yielded free cash flow of $260 million. Our free cash flow through the first nine months of fiscal 2020 was over $600 million, exceeding any prior full fiscal year. 
+We repurchased a $125 million of stock in the quarter and completed an opportunistic $200 million add-on to our 2029 unsecured notes issued earlier in the quarter. During the December quarter, we completed the purchase of the remaining equity in Cavendish Kinetics, an RF MEMS company, further strengthening our technology portfolio for switches, tuners, and other products.
+As Bob mentioned, following the quarter end, we signed definitive agreements to acquire two companies that we have been evaluating for extended periods. With both companies, there is excellent strategic alignment and cultural fit. 
+Decawave, a pioneer and leading supplier of ultra-wideband solutions adds to Qorvo’s RF technology leadership and opens up access to a large new and rapidly growing wireless market. Custom MMIC, a leader in high-performance GaAs and GaN MMICs solutions for defense and aerospace markets is a bolt-on to IDP’s core business. 
+The combined purchase value of these two acquisitions is approximately $500 million, which will be funded from existing cash on hand. Our guidance assumes both transactions close in February and the financial impact slightly diluted to earnings in the near-term is reflected in our March guidance.
+Turning to our March quarter outlook, we expect revenue between $800 million and $840 million or $820 million at the midpoint. Non-GAAP gross margin of approximately 48.5% and non-GAAP diluted earnings per share of $1.55 at the midpoint of our guidance.
+Our revenue outlook for the March quarter reflects continued robust mobile 5G demand and a return to year-over-year growth for IDP. For Mobile, we expect March quarter sales to decrease sequentially but with less than normal seasonality. 
+For IDP, we project March quarter sales to increase on sustained strength in defense, the ramp of Wi-Fi 6 ramp and broader 5G infrastructure customer demand. While Qorvo's current near-term outlook is strong and channels are healthy, trade and other factors including potential demand and supply chain effects related to the coronavirus concerns contributed to challenges and uncertainty forecast in the outlook.
+On gross margin, our March quarter guide of approximately 48.5%, is down sequentially consistent with comments I made during our last earnings call. Non-GAAP operating expenses are projected to increase in the March quarter to approximately $185 million on higher personnel cost including payroll effects and incremental cost associated with acquired businesses. 
+Net interest expense will increase with our notes add on a lower cash balance following acquisitions. We expect our March non-GAAP tax rate to be approximately 7.5%. On capital expenditures, we project less than a $190 million this fiscal year and remain highly disciplined on adding capacity. Our free cash flow forecast for the year is now over $700 million. 
+As the December quarter results and our March outlook show, Qorvo is helping customers grow in 5G, Wi-Fi, Defense and other markets by solving their challenges with best-in-class technology, award-winning quality, and supply dependability. 
+With that I'll turn the call back over to John for questions. 
+Question-and-Answer Session
+Operator
+[Operator Instructions] And our first question comes from Karl Ackerman with Cowen & Company.
+Karl Ackerman 
+Thank you, gentlemen. I have two questions if I may. First question is on margins. So, I get the seasonal softness in the March quarter. But as you finalize the consolidation of SAW Fab in Greensboro – to Greensboro, your 5G ultra-high-band PAD FEM content likely proliferates across the top 6. Mobile OEMs later on this year and IDP returns to growth in the back half, why can’t operating margins approach 30% by the end of this year?
+Mark Murphy
+Yes, Karl two – this is Mark, two effects on operating margins in the March quarter. One is – and I’ll start with OpEx, as I mentioned, OpEx is going to increase sequentially due to a number of factors, payroll effects and the incremental cost associated with the acquisitions. 
+Moving up to gross margin, consistent with what I said last quarter, we will see a sequential decline in gross margin, which is typical around seasonal product mix effects. So, yes, this is very much in line with what I said last quarter, about a 100 basis point or so decrease sequentially. 
+Karl Ackerman 
+Got it. Thank you. And for my follow-up, regarding your March outlook, it seems your base assumptions call for a slightly less seasonal decline in that – I guess, a seasonal decline in your largest customer, but a sizable uptick at China handset providers and maybe some stability at your Korean customer, given all design wins you alluded to last quarter and of course earlier today in your prepared comments. 
+First, am I thinking about at that the right way? Second, how should we think about the revenue opportunity from China handsets? I think, for the overall industry, would you endorse content from mainstream handsets advancing from $1 to $2 to like 6 bucks? Thank you.
+Bob Bruggeworth
+Karl, I’ll take the beginning of that from a perspective of just looking at a year-over-year, both businesses are returning to growth year-over-year, that’s great to see. In our IDP business, sequentially it’s growing very nicely. So that’s also offsetting some of the seasonality. It’s typically flat to up slightly. So that’s doing well. 
+And in our Mobile business, very pleased with how much we are offsetting year-over-year the decline that we’ve seen at Huawei and it’s broad based. So we are seeing strength across the customer base. But I’ll let Eric add a little more color to the specifics of the customer base that you ask about. 
+Eric Creviston
+Sure. Yes, as you referenced the 5G rollout in China, it’s very much on track and content gains there associated with more bands and wider bands and multiple carrier operation and so forth is leading to an expansion of dollar content, as well as units a bit higher than we had originally planned. In terms of dollar content opportunity that you referenced, it’s not at all unusual means, 5G handsets. 
+You see total dollar content in the $10 to $12 range and they tend to buy as much as that as possible from one supplier. So, we have many handsets in China, we have $8 to $10 worth of order content. 
+Operator
+Our next question comes from Toshiya Hari with Goldman Sachs. 
+Toshiya Hari 
+Hi guys. Thanks for taking the question and congrats on the strong results. My first one was IDP. You guys talked about Wi-Fi 6 and GaNs and defense contributing to growth in the March quarter. Can you kind of help us quantify sort of the magnitude of all three on a relative basis? And if you can speak to sustainability beyond the March quarter for those three buckets, that would be helpful. And then I have a quick follow-up.
+James Klein
+Yes, this is James. Now the year-over-year growth will be relatively small, but considering we lost one of our top customers just a few quarters ago, I am really pleased with the efforts in the team to return back to growth. So quickly, I think it does demonstrate the underlying strengths of the products that we have in the markets that we serve. 
+Defense, low-power wireless and power management will all have double-digit year-over-year growth quarters in March. Wi-Fi, as we talked about with the ramp of Wi-Fi 6 is returning and it will have a high single-digit type growth rate and then other markets that we serve I think will be a mix of up and downs. 
+Still it’s at the phase of deployments in base station, we are starting ramps and starting to recover, but with loss of Huawei, we are obviously still significantly off of our all-time highs in base stations. 
+Toshiya Hari 
+Got it. And then, my second one is for Mark. In terms of free cash flow, it looks like for the full year, you are thinking free cash flow margins of 22-ish percent based on your Q4 revenue guide and your full year free cash flow commentary, which I think is the highest free cash flow margin since the merger. I guess, importantly, going forward, do you feel like there is more upside from there? 
+Or is this as good as it gets? And to the extent, you do think there is more upside? What are some of the levers that you can pull to improve margins? And then sort of related to that, as you continue to build cash, how are you thinking about cash usage between organic investments, M&A and shareholder return? Thank you. 
+Mark Murphy
+There is a lot in that question, Toshiya. I’ll work through it. So, yes, we are really pleased with the progress we’ve made on free cash and it’s been an absolute focus for the company. We’ve gone from $224 million free cash flow in the year, up to we are now forecasting over $700 million in just a – in a number of years here. 
+And, we reached close to 30% basically – right, almost on top of 30% in the quarter on free cash flow margins and I think that’s an objective we set some time ago for the full year. So, we are not going to – as you say, we are going to be closer to 22%, but we continue to see the ability to expand free cash flow margins. 
+And it’s – nothing has really changed. I’ve gone through this in previous calls. We are pursuing a model in investing in a way to achieve stronger and more sustainable free cash flow generation over time and that comes from investing in the right technologies of which you see some of that in the acquisitions we announced today. It’s selecting the right products and having a rigorous portfolio management process which we have executed on. 
+It’s driving productivity in operations and sourcing and I can’t say enough about the job the ops team is doing in meeting customer quality expectations and on-time delivery and doing it efficiently. And then the ops alignment with the business is as good as it's ever been in the company. So, seeing great things there. And then, finally, we are just focused on reducing capital intensity. 
+And all those factors have helped with margin expansion. On gross margin, specifically, there is room to run we believe. We are still not at the utilization levels that we had hoped this year. The infrastructure market softness has impacted us in a couple areas in the network, particularly, Texas GaAs, GaN in Oregon. 
+We, in the fourth quarter or in the December quarter, we had period cost in Florida. As I think Karl mentioned, those do drop off in March. But we still have some period cost associated with farmers branch and some small period costs elsewhere. And then, over time, we expect IDP to improve as a percent of the overall mix. 
+And I’ve talked about portfolio management and operations productivity and so forth. So, I believe in the ability of our business to grow the top-line. We have a number of levers to expand margins. We are focused on spending capital only when we need to and then, driving free cash flow growth which allows us to make prudent investments either for accretion or technologies. 
+And finally, you asked about capital allocation. Basically, in the last 12 months, we’ve generated $754 million of free cash flow. We’ve repurchased $689 million of shares. So, over 90% returned to shareholders. And then over this time, we’ve also completed the purchase of two companies over $500 million. That’s not including the two we announced today. 
+So, we will continue to again, drive free cash flow growth and then, look for investments that makes sense for Qorvo. We’ve set technology investments for both Mobile and IDP and then bolt-ons for IDP is typically how we look at things. And then what - depending on our leverage and other factors, we will return cash to shareholders. 
+Operator
+And our next question comes from Harsh Kumar with Piper Sandler. 
+Harsh Kumar 
+Yes, hey guys. Congratulations. Fantastic execution and congratulations on that cash flow number. I know you guys have been focused on that. I want to put you on a spot here, Bob. You had a pretty strong Mobile, March guide and you are also – you are basically saying pretty good strength in 5G, pretty good design win traction. 
+I take that to be that this strength in March, the better than seasonal strength in March is not going to come at the expense of the rest of the year. Historically, June, September, December have all been much better quarters. Could you just maybe, to the best that you can, I know it’s a tough one, but best you can provide us some color. 
+Mark Murphy
+Yes, maybe, Harsh, this is Mark, maybe I’ll step in and we are going to provide more information on FY 2021 at the next earnings call. As it relates to June, we are not going to provide detailed guidance in that quarter either. But I think maybe this is a time to talk about rest of the June quarter. Now, we feel good about the March quarter. 
+This coronavirus concerns and first our thought was those affected in the region, but we’ve been revisiting our outlook based on those concerns. We are comfortable with our forecast and feel that we’ve adjusted for what we perceive now as some risk. But we’ve been keeping a close eye in that situation including extensive checks on the supply chain. 
+To-date, we’ve seen no material impact to our supply chain or what demand signals. However, the situation is evolving. So, we have reflected some added risk as I mentioned to our March guide including, as you’ll notice a wider range of outcomes. 
+So, to your question, likewise we are thinking about potential effects into the June quarter and even though our channels are lean, we are concerned about how this plays out, because we just don’t know. As it stands now, we would estimate the June quarter to be between $750 million to $800 million of revenue. But again, it’s early. 
+There is a lot of uncertainty around that. We will provide a more detailed update at a later date and a fiscal year 2021 view on our next earnings call. 
+Harsh Kumar 
+That’s fair. I appreciate the color that you gave. As a follow-up, the strength in China that you guys are seeing, maybe one for Bob or Eric, what kind of customers is that coming from? Is that coming from the Tier twos? Or is that also, to some extent, coming from Huawei at this point? 
+Bob Bruggeworth
+Right, yes, it’s primarily throughout Asia, so Korea and China, as well. And we are relatively high in 5G handsets or still entering the channel for now. We are beginning to also see our large customers in China. 
+So Vivo, Oppo, Xiaomi for example bringing 5G further down into the portfolio with some of the handsets that will be launching in the March quarter. 
+Operator
+Our next question comes from Bill Peterson with JPMorgan.
+Bill Peterson 
+Yes, thanks for letting me ask a question and great job on the results and guide. Maybe first one for Eric. In going back to your Analyst Day from 1.5 years, I guess, maybe closer to two years ago, you talked about some unique advantage of your BAW relative to other filter technologies, net BAW and so forth. 
+You've been discussing ultra-high-band wins n79 in particular. And also, recently you're talking about traction with your new micro BAW. I guess, can you give us an update how your BAW is helping you win relative to competitors against both in tranche, as well as new entrants for some of these 5G-specific bands? 
+And I guess, in terms of our content, you've been talking with us about antennaplexing, and we haven't heard as much about that recently. But, how has that been playing out? And then, I guess how can you meet the demand in that given your portfolio - your BAW portfolio? Thanks.
+Bob Bruggeworth
+Right. Yes. Thanks Bill. The technology roadmap has continued to progress for us since we formed the company. We’ve really made just a ton of progress in improving the performance of our SMR BAW filters and also our ability to integrate them into modules and also together, to make antennaplexers in a high-level, multiplexers and so forth. 
+So, that’s maturing and getting more and more competitive every single month. In addition, of course, at the same time, the market is asking for higher performance, more bands are being added it seems every quarter. 
+Wider bandwidth, multi-channel operation and so forth. So, there is plenty of challenges to be met with the filter technology and it’s frankly a pretty target-rich environment right now for these opportunities. 
+So, I think it’s fundamental technology combined really with our ability to integrate it with also very, very good power amplifiers for example in the ultra-high-band opportunities. The power amplifier efficiency and power levels are very important to accomplish. And then, of course, our leadership in switching technologies and putting all those into high-level modules together. 
+It’s very similar to the fundamental trends we talked about for several quarters now. We are just continuing the march on driving the investments into the core technologies to make it better. 
+Bill Peterson 
+Okay. Great. And I guess the next question, I guess, both you and James can chime in. On the top of the millimeter waves, obviously, some of your competitors are talking up the millimeter wave opportunities. It appears like you and your closest competitor are really still focused on sub-6. I guess, for the Mobile side, what unique and different solutions could you bring to the market? 
+What are the key hurdles to address? What are the key base technologies, power amplifiers, switching filters and so forth? And I guess, James said, what he spoke to it a little bit earlier in the prepared remarks, but how do you see the growth of the millimeter wave and the impact to his business and some of the unique, I guess, things that he can bring to the market as well?
+Eric Creviston
+Yes. So, thanks. I’ll start. This is Eric and so, the unique strengths that we bring to millimeter wave and in the Mobile side is really leveraging the work that James has done in the infrastructure side and defense applications, developing advanced Gallium Arsenide processes for millimeter wave operations. 
+So we have released new commercial versions of those processes and have introduced those to multiple handset manufacturers and platform providers. We are building prototypes to help demonstrate the capability of mobile millimeter wave and showing out what could be done in terms of thermal dissipation and power efficiency and battery life and so forth. 
+But, at the end of the day, I think, the big questions is whether the business model is going to close on it, I think there is a lot of challenges in millimeter wave in a mobile application. By definition, you are moving in a mobile application and the path loss is quite high millimeter wave. So, we will see. We are certainly getting us demonstrations out there. 
+You are seeing carriers put up a millimeter wave in multiple cities and we are going to be participating in helping to validate the markets. 
+James Klein
+And Bill, this is James. And as far as infrastructure is involved, I mean, we are certainly engaged very similar to what we showed in our Analyst Day, almost a couple of years ago about how we see more and more of those systems using GaAs-based front-ends getting away from pure silicon solutions, because it’s just a much more efficient implementation. 
+But we also are also seeing fixed wireless come on board and the last mile, if you call it, and we’ve released some products this last quarter to start to address those kind of parts of the market. And again, kind of leading the industry inefficiency based on those GaAs processes in particular, some of the smallest gate links that we’ve released in production. So, really, high frequency focus type activities. 
+I also want to add to the BAW question, we talked about how BAW is enabling inside Mobile, Eric did, but it’s also been a big benefit for us in the Wi-Fi market. We’ve released iFEMS in the 2.4 gigahertz and we’ve been sampling those at 5 gigahertz as well. 
+We are also using our new 5 gigahertz processes to release products in the automotive space and into small cells and base stations. So, we are using our filter technology to really allow us to compete in several different markets and for me particularly, in the higher frequencies. 
+Operator
+Our next question comes from Timothy Arcuri with UBS. 
+Seth Gilbert
+Hey, this is Seth Gilbert on for Tim. Just, I guess a follow-up to one of the earlier questions. June is usually up something like mid-single-digits quarter-over-quarter and September is usually well into the double-digits quarter-over-quarter. So, just curious of this much new higher base for March. Is this sort of right way to think about seasonality is as we look on to June and into September? Thanks. 
+Mark Murphy
+Yes. Seth, this is Mark. I reluctantly go to June because of the coronavirus concerns and I gave a revenue number there. The only thing I would add just to make sure, folks are appreciative of it. We tend to go down from our March to June at on gross margins. So we would see the revenue guide I gave and then we would see a gross margin in the 47, somewhere between 47 and the high 47s – low 47 to high 47. 
+So, and then we have OpEx increasing. But beyond that, I am not going to talk about September. I am not going to give detail on fiscal 2021. I would just say that we believe we are investing in the right areas and selecting the right products, building the right capabilities to support growth in the market and we expect to grow and then, we are driving for free cash flow generation. And I will provide more in the – during the next earnings call. 
+Seth Gilbert
+Thank you.
+Operator
+Our next question comes from Chris Caso with Raymond James. 
+Chris Caso 
+Yes. Thank you. I guess, first question is about the content opportunity between the premium tier and the mass tier phones when the transition of 5G and I guess, in the 4G generation, most of the content was in the premium tier phones and that was – if I look at your total content opportunity, that was the largest part of your mix. 
+Does that shift somewhat as you move to 5G, because you are moving those mass tier phones from such low content to something? How does that changed your sort of mix exposure of the total revenue between sort of premium tier phones and mass tier phones. Obviously, realize mass tier phones represent more volume? 
+Bob Bruggeworth
+Right. That’s an excellent question really and I mentioned a little bit ago seeing – not unusual to see $10 to $12 worth of our content and sometimes even higher in some of our China-based handsets which are primarily mass tier that are at the higher end today. But that’s what’s driving down into the mass tier as we speak. 
+And so, if you look at kind of percentage increase from 4G to 5G, it’s much, much higher there. It’s more like a 2X in content now and as we’ve talked about before, it’s not only adding the 5G proper, if you will, content, but also bringing all the 4G up to higher levels of capability as well in each of those 5G handsets. 
+So, to your point, we see content increases in the premium tier for sure. But as a percentage of the total there, more on the order of, call it, 20%, 25% of content increase, where in the mass tiers seeing more like a double or even more of content. So it does tend to mute the mix effect slightly I would say as we go into 2020. 
+Chris Caso 
+Yes. It’s helpful. Thank you. As a follow-up, you’ve talked a little bit about ultra-wide band and obviously, you did an acquisition in there. I guess, how important is ultra-wide band to you in terms of revenues today? And I guess, where do you see it going not just within handsets, but also opportunities for ultra-wide band in IoT types of ICs, how significant could that be?
+Bob Bruggeworth
+Right. It’s another good question. We – as you probably know, we are the leading supplier of ultra-wide band front-ends today into the mobile handsets although it’s a relatively small market today, but it’s really just emerging and I think between the fact that, it’s now beginning to penetrate mobile handsets, we believe it will eventually be absolutely required in every handset. 
+That combined with the fact that the connected car consortium has adopted the technology for future keyless entry systems. We think this is really just the very beginning of an inflection point. We are absolutely thrilled to be adding Decawave, a fantastic company. Great people, great technology. They’ve been at this 15 years really pioneered as we said the technology. 
+And so, we see beyond the automotive and the mobile applications, we think a whole host of both consumer and industrial IoT applications are there as well. So, when we look forward by 2024 modeling, it’s $2 billion to $4 billion worth of additional TAM and we think there will be just a few people positioned to capture it. So, pretty exciting. 
+Operator
+And our next question comes from Ed Snyder with Charter Equity Research.
+Ed Snyder 
+Great. Thanks a lot. Eric, on China, how much of your strength there, I mean, is from – I want to general post to different factors that are affecting China, because it’s obviously becoming a very big part of your business. But – so, if you could maybe give us some idea of the – how much of it is coming from 5G content upside versus 5G be pushed into more phones than we expected versus OEMs moving their old 4G Phase 2 designs to modules. 
+So, 5G content versus units versus the shift to modules in 4G, if you could and what percentage of your revenue do you think you are getting from China at this point? And then, James, it sounds like Defense is not only acting as you expected, but also leading the charge. Maycom just announced on their call last night they are finally getting to again on silicon carbide. 
+So, I am trying to get an idea of how sticky are the applications for your GaN on SiC in both 5G base stations? And then, if you could talk some degree about how that applies to Defense too? And then I have a follow-up. Thanks.
+Bob Bruggeworth
+Right. So, regarding the first part of your question, the strength we are seeing throughout China right now is largely driven by 5G content. That’s the primary driver. I think I spoke in the last quarter about seeing the need for more like, dual signaling capability for example, driving additional switching and antenna work. 
+And then, I forgot what, all three of the categories at the bottom would be the modules in 4G-only handset. That’s probably the least impactful. Right now, the insight is heavily driven by 5G and mostly content more than units. 
+James Klein
+This is James. So, I mean, certainly, we believe, we’ve got great technology with our GaN and have been doing very well in the Defense market and we are seeing GaN grow well north of what the market is growing. And so, we also continue to make investments in scale and in reducing our cost, we think are key enablers to that technology to continue to proliferate. 
+As far as stickiness, I mean, obviously, in Defense, that market is characterized as long cycles in programs. And so, I would consider that a very sticky market. In base station, we are seeing the trends go just about like what we’ve talked about for the last couple of quarters. We are seeing massive MIMO systems to deploy and we are also seeing GaN take significant share from LDMOS. 
+And so most of those are great trends for us and we are capitalizing on those trends and I think it’s a good part of how we are going to able to turn the business around fairly quickly. 
+Ed Snyder 
+Thanks a lot. And then, for my follow-up, Eric, if I could, Broadcom announced the supply agreement with Apple – like, I can’t remember this week or last week. And I know it’s probably more of a frame of your empathy slightly is $15 billion et cetera. Last time they did this which is some years ago assuming two or three years that fall that agreement were marked by lack of content for Qorvo in there. 
+So, how does this change the landscape or does it at all in your view irrespective of they keep the business or not and what does that do for the mix of your – not just your BAW, but your revenue, does it shift more to China in the upcoming two years or so or do you even have any indication of that? 
+Eric Creviston
+Well, frankly, it doesn’t have any particular impact on our investments today. We are picking our battles and investing in areas where we think the highest win probabilities are. It’s a target-rich environment right now for integrated modules, as well as for discrete components based on BAW technology. 
+As I said, we’ve got lot of advancements coming in the BAW technology and well placed great relationships across the industry and across all base band manufacturers and tiers. So, the announcement itself and our understanding of what it includes does not impact our current best plans. 
+Operator
+Our next question comes from Blayne Curtis with Barclays.
+Blayne Curtis 
+Hey guys. Thanks for taking my questions. Just curious on the deals you said it closes in February. Is there anything you can wrap around that in terms of revenue and OpEx contribution? And then I have a follow-up, thanks. 
+Mark Murphy
+Yes, Blayne, we will provide more. It’s not a material amount of revenue and it’s an increase in OpEx. It’s all reflected in our guide and it’s dilutive in the near-term. 
+Blayne Curtis 
+Got you. And then, Mark, I know this is preliminary guidance. Just a little confused on the seasonality here. You are seeing all the strength in China. Usually, Apple is not stepping down as much in June. I am just trying to understand what you are baking for sequential decline in June?
+Mark Murphy
+Yes, Blayne, I am not going to go any more detail. What we’ve provided is our best view given current demand signals and then adjusted for some risk factor in what is a very uncertain situation at the moment. So, doing our best to provide you at least a directional call that far out. I think the concern as we sit here today is, right now, the channel is lean and healthy. 
+The demand signals have not been yet been affected. But we do have the Chinese New Year will wrap up and people will take stock of what’s going on with this health situation in China and elsewhere. So, I think, we are just being mindful of that and providing some sort of directional view for you. 
+But in the June quarter, it’s still a story of what you’ve heard on the call today about 5G-related handset growth, content associated with that growth, continued Wi-Fi growth, Defense strength and infrastructure recovery. 
+Operator
+Our next question comes from Craig Hettenbach with Morgan Stanley. 
+Craig Hettenbach
+Yes. Just first question is for Mark just on the acquisitions. I think you said immaterial to revenue. But you said, was it $500 million in terms of total cost to both? 
+Mark Murphy
+Yes. 
+Craig Hettenbach
+Could you maybe just help frame just kind of the opportunity over the next couple of years in terms of how maybe sizing like that that business in terms of where you see it potentially going?
+Mark Murphy
+Yes, I mean, most of the purchase price is associated with the Decawave acquisition. In fact, over two-thirds of it. So, over three quarters of it. So, the – and that is a technology investment as Eric said, it’s a technology for a market that we think is a several billion dollar market in a number of years. And that’s going to take time to develop and it’s largely immaterial revenue and dilutive. 
+The smaller acquisition, Custom MMIC is a Defense bolt-on in the very easy to integrate right in James’ wheelhouse on defense products, advanced technology defense products. We see in the – for the part of the March quarter that we haven’t integrated. It will provide about $3 million of revenue that quarter. And on a full quarter basis, it will be roughly $5 million or so for the near-term and it’s accretive immediately. 
+Operator
+Our next question comes from Raji Gill with Needham & Company. 
+Raji Gill 
+Yes. Thank you. A question on the RF infrastructure market wins. When do you expect that to rebound? Any color in terms of what you are seeing with the mobile operators in terms of deploying these base stations across the world that are some regions that are trying to catch-up, others starting to slowdown? Any color there in terms of RF infrastructure would be helpful.
+James Klein
+Okay. This is James. So, we definitely are seeing deployments gone predominantly today below 6 gigahertz predominantly in China. What’s helping us and talking about recovering our business is we are seeing massive MIMO continue to take more share if you want to talk that of that share of base stations and that’s a big content – big for us. About 10x of what we would have in macro base stations. So that’s driving the recovery. 
+I think the absence of Huawei is obviously a challenge in the industry, because it’s about 50% of the share. But as we said in Bob’s prepared remarks, we are ramping with our third customer in that space. So I think that will fuel to recover the business. Deployments, look about our own track, little bit of share mix changes in the last quarter. 
+But it appears that they were somewhere in that 400,000 or so base stations that were deployed last year and it looks like that will grow about 50% this year. So somewhere in that 600,000 base stations deployed. MIMO content will probably to go up to maybe 20% last year, 30% or greater this year. 
+So, positive trends and we urged yesterday about some frequency allocations in the U.S. and we hope that that will also spur development to push forward in the United States.
+Raji Gill 
+And I’ll follow-up you talked about GaN taking share against LDMOS base station. What’s driving that transition? What’s the catalyst for that?
+James Klein
+Yes, three-fold, one is the move to higher frequencies in GaN’s performance manages higher frequency. Also broader bandwidth, so to say with 5G and again, GaN has a better ability to deal with those higher or broader frequency levels. 
+And then in some cases, just higher output power. But in general, the technology is very well suited to move in these directions that we’ve talked about before of higher frequency and broader bandwidths. 
+Operator
+Our next question comes from – excuse me - Srini Pajjuri with SMBC Nikko Securities. 
+Srini Pajjuri 
+Thank you. A couple of clarifications. Mark, maybe you can talk about how many 10% customers you had in the quarter and also, if you could give us what percent of the mix in mobile was China in the quarter? 
+Mark Murphy
+Yes, so, we had two 10% customers in the quarter and I don’t break out by region or sales by quarter. 
+Srini Pajjuri 
+Got it. And then, is it fair to say that Huawei is still kind of minimal on the mobile side or did it grow in the quarter?
+Mark Murphy
+Yes, Huawei was one of the 10% customers actually and it was stronger than we expected along with the other Asia-based handset producers. I said on the call – the last call that we expect that Huawei to be about 5% in the second half. They were larger than that in the December quarter. So, that statement is still correct. It’s just that the – obviously the waiting is not uniform across the second half. 
+So, we expect them to be about a 5% customer in second half. Obviously, largest portion of that in the December quarter. I think it’s important to note here that that we are seeing broad based strength related to 5G across Asian handset producers and importantly, across all chipset producers. And I think the March guide drives home that point. 
+Operator
+And our next question comes from Vivek Arya with Bank of America Securities. 
+Vivek Arya 
+Thanks for taking my questions and congratulations on the strong results. First one, I am curious what does the shape of the 5G handsets rollout look this year? Is it kind of more balanced first half, second half? Is it more 60%, 70% back half weighted? When I look at the 300 million or so market size, it’s much higher than what others are in that closer to 200 million. So I am just curious how you are seeing the 5G rollout? What you have seen so far? And what do you think the shape of the year looks like for the market? 
+Bob Bruggeworth
+I would say, it’s pretty uniform across the year. Obviously, we are getting to a very strong start. The concerns that Mark had about coronavirus and so forth might impact demand and supply. We will see how it goes. But I wouldn’t have any other more specific comment on profiles.
+Vivek Arya 
+Okay. And for my follow-up, there has been some concern about the base of wireless deployments. We heard that from Xilinx and Texas Instruments. I am curious if you would notice any of those slowdowns? And I apologize if you answered this already, but what are you baking in for your base station sales going into the March quarter? Thank you. 
+Mark Murphy
+Yes, I mean, what’s really been driving our recovery is again massive MIMO. For us, as we get that shift, we get about a 10x content lift. So I think if we were only in macro or only looking at a macro view, I would say, yes, we would see the deployments going slower and the business being slower. 
+But because of content pickups, and on top of let’s now being able to compete in the power amplifier slot with GaN, I think that’s what’s really fueling, maybe a bit difference with us in some of the other folks in the business. Now that said, we are still way off our historical highs from where we had been a year ago or so. 
+So, a long way to go before we recover from the restrictions on being able to shift to Huawei, which again I’ll restate as about 50% of the market at this point. 
+Operator
+That concludes today’s question and answer session. At this time I will turn the conference back to management for any additional or closing remarks.
+Douglas DeLieto
+Thanks for joining our call tonight's. We hope to see many of you at our upcoming investor events and we look forward to speaking with you on our fourth quarter earnings call. Thanks again and have a good night.
+Operator
+This concludes today's call. Thank you for your participation. You may now disconnect.
+
+
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

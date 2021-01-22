@@ -1,0 +1,242 @@
+Synopsys, Inc. (NASDAQ:SNPS) Q4 2018 Results Earnings Conference Call December  5, 2018  5:00 PM ET
+Executives
+Lisa Ewbank - VP of IR
+Aart de Geus - Co-Founder, Chairman & Co-CEO
+Trac Pham - CFO
+Analysts
+Gary Mobley - Benchmark Company
+Rich Valera - Needham & Company
+Jackson Ader - JPMorgan
+Jay Vleeschhouwer - Griffin Securities
+Monika Garg - KeyBanc
+Joshua Tilton - Berenberg Capital Markets
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to the Synopsys Earnings Conference Call for the Fourth Quarter and Fiscal Year 2018. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will be given at that time. [Operator Instructions] Today’s call will last one hour. Five minutes prior to the end of the call, we will announce the amount of time remaining in the conference. As a reminder, today’s call is being recorded.
+At this time, I would like to turn the conference over to Lisa Ewbank, Vice President of Investor Relations. Please go ahead.
+Lisa Ewbank
+Thank you, Laurie. Good afternoon. Hosting the call today are Aart de Geus, Chairman and co-CEO of Synopsys; and Trac Pham, Chief Financial Officer.
+Before we begin, I'd like to remind everyone that during the course of this conference call, Synopsys will discuss forecasts, targets and other forward-looking statements regarding the company and its financial results. While these statements represent our best current judgment about future results and performance as of today, our actual results and performance are subject to many risks and uncertainties that could cause actual results to differ materially from what we expect. In addition to any risks that we highlight during the call, important factors that may affect our future results are described in our most recent SEC reports and today's earnings press release.
+In addition, we will refer to non-GAAP financial measures during the discussion. Reconciliations to their most directly comparable GAAP financial measures and supplemental financial information can be found in the earnings press release and financial supplement that we released earlier today and the 8-K, which we will file tomorrow morning due to the closure of financial market today. Also included in the financial supplement is detailed information around our transition to ASC 606, which we will adopt in Q1, and our long-term financial objective. All of these items, plus the most recent investor presentation are available on our website at synopsys.com. In addition, the prepared remarks will be posted on the site at the conclusion of the call.
+With that, I'll turn the call over to Aart de Geus.
+Aart de Geus
+Good afternoon. I'm pleased to report another excellent quarter, and with it, an outstanding year for Synopsys. In fiscal 2018, we crossed the $3 billion mark with revenue of $3.12 billion and delivered non-GAAP earnings per share of $3.91, both record results, with strong double-digit growth.
+Our 3 year backlog grew by approximately $300 million to $4 billion. Our business was comprehensively strong with very good growth across all product groups and all geographies. We repurchased $400 million of our stock and simultaneously made targeted investments to drive long-term growth, also organically and through the acquisition of Black Duck.
+Our diversification into software security and quality progressed very well as we pass the $0.25 billion annual revenue mark. Notwithstanding some turbulence in the market, Synopsys is in a strong position, and we're increasing our long-term financial objectives. Trac will discuss the financials in more detail.
+The excellent fiscal 2018 results highlight a 5 year unparalleled period of technology innovation, market share growth, TAM expansion and strong financial execution for Synopsys. Early on, we envisioned a world of "Smart Everything" where complex connected chips and systems, combined with enormous software content, would launch the age of AI-powered electronics.
+Our strategy flowed from there as we shifted our center of gravity to the critical intersection of hardware and software. Our investments were targeted at not only advanced EDA tools and platforms but at broadening our mission-critical IP portfolio and entering a new business aimed at solving high-impact software security challenges. Our vision turned out to be on point, and our execution puts us in an excellent position.
+As we look through our next phase of growth to $4 billion and beyond, our strategy is threefold, one, sustain and grow our EDA and IP technology and market leadership, two, continue to scale Software Integrity, driving substantial growth from a diverse customer base while steadily moving to solid profitability, and three, further drive operational excellence towards multiyear operating margin expansion through continued revenue growth and prudent expense management. In that context, let me expand on each of these, beginning with EDA.
+Notwithstanding inevitable swings in the semiconductor market, EDA growth is driven by continued chip and system complexity. In 2018, we delivered a stream of innovations aimed squarely at enabling the most complex designs ever, and those products are in the very early stages of a multiyear upgrade cycle.
+Specifically, our digital design tools generated their highest revenue growth in several years with strong performance across all elements of our new Fusion design platform. The word fusion captures the advantages of a single or a fused data model for synthesis, place and route and signoff, enabling us to now share optimization engines across product boundaries. These results in very measurable productivity improvements for our customers.
+While we introduced the Fusion concept in March, we formally launched the Fusion design platform in two significant new products last month. Most notably, Fusion Compiler, the only single product on the market that integrates synthesis, place and route and the key elements of our gold standard signoff technology. Built on a unified data model with shared code among the different functions, it elevates the need to move between tools.
+Through a simultaneous multiyear development effort, we massively upgraded our synthesis capability with the brand-new engine built from the ground up, resulting in notably higher capacity and performance. The combination is quite powerful, with 2x fast the time to result and significantly fewer design iterations, along with a 20% improvement in quality of results. These are impressive numbers. Customers such as Toshiba, Samsung, Socionext and others have already reported excellent results, and we see great promise for demand going forward.
+For customers who use our franchise Design Compiler product separately, we also launched a significant upgrade, Design Compiler NXT, which delivers 2x faster runtime and cloud-ready distributed synthesis that boosts performance even further. Stay tuned for more Fusion-related capabilities to be rolled out during 2019.
+Verification, too, had another outstanding year of growth and share gains. With the exploding requirements of today's leading technology trends, including automotive, IoT, AI and others, verification is the biggest bottleneck for customers.
+We developed our Verification Continuum platform, which integrates the fastest market-leading hardware and software tools available, to not only drive state-of-the-art chip verification but to enable the simulation of these highly complex systems.
+Across the board, we've generated a large number of competitive wins and have built significant new customer relationships. Particularly impactful has been our hardware-based ZeBu emulation system, which saw another record year, making us the market leader.
+In 2018, we launched ZeBu Server 4, the fastest, largest capacity emulator available today. It hits the sweet spot of not only accelerating chip verification, but importantly, early software bring-up and system validation. Customer success has been quite broad based from very large, big-volume semi and systems companies all the way to small aggressive AI startups.
+Emulation is an area that lends itself to delivery on the cloud, which is helpful to some customers as they seek sufficient compute capacity during periods of peak utilization. While we have offered cloud hosting for EDA tools for many years, we officially launched a broader cloud solution in the summer, partnering with public cloud providers including Amazon, Microsoft Azure, Google and Alibaba Cloud. We expect that continued growth in complexity will sustain strong demand for our solutions.
+Turning to semiconductor IP. We had another excellent year of double-digit growth, reaching record levels at slightly more than 20% of total Synopsys revenue. Over the past 15 plus years, we've built the broadest and highest-quality portfolio of logic libraries, embedded memories, interfaces, processors and security IP.
+Our offering has evolved from being initially cost-effective building blocks to now state-of-the-art, sophisticated subsystems serving high-impact market and leading-edge customers.
+Nowhere is this more visible than in cutting-edge verticals like cloud, AI, 5G and autonomous driving. Our ARC processors, for example, generated very good growth in 2018, notably with our innovative embedded vision processor targeted at AI applications, including drones, surveillance and digital imaging products.
+Today's automotive chips must meet stringent functional safety and reliability standards. Over the past several years, we've developed the broadest portfolio of ISO 26262-certified IP for ADAS, infotainment, embedded microcontrollers and more.
+Our unmatched portfolio of IP interfaces ranges from USB to PCI Express to DDR, HDMI, MIPI, high-speed SerDes and more. We are by far the broadest one-stop shop for high-quality blocks in all key manufacturing processes down to 7-nanometer and below. As customers trust our IP for their most demanding new designs, we expect continued strength going forward.
+While Synopsys is fortunate to lead in a number of areas, we continually evolve our strategy to stay ahead of emerging opportunities. Our entry to Software Integrity almost 5 years ago is a prime example of this. In this new market, we offer solutions to identify and address security vulnerabilities and quality defects early in the software development cycle, that is while code is being written.
+Through both organic investments and key acquisitions, we have built a new market position, one that is nicely adjacent to EDA but also constitutes a major new TAM. For Synopsys, that means a high-growth industry and diversification of our customer base, reaching software developers in key verticals such as financial services, automotive and medical devices.
+The most recent acquisitions, Cigital and Black Duck, have been very successful in enabling high-level strategic engagements with customers, demand creation, cross-selling and significantly increased brand recognition.
+In 2019, we plan to deliver a comprehensive Software Integrity Platform, which is designed to provide a streamlined, more robust solution in what has been highly fragmented market, delivering high value for our customers.
+Software Integrity is poised to reach roughly 10% of our total revenue in fiscal '19 while progressing towards profitability. We are evaluating the best way to manage the business and report its results, and we'll make a decision in Q1.
+Rounding things out, a few comments about the economic landscape. Following 2 years of very strong revenue growth in the semiconductor industry, analysts are forecasting continued growth, albeit at a more modest phase. Design activity, however, continues unabated. Learning from experience, customers prioritize electronic design through all parts of the business cycle. In addition, exciting new verticals, many new AI entrants and continued complexity growth are bolstering the demand for our solutions.
+With a portfolio of products and services aimed directly at the most critical electronic challenges in the world, we're confident in our position and feel a great deal of vitality in our outlook.
+Furthermore, our solid financial foundation, recurring revenue business model and diversified customer base augments that confidence and sense of momentum. As a result, we're raising our financial ambitions with the intent to drive double-digit non-GAAP EPS growth over the next several years.
+In closing, fiscal 2018 was an excellent year for Synopsys. We delivered double-digit revenue and non-GAAP earnings growth with strength across all product groups and all geographies.
+We're poised for the next phase of growth, leveraging a number of game-changing new products in EDA, delivering on a strong pipeline of advanced IP cores and continuing to scale revenue and profitability in software security.
+I want to thank our employees, customers, partners and investors for their hard work, support and confidence.
+Let me now turn the call over to Trac.
+Trac Pham
+Thanks, Aart. Good afternoon, everyone. To echo Aart's comments, we had an outstanding year financially, operationally and strategically. Not only did we surpass the $3 billion revenue mark and report our best non-GAAP earnings to date, but we also delivered on our multiyear initiative to drive sustainable long-term growth through targeted investments and strategic diversification.
+These investments contributed to what was a record year across the board. We saw strength throughout our portfolio, and each of our geographies generated double-digit growth.
+As we enter the next phase and look to $4 billion, we're confident in our long-term prospects. To reflect this confidence, we are raising our long-term financial objectives, which I'll describe in greater detail momentarily. First, I'll review the fourth quarter of fiscal 2018 results. All comparisons will be year-over-year, unless I specify otherwise.
+We generated total revenue of $795 million in Q4 and $3.12 billion for the year, reflecting growth of 14% and 15%, respectively. Our 3 year backlog grew more than $300 million to $4 billion, which along with our recurring revenue model, provides a level of stability and predictability not often seen in enterprise software companies.
+Total GAAP costs and expenses were $734 million for the quarter and $2.76 billion for the year. Total non-GAAP cost and expenses were $658 million for the quarter and $2.43 billion for the year.
+The resulting non-GAAP operating margin for the year was 22.1% as we made targeted investments to further strengthen our business while continuing to deliver strong earnings growth.
+GAAP earnings per share were $1.66 for the quarter and $2.82 for the year. Non-GAAP earnings per share were $0.78 for the quarter and $3.91 for the year, an increase of 13% to 14%, respectively.
+We generated $131 million of operating cash flow in the quarter and $424 million for the year. This was below our historical levels due to approximately $230 million of onetime items, which are detailed in our financial supplement. We ended the year with a cash balance of $723 million with total debt of $469 million.
+We completed the $165 million accelerated share repurchase begun in May this year, bringing the total buybacks to $400 million in 2018. Over the last 3 years, we've repurchased $1.2 billion of our stock, reducing the share count by 5 million shares.
+We also used our cash to acquire Black Duck, adding the market leader in open-source security testing to our Software Integrity Group. Black Duck came in at the high end of our plan with $60 million in revenue and was slightly less dilutive than we expected at approximately $0.10 for 2018.
+Black Duck remains on track to breakeven on the second half of 2019. Now that the Black Duck acquisition is largely integrated, we will no longer report its individual results.
+The combined Software Integrity business has maintained its rapid pace of growth, reaching approximately $280 million in 2018 and approaching sufficient scale to progress towards solid profitability. Given this change, we're evaluating how best to manage the operations and the visibility provided to investors going forward. We will make a decision in Q1.
+Before moving to our outlook, I'd like to note that our financial supplement includes a summary of certain discrete operating items that we've referenced this quarter and earlier in the year.
+Turning now to guidance. I'll start with a brief description of what to expect for our transition from ASC 605 to ASC 606. It's important to note that while - this is an accounting transition only and will not affect cash generation or how we manage the business.
+While revenue recognition for the rest of the business will remain largely unchanged, we will see an impact on the timing of revenue associated with our multiyear IP license contracts. Under 605 rules, the effective contracts were recognized ratably.
+Under 606 rules, these non-cancellable contracts are still recognized over time, but the revenue will now be recognized when the customer request delivery of specific titles. This change has no impact in the total value of the contracts but will contribute to a greater quarter-to-quarter variability with respect to IP revenue.
+During this transition year, there's a onetime recast of our backlog under the new 606 rules. This will cause a portion of our backlog that would have been recognized under 605 rules in 2019 and beyond to be directly recorded as retained earnings under 606 rules.
+We expect the transition to ASC 606 to result in a reduction to 2019 revenue of approximately $40 million, with the impact declining to neutral within 2 years. Our financial supplement contains additional details on the transition to ASC 606.
+Before moving to our official targets for 2019, let me provide some apples-to-apples comparisons under 605 rules. Under ASC 605, revenue for fiscal 2019 is expected to be between $3.34 billion and $3.37 billion, an increase of 7% to 8% or approximately 9% excluding the extra week in 2018.
+GAAP earnings are expected to be $3.01 to $3.11 per share, with non-GAAP earnings of $4.40 to $4.47 per share, implying a non-GAAP operating margin at the midpoint of just over 24%, an increase of approximately 200 basis points.
+These numbers reflect an outlook for another strong year with double-digit earnings growth and solid margin expansion, consistent with the financial objectives we've previously communicated.
+I will now provide our official full year and first quarter guidance under the new ASC 606 rules. For 2019, the full year targets are, revenue of $3.29 billion to $3.34 billion, total GAAP cost and expenses between $2.787 million and $2.817 billion, total non-GAAP cost and expenses between $2.53 billion and $2.55 billion, resulting in a non-GAAP operating margin at the midpoint of approximately 23.5%, other income and expenses between minus $14 million and minus $10 million, a non-GAAP normalized tax rate of 16%; outstanding shares between 153 million and 156 million, GAAP earnings of $2.80 to $2.90 per share, non-GAAP earnings of $4.20 to $4.27 per share, cash flow from operations of approximately $700 million, and capital expenditures of approximately $270 million. This includes a build-out of a facility in China and the relocation of some Silicon Valley offices. We expect CapEx to drop roughly in half in 2020.
+For the first quarter, the targets are, revenue between $775 million to $810 million, total GAAP cost and expenses between $677 million to $693 million, total non-GAAP cost and expenses between $612 million to $622 million, other income and expenses between minus $5 million and minus $3 million, a non-GAAP normalized tax rate of 16%, outstanding shares between 153 million and 156 million, GAAP earnings of $0.56 to $0.64 per share, and non-GAAP earnings of $0.95 to $1 per share.
+I'll close with an update to our long-term financial objectives. Based on the strong position we've built across the portfolio, we are now setting a goal to drive annual double-digit non-GAAP EPS growth through a mix of high single digit total revenue growth consisting of EDA at mid to high single digits, IP systems in the low double digits and Software Integrity growth of around 20%.
+Simultaneously, we intend to expand non-GAAP operating margins to the high 20s over time with the goal of 26% by 2021. We plan to accomplish this through a mix of revenue growth, prudent expense management and continued scaling of Software Integrity. Our capital allocation strategy remains a balance of organic investments, M&A and buybacks.
+To wrap up, this quarter closed out a great year for Synopsys. Because of the decisions and investments we've made, the business is well positioned to continue on this path through 2019 and beyond. The updated financial objectives we laid out today reflect confidence in our ability to deliver strong profitable growth as we move toward $4 billion of revenue.
+And with that, I'll turn it over to the operator for questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] And our first question, from the line of Gary Mobley with Benchmark Company. Please go ahead.
+Gary Mobley
+Good evening, everybody. Thanks for taking my question. I wanted to run through some of your EDA growth assumptions. It looks like in 2018 you churned out about 7% EDA revenue growth. And I believe most of that was organic, if not all, consistent with your long-term outlook for this product category.
+But just given some of the other parameters that you have given for the other business - businesses, I should say, it appears as though your fiscal year '19 revenue growth embeds the assumption of about 3% EDA growth. Am I reading that too conservatively?
+Aart de Geus
+I think that is too conservative, indeed. We have, of course, multiple businesses. And the fact that all did so well in '19, we are a little bit more cautious in predicting - sorry, did so well in '18, we're a little bit more cautious to predict '19 given all the turbulences in the market and uncertainty.
+Having said that, we actually feel that the EDA market has been quite healthy and sits in the mid to upper half of the teens. So I think, yes, one can judge the numbers a little bit. But it's certainly higher than what you are referring to.
+Gary Mobley
+Okay. Just to verify, the Software Integrity Group excluding design and IP was, what, roughly $260 million for the fiscal year '18?
+Trac Pham
+$280 million.
+Gary Mobley
+$280 million, okay. And I see that your percentage of revenue - percent of your revenue forecast for fiscal year '19 to come out of backlog is about 70%, had been dropping about 5 percentage points each of the last 3 years. Is that a function of the revenue shift towards IP in Software Integrity? Or is there something else going on there?
+Trac Pham
+It is partially related to that. If you look back over time, you'll see that model change as a result of the higher mix in growth of hardware and IP, which tends to be more upfront - which has an element of upfront.
+For this year, we actually had a very strong bookings year. And you can see that reflected in the backlog, the $4 billion backlog that we reported. There were some timing of deals that slipped out of the quarter, so that did affect the percentage.
+Gary Mobley
+Last two questions. I did notice that you're showing the inventory item on the balance sheet, and it appears as though inventory is up about twofold year-over-year. Could you speak to that increase? And then as well, as you start to gather revenue from cloud-based delivery, would you expect any change in the way revenue is recognized from that? Thank you.
+Trac Pham
+So the first part of the question is, yes, we are reporting inventory levels, and that's to support the demand of hardware and the timing of when customers do need hardware. I missed the second part of your question.
+Gary Mobley
+So can you speak to the reason for the twofold increase in the inventory compared to this time last year and then as well, how delivery of cloud-based EDA tools may impact your revenue recognition, if at all?
+Trac Pham
+So it won't affect revenue recognition. Hardware has traditionally been recognized upon shipment, which is typically upfront. So we'll continue to see that under 606. And as I mentioned previously, the buildup in inventory is just a function of the growth in the hardware business.
+Aart de Geus
+Operator, can we get the next question?
+Operator
+Yes. We go next to the line of Rich Valera with Needham & Company. Please go ahead.
+Rich Valera
+Thank you. A couple of questions on the Software Integrity group. First, Aart, can you talk about when you expect to deliver the Software Integrity platform and how that will be different than what you've been delivering recently?
+And then also on Software Integrity, I think last earnings call, we talked about that business being a 250 basis point drag on overall corporate margins in fiscal '18. Can you give us any sense of what you're expecting that might be from a drag perspective in fiscal '19? Thank you.
+Aart de Geus
+Sure. The delivery of the platform is scheduled in 2019. We have not been too specific on the exact dates. But in all fairness, platforms like that get delivered into multiple pieces. And we have already a number of people using it in alpha versions.
+The thing to realize is while we have developed a lot of software inside of the existing Software Integrity group, we have also made a number of acquisitions over the last few years. And so it is a mixture of integrating those acquisitions and simultaneously, modifying them sufficiently so that they actually fit in seamlessly in the platform.
+And I personally witnessed, by visiting a number of the larger customers, the desire to have solutions that are broader, that have the same interfaces, the same representations of data and can be navigated more easily from one product to another or looking at statistics from a management point of view. And so that is the direction that the platform is taking.
+So we have good hopes that this is a great way to broaden our market appeal while still racing forward with the individual products that are in quite good demand.
+Trac Pham
+So with regards to the operating margin question, for this year in 2018, we did see roughly 250 basis point impact on overall margins because of the investments in Software Integrity.
+Rich Valera
+And are you willing to say anything on fiscal '19? Or not at this point?
+Trac Pham
+Generally, the business should improve across the board in 2019.
+Rich Valera
+Okay. And just one more, if I could, on the hardware business. So you're coming off 2 very strong years of growth in hardware, but I believe entering each of those years, you were looking for relatively flattish growth just because of the volatile nature of that business but were effectively pleasantly surprised by very strong demand.
+Can you give us a sense of what you're looking for from hardware entering fiscal '19, realizing, one, you've got pretty tough comps, and two, as you noted, it is sort of a volatile environment out there?
+Aart de Geus
+It feels like repeating what you just said, which is, for a good reason, we're always a bit cautious because the ups and downs in the hardware business can be abrupt because customers typically do larger orders. And when they come in - and I believe they want shipment yesterday. And so that can go up and down, can be impacted by economy.
+At the same time, my answer is yes, for the business, it was genuine because it sits right at this intersection of a set of problems that are becoming more difficult, which is, can you run the software on hardware that's not ready yet, i.e., can you run it on a prototype? And emulation is well suited for a lot of these things.
+So we expect continued interest. And of course, we hope that we will do very well there. But it's hard to completely predict well, and that's where the caution over the last 2 years just continues.
+Rich Valera
+That’s great. Thanks for taking my questions.
+Aart de Geus
+You’re most welcome.
+Operator
+Thank you. We go next to Sterling Auty with JPMorgan. Please go ahead.
+Jackson Ader
+Great. Thanks, guys. This is Jackson Ader on for Sterling tonight. First question from our side with China, pretty much front and center in the headlines these days. And with the company developing a facility in China, have you seen any business impacts so far, either in this quarter or is there anything contemplated in terms of China impact into your 2019 outlook?
+Aart de Geus
+The answer is no, we have not seen any impact. Of course, we are well attuned at all the back and forth and the tension discussion. At the same time, we have done extremely well in China, as we have in '19 - in '18 in the rest of the world. But China certainly stands out as an area of good growth for us but also a quite diversified growth. And so from that perspective, we are essentially planning a continuation, of course. But if there are external changes, they tend to be beyond the things that we can control.
+Jackson Ader
+Okay. And then a quick follow-up. There was no repurchase activity under the $325 million remaining under the authorization, any particular reason for that?
+Trac Pham
+Sorry, we did complete $400 million of buybacks in total for the year.
+Jackson Ader
+In this particular quarter? In the last quarter?
+Trac Pham
+Yes, we did. We completed our $165 million ASR.
+Jackson Ader
+Okay, fair enough. Thank you.
+Operator
+Your next question from the line of Jay Vleeschhouwer with Griffin Securities. Please go ahead.
+Jay Vleeschhouwer
+Thank you. Good evening. Aart, with respect to Fusion Compiler, could you talk about how you're thinking of the business impact, the business increment potential from that, perhaps in terms of the kind of language that you want to use vis-à-vis the ICC II in terms of new logo adoption or existing customer adoption? So perhaps looking back at that as a benchmark, how are you thinking about Fusion Compiler?
+And if we stipulate that the absence of the architecture may, to some degree, have been an impediment to new business in digital, do you think now that it's available, that you could see an acceleration on your digital business?
+Aart de Geus
+Well, the good news is I think we've already seen some acceleration, and maybe let me formulate it differently than in the preamble. We really introduced two products and the solidification of the platform. The first product was actually a next version of the synthesizer. For those people that have an existing design methodology, they fundamentally don't want to change things. They can immediately adopt a next version that has a much better result. And that adoption will follow the same adoption that we have when we have new releases or very fundamentally new releases of products.
+For our Fusion Compiler, that is really reaching beyond that in that it is the deep integration or Fusion as we call it, of multiple product while simultaneously adding new technologies. And there, we have quite a number of customers that are in the early phases of adoption, and we have high hopes because the results are looking quite good. But with all products that are quite advanced, we make sure that there is sufficient handholding so that it makes the transition well.
+So bottom line of all of this is we look at the Fusion platform as really the basis for the next decade of advancements. That's why I was mentioning that over time, there will be more capabilities rolling in as we now have the fundamental data representations and ability to mix and match algorithms that will add value to the many different tools.
+Jay Vleeschhouwer
+With respect to hardware in terms of perhaps mitigating its variability and/or just growing the TAM, have you given any thoughts to deploying HAPS and/or ZeBu outside EDA? Meaning, for example, high-performance computing requirement in entirely other industries like financial services or non-EDA technical software, for example, where you could run other types of simulation and solvers on your hardware in wholly new industries that aren't solely tied to semis or electronic systems.
+Aart de Geus
+Yes, we have definitely thought about that. I would caution that one of the reasons for success of these platform machines is that they invariably tend to be very focused on market segments where you truly can accelerate things massively. And so there's always a trade-off between the ultimate speed and the generality of the application.
+Having said that, the domain of acceleration, the domain of existing algorithm, the domain of AI algorithms is absolutely in the midst of a lot of change. And we are exploring a number of areas to see what we could do that would create value.
+I think it's a bit early to talk about specifics. But right now, we're racing forward with what we have in the market that we have, and I think we see a lot of opportunity there.
+Jay Vleeschhouwer
+Lastly, on backlog, I assume that the large increase, which appears to be one of the largest, if not the largest increase in backlog you've had, was predominantly in EDA? Or was there also some increase in backlog for IP and/or SIG?
+Trac Pham
+The increase was across the board.
+Jay Vleeschhouwer
+Okay, thank you…
+Aart de Geus
+Maybe if I could add to that, SIG is doing very well. And one of the characteristics of that is that from what initially started as a business with very short time frame, we are gradually moving to larger and longer contract. And I think that is a sign of not so much of a maturation of the market but some degree of maturation of the quality of our business. And so that is extremely encouraging, and so in that sense - and this, by the way, applies really across the board at Synopsys.
+Jay Vleeschhouwer
+Thank you.
+Aart de Geus
+You’re welcome.
+Operator
+Thank you. We go next to Monika Garg with KeyBanc. Please go ahead.
+Monika Garg
+Hi. Thanks for taking my question. Aart, first, you are raising your core EDA growth target. Generally, you have previously talked about low to mid-single digits to now you're talking about mid to high single digits. Maybe could you walk through what is leading you to raise these targets?
+Aart de Geus
+Well, the reason is that we've seen a lot of vertical industries, banking, on the fact that electronics or AI as the intersection of electronics and algorithms is going to have a very big impact. And so with that, the amount of design and the focus on multiplicity of architectures is very high. And we expect continuation of aggressive design.
+Secondly, these designs are much more complex than what we've seen 5 years ago. And so in that sense, the opportunity of the market will continue for those companies that can stay in tune with these advances, and we certainly are and intend to be in a leadership position for that.
+So in general, the confidence is positive. And so you counter to that the volume of semiconductors or the pricing being somewhat in question for next year. In balance, we feel that we are in a good position.
+Monika Garg
+All right. Thanks. One question on Software Integrity, SIG growth. Are you still expecting a growth of 20% in that for next year? And could you talk about what are the profitability expectations in 2019 for SIG?
+Aart de Geus
+Well, on the growth, yes, we are definitely aiming at those numbers, and we think that we have a good shot of continuing on the good trajectory that we're on. Any comment on profitability?
+Trac Pham
+Overall, profitability should improve as we continue to scale up that business.
+Aart de Geus
+In the overall preamble, we mentioned that we are having a focus to move the ops margin to the numbers that we gave you. And so that includes all the businesses, and every one of our GMs has a target to make sure that we'll get there.
+Monika Garg
+All right. The last one for me, one question which we have been getting is like we are seeing a slowdown in the semi industry. So are you seeing any impact from this? Could you talk about your pipeline visibility? Thank you.
+Aart de Geus
+Well, we're not seeing any impact from the expectations of overall size of the semiconductor industry, and I think that's partially due to the fact that we're not immune to some of the ups and downs, but we are - our business is greatly tempered by the ups and downs because engineering efforts continue, good or bad weather. And in many situations, companies actually make sure that they invest well in the new products in order to differentiate in what may be a more challenging market.
+So in that sense, I think EDA in general has done well in the ups and downs of the industry. And then the other is just the practical situation that we see a lot of chips being designed.
+Monika Garg
+Thank you so much.
+Aart de Geus
+You’re welcome.
+Operator
+Thank you. [Operator Instructions] Our next question from Gal Munda from Berenberg Capital Markets. Please go ahead.
+Joshua Tilton
+Hi, guys. It's Joshua Tilton on for Gal. In the beginning, you mentioned the world of smart connected everything. It's my understanding that the emergence of smartphone was a big driver for the EDA vendors. Can you maybe frame the state of today's design environment in regards to IoT relative to the early days of mobile?
+In other words, if a smartphone is just a connected device and you put it simply, everything will become a connected device, how much bigger is the IoT smart connected world opportunity relative to what smartphone was?
+Aart de Geus
+You have a lot of questions in one question. Let me first position what mobility meant. And yes, of course, we call that smartphones, but the smart then meant mostly a phone that has a lot of really interesting applications on them and those applications are extremely connected with each other. And so you see capabilities such as Facebook or many of the apps that give you GPS information, restaurant and so on.
+That word smart was more reflective of the first time being able to do that on a phone. When we now talk about the word smart, we really refer to the embedding of AI technology. And so that is a degree of reasoning that has not been seen before. And of course, on one hand, you can say that's a continuum, and I would agree with that. On the other hand, from a technology point of view, the computation that goes with AI is highly specialized, is very hungry for more computation and sensitive also to not using too much power.
+And so it's in that context that it is true that in the previous 10 year, mobility drove chip design because succeeding computation, the years before that, it had this additional demand of low power because phones are portable and battery-driven. Well, this time, we have an additional push which is they want also faster computation. And therefore, people will design chips that do only AI in order to be fast and low power.
+And so that's the whole next generation. And I am the first one to say I think we're at the very beginnings of this. There will be some great successes, have been already. There will be some that we'll have to rethink things. And so it's a very dynamic industry.
+But we can feel it because we see a very large number of companies, startups and very large system companies, investing in AI techniques and so expect that to continue for us.
+Joshua Tilton
+Thank you.
+Aart de Geus
+You’re welcome.
+Operator
+Thank you. And I'll turn it back to the room for closing remarks.
+Aart de Geus
+Well, we appreciate you listening in. I understand the market is closed and you must be working anyway and so are we, and so we are looking back on a very strong 2018. The last 5 years, we made many changes to the company that have put us in a good position, including diversifying towards a broader TAM that has a lot of future promise, and also investing in many of the technologies that have driven, and will continue to drive, let me call it, Synopsys classic, so to speak. And so we hope that we will be able to share continued good results in 2019, and we hope you have a good transition into the New Year. Thank you very much.
+Operator
+Thank you. Ladies and gentlemen, this will conclude our teleconference for today. We thank you for your participation and for using AT&T Executive Teleconference. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

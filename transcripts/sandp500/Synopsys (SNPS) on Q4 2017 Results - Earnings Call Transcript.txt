@@ -1,0 +1,258 @@
+Synopsys, Inc. (NASDAQ:SNPS) Q4 2017 Earnings Conference Call November 29, 2017  5:00 PM ET
+Executives
+Lisa Ewbank - Vice President, Investor Relations
+Aart de Geus - Chairman and Co-CEO
+Trac Pham - Chief Financial Officer
+Analysts
+Gary Mobley - The Benchmark Company
+Rich Valera - Needham & Company
+Farhan Ahmad - Credit Suisse
+Jackson Ader - JPMorgan
+Jay Vleeschhouwer - Griffin Securities
+Monika Garg - KeyBanc Pacific Crest
+Mitch Steves - RBC Capital Markets
+Operator
+Ladies and gentlemen, thank you for standing by. And welcome to the Synopsys Earnings Conference Call for the Fourth Quarter and Fiscal Year 2017. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session, and instructions will be given at that time. [Operator Instructions] Today’s call will last one hour. Five minutes prior to the end of the call, we will announce the amount of time remaining in the conference. As a reminder, today’s call is being recorded.
+At this time, I would like to turn the conference over to Lisa Ewbank, Vice President of Investor Relations. Please go ahead.
+Lisa Ewbank
+Thank you, Reba. Good afternoon, everyone. With us today are Aart de Geus, Chairman and Co-CEO of Synopsys; and Trac Pham, Chief Financial Officer.
+Before we begin, I’d like to remind everyone that during the course of this conference call, Synopsys will discuss forecasts, targets and other forward-looking statements regarding the company and its financial results.
+While these statements represent our best current judgment about future results and performance as of today, our actual results and performance are subject to many risks and uncertainties that could cause actual results to differ materially from what we expect.
+In addition to any risks that we highlight during the call, important factors that may affect our future results are described in our most recent SEC reports and today’s earnings press release. The company will also refer to the planned acquisition of Black Duck Software. Please note that the acquisition is not yet closed and is subject to closing conditions and regulatory review.
+Finally, we will refer to non-GAAP financial measures during the discussion. Reconciliations to their most directly comparable GAAP financial measures and supplemental financial information can be found in the 8-K, earnings press release, and financial supplement that we released earlier today. All of these items, plus the most recent investor presentation, are available on our website at www.synopsys.com. In addition, the prepared remarks will be posted on the site at the conclusion of the call.
+With that, I’ll turn the call over to Aart de Geus.
+Aart de Geus
+Good afternoon. I am happy to report another excellent quarter and with it another outstanding year for Synopsys. In fiscal 2017, we delivered revenue of $2.725 billion, an increase of 12.5%, non-GAAP earnings per share of $3.42, 13% growth, we generated $635 million in operating cash flow, our three-year backlog grew by approximately $150 million to $3.7 billion and we bought back $400 million of our stock.
+These results extended our multi-year track record of strong growth with three-year CAGRs of 10% for both revenue and non-GAAP earnings, accentuated by upside from hardware and IP, our business became stronger and stronger as we moved through the year, resulting in good revenue growth across all product groups and all geographies.
+The fiscal ‘17 double-digit non-GAAP EPS growth was achieved through both revenue growth and increasing operating margin, even with acquisition-related dilution. Simultaneously, we further scaled our Software Integrity solutions with good organic growth, the Cigital acquisition in Q1 and the planned Black Duck transaction announced earlier this month. Trac will discuss the financials in more detail.
+As we assess the business we’ve built over the past 30 plus years and look forward to the next five years to 10 years, we’re enthusiastic about our prospects. The market opportunity is vast and increasing as we enter the age of Smart Everything. Synopsys is well-aligned to benefit from the emerging market dynamics. And lastly, our financial position and priorities amply support our aspirations.
+Let me expand on these three elements of our value proposition. First, the age of Smart Everything or Digital Intelligence is here. Following the decades driven by Computation and then Mobility, Digital Intelligence is the third major wave of electronics impact.
+Week by week we can see its reach growing, be it through the Internet of Things, automotive, virtual reality, medical devices or industrial. The need to manipulate massive amounts of data, apply AI through machine learning, while guaranteeing security is unstoppable. All of this is made possible with an insatiable hunger for next-generation advanced chips and complex software developed by our customers.
+Second, Synopsys is uniquely positioned at the very intersection of silicon hardware and software. Our design and verification tools are essential for the next-generation of advanced chips and systems. Our growing silicon-proven IP offering reduces risk and speeds time-to-market. In addition, our Software Integrity portfolio prevents code flaws from becoming security disasters.
+And third, we have maintained strong financial solidity while broadening our company TAM precisely for the opportunity at hand. Our recurring revenue model lets us consistently invest in advanced product development and support. We’ve managed our strong balance sheet and cash flow to enable both consistent stock buybacks and TAM-broadening acquisitions. And we’re driving shareholder value through long-term, high-single digit, non-GAAP earnings growth.
+Elaborating on our market and technical position, let me provide some highlights, beginning with EDA. With continued silicon and architectural sophistication, the success of next-generation chips is paramount in bringing about big data and machine learning opportunities.
+Synopsys EDA continues to enable astounding levels of complexity, resulting in strong demand for state-of-the-art solutions across our product lines. Even with strong competition and continued customer consolidation, we’ve fared well with growth outpacing the others over the past several years.
+We continue to strongly invest in our market leading digital design platform. Our solution has been instrumental in enabling many firsts, the first ever 10 nanometer production design, the first 7 nanometer tapeout, and now significant activity on early 5 nanometer designs. The largest ever FinFET design was implemented with the Synopsys platform, as was the largest networking processor in the world.
+Our digital platform is consistently trusted on the most advanced projects and is relied on for more than 95% of all FinFET designs. Our success is particularly evident in applications such as mobile, automotive, CPUs, graphics and AI-specific processors. And while we’re seeing share gains with customers across industries ranging from networking to storage to sensors, automotive has been particularly strong with nine of the top 10 automotive IC suppliers enabled through the Synopsys platform. Notably, at a leading automotive IC supplier, we’re growing and displacing the competition.
+Meanwhile, the move to smaller geometries continues. New manufacturing approaches, new materials, and new innovative transistor structures require our 3D TCAD expertise to develop them.
+In Q4, we announced the acquisition of QuantumWise, whose amazing atomic-level simulation tools enhance our ability to model the most advanced next-generation devices. In custom and analog mixed-signal design, our Custom Compiler and Circuit Simulation not only demonstrated excellent technical results but saw good revenue growth during the year.
+Customers such as MediaTek, Renesas, Panasonic, ST and TDK/Micronas have reported very successful deployments and tapeouts using our Custom Compiler solution, which is targeted specifically at FinFET designs.
+Now to verification, which continues to be an area of strength and growth for Synopsys. We realized a number of years ago that as chips and systems became more and more complex, verification would increasingly be required at the intersection of hardware and software. Over the last years, while collaborating with market leading customers, we developed a comprehensive verification platform that excels at exactly that.
+In fiscal 2017, our investments have resulted in another outstanding year of growth and share gains. One example is Samsung SARC, which chose our Verification Continuum, including simulation, formal, emulation, debug and verification IP as the primary solution for their advanced mobile processor designs.
+Strong customer adoption of our hardware verification products drove another record year as well. Among high profile customers presenting at the Design Automation Conference in June, AMD highlighted its use of our ZeBu emulation for early software development and bring-up. For software, emulation speed is critical and ZeBu is the fastest solution in the market.
+In Q4, we saw another example of the huge potential for our emulation. A mobile giant, faced with verification challenges inherent in software-rich mobile platforms adopted ZeBu citing its performance superiority.
+Turning to semiconductor IP, we had another excellent year of double-digit growth. Over the past 15 plus years, we’ve built the broadest portfolio of IP titles and subsystems and have become a trusted partner and market leader. Our foundry relationships and active drive in standards groups ensure that customers can buy leading-edge products in key technology processes at the earliest stages.
+During 2017, we further expanded our portfolio, with continued focus on automotive, IoT and security. We expanded our IoT offering with our new ARC Secure IP subsystem for endpoint security and our IoT Development Kit to accelerate software development for sensor fusion, voice recognition and face detection designs.
+We announced the collaboration with Morpho, a leader in digital security and identity solutions to accelerate deep learning processing for embedded vision applications. In Q4, we acquired Sidense, adding One-Time Programmable Non-Volatile Memory IP, which is used in automotive and IoT among other markets.
+Our IP group has been a beneficiary of customer consolidation, providing outsourcing options to companies who want to target their limited engineering resources more towards differentiating their projects.
+Let me next move to our Software Integrity Group, which provides products and services to build security and quality into the software development lifecycle and across the entire cyber supply chain.
+Customers for these solutions span semiconductor and systems companies, who are embedding considerable software content into their chips and devices, all the way to developers of software in industries such as financial services, medical, automotive and high-impact industrial.
+Over the past three-and-a-half years, we’ve become a clear leader in this emerging high-growth industry. Since our initial entry with the acquisition of Coverity, we’ve invested both organically and through key acquisitions to develop a product platform and services to better serve companies deal with daunting software security problems. As we gain scale and credibility, our brand recognition continues to strengthen. Gartner ranks Synopsys now as a leader in its Magic Quadrant for Application Security Testing.
+During the year, we made good progress integrating the Cigital and Codiscope acquisitions, and are now seeing a positive impact on demand. Earlier this month, we announced the acquisition of Black Duck Software, the leader in testing Open Source software for known security vulnerabilities and license compliance. With Open Source making up 60% or more of all applications, this capability is critical to deliver a robust platform.
+Initial customer reaction has been great, as they recognize the benefits of combining Black Duck’s highly respected capabilities with the broader Synopsys offering. The acquisition is scheduled to close shortly, subject to regulatory review and customary closing conditions. Our vision and investments are resonating well with customers and we’re excited about the long-term potential of this product group.
+Lastly, I’ve mentioned a number of vertical markets this afternoon. One key vertical that is going through momentous change and is directly impacted by our end-to-end solutions is automotive. Let me provide some highlights resulting from our multiyear automotive strategy.
+Because safety is so critical, the automotive industry requires certification of products up and down their value chain. We’ve significantly expanded our portfolio of products certified for standards such as ISO 26262, including our functional safety test solution, which was certified in Q4.
+During this year, we’ve massively expanded our industry-leading automotive grade IP offering, including a broad portfolio of interface blocks that meet stringent automotive temperature requirements for the 16-nanometer FinFET process.
+In Q4, we extended a multiyear Automotive Center of Excellence collaboration with NXP, enabling early software development for next-generation electronic systems. We’re also well-recognized in the industry, serving as a leader on the Society of Automotive Engineers’ Cyber Security Task Force focused on driving new standards for software security.
+In summary, for Synopsys, fiscal 2017 was an excellent year, positioning us well going forward. We achieved outstanding financial results, with revenue strength across the Board. Our EDA and IP products are delivering top-notch results for customers building chips to bring about the Digital Intelligence, Smart Everything age. And we’re making significant progress in scaling our software security platform and market leadership position.
+Let me now turn the call over to Trac.
+Trac Pham
+Thanks, Aart. Good afternoon, everyone. To echo what Aart said, our strong finish in Q4 capped an outstanding 2017. This year’s success reflects our commitment to deliver solid financial results in the near-term, while simultaneously creating sustainable growth and profitability over the long-term.
+Over the last three years, we have continued to expand our leadership in EDA and IP, while also broadening our portfolio with our Software Integrity solutions. We are executing very well on our strategy, which is reflected not only in the broad-based strength of our financial results, but also in the expansion of our Software Integrity business group with the announced planned acquisition of Black Duck.
+Based on our recent performance, the strength of our portfolio and the backlog coverage heading into fiscal ‘18, we are optimistic about our ability to drive sustainable success in the coming years. As I discuss the financial highlights, all comparisons will be year-over-year unless I specify otherwise.
+We delivered total revenue of $697 million in Q4 and $2.725 billion for the year, an annual growth rate of 12.5%. Business was strong across all product groups, particularly hardware and IP. In addition to another record year for hardware, our Q4 results included approximately $30 million in revenue from a large hardware shipment that was planned for 2018 but shifted into Q4.
+Our three-year backlog grew approximately $150 million to $3.7 billion, reflecting very good business growth and the timing of large contract renewals. We again have a large proportion of 2018 revenue, approximately 75% already in hand, providing stability and predictability not often seen in enterprise software companies.
+Total GAAP costs and expenses were $605 million for the quarter and $2.4 billion for the year. Total non-GAAP costs and expenses were $566 million for the quarter and $2.1 billion for the year. 2017 expenses increased due primarily to higher costs associated with acquisitions, employee compensation and cost of goods sold for hardware sales. Non-GAAP operating margin increased to 23.8% for the year, even with the modest dilution from our Cigital and Codiscope acquisitions.
+We posted GAAP earnings for the year of $0.88 per share, including a loss of $0.80 in the quarter, reflecting the one-time impact of our repatriation of offshore cash, which I’ll talk more about in a moment. Non-GAAP earnings per share were $0.69 for the quarter and $3.42 for the year, an annual growth rate of 13%.
+As I mentioned earlier, Q4 had the benefit of a hardware-related shift, which was the primary driver of $0.11 overachievement versus expectations. Even excluding this upside, we delivered annual EPS growth of 10%, exceeding our original target.
+We generated $185 million of operating cash flow in the quarter and $635 million for the year. We significantly exceeded our original 2017 target due to strong collections and business levels throughout the year, as well as $30 million received from ATopTech for litigation damages.
+During the quarter, we initiated the repatriation of $825 million of offshore cash, taking advantage of our R&D tax credits and resulting in a cash tax rate of approximately 6%. This resulted in a GAAP-only tax expense of $166 million in Q4 and will drive a one-time cash tax payment of approximately $40 million in early 2018.
+Also affecting 2018 operating cash flow is a $65 million one-time payment to the Hungarian tax authority, in connection with an ongoing tax dispute. While we expect to prevail, we are required to make this payment as a condition for continuing our appeal. We ended the year with cash and cash equivalents of $1 billion, with 53% onshore and total debt of $144 million.
+In 2017, we used about 70% of our free cash flow for stock buybacks. We repurchased $400 million this year and over the past three years have repurchased close to $1.1 billion of our stock. We have $400 million remaining on our current authorization. Our current plan for 2018 is to use buybacks to keep share count roughly flat.
+Before providing 2018 guidance, let me briefly comment on the Black Duck acquisition, which is subject to regulatory approval and closing conditions, but we expect will close in December. When closed, we will pay approximately $548 million net of cash.
+Due to a purchase-accounting deferred revenue haircut of about $25 million to $30 million, Black Duck is expected to contribute roughly $55 million to $60 million revenue in 2018. We expect it to be approximately $0.12 dilutive to 2018 non-GAAP EPS, reach breakeven on a non-GAAP basis by the second half of 2019 and be accretive thereafter.
+Now to guidance, due primarily to an extra week in fiscal Q1 and the profile of expenses, we expect first half revenue and earnings to be greater than the second half. Q1 targets are, revenue between $740 million and $765 million, which includes approximately $40 million from the extra week, total GAAP costs and expenses between $625 million and $641 million, total non-GAAP costs and expenses between $560 million and $570 million, other income and expense between minus $1 million and $1 million, a non-GAAP normalized tax rate of 19%, outstanding shares between 153 million and 156 million, GAAP earnings of $0.62 per share to $0.70 per share and non-GAAP earnings of $0.98 per share to $1.02 per share, including approximately $0.05 from the extra week.
+For 2018, total revenue of $2.88 billion to $2.91 billion, a growth rate of 6% to 7%. Excluding Black Duck, the total revenue target range is $2.82 billion to $2.855 billion. Other income and expense between minus $6 million and minus $2 million, a non-GAAP normalized tax rate of 19%, outstanding shares between 153 million and 156 million, GAAP earnings of $2.24 per share to $2.38 per share or $2.68 per share to $2.80 per share excluding Black Duck, non-GAAP earnings of $3.46 per share to $3.53 per share or $3.58 per share to $3.65 per share excluding Black Duck, capital expenditures of approximately $110 million and cash flow from operations of $500 million to $550 million. As I mentioned earlier, this reflects one-time cash payments totaling approximately $105 million.
+In summary, we are executing very well on our goal to drive long-term shareholder value. We reported outstanding results across the Board in 2017, while delivering a high level of predictability with $3.7 billion of backlog and scaling our Software Integrity products with the acquisition of Black Duck.
+With that, I’ll turn it over to the operator for questions.
+Lisa Ewbank
+Reba, are you there?
+Question-and-Answer Session
+Operator
+Yes, ma’am, I am.
+Lisa Ewbank
+We are ready for Q&A.
+Operator
+[Operator Instructions] I do have on site Mr. Gary Mobley, your line is open. Please go ahead, sir.
+Gary Mobley
+Hi. Can you hear me okay.
+Aart de Geus
+Yes. Thank you.
+Gary Mobley
+Thanks for taking my question. Congrats on the strong finish to the year.
+Aart de Geus
+Thank you.
+Gary Mobley
+Trac, can you confirm whether or not the Software Integrity Group finished fiscal year ‘17 with about $170 million? And with the contribution from Black Duck as you outlined in your guidance, can you give us a sense of where Software Integrity will be for fiscal year ‘18? And is there any quantifiable impact to ASC 606 implying your Q1 and fiscal year ‘18 guide?
+Trac Pham
+So let me start with your first question on SIG. The numbers you described for SIG is pretty consistent with what we had guided at the beginning of year, and yes, we did achieve the goals that we’d outlined at the start of the year.
+Second part is, we are not calling out the numbers for Software Integrity specifically for next year, but it is consistent with about 20% growth on an ongoing basis. And Black Duck separately from that as we mentioned is in the range of $55 million to $60 million of revenues for 2018. With regards to 606, we will be implementing 606 starting in fiscal ‘19, so there is no -- that is not factored into the ‘18 guidance.
+Gary Mobley
+Got you. Okay. And Aart, this is somewhat topical just given that we’ve seen or we had the RISC-V gathering – semiannual gathering this past week and so, curious to get your perspective on the impact of this open RISC-V processor IP as it relates to your ARC business and then as well does it drive a wave of, say for example, compiler EDA sales for you looking forward and is it a significant impact on that front as well?
+Aart de Geus
+Well, RISC-V is sort of in its beginnings, but it is also one processor among many being built right now. This is aimed, I think, at being more a general purpose processor and maybe of high interest to some parties. But many people are focusing right now on the development of AI-specific processors, and so from our perspective as EDA and IP provider, it’s a little bit like the more the merrier, because we can support many people doing designs, and we expect many processes to be optimized specifically for the applications, because the hunger for more speed will be so high that just going to smaller geometries will not be sufficient, and therefore, people will say, “Hey, if I can build processors that are narrower and just aimed at some application and can make them faster,” and we’re seeing really a plethora of companies investing in them.
+Gary Mobley
+Thank you, guys. Appreciate it.
+Aart de Geus
+You’re welcome.
+Operator
+Next on the line we have Rich Valera, Needham & Company. Please go ahead, sir.
+Rich Valera
+Thank you. Aart, you mentioned in your prepared remarks that the business got stronger as the year went on, sounds like kind of maybe each quarter got stronger. I am wondering how much of that you would attribute to just general macro strength, just kind of global economy improving versus some underlying kind of secular trends going on in the -- that are affecting the EDA industry whether it’s new areas as you mentioned all of the sort of smart areas, but do you think there are some things going on that are actually expanding the TAM of the traditional EDA market that are helping the business grow or do you mainly attribute it to just better macro?
+Aart de Geus
+Well, I think, the answer is yes, yes, yes, because there is no question that the overall global economy has done well, mostly because all regions are reasonably solid and so having those in unison tends to help things.
+Secondly, there is no question that semiconductor has had a very, very strong year. And in all fairness, this is after a few years of not being particularly strong and so these things tend to go up and down but up feels better than down, no question about that.
+And then, lastly, and I think that that is actually the factor that will matter most in the long-term is that, this move into this next wave of electronics enabling a very notion that was [indiscernible] in the ‘90s of artificial intelligence and outcomes under a set of other names, big data, machine learning, digital intelligence, I’d like to call it Smart Everything, that will drive a very broad consumption of semiconductors, because the amounts of data generated by IoTs and various forms of sensors are growing by leaps and bounds, and just think of any camera as being really billions of pixels being generated.
+Secondly, this data needs to be manipulated through machine learning, which is extremely compute in terms, and then the machine learning it in terms gets interpreted in the utilization, let’s say inside of a car for example.
+And then on top of that, you need to add one more aspect, which is security. And security, there is a very, very big component to that in the software part of our business, but it also will impact hardware as a variety of security modules will get added. So, I think, that semiconductor is at -- really at the heart of enabling a whole new wave of impact and therefore would stay reasonably healthy just on that basis only.
+Rich Valera
+Great. Thank you for that. And I have a couple of questions on Black Duck, can you say roughly what that was growing and if you think you can perhaps accelerate that growth rate, and also, Trac, I am not sure, if you’re willing to share, how much revenue you expect to lose from the deferred revenue purchase accounting? Thanks.
+Aart de Geus
+Well, Trac, can comment on some of the financials normally, we don’t give out specific growth rates on the acquisitions. And frankly, our first job is to always make sure that the company really lands well and that we can quickly look at what are the upsides for them with Synopsys or for Synopsys with them, that goes in both directions.
+Having said that though, I think, what is exciting about Black Duck is that, they are really have grown up and have impact to the whole aspect of software refer to as Open Source. And one of the biggest productivity increases and this is true on chips with IP, I think, it is true on software by virtue of our use of software and Open Source software is, of course, the fact that you can use software for many sources and assemble it quickly.
+There are quite a number of lurking dangers in that and there is a large catalogue of known vulnerabilities, and when people integrate this Open Source code material and they don’t pay attention to at least the vulnerabilities that already known, I think that’s closely delinquent when thinking about building secured software. And so it’s just a natural for us as an extension of our focus on quality and security of software.
+Trac Pham
+Rich, the guidance for our revenue for Black Duck is about $55 million to $60 million for 2018 and then deferred haircut is about $25 million to $30 million. As for Aart described the market SIG, we’re expecting -- Software Integrity we’re expecting to grow in the 20% range and Black Duck is being doing very well -- as very well and then there -- the market demand and the secular trends in that space would drive growth similarly in that range.
+Rich Valera
+Got it. That’s helpful. Thank you, gentlemen.
+Aart de Geus
+You’re welcome.
+Operator
+Next on the line we have Farhan Ahmad, Credit Suisse. Please go ahead.
+Farhan Ahmad
+Hi. Thanks for taking my question. My question is on autos, you talked about the growing opportunity in autos, in particularly as it relates to ISO 26262 and your role in the IP there. So could you just talk about how much is the exposure that you have to the auto market and what is your opportunity in both EDA and IP?
+Aart de Geus
+It’s actually a quite difficult question, because we touch many, many companies that are in the automotive space and we ourselves find it a bit challenging to know exactly what is in the automotive part and what is in the regularly semiconductor deliveries.
+Having said that though, the reason I like to highlight automotive is because it is such a poster child for what big changes are happening in an industry that traditionally was very slow in the adoption of any super advanced technology and so many semiconductor technology.
+I highlighted specifically the fact that we had invested substantially in automotive certified IP in FinFET 16, because three years ago nobody in their right mind would have ever associated the word FinFET in automotive and today all of the big providers in that value chain are focusing on that, because they need more computation inside of the car.
+And so the investments that we’ve made are not only to provide the tools that are suited for designing and modeling what goes into a car, but as you mentioned that also fulfill the existing standards that initially were all built up really for safety and only now are gradually being evolved towards security and those are words that we can certainly deal with very well. So I think we’re well-equipped to be a good provider in that value chain.
+Farhan Ahmad
+Got it. And then the second question is on the Software Integrity side. I mean, once you integrate Black Duck, the total Software Integrity portion of the business will be larger than 10%. Do you think at some point you will start giving us disclosures separately for the Software Integrity business?
+Trac Pham
+Well, that’s a very good question. That’s something we will actively consider as we progress throughout the year. Our focus in the near-term clearly is to increase that business and make sure that we can drive the growth that we’ve got planned for the year. But as we progress, we will look very closely at that amount of disclosure we want to provide balancing between keeping the information, avoiding competitive issues, as well as on the flipside making sure that investors get enough insights on the business to evaluate the opportunity.
+Farhan Ahmad
+Got it. And just one last question on the market share, you are growing significantly higher than some of your industry peers this year. Some of the strength obviously throughout the year, you’ve talked about hardware has been a big portion of the growth, but when you look at your throughout the product portfolio on the core EDA and manufacturing, what are some of the areas that you’re gaining market share in this year?
+Aart de Geus
+Well, I am always careful answering questions like that, because often the claims get out of hand quickly. We have extremely competent competitors like Cadence and Mentor, of course, are the largest ones. In some areas, Cadence has been growing a bit faster in digital design. We have been growing faster in verification. Things ebb and flow and go back and forth.
+But in aggregate as an industry, we’re quite competitive, because we have to constantly develop technology that’s at the leading edge. And so, I think, I have nothing negative to say about any of the other companies, we are all striving to be a good providers in a market that right now is doing very well and so we’ve had the benefits of making a number of investments over the years that are paying off particularly well right now.
+Farhan Ahmad
+Thank you. That’s all I had.
+Aart de Geus
+You’re welcome.
+Operator
+And next on the line we have Sterling Auty with JPMorgan. Go ahead, sir.
+Jackson Ader
+Great. Thank you. Hey, guys. This is Jackson Ader on for Sterling tonight. One question from our side, it looks like the time-based licenses had a pretty significant spike up and you mentioned the -- Trac, the $30 million in revenue from a hardware shipment that was pulled forward into the quarter. Does that explain -- I don’t think that that would necessarily explain all the shifts in time-based licenses, so we’re just trying to triangulate the two?
+Trac Pham
+Jackson, actually, it doesn’t drive -- the hardware would not drive the time-based products. And keep in mind that we do look at that over time and it could vary from quarter-to-quarter depending on the nature of the contracts. Royalties can also fall into that that as well. So, there is really no issues within the core and that’s not related to hardware at all.
+Jackson Ader
+Okay. So what was it then that drove the sequential increase?
+Trac Pham
+Overall, the business was very strong. I mean you look at the growth across the geographies, the crisscross different products, even to the cost the number of top customers we had very solid growth, so there’s any number of things that can drive it. We did end the year on a very strong -- with very strong run rate growth so the business is very healthy.
+Jackson Ader
+Okay. And then one quick follow-up, the expected 2018 revenue that is expected to come from the backlog dipped down to 75%. Is that mostly because of Black Duck or is there something else we should be reading into?
+Trac Pham
+No. It’s really a function of hardware, as hardware gets to be a larger part of our business, it changes that mix a little bit. Excluding hardware, we’re running generally in the same percentage as we have historically. So there’s no -- there’s been no change to the business model with that regard.
+Jackson Ader
+Okay. All right. Thank you.
+Aart de Geus
+You’re welcome.
+Operator
+And next on the line we have Jay Vleeschhouwer, Griffin Securities. Your line is open.
+Jay Vleeschhouwer
+Thank you. Good evening. Aart, with respect to the strengthening of the business over the course of the year, would you say that that was correlated more or less in real time to the positive inflection that we’ve been seeing for the last three quarters or four quarters in semiconductor R&D spending, that’s your principal source of revenue and it’s clearly been trending higher for the industry over the last number of quarters and perhaps that’s what you saw over the course of the year in real-time in terms of unscheduled business for software or IP as you -- or as you pointed out accelerated hardware or might there still be a lagging effect from semi-R&D that we have begin to see now more in 2018?
+Aart de Geus
+Well, a little bit everything you said is true, meaning that, there’s no question that when your customers do really well, they are a little less hesitant in spending money and semiconductors have been doing extremely well and I expected right now to continue for a bit.
+At the same time, the -- our solution in the verification space, the overall verification platform, which includes the emulation and the FPGA prototyping boards has done very, very well. And this is not completely a surprise, but somewhat difficult to predict in timing, because it follows what we have said, which is the center of gravity between hardware and software is going to increase in importance. With more complex software, people want to run the software before they have the hardware and therefore they model the hardware and that’s the basis that we’re in.
+The third aspect I would mention is that, our IP business has been very strong and that is definitely partially the result of continued investment in the most advanced nodes, which is difficult IP to do. And as you probably know the advanced nodes keep rolling out at a rapid pace, because the providers are very competitive with each other.
+And last but not least, the Software Integrity platform, so far I think is living up to our open expectations to be good pillar for the company that is on one hand completely adjacent to what we already do both in terms of technology and complexity and in many cases in embedded situations.
+On the other hand, it’s clearly a fresh TAM for us as we were talking to customers that in the past we would never have dreamed of interacting with. Jokingly, I sometimes say, we now have customers from Samsung to Starbucks, in fact is it’s actually true and so that is a very big opportunity space.
+Jay Vleeschhouwer
+When you think about the Black Duck acquisition, can you talk about how you are thinking about integrating it in terms of technology with the other parts of the SIG portfolio and/or perhaps your thoughts on integrating the software integrity portfolio in any case with let’s say your hardware-based prototyping to expand your overall concept of verification, system verification and so forth?
+Aart de Geus
+This makes for a very long discussion, because we have -- we are now very, very rich in technologies in this domain. And this is a domain that has been extremely fractured in the past, and we’re already starting to get I would say very strong positive feedback from the number of CIOs or people that are responsible for the security of software that being able to interact with a company that has longevity and some mass, gives them a better feeling of security that we’re going to be around.
+That’s just another way of saying, there is a lot of work ahead and we are continually integrating capabilities. But it is after we really understand them well and so an integration is really a two-year to three-year process at many different levels.
+Having said that, Black Duck resonates very well with many of our customers and they understand immediately that doing some automatic checks on software that comes in from variety of not always understood sources is a good defense mechanism that they need and so, I think, that we will be well-equipped together with them to drive this area forward.
+Jay Vleeschhouwer
+All right. Lastly, for Trac, with respect to the $30 million of accelerated hardware revenue into Q4, could you comment on the relative contribution from either ZeBu or HAPS in there, I mean, was it more one than the other. And then, similarly, it looks like you also had some quite good upside in the IP business, was that more from services than IP product?
+Trac Pham
+Okay. So let’s start with the first one which is easy. We won’t give more detail on the hardware. We’ll leave it at hardware for now. But we continue -- for the year we actually did very well on both HAPS and emulation. So, as I said, it was very broadly -- the business was broadly strong. As far IP, it was with a combination of services and products.
+Jay Vleeschhouwer
+Right. Thank you.
+Aart de Geus
+You’re welcome.
+Operator
+Next on the line we have Monika Garg with KeyBanc Pacific Crest. Please go ahead.
+Monika Garg
+Hi. Thanks for taking my question. First question is, if I take out the $40 million revenue of extra week and $55 million from Black Duck, it seems you are guiding to organic growth without those two components to about like 3% to 4%, in spite of the fact that you just talked 20% growth at your software security business. So, why such a low growth if I take out these extra two stuff in -- from 2018 guidance?
+Trac Pham
+Well, actually -- we actually did the full normalization taking into account the fact that we had $30 million that was planned for ‘18, that shifted to Q4. We do the math that you just did on Black Duck -- and Black Duck. We’ve got mid single-digit growth on revenues and we are actually growing earnings per share on a high single-digit basis.
+So I think as we continue to describe we’re really running this business over a multiyear period. And in this particular quarter, you’re getting a very high sense of that, because in one month you’re seeing a very significant shift in revenues. And so, it’s best to look at our business on a multiyear basis and if you go back and look at the charts for revenue growth and earnings growth, we’ve done a pretty good job executing against that.
+Monika Garg
+All right. So if I look at the M&A on the software security side last three years, four years you have done, you’ve spent almost $1.2 billion. Could you walk through how you look at the ROI from these investments, what are the free cash flow metrics you’re looking to generate over the next three years, four years? Thank you.
+Aart de Geus
+Well, for starters, we always start to look at this via a multiyear perspective, because acquisitions like that, they take some time to integrate, they have haircuts, they have a number of complexities on the financial side that that need to be understood on a longer term perspective.
+We have actually a fairly well-honed process of trying to understand the value of the acquisition based on the cash flow that comes out of it over many years. We don’t disclose the exact metrics, but we have a fairly good discipline for that.
+We review this for many years after the acquisition with our Board, always with some up and some down surprises, which is another word of saying, it’s always difficult to exactly predict. But in aggregate, it has been part of how we continue to create value for the company and in that context Black Duck is not an exception.
+Our own sense is that this is a particularly valuable acquisition, because of the strategic position it fills technically in the portfolio, but also because of the very acute value it can create by reducing the risk profile for customers. So, that is the process that we follow. Nothing is perfect and I am sure we can always do better, but we do have a long-term experience that has worked out pretty well for us.
+Monika Garg
+All right. Just last one on the software security side again, most of the customers are software security are still in financials industry software, so maybe talk more about your sales strategy especially given the Black Duck acquisitions. Would you need to ramp sales and marketing more or would you look to develop channel for this segment?
+Aart de Geus
+Well, this is an excellent question, because there are so many opportunities and your commentary is partially correct in that when we did the Cigital acquisition. Cigital was particularly focused on the financial sector. At the same time, my mentioning earlier of the automotive sector was interesting, because those people are just as interested in the issues of security and software as anything else.
+The other areas that are also highly paranoid about what can happen medical is a good example and you’ve seen some really horrific acts happening there. And so, I think, over time, no area, no verdict vertical is immune to the damages that can be done by essentially leaving the software doors wide open for hackers. And so this is going to become more and more a must do everywhere.
+But clearly, the sectors that are most sensitive also the ones that have been most attacked. And the financial sector, it quickly goes to the bottomline, because the attack means trying to steal money and that brings a very rapid reaction.
+So we are prudent in investing in verticals, because each vertical requires skills, it requires understanding the vocabularies and it requires understanding who to interact with. But I think our opportunity space will continue to grow and with is this part of our company broadening, we will put some more effort in understanding what are the best channels to do that, but so far I think we’ve been executing reasonably well.
+Monika Garg
+Thank you so much.
+Aart de Geus
+You’re welcome.
+Operator
+[Operator Instructions] And here comes our next question from the line of Mitch Steves with RBC Capital Markets.
+Mitch Steves
+I just had two, one for Aart and one for Trac. So, sorry, I will start with Aart, from a high level perspective, I believe the Black Duck have talked publicly about kind of $5.6 billion TAM and you guys have talked about a $2.4 or so billion TAM in the original acquisition. So can you give us a broad update on that? And then, secondly, is this kind of the last transaction you need to get all the four capabilities in the top side of the business?
+Aart de Geus
+Well, let me go backwards. We continue, of course, to always look at opportunities, at the same time, it’s also important to make sure that we executed well on the integration of the acquisitions that we’ve done so far. And while we have a number of teams that are extremely skilled at this, every case is different and so they take some time. And what is also interesting is that as we bring new members to our team, they bring fresh perspective, I like to call it fresh DNA that allows us to shop and how we think about the field.
+To be honest on your TAM question, I sort of read the same reports that most people do and I am equally skeptical if the number reflects any reality, because when you have a very rapidly developing market where there are many, many different, very fractured companies, that typically indicates that there’s a high need and that the need is still not satisfied or still in development and those are actually all positive words, because that’s just coming opportunity, but it also says that adding up whatever these companies have been able to do and then extrapolating this mostly spreadsheet effort.
+And I don’t want to be negative when people are trying to forecast it, because it is important, of course, but from our perspective, right now, the size of the TAM is the least of our issues. I think we have open space to run with and our challenge is how quickly can we execute on this, not are there more customers to call on, there are many more.
+Mitch Steves
+Got it. And it’s actually for, Trac, the financial question so, a small one is the Coverity and Cigital piece combined still tracking to kind of that combined business excluding Black Duck being profit on the back half? And then, secondly, is there any sort of way to track the health of the business besides kind of the quarterly update calls we get from you guys?
+Trac Pham
+Yes. The numbers for that we had discussed for the Software Integrity business was tracking to both revenue and profitability for this year. And then as far as the getting more update on the Software Integrity business and progress there, I think, we’ll start with the quarterly calls, that’s a good start and then throughout this year, as I said earlier, we’ll evaluate how best to provide more insights to the analysts, as well as our investors on that business.
+Mitch Steves
+Got it. Thank you. Great quarter.
+Trac Pham
+Thank you.
+Aart de Geus
+Thank you.
+Operator
+There are no additional questions in queue. Please go ahead.
+Aart de Geus
+So at this point in time, first a big thank you for having reported on us and supporting us during the year. Fiscal ‘17 turned out to be a very good year, not only from results point of view, but to most importantly from the perspective of preparing us for the next few years. And by now it already feels a little old and so we are fully proceeding on like on 2018 and hope to talk to you soon. As usual, we’ll be available for individual calls in a few minutes. Thank you very much.
+Operator
+Ladies and gentlemen, that does conclude our conference for today. We do thank you for your participation and for using AT&T. You may now all disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

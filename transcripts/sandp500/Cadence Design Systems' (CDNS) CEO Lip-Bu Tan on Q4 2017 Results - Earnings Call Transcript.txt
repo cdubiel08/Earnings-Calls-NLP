@@ -1,0 +1,251 @@
+Cadence Design Systems, Inc. (NASDAQ:CDNS) Q4 2017 Earnings Conference Call January 31, 2018  5:00 PM ET
+Executives
+Alan Lindstrom - Senior Group Director of Investor Relations
+Lip-Bu Tan - Chief Executive Officer
+John Wall - Senior Vice President and Chief Financial Officer
+Analysts
+Gary Mobley - Benchmark
+Jay Vleeschhouwer - Griffin Securities
+Monika Garg - KeyBanc
+Mitch Steves - RBC Capital Markets
+Farhan Ahmad - Credit Suisse
+Rich Valera - Needham & Co.
+Tom Diffely - DA Davidson
+Operator
+Good afternoon, my name is Jessy, and I’ll be your conference operator today. At this time, I like to welcome everyone to the Cadence Design Systems Fourth Quarter 2017 Earnings Conference Call. [Operator Instructions] Thank you.
+I will now turn the call over to Alan Lindstrom, Senior Group Director of Investor Relations for Cadence Design Systems. Please go ahead.
+Alan Lindstrom
+Thank you, Jessy, and I’d like welcome, everyone, to our fourth quarter 2017 earnings conference call. I am joined by Lip-Bu Tan, CEO; and John Wall, Senior Vice President and CFO.
+The webcast of this call is available through our website, cadence.com, and will be archived through March 16, 2018. A copy of today's prepared remarks will also be available on our website at the conclusion of today's call.
+Please note that today's discussion will contain forward-looking statements and that actual results may differ materially from those expectations. For information on the factors that could cause a difference in our results, please refer to our filings with the Securities and Exchange Commission. These include Cadence's most recent reports on Form 10-K and Form 10-Q, including the company's future filings, and the cautionary comments regarding forward-looking statements in the earnings press release we issued today.
+In addition to financial results prepared in accordance with Generally Accepted Accounting Principles, or GAAP, we will also present certain non-GAAP financial measures today. Cadence management believes that in addition to using GAAP results in evaluating our business, it can also be useful to review results using certain non-GAAP financial measures. Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with their most direct comparable GAAP financial results.
+The reconciliations are available at the Investor Relations section of cadence.com. Copies of today’s press release dated January 31, 2018 for the quarter ended December 30, 2017, related financial tables and the CFO commentary are also available on our website.
+And now I’ll turn the call over to Lip-Bu.
+Lip-Bu Tan
+Good afternoon, everyone, and thank you for joining us today. Through the execution of our System Design Enablement Strategy and delivery of our innovative solutions, Cadence delivered strong performance for our shareholders. John will go through our results in a few minutes.
+The transition to the Data-Driven Economy, based on the creation, storage, transmission, and analysis of data, is transforming virtually every industry and driving strong demand for semiconductors. It is being propelled by key technology waves including: mobile, cloud/datacenter, edge computing, and automotive. And machine learning is further transforming all of them. We are well positioned for growth and value creation as we provide the solutions that fuel these technology waves. 
+Let me begin by highlighting our progress and successes during the year for several key vertical markets, starting with Cloud/Datacenter. High speed SERDES technology is essential for next generation hyperscale data centers. In Q4, we acquired nusemi, which is developing ultra-high-speed connectivity solutions and we are thrilled to have a very talented team on board.
+The trend of system houses building their own silicon continues with the chip design group at premier hyperscale web service provider adopting our software and hardware solutions for 7-nanometer designs. As we reported in Q3, we are collaborating with Xilinx, ARM, and TSMC to build the industry’s first test chip for Cache-Coherent Interconnect for Accelerators, or “C-6”, incorporating Cadence IP and using Cadence tools on the TSMC 7-nanometer FinFET process.
+2017 was a year of rapid advancements for Automotive. We made steady progress with our EDA, IP and Services solutions for this market. In Q4, we entered into a strategic relationship with a market-shaping auto maker that will include software, hardware, IP and services. Earlier in the year, we signed a large design IP deal with a major customer in the automotive semiconductor sector. We had several key wins for our Safety, Test and Reliability EDA solutions. 
+Our IP business had great traction. Tensilica is now in two of the top three, and Design IP is in four of the top five, automotive semiconductor companies. The third vertical that I want to highlight is Aerospace and Defense. We have successfully built on our initial engagements with customers like GE Aviation and Northrop Grumman to further our footprint with both defense contractors and governmental agencies.
+During the year, we strengthened our existing relationships and won new customers for software, hardware and services. System Design Enablement also requires expanding our investments and partnerships to provide increasingly integrated system solutions for mutual customers. There is strong interest in our PSpice-Mathworks integrated solution, which bridges the system-level design and chip-board implementation domains.
+Early adopters include customers in the automotive, aerospace & defense, and medical segments. In Q4, we acquired SFM Technology, an innovative company that accelerates advanced ECADMCAD library creation and is an important step towards expanding our System Design Enablement strategy into mechatronics. It was another strong year for innovation, which is the heart of our success. We introduced eight new products in 2017 and we have now introduced more than 20 significant products in the last three years.
+Now, I will move on to product highlights for both Q4 and 2017. Digital and signoff revenue grew 10% for the year, driven by increasing proliferation with market-shaping customers and broadening adoption by other semi and system customers. Broadcom continued to increase its investments in our digital platform, which proliferated throughout many advanced node projects.
+During the year, a global marquee company, and a key IP partner, expanded and deepened their investments in Cadence Technology, including our digital solutions. More than 100 customers have now deployed our digital and signoff products for advanced node designs. About 40 customers are using Cadence at the 7-nanometer node, and have taped out over 30 designs. Demonstrating the strength across our product line, we had 20 full flow wins for the year.
+IP revenue grew 18% for the year as the outsourcing trend continues and our refined strategy drove strong results. We booked by far our largest ever design IP contract. The agreement includes a broad array of our design IP, including DDR controllers and PCI Express. Tensilica had a strong quarter with increased royalties. Tensilica’s leadership in audio is leading to key wins in the smart speakers’ market, while adoption grows for our DSPs that are tuned for vision and neural networks.
+Momentum continued to build for the new software products in our Verification Suite, but overall revenue was down 5% for the year due to hardware. In Q4, Xcelium, our new parallel logic simulator, added more than 25 new customers. More than 90 customers have adopted Xcelium since its launch in February 2017. True to the lumpy nature of the hardware business, after a slow start to the year, Palladium and Protium ramped up in Q4 and we finished the year with a significant backlog of orders.
+For the year, we added 20 new Palladium Z1 customers, 10 of those in Q4. Sales of the new Protium S1 FPGA-Based Prototyping System was strong as we added 15 new customers and had nine repeat orders. Jasper proliferation continued to accelerate. Nine of the top 10 semiconductor companies now use our formal verification solution, and we doubled the number of new customers in 2017.
+For our custom and analog design solutions, newer market trends along with increasing design complexity drove strong demand for both our advanced node custom design and simulation solutions, leading to revenue growth of 11% for the year. Two of the top three memory companies have now adopted our Spectre XPS fast-spice simulator and characterization solutions.
+System interconnect and analysis solutions grew 8% for the year, with growth across PCB implementation, IC packaging, and Sigrity power integrity analysis. Newly launched Virtuoso Design System Platform and Allegro DesignTrue DFM products have been very well received. Our power integrity solution was the key driver for our strong Sigrity results, with interest across multiple verticals.
+Now let me quickly summarize my comments. Consistent execution and broad-based proliferation and adoption of our solutions drove excellent financial results for the fourth quarter and for our full fiscal year. Cadence, along with the semiconductor and EDA space, is benefitting from a number of technology waves centered on machine learning.
+The adoption of our digital signoff solutions by market-shaping customers is broadening our reach and customer base. Our refined IP strategy led to strong mid-teens growth. We are excited about the acquisition of nusemi, which we expect to add next-generation high-speed SerDes, for modern cloud/datacenter applications.
+Momentum has continued for our custom and analog solutions as both large and small customers have been adding capacity. We are proud of what we accomplished in 2017 and excited about the opportunities ahead for 2018. 
+With that, I will turn the call over to John, to review our financial results and provide our outlook.
+John Wall 
+Thanks Lip-Bu. Good afternoon everyone. I’m very pleased to say that we met or exceeded our key operating metrics and delivered strong financial results for both the fourth quarter and fiscal year 2017. First, I will go through the key results starting with the P&L. Total revenue was $502 million for Q4, up 7% over the prior year period. For the year, revenue was $1.943 billion, also up 7% year-over-year.
+Non-GAAP operating margin was 30% for Q4 and 27.5% for 2017. On a GAAP basis, Cadence reported net income of $0.73 per share for fiscal 2017, and a net loss of $0.05 per share for Q4. These GAAP results reflect a total one-time charge of $92 million, or $0.33 per share, on a provisional basis for U.S. tax reform, of which $67 million, or $0.24 per share, was for the mandatory repatriation tax, and $25 million, or $0.09 per share, was for the revaluation of our net deferred tax asset, resulting from the U.S. corporate tax rate reduction.
+Please note that these provisional amounts may change as Cadence continues to evaluate the impact of the Tax Act. Non-GAAP net income per share was $1.40 for the year, up 16% over 2016, and $0.39 for Q4, up 15% year-over-year.
+Now turning to the balance sheet and cash flow. Cash and short-term investments were $693 million at year-end, of which 80% was outside of the U.S. We had $735 million of debt outstanding at quarter-end, which includes $85 million that we drew down from our revolving credit facility during the quarter. Operating cash flow was $127 million for Q4 and $471 million for 2017.
+During Q4, we used $143 million for acquisitions and repurchased $50 million of Cadence shares. DSOs were 36 days. Before I present the outlook for Q1 and fiscal 2018, I’d like to talk a little about the impact of U.S. Tax Reform and our transition to new revenue rules. First, the impact of US tax reform. It has only been 40 days since the U.S. Tax Cuts and Jobs Act was signed into law.
+We’ve done a lot of work and we have a lot more to do, but as of today here is what I can tell you about its impact on Cadence. Based on our analysis of the act, our non-GAAP tax rate will fall from 23% to 16% for 2018. As mentioned earlier, in Q4 we recorded a $67 million charge for the mandatory repatriation tax, and $25 million for the revaluation of our net deferred tax asset, resulting from the U.S. corporate tax rate reduction.
+We do not expect a meaningful impact on cash used for taxes in 2018. We expect to repatriate international cash, but given the logistics involved, we are still determining the timing and amount of repatriation. In the first half of this year, we plan to review our overall tax position in light of the new tax act. As of now, that’s about as much as we can say about the impact of the new tax act, but we are continuing to work on it and we plan to provide further information in our Form 10-K when it is filed in a couple of weeks.
+Now, I will discuss the changing revenue rules. Cadence has adopted the new revenue accounting standard known as ASC Topic 606 for fiscal 2018. For ease of communication, over the course of the next few minutes, I plan to refer to the new revenue accounting standard simply as ‘the new revenue rules’ or ‘the new rules’ to contrast it with the former standard, ASC Topic 605, which I will refer to as ‘the old revenue rules’ or ‘the old rules’.
+The first thing to mention about our transition to the new revenue rules is there will be no impact to our cash flows, or to how we operate our business. The impact on our expense line is minimal, and the portion of our revenue recognized over time will remain approximately 90% under the new revenue rules, just as it was under the old revenue rules. However, there is a difference in our revenue guidance for 2018 under the old and new revenue rules, and I’ll explain now why this difference exists.
+In the recast process on transition to the new revenue rules, some of our contracts that had upfront revenue recognition under the old rules shift to recognition over time, and some contracts that were recognized over time become upfront. Cadence is using the modified retrospective transition method to adopt the new revenue rules. o Under this transition method, only a subset of orders are recast and recognized as revenue under the new revenue rules, specifically, those orders that were in our backlog at the end of 2017.
+During this recast process, we expect to take approximately 3% of our backlog that would have primarily been recorded as revenue over the next two years under the old revenue rules, and include it immediately as an adjustment to our opening retained earnings on the balance sheet for 2018. As a result, we estimate that our revenue under the new rules in 2018 will be approximately 2% lower than it would have been under the old rules.
+We expect the difference between revenue under the new rules and old rules to gradually decline over time and be de minimis within two years. Guidance for the year will be provided under both the new and old rules, while quarterly guidance will only be provided on the basis of the new rules. We will report revenue under both sets of rules for every quarter in 2018.
+Now, I will provide our guidance. For fiscal 2018, we expect revenue in the range of $2.015 billion to $2.055 billion under the new revenue rules. That range would be $2.055 billion to $2.095 billion under the old rules, or growth of approximately 7%. We expect non-GAAP operating margin of approximately 27%, under the new rules. Adjusting for the difference in revenue, this implies a non-GAAP operating margin of 28.4% under the old rules. We expect GAAP EPS in the range of $0.80 to $0.90, which would be $0.93 to $1.03 under the old rules.
+Non-GAAP EPS of $1.50 to $1.60, which would be $1.62 to $1.72 under the old rules. We further expect operating cash flow to be in the range of $480 million to $530 million, and we expect to repurchase Cadence common stock at the rate of $50 million per quarter during 2018. 
+For Q1, our guidance based on the new revenue rules is as follows: Revenue in the range of $500 million to $510 million. Non-GAAP operating margin of approximately 26%. GAAP EPS in the range of $0.20 to $0.22. And non-GAAP EPS in the range of $0.36 to $0.38. We expect our DSOs for Q1 to be approximately 40 days. You will find guidance for additional items in the CFO commentary available on our website.
+I want to leave you with the following points: Cadence had a strong finish to 2017 and we’re excited about our prospects for 2018. We will continue to improve our operating profitability in 2018. Our guidance implies an operating margin of 28.4% for 2018 under the old rules, which is up from the 27.5% we achieved in 2017, and I’m delighted to finish 2017 with 7% revenue growth for Q4, 7% revenue growth for 2017, and a projection for 7% revenue growth for 2018, on an apples-to-apples basis under the old revenue rules.
+And with that operator, we’ll now take questions.
+Question-and-Answer Session 
+Operator
+[Operator Instructions] Your first question comes from Gary Mobley with Benchmark. Your line is open.
+Gary Mobley
+Hi guys. Thanks for taking my question. Congrats on a strong finish to the year. Wanted to start with a question about contribution from the nusemi acquisition you mentioned, you paid about $142 million for the acquisition, just given market multiples I’m assuming maybe nusemi was operating with about $25 million in annual revenue and may be adding about 100 basis points to your fiscal year 2018 outlook, am I doing that and analysis correctly?
+John Wall
+I don't think so Gary, but you are right in terms of we used $143 million of cash for acquisitions in Q4. We're not disclosing any more details at this time, but we don’t expect those acquisitions to become accretive until 2019.
+Gary Mobley
+Okay. So, because the purchase accounting is not falling to the income statement in 2018.
+John Wall
+Any impact on 2018 is included in our guidance. I will provide more information in our Form 10-K when we file in a couple of weeks.
+Gary Mobley
+Okay. Alright. Did you mentioned that the emulation backlog increased year-over-year despite having a down year for emulation in 2017?
+Lip-Bu Tan
+Yes, I mentioned earlier, this is a lumpy business and we have a slow start in the first three quarter, but we have a strong finish and we’re very excited that we have a significant backlog of orders going to 2018.
+Gary Mobley
+Okay, alright. I just have one follow-up question on this ASC 606 issue. I’m assuming you are going to start recognizing emulation revenue more ratably versus upfront and - correct me if I'm wrong, if that’s not the component that’s moving up front, but…
+John Wall
+No. Sorry Gary that’s not the case. We have a slight difference, some of our revenue goes from upfront over time and that’s mainly software perpetual revenue that’s a small portion of our business, and the piece that’s mainly moving from previously ratable to upfront is some of our IP business. Hardware, we recognized upfront and that’s partly why it has been inherently a lumpy business for us.
+Gary Mobley
+Okay. Help me understand how this bounces out over time the difference between ASC 606 and 605, is it just a way you’re booking the revenue as we annualize this issue?
+John Wall
+Sure. Like we said in the prepared remarks, during the recast process we expect to take approximately 3% of our backlog that would have primarily been recorded as revenue over the next two years under the old rules and then included immediately as an adjustment to our opening retained earnings. Now, about a third of that we never get back that about 2% of that backlog becomes a timing difference, and then we will gradually grow that revenue over time layer over the next two years such that ASC 606 and 605 revenue would be the same.
+We believe if you take the difference in our guidance there is about 40 million difference between in revenue in 2018 between both sets of revenue rules that’s around 60% of the total reference. We expect the difference in revenue under the new rules and old rules to gradually decline over time and be essentially de minimus within two years.
+Gary Mobley
+Okay.
+Lip-Bu Tan
+And Gary just to go back to the first question, that the nusemi acquisition plus SFM Technology acquisition, so we did two acquisitions that we used 143 million cash.
+Gary Mobley
+Okay, that’s helpful. Alright. I’ll let others ask questions. Thank you, guys.
+John Wall
+Thank you.
+Operator
+Your next question comes from Jay Vleeschhouwer with Griffin Securities. Your line is open.
+Jay Vleeschhouwer
+Thanks, good evening. Lip-Bu let start with you on an EDA market question, to what extent are do you seeing that the frequency of intro contract new or expansion business is perhaps increasing reflecting the positive reflection that we’ve been seeing in semi R&D? In other words, customers are coming back for additional business notwithstanding that they may not actually be up for renewal, are you seeing more of that kind of walk-in business for any part of the business?
+Lip-Bu Tan
+Yes. So, good question, and as you recall, and we are very disciplined in terms of our agreement with our customers. We have just averaged 2.5, 2.6 year durations and that is a contract we had in place, but from time-to-time we also have customer come back to us and to add on some of this recorded add-on business that is not part of the agreement because some are the new product and new technology will come out in the new advanced nodes and those are - we keep track of that very carefully because that is where you show the growth for the future. 
+And we are very excited that our, you know this add-on business is coming strong and that indication of strong growth and what I described earlier, this data driven economics, some of the three of the vertical market we are focusing on, and the system company, you know they are building their own silicon team to differentiate their products. And also, the demand for the advanced nodes and more complicated design they come to us, and we are really excited about it.
+Jay Vleeschhouwer
+Okay, I have just two more questions, I’ll ask them at the same time. For John, on the last conference call, a quarter ago, we talked a bit about customer concentration and you mentioned that you have no customers at more than a single digit percentage of revenue. The question is, is there some upward trend however for any customers beyond that, in other words that was a snapshot, but have you seen any customers in fact increasing from perhaps low single-digit to mid-single digit on their way to high single digit perhaps, just as for example in the case of Synopsys, Intel has grown from 10% or 11% of their business to 16%, 17% of Synopsis, is there some similar trend for any customers in your case? And then just to wrap up on the product side for Lip-Bu, you mentioned some of the early momentum for Protium. My question is, how do you see the addressable market developing for FPGA prototyping, it’s much smaller to date than emulation as best we can tell, it’s less than $100 million category, predominated thus far by Synopsys, do you foresee perhaps that category growing several-fold eventually the way emulation has over the last decade and thus make it worthwhile for you to be in that market?
+Lip-Bu Tan
+So, I think in that Jay, I think you have two questions. So, let me address the first one first in terms of customer concentration topics. First of all, I think we have a very broad portfolio. We also have a very, I call it, longtail analog and industrial usage and are very stable and a good business for us. And in the meanwhile, we also have this newly developed digital flow that we have a lot of proliferations and with different accounts. And the good news is that we have - all the customer - most of the customers are growing and we are delighted, and to support them, but we are continuing to have that in our - not more than one customer, they have 6% of our business. So, it’s a very broad growing in the diversify that’s something that we like. And meanwhile, we love the customer continue to go grow and buy more of our products.
+And in terms of your second question about the Protium, and as you recall, we have the hardware emulation product and that is still the best in the emulation business and we continue to grow well as you can - mentioned earlier in Q4 we have a strong finish. We have a strong backlog going forward in 2018, and we also come out with this Protium and we call it S1 and that was also gaining a lot of attraction. We have 17 new customers and 11 repeat orders, and this is the, as I already pointed out is FPGA-based prototyping system and more software oriented, and that I think we are delighted, while getting a lot of traction, a lot of interest from a customer, and at the end of the day we - right now we are really focused is the whole verification suite. And that consists of Jasper, the former verification consists of - and clearly the hardware, and also, we have the simulation neutral Xcelium we are delighted after the launch, we have 90 customers adopted and then we have the hardware and now we have a protium, and so we have a complete suite going forward, many customers love that solutions.
+John Wall
+Great. Jay, I wouldn't add anymore to that. I think Lip-Bu has covered it all.
+Jay Vleeschhouwer
+Okay, thank you.
+Operator
+Your next question comes from Monika Garg with KeyBanc. Your line is open.
+Monika Garg
+Hi, thanks for taking my question. First question John, this 2018 ASC 606 is about 40 million negative impact, in 2019 is it fair to assume, you know you were saying 60% of the impact is this year that means next 2019 is probably close to somewhere 30 million to 35 million negative impact?
+John Wall
+Again, I like to say Monika that we would expect the difference between revenue under the new rules to gradually decline over time to be de minimis within two years.
+Monika Garg
+So, some in 2019 and then mostly zero?
+John Wall
+There is a very, very small difference in 2020, but it’s minimal.
+Monika Garg
+Got it. Okay, thank you. Then Lip-Bu IP grew strongly in the year, close to 17%, 18%, so and you made an acquisition also, which probably has 2018, but how to think about IP growth rate going forward? You think it could grow about low double-digit sustainability?
+Lip-Bu Tan
+Yes, so I think in - first of all, I think that Q4 we are excited. For the whole year, IP grew 18% and under the leadership of Babu, and this outsourcing trend continuing and the other part is now clearly our refined strategy is really working, and we have assigned a couple of very important key contracts in the largest design IP, and then also clearly we have Tensilica is a really very good IP that has strong loyalty growth, and that apply into the whole machine learning, deep learning and neural networks and also the audio, in the vision processing application market. So, I think overall, I think we - like what we have and meanwhile this nusemi acquisition is strategically very important to us.
+As you all know, the scale out of the data center at high-speed SerDes is essential, and for the next generation of data center and Cloud, and this is a very, very talented team and we’re very, very happy to have them join us. Then we also have this Xilinx, and ARM, TSMC using the Cadence IP and Cadence tool for the 7 nanometer, also for the data center market, that silver market.
+So, I think overall, we kind of liked our IP portfolio and IP team, and also continue to look for the right IP that are really important to our vertical market. The STE market in the automotive, in the data center, and then also the defense, and aviation industry in the market, and that’s why we are kind of going the vertical part, and that’s where the growth is going to come from, and a lot for Cadence.
+Monika Garg
+John, the non-GAAP tax rate went lower, how about cash taxes, any change to that?
+John Wall
+Cash taxes around 11% to 12%, this is what the cash tax was for 2017. You will see that detail in the Form 10-K when we file it in a couple of weeks. And I would expect it to be may be slightly lower for 2018.
+Monika Garg
+Got it. Just the last one on emulation, you know grew very strongly in 2015 and 2016, 2017 slightly lower given two very strong years, how should we think about emulation given you talk about good backlog also going forward? Thank you.
+John Wall
+Right. So, well, as Lip-Bu mentioned hardware revenue is down for the year in 2017, but as we said before hardware is inherently lumpy business, and after a slow start to the year we’re pleased with the year the year turned out and we had a good finish and exited the year with good backlog, a very good backlog of orders. I would - we are very confident in the secular trend in demand for emulation capacity that continues. Palladium Z1 is still the most advanced, has the most advanced capabilities of any emulator in the market, and our existing customers continue adding more capacity. So, we feel good about our hardware business for 2018.
+Monika Garg
+Alright. So, we should expect it to kind of have returned to a good growth going forward?
+John Wall
+Monika at 7% revenue growth on an apples-to-apples basis, I think we would expect all product groups to grow in 2018.
+Monika Garg
+Got it. Thank you.
+Operator
+Your next question comes from Mitch Steves with RBC Capital Markets. Your line is open.
+Mitch Steves
+Hi guys. Just want to clarify questions on the acquisitions. Just to be clear, so you’re essentially messaging that the acquisition that did not contribute anywhere or more than 1% to the top line for 2018?
+John Wall
+We're not disclosing any more details at this time, but we will have further information in our Form 10-K in a couple of weeks.
+Mitch Steves
+Okay. And then secondly just to make sure on the [indiscernible] here, so we should just assume a $50 million buyback every single quarter, and I’m assuming that’s in the guidance as well?
+John Wall
+Yes.
+Mitch Steves
+Okay. And then one last small one just on the margin front, was that there any impact from the accounting change in margins as well?
+John Wall
+Of course, yes. You will see in our guidance. We have given our guidance it’s - it’s on the CFO commentary that is - we are guiding 27% operating margin under the new rules and it’s - the implied guidance under the old rules will be 28.4%.
+Mitch Steves
+Right. So, I guess my next question, if the margin ahead is going to go in the ratable subscription fees and not related to the hardware business, correct?
+John Wall
+The difference is just that 40 million of revenue. There is a minimal impact on expenses.
+Mitch Steves
+Okay, perfect. Thank you very much.
+Operator
+Your next question comes from Farhan Ahmad with Credit Suisse. Your line is open.
+Farhan Ahmad
+Thanks for taking my question. My first question is regarding the nusemi acquisition you are entering the 30s design IP space, now Broadcom is a very important customer, you mentioned, highlighted it on your call, they would end up becoming your competitor literally once you enter the market, do you see any kind of conflict entering the space?
+Lip-Bu Tan
+Yes, this is a very good IP on the data center and the demand is so strong and so and with a lot of respect for Broadcom, and then meanwhile there is some opportunity for us also. And we’re only going to license the IP.
+Farhan Ahmad
+Got it. And then, can you just talk about your philosophy around this stock-based comp, it’s risen quite a bit as a percentage of your sales, it used to be like 3 to 4, now it’s about 7% to 7.5% of the sales, how should we think about stock comp going forward, and how should we think about stock dilution from employee stock grants going forward?
+John Wall
+All right Farhan, this is John. I mean stock is just one part of the overall compensation package and different companies have different mixes of the package.
+Lip-Bu Tan 
+And then from Cadence, as I mentioned, the success we have because we continue to try the innovation. For that we attract and retain the best talent we can get, and so far it’s working well.
+Farhan Ahmad
+Got it. And then one accounting question for John, I’m just trying to reconcile my model, the cash flow from operations is not going to be impacted because of the accounting change, yet the net income is going to be impacted. So, can you help me just understand like what’s the plug that’s different now that basically bridges the gap between the net income to the free cash flow? How we should think about it?
+John Wall
+So, Farhan total difference between ASC 606 and 605 results is that 40 million of revenue. That’s it, I think you need to just, if you go through your model and apply that - everything else is minimal. There is minimal impact on expenses and you’re correct. It’s just an accounting change. There is no difference to our cash from operations. There is no difference to how we go to market. There is no difference to how we bill or contract our business with customers.
+Farhan Ahmad
+Got it. And then one last question on the Spectre impact, is any of your Tensilica IP impacted by the Spectre?
+Lip-Bu Tan
+Say again your question.
+Farhan Ahmad
+So, recently there was security issues for processors. Spectre, Meltdown. I'm just curious if Tensilica core IP, if there is any impact to your processors over there?
+Lip-Bu Tan
+One thing is, you know clearly the security is quite important at this stage. And then we protect our IP and data and the system and our customers very religiously and we are committed to that. And clearly the comprehensive design and verification had to be a lot more robust and we take good care of that, and so far, not one word we are okay.
+Farhan Ahmad
+Thank you. That's all I had.
+Lip-Bu Tan
+Thank you.
+Operator
+Your next question comes from Rich Valera with Needham & Co. Your line is open.
+Rich Valera
+Thank you. Lip-Bu, I was wondering if you could give any more color around what sounds like some pretty good, I guess share gains inside of Broadcom sort of what’s driving that any more specifics in terms of the applications or technologies they are working at, geometries that are working at? And then, obviously Broadcom has made overtures towards Qualcomm. I'm just wondering how you think about that transaction if it were to happen? Could there be issues around pauses in spending or could it ultimately be, you think an opportunity presumably having lived through the prior Avago-Broadcom, maybe you have something to look back on that? Thanks.
+Lip-Bu Tan
+First of all, we have a lot of for Broadcom. It’s a very successful company run by Hock, and we are delighted. They embrace and invest into the digital platform we have in many of the advance notes projects. We are continuing to support them for their success, and in terms of the Qualcomm, Broadcom, both are very respected companies, and they are leader in their space, and I do not want to comment or speculate any of the impacts here.
+Rich Valera
+Got it. And I missed the second acquisition that I think you called out that you made in the systems space, what was that company?
+Lip-Bu Tan
+Yes. So, it's called SFM. It's innovative product, accelerate the advanced ECAD and MCAD and mechanical CAD in the library creations. And this is one of the very important step for us to expand our SDE into this mechanic tronics area. This is kind of part of a very important piece for us to move into the SDE for some of the vertical market we try to address.
+Rich Valera
+Got it. And then John, you said they are not accretive until I think 2019, are they actually dilutive in 2018?
+John Wall
+A little bit, yes.
+Rich Valera
+Okay. And will you actually have the expected revenue contribution in that K filing or what will you have incrementally on the revenue side in that K?
+John Wall
+I don't actually know right now, but like you say, our guidance includes everything, but we’ve taken everything into account in our guidance that - but I’m - we’ve been like I say it has been 40 days since the US Tax Cuts and Jobs Act and it’s been like 40 days and 40 nights going through the tax reform and dealing with this change over new revenue rules. There was additional information going into the Form 10-K and we’re about two weeks away from filing. I would look to that.
+Rich Valera
+Fair enough. Thank you both.
+Lip-Bu Tan
+Thank you.
+Operator
+Your final question comes from Tom Diffely with DA Davidson. Your line is open.
+Tom Diffely
+Yes, good afternoon. I was hoping to get a little information about some of these traditionally smaller end markets that seem to be growing, and hopefully if you could provide a little background as to where your exposure is now to advanced packaging in memory, how you have seen that grow recently, and what do you think about the future with some of the new changes that they’re going through?
+Lip-Bu Tan
+Thank you, Tom, for asking this question. So, clearly you know the advanced packaging become more and more critical. We’re delighted, we have a very good offering beside the IC packaging, we also have the board level packaging, and on the silicon side, and on the 2.5D, 3D become more and more adopted by the customer and also the foundry panels, especially in some of this, like for example high-speed SerDes connectivity and then some of this, you know really had to try some of this packaging efficiency and we work very close with our foundry panels for the - you know some of this 2.5D packaging so that we can provide the overall solutions.
+And also, I think some of this 3D NAND and then the packaging has become more and more critical. That part I think we look very, very close to that. And then I mentioned earlier about the SerDes. When you move up every 100 gigs SerDes, the insertion loss is going to be critical. And again, some of this 2.5D and even Platonic packaging going to be very more important. And then so those are the things that we try to find solution to help enable our customers.
+Tom Diffely
+Can you give us some sense as how fast these markets have grown over the last year or two, and what you think the growth rate is going forward?
+Lip-Bu Tan
+Good question. Sometime it’s very hard to predict the growth rate, but I can tell you, we are way ahead on the 2.5D and 3D couple of years ago. And when we talk to the foundry partners and packaging company, they are telling us that while there is no customer request for it, but now when the customers having to request them and coming to us, so I think people are starting to realize the pinpoint [ph] there is all kinds of fine solution. We are delighted, we have some of the solution that they need to help them to design and drive packaging efficiency and drive some of the performance they need.
+Tom Diffely
+And then finally, do you have technologies to date to work kind of the next generation of memory, the NRAND and the different types of memory that potentially comes up over the next five years?
+Lip-Bu Tan
+Yes, memory become more and more critical and this whole data driven economy has a lot to do data and storage. And that is something I pay a lot of attention and we’re delighted. I highlight two of the three memory company are using our, you know FastSPICE simulator and then also the characterization of solutions, and also couple of them are working closely with us in some of our to-end [ph] solution we need.
+And we will continue to support our customer with all the, you know help them work closely with them, some of them need the IP, on the memory IP while supporting them, and some of them need the tool to drive some of the efficiency performance they need. And then some they need the packaging side. So, memory and data storage become more and more critical in this big data and data analytics and the machine learning deep learning. We pay a lot of attention to that.
+Tom Diffely
+Okay great, thank you.
+Lip-Bu Tan
+Thank you.
+Operator
+That concludes our question-and-answer session today. With that, I’ll turn the call back over to Lip-Bu for his closing remarks.
+Lip-Bu Tan
+In closing, through consistent execution and innovation, we are well positioned to build on the positive momentum of our System Design Enablement strategy to enable the Data Driven Economy. I would like to thank all of our shareholders, customers, and partners, Board of Directors, and hardworking global employees for their continued support. Thank you all for joining us this afternoon.
+Operator
+Thank you for participating in today's Cadence Design Systems’ fourth quarter 2017 earnings conference call. This concludes today's call. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

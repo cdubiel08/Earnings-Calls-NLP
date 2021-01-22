@@ -1,0 +1,213 @@
+Oracle Corporation (NYSE:ORCL) Q4 2018 Results Earnings Conference Call June 19, 2018  5:00 PM ET
+Executives
+Ken Bond - SVP
+Larry Ellison - Chairman and Chief Technology Officer
+Safra Catz - CEO
+Mark Hurd - CEO
+Analysts
+Brad Zelnick - Credit Suisse
+Sarah Hindlian - Macquarie
+Phil Winslow - Wells Fargo
+Heather Bellini - Goldman Sachs and Company
+Raimo Lenschow - Barclays
+Michael Turits - Raymond James
+John DiFucci - Jefferies and Company
+Operator
+Welcome to Oracle's Fourth Quarter 2018 Earnings Conference Call.
+Now, I'd like to turn the call over to Ken Bond, Senior Vice President. Sir, you may begin.
+Ken Bond
+Thank you. Good afternoon, everyone, and welcome to Oracle's fourth quarter and fiscal year 2018 earnings conference call. A copy of the press release and financial tables, which includes the GAAP to non-GAAP reconciliation and other supplemental financial information, can be viewed and downloaded from our Investor Relations website.
+On the call today are Chairman and Chief Technology Officer, Larry Ellison; and CEOs, Safra Catz and Mark Hurd.
+As a reminder, today's discussion will include forward-looking statements, including predictions, expectations, estimates or other information that might be considered forward-looking. Throughout today's discussion, we will present some important factors relating to our business, which may potentially affect these forward-looking statements. These forward-looking statements are also subject to risks and uncertainties that may cause actual results to differ materially from statements made today.
+As a result, we caution you against placing undue reliance on these forward-looking statements and we encourage you to review our most recent reports, including our 10-K and 10-Q and any applicable amendments or a complete discussion of these factors and other risks that may affect our future results or the market price of our stock. And finally, we are not obligating ourselves to revise or revoke or publicly release any revisions of these forward-looking statements in light of new information or future events.
+Before taking questions, we'll begin with a few prepared remarks.
+And with that, I'd like to turn the call over to Safra.
+Safra Catz
+Thanks, Ken. Good afternoon, everyone.
+We had a terrific quarter and a tremendous number of wins in the Cloud with total revenue growth one point above the high end of my guidance and earnings per share $0.05 above the high end of my guidance.
+Before further discussing our Q4 results, I'd like to comment on updates we've made to our financial reporting so as to better describe our business since we introduced the BYOL license initiatives to our customers.
+BYOL, which is Bring Your Own License, allows customers to move their existing on-premise licenses to the Oracle Cloud so long as they continue to pay support for those licenses. BYOL also makes it cost effective for customers to buy new licenses, even if those licenses are only going to be used in the Cloud.
+So some of our customers are buying new licenses and immediately deploying them in the Cloud. In fact, our largest license sale in the quarter was a Cloud license.
+Other customers, like AT&T in their release, are moving their existing licenses, excuse me, moving the existing licenses they own to the Cloud while continuing to pay support. Support for licenses that have been moved to the Cloud is Cloud support.
+As a result, our new license revenue is now a combination of new Cloud licenses and new on-premise licenses. Our support revenue is now a combination of Cloud license support revenue and on-premise license support revenue.
+To reflect these changes in our business, we have now labeled new software licenses as Cloud license and on-premise license, and we’ve combined Cloud SaaS plus Cloud PaaS and IaaS plus software license updates and product support into Cloud services and license support.
+So to say it another way, customers are entering into large database contracts where some of those database licenses are to be deployed on-premise, while other database licenses are used in the Cloud. Previously, all of those license and its related support revenue would have been counted entirely as on-premise, which clearly it isn’t.
+In addition, customers that are in the process of moving their existing database licenses to the Cloud previously had all of their support revenue counted as on-premise. Again, which it isn’t. We have reflected these revenue reporting updates in our expense reporting as well.
+Our Cloud SaaS and PaaS and IaaS Services are all moving into our new second-generation data centers based on our bare metal infrastructure with a single unified operations team. Data center expenses there are shared across SaaS, PaaS and IaaS, giving us economies of scale and other efficiencies.
+We’ve also consolidated most support functions across our software technologies in the Cloud and on-premise. Sharing our teams across the different offerings allows for improved asset utilization and has a positive effect on our gross and operating margins.
+Now that we’ve built a rapidly-growing multibillion dollar Cloud business, our management team is focused on two principal financial measures to judge our success. First, we expect our overall revenue growth rate to accelerate because our growing Cloud revenue is becoming a larger and larger percentage of our total revenue. While any one quarter’s results may vary, we expect to increase our revenue growth rate this year and beyond. Second, we expect that we will once again deliver double-digit EPS growth for the year.
+Okay. Turning back to our results, first, I’ll go over Q4 and recap fiscal year 2018 before moving on to my guidance. I’ll then turn the call over to Larry and Mark for their comments.
+As in prior quarters, I’ll review our non-GAAP results using constant dollar growth rate, unless I say otherwise. This quarter, currency movements resulted in a 2% tailwind on revenue, which was approximately $140 million less than when guidance was given, and currency movements had a $0.02 positive impact to non-GAAP EPS, which was $0.01 less than the $0.03 which I guided to. Regardless, we exceeded the high-end of both ranges.
+Total cloud services and license support revenues for the quarter were $6.8 billion, up 5% in constant currency, 7% in U.S. dollars. Under our prior reporting structure, in Q4, what we previously called total Cloud revenues were $1.7 billion.
+I cannot stress enough the stability and growth of our installed base of customers quarter-after-quarter. Our customers are maintaining and expanding their Oracle environments because they have portability to use our licensed software on-premise, in the Cloud or via hybrid environments.
+This is largely because our products are capable of doing things others just can’t do, whether that’s security, performance, scalability or the autonomous features that only our database has.
+As our customers adopt our technologies, whether via licenses or Cloud services, our overall customer base is growing, and that growth is starting to accelerate. The gross margin for Cloud services and license support was 86% and as we continue to scale and grow, I expect this will go even higher.
+Total revenues for the quarter were $11.3 billion, up 1% from last year. Non-GAAP operating income was $5.3 billion, up 4% from last year and the operating margin was 47% which was up from 46% last year.
+The non-GAAP tax rate for the quarter was at 19.2%, slightly below our base tax rate of 20% and EPS was $0.99 in USD, up 11% and up 9% in constant currency. The GAAP tax rate was 17.7% and GAAP EPS was $0.82 in USD, up 8% and up 5% in constant currency.
+Now moving on to the full fiscal year. Total Cloud services and license support revenue was $26.3 billion, growing 7%. Total company revenues for the year grew 3% to $39.9 billion. Non-GAAP EPS was $3.12 in USD, up 11% in constant currency and up 14% in USD. This was largely driven by the acceleration in operating income growth which was up 9% in USD, 6% in constant currency. This is mirrored in our operating margin for the full year which was up from 43% last year to 44% this year.
+As a reminder, our best-ever full year operating margin was 47% and I expect we will surpass that in the coming years as our total revenue growth accelerates and we benefit from greater scale in our business.
+Operating cash flow over the last four quarters was a record $15.4 billion, up 9% in USD. Capital expenditures for the year were $1.7 billion and free cash flow over the last four quarters was $13.7 billion, up 13% in USD. We now have approximately $67.3 billion in cash and marketable securities. Net of debt, our cash position is approximately $6.6 billion. The short-term deferred revenue balance is $8.4 billion, up 2% in constant currency.
+As we’ve said before, we’re committed to returning value to our shareholders through technical innovation, strategic acquisitions, stock repurchases, prudent use of debt and a dividend. This quarter we repurchased 106 million shares for a total of 5 billion.
+Over the last 12-months, we have repurchased 238 million shares for a total of 11.5 billion. Since FY 2011, when we ramped up the share purchase program, we have reduced the shares outstanding by more than 20%.
+In addition, we have paid out dividends of $3.1 billion over the last 12-months and the Board of Directors again declared a quarterly dividend of $0.19 per share.
+Now to the guidance. First of all, we will be adopting the new accounting standard ASC 606 with a full retrospective view starting in Q1. We will also provide you with the prior-year results reflecting ASC 606 so that you can compare it.
+Secondly, my EPS guidance for both Q1 and FY 2019 assumes a base tax rate of 20%. However, onetime tax events could cause actual tax rates for any given quarter to vary from our base rate, but I expect that in normalizing for these onetime events, our tax rate will average around 20% for fiscal year 2019.
+Importantly, in regard to Q1 guidance, exchange rates have moved from a 3% revenue tailwind to now being a 1% headwind from the last time I gave guidance. That is a 4% negative move, which impacts revenue in Q1 by about $300 million. It also impacts EPS negatively by $0.03.
+So, for my guidance, total revenues are expected to grow 1% to 3% in constant currency, non-GAAP EPS in USD is expected to grow between 9% and 13%. I’ll do the math for you, that’s between $0.67 and $0.69. And non-GAAP EPS in constant currency is expected to grow between 11% and 15%, and, again, doing the math, that’s $0.68 to $0.70.
+For the full year, we expect to have a higher revenue growth rate than FY 2018 and once again deliver double-digit non-GAAP EPS growth. Total CapEx for FY 2019 is expected to be similar to FY 2018’s CapEx of $1.7 billion, but it could be a little higher depending on bookings.
+With that, I’ll turn it over to Mark for his comments.
+Mark Hurd
+Thanks, Safra.
+I thought for a change I’d just start by listing off Cloud wins in Q4. Let’s start with ERP. Let me just run through some of these brands. BEA, Baylor University, Cerberus Capital Management, ConEd, Cox Communication, Danaher, Facebook, General Dynamics, Genuine Auto Parts, Intel, Johnson & Johnson, Kohl’s Department Stores, Land O’Lakes, Marsh & McLennan, Mount Sinai Health System, Pernod Ricard, Scholastic Corporation, Siemens, Cleveland Clinic, Time Inc., United Parcel.
+These can be modules. In many cases, we’re replacing in for SAP. Some cases upgrading our user base. This was a fantastic ERP quarter. And not just in volume, but the quality of the brands. Let me turn to HCM.
+Before I go into details, let me just say every win is versus Workday, full stop. Akamai, AT&T, Baylor University. As you can tell, that was a dual ERP HCM win. You’ll hear a few of those. City of Jacksonville, ConEd, Delta Dental, First Data, Grupo Televisa, Ingersoll Rand, Juniper, Lawrence Berkeley National Lab, Manpower Group, Mount Sinai Health System. Again, a multi-dual win, if you will. Noble Energy, Providence St. Joseph Health, Sumitomo Heavy Industries, Sherwin-Williams, Time Inc., Toyota Motor, University of Wisconsin, Zebra Technologies. A lot of wins. And I have more, I just don’t have time. It was that sort of quarter for us.
+As it relates to platform, two very significant ISVs have gone live in production with us. One, Manhattan Industries. And one of the largest networking ISVs in the world have made significant commitments to production and nonproduction workloads that are now live on our Cloud. We beat AWS head-to-head on price, performance and breadth of services for these wins.
+There’s a little bit of mention of AT&T. I thought I’d give you an update on AT&T. AT&T, of course, is moving thousands of terabytes of data to the Cloud. We have begun to migrate thousands of these databases as we speak. We expect within the fiscal year to have the AT&T data centers all connected to the Oracle Cloud, migrating this massive dataset.
+We expect this, of course, to be the first of many that we’ve started to sign in Q4. I mentioned a couple of the ISVs, but the importance of the progress is to be noted.
+Just a few numbers to close up. In the apps ecosystem, 91% now of our trailing 12-month revenue is recurring. The apps ecosystem is now bigger than $11 billion. It’s up 11% year-over-year, and as I think a year ago, I mentioned that I expected our apps ecosystem to grow roughly double-digits. It did. It did a little better than that.
+We’re growing faster than the market, and while I list all of these wins, most of these wins that I list are not coming from our user base. Our user base, while heavily now represented in our pipeline - Larry had a very important announcement last week - but it is still not the bulk of what is in our Cloud and that opportunity is yet ahead of us.
+Some numbers on SaaS. Overall ERP and HCM revenue was $2.2 billion for the year. Fusion Apps, up 62% for the year. Fusion ERP was up 60% organically, 68% for the year. Fusion HCM was up 72% for the year.
+I want to make sure I say this number carefully. NetSuite bookings in the quarter were up 62% in constant-currency. This reflects the investment we’ve made in go-to-market that we started a year ago that began to reflect itself in performance in the back half of the year. This will lead to accelerated NetSuite revenue in 2019.
+Our tech ecosystem is now greater than $21 billion and up 5% for the year, with the database ecosystem up 6% and accelerating in Q4 with an exit growth rate of 7%. BYOL is clearly resonating with customers. Q4 database new license revenue was up 9%, and autonomous database is now beginning to show up in our pipeline.
+And we’re pleased to do license revenue for our key database options which are necessary to run the autonomous database. We’re up mid-teens in the quarter. Our next-generation PaaS grew 45% for the year, with now total revenue of $1.1 billion.
+I’ll close by just saying I think we’re executing well on now what is a growing pipeline in both apps and autonomous database with 5% top line growth and 14% EPS growth in FY 2018. To Safra’s point, looking forward into FY 2019, revenue growth is expected to be higher than FY 2018 and EPS will grow double-digits for the year again.
+With that, I’ll turn it over to Larry.
+Larry Ellison
+Thank you, Mark.
+We’ve just about finished enabling all of our SaaS, PaaS and IaaS Cloud Services to run alongside each other in our new second-generation bare metal data centers. This consolidation of all three categories of Cloud Services, SaaS, PaaS and IaaS, into a single standard data center allows us to share access while giving us significant economies of scale. As a result, we expect continued expansion of our Cloud margin.
+But just as important, to have SaaS, PaaS and IaaS in the same data center makes it easier for our Fusion customers to extend those SaaS applications using our latest PaaS and IaaS technologies and capabilities.
+As an example, we recently demonstrated how one of our customers used our mobile service, our Cloud mobile service, our Cloud voice service and our Cloud machine learning service to extend our Fusion HCM system with an Amazon Alexa voice interface for vacation requests and vacation approvals.
+We’ve developed these new technologies, machine learning, voice and mobile, so we could voice-enable all of our applications, and we’re putting those voice systems, a combination of chat box, voice, all machine learning driven, we’re putting those voice interfaces as the next generation of our UI for Fusion ERP and Fusion HCM.
+The technologies that we use to add the voice interfaces to Fusion HCM and Fusion ERP are available as PaaS services in our Cloud to our customers. So if there’s something they want to add to Fusion ERP or HCM they could do it using the same tools we use to build the applications in the first place.
+We think that’s a big deal. We think having SaaS, PaaS and IaaS all integrated together in the same data center is the key differentiator between Oracle and our Cloud competitors, most of whom are focused primarily on SaaS only or primarily on IaaS only.
+With that, I guess we open it up for questions.
+Ken Bond
+Thank you, Larry. Operator, if you’ll please start preparing the audience for Q&A. Thank you.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question comes from Brad Zelnick with Credit Suisse.
+Brad Zelnick
+Thank you very much, and congrats on a nice Q4. Mark, I think it’s fair to say everyone’s very surprised by 9% database license growth in the quarter. I want to make sure I heard that right and that overall database ecosystem growth accelerated in Q4, and this is even without autonomous database fully available just yet.
+So my question, how much of this is just customers purchasing ahead and buying into the strategic roadmap or are there other factors we should consider?
+Mark Hurd
+First of all, you’ve got those numbers right so I’m glad because that means I said them right. And we did see acceleration in the quarter and I think it’s all of the above. And again, it’s back to the point of we’ve had good demand sort of across-the-board.
+And the other point I tried to make, and I went through the numbers relatively quickly, was the option number. The option number in the quarter was mid-double digits. The necessary options to enable autonomous database and I think, Brad, that’s, again, a key number. And back to the fact that this represents to us whether that shows up in Cloud revenue or license revenue. You see it start to show up in both numbers.
+For example, we had a really cool win in the quarter that I just ran out of time to mention at Ford. Ford was literally a BYOL customer or a BYOL transaction in the context of it was a combination license deal and Cloud deal in the sense of Cloud the way we would have historically reported Cloud revenue at the same time.
+And again, as I mentioned in my prepared comments, you’re just, Brad, beginning to see the beginning of autonomous database. While we’ve been talking about it, we went really GA with autonomous database, data warehouse in the beginning of Q4. So it’s just beginning to show up in our pipeline.
+So to all of your points, the numbers in Q4 show numerically the progress and certainly what we begin to see now in our pipelines now that the technology is literally rolling out. We’re in hundreds and hundreds of trials and proof-of-concepts and those are, of course, the beginning stage of all of this.
+So yes, we’re pretty encouraged and certainly the fact it showed up in Q4 numbers is encouraging as well.
+Brad Zelnick
+And just a quick follow up for Safra. Safra, it’s great to see double-digit EPS growth back on the table for fiscal 2019. Can you just remind us what your assumptions are that get you there, particularly on the buyback? Thank you.
+Safra Catz
+I don’t usually give guidance on the buyback, but we view our stock as very inexpensive and we view it as something in the range of where we’ve been lately.
+Operator
+Our next question comes from the line of Sarah Hindlian with Macquarie.
+Sarah Hindlian
+My question is for Larry. Larry, we’re just talking about it and 2018 is clearly rolling out. But the one thing I want to understand better - I’d like to understand a little bit better customer demand and adoption trends too, but I’d also like to hear a little bit about how more regular annual database updates versus what I would consider, historically to be more large and monolithic upgrades. If that can actually change any software-buying patterns of the customer and if that’s something you’re starting to see or thinking about.
+Larry Ellison
+Well, let’s see. I think we used to have - let’s say a few years ago you could expect a major database release every 2.5 years, something like that was the cycle. Clearly, where - and when a new database release came out, that often spurred a certain degree of buying.
+Now, keep in mind, we still have a major database release coming out periodically, but it’s going to come out - because of the Cloud now, it comes out a bit more frequently, and a lot of the autonomous features are being added very rapidly. For example, we came out with - I guess, we went GA - as Mark pointed out, GA and autonomous database at the beginning of Q4.
+We will have our simple trends autonomous transactional OLTP system, we will call – or a combination of OLTP and data warehouse integrated coming out in the next month, or so. And then, a couple months after that, we’re going to have the high-performance, high-reliability OLTP system coming out. So some of the autonomous features are coming out at a more rapid rate than some of the more mature features in the database.
+Those features that are aimed primarily at the Cloud are going to be delivered at a higher rate. I hope that answers your question, than we have historically.
+Operator
+Our next question comes from the line of Phil Winslow with Wells Fargo.
+Phil Winslow
+Just a question to the team here. On the Q1 call, you talked about the legacy IaaS business versus the new IaaS business. And then, on the Q3 call, you talked about legacy SaaS versus the newer SaaS products. And, Mark, obviously, you gave some color on the newer ones in your prepared remarks. But hoping you’d just give us a little more detail, sort of just the trends that you’re seeing there called new versus legacy IaaS and SaaS, and how you’re thinking about sort of the crisscross points there with the newer businesses that are growing quickly sort of get big enough and keep growing fast enough to sort of offset whatever you’re seeing on the legacy front.
+Safra Catz
+Is that for me or for Mark?
+Phil Winslow
+Jump ball.
+Mark Hurd
+Well, I’m taller, so I’ll start. But I think you hit it right, Phil. I mean, listen. Just to give you an example, I gave you two wins I named Manhattan and a new ISV that’s I think I used the term big networking company. That’s a brand new app to the Oracle Cloud. Brand new. Remember brand new app to Oracle, let me start with that.
+App wasn’t running on Oracle. We moved it to Oracle, as well to the Oracle Cloud. So you have a couple of different dynamics here. Yeah. There’s some legacy stuff and what you would have think of as the traditional reporting that we use, but we’re in the top of the first inning of all this.
+To Larry’s point, we released Autonomous database in April. It’s showing up in trials and POCs, not in the numbers even that you’re seeing here. We’re getting new ISV wins that are just net-new to Oracle in addition to bringing our existing customers to Oracle.
+So, again, we’re in the law of small numbers here, relative to the entire company that have tremendous upside here, but the key thing for us has been getting our products in the market. The next generation I mentioned, I gave you a statistic on the 45% growth rate in our next-gen PaaS Infrastructure business for the year, and that’s obviously the next-gen of it, and that’s at the very embryonic stage, Phil, of the beginning of this.
+And these wins are now just these trials and POCs. The example of the ISVs, they’ve yet to really just to start to produce revenue, because you got to start with the work and then you start moving production. And, in fact, Manhattan has already moved – just begun to move a couple of their customers to the Oracle Cloud as part of this. So we’re at the very early phase of this, and the lines will cross, obviously, relatively soon here.
+Operator
+Our next question comes from the line of Heather Bellini with Goldman Sachs and Company.
+Heather Bellini
+I wanted to ask a little bit about BYOL and Oracle Cloud infrastructure. And Mark and Larry, I know you guys touched on this a little bit in your prepared remarks, but can you give us a sense of where we are in the migration to BYOL? And I guess in particular, can you give us a sense of the momentum within your enterprise accounts using these technology rights in the Cloud, and how do you see the slope of this adoption curve as you look ahead?
+Larry Ellison
+Well, I think, again, maybe the most interesting fact in the quarter was our very largest deal in terms of a new license purchase was we know the intent of this particular customer, and the intent was to deploy 100% of it in the Cloud immediately.
+So we’re seeing, you know, I guess we’ve mentioned AT&T 35 times now on the call as an example. But they’re an example of one of our largest customers that really has an intent to move the majority of their Oracle data into the Cloud.
+So that’s just a gigantic one, but AT&T is unusual because they’re such a – that’s such a large – it has so many large Oracle databases. But many of our other customers, now that we have BYOL, can move their Oracle database license from on-premise into our Cloud and they just pay basically for the incremental infrastructure cost and they continue paying support on what becomes a Cloud License. That’s a very attractive value proposition for our customers, and we see large numbers of our largest customers very interested in beginning that migration process.
+Operator
+Our next question comes from the line of Raimo Lenschow with Barclays.
+Raimo Lenschow
+Can I double-click on licenses again? You had tough comps because Q4 last year was strong on licenses, so – and I know last quarter, you kind of talked about some delays on the apps on the vertical apps side. So can you talk a little bit about like how we got to the number that we have there now between Bring Your Own Licenses but also how it played out on the apps side? Thank you.
+Mark Hurd
+Well, without sounding trite, we just sold more. And I think at the end, it’s a combination of what we said. I mean, you’re exactly right. Q4 last year was a very good strong quarter for us, so it was, if you will, a tough comp. But to Safra’s opening comments, the quarter was strong for us really across every line. I mean, the only thing that really hurt us in the quarter to be honest with you if you looked at the income statement was currency.
+We went in expecting to get 3 points. We got 2 points. We wound up beating on top of that, and so it was just a solid quarter. And I don’t really have any, Raimo, discrete stories to tell you to give you more flavor.
+Obviously, the database ecosystem was strong, and clearly, the options within – we accelerated database growth in the quarter. Database options within the context of a – particularly those that enable autonomous data warehouse were strong in the quarter.
+Our apps license did decline in the quarter. We expected that, but frankly, it was actually relatively stable, so – if you will, because the user base is still the scale that it is, our apps license was a decline but better than I expected within the context of that decline, if that makes sense.
+And so it just – obviously the quality of the brands on the bookings side, which don’t show up in actually the income statement, was just – I don’t want to say it was unexpected, it was just pleasant to see it all come through.
+And I just want to double-click on the NetSuite booking. The NetSuite booking, while it is what we hoped, it’s so great to see because it’s been such a fabulous acquisition for us. The team has done a great job. We’ve invested, and it showed up numerically in the bookings and that’ll show up in the revenue as we go forward in 2019.
+So as I go through the quarter – and we haven’t mentioned our expense structure. We’ve got a lot of leverage there as well, and so just as I look through the lines just from an operating perspective, it was a very solid quarter. Maybe more than you wanted in your question, Raimo.
+Raimo Lenschow
+Thank you.
+Safra Catz
+Well, also, we - Raimo, let me just add, we launched BYOL at the very end of Q2, and this really opened up a lot of ULAs and PULAs for our customers who are very interested in being able to deploy in the Cloud and on-premise. It’s particularly of value to them.
+And so there are literally billions of dollars involved in these agreements and it’s many, many customers, it is very widespread and it really shows up in Q4. And shows up in all the quarters, but of course after BYOL, it really showed up in Q4.
+Operator
+Our next question comes from the line of Kirk Materne with Evercore ISI.
+Safra Catz
+Kirk?
+Mark Hurd 
+Kirk, we can’t hear you.
+Ken Bond
+Kirk, going once. Twice. Operator, next question, please.
+Operator
+Our next question comes from the line of Michael Turits with Raymond James.
+Michael Turits
+I think this is probably a question for either Mark or for Larry. Can you talk a little bit about how customer demand for database in the Cloud is evolving both for new workloads and for existing workloads and how the balance is working out by whether or not they’re choosing BYOL or database as a service?
+Larry Ellison
+Well, they’re overwhelmingly - at least - again, it’s early days because BYOL has only been around a couple of quarters. It’s overwhelmingly BYOL because - for new workloads and for shifting existing workloads.
+I mean, Oracle has - a majority of the world’s databases are Oracle databases. We’re larger than IBM and Microsoft combined who are second and third and we have a lot more to - and we have much bigger databases than they have and all of that.
+So there’s just a huge inventory of information inside of these databases and these - and we have huge customers with - that own licenses for all of this stuff and they want to move - not move all of it at once.
+I mean, AT&T has actually made a commitment to move all of it in a relatively short-term. Other customers are moving, but not as rapidly. And they are buying additional options for their existing licenses so they can move into the Cloud and take advantage of autonomous services.
+So let me – let me explain the situation. So you want – you want to move 10% of your databases from on-premise into the Cloud and you want to use the autonomous database. Well the autonomous database requires that you have the multi-tenant option and the real application cluster option. So you might have database - you might have some database licenses, but you might not have licensed those options.
+So you go ahead and enter into a ULA or PULA, one of these large license agreements. You add these additional options and maybe additional database licenses. And then when you have those additional options, you then - that makes it possible for you to take advantage of the autonomous database services. But if you don’t want to use the autonomous services, you can still move your database into our Cloud. You just don’t get the autonomous features.
+But most people are very excited about the autonomous features because it at once lowers labor costs and secondly, dramatically improves security and reliability because there’s no pilot error, there’s no opportunity for mischief by taking out the labor. So not only do you save a lot of money by eliminating the labor. Again, you have a much more secure and much more reliable system. No pilot error, no mischief.
+So they’re entering into these ULAs, they’re buying additional options and then they’re moving their licenses over. We’ve been at this for a very, very long time. New workloads. All of the new workloads of that – for any given year is small compared to the 25, 30 years of inventory of data that we’ve accumulated since we’ve been in this business.
+So again, overwhelmingly existing databases, not new workloads. Overwhelmingly, BYOL as opposed to-database services. Now, we’re getting some very exciting new workloads. Don’t get me wrong. The new workloads are very important to us. There are lots of cool start-ups and we’re going after those aggressively and we’re getting a lot of those.
+I know Mark mentioned earlier that a lot of our customers - a lot of our new customers in the Cloud are not existing Oracle customers. So, obviously, those are new workloads, and we’re getting a lot of those.
+But you said where is the majority of it? The majority of it is inside of our install base. They’re reusing their existing licenses. They’re buying additional options. They’re moving it to the Autonomous database in the Oracle Cloud.
+Operator
+Our final question comes from the line of John DiFucci with Jefferies and Company.
+John DiFucci
+And my question, I think, is probably best fit for Safra. So, Safra, we understand how the separation of Cloud and on-premise sales sort of gets blurred with the flexibility you allow your customers with BYOL. So I think from a high level, we all understand why you changed the way you report. But how do you get investors comfortable that this also is not obfuscating any Cloud weakness?
+Especially, when I look - and I know we don’t have a long-term deferred revenue, but the deferred revenue looks a little bit - it was below what we were looking for. I’m just trying to anticipate questions I’m going to be hit with tomorrow. And, frankly, looking at your stock, I mean, when you put the headline numbers, the stock popped, and I know you may not be looking at it minute-by-minute. But then, when the details came out, it actually dropped. So I think that might be one of the reasons anyway.
+Safra Catz
+Right. So let’s cover everything. So first of all, there is no hiding. I told you the Cloud number, 1.7 billion. You can do the math. You see we are right where we said we’d be. No surprises. Margins up sequentially shows business is doing well. Cloud billings strong. Nice and strong. You can hear that. You can hear it from what we’re talking about.
+As far as net deferrals, gross deferrals are actually up 5%. So this is just a collections thing with timing, and you’ll see that quarter-to-quarter, especially Q1 from Q4. So this is nothing surprise here. We don’t have any bad news.
+In fact, what we’re telling you is in fact that the way to understand our business better, especially with so many customers taking licenses and support that licenses that are supported that we were counting and calling on-premise when in fact they are not deploying them on-premise. It would be - it’s simply not so.
+And so, we want to explain to you and make sure you understand and have enough understanding of the business to see that our customers are both buying licenses and using licenses they have, which are currently being recorded as on-premise support. They’re using those, in fact, in the Cloud, and that’s something that’s, of course, what they were designed for, frankly, and what we’re very excited about.
+So, I think, between all of the information I’ve given you, it’s quite clear that we had a superb quarter and we’re expecting the same next quarter.
+John DiFucci
+But if you could, just remind us when you refer to gross deferrals versus net deferrals. And I know that you, Oracle, is probably more conservative than I think any company we cover in your reporting of deferred revenue. But if you could hit that quickly, that’d be great.
+Safra Catz
+Yes, I mean, from the gross deferrals, what we do is we subtract the uncollected, which is, obviously, a very big number at the end of Q4. Think about it. So that’s all that’s going on there.
+Mark Hurd
+John, just Mark. To add, there is just no story in the gross short-term deferral. I mean, this is a nothing burger, and I’m telling you that the gross deferrals were right on where we thought. There’s just nothing here.
+Ken Bond
+Thank you, John. A telephonic replay of this conference call will be available for 24 hours. Dial-in information can be found in the Press Release issued earlier today. Please call the Investor Relations department with any follow-up questions from this call, and we look forward to speaking with you.
+Thank you for joining us today. And with that, I’ll turn it back to the operator for closing.
+Operator
+Thank you for joining today's Oracle fourth quarter 2018 earnings conference call. We appreciate your participation. You may now disconnect.
+
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+5 Authors in the Last 90 Days

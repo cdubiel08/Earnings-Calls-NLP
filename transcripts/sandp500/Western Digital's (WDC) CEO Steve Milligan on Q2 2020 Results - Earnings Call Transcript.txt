@@ -1,0 +1,279 @@
+Western Digital Corporation (NASDAQ:WDC) Q2 2020 Earnings Conference Call January 30, 2020  5:00 PM ET
+Company Participants
+Peter Andrew – Vice President-Investor Relations
+Steve Milligan – Chief Executive Officer
+Mike Cordano – President and Chief Operating Officer
+Bob Eulau – Chief Financial Officer
+Conference Call Participants
+Wamsi Mohan – Bank of America
+Aaron Rakers – Wells Fargo
+Mehdi Hosseini – SIG
+Karl Ackerman – Cowen
+Tim Long – Barclays
+Joe Moore – Morgan Stanley
+Mitch Steves – RBC Capital Markets
+C.J. Muse – Evercore
+Munjal Shah – UBS
+Steven Fox – Cross Research
+Harlan Sur – JPMorgan
+Ananda Baruah – Loop Capital
+Srini Pajjuri – SMBC Nikko Securities
+Vijay Rakesh – Mizuho
+Sidney Ho – Deutsche Bank
+Nehal Chokshi – Maxim Group
+Patrick Ho – Stifel
+Mark Miller – Benchmark
+Operator
+Good afternoon. And thank you for standing by. Welcome to Western Digital's Second Quarter of Fiscal 2020 Conference Call. [Operator Instructions] 
+Now I will turn the call over to Mr. Peter Andrew. You may begin.
+Peter Andrew
+Okay. Thank you, and good afternoon, everyone. Joining me today are Steve Milligan, Chief Executive Officer; Mike Cordano, President and Chief Operating Officer; and Bob Eulau, Chief Financial Officer. 
+Before we begin, let me remind everyone that today's discussion contains forward-looking statements including product development expectations, business plans, trends in financial outlook based on management's current assumptions and expectations, and as such, does include risks and uncertainties. We assume no obligation to update these statements. Please refer to our most recent financial report on Form 10-Q filed with the SEC for more information on the risks and uncertainties that could cause actual results to differ materially.
+We will also make references to non-GAAP financial measures today. Reconciliations between the non-GAAP and comparable GAAP financial measures are included in the press release and other materials that are being posted in the Investor Relations section of our website.
+With that, I will now turn the call over to Steve.
+Steve Milligan
+Thank you, Peter, and good afternoon. Western Digital delivered solid results in the second quarter as revenue came in at the midpoint of the guidance range and non-GAAP EPS was at the upper end of the range. Our performance reflects strong execution in our product roadmap, success in increasing our hard drive gross margin, and an improving flash environment. Notably, these results reinforce our prior comments that the June quarter marked the bottom of this flash cycle.
+We extended our capacity enterprise product leadership as we started sampling 18-terabyte and 16-terabyte CMR and 20-terabyte SMR drives in December. These drives feature our energy-assisted magnetic recording technology providing unrivaled areal density and TCO benefits. We expect to commence revenue shipments of the CMR drives in the March quarter and ramp shipments through the rest of calendar 2020. Our 14-terabyte platform is performing well, and customer interest in our air based 10-terabyte drive is quite high.
+The strength of our capacity enterprise product portfolio will continue to allow us to maintain our leading market share position. We achieved our goal of high-single-digit enterprise SSD market share and secured additional NVMe design wins, including at another major hyperscale customer positioning us for continued revenue growth and share gains. We made it an important announcement this afternoon of our next-generation 3D NAND technology, BiCS5, with 112 layers of vertical storage. BiCS5 joins a full portfolio of 3D NAND technologies as our highest density and most advanced 3D NAND to date, delivering exceptional performance and reliability.
+Our team executed well in the quarter, increasing our hard drive non-GAAP gross margins to approximately 31% from 28.5% in the prior quarter. We now expect an accelerated recovery in our flash gross margins in the first half of calendar 2020 with continued improvement through the end of the year.
+I will now ask Mike to share our business highlights.
+Mike Cordano
+Thank you and good afternoon. Our December results reflect solid product execution, an increase in hard drive gross margin, and an improving flash market environment. 
+Data Center Devices and Solutions, we executed well in delivering new products, positioning us for continued share gains and profitable growth in calendar year 2020. In capacity enterprise drives, close collaboration between our head, media, and mechanical design teams allowed us to simultaneously introduce energy-assisted magnetic recording technology and a triple-stage actuator in our new 16, 18, and 20 terabyte drives. These innovations provide us with continued areal density leadership and a greater design margin resulting in best-in-class product quality and reliability. Our focus on introducing the right technology at the right time, while delivering the best TCO and highest product quality to hyperscale and OEM customers makes us their trusted partner.
+In calendar year 2019, the success of our capacity enterprise product line led by our 14-terabyte drive drove over 40% year-over-year exabyte growth. We also started sampling our 18-terabyte and 16-terabyte CMR and 20-terabyte SMR drives and plan to commence revenue shipments of the CMR drives in the current quarter. As these drives ramp along with our 10-terabyte air-based drives, we are well positioned for continued leadership.
+In flash, we achieved our goal of high-single-digit enterprise SSD market share as our NVMe based enterprise SSD revenue grew over 50% sequentially. Supply constraints limited our upside as demand was better than expected. I am encouraged to see the significant investments we have made in expanding our product portfolio over the past several years are enabling us to increase participation in higher margin, higher growth, and lower volatility parts of the flash market.
+We have secured additional design wins, including another major hyperscale customer, which demonstrates our success in broadening our product portfolio and diversifying our customer base. In calendar year 2020, we expect to double our enterprise SSD revenue as we move towards our goal of 20% market share.
+Our competitive position within the data center is unrivaled, built on the breadth of our product portfolio, strong customer relationships, technology leadership, and superior product quality. We look forward to another year of strong growth in the data center market. Client Devices, strong growth in client SSD, and smart video along with growth in mobility and desktop hard drives drove the sequential revenue growth in the December quarter.
+As we enter the March quarter, flash pricing continues to improve. Furthermore, starting in the June quarter, we expect to begin shipments into a new gaming platform. The gaming console market is expected to be a multi-exabyte opportunity this calendar year.
+Within Client Solutions, strong holiday demand for both our flash and hard drive solutions enabled revenue to grow on a sequential basis. At CES 2020, we demonstrated a range of innovative products including the world's highest capacity, pocket-sized, portable SSD and the world's first USB 3.2 SSD exclusively for gaming.
+This afternoon, we announced our fifth generation 3D NAND technology, BiCS5. Utilizing a wide range of new technology and manufacturing innovation, BiCS5 has significantly increased cell array density horizontally across the wafer. These lateral scaling advancements in combination with 112 layers of vertical memory capability enables BiCS5 to offer up to 40% more bits of storage capacity per wafer compared to Western Digital's 96-layer BiCS4 technology. We have commenced shipping initial consumer products built on BiCS5 with mass production expected to begin later this calendar year.
+We believe inventory in the flash supply chain has returned to normal levels, and with strong demand for our products we are experiencing pockets of tightness. These dynamics combined with continued product execution in both flash and hard drives position us well for continued profitable growth.
+I will now turn the call over to Bob for details on our financial performance.
+Bob Eulau
+Thanks Mike and good afternoon everyone. Revenue for the December quarter was $4.2 billion, up 5% sequentially and flat from a year ago. Please recall that the September quarter was a 14-week quarter. By end markets, Data Center Devices and Solutions revenue of $1.5 billion was down 3% sequentially and up nearly 40% year-over-year. On a sequential basis, growth in enterprise SSD was offset by a decline in capacity enterprise drives and the impact of our exit from the storage-system business.
+Client Devices revenue of $1.8 billion was up 11% on a sequential basis and decreased nearly 20% year-over-year. As Mike noted earlier, the sequential growth was driven by client SSD, smart video, mobility, and desktop HDD. The year-over-year decline was primarily due to pricing in flash, our decision to limit our participation in mobility, and a decreased TAM for notebook and desktop hard drives.
+Client Solutions revenue was $948 million, up 6% sequentially and flat year-over-year. Sequential growth was driven by strength in hard drives.
+By product category, flash revenue was $1.8 billion, up 13% sequentially and down 15% year-over-year. Flash ASPs were down 8% sequentially, primarily related to our increased participation in mobility. Bit shipments were up 24% sequentially. Hard drive revenue was $2.4 billion, roughly flat sequentially and up 16% year-over-year. Average price per hard drive was flat sequentially at $81. And exabyte shipments were down 1% sequentially. As we move on to cost and expenses, please note all my comments will be related to non-GAAP results, unless stated otherwise.
+Gross margin for the December quarter was up 1.1 percentage point sequentially to 25.9%. Our flash gross margin was 19.5%, up slightly from last quarter, as a better pricing environment was offset by our increased participation in mobile. The hard drive gross margin grew more than expected to almost 31% from 28.5% the prior quarter.
+This improvement was due to the full realization of the cost benefits of the KL closure and a stable pricing environment as overall ASP per drive sequentially flat at $81. Operating expenses were $765 million. Operating expenses with normal incentive compensation expense would have been closer to $720 million.
+Operating cash flow for the December quarter was $257 million and free cash flow was $377 million. Capital expenditures, which include the purchase of property, plant and equipment and activity related to flash ventures on our cash flow statement were an inflow of $120 million. As previously noted, we are benefiting from the timing of the funds going back and forth between us and the joint venture.
+For the full fiscal year, we expect cash capital expenditures to be close to zero. Gross capital expenditures, which includes our portion of joint venture leasing and self-operating funding is expected to be between $2 billion and $2.5 billion. An effort to provide greater transparency and clarity into our capital expenditures, we've added a few new slides to our earnings presentation available on our Investor Relations website.
+In the December quarter, we distributed $149 million in dividends to our shareholders. We reduced debt by $388 million, which included an optional $325 million debt pay-down. From a capital allocation perspective, our first priority is to reinvest in the business to maximize long-term shareholder value. After that, paying our dividend and reducing our debt are the next priorities.
+At the end of the quarter, we have $3.1 billion in cash and cash equivalents. Our $2.25 billion revolver remained unused and our gross debt outstanding was just under $10 billion. Total inventory dollars were down $165 million on a sequential basis as both hard drive and flash inventory decrease.
+Moving on, our non-GAAP guidance for the third fiscal quarter is as follows. We expect revenues to be in the range of $4.1 billion to $4.3 billion. We expect gross margin to be approximately 28.5% to 29.5%. Please note that this range includes approximately $70 million in costs associated with the K1 fab. Operating expenses are expected to be between $740 million and $760 million.
+The midpoint of the guidance range assumes a return to normal variable compensation expense, in selective new R&D investment. We expect interest and other expense of $80 million to $85 million and we expect the tax rate to be around to be between 25% and 27%. As a result of this detailed guidance, we expect earnings per share between $0.85 and $1.05, assuming approximately $305 million in fully diluted shares.
+With that, I will now turn the call over to the operator to begin the Q&A session. Operator, we'll now take our first question.
+Question-and-Answer Session
+Operator
+Ladies and gentlemen, we will now begin the question-and-answer portion of today's call. [Operator Instructions] Our first question comes from Wamsi Mohan with Bank of America.
+Wamsi Mohan
+Yes, thank you and congrats on the strong guidance. When you speak of an accelerated recovery here in flash gross margins, can you layout the key drivers of that through 2020 and how you're thinking about the velocity of that recovery and any thoughts on where you might exit the calendar year?
+Steve Milligan
+Yes, Wamsi, this is Steve. I'll take that question. So, there's really a couple of different things that I would say are going on in terms of the flash market. One, the first thing is as we indicated in our prepared remarks, we believe that inventory levels in – from an industry perspective to the best of our estimation have returned in the balance or call it normal levels. So, that's one thing that occurred.
+The other thing is, is obviously we have been working very hard on improving our product lineup, which is allowing us to sell into markets that carry higher gross margin profiles as well as their stickier business, and we believe that that will help us over time to manage the volatility that is associated with the flash business. The other thing is that, as part of all that is, is that there is an increasing awareness on behalf of our customer base that that inventory supply and demand is tightening up.
+In other words, demand is going to exceed supply this year. And so, we're seeing customers recognizing that. Prices are improving. Right now, that tightness is, it's kind of in pockets. It's not necessarily across the board. So we're seeing pockets of tightness in the market, and as we move through the balance of the year, we expect that that tightness will increase.
+And so what that means from a gross margin perspective, last quarter we said that we thought we would see modest improvement in our gross margins in the flash area. Now, we're saying that our margin profile will – it will accelerate in terms of that improvement, and I would expect as we move into the back half of the year, we'll see an increasing – more of that as the market tightens up even more in the back half of calendar 2020.
+What that means from a numeric perspective is that we would say that we have the opportunity for our flash gross margins to get into the 35% to 40% range as we get into the back half of the calendar year.
+Wamsi Mohan
+Okay, great. That's great, Steve. Thanks. Appreciate the color. And can you maybe just and you guys obviously executed pretty well in the quarter on the HDD side as you had guided to sort of have those margins step up as well. Can you talk about the path of the HDD gross margins from here as well? Thank you.
+Bob Eulau
+Yes, I think the way to think about those is we're in a range where we're comfortable going forward. So we will continue to operate around the range that we reported.
+Steve Milligan
+With a bias -- Wamsi, I would add to that. With a bias for those margins improving over time as an increasing amount of our hard drive volume shifts to capacity enterprise. So what we've talked about is something in the mid-30% range. We're not necessarily saying that that will happen in this calendar year, but that should be the bias over a period of time.
+Wamsi Mohan
+Okay, great. Thank you.
+Operator
+Thank you. Our next question comes from Aaron Rakers with Wells Fargo.
+Aaron Rakers
+Yes. Thanks for taking the questions. First kind of keeping on the hard disk drive business, I know you talked about it in the press release or the slide deck, a 100% plus growth year-over-year in nearline HDD capacity shipments. But given the competitive landscape and the questions, I'm curious, what did that – how did that perform on a sequential basis and how are you currently seeing the competitive environment?
+Steve Milligan
+Yes, so I think in general, we maintain our leading market share position, call it in the kind of low to mid-50s. We'll see where this all settles out once everybody reports. We expect that to continue right through the first half of this calendar year. And then in the back half, we obviously think we have some opportunity to continue to grow slightly.
+So from a product positioning standpoint, we feel very good about not only our 2014, which continues to be the highest volume shipper, but the expected ramp of our 16, 18, and 20 which will occur throughout the year. And as we noted in the prepared remarks, we will begin initial revenue shipments in the current quarter.
+Aaron Rakers
+Okay. And then on the gross margin on the flash side, mix can be a meaningful driver to gross margin. But I'm curious as you continue to execute on BiCS, I guess, it'd be BiCS4 and now we start to talk about BiCS5. Can you just update us on how we think about the cost curve relative to that mix shift effect to kind of take you back to that as you said, 35% to 40% gross margin? And just where are we at currently in the mix of BiCS4 in terms of bits shipped right now?
+Mike Cordano
+Yes, BiCS4 is the overwhelming majority of bits. We’re just starting the initial BiCS5 ramp. The way to think about Aaron, though, is really in this kind of 15% plus or minus annualized cost take down, and certainly we would expect that to continue as we move through this next product transition. Relative to mix, I would say both product and market segment exposure and then of course the broader ASP pricing environment are going to be the drivers of the margin enhancement through the calendar year 2020.
+Aaron Rakers
+Thank you.
+Operator
+Thank you. Our next question comes from Mehdi Hosseini with SIG.
+Mehdi Hosseini
+Yes. Thanks for taking my question. I have two follow-ups for Mike and Steve. First on the NAND side and on the game console rather new game console, and this is incremental as I imagine the prior generations are hard disk drive base and now is moving to SSDs. And there are some figures out there. I’m just wanted to see, what is your assumption for the kind of NAND supply that the new game console is going to consume, given the fact that this is incremental. And I have a follow-up.
+Mike Cordano
+Yes, I think you’re right. It is all incremental. And from an industry standpoint and certainly from our standpoint, because we were not participating in the gaming market in 2019 calendar year, on the hard drive side. I don’t think we want to go any farther than what we said in our prepared remarks, this is going to be a large multi-exabyte market and we wouldn’t want to comment any more specifically.
+Mehdi Hosseini
+Okay, fair. Moving on to hard disk drive, obviously, you’re introducing a new 18 terabyte. Can you help me understand how you’re cost competitive? I understand, your product has a fewer number of plates and as we migrate from 16 to 18. How that cost competitiveness is going to be used to increase market share.
+Mike Cordano
+Yes. So I think from our standpoint, we think we have a significant time to market lead on 18 and 20. And so the platter count to our understanding is, distance with next generation. So our benefit relative to market share is always about bringing the right products in the market in a leading way, getting smoothly through customer qualification and ramping quickly. We’ve been doing that generation over generation for several years. We will do that again on the 18, 16 and 20-terabyte product that we’ll be ramping this year.
+Steve Milligan
+And we – and Mehdi, we do have a cost advantage and we would think that, I mean, that’s represented in our underlying hard drive gross profit performance. And one of the things that you’re alluding to is that, our capacity enterprise drive and this continues for the 16, 18 and 20-terabyte drives that we are using aluminum media versus glass media and that is a lower cost?
+Mehdi Hosseini
+Got it. Thank you.
+Operator
+Thank you. Our next question comes from Karl Ackerman with Cowen.
+Karl Ackerman
+Hi, good afternoon, gentlemen. I have two, if I may. First question is regarding your NAND supply outlook and you were calling for 30% growth for the industry in calendar 2020. Is most of that coming from process conversions and what sitting an inventory? Or is it going to be dictated by adding substantial Greenfield capacity at the K1 facility? And in addition to that, your South Korean peer last night spoke about NAND demand – industry NAND demand growing kind of high-20s for 2020. How does that play into your capital planning process?
+Steve Milligan
+Yes. Hey, Karl, one thing I want to comment is, when they were talking about high 20%, I believe that was supply growth, not demand growth. So, but anyway, I’ll let Mike comment on the specifics.
+Mike Cordano
+Yes. So all the growth, both ours and the industry is technology transition. So our K1 expansion is all about technology – room for technology transition. There is no way for capacity in our plans going in. And that’s really it, I think that – across the industry. And just to comment further on where we think, we talked about low 30s in terms of supply growth, Steve commented on what Samsung’s comments were. We believe demand growth will be in the 35% plus range this year.
+Steve Milligan
+Hence, the shortage.
+Karl Ackerman
+Very helpful. Last one, if I may. Your enterprise SSD market share opportunity is quite significant and I think impressive. But when we think about that – how much of that is driven by a new server architecture launch this year versus retrofitting existing servers? And I asked because a Tier 1 U.S. based hyperscale are just announced after the close that depreciation will be lower for them in March due to an increase in useful life of their server. So if I could just kind of talk about that a little bit, that’d be great. Thank you.
+Mike Cordano
+Yes. So no, we’re not dependent on any specific server transition. So what we’re able to do with our NVMe products is when both new server and existing socket design wins in the NVMe space. And then of course, similarly in SaaS, there’ll be a series of new products announced, where we will be designed. And so we’re not dependent on any particular server transition and it’s really the power of and strength for the product portfolio as well as the customer’s view of us as a preferred supplier that’s driving that share growth.
+Karl Ackerman
+Thank you.
+Mike Cordano
+Thank you.
+Operator
+Thank you. Our next question comes from Tim Long with Barclays.
+Tim Long
+Thank you. Just going back – two for me as well. On the HDD side, can you just talk a little bit about as 16, 18 and 20 ramp through the year just for your nearline business? What do you think the gross margin in ASP impacts will be there? And then on the NAND side, there was early comment, you talked a little bit about mix. Could you just give us a sense as to the dilution from mobile? And should we expect more or less participation in that market as we move through calendar 2020. Thank you.
+Bob Eulau
+Yes. Tim, this is Bob. So the first one on the hard drive, and we have not been giving specifics on capacity enterprise margins, but they are better than average. And as we’ve said before, as our mix trends towards more and more across the enterprise, we do expect our hard drive gross margins can get up into the mid-30% range. So that’ll be a benefit to us. And from – on the mix question, I mean, we’re not – also not able to get specific, in terms of exactly what the numerical implication was that mobile, but it obviously was a dilutive to us this quarter. And over time, we’ll always participate some in the mobile market, but we’ll continue to manage that.
+Steve Milligan
+Yes. And I add the flash supply demand situation tightens up, we will see the mobile market become more attractive for us from a gross margin perspective.
+Tim Long
+Okay. Good point. Thank you.
+Operator
+Thank you. Our next question comes from Joe Moore with Morgan Stanley.
+Joe Moore
+Great. Thank you. I wonder if you could talk about the planning process behind the CapEx at the JV level on NAND. To the extent that you guys are feeling better about the business and where profitability is going. Do you feel the need to change CapEx at the JV? And then I guess, sort of second half of that question, you said earlier that – earlier in the year that you can sort of get the industry big growth without a lot of CapEx, because you won’t have the fab shut down, you won’t have the power outage. Can you just update us on your thinking of how that impacts your supply growth for the calendar year?
+Steve Milligan
+Yes. I’ll comment overall on the CapEx in terms of that growth and that sort of thing. I mean, from an overall philosophical perspective, I mean, we want to be adding a bid supply to the market that is consistent largely with the overall growth from a demand perspective. So we’re not – as a result of an improving environment, we’re not looking at accelerating or decelerating our plans. But over a longer period of time, we would want to try to manage our growth from a supply perspective to growth and demand. And so that hasn’t changed.
+Joe Moore
+Great., thank you.
+Operator
+Thank you. And our next question comes from Mitch Steves with RBC Capital Markets.
+Mitch Steves
+Hey, guys. Just two questions from me. I just want to try to clarify at least get some numbers around this or any way to think about it. So when you look at the SSD opportunities, you’re just trying to double your share there for the NVMe, it’s under the statement you guys made in the slide deck. And you combine that with the gaming platforms coming in. How much of that is adding to kind of the overall demands, you guys gave a 35% number. I’m just trying to understand how much of this you guys have clean visibility on so we can get an understanding of how much that demand is gaming plus your share gains on the enterprise side.
+Mike Cordano
+So the broader sort of industry demand number we gave you as independent of our own share growth, right. So – and in any one of these particular segments. So our view of 35% demand side growth on the year is an aggregate across the industry per bit. While we talk about segment share gains in enterprise SSD and in gaming that's obviously product segment related gains. So we're not going to talk specifically about that. I think you can kind of calculate where we think we're going on the enterprise SSD side given my comment.
+Steve Milligan
+Yes, add kind of further context to that. And what we're trying to do is we're trying to place our bits in those markets that characterize. I will call it one or two elements. One, opportunities for us to add more value from a product perspective, thereby driving higher gross margin, referring to that is, let's call it enterprise market.
+And then also those areas of the market that are either stickier, less volatile so that we can manage the ups and downs that tend to occur in this kind of market. Gaming, yes, it's incremental from a flash perspective, but it also tends to be stickier business, more predictable. And so it has some of those characteristics that are attractive to us as we look to place our business in more attractive parts of the market. As opposed to, let's call it more transactional or price-driven areas of the market.
+Mitch Steves
+Got it. Understood. And then just last one, you guys have mentioned like 40% kind of NAND gross margin is kind of the goal you guys want to get to, I'm just trying to get a better understanding of how that ramps, is that something you guys think you can exit at in calendar year or is it going to take a lot longer than that? Just looking for any sort of help, when you guys think you can get to the kind of 40% number you've talked to in the past?
+Steve Milligan
+Well, what I commented on is that given the trajectory of our business and where we see it playing out in calendar year, we expect that our flash gross margin rate will move into the 35% to 40% range as we get into the back half of the year. Now that's not being specific as that calendar Q3 or calendar Q4 wants to see exactly how the market evolves. But we clearly continue to believe that 40% range is the right level for us and we believe that we'll begin to approach that, I mean in the back half of the calendar year.
+Mitch Steves
+Perfect. Thank you.
+Operator
+Thank you. Our next question comes from C.J. Muse with Evercore.
+C.J. Muse
+Yes. Good afternoon. Thank you for taking the question. I guess first question, you talked about industry bit supply growth in the low-30s and you would be in line with that. Can you share with us what you expect to revenue on a bit basis? And as part of your thinking there, how are you contemplating bits for mobility versus elsewhere?
+Bob Eulau
+Well, the one thing I'd say relative, we don't comment specifically, but we would expect to have our own inventory positions in quite balanced state. We are entering the year and we expect it to be exiting the calendar year. So to the extent you want to calculate that, that will give you a feel for it.
+C.J. Muse
+Okay. And you're thinking on the mobility side, is that something that, you’re thinking maybe on the – you'll stick more to enterprise and consoles?
+Bob Eulau
+No. The mobility side is not all equal. And part of our effort over the last several years is getting more product diversification, as Steve talked about some of the newer areas. But we will continue to maintain exposure to mobility. We will just manage that exposure and make sure we're making or we're able to make good choices as the market continues to evolve. So we see it as a long-term area of investment. 
+We'd see there are some very attractive parts within the mobile marketplace. So we'll continue to be investing there. We'll just be able to manage our bid allocation more broadly through this calendar year and into the future.
+C.J. Muse
+Excellent. And as my follow-up, another question on the NAND gross margins, shocking. But if you could I guess speak to the K1 charges, when you think they might roll-off and how accretive that might be? And also given kind of the state of the industry today, are you running 100% utilization and what kind of tailwind do you see there? Thank you.
+Mike Cordano
+Yes. So in terms of K1, I mean, we're now having real production runs and we'll continue to have more production as we progress through the year, that this last quarter we didn't have quite as larger charges we thought we were going to, I think it came in around 65 million and I think we had said on this call last quarter would be around 75 million.
+In the current quarter, in the March quarter, we're expecting around 70 million in terms of a period expense charge. And that should start to go down after this quarter. And it's really a function of how we ramp production and obviously ability to absorb those costs, but it'll start to get better I think from here.
+Bob Eulau
+Yes. And one thing just to comment on when I talked about 35% to 40% flash gross margins in the back half of the calendar year, that is inclusive of any potential startup costs that would still remain in the back half of the year.
+Operator
+Thank you. Our next question comes from Munjal Shah with UBS. 
+Munjal Shah
+Yes. Hi. Thanks for taking my question, two questions. One, could you just update us on the CEO search and then secondly on HDD exabyte, they were down 1% sequentially, but then you talk about 100% growth on exabyte basis on year-on-year, so if you could pie those two as to why on a sequential basis exabyte would be down? And related to near line, what's the visibility into 2020?
+Steve Milligan
+Yes. So I'll take the CEO search comment or a question, and then Mike can comment on capacity enterprise. So regarding the search, the search process is ongoing. And one of the things that I will add to that is the board is very pleased with the progress that they're making today. And so that's all the update we have for now.
+Mike Cordano
+And relative to the capacity enterprise marketplace, our fiscal quarter one was a record a shipment for us. Our exabyte share was around 57%. We were operating to optimize both profit and maintain our kind of leading share position in this space, so some of that would be as little bit of a share drop. And I talked about that 53% to 55% depending on where things settle out.
+But as we looked into the first half of this calendar year, we see demand across the breadth of the market remaining fairly strong. And we think we're in a good position to maintain this leading market share position that I just talked about. So visibility is good. Obviously different customers have different plans, but when we aggregate it, we feel pretty comfortable with continued strength and demand through the first half of the calendar year.
+Munjal Shah
+Yes, thanks a lot.
+Operator
+Thank you. Our next question comes from Steven Fox with Cross Research.
+Steven Fox
+Hi, good afternoon. Just a couple of quick questions from me, first of all, you mentioned that you became supply constraint on the NVMe SSDs during the quarter. Can you just sort of talk about how you work that through and what it implies for future growth, maybe this quarter, next quarter? And then secondly, I was wondering if you could expand on your comment about the pockets of tightness you're currently seeing, what exactly would you call out, I guess besides the enterprise, but anything you can elaborate on there and where maybe it those pockets expand to in the coming quarter? Thank you.
+Mike Cordano
+Yes. So I'll take the question on the NVMe supply constraint. It was not a flash supply constraint issue, basically what happened is the demand was better than we had expected and it was some of the components that we use in our NVMe SSD product. We've worked to resolve those and it should not be an issue as we move forward through calendar 2020. And then the other question?
+Steve Milligan
+Yes. So I think what we're seeing is, in general demand has been very strong across fine SSD, really in the performance categories. So in some parts of the world there are some constraints there and that's being shown – that’s being reflected in the movement on pricing in a positive direction.
+Steven Fox
+Great. Thank you. 
+Operator
+Thank you. Our next question comes from Harlan Sur with JPMorgan.
+Harlan Sur
+Hi. Good afternoon. Thanks for taking my question. Good to see the sharp growth in the enterprise, in the NVMe SSD platforms, given the strong momentum on these products and the strong cloud spending environment. Do you think that you guys actually exited the calendar year tracking at low-double digits percentage market share or are we still somewhat constrained on the supply exiting the year?
+Mike Cordano
+Yes. To Steve's comment, we actually saw a demand in excess of our availability of the actual other components. So had we been able to fully realize that? Frankly we had been in the low-double digits on share. That remedies itself as we're now inside lead time. We continue to see strong demand for those products. And as I talked about, we expect to double revenue in that category year-over-year.
+Harlan Sur
+Great. Thanks. And on the HDD side, on the outlook for capacity enterprise exabyte shipments up kind of 35% year-over-year this year, it seems a bit conservative. I mean we're hearing that it's more likely in the mid-40% range or with 60% type year-over-year growth in the first half of this year, just given the continued strong cloud spending trends. So wondering if you can kind of layout your assumptions maybe here in the first half of the year for exabyte consumption just given that cloud and hyperscale spending still seems to be quite strong.
+Mike Cordano
+Yes, we haven’t been too specific on that. I will say, I will give you a comment that we do see at this time a bias up in demand. So I think that’s reflected in your comments. So, relative to a 35% or so annual expectation, I think our current view is a bias up from there.
+Harlan Sur
+Great. Thank you.
+Operator
+[Operator Instructions] Our next question comes from Ananda Baruah with Loop Capital.
+Ananda Baruah
+Hi, thanks guys for taking the question. Congratulations on a solid performance and it’s good to see the guide you’re really amplifying here. I’ll just stick with nearline Steve; could you just give us a little more context about how you see the aesthetic? And then Mike as well of the cloud cycle through the year, Mike it sounds like you’re saying you expected through the balance of calendar year 2020 now to some extent. Steve or Mike, do you see it potentially continuing? Is this a potential, I’m not asking for a guide, but the potential to continue exabyte demand going up sort of into the back half of the year, is this sort of one where it gets up to a peak sooner, but then maybe is sort of an extended kind of cycle. Any context there would be great. Appreciate it.
+Mike Cordano
+Let me try to clarify a little bit. We certainly see the first half of the calendar year remaining strong. I’ll reference back to the comments I just made. On an annualized basis, we’ve been talking about 35% annualized growth. We do see on an annualized basis a bias up from there. I wouldn’t want to comment kind of any further on, the way the full year or the shape of each of the individual quarters look.
+Ananda Baruah
+Okay. That’s helpful. I appreciate that clarification. Thank you guys.
+Operator
+Thank you. Our next question comes from Srini Pajjuri with SMBC Nikko Securities.
+Srini Pajjuri
+Thank you. Just to follow up on the previous questions, Steve. I guess, we’ve had pretty strong two quarters from the cloud end market here and there’s some concern that there may be a digestion period as you ahead into the first half. And I think Intel did say that, they expect somewhat of a digestion period. I’m just wondering, you tend to have pretty long visibility, especially on the drive side. I’m just wondering if you’re seeing any signs of slowdown out there that causes these to kind of, believe that there’s going to be a digestion period.
+Steve Milligan
+Yes. So again, all customers not created equal. There are some that are doing that, but when we aggregate it, the demand remains quite strong through the first half of the calendar year.
+Operator
+Thank you. Our next question comes from Vijay Rakesh with Mizuho.
+Vijay Rakesh
+Yes. Hi, guys. I’m just wondering, I saw your CapEx is down for fiscal 2020, keeping the discipline. I just wondering, I should look at the rest of the ecosystem. Are you seeing any aggressive CapEx, or how do you view that? And also on the China side with YMTC as it continue to expand, what are your thoughts in terms of supply coming in with increased or aggressive CapEx given how NAND pricing has been trending? Thanks.
+Steve Milligan
+Yes. I will comment in terms of overall industry, the extent that there’s public information. But as Samsung indicated and others have indicated, we’re all circling at a bit supply growth rate that’s kind of in a similar neighborhood. With Samsung talking about high 20% – 20% growth rate and we’re talking low or mid – in low 30s. And so, we’re kind of all aggregating and we’re not seeing anybody adding capacity from a NAND supply perspective that would concern us, certainly not on the short term because it would take up to 18 months for that to become productive capacity. And so, we’re not seeing anybody behave in a way that we think that would upset the balance from a supply demand perspective. So we feel pretty good about that.
+YMTC, no real change in terms of our expectations there. We do not see them having any material impact in terms of the market for the next several years. And we’ll continue to evaluate that depending upon their ability to ramp, not only from a pure production standpoint, but from a technology perspective. But certainly no concerns I would say over the next two to three years in that regard. And that’s kind of within the planning cycle that we would have visibility to.
+Operator
+Thank you. Our next question comes from Sidney Ho with Deutsche Bank.
+Sidney Ho
+Great, thank you. The question is if you can look at your calendar Q1 guide being roughly flat quarter-by-quarter, which seems to be better than seasonal, especially on the NAND side. Can you talk about your expectations made by products hard-drive versus SLC drives or by segment? I’m just curious how much of that above seasonal goal is a function of ASP improvement for NAND?
+Steve Milligan
+So let me, I’ll comment at a really high level and then Mike or Bob can add a little bit more specifics. But I mean, if you look at first thing, I’m going to answer it and kind of a backdoor sort of way. If you look at our gross margin improvement quarter-on-quarter, which is pretty significant in terms of 25.9 to 28.5 to 29.5 in terms of the range, almost all of that is driven by improving flash environment. So namely pricing, all right. And so, and yes, there’s mix improvements and that sort of thing. And so that directly impacts revenue.
+So when you look at an improving pricing environment that’s helping us to keep our revenues, let’s call it flattish on a quarter-on-quarter basis. And then beyond that, we continue to see the overall demand environment to be solid. I mean, just kind of solid, not great, not necessarily, but not bad. And so it’s just kind of there and that’s both a flash and a hard drive statement. And so that’s allowing us to kind of work against what would be normal seasonality drop in revenue in calendar Q1. So are really kind of the two big factors.
+Operator
+Thank you. Our next question comes from Nehal Chokshi with Maxim Group.
+Nehal Chokshi
+Yes, thank you. And great to see the accelerated NAND flash recovery in the gross margins. I did want to make sure I understand the dynamic that is going on there. Do you expect your own NAND flash inventory to decline Q-on-Q for the March quarter which I think as Micron has commented; they were expecting their NAND flash inventory to accumulate. But for NAND flash prices to increase. So I’m just wondering if you had some color there as far as your expectations on that.
+Bob Eulau
+Yes, this is Bob. I can make a couple of comments and I don’t want to start giving guidance for inventory by quarter. But we’re still not satisfied with where we are on inventory in spite of the reduction that we saw this quarter. And our goal over the next few quarters is to get to at least five turns. And that’s what we’re focused on internally as a company. So it’ll – it won’t be strictly linear getting there, but we think we can achieve that fairly soon.
+Operator
+Thank you. Our next question will come from Patrick Ho with Stifel.
+Patrick Ho
+Thank you very much. Maybe as a follow-up to some of the questions about your 18, 20 gigabit drive and terabyte drives that have been released. Can you discuss how the gross margin acceleration or the TAC-2, your target gross margin is impacted by your ability to get those out sooner in terms of the development of those drives? You talked about I think the last quarter the nine-platter was pulled in somewhat in terms of development. How does that help in the acceleration of the gross margin progression?
+Bob Eulau
+Yes, this is Bob. I guess the first thing I would say is our gross margins are already very good in terms of capacity enterprise. And as I said earlier, is our mix tends more and more toward capacity enterprise that’ll pull up our overall hard drive mix. Our mix was not as good as prior quarters, this past quarter, but you still saw the margin improvement. You saw that ASP stayed flat in spite of a tougher mix. So overall I think margins are very solid on capacity enterprise and I think as we introduced a new product, that trend will continue.
+Operator
+Thank you. And our final question will come from Mark Miller with Benchmark, before we end with a short statement by our CEO.
+Mark Miller
+Thank you. But I believe the questions I wanted to address about the second half strength in data center and also nearline have been posed. So, I don’t need to posed those again.
+Steve Milligan
+Hey Mark, good to hear your voice.
+Steve Milligan
+All right. So thank you all for joining us today and we look forward to seeing you at the upcoming Goldman Sachs Technology Conference in San Francisco. Have a good rest of the day.
+Operator
+This concludes today’s conference call. Thank you for joining. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+2 Authors in the Last 90 Days

@@ -1,0 +1,286 @@
+Cisco Systems, Inc. (NASDAQ:CSCO) Q2 2020 Earnings Conference Call February 12, 2020  4:30 PM ET
+Company Participants
+Marilyn Mora - Head of Investor Relations
+Chuck Robbins - Chairman & Chief Executive Officer
+Kelly Kramer - Chief Financial Officer
+Conference Call Participants
+Tim Long - Barclays
+Tejas Venkatesh - UBS
+Simon Leopold - Raymond James
+Paul Silverstein - Cowen and Company
+Jim Suva - Citigroup Investment Research
+Ittai Kidron - Oppenheimer & Company
+Jeff Kvaal - Nomura.
+Rod Hall - Goldman Sachs
+Sami Badri - Credit Suisse
+Samik Chatterjee - JPMorgan
+Tal Liani - Bank of America Securities
+Meta Marshall - Morgan Stanley
+Jim Fish - Piper Sandler
+Operator
+Welcome to Cisco's Second Quarter Fiscal Year 2020 Financial Results Conference Call. At the request of Cisco, today's conference is being recorded. If you have any objections you may disconnect.
+Now, I would like to introduce Marilyn Mora, Head of Investor Relations. Ma'am you may begin.
+Marilyn Mora
+Thanks Michelle. Welcome everyone to Cisco's second quarter fiscal 2020 quarterly earnings conference call. This is Marilyn Mora, Head of Investor Relations and I'm joined by Chuck Robbins, our Chairman and CEO; and Kelly Kramer, our CFO.
+By now you should have seen our earnings press release. A corresponding webcast with slides including supplemental information will be made available on our website in the Investor Relations section following the call.
+Income statements, full GAAP to non-GAAP reconciliation information, balance sheets, cash flow statements, and other financial information can also be found in the financial information section of our Investor Relations' website.
+Throughout this conference call we will be referencing both GAAP and non-GAAP financial results and we'll discuss product results in terms of revenue and geographic and customer results in terms of product orders unless stated otherwise.
+All comparisons made throughout this call will be made on a year-over-year basis. The matters we will be discussing today include forward-looking statements including the guidance we will be providing for the third quarter of fiscal 2020. They are subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC, specifically the most recent reports on Forms 10-K and 10-Q which identify important risk factors that could cause actual results to differ materially from those contained in the forward-looking statements.
+With respect to guidance, please also see the slides and press release that accompany this call for further details. Cisco will not comment on its financial guidance during the quarter unless it is done through an explicit public disclosure.
+With that, I'll now turn it over to Chuck.
+Chuck Robbins
+Thanks Marilyn and good afternoon everyone. As we told you last quarter and still see now the feedback from our customers is that they remain strongly committed to both our products and services. However, like many in our industry, we are seeing longer decision-making cycles across our customer segments for a variety of reasons including macro uncertainty as well as unique geographical issues. The good news is once this uncertainty passes for our customers, we expect to see spending recover as technology continues to be at the heart of all they do.
+You'll see in our numbers this quarter that we continue to make progress on several key metrics including our shift to more software and subscriptions with 72% of our software now being sold as a subscription.
+While we still have a lot more work to do, I firmly believe we have a tremendous opportunity ahead of us. The long-term secular growth trends of 5G, Wi-Fi 6, 400 gig, and the shift to the cloud remain and we expect to benefit from them.
+This is a multiyear transformation and we are managing our business well while staying focused on helping our customers build simpler, more secure, and cost-effective networks. The broad adoption of multi-cloud and modern application environments is changing how the world's largest networks are built, operated, and secured and Cisco is at the center of this transition.
+We have made significant investments in the development of software, silicon, and optics; the building blocks for the Internet of the future. We believe this strategy will change the economics of how the Internet will be built to support 5G, 400 gig, and the demands of the future, while helping our customers innovate and move faster than ever before.
+In December, we introduced Cisco Silicon One, a first-ever single unified silicon architecture; and the Cisco 8000 carrier-class router family built on Silicon One; as well as our new iOS XR7 operating system.
+We also announced new flexible purchasing options that enable customers to consume our technology however they choose. We also collaborated closely with several of the largest web-scale and SP companies throughout the development process. Their participation in our launch demonstrates their strong support of our strategy as well as our commitment to continued innovation.
+Our goal is to accelerate the deployment of next-generation Internet infrastructure by offering our customers choices of components, white box, or integrated systems in a flexible consumption model.
+Now, let me share a brief update on our businesses starting with infrastructure platforms. As the global leader in networking, we believe we are well positioned with our intent-based networking portfolio given the strategic investments we've been making.
+Over the past several quarters, we've made tremendous progress integrating automation, analytics, and security across our enterprise networking portfolio, while at the same time shifting to a subscription-based model. A great example of our success is the ongoing strong adoption of our Catalyst 9000 platforms.
+We continue to extend our secure SD-WAN solutions as customers move more applications to the cloud. To do this, we are actively engaging with web-scale companies to help our customers extend their wide-area networks to the cloud and secure their business applications. Recently, we announced integration with Microsoft, Azure Virtual WAN and Office 365 along with a deeper partnership with Amazon Web Services to deliver highly secure end-to-end connectivity and better application performance.
+Now to Security. We had another solid quarter with strength across our advanced threat and cloud-based solutions including Duo and Umbrella, which are important growth drivers of our business. We continue to see significant opportunity as we execute on our strategy to deliver an integrated security platform. As the market moves to a multi-cloud environment and the need for visibility grows, we're benefiting from our strong position as our customers' most trusted partner.
+Our differentiated end-to-end approach across the network, cloud and endpoint is winning customers with 100% of the Fortune 100 now using one or more of Cisco security solutions. This quarter, we expanded our security portfolio from the cloud to the edge. We brought to market an integrated IoT architecture, providing enhanced visibility, insights and threat detection across our customers' entire environment. This architecture includes our new software-based security solutions Cyber Vision; and our Edge Intelligence data collection tool to enable our customers to make better business decisions.
+Finally Applications. There is no question that customers are undergoing a significant workplace transformation and they are turning to Cisco to help them with this transition. As a global market leader, we believe we are the only company providing a cognitive highly secure and analytics-driven collaboration platform which is the foundation for their workplace transformation. This platform is becoming increasingly critical to how enterprises empower their teams by allowing their employees to work more effectively together.
+To extend our value proposition, we continue to make strategic investments. For example, we recently brought to market several key WebEx capabilities, which combine context, AI and machine learning to enable our customers and their teams to further enhance their meeting experiences. We achieved another strong quarter of growth with AppDynamics demonstrating our ability to deliver unique real-time AI-powered insights from a single pane of glass providing complete visibility.
+Our customers are looking to connect application performance monitoring with infrastructure automation to simplify IT and increase productivity. Two weeks ago, we announced we are bringing together AppDynamics and our Intersight Workload Optimizer to deliver comprehensive visibility of applications and infrastructure both on-prem and in the cloud using machine learning and AI to proactively remediate problems and optimize user experiences.
+To summarize, I am pleased with our business transformation and with the new innovative platforms we're bringing to market. While we continue to experience some pause in customer spending related to the uncertainty in the global macro environment, our long-term growth opportunities remain unchanged. Going forward, we will continue to focus on developing groundbreaking technologies and building a new Internet for the 5G era that will help our customers innovate faster than ever before. I remain incredibly confident that our execution against our strategy will drive profitable growth and generate strong shareholder returns for the long-term.
+I will now turn it over to Kelly.
+Kelly Kramer
+Thanks, Chuck. I'll start with a summary of our financial results for the quarter followed by the guidance for Q3. Our overall Q2 results were consistent with our expectations. We executed well with strong margins and EPS growth. Total revenue was down $12 billion -- was at $12 billion, down 4%. Our non-GAAP operating margin rate was 33.7%, up 1.6 points. Non-GAAP net income was $3.3 billion, flat year-over-year; and non-GAAP EPS was $0.77, up 5%.
+Let me provide some more detail on our Q2 revenue. Total product revenue was down 6% to $8.7 billion. Infrastructure Platforms was down 8%. Switching revenue declined in both Campus and Data Center. We did see growth with the continued ramp of our Cat 9K and strength of the Nexus 9K. Routing declined driven by weakness in service provider. Wireless declined overall, but we did see strong growth in Meraki and are starting to see the ramp of our WiFi six products.
+Data Center revenue declined driven by servers offset by strong growth in HyperFlex. Applications was down 8% driven by a decline in Unified Communications, partially offset by double-digit growth in AppDynamics. Security was 9% with strong performance in identity and access, advanced threat and unified threat management. Service revenue was up 5% driven by software and solution support.
+We continue to transform our business delivering more software offerings and driving more subscriptions. Software subscriptions were 72% of total software revenue, up 7 points year-over-year. In terms of orders in Q2, total product orders were down 6%. Looking at our geographies, the Americas was down 8%, EMEA was down 1% and APJC was down 4%. Total emerging markets were down 7% with the BRICs plus Mexico down 20%.
+In our customer segments, public sector was flat while enterprise was down 7%. Commercial was down 4% and service provider was down 11%. Remaining performance obligations or RPO at the end of Q2 were $24.9 billion, up 11%. From a non-GAAP profitability perspective, total Q2 gross margin was 66.4%, up 2.3 points.
+Product gross margin was 65.9%, up 3.1 points; and service gross margin was 67.7% flat year-over-year. In terms of the bottom line from a GAAP perspective Q2 net income was $2.9 billion and EPS was $0.68. We ended Q2 with total cash, cash equivalents and investments of $27.1 billion. Operating cash flow was $3.8 billion flat year-over-year.
+From a capital allocation perspective, we returned $2.4 billion to shareholders during the quarter that was comprised of $0.9 billion of share repurchases and $1.5 billion for our quarterly dividend. Today we announced a $0.01 increase to the quarterly dividend to $0.36 per share up 3% year-over-year.
+This represents a yield of approximately 2.9% based on today's closing price. This dividend increase reinforces our commitment to returning capital to our shareholders and our confidence in the strength and stability of our ongoing cash flows.
+We continue to invest organically and inorganically in our innovation pipeline. In early Q3, we closed our acquisition of Exablaze a designer and manufacturer of advanced network devices aimed at reducing latency and improving network performance.
+To summarize we executed well with strong margins and EPS growth. We're seeing the returns on the investments we're making in innovation and driving the shift to more software and subscriptions delivering long-term growth and shareholder value.
+Let me reiterate our guidance for the third quarter of fiscal 2020. This guidance includes the type of forward-looking information that Marilyn referred to earlier. We expect revenue to decline in the range of minus 1.5% to minus 3.5% year-over-year.
+We anticipate the non-GAAP gross margin rate to be in the range of 64.5% to 65.5%. The non-GAAP operating margin rate is expected to be in the range of 32.5% to 33.5% and the non-GAAP tax provision rate is expected to be 20%. Non-GAAP earnings per share is expected to range from $0.79 to $0.81. Our guidance does not reflect any potential disruptions in our global supply chain that could result from the coronavirus. We will continue to monitor the situation closely.
+I'll now turn it back to Marilyn so we can move into Q&A.
+Marilyn Mora
+Thanks Kelly. Michelle let's go ahead and open the line for questions.
+Question-and-Answer Session
+Operator
+Thank you. Tim Long from Barclays, you may go ahead.
+Tim Long
+Yes. Thank you. Chuck maybe if I could just start talking about the macro and the kind of the longer decision process. In your sense, how long do you think this would last particularly if you maybe put into the context that you mentioned a lot of industry drivers going on in 400 gig and WiFi 6?
+And obviously you got some new router and silicon products out. So maybe just talk a little bit about the timing of that recovery and how you think you can maybe outperform it given all the different dynamics you have going across the businesses this year?
+Chuck Robbins
+Yes. Tim thanks. It's a great question. So I think first of all, there are many secular growth drivers that are lined up the 5G transition the 400-gig transition WiFi 6 the shift to cloud. And what we're seeing from customers is really just -- it's just pausing just trying to see what's going on.
+Now what I'll say is that clearly late in the quarter, if you look at some of the issues that had been outstanding that were creating some of the uncertainty like Brexit, we got closer to resolution. We obviously got a signature late in the quarter on a first phase of the U.S./China trade deal and USMCA has now gone through in the U.S.. So hopefully those will give our customers a little more viability.
+When I speak to the customers, they're still fully planning on moving forward. They're just a little cautious and trying to see what's going on. We obviously have the virus now that we'll see how it plays out. But overall, I don't think it's deep. And we expect that given some of this uncertainty has now dissipated, notwithstanding what we see obviously from the virus that hopefully, we'll see our customers pick up again.
+Tim Long
+Thank you.
+Marilyn Mora
+Thanks Tim. Next question please.
+Operator
+Tejas Venkatesh from UBS. You may go ahead.
+Tejas Venkatesh
+Thank you. I had a big-picture question. With the December routing announcements and the Cat 9K before that, a lot of the Cisco strategy is now around selling incremental automation software to lower customer OpEx. That seems to require a significant change in your organization. So how far along are you in the sales and channel transformation to fit that goal? Thank you.
+Chuck Robbins
+That's a very good question. Thank you. We have done a lot of work on the transformation of being able to support the software model and the subscription software model in particular with the automation. And we have -- if you go back to 2017 when we first launched the Catalyst 9000, and we announced subscription businesses on our enterprise networking portfolio, the second half of this year will have some -- a number of -- a small amount of the early renewals on that. So our team has been working hard to be prepared for those renewals. And then in fiscal 2021 we'll see a material number, a reasonably material number associated with that.
+So I think the sales organization, we've run pilots and now we've scaled things. We're running other pilots and we're scaling things. And we've got the customer experience organization that Maria Martina is leading that has been building out their capabilities. So we have more to do, but I feel good about the progress we've made, and I think that we're in a pretty good position right now.
+Marilyn Mora
+Next question, please.
+Operator
+Simon Leopold from Raymond James. You may go ahead.
+Simon Leopold
+Thank you very much. I'm wondering if maybe you could talk a little bit more about the service provider vertical given, it's been a long-running challenge and seems as if maybe to some extent it's less of a focus for Cisco given that it's such -- become a smaller part of the business. But I want to see if you can maybe talk about how you see this market eventually recovering kind of the timing and the drivers maybe double-clicking beyond just sort of the 5G hand-waving, if we could get a better understanding of what will drive it and when? Thank you.
+Chuck Robbins
+Simon, it's a lot better just to wave hands. Now let me tell you a little bit. I don't think that it's a market that we are ignoring or we -- in fact, if you look at the announcements we made in December let me give you a little update on that. We have about five years of R&D effort in what we announced in December. So that's a lot of commitment to the market. So we do believe that there will be a resurgence.
+I think that-- I will talk about 5G and 400 gig as well. But just to give you an update on -- in December as you know we launched Silicon One, which is at the heart of these new systems called Cisco 8000 that we launched. And we also announced that we would be willing to sell our Silicon to go into a white box or sell it just directly to a customer if that's how they like to procure it.
+I will tell you that across the cloud titans there, we're engaged with all of them on variations of those architectures. Several of them were with us at the announcement in December, which shows you their belief in what we're doing. We have taken orders for both from different cloud players, and so we feel good about the acceptance of that launch.
+The 8000 series will be a fundamental backbone product for 5G networks and I will tell you that we have early wins on IP infrastructure to support 5G rollouts in over 30 customers around the world. They're early. Some of those are cell site, aggregation, backhaul, some core wins. Most of them are in non-standalone, which means they're enhancing their current networks, and then they'll look to build standalone networks.
+As we've said, we believe that will start in 2021 where we could begin to see some of that pick up. So we think the 400 gig transition as well as the 5G build-out will be the drivers that we'd be looking for over the next couple of years.
+Simon Leopold
+Thank you.
+Marilyn Mora
+Thanks Chuck. Next question, please.
+Operator
+Thank you. Paul Silverstein from Cowen and Company. You may go ahead. Paul Silverstein, your line is open.
+Paul Silverstein
+Sorry, I'm still -- don't know how to use the cellphone. Kelly, your margin structure was particularly strong this quarter and that represents a long-standing trend both near-term and longer-term. I recognize the guidance represents an easing. I assume some of that is due to the backup in DRAM pricing or the pending backup. Can you go back through the drivers and what you expect over the next year or two, so that's gross and the operating level?
+Kelly Kramer
+Yeah. Yeah. Yeah, sure. Happy to. And I know we're really happy about where the -- both gross margins and op margins are. But as you know Paul it's driven by a few things. This software transformation has been benefiting us through both – you can see it in the mix of our products when we show you the gross margin walks in our Qs as well as just overall so we're benefiting from that.
+I'd say the second big driver is price. We've been very, very disciplined on price, meaning we're taking advantage of raising prices where we have elasticity for example on really older products that we want to shift to newer products or where we know we have room to move. We've been doing that I think very effectively.
+We've been managing the decline in the pricing and the server market fairly well balancing that with the DRAM prices that are going down dramatically. So what you're going to see in the reporting this quarter Paul and I know you always ask you'll see our pricing.
+I mentioned in the last quarter's call that pricing was at an all-time lowest level of impact meaning the most beneficial it's been. We're right back at 1.1 points on our year-over-year gross margin walk, so it's still very, very good for us and more in line of what it was I'd say a couple of quarters before Q1. So that's going well.
+DRAM is benefiting us this quarter for sure. And as you know that's becoming less and less of a benefit to us now as we're starting to see the DRAM prices tick back up. But we again manage that pricing and DRAM cost equation very well. So just in general I think you can expect a little bit more pressure from DRAM pricing the year-over-year compares getting less which is why I guided what I guided. But overall you're still going to see the goodness coming through from the continued increase of our business being software driven.
+Paul Silverstein
+Kelly, if I could just quickly follow up. Looking beyond the quarter, looking beyond April, given the ongoing shift to software is there any reason why margins should continue to head up putting aside quarterly volatility?
+Kelly Kramer
+Yes. I mean, again, I would say yes, because what we're doing on the portfolio is more and more software content. So by definition it will be good for us. We will always have the potential for large swings for things like component costs like DRAM plus or minus. But as always, we'll let you know when those are happening. But yes, I mean, if you go back and look three years back from where we were there to where we are now it is long term just the shift of the overall portfolio that we've been driving.
+Paul Silverstein
+Appreciate it. Thank you.
+Marilyn Mora
+Thanks. Next question please
+Operator
+Jim Suva from Citigroup Investment Research. You may go ahead sir
+Jim Suva
+Thank you very much for the clarity so far. And I had one question that's kind of more broad. I don't know if it's – for which of you. But on product orders, I was just kind of looking and thinking about the product orders. It looks like the enterprise product orders got incrementally a little more challenged. Public sector got a little more challenged. Service provider marginally improved compared to last quarter year-over-year.
+So can you maybe just give us some color on product orders? It looks like maybe enterprise a little difficult year-over-year comps. Was it last year a big product cycle in enterprise? Or why are we actually seeing enterprise kind of decline incrementally a little bit worse? Thank you.
+Kelly Kramer
+Yes. Hey, Jim good question and let me take a crack at it. So when I look at the segment it's – if I focus on enterprise, a lot of it is the Q2 2019 really, really strong product cycle ramps we had. So if I go back to Q2 2019, it was a record for the campus switching for – as well as for Collaboration back in Q2 2019.
+No excuse, but that's what that was. I would say beyond that if I would isolate overall kind of our regions from a bookings point of view, the Americas was down 8%. And if I look at that the U.S. itself was slightly better but in that range and I'd say it was driven by two areas. It was driven by the routing portfolio largely SP segment. That was the biggest driver. And the second biggest driver was the decline we're seeing in the server market. And again that's directly related to the decline of DRAM prices flowing through the entire market and we saw that last quarter as well. So that drove the Americas.
+Europe was at minus 1% basically flat. But that – the biggest driver when I look at Europe was really the U.K. We are seeing a slowdown because of Brexit and we did see it in the public sector significantly, which is always a big growth driver for the U.K. for us. So U.K. both enterprise and public sector has slowed down for us, which drove Europe. Europe would have been up 2 points without the U.K.
+And then for APJC, it continues to be the rapid decline of China. China, as I've talked about and the BRICS plus Mexico being down, China was down again over 30%. It's still only about 2% of our total business, but it still hurts the overall -- I mean, Asia Pac, excluding China, would have been up a couple of points as well, 3 points. So from geography, those are the key drivers. And, again, to your point, we are going off against some tough compares in enterprise for both the Catalyst 9K ramp a year ago and Collab just had a record quarter.
+Jim Suva 
+Thank you. That was a great explanation and greatly appreciated. Thank you so much.
+Kelly Kramer
+Thanks Jim.
+Marilyn Mora
+Thanks Jim. Next question, please.
+Operator
+Ittai Kidron from Oppenheimer & Company. You may go ahead, sir.
+Ittai Kidron
+Thanks. Chuck, I wanted to dig into applications, down 8% on a year-over-year basis. And I understand the pressure on the unified communications business and it's good to see AppD is still growing. But you haven't talked WebEx. Am I to assume that WebEx is not growing, stuck in the middle here? Help me think about the transformation AMI has been doing over there, where we are in that transformation? And how should I think about the growth and competitiveness of that platform going forward?
+Chuck Robbins
+Yes. I think the -- first of all, they have re-architected all those platforms, integrated the back ends and have a very modern set of solutions to take to market. And we're currently working -- I was talking to the team yesterday. I think, there's 11 workshops with major customers in the next 30 days to work on plans, to get them to the modern portfolio, because some customers have been running variations of the stuff that we've had out there for 10 to 15 years, so we're in good shape.
+In fact, there was a great analyst report that was written just a couple of days ago about -- industry analyst, about the portfolio and how far it's come and how effective it is right now. So I feel good about what they're doing. I think if you look back a year ago flat out -- Collab was up 24%. I mean -- and it's a huge business to be up that much. So they had a very tough year to compare against, but I'm pleased with where they are. There is competition. Obviously, there's some good competition in the space, which frankly should just keep making us better. But the team is doing, I think, a really good job. Kelly, do you want to comment on -- 
+Kelly Kramer
+Yes. I mean, I'll just give you the -- I'd say, the largest driver was the UC business and the revenue being down, the huge majority followed, by a bit on the endpoints on the TP. And conferencing was down marginally, hardly anything. So the biggest driver was for sure on the Unified Communications side.
+Ittai Kidron
+Very good. All right. Good luck, guys. 
+Kelly Kramer
+Thank you.
+Marilyn Mora
+Next question, please.
+Operator
+Thank you. Jeff Kvaal from Nomura. You may go ahead.
+Jeff Kvaal
+Yes. Thank you very much for taking the question. I was hoping that you could unpack, sort of, a bit of a bigger downtick, maybe, in IP than we were expecting a balanced by a better performance on the services line. Can you sort of help us understand what the dynamics are and some of that maybe accounting for where the software goes? I'd love to understand that a little bit better, please.
+Kelly Kramer
+Yes. I would say -- I've talked about this. On the service increase, there's been no change on the accounting side for how we account for software. Service improvement, we've been really driving that. Maria Martinez, the lead CX for customer experience, has been really focused on driving renewal rates and adoption. And you've seen our services business from a revenue perspective tick up over the last four quarters. So, I'd say, that 5% growth you saw in services is just continued performance by that team to do that.
+I'd say, on the infrastructure platform side, it does go back to, again, just very, very -- we were peak -- not peak, but we were very, very high ramping of Campus, switching last year that -- so that's a tougher compare. I mean, it's still growing like crazy, but that's a big driver. Routing is still down, driven by the SP segment.
+And then in terms of the last piece from a year, again, we talk about, and you saw that applications was up 24%, again, which was all Collab basically, a year ago as well. So it's nothing more than those things, I would say. Combined with, just the data center server market, is -- we're starting to feel that, you can see what's happening in the market there.
+Jeff Kvaal
+Does that imply, Kelly, that that 5% services growth rate is a durable number? Or should we be thinking it will fluctuate between that and the sort of low single-digit growth that we've seen?
+Kelly Kramer
+Well, we certainly – we're certainly trying to make that a sustainable kind of range. We have no desire to have that slowdown. But again, it's – the team is doing everything they can. They're offering new solutions not just – they're trying to find more ways to drive incremental growth versus just being tied to the maintenance to the product orders. And they're driving much more solutions along software and everything else, so they're working a lot of plays in the services area.
+Jeff Kvaal
+Obviously they are. Congratulations. Thank you.
+Kelly Kramer
+Thank you.
+Marilyn Mora
+Next question, please.
+Operator
+Rod Hall from Goldman Sachs. You may go ahead, sir.
+Rod Hall
+Yeah. Thanks for fitting me in. I just had a quick question trying to juxtapose the guidance with the order rates. If you look at the total product orders, the rate they're down 6%; after down 4%. So that deteriorated. And yeah, your revenue guidance for the midpoint at least your revenue decline is a little better than last the quarter you just printed. So you printed down 3.5%; and the guide down 2.5%. So kind of tailing on Jeff's question there is the services making that up? And what should we be expecting for product revenue in the guided quarter? And then, I also – I'm hoping Chuck maybe you'll make a comment on this whole 5G investment commentary coming out of the press and maybe the government. What do you think about – how interested is Cisco in potentially helping deploy U.S. wireless infrastructure not the stuff you do today, but actual base stations and things like that? Could you just comment on how you see some of those – that commentary, how you think that might develop?
+Chuck Robbins
+You want to go first?
+Kelly Kramer
+Yeah. I can go first. Yes. Your question is a good question Rod, but I would say really the – where we ended up at the minus 6% was not a surprise. That's kind of when I gave guidance for the Q2 kind of what the expectation was. I would say, as you know when we roll up – when we roll up the guide as we go for Q3 we just – it's the same process and we know exactly what's coming off the balance sheet. We have – we know exactly what's in backlog. We know exactly what we expect for orders coming in and it's just pure math. I think again back to a lot of the decline in the order rate was there's a bit of compares. But the rest when you do the math and add it all up to what you expect to come through for the next quarter it gives you the number I guided the midpoint. If you look at that it's very consistent with what our normal Q3 to Q2 sequentials are.
+Rod Hall
+Excellent.
+Chuck Robbins
+And then Rod on the question around the 5G discussions in Washington, I mean, obviously they're very interested in having U.S. companies participating in 5G and frankly lead in 5G. And so we have spent a lot of time educating different folks in Washington about what technologies actually constitute an entire 5G network. So you rightly said not the stuff we have, but the radio which is pretty much what we don't have. But I think that – I think the U.S. is in really good shape. I think we have packet core. We've got cell site and radio backhaul. We got the IP routing core. We got security and we have – obviously, there's a couple of companies in Europe one in South Korea that provide the radio technology. There's also software players that are out there right now that are building disaggregated open RAN solutions that can be used in the future.
+And so we're spending a lot of time helping them understand that and working to just make sure that there's a recognition that there's a lot of technology that's been built and being built here in the United States that is leading in these 5G infrastructures. And I actually, think the U.S. is in fine shape. I think both from a carrier deployment perspective, I think we're in great shape, and I think we're in good position with the technology. I don't think the U.S. government should make investments in these companies, but we are certainly working with lots of industry peers again on both education, and then trying to just make sure that the U.S. does have solutions with combining these European players with a lot of our technologies to make sure that everyone's comfortable with those solutions.
+Rod Hall
+That's great Thanks, Chuck.
+Chuck Robbins
+Yeah.
+Marilyn Mora
+Thanks Chuck. Next question, please.
+Operator
+Sami Badri from Credit Suisse. You may go ahead.
+Sami Badri
+Thank you. I would like to ask about the SP orders that were down 11% in the quarter. And looking forward to the back half of this year and any kind of forward-looking indicator trajectory commentary would be helpful.
+If we look at two scenarios; one scenario assuming a recent telecom consolidation, right that we've all heard about in the last two days; and then the scenario where no consolidation actually happens for the rest of the year. Should we expect service provider orders to inflect positively in one of those scenarios or in both of those scenarios as we look at the back half and maybe kind of mid to back half of 2020?
+Chuck Robbins
+That's a tough question to answer. We've been dealing with challenges in this segment for a long time. I think the -- history would tell you that when we see consolidation, it creates a slowing. I'm not sure that this particular one represents that because I think they are going to be an investment mode and is triggering investment with other players as well. And I think the 5G build-out that all of them are working on will probably fuel investment.
+I think for us it just depends on how quickly they do that and how soon they decide to build a standalone 5G network for enterprises. I think most of them are looking at their consumer networks and believing they can accommodate them on their existing backbones with perhaps some minor upgrades, but I think that will determine it.
+So, I think it's more connected to how fast they move on that than it has to do with any of the consolidation or no consolidation right now.
+Sami Badri
+Got it. Thank you.
+Marilyn Mora
+Next question please.
+Operator
+Samik Chatterjee from JPMorgan, you may go ahead.
+Samik Chatterjee
+Hi, thanks for taking the question. I just wanted to see if we can drill down a bit more on the Cat 9000 product portfolio. You mentioned already a couple of times on the call that the product momentum -- the revenue momentum there is quite strong. I was just wondering if you can kind of talk about the impact on the growth rate that you've kind of seen directionally through this kind of broader landscape of slowing enterprise spending and if the growth rate there is kind of still substantially different from what you're seeing for the rest of the portfolio.
+Is it -- do you think it's more a reflection of the subscription kind of model that you're going with on that portfolio or more kind of the refresh that's driving that difference and kind of what you're seeing related to the rest of the portfolio?
+Kelly Kramer
+Yes. I'll just say the growth rate of the Cat 9000 is unbelievable still. I mean it is a very high double-digit number. I would say there's no -- we haven't heard issues. I'd say for maybe some of the smaller DCEs there's a question about the subscription but we've managed through that. But I would say those the new products from the 9200 through the 9600 that isn't slowing and the growth rates are very, very strong.
+Obviously, the legacy products that they have replaced are falling off as you would expect, but we have not seen any slow on the transition. It's the fast -- and again, we mentioned this in the early ramp of the Cat 9000, but at this point the percentage of what the Cat 9000 as of total campus switching is the fastest ramp of any transition we've done.
+Chuck Robbins
+And if you look at the -- what Kelly talked about earlier with Wi-Fi 6 beginning to ramp, that's a subscription model. Our Meraki business is a subscription model which is still growing very well. So, I don't think the subscription model has anything to do with it. I just think in certain cases some of our larger customers who are watching some of the things going on just decided to just take a pause and take a look at what's happening and then I think they'll kick back in.
+Samik Chatterjee
+Okay. Thank you.
+Marilyn Mora
+Great. Next question please.
+Operator
+Thank you. Tal Liani from Bank of America Securities, you may go ahead sir.
+Tal Liani
+Yes. Hi. I want to ask you a broader question and I will call it secular versus cyclical. Switching had a small cycle short cycle with a new switch. There was growth acceleration. Now, we see a decline overall in switching and there's probably substitution between new and old and routing is also declining.
+And the question I'm asking is of the trends you see today, data center switching, campus switching, routing, service providers what is cyclical and what is secular? Meaning when are we going to see a reversal -- or not when in terms of timing. What's going to drive I should say -- what's going to drive a reversal of the trends in routing? What could drive? What could drive a reversal in data centers and campuses? What are the things that could drive at least a cyclical growth from here or even secular growth kind of longer term? Thanks.
+Chuck Robbins
+So Tal, it's great question. I think in the routing space is simply it's the 5G backbone build-out that we've been talking about for a few years. Once that starts I think -- given the percentage of our routing business that is attributed to service providers, I think that's the key as well as us winning these Cisco 8000 insertions that we have proof of concepts going on today with many of the large customers both service provider and web-scale players. So, I think that's that one.
+And I think on the campus side, I just think that's just a timing issue. I think that the growth we're seeing in the Catalyst 9000 is tremendous. And I think that customers that began to build out their refresh. Given where we are as a percentage of the installed base that we have replaced, it's got a long road ahead of it. I think that the only reason that we saw a little slowdown is just because customers just decided to pause the deployments a bit. But I think that that will come back when this uncertainty and the capital spending frees up.
+Tal Liani
+And routing?
+Chuck Robbins
+Routing, I answered first with the SP with the 5G backbone stuff, because of how big a percentage service provider represents in our routing portfolio.
+Tal Liani
+Okay. Thank you.
+Chuck Robbins
+Thanks.
+Marilyn Mora
+Thanks, Tal. Next question please.
+Operator
+Meta Marshall from Morgan Stanley. You may go ahead.
+Meta Marshall
+Great, thanks. With subscriptions being 72% of software revenue, which you stated, I wondered if you kind of had an update as to how much of a headwind that kind of business model transition is. In the past you kind of said a couple of hundred basis points. But just any – directionally, if that's still about right would be helpful. Thanks.
+Kelly Kramer
+Yeah. I mean again, I think back a few years ago before we adopted the new revenue standards, it was a bigger impact. It was up to like 250 or 300 basis points with ASC 606. It's come back down to the 100 basis points. But at this point, we don't even talk about it that way because we've been ramping so quickly the entire portfolio to that. But at max, it would be I'd say 100 bps or so.
+Meta Marshall
+Great, thanks.
+Marilyn Mora
+Yes. We have time for one more question, Michelle, for one more.
+Operator
+Thank you. Jim Fish from Piper Sandler. You may go ahead, sir.
+Jim Fish
+Hey, guys. Thanks for squeezing me in. One part that we haven't talked about here today is on the security side. We have RSA coming up at the end of the month. So just wondering if we could double-click on where we are with Duo and Umbrella together as it seems like they're the biggest drivers of the business? Can you guys talk a little bit more about the contribution of these two specifically to the portfolio and how Umbrella specifically is impacting your adoption of secure SD-WAN versus some of the other vendors that are out there? Thanks.
+Chuck Robbins
+Yes. So, I'll give you the sort of the qualitative answer and Kelly can give you something on the data. But I think the secure SD-WAN is, the solution that our customers are looking for. I mean they want the integration with their cloud gateways from their branches. And so, it is a key differentiator for us.
+Our teams are working hard on continuing to build that out. And I think, over the next couple of years, it will continue to -- it will be even more of a differentiator as we continue to get more and more integration between those two portfolios. Kelly?
+Kelly Kramer
+Yeah. No. I'd say that's absolutely right. And in terms of how important Umbrella and Duo are they absolutely are the key growth drivers for us, the whole cloud security space for us. And will continue to be so.
+And I'd say we recently launched our Security in a great way, which is just starting. And that will be all part of our cloud security portfolio as well. And we expect that to be a huge growth driver as well.
+Jim Fish
+Got it, thanks.
+Marilyn Mora
+Yes.
+Chuck Robbins
+Thank you. All right, well let me just thank everyone for joining us today. And I'll just recap by saying that while we have seen a bit of a pause, we actually feel really good. The conversations I have with our customers, I mean all of the things they're trying to do I believe, our technology is at the heart of.
+Whether it's, rebuilding their applications, whether securing their data, transforming their infrastructure in this new era or changing their user experience as well as the way they interface with their customers. I think that we're in a very good position to help them do that. And we feel good about where we are.
+So thank you all for joining us today. And we'll look forward to catching up with you next quarter.
+Marilyn Mora
+Thanks, Chuck. Just to wrap the call, Cisco's next quarterly earnings conference call which will reflect our fiscal 2020 third quarter results will be on, Wednesday May 13 2020 at 1:30 p.m. Pacific Time, 4:30 p.m. Eastern Time.
+Again I'd like to remind the audience that in light of Regulation FD, Cisco's policy is not to comment on its financial guidance during the quarter, unless it is done through an explicit public disclosure.
+We now plan to close the call. If there are any further questions, feel free to contact Cisco's Investor Relations group. And we thank you very much for joining today's call.
+Operator
+Thank you for participating on today's conference call. If you would like to listen to the call in its entirety, you may call 800-839-1160. For participants dialing from outside the U.S., please dial 402-998-0925. This concludes today's call. You may disconnect at this time.
+
+
+
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+7 Authors in the Last 90 Days

@@ -1,0 +1,352 @@
+NetApp, Inc. (NASDAQ:NTAP) Q2 2021 Earnings Conference Call December  1, 2020  5:00 PM ET
+Company Participants
+Kris Newton - VP, IR
+George Kurian - CEO
+Mike Berry - EVP and CFO
+Conference Call Participants
+Tim Long - Barclays
+Rod Hall - Goldman Sachs
+Karl Ackerman - Cowen
+Mehdi Hosseini - SIG
+Amit Daryanani - Evercore IS
+Ananda Baruah - Loop Capital
+Matt Sheerin - Stifel
+George Iwanyc - Oppenheimer
+Steven Fox - Fox Advisors
+Matt Cabral - Credit Suisse
+Louis Miscioscia - Daiwa Capital Markets
+Jim Suva - Citigroup
+Nick Todorov - Longbow Research
+Eric Martinuzzi - Lake Street Capital
+Victor Chiu - Raymond James & Associates, Inc.
+Nehal Chokshi - Northland Capital Markets
+Shannon Cross - Cross Research
+Katy Huberty - Morgan Stanley
+Paul Chung - JPMorgan
+Wamsi Mohan - Bank of America Merrill Lynch
+Operator
+Good day, ladies and gentlemen, and welcome to the NetApp Second Quarter Fiscal Year 2021 Conference Call. My name is Liz, and I will be your conference call coordinator for today. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will be given at that time.
+I will now turn the call over to Kris Newton, Vice President of Investor Relations. Please proceed, Ms. Newton.
+Kris Newton
+Thank you for joining us. With me today are our CEO, George Kurian; and CFO, Mike Berry. This call is being webcast live and will be available for replay on our website at netapp.com.
+During today’s call, we will make forward-looking statements and projections with respect to our financial outlook and future prospects, such as our guidance for the third quarter fiscal year 2021, our expectations regarding future revenue profitability and shareholder returns, and our ability to return to growth, gain share, and scale our cloud business, all of which involve risk and uncertainty.
+We disclaim any obligation to update our forward-looking statements and projections. Actual results may differ materially for a variety of reasons, including macroeconomic and market conditions, such as the continuing impact of the COVID-19 pandemic and the capital spending environment, as well as our ability to gain share in the storage market, scale our cloud business, generate cash flow and execute our capital allocation strategy.
+Please also refer to the documents we file from time-to-time with the SEC and available on our website, specifically our most recent Forms 10-Q and 10-K, including in the management’s discussion and analysis of financial condition and results of operations and risk factor sections and our current reports on Form 8-K.
+During the call, all financial measures presented will be non-GAAP unless otherwise indicated. Reconciliations of GAAP to non-GAAP estimates are posted on our website.
+I’ll now turn the call over to George.
+George Kurian
+Thanks, Kris. Good afternoon, everyone. I hope you and your loved ones are safe and healthy. Thank you for joining us on our Q2, FY '21 earnings call.
+NetApp delivered another strong quarter with revenue, operating margin and EPS all exceeding our guidance. I am pleased with our continued progress in an uncertain market environment. The improvements we made to sales coverage in fiscal year '20 and our tight focus on execution against our biggest opportunities continue to pay off. We saw strength in all geographies with larger customers accelerating their digital transformations with NetApp. We will continue to exploit competitive transitions, the growth of the all-flash market, and the accelerating shift to cloud to expand our leadership position.
+It was a busy quarter for us. We hosted an Investor Day, held our Annual Customer Conference, and introduced significant new products and services which further advanced our Data Fabric strategy. I want to thank the team for their focus on execution and customer success, especially in these challenging times.
+At our Investor Day, we introduced our vision for a new NetApp, a cloud-led, data-centric software company. We are building the new NetApp on a strong foundation. We are a trusted partner to the world’s leading organizations who are undertaking digital transformations. We have unique strategic partnerships with the leading clouds, including deeply integrated technology and go-to-market efforts. And we have a strong business model, with a proven track record of turning market transitions to our advantage. We laid out a plan to scale our cloud business while growing and gaining share in the storage market.
+These foundational elements fuel growth in our high-margin software, cloud services and recurring maintenance revenue streams. This, coupled with our disciplined OpEx management, balanced approach to investing for growth, and sustained capital returns will create significant long-term shareholder value.
+As you can see from our Q2 results, we are successfully executing against this plan. Cloud services ARR grew to $216 million, an increase of 200% year-over-year. Our cloud services dollar-based net retention rate remains very healthy at 207%. We are pleased with the mix of new cloud services customers and growth at existing customers. We saw continued success with our Run-to-NetApp competitive takeout program, an important component of our strategy to gain new customers and win new workloads at existing customers.
+Our all-flash business grew 15% year-over-year to an annualized run rate of $2.5 billion. We believe we gained share again in this important market. At the end of Q2, 26% of our installed systems were all-flash, giving us opportunity for continued growth by converting our installed base, in addition to winning new customers with our industry-leading all-flash solutions. Growth in all-flash drove momentum in software product revenue, which increased 14% year-over-year, and recurring maintenance and cloud revenue, which increased 11% from last year.
+As I discussed last quarter, we are learning to thrive in the new normal of working remotely with each other, our customers, and our partners. We held our Insight customer conference digitally, and it was arguably our most successful one to-date. We were joined by industry luminaries from our partners and customers, all talking about how NetApp gives the world’s leading organizations the freedom to put data to work in the applications that elevate their business, and our commitment to helping customers exploit the opportunity of digital transformation by building data fabrics.
+We had a record number of attendees, including a dramatic increase in the number of prospects and first-time attendees. While we couldn’t meet face-to-face, we had thousands of customer and partner engagements. The interest in, and excitement for our Data Fabric strategy and hybrid multi-cloud solutions was unmistakable. We bring enterprise-grade data services to the cloud and the simplicity and flexibility of the cloud to the enterprise data center.
+We are helping customers manage their data far more effectively for digital transformation and tackle the challenges of hybrid cloud. No matter where an organization is on its hybrid cloud journey, NetApp can help it achieve its goals. In the quarter, we announced dozens of industry-leading innovations to further help customers digitally transform to thrive in a hybrid cloud world. Our software-driven portfolio allows companies to redefine how they manage data, storage, and infrastructure, whether in the cloud or on premises.
+We introduced serverless and storageless solutions for containers, autonomous hybrid cloud storage and data management, and elastic scale for the modern workplace. New Spot services automate cloud infrastructure for containers through the continuous analysis of how containerized applications use compute and storage to automatically adjust the infrastructure to the optimal blend, saving customers costs and radically simplifying management.
+Cloud Manager provides a centralized console with full visibility and control to automate management of all NetApp hybrid, multi-cloud storage and data services, such as backup, tiering, and compliance. And with our Virtual Desktop Management Service, companies can rapidly deliver comprehensive cloud-based workplace solutions with continuous optimization of resources.
+We also unveiled the latest version of our flagship operating system, ONTAP 9.8. ONTAP is at the heart of our approach to hybrid cloud. We enhanced the ONTAP data services to provide integrated caching across the widest range of workloads and physical data locations, enable flexible, cost effective, instantaneous failover for business-critical applications, and support object storage with S3 protocol access. Additionally, we introduced new end-to-end NVMe systems, SAN-optimized systems, and hybrid arrays to give customers a broad range of price and performance options.
+Finally, we made updates to NetApp Keystone Flex Subscription, providing a fast, flexible path to a cloud-enabled data center with pay-as-you-go subscription for a cloud-like experience on premises. Keystone enables our customers to consume their Data Fabric with a cloud-like experience in their data center as a managed service in addition to the public cloud. Only NetApp is able to offer customers this flexibility.
+Together, all of these innovations better enable enterprises to accelerate their digital transformation and adapt rapidly to unpredictable business demands.
+Let me share with you a couple of digital transformation stories to illustrate how we are helping customers put their data to work to elevate their businesses. A leading U.S. healthcare provider is using AI solutions from NetApp to improve patient care and experience. Our AI control plane and Kubernetes integration enabled us to displace Dell and the early success of our initial deployment has resulted in expansion to additional workloads. We are now the foundation for everything from patient check-in to AI-based radiology and pathology.
+At a dominant U.S.-based retailer, NetApp was selected to support the work of 500 data scientists, with plans to expand to a 1,000. These engineers are using data to create AI-driven recommendations to increase sales and improve customer satisfaction. NetApp supported their need to quickly increase their online services during the pandemic as the foundation for an AI-based service so customers could virtually try new products.
+It’s clear that COVID-19 has reshaped the environment. Digital transformation is now a necessity, requiring speed and agility to respond to changing business conditions. Hybrid cloud is the de facto IT architecture at digitally transformed enterprises for the foreseeable future. Having an integrated, flexible data management foundation is critical to the success of digital transformation efforts. Because of this, data is growing in scale and importance and we believe that NetApp is a primary beneficiary of this trend.
+I am confident in both our long-term opportunity and our ability to execute against it. Our unique position in helping the world’s leading organizations solve the challenge of managing their most critical data fuels our ability to win in the market. We are committed to driving disciplined growth, extending our hybrid cloud leadership, effectively expanding our business, and ensuring that we remain well-positioned for the future. Our growing margin-rich software and recurring maintenance and cloud revenues support our ability to deliver value for customers and shareholders.
+I’ll now turn it over to Mike to walk you through the results of quarter. Mike?
+Mike Berry
+Thank you, George. Good afternoon, everyone, and thank you for joining us. As a reminder, I’ll be referring to non-GAAP numbers unless otherwise noted.
+As George highlighted, we delivered revenue, operating margin, and EPS above the high-end of guidance. Importantly, solid execution across the company yielded Q2 billings of $1.46 billion, up 10% year-over-year. This is our second straight quarter of year-over-year billings growth.
+In Q2, net revenue of $1.42 billion increased 3% year-over-year, including a point of currency tailwind. Our two key strategic focus areas, our industry-leading all-flash storage business and Public Cloud Services, both outperformed our expectations in the quarter. When combined, software revenue and recurring maintenance and cloud revenue totaled $1 billion, and increased 12% year-over-year, representing 72% of total revenue.
+We ended Q2 with $3.7 billion in deferred revenue, an increase of 5% year-over-year. Deferred revenue is the leading indicator for future recurring revenue growth. And as we highlighted at our recent Investor Day, all-flash systems carry higher maintenance dollar content relative to the rest of our portfolio.
+As George highlighted, our all-flash revenue of $632 million was up 15% year-over-year, positioning us for share gains for the second consecutive quarter. Only 26% of our installed systems were all-flash at the end of Q2, providing a very healthy runway for our flash business. Public Cloud Services delivered an impressive $216 million in ARR, growing 200% year-over-year and 21% sequentially, with organic ARR growth accelerating for the second straight quarter.
+We continue to see strong demand from our customer cohorts with Q2 dollar-based net retention rate coming in at 207%. We are on track to deliver on our commitment of $250 million to $300 million in Cloud ARR exiting fiscal '21, and remain confident in our ability to eclipse $1 billion in Cloud ARR in fiscal '25. Total product revenue of $749 million decreased approximately 3% year-over-year.
+In the quarter we saw good engagement from both enterprise and public sector accounts as customers continued to embrace digital transformation and hybrid cloud projects. Software product revenue of $417 million increased 14% year-over-year, driven by an increase in mix of our high-end all-flash systems. Recurring maintenance and cloud revenue of $599 million was up 11% year-over-year, constituting over 42% of total net revenue.
+Gross margin of 66.9% was at the high-end of guidance. Product gross margin was 53%, up 160 basis points sequentially and ahead of our expectations. The outperformance was driven by better all-flash mix. We expect product margin to remain at this level throughout the remainder of fiscal '21. Our recurring maintenance, cloud and other services business continues to be a very profitable and growing business for us, with gross margin of 82.6%.
+Q2 operating expenses of $657 million were in-line with our expectations. Operating margin was 20.6% and EPS was $1.05, demonstrating the strong operating leverage in our business model. Cash flow from operations was $161 million and free cash flow was $121 million, representing 9% of revenue. As a reminder, Q2 tends to be our seasonal trough for free cash flow.
+During the quarter we paid out $107 million in cash dividends, representing 88% of free cash flow. As you know, we paused our share repurchase program the last two quarters because of the macro backdrop. More recently, we have been encouraged by the stability in our business, broader macro trends and the recent positive results of several COVID-19 vaccine trials. As a result, we plan to reinitiate our share repurchase program during Q3, making progress towards our commitment to offset dilution from our equity plans. We ended Q2 with $3.6 billion in cash and short-term investments.
+Now on to guidance. We expect Q3 net revenues to range between $1.34 billion and $1.49 billion, which, at the midpoint, implies a 1% increase in revenues year-over-year and includes a point of currency tailwind. We expect consolidated gross margin to be approximately 67% and operating margin to be approximately 20% in Q3. Assumed in this guidance are operating expenses of $660 million to $670 million. The sequential increase in OpEx is being driven mainly by the annual reset in U.S. payroll taxes and healthcare benefits.
+We anticipate our non-GAAP tax-rate to be between 16% and 17%. And we expect earnings per share for Q3 to range between $0.94 and $1.02 per share. Assumed in this guidance is interest expense of $15 million to $20 million.
+In closing, I want to thank the entire NetApp team for the hard work and commitment in delivering another great quarter. We remain well-positioned to take advantage of the market transitions George highlighted and capitalize on the big opportunity ahead.
+I’ll now hand the call back to Kris to open the call for Q&A. Kris?
+Kris Newton
+Thanks Mike. We’ll now open the call for Q&A. Please be respectful of your peers and limit yourself to just one question so we can get to as many people as possible. Operator?
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question comes from Tim Long with Barclays. Your line is now open.
+Tim Long
+Thank you. I just wanted a little bit more color on the cloud services business. Could you just give us a little insight into how new customers contributed to that line? And also maybe, how much are we seeing that are kind of cloud only deployments not also carrying some enterprise business with you?
+And then just another part of that is that, is there anything we should look to over the next few quarters for that line as far as new products or new outlets to help accelerate that growth line even further? Thank you.
+George Kurian
+We continued to be very pleased by many dimensions of our cloud business growth. I think we've got expansion in regions, expansion in certifications, for example, FedRAMP certifications, that allow us to serve new industries, new customer segments, and of course, the breadth of cloud service offerings. With both Microsoft and Google, we now serve a huge range of applications, everything from databases to virtualized environments, to Windows environments, and so on. And so there's a very large opportunity in front of us.
+In terms of our capture, we are capturing a broad range of customers, digital natives, who are born in the cloud companies that don't really have a data center, because all of their IT environments run on the cloud. We are capturing a substantial number of net new customers who have got a data center business, but not with NetApp, with our competitors, and of course, NetApp customers who are expanding their IT footprints as they deploy cloud-based environments with us. So we are pleased across all the dimensions of our cloud business.
+In terms of the innovation portfolio, we are innovating at Cloud speed, and you'll see continued updates from all of our teams over the next few quarters.
+Kris Newton
+Thanks, Tim. Next question.
+Operator
+Our next question comes from Rod Hall with Goldman Sachs. Your line is now open.
+Rod Hall
+Yes, thank you for the question. I wanted to drill into the product revenue that particularly the software product revenue, which grew really well in the quarter. I know, Mike, you said in your prepared remarks that that was driven by high-end AFA. So I wanted to come back to comments you made George earlier in the quarter when we talked to you about the competitive environment. And just ask whether you think you're taking share there. What's driving that revenue growth? I also would love it if you guys could comment on whether there's any ELAs in that line. I just note that Dell storage revenue was down 7% here and you guys are down less so curious about your thinking on share and competitive dynamics.
+George Kurian
+Listen, if you look at the results of all of our major competitors, [indiscernible], Dell, and HP, there's no question we have taken share. I think our product portfolio is the best in the market. In the all-flash array category, the richness of our software capabilities, the hybrid cloud integration, all has driven advantage in the all-flash arrays segment. The all-flash array mix was up in the quarter. And within the all-flash configurations, the high-end products which carry a substantial amount of software and maintenance, which leads to the growth in deferred revenue as a part of our business model. So we're really pleased.
+I think with regard to our sort of outlook, we continue to be really bullish about our portfolio. As I said, we got the best products in the market, uniquely positioned to give customers a hybrid cloud roadmap. And I feel really, really good about our position there. With regard to ELAs I'll have Mike comment.
+Mike Berry
+Thanks, George. Hey, Rod. It's Mike. Thanks for the question. So as George mentioned, as we said in our prepared remarks, the outperformance in product revenue and product margin, it was driven by the high-end flash system sales. And as we noted, we expect product margins to remain right around that 53% for the rest of the year. And as we talked about, on the last two earnings calls, we're not guiding any ELAs going forward because they are such a small portion of our business, which is why we're not breaking those out anymore, any longer going forward.
+Rod Hall
+Okay, great. Thank you.
+Kris Newton
+Thanks, Rod. Next question.
+Operator
+Our next question comes from Karl Ackerman with Cowen. Your line is now open. Karl you may be on mute.
+Karl Ackerman
+Yep. Sorry about that. Is there a way to think about how much of the sequential or year-over-year growth you saw in all-flash arrays was due to the implementation of your run to NetApp initiative versus upgrading your installed base? I asked because the 15% year-over-year growth rate is significant relative to peers in the context of your 9% CAGR you spoke about during your Analyst Day. And so I guess as we think about the sustainability of your growth rate for all-flash arrays, have you changed the way you incentivize your sales force for these run to NetApp initiatives or for upgrading your installed base all-flash? Thank you.
+George Kurian
+I just want to begin, thanks for the question. I want to begin by saying that the 9% CAGR we referred to at the Investor Day was really market growth rates of all-flash arrays. We have continued to outperform the market. And as you noted correctly, we feel very confident we are taking share in the market. The products that we offer has leadership and performance efficiency, hybrid cloud connectivity, and a scale out architecture that our competitors cannot match.
+The run to NetApp campaign, which is a competitive migration program had another very strong quarter in Q2. And as we noted, we are focused on attacking the competitive product transitions in some of our competitors and taking share. And we feel very, very good about the progress to-date.
+If you look at the installed base, we're at 26% penetration of the installed base, which means that we still have a very large amount of room to continue to expand the flash footprint in our installed base. So net-net, strong quarter. We feel excellent about our product portfolio. We think we can continue to take share, as we said at the Analyst Day, and we're demonstrating that and our competitors have real challenges in executing their product transitions that we are taking advantage of.
+Kris Newton
+All right. Thanks, Karl. Next question.
+Operator
+Our next question comes from Mehdi Hosseini with SIG. Your line is now open.
+Mehdi Hosseini
+Yes, thanks for all the detail around all-flash array. But actually, I have one follow-up trying to dig in. Is there any way you can give us qualitatively or quantitatively the mix of software in AFA in October quarter? And how does it compare on a year-over-year and a Q-over-Q basis so we can better understand the trends there and what enables you to gain market share?
+Mike Berry
+Hey, Mehdi, it's Mike. So thanks for the question. If you take a look at our non-GAAP supplemental disclosures, you'll see that on a quarter-over-quarter basis and year-over-year, the software portion of product revenue grew substantially. So on a year-over-year basis, it was up 14%. Commensurately hardware was down 18%, a lot of that was driven by the growth in all-flash. In addition, based on the booking under billings number of 10% and AFA growing faster than that, you can see that the other portions of our portfolio shrunk year-over-year.
+So again, that's going to put a lot more in software and as George mentioned, in support as well, because you also see billings growth of 10%, revenue growth of 3%. And a lot of that everything that doesn't go to revenue goes to the balance sheet, which is great for our future support revenue. So hopefully that helps in your question.
+George Kurian
+For the color on, why are we taking share in the all-flash business, I think there are two things there. One is we are more focused and executing better as we signalled, where we have really put emphasis on winning with the strongest parts of our portfolio against the biggest opportunities. And the second, I think, is COVID, I think has really accelerated in our customers. They're thinking about hybrid cloud deployments. And we have clear leadership in helping our customers build hybrid cloud architectures. I think those are the two elements in addition to having a really strong product portfolio that gives us the ability to take share.
+Mehdi Hosseini
+Thank you.
+Kris Newton
+Thanks, Mehdi. Next question.
+Operator
+Our next question comes from Amit Daryanani with Evercore. Your line is now open.
+Amit Daryanani
+Thanks for taking my question. Congrats on a nice quarter. I guess my questions on all-flash array as well, and maybe two parts it but, all-flash growth at 15% is fairly impressive. I'd love to understand the sustainability of this double digit growth as we go forward. And then assuming this mix keeps shifting towards more AFA, I'm somewhat surprised by the commentary on product gross margins will remain flat for the rest of the year, because I would imagine all-flash array have a better gross margin structure with the worse the rest of the product. 
+So just touch on the sustainability of this growth, we're seeing all-flash array. And then why aren't we seeing a better flow through on product gross margin given mix getting better? Thanks.
+George Kurian
+I'll talk about the first part of your question Amit, thank you. And then I'll give it to Mike to talk about the product gross margin. With regard to the all-flash array business, we see, as we said that Investor Day, this being a multiyear transition in the storage market. We see that because we are still in the early innings of the technology curve in the all-flash array market. And we think that there are more technologies coming online over the next 18 to 24 months that will move more and more of the disk-based market to the all-flash market. We don't think that all of the disk-based market moves to all-flash. But as we said, a substantial percentage of the total storage market, meaning let's say 70% to 80% will be an all-flash array portfolio.
+We are in the early stages. We think that as we said in our installed base as an example, we are at 26% after many, many years of driving all-flash, and there's a long way to go, just to upgrade our entire installed base to all-flash. With regard to the ability to continue to drive share games, it's about focus, it's about innovation, and it's about meeting customer expectations. We think we're doing a good job, and we're going to continue to keep doing that.
+With that, let me hand it to Mike to talk about gross margins.
+Mike Berry
+Thanks, George. Amit thanks for the question. So, a couple pieces on this that I would focus on. As we talked about earlier today and in the prepared remarks, the majority of the outperformance in gross margin came from the high-end of our all-flash that was something that we had not expected going into the quarter. 
+Our guidance for the rest of the year assumes that that normalizes a little bit still growth in all-flash. But as you get into the high-end, you get even a little bit better margins because of the higher percentage of software. So we're forecasting now to come back and normalize a little bit still growth in all-flash, just not so much of the high-end mix.
+Amit Daryanani
+Perfect. Thank you.
+Kris Newton
+Thanks, Amit. Next question.
+Operator
+Our next question comes from Aaron Rakers with Wells Fargo. Your line is now open.
+Unidentified Analyst
+Hi, guys. This is Michael on behalf of Aaron. Thanks for taking the question. I just have a quick one. Last quarter, I think you disclosed $44 million of ARR attributed to your recent acquisitions of CloudJumper, Spot and Talon. Could you give us an idea of what that was this quarter?
+Mike Berry
+Hey, Michael, it's Mike Berry. Yes, so we are not going to disclose the ARR from the acquisitions going forward. I will tell you that they have continued to grow. We did disclose that the growth rate of the organic ARR accelerated as well during the quarter. So still all good on the acquisitions. But going forward, we're not going to break those out separately.
+Unidentified Analyst
+Got it. Okay. Thank you.
+Kris Newton
+Thank you, Michael. Next question.
+Operator
+Our next question comes from Ananda Baruah with Loop Capital. Your line is now open.
+Ananda Baruah
+Hi, good afternoon, guys. Congratulations on solid execution. And thanks for taking the question. Yes, this one just might be for both of you guys. Please give us a sense of how you guys reviewing sort of spending recovery right now, really you think sort of the industry is in that?
+And is there any way to anecdotally give us a sense of how much of the strength and performance has been from industry recovery sort of reopening the sales force initiatives. George, some of what you talked about, which is just the strength of the portfolio is folks looking at stand up incremental hybrid, just trying to get a sense of all of that, and really, to get a sense of how much more there may be to go from a structural sense for you guys, since you have so many initiatives going on right now. Thanks a lot.
+George Kurian
+I think first of all, we are in an extraordinary time. And, I want to applaud our customers, our teams for being able to continue to execute in such a difficult time. I will tell you that we have had a great first-half and that is primarily because of our focus and execution. I think the macro has been choppy, I think it's not going to deteriorate further, it's stabilized. But if you look at the results of our business against those of our competitors, there's no question we took share and we out executed them in a relatively tough market.
+I think within the customer base, I want to highlight three things. First, enterprise customers are beginning to move their businesses forward, because they realize that they have to transform to meet the moment and to thrive in the moment. And so the transformational projects, especially in the larger customers, are moving forward. Our business mix is key is tilted towards that and we are benefiting from that.
+The second I think is that, listen, we're pleased with the vaccines and the news about the vaccines. We think that the economy has mostly stabilized and it'll go forward. It should get better from here. But we are in the midst of a nationwide lockdown. We have lockdowns in many other parts of the world. We are in for a tough few months here between November and January. And so we're being prudent about our outlook for the next few months. We think we are extremely well-positioned for when the market turns as it will over time. Mike, you want to add any comment?
+Mike Berry
+No, nothing to add.
+Ananda Baruah
+Well I was going to ask any update on how the impact of sales force has been able to make so far.
+George Kurian
+We said that we were adding capacity about 200 heads, we had provided an update that we have met our expectations of that hiring one quarter ahead of time in Q4, of fiscal year '20. Those heads are on board, they are driving really good results. It takes about four quarters for a wreck to be fully productive. So as we said, this fiscal year is the payoff for that investment. We're pleased with the progress and we're going to keep our head down and keep executing.
+Ananda Baruah
+Great, thanks. Thanks, guys.
+Kris Newton
+All right. Thanks, Ananda. Next question.
+Operator
+Our next question comes from Matt Sheerin with Stifel. Your line is now open.
+Matt Sheerin
+Yes, thank you. In your commentary, you highlighted the Keystone as a service model. Can you provide more color on the kind of traction you're seeing there from customers, the kind of customer mix on growth projections? And given that most of your competitors are offering similar as a service programs, how is the NetApp program differentiated? Thank you.
+George Kurian
+I think first of all, thanks for the question. Keystone is an element of how we offer customers the ability to have an outcome as a service. There are financing vehicles that we and other people offer, which are really procurement vehicles, we've always had them they are a part of our selling motion. And you know what, I think they are going to continue to be a part of emotion go forward.
+With regard to what we do with Keystone is offer it to customers who don't want to deploy and manage infrastructure, but just want to have an outcome as a service. We have many ways to fulfil that type of demand from customers. Clearly, our cloud solutions are the first and most effective way to meet those expectations. Because you can instantly spin up environments, and instantly spin them down. And you got them deployed on all of the world's leading public clouds with the best operating system in the world.
+The second is Keystone services from NetApp and similarly, Keystone like services from our wide range of service provider and managed service partners. So we have a good number of ways to meet that customer demand. I'm excited at the pipeline of Keystone and the wins we're having. They are enterprise customers. A lot of them are competitive footprints, take outs, and they are net new environments. So we're not in the business of going after brownfields. We're looking at net new environments, new cloud and customer deployment. So certainly you'll hear more about that from us over the next few quarters. Thanks.
+Matt Sheerin
+Thank you.
+Kris Newton
+Thank you, Matt. Next question.
+Operator
+Our next question comes from George Iwanyc with Oppenheimer. Your line is now open.
+George Iwanyc
+Thank you for taking my question. George, following up on your comments regarding the current environment, can you maybe give us a sense for the puts and takes if there is a continued surge, maybe here in the U.S. and then globally, what you've learned over the last quarter from a COVID perspective?
+George Kurian
+I think we do believe that the next few months, as I said earlier, are going to be a challenging set of months, right. I think you see that in the news every day. And what we are seeing is that companies have begun to move towards the new normal, right, they've optimized their operating models to deal with a hybrid or remote working model. They realized that they have to get moving on projects that were historically stalled, and so on. So we do think that they are better equipped to deal with the surge if there is one.
+The human challenge and the cost of doing so is high, right. And so we're being appropriately careful in our outlook for the next few months. We think that as we said, for the most part, I think, we see every sign that things have stabilized, they're not back to the new normal. There'll be improvements over time to get there. But I think sort of the further downward trajectory mostly stabilized.
+Kris Newton
+Thank you, George. Next question.
+Operator
+Our next question comes from Steven Fox with Fox Advisors. Your line is now open.
+Steven Fox
+Thanks. Good afternoon. George, just one more on the market share gains. You highlighted how all-flash arrays was sort of a stimulus for not just the upside in the quarter, but also driving more software sales. Can you just sort of talk about why you saw sort of the higher end revenues and how much you're able to sort of shape that going forward, as opposed to just benefiting from certain workloads? Thank you.
+George Kurian
+I think first of all-flash arrays have a higher mix of software, the software, in the all-flash array is what makes it so much more efficient, in terms of workload consolidation, infrastructure, management, automation, and so on. And our all-flash arrays certainly carry a very rich software portfolio.
+With regard to the mix, it really depends on the customer type and the customer use case. If there are deep consolidation environments, they generally tend to have a larger system, so that they can deploy fewer systems to consolidate more environments. If it is more of a project based mix, they typically have a more midrange type of model that they deploy. So it's really depend around customers.
+I think we feel very good about our competitive position across all the elements, midrange, high end, entry. And we're going to stay focused on selling the right solution to customers. I would also say what's unique about NetApp is we also have a really good hybrid flash portfolio that allows us to sell the right product for the right use case and customers.
+Steven Fox
+That's very helpful. Thank you.
+Kris Newton
+Thank you, Steve. Next question.
+Operator
+Our next question comes from Matt Cabral with Credit Suisse. Your line is now open.
+Matt Cabral
+Yes, thank you. Looks like you guys had a good quarter in U.S. public. Why don't you just talk a little bit more about what drove that strength and how sustainable you think tailwinds are in that segment going forward?
+George Kurian
+I want to thank our U.S. public sector team and our public sector leader. It was good execution in the public sector business. As we have said on prior calls, we have continued to broaden the range of our public sector business both to be more involved in program type spending that is distributed over the course of a year rather than at the typical public sector year-end in the federal agencies, as well as to grow our state, local and higher education business, which for us is a smaller percentage of our total business than a typical company our size.
+And I think we have done well across all those dimensions. We had some really good wins and slides. We have a broad book of business in the public sector, and I feel good about where we are. We have a new administration coming in. We will have to wait to see what the administrations priorities are. But I'm confident that our team will adjust and adapt appropriately. And so we will take it a good quarter at a time and we are pleased with the progress.
+Matt Cabral
+Thank you.
+Kris Newton
+Thank you, Matt. Next question.
+Our next question comes from Louis Miscioscia with Daiwa. Your line is now open.
+Louis Miscioscia
+Okay, thank you. On a similar note, it looks like Europe was seasonally strong, maybe even a little bit stronger than U.S. commercial. So just any reason why in comparison to last year I know seasonality is changing a lot these days, from comparison to last year. U.S. Commercial was a little bit stronger. But you had a strong Europe this year.
+George Kurian
+If you just look at the first half of this year, the U.S. business has done really well. I'm pleased with the progress. I think, when I look at puts and takes between Q1 and Q2, deals move around between the quarters. So I wouldn't draw any unusual conclusion. I feel like we did see a much stronger book of business in Q2 across all the geographies. So I feel really good as we talked about in my prepared remarks. The breadth of the business is encouraging and we're going to continue stay focused and execute.
+Louis Miscioscia
+Okay. Good luck in the second-half.
+George Kurian
+Thank you.
+Kris Newton
+Thanks Louis. Next question.
+Operator
+Our next question comes from Jim Suva with Citigroup. Your line is now open.
+Jim Suva
+Thank you very much. And George, congratulations to you and your team. If my memory is correct, I think your sales force was all in place about a quarter ahead of time, which means by now they're kind of fully on boarded, got their healthcare benefits, don't shadowing and are out there. And if so, it seems like the second-half of your fiscal year should even be stronger than this first-half. Plus, we're kind of getting hopefully through Coronavirus, with some vaccines and other countries opening up.
+Is that a logical way to think of things that the second-half of this year could even be stronger, or there are some things that kind of we should kind of pause or be aware of that just seems like everything's really striking and sync, and quite well at net out? So I just want don't want to get too far ahead of myself. But it seems like second-half should even be stronger than first-half.
+George Kurian
+Jim, thank you for your question and for the comments. Listen, you're correct about the sales force hiring having been completed a quarter ahead of time in Q4 of fiscal year '20. And as we said, we are enabling them, and it takes about four quarters to get a rep fully up to speed. We had a great first-half, we delivered our key strategic initiatives, we're growing all-flash revenue, taking share, continue to scale our cloud franchise. As I've said before, we love our market position. We have competitive transitions, the pipeline is healthy. The cloud platform is clearly expanding with the big hyper scalars.
+And as I said, we see the macro stabilizing the vaccine trials should give us all incremental confidence. We're trying to balance the sobering reality of what the next few months looks like for businesses for families, the lockdown not only in the U.S., but in many, many parts of the world. And so we're trying to balance the reality with the fact that our customer engagement in even in Q3 and compared with continue to be very constructive.
+So we're trying to do is take a prudent view of what the near-term looks like, given the uncertainty. But we feel very, very good about our position here year-to-date. Mike, you want to add anything?
+Mike Berry
+So I'd just add a couple of things. Jim, thanks for the question. As George talked about, we do feel good about the business. That is one of the reasons why we're reinstituting our share buyback as we look forward. As we do expect, it's still going to be a couple of months of difficult times, unfortunately for all of us.
+The other thing to keep in mind too and some of the great questions earlier is when we give revenue guidance, keep in mind as well Jim based on the changing mix of the business, that we do expect billings growth to continue to be ahead a revenue growth as we do more AFA in cloud. So also, just as you look at the second-half, keep that in mind as well, please.
+Jim Suva
+Thank you so much, and congratulations.
+Kris Newton
+Thanks, Jim. Next question.
+Operator
+Our next question comes from Nick Todorov with Longbow. Your line is now open.
+Nick Todorov
+Yes, thanks. Congrats on a great quarter guys. George and Mike, I think you guys are seeing nice progress on the Cloud Data Services businesses accelerating. I think you're probably tracking towards the high-end of your fiscal year '21 guidance. You talked about some of the factors, but I guess can you give us some update whether you the whitelisting that was a hindrance at [Indiscernible] file is still in place? And maybe can you give us some color on what percentage of the net new NetApp CDS customers have an existing on-prem environment versus what percent of those are born in the cloud?
+George Kurian
+With regard to the progress of the cloud data services business, we feel really good. I think the last couple of quarters have really demonstrated the progress in our business, both in our organic business which continues to accelerate, and the inorganic portfolio, especially Spot. We have a strong value proposition for customers, helping them optimize both compute and storage in the cloud for both traditional workloads, as well as cloud native workloads, containerized, workloads, serverless computing, and so on. So really good, broad position in the market.
+With regard to our business mix, as I said, we are getting a broad range of customers both cloud native customers who are born in the cloud companies, as well as enterprises that did not buy from NetApp that have data center footprints with our competitors. I think all of these are vehicles for us to go displace over time or expand our share of wallet app customers over time. Mike you want to add any comments?
+Mike Berry
+No, nothing to add.
+George Kurian
+Maybe I can just hit on your comment about whitelisting. Listen, whitelisting is a capability that's put in place, it requires customers to essentially register before they deploy a workload on our service. And given the kinds of workloads that we deploy on the public cloud platforms, high performance computing, mission critical run the business workloads, like SAP, and mission critical database environments, like Oracle RAC, we are going to continue to monitor. We're making progress towards the removal of whitelisting, but we're going to keep it in place for as long as we need to make sure that our customers have less flawless customer experience.
+Nick Todorov
+Thanks.
+Kris Newton
+Thank you, Nick. Next question.
+Operator
+Our next question comes from Eric Martinuzzi with Lake Street. Your line is now open.
+Eric Martinuzzi
+Yes, I wanted to better understand the sequential revenue in the hardware maintenance and pro services. So historically, I would expect that to kind of inch up Q1 to Q2. Now, I know it's composed of about 80% hardware maintenance, and about 20% Pro services. What can you tell me about that Q1 to Q2 and then your expectation for Q3?
+Mike Berry
+Yes. Hey, Eric, it's Mike. Keep in mind that Q1 had the extra week in it. So when you look quarter-on-quarter, that was about $40 million of incremental revenue that we recorded simply because of the extra week coming off the balance sheet, it was about half and half between software and hardware pretty close. So you need to when you look quarter-on-quarter back out that increase, or that amount in Q1, when you do that you actually see a nice growth still sequentially in hardware maintenance.
+Eric Martinuzzi
+Okay. And the expectation for Q3 that continues.
+Mike Berry
+As long as -- that depends entirely on the conversation we just had earlier, Eric, in terms of the mix. If the mix holds consistent with what we saw in Q2, then there would be really no reason to believe it would be different. Keep in mind too that $3.7 billion of deferred revenue, like most software technology companies, 80% to 90% of our maintenance revenue comes off their balance sheet, so you don't get a lot of impact in the quarter outside of FX.
+Eric Martinuzzi
+Got it. Thank you.
+Kris Newton
+Thanks, Eric. Next question.
+Operator
+Our next question comes from Simon Leopold with Raymond James. Your line is now open.
+Victor Chiu
+Hi, guys, this is Victor Chiu in for Simon Leopold. A number of conversations we've had suggested that Dell's midrange power store refresh has fallen somewhat short of markets expectations. Is this consistent with what you've observed? And is this significant piece of the share shift that's contributing to NetApp's results?
+George Kurian
+I think a couple of things there. First of all, we continue to believe that the midrange modular architecture, like NetApp has, is the sweet spot in price performance across the entire landscape. There are customers that will buy a high-end architecture like a power max or our high-end systems, but the vast majority of the customer workloads are going to transition to a midrange clustered system.
+And I think as not only we have observed, but many of our competitors have also observed, the mid-range from Dell has not met expectations. It is an incomplete product. It is hard to build a new midrange system. And so it's going to be some time before they can mature that and make that a real system. And you bet we intend to take share from them during that transition. We have seen the execution and the impact of that in our run to NetApp campaign. And we're going to pour it on. 
+Victor Chiu
+Great. That's very helpful. Thank you.
+Kris Newton
+Thank you, Victor. Next question.
+Operator
+Our next question comes from Nehal Chokshi with Northland Capital. Your line is now open.
+Nehal Chokshi
+Yes, thanks. Good quarter by the way. I wanted to pile on a question here for the answer to George, where you talked about confidence that shift to all-flash array was going to continue due to flash innovations coming down in the next 18 to 24 months. Could you detail what are those flash innovations? And then another question real quickly is that what are the pieces of add-on software that tends to attach more to all-flash array and hybrid arrays?
+George Kurian
+With regard to the innovations in the all-flash array market, there are more cost effective technologies coming in the all-flash arrays segment, like quad level cell technology that continues to erode the value proposition of performance drives, 10k drives that transitions underway. We think there will be more and more of that market that will transition to all-flash arrays.
+The second is with regard to the software contribution, what we do with software in the all-flash arrays is to make them much more efficient in terms of data reduction, data compression and so on. And the second is to allow them to protect their data in more and more ways given that you have a ton of data sitting on an all-flash system. So the economics of all-flash are benefited by using software based data management. And those configurations as a result, have a higher percentage of their value in software, then in a disk-based system.
+Nehal Chokshi
+Thank you.
+Kris Newton
+Thank you, Nehal. Next question.
+Operator
+Our next question comes from Shannon Cross with Cross Research. Your line is now open.
+Shannon Cross
+Thank you very much. Just a question on component costs. I'm curious is what you're seeing HP and it's not necessarily at exact overlap, obviously, but mentioned that some of their backlog was filled with higher cost components as they're seeing some price increases. Is that something you're looking at? And how do you feel about the opportunity to pass through, some of that component cost increases that we're expecting as you go into 2021 and beyond? Thank you.
+Mike Berry
+Hey, Shannon, it's Mike. What we saw in Q2 is we did see higher component costs, specifically related to SSDs. We do expect in the second-half of our fiscal year to see some of that pricing pressure ease. So we do expect some lower pricing. And we do expect that likely will continue into '22. Now a lot of that depends on the economy.
+As you know, a lot of that of SSDs are also consumed by some consumer products, mobile phones, we're seeing a lot of that demand drop as we go into the second-half of our fiscal year. We expect that to go into '22. We'll see how the economy rebounds though. But overall, we do expect component costs to be a little bit of a help in the second-half and then hopefully going into '22. But we'll have to see all the supply and demand comes out especially on SSDs.
+Shannon Cross
+Thank you.
+Kris Newton
+Thank you, Shannon. Next question.
+Operator
+Our next question comes from Katy Huberty with Morgan Stanley. Your line is now open.
+Katy Huberty
+Thank you. Congrats on the quarter. George, you gave a few examples of customer adoption of AI use cases. Do you have a sense for what percent of new orders or new deals tie to AI workloads? And is this a driver of the strength in high-end all-flash array demand in the quarter? Thanks.
+George Kurian
+Thank you, Katie. We are focused in our game plan on AI in solutions that are tied to specific industries. I think in healthcare, we are seeing a good adoption of AI where the stretched employees whether they are radiologists or whether they are patient administration personnel are being helped by AI techniques. And we also are focused in manufacturing and in select parts of financial services on the use of AI. So we're seeing good returns from that.
+I think with regard to why we are succeeding with AI techniques and AI solutions is because video and audio analysis, image analysis for example is now a mature and effective AI technique, and image and video and audio files they sit on NetApp file storage, and so we're an excellent platform for AI for them.
+Katy Huberty
+Thank you.
+Kris Newton
+Thank you, Katie. Next question.
+Operator
+Our next question comes from Paul Chung with JP Morgan. Your line is now open.
+Paul Chung
+Hi, guys, thanks for taking my questions. So just a quick one on free cash flow. So are we going to see large harvesting of working cap as we typically see in the second-half of the fiscal year? I did notice, less investments in working cap in the first-half relative to kind of past year. So maybe not as large the kind of seasonal swing in the second-half just your thoughts there.
+Mike Berry
+Hey, Paul, it's Mike. Thanks for the cash flow question. Always fun to get that. It's a question. Hey, so keep in mind last year, two big movers on cash flow to note that any aside in the numbers in Q2 of last year, that the tax payments were pulled forward really into Q2. We paid about $100 million more in taxes last year in Q2 than this year. I note that because we will still pay those, they'll just fall into the second-half.
+The other part is as it relates to working capital, as you saw in the cash flow statement, we did do better in Q2 and collections. You saw that in the cash generated by deferred revenue and ARR. So as long as billings continue at the level that we're at, I would expect to see that in the second-half as well. But as you think about second-half, please keep in mind those tax payments, that'll be the biggest swing factor on working capital.
+Paul Chung
+Thank you.
+Kris Newton
+Thank you, Paul. Next question.
+Operator
+Our last question comes from Ruplu Bhattacharya with Bank of America. Your line is now open.
+Wamsi Mohan
+Yes, thank you. It's Wamsi at BofA. Congrats on the strong quarter guys. George, it sounded like you're expecting some demand elasticity given the pricing advantages of QLC. Just curious, what gives you the confidence given that the last NAND pricing downturn did not really show that elasticity and NetApp’s revenues actually declined. So what would it be that's different in this cycle that you see? Thank you.
+George Kurian
+We are actually seeing that QLC first of all, is not in the market yet it will be over time. I think that what we are seeing is QLC makes the advantage of an all-flash array relative to a 10k performance drive even better. So today, there are customers buying all-flash arrays, when they are roughly three times the cost of a hard drive. With QLC, that number gets a lot closer to one and a half to two times. And so the advantage will be even more material.
+I think we got to compete to win share in the all-flash array transition that that drives, plain and simple. I don't think that it's going to not require us to execute. We think that more workloads will come on to all-flash, and to the extent that we executed that all-flash transition, it gives us a chance to pick up share.
+Kris Newton
+All right. Well, thanks, Wamsi. I'll now pass it back to George for final comments.
+George Kurian
+Thanks, Kris. Thanks to everyone. In summary, we delivered another strong quarter, successfully executing against our plan to scale our cloud business while growing in the storage market. We are a primary beneficiary of the increasing importance of data and are uniquely positioned to help customers in hybrid cloud environments and with their digital transformations. I am confident in our ability to drive long-term growth, extend our hybrid cloud leadership and deliver value for our customers, partners and shareholders.
+Thank you to all of you. I hope you all stay safe and so do your loved ones and families. Have a wonderful holiday season. See you soon.
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

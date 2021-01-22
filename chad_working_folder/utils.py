@@ -37,7 +37,7 @@ def clean_word(token, stop_words, min_word_length):
 def preprocess_text(text, stop_words=stop_words, min_word_length=3):
     if isinstance(text, str):
         # clean up contractions
-        # text = contractions.fix(text)
+        text = contractions.fix(text)
 
         # lowercase text
         text = text.lower()

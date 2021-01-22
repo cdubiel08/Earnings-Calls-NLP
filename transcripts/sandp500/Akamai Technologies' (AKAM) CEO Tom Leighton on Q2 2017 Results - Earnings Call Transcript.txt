@@ -1,0 +1,332 @@
+Akamai Technologies, Inc. (NASDAQ:AKAM) Q2 2017 Earnings Conference Call July 25, 2017  4:30 PM ET
+Executives
+Tom Barth - IR
+Tom Leighton - CEO
+Jim Benson - CFO
+Analysts
+Mark Mahaney - RBC Capital Markets
+Mike Olson - Piper Jaffray
+Matthew Heinz - Stifel
+Michael Hart - Guggenheim Securities
+Sameet Sinha - B. Riley & Co.
+Vijay Bhagavath - Deutsche Bank Securities
+Sterling Auty - JPMorgan
+Michael Turits - Raymond James
+Colby Synesael - Cowen & Company
+Rob Sanderson - MKM Partners
+Will Power - Robert W. Baird
+Operator
+Good day, ladies and gentlemen, and thank you for standing by. Welcome to your Q2 2017 Akamai Technologies Earnings Conference Call. At this time, all participants are in a listen-only mode. Following management’s prepared remarks, we will host a question-and-answer session, and our instructions will follow at that time. [Operator Instructions] As a reminder, this conference is being recorded for replay purposes.
+Now, it’s my pleasure to hand the conference over to Mr. Tom Barth, Head of Investor Relations. Sir, you may begin.
+Tom Barth
+Thank you very, Brian. Good afternoon, and thank everyone for joining Akamai’s second quarter 2017 earnings conference call. Speaking today will be Tom Leighton, Akamai’s Chief Executive Officer; and Jim Benson, Akamai’s Chief Financial Officer.
+Before we get started, please note that today's comments include forward-looking statements, including statements regarding revenue and earnings guidance. These forward-looking statements are subject to risk and uncertainties and involve a number of factors that could cause actual results to differ materially from those expressed or implied by such statements.
+Additional information concerning these factors is contained in Akamai’s filings with the SEC, including our Annual Report on Form 10-K and Quarterly Reports on Form 10-Q. The forward-looking statements included in this call represent the company’s view on July 25, 2017. Akamai disclaims any obligation to update these statement reflect future events or circumstances.
+As a reminder, we will be referring to some non-GAAP financial metrics during today’s call. A detailed reconciliation of GAAP and non-GAAP metrics can be found under the financial portion of the Investor Relations section of our website. Also, please note that all growth rates references will be in constant currency unless otherwise noted.
+With that, let me turn the call over to Tom.
+Tom Leighton
+Thanks, Tom, and thank you all for joining us today. Akamai delivered solid overall results in the second quarter. Revenue in Q2 was $609 million, up 7% over Q2 of last year in constant currency and at the high end of our guidance range.
+Non-GAAP EPS for the second quarter was $0.62 per diluted share, $0.01 above the high end of our guidance range and up 4% over Q2 of last year when adjusted for foreign exchange and the dilution associated with the recent SOASTA acquisition.
+The second quarter featured continued strong growth from our Web Division customers, who contributed $315 million in revenue, up 16% over Q2 of last year in constant currency.
+It’s worth noting that Q2 was the first quarter where our Web Division customers accounted for the majority of our revenue. This milestone reflects the success we’ve had in diversifying and growing Akamai, both in terms of new product lines and in terms of the kinds of customers who buy our products.
+Over the past several years, we’ve grown well beyond our origins as a pure-play content delivery network into the world's largest and most trusted cloud delivery platform.
+We’ve broadened our product portfolio to include application acceleration in cloud security services, and we substantially broadened our customer base beyond media companies to include many of the world's largest financial institutions, retailers, airlines and auto manufacturers.
+Innovation has been a cornerstone of our success in developing new product lines, especially in the area of cyber security. Our cloud security business delivered $115 million of revenue in the second quarter, up 34% over Q2 of last year in constant currency.
+Looking forward, we believe that we can continue to grow this industry-leading business at a rapid pace, with annual revenue expected to exceed $1 billion within the next four to five years. This belief is fueled in part by the opportunity we see for further penetration of our Kona Site Defender, Prolexic, Bot Manager and Web Application Protector product lines.
+The latest version of Kona Site Defender protects API endpoints for customers, such as leading footwear retailer, DSW, to help secure their websites, mobile infrastructure and other API-driven requests.
+Our most recent Bot Manager product, Bot Manager Premier, was released earlier this month after a very successful beta with customers such as Hyatt Hotels. Bot Manager Premier features the machine learning technology that we acquired from Cyberfend that is designed to sort even the most sophisticated account takeover attacks.
+Of course, scale has become even more critical for cyber defense, as typical attacks now contain tens or hundreds of gigabits per second of malicious traffic, more than enough to overwhelm the traditional defenses of even the most well-equipped data centers.
+This is another area where Akamai Solutions are differentiated in the market due to the enormous capacity contained in the Akamai platform, which can be leveraged by all our security solutions.
+We’ve also been seeing good traction with our latest web performance products, Ion 3.0 and Image Manager, both of which can greatly enhance the user experience, especially on mobile devices.
+Mobile applications have become an important area of focus for our customers like the Telegraph Media Group in the U.K., Billabong Sports Retailer and Six Flags Amusement Parks, due to the widespread use of mobile devices and the challenges that can arise with performance and this is an area where we believe Akamai’s superior capabilities can make a big difference.
+In addition, Ion is now complemented with two new products that we obtained as part of the SOASTA acquisition; mPulse, and CloudTest. These highly differentiated solutions are designed to help customers, such as Dick’s Sporting Goods and Churchill Downs, measure, validate and improve the business impact of their websites and applications.
+Overall, we’re very pleased with the performance of our Web Division. Looking forward, we believe that we can maintain a mid-teens annual revenue growth rate from this customer base, with the potential for acceleration over the longer term as our new enterprise products gain traction in the market.
+As all of you know, enterprises are rapidly moving their applications to the cloud, and this is leading to changes in a way that IT managers architect their networks and manage their security.
+Traditional devices located in enterprise data centers are being replaced with cloud services, and we believe this shift creates a substantial opportunity for Akamai to do for the enterprise what we’ve done for the Internet, namely, to make application access faster, more reliable and more secure.
+Each of our new enterprise products addresses a fundamental need arising as part of the transformation of IT that’s occurring within enterprises today. Enterprise Application Access addresses the growing need for businesses to more easily and securely manage application access for a growing mix of users with different risk profiles and without poking holes on the enterprise firewall.
+Thus far, adoption of our Enterprise Application Access solution has tracked along the same growth trajectory that we achieved for Kona Site Defender in its first year. This is an encouraging sign that our emerging enterprise business can become as successful as our web security business.
+Following a very successful beta, we launched Enterprise Threat Protector in late Q2. Enterprise Threat Protector is designed to protect enterprise employees and infrastructure against phishing, malware and data exfiltration attacks by providing a cloud-based recursive DNS service to block access to malware sites and data exfiltration botnets.
+Enterprise Threat Protector leverages the massive amount of security data that Akamai collects every minute to provide customers like Norwegian Cruise Lines with a layer of intelligent security across all their offices and cruise ships around the world. As a result, Akamai is now protecting, not only the company, but also their employees and passengers from complex targeted attacks.
+I’d now like to shift gears and talk about our media business. Our Media Division customers accounted for $276 million of revenue in Q2, down 1% year-over-year in constant currency. As has been the case in recent quarters, the performance of our Media Division was impacted by the six large Internet platform customers. These customers contributed $51 million to our revenue in the quarter, down 17% over Q2 of last year. In Q2, they accounted for 19% of our Media Division revenue and 8% of Akamai’s overall revenue.
+More generally, and as we signaled in our last quarterly call, the traffic from our media customers overall has not grown as fast as we had expected for the year. To be clear, the traffic from our media customers has been growing. In fact, if you pull out the contribution from the six large Internet platform companies, the year-over-year traffic growth rate for our media customers has been well above the 24% growth rate that Cisco reports for the Internet overall.
+The issue is that our current traffic growth rate is lower than it’s been historically and lower than we’ve been expecting. And this impacts the revenue that we receive from media customers for our media products as well as our web performance solutions.
+This leads to two important questions; what steps are we taking to improve the media business in the near term? And how do we think the media business will perform over the longer term? I’d like to start talking -- by talking about the longer-term prospects for the media business.
+As we look to the future, we continue to believe that there is significant upside potential for the media business from the increasing consumption of video online. Already, video accounts for the majority of the traffic on the Akamai platform. And our video traffic has been growing at a substantial rate, faster than the growth rates that Cisco reports for Internet video overall. TGG Research has predicted that over-the-top viewing will exceed traditional broadcast viewing within four years.
+Even if this prediction is only approximately correct, there is the potential for a very large amount of video traffic to move online, and we believe that Akamai is very well positioned to benefit as a result. That’s because Akamai is widely regarded as the go-to provider when it comes to delivering high-quality video at scale online.
+We believe that we have an unmatched ability to help our customers offer their viewers the highest-quality viewing experience no matter what device they are using, no matter where they’re located around in the world and no matter how they’re connected to the Internet.
+Our video support services are another differentiator for Akamai, especially when it comes to live and linear delivery. All this means that media is an important business for Akamai, one that we believe will contribute significant revenue and profit growth in the future, even as we expect the media business to comprise a smaller share of our overall business as we continue to diversify and grow our web and enterprise businesses.
+Of course, we are very aware of the impact that media customers are currently having on our overall financial results, and I want you to know that we are taking several steps that are intended to improve the media business in the near term, both in terms of accelerating revenue growth and in terms of decreasing cost.
+First, the media business is now managed by Adam Karon, who has had a long track record of success and operational excellence in growing Akamai’s services business while also tightly managing cost.
+Adam took on a leadership – took on the leadership of our media business in March, and he’s implementing aggressive plans with the goal of increasing our traffic share through a heightened focus of providing the best possible service to the top 250 global media companies.
+These companies account for the vast majority of the traffic on our platform. Some of them also make use of other vendors to deliver a portion of their content, and this provides an opportunity for Akamai.
+While our share of their business is substantial today, we believe that we can do even better by providing focused support for each customer’s individual needs. In some cases, this means customized integration of unique Akamai capabilities such as accelerated NGS, broadcast operations support, low latency streaming technology and Akamai client software.
+In other cases, it means differentiated pricing to better conform to customer needs for background downloads, peer-assisted delivery and subscriber-based pricing. And in still other cases, it means leveraging our deep carrier relationships to provide regional pricing and dedicated managed CDN services.
+Of course, we’ve always worked hard to reduce our costs in the media business, and under Adam’s leadership, there is a renewed focus and sense of urgency to further drive costs down, with an emphasis on the large operational and CapEx costs associated with delivering very large volumes of traffic.
+Lowering our cost structure will help improve our profitability while also allowing us to pass on some of the savings to our customers so that our services will be even more attractive in the marketplace.
+It’s important to note that the media business is a cash generator for Akamai today and that it helps to pay for much of the infrastructure that we use to defend the world’s leading enterprises from large-scale cyber attacks. Through the steps we’re taking, we believe that we can further increase the cash flow from this business while also positioning ourselves for the future upside from over-the-top video.
+As we work to improve the media business, I want you to know that we intend to manage costs in a way that will keep overall company EBITDA margins in the mid to high 30s. We believe that we can do this while still making the investments needed to fuel the growth of our new enterprise business and our highly profitable web business.
+In summary, I believe that Akamai is very well positioned for future growth, thanks to our world-class and highly innovative technology, our broadening portfolio of services, our diversifying base of customers and our highly talented employees. These are some of the reasons why I remain so confident in Akamai’s future and also why I’m continuing my personal share repurchase program through the rest of the year.
+With that, I’ll turn it over to Jim to go over the financials in detail, and then we’ll be happy to take your questions. Jim?
+Jim Benson
+Thank you, Tom, and good afternoon, everyone. As Tom highlighted, Akamai delivered a solid Q2, with revenue coming in at the high end of our guidance range and earnings slightly above the high end of our expectations.
+Revenue in the second quarter was $609 million, up 6% year-over-year, or up 7% in constant currency, and up 10% constant currency, if you exclude our six large Internet platform customers. Before I dive into the revenue details, please note that all revenue growth rate references will be in constant currency.
+Looking first to the Q2 revenue results by our customer division lens. Revenue from our Web Division customers was $315 million up 16% year-over-year. We continue to see solid growth and diversification into this customer base, particularly with our cloud security offerings, with over half of Akamai’s second quarter revenue now coming from our Web Division customers.
+Revenue from our Media Division customers was $276 million in the quarter down 1% year-over-year and up 3% excluding the impact of the large platform customers. As we had projected in our last call, media growth rates are lower than the past several quarters driven primarily from a continued moderation in traffic growth across our media delivery and lower end web Performance Solutions.
+As Tom outlined we are working diligently to improve the media business. We are confident that our action plan to aggressively increase traffic share could improve our traffic and revenue growth trajectory.
+We are beginning to see early signs of traction, but it will take a few quarters to realize the full benefits of our actions. Finally, revenue from our Enterprise and Carrier Division customers was $18 million in the quarter, up 10% year-over-year.
+Turning now to our Q2 results for our solution categories, revenue from our Performance and Security Solutions remains strong coming in at $376 million growing 16% year-over-year and contributing 62% of total revenues in Q2.
+We continue to see very strong growth for these products from our Web Division customer base, although we saw a down tick in revenue from our traffic related web Performance Solutions sold to our Media Division customers.
+Within our Performance and Security solution category, we saw particularly strong growth continuing in our Cloud Security Solutions. Second quarter revenue for our Cloud Security Solutions was $115 million up 34% year-over-year led by our flagship Kona Site Defender and Prolexic offerings and our continued portfolio expansion into new areas like bot Management. Our Cloud Security business is now nearing an annualized revenue run rate of a $0.5 billion.
+Our Media Delivery Solutions revenue was $179 million in the quarter down 9% year-over-year and down 4% excluding our large Internet Platform Customers. As I just mentioned, this revenue moderation was due to further traffic growth deceleration in our Media Division customer base most notably in our Americas theatre. Finally, revenue from our services and support solutions was $54 million in the quarter up 13% year-over-year.
+Moving on to our geographies. Sales in our international Markets represented 34% of total revenue in Q2 up one point from Q1 levels. International market revenue was $206 million in the second quarter up 19% in constant currency driven by strong growth in our Asia Pacific theatre.
+Foreign exchange fluctuations had a negative impact on revenue of $5 million on a year-over-year basis and a positive impact on revenue of $4 million on a sequential basis. Revenue from our U.S. market was $403 million up 2% year-over-year and up 5% excluding our large Internet Platform Customers.
+Moving on to costs. Cash gross margin was 76% down one point from Q1 levels and the same period last year and in line with our guidance. GAAP gross margin which includes depreciation and stock based compensation was 65% down one point from Q1 levels and up one point from the same period last year.
+GAAP operating expenses were $307 million in the second quarter. These GAAP results include depreciation, amortization of intangible assets, stock based compensation, acquisition-related charges and other non-recurring items.
+Excluding these charges, non-GAAP cash operating expenses were $239 million up $11 million from Q1 levels and in line with our guidance. The sequential expense increase was heavily impacted by the absorption of the SOASTA acquisition.
+Adjusted EBITDA for the second quarter was $224 million, down $17 million from Q1 levels. Our adjusted EBITDA margin was 37%, down two points from Q1 levels, down three points from Q2 last year and in line with our guidance. Approximately 1.5 points of the EBITDA margin reduction is driven by the impact of the SOASTA acquisition.
+GAAP depreciation and amortization expenses were $89 million in the second quarter. These GAAP results include depreciation associated with stock based compensation, amortization of intangible assets and amortization of capitalized interest expense.
+Excluding these charges, non-GAAP depreciation was $77 million, up $2 million from Q1 levels and in line with our guidance. Non-GAAP operating income for the second quarter was $147 million, down $19 million from Q1 levels and down $10 million from the same period last year driven by the areas I outlined earlier.
+Non-GAAP operating margin came in at 24%, down three points from Q1 levels and from the same period last year and in line with our guidance.
+Moving on to other income and expense items. Interest income for the second quarter was $4 million, down slightly from Q1 levels. Non-cash interest expense related to our convertible debt was roughly $5 million. As a reminder, this non-cash expense is excluded from our non-GAAP results.
+Moving on to earnings. GAAP net income for the second quarter was $58 million or $0.33 of earnings per diluted share. Non-GAAP net income was $108 million or $0.62 of earnings per diluted share and slightly above the high-end of our guidance driven by the strong revenue achievement.
+For the quarter, total taxes included in our GAAP earnings were $30 million based on an effective tax rate of 34%, up from 29% in Q1 due primarily to the accounting for the SOASTA acquisition. Taxes included in or non-GAAP earnings were $44 million based on an effective tax rate of 29% consistent with Q1 levels and in line with guidance.
+Finally, our weighted average diluted share count for the second quarter was 173 million shares, down 2 million shares from Q1 levels and down 3 million shares from Q2 of last year driven by increased share buyback activity.
+Now I’ll review some balance sheet items. Day sales outstanding for the second quarter was 60 days, up two days from Q1 levels and from the same period last year. Capital expenditures in Q2 excluding equity compensation and capitalized interest expense were $105 million and slightly below the low-end of our guidance for the quarter, primarily due to the timing of some planned network investments and IT projects that shifted into Q3.
+Cash flow generation continued to be solid with cash from operations of $225 million in the second quarter. Our Balance Sheet also remains very strong with roughly $1.4 billion in cash, cash equivalents and marketable securities on-hand at the end of the quarter. If you factor in our convertible debt, our net cash is approximately $725 million.
+During the quarter, we spent $105 million on share repurchases buying back roughly 2 million shares. As we’ve discussed in the past, we believe the strength of our balance sheet and cash position is an important competitive differentiator that provides us with the financial flexibility to make key investments at opportune times including the share repurchase program.
+In summary, our Q2 top and bottom line results met or exceeded the high end of our guidance. We continue to see a robust pipeline of innovation and strong revenue growth in our web and enterprise divisions and have put in place plants we believe will improve the performance of our media business.
+Looking ahead to the third quarter and as signaled in our last call, we expect Media Division revenue to continue to moderate from Q2 levels. In addition, this is a particularly difficult compare period, given last year’s Olympics and various selection coverage events.
+We are confident that our action plan to aggressively increase traffic share can improve our traffic and revenue growth trajectory. We’re beginning to see early signs of traction, but it will likely take a few quarters to realize the full benefits of our actions.
+Overall, we are expecting Q3 revenue in the range of $604 million to $616 million. At the high end of this range, year-over-year growth would be 6% in constant currency. At current spot rates, foreign exchange fluctuations are expected to have a positive impact on Q3 revenue of $3 million compared to Q2 and a negative impact of $1 million compared to Q3 of last year. At these revenue ranges, we expect GAAP gross margins of 64% and cash gross margins of 76%.
+Q3 non-GAAP operating expenses are projected to be $241 million to $246 million, up roughly $5 million sequentially at the midpoint, driven by targeted investments in our web and enterprise divisions. Factoring in the cash gross margin and operating expense expectations I just provided, we anticipate EBITDA margins of roughly 36%.
+While we are not providing specific guidance beyond Q3 during this call, we believe continued targeted investment in select areas is the right decision for the medium and long-term growth prospects for the company while we work through our media action plan.
+In the near term, we intend to operate the company and the mid-30s EBITDA. As we work to improve our media performance and deliver continued strong growth from our Web Division customers, we would expect to see EBITDA margins return to the high 30s. And we remain committed to balancing both top line and bottom line growth over the longer term.
+Moving now to depreciation. We expect non-GAAP depreciation expense to be $80 million to $82 million. Factoring in this depreciation guidance, we expect non-GAAP operating margin of 22% to 23% for Q3. And with the overall revenue and spend configuration I just outlined, we expect Q3 non-GAAP EPS in the range of $0.57 to $0.60. This EPS guidance assumes taxes of $40 million to $41 million based on an estimated quarterly non-GAAP tax rate of 29%. This guidance also reflects a fully diluted share count of 172 million shares.
+On CapEx, we expect to spend $110 million to $120 million, excluding equity compensation. This amount is an uptick from second quarter levels, primarily due to the timing of planned network and IT investments that shifted from Q2 into Q3 as well as some additional infrastructure investments for our Security Solutions.
+In closing, we remain confident in our ability to accelerate growth rates for the business, execute on our continued product and customer diversification strategy and delivering a compelling financial model for our shareholders.
+Thank you, and Tom and I would now like to take your questions.
+Question-and-Answer Session
+Operator
+Thank you [Operator Instructions] Our first question will come from the line of Mark Mahaney with RBC Capital Markets. Please proceed.
+Mark Mahaney
+Thanks. Just a little more color please on the traffic slowdown. I know you called out the Americas as a region where you had that traffic slowdown. I think last quarter, I think you also called out verticals and you talked about the gaming vertical.
+Could you spend a little bit more time on which industry verticals were behind that, that you’re seeing are behind that traffic slowdown? Thank you.
+Tom Leighton
+Yeah, sure. As we talked about the deceleration in traffic and remember traffic is still growing, the deceleration is primarily due to the six large internet platform companies that we’ve talked about and as we talked about on the last call, there was some share loss and some large gaming customers in the Americas and that is exactly what happened I would say in Q2.
+Beyond that, we don’t see any evidence of major share loss. In fact, there’s a lot of accounts where we’ve increased share and our traffic is growing. If you take out the six large platform companies, it’s actually growing faster than the published results for the internet as a whole.
+So, it’s just the issue is it’s not growing as fast as we’d expected and it’s not growing as fast as the historical trends and so that’s why we’re putting in place some pretty significant steps to increase traffic share and get revenue growing and at a stronger pace including the six largest internet companies.
+Mark Mahaney
+Thank you, Tom.
+Operator
+Thank you. Our next question will come from the line of Mike Olson with Piper Jaffray. Please proceed.
+Mike Olson
+Hey, good afternoon. You mentioned that as you drive costs lower in media delivery; you can potentially offer lower pricing to those customers. Is that a big part of the strategy going forward to reduce the gap in pricing between you and your competitors for media delivery? Thanks.
+Tom Leighton
+It’s not a big part I would say, but it is a part. We want to be sure we’re offering competitive pricing. When I talked about several of the steps that we’re taking, a lot of it is around providing the very best service and really customized service to the world’s largest media companies and we’re focused on the top 250 and we’ve got a lot of unique capabilities that I mentioned earlier that we are going to be helping those customers integrate into their platforms.
+And I think we've much greater focus with those accounts providing exactly the services they need and in some cases, it will involve differentiated pricing if they’re doing a background download or they’re working in a particular geography or if they’re using our client-assisted delivery software that the pricing can be more tailored for them.
+But pricing is I think a component, and as you know pricing always decreases on an annual basis and we are seeing and as far as we know we’ll continue to see price decreases within historical norms. So, I would say it’s mostly a focus on providing better and differentiated services with a lot more focus and energy there on the top 250 global media companies.
+Mike Olson
+All right. Thank you.
+Operator
+Thank you. Our next question will come from the line of Matthew Heinz with Stifel. Please proceed.
+Matthew Heinz
+Hi, thanks good afternoon. If I could just go kind of in more detail on your commentary around traffic, it seems as if your traffic is still growing faster than market, but I think the comment was not as fast as we’d like.
+I’m just trying to square up. Have you lost share, where would you say your share stacks up versus maybe a year or two ago and is the issue more broadly defined in terms of the traffic slowdown and if so, I guess how do you think, why do you think your initiatives will be successful in kind of clawing that back?
+Tom Leighton
+Sure. As we’ve talked about, we’ve lost significant share in the big six internet platform companies due to their do-it-yourself efforts and we’ve talked about that a lot that they drive a lot of traffic on the internet.
+And just to be clear, even counting that, we’re still growing traffic on the Akamai platform at a good clip. And in fact, if you take out those big six, it’s growing faster than the internet as a whole.
+In terms of share and as we talked about, we did lose some share in a few large primarily American gaming companies. We’re actually working hard at getting that share back and I’m optimistic about that.
+Otherwise I don’t see any share loss compared to say last year and in fact, our goal and we’re working hard to do this is to increase share and as I talked about, I think we see strong potential to do that.
+As Jim mentioned, already the steps we’re taking we’re beginning to see some acceleration in traffic and increase in share. It’s very early and as Jim mentioned, I think you really want to be thinking about a few quarters to see the full benefit from the action we’re taking, and it really is centered around greater focus and energy and customization of what we do for the world’s largest media companies.
+And as you might imagine, aside from having a lot of traffic and a lot of end-users they have special needs and we’re in a great position I think to satisfy those needs with the right packaging of capabilities for them.
+And we believe that by doing that we can increase our share, which is already large in the world’s largest media companies. We can increase it and drive revenue growth going forward.
+Matthew Heinz
+Okay, thanks. And then as a follow-up just on the enterprise initiatives, enterprise networking initiatives specifically, I think you made mention that you expect that business to track similarly to how the Cloud Security business kind of ramps in the early days.
+Can you just provide a little bit more insight around kind of where you are in those conversations, how your Cloud Security products are enhancing your conversations with customers and if there’s sort of synergy there, and how quickly we can expect a meaningful revenue contribution from that business?
+Tom Leighton
+Sure. The buyer of our Enterprise security products is not the same person as the buyer of our web security products, but they do track up to the same CSO and CIO, and our reputation as now the world’s largest pure play web security provider really is very helpful in our customer base and is I think really going to help us jump start our Enterprise security business and the products there today are Enterprise application access and Enterprise Threat Protector.
+Now, as we look over the long-term, we believe that the market for the Enterprise products is in the long run larger than the web security products and our goal is to grow that business on the same trajectory that we grew the web security business and in the first year, that’s been the case.
+If we look at our -- the Enterprise Application Access product that we launched through an acquisition late last year, it’s tracking ahead of the first year of where we were with Kona Site Defender, which was our flagship product to get the web security business going.
+And in terms of the question about when can we see meaningful results, we’re optimistic that we can start seeing results that will make a difference, and then we maybe starting to talk about in terms of the dollar volumes for enterprise security towards the end of next year. And if we stay on the same track we’re on now, that would – that should be possible, it should make a difference in our results towards the end of 2018.
+Matthew Heinz
+Okay. Thank you very much.
+Operator
+Thank you. Our next question will come from the line of Michael Hart with Guggenheim Securities. Please proceed.
+Michael Hart
+Hi. Thanks for taking the questions. The first question I had, I’m trying to piece together the commentary around the pricing actions you’re taking in the Media Division and the efforts around increasing customization as well as your comments about the long-term margin.
+And I just was wondering if you can offer some color on what you think the long-term impact to margins will be from increasing customization for these customers in the context of also taking actions to maybe provide differentiated pricing to these customers?
+Tom Leighton
+Yeah. I think, in the long run, not only does it grow revenue, it also improves margins. Growing traffic is generally a good thing. And it’s not just about pricing. We’re driving a lot of our costs out of the delivery, and that improves our margins.
+It does enable us to pass through some of the savings to customers, which we always do, and that keeps our products competitive in the marketplace and not just an issue of competition, but as you look at OTT, which we look as driving a lot of the future growth for the media business, the cost is an important component for our media customers.
+The broadcasters come from a world of satellite delivery, and in the satellite world, every additional subscriber is free.
+Now in the Internet, that’s not true. And so, we have to do work to decrease costs to help enable the increasing growth in OTT. Now in terms of what we’re doing with the largest customers, as I mentioned, we’re working hard to take unique Akamai capabilities and integrate them better into our largest customers platforms, things like accelerated NGS, broadcast operations support, low-latency streaming technology, Akamai client software.
+And these are all things that improve the end user experience, several that do lower costs for everybody for the ecosystem, so that’s a good thing. And there is – for some of our customers, they need differentiated pricing models to make it work for their businesses.
+For example, subscriber-based pricing, peer-assisted delivery, folks with background software downloads. In that case, our cost is lower. It makes sense to be able to pass that on to the customer. And in some cases, customers need us to be leveraging our deep carrier relationships in countries around the world.
+And they need regional pricing, and they need things like dedicated managed CDN services. These are all capabilities Akamai has and, generally, uniquely capable of providing. And they’re going to see and you’re going to see a lot more focused support for the largest customers, and we’re really putting our effort there.
+And we think, by doing that, we can increase – we have a large share today. We can increase it substantially. That’ll improve revenue. It will improve our margins and be good for the business.
+Michael Hart
+Okay. Thanks. And then one quick follow-up, the SOASTA acquisition, Jim I appreciated the commentary about some of the impacts to the financials, but one thing which I think I missed was did you offer some color on what the topline contributions for SOASTA was in 2Q and also what you’re expecting for 3Q and maybe when you think SOASTA could be accretive to the EPS line?
+Tom Leighton
+Sure. I spoke about that beginning of the investor summit and a little bit on the last call that because of the deferred revenue impact in purchase accounting, there was a few million dollars for SOASTA revenue in our Q2 results and we’re managing that business as part of our web performance business unit and that’s where it resides.
+We aren’t going to guide to it specifically each quarter, but what I said during the investor summit is that that business kind of on an annual basis, once we work through the purchase accounting impact of deferred revenue, could be roughly a $30 million business, so that’s the rough profile of what you should be looking for going into 2018.
+Michael Hart
+Okay. Great. Thank you very much.
+Operator
+Thank you. Our next question will come from the line of Sameet Sinha with B. Riley. Please proceed.
+Sameet Sinha
+Thank you very much. I wanted to actually dive a little deeper into the performance unit. Can you talk about kind of the trends in the marketplace there? And of course, you made the acquisition of SOASTA.
+Can you talk about where is the demand, is it coming from mobile, is it coming from -- just kind of use cases there and the competitive environment and then I have a follow-up question?
+Tom Leighton
+Yeah, no I think you nailed it. The biggest trend in performance is around mobile performance where the conditions can be particularly challenging for a good end-user experience. That’s what our Ion 3 is all about. Image Manager makes a huge difference for mobile performance. We’re seeing great traction with that new product.
+And of course, the SOASTA acquisition with mPulse and CloudTest are all about measuring performance, helping our customers optimize it in a way that maximizes their business, and I would say mobile is front and center there.
+Of course, security, also very important for those customers and that’s partly why you see our security business growing so rapidly as really the industry leader and the only company capable of providing the kind of security that major Enterprises need online today.
+Sameet Sinha
+The follow-up question, I wanted to speak about the margin guidance. I mean you had opportunities to bring that down in the last couple of quarters and now it’s taken another step down.
+Can you talk about the rationale that you did mention continued investments so if you can delve into specifically where you’re investing in? What product lines that will kind of give us a sense of where we can expect leverage? Thank you.
+Tom Leighton
+So obviously, we talked about the media business and when the traffic has been less than we’d expected and therefore the revenue less than we’d expected. That put pressure on our margins in the near-term and as you know, we’ve just talked about we have an active plan to improve the performance there.
+When you look at our Web Division there and you see very high margins, you see excellent growth rates; I think it’s really important that we continue the investments there to fuel the growth of that business.
+If you look at our Enterprise business which is very early days, we now have two products in the market off to excellent start, and we think that has an even better longer-term potential for growth. And so, the last thing we want to do is do anything to interrupt the great performance and growth that we’re seeing there.
+So, we are incurring lower EBITDA margins in the near term as we work through and improve the media business. And as we talk about, as we do that, and as we continue to drive very strong growth for our highly profitable web business, and as the enterprise business starts to make a difference in our numbers next year, we do expect to see margin improvement.
+Sameet Sinha
+Great. Thank you.
+Operator
+Thank you. Our next question will come from the line of Vijay Bhagavath with Deutsche Bank. Please proceed.
+Vijay Bhagavath
+Yeah. Thanks. Yeah, hi, Jim, Tom.
+Tom Leighton
+Hi.
+Vijay Bhagavath
+So, my question is really on the new enterprise opportunities you guys are pursuing. Help us understand the magnitude of the opportunity next year. And when should we start kind of baking it into the model?
+Would it be as early as the fourth quarter of this year? Would it be front half of next year? And roughly, what are the components of the enterprise opportunity? Would it primarily be this behind the firewall security opportunities? Also, some, like, corporate video offload?
+So, anything and everything you could help us with this new enterprise opportunity would be very helpful. Thanks.
+Tom Leighton
+Yes, I think it’s everything you mentioned and more. For example, Enterprise Application Access is all about authenticating in a much safer and less expensive way, enterprise employees to get access to enterprise apps. In the past, this was all behind the firewall. And of course, as you know, Enterprise Networks are turning inside out.
+As cloud -- as enterprise applications move to the cloud, as you need to give access to contractors and third parties and enterprise employees on the move, you need to give them access to those applications. You need to be able to do that, and the traditional approach just isn’t effective anymore.
+In fact, access that wasn’t intended is the number one cause of data breaches today. And this is an area where you need new ways of doing it, and that’s exactly what Enterprise Application Access does. And that product is now tracking faster in terms of adoption in revenue than our Kona Site Defender product.
+If you look at Enterprise Threat Protector, which just came out of a very successful beta trial, that’s all about stopping malware, blocking phishing attempts and stopping data exfiltration, which is probably the biggest threat and the biggest expense for enterprises. When they get hacked and they lose their internal data, it’s pretty disastrous.
+And just in the beta trial alone, we found examples with major enterprises, where we did exactly that. We caught, through this product, data exfiltration happening from, in one case, an air-conditioning unit, that nobody was really thinking that it’s connected. It has a CPU and a full communication stack. Lo and behold, it was infected, collecting the corporate data and exfiltrating it.
+So, I think the eventual market for these products is very large. You look at the traditional enterprise security market, and traditionally, that was done on your private network, buying devices, that’s a much larger market than web security. And that market is getting turned inside out along with the enterprise network.
+And those are going to be services that will have to be purchased in the cloud. And we’re in a great position to offer those services. It’s new technology. So, it really is different.
+It’s not just taking your box and putting it out there in the Internet. That’s not good work that way. These are going to work that way. These are going to be platform cloud services, and Akamai has a lot of experience doing that.
+Vijay Bhagavath
+Thanks. Very helpful. A quick follow-on for Jim. Price competition is a strategy, would that be kind of near term onetime? Or would it be structural in terms of looking to get back some large business in gaming or in software or even in over-the-top video? Thanks.
+Jim Benson
+Well, I think Tom covered that pretty well, as outlined. The plans that we’re going through to increase traffic share in the accounts, I’m not sure there’s much more to comment on.
+Tom Leighton
+Yeah, it’s not a pricing strategy. Obviously, pricing drops every year, it has for 20 years. And it’s dropping within historical norms. I don’t see anything that’s going to change that.
+Now getting the right pricing model and how the services are packaged which can vary for each major customer that certainly, we’re working on with the major broadcasters and video customers.
+Vijay Bhagavath
+Thanks.
+Operator
+Thank you. Our next question will come from the line of Sterling Auty with JPMorgan. Please proceed.
+Sterling Auty
+Yeah. Thanks. Sorry for the background noise. But you mentioned this customized solutions for the large media customers. Will that actually take extra investment to customize and for each customer? Or is there a way to make that efficient?
+Tom Leighton
+Yeah. What we’re doing is reallocating investment within the Media Division to weight much more heavily in the top 250 customers and for smaller companies to handle those in more efficient ways. So, this is not a net increase in investment. In fact, Adam is working very hard to lower the costs in our Media Division.
+Sterling Auty
+And that’s the perfect segue. I guess I don’t understand what types of products you would be able to take out on – to lower the overall cost of products?
+Tom Leighton
+I didn’t quite understand the question. Are you – so can you restate the question?
+Sterling Auty
+Yeah. So what types of cost, I think you mentioned using background delivery, but what specific costs can you actually take out of that media delivery business?
+Tom Leighton
+There’s lots and we’ve been working to reduce our costs for 20 years there. Every year, pricing comes down, and so does our internal cost. There is things all the way from better CPUs that we buy, better use of that through software improvements so per dollar of CPU, per dollar of Co-Lo, we deliver a lot more traffic.
+There’s better use of our infrastructure to optimize what each server is doing and when. When you do have opportunities like background downloads, we can schedule the delivery at times to non-peak times.
+So, you’re taking advantage of Co-Lo. And maybe if we’ve acquired bandwidth as use it or lose it, we would then use that for the background downloads. So, the marginal costs would be vastly less for us, and we can pass some of that on to our customers. We can use peer-assisted delivery and are doing that in some cases.
+Again, lowering the costs of the ecosystem. It lowers our costs dramatically, and we pass some of that on to our customers. Greater use -- bandwidth costs are different amount in the many hundreds of cities where we’re located around the world, and better use of that can lower our costs.
+So, there is a lot of things that we do and have been working on for a long time. We have a lot stronger focus and allocation of resources to that endeavor today.
+And on the go-to-market side, there’s better and more efficient use of our people in terms of interacting with our customers and as we talked about, be a lot greater focus of those resources on the largest media companies and there’s relatively a small number.
+It really is about 250 customers that comprise the majority of our traffic and very large majority of our revenue today, in media.
+Sterling Auty
+Thank you, guys.
+Operator
+Thank you. Our next question will come from the line of Michael Turits with Raymond James. Please proceed.
+Michael Turits
+Hi guys, Michael Turits, thanks. I wanted to just make sure the two clarification EBITDA margin guide. I think when Tom finished his section he said mid to high 30s and then Jim, I think you said mid 30s.
+So, I just want to make sure that’s right so it’s mid-30s I assume in the near-term which I would think as kind of a one-year timeframe. Is that how to think of it?
+Tom Leighton
+Yeah, I mean that’s why -- I mean what Tom highlighted is we intend to offer the Company in mid to high 30s. So, we expect to get the model back to the high 30s as we’re going through our media improvement plan as Tom outlined it and as I said it’s going to take a few quarters to see the full benefit of those actions.
+And so, what we’ve said is in the near-term as we go through that, we’re going to be operating a Company in the mid-30s to make the investment that we need to make in the Web Division, in the Enterprise division in the areas that Tom had outlined.
+And so, the plan is to do both. Near-term mid-30s, once we start to see the media improvement plans take hold, which is in both on the revenue and the cost side, our expectation is you should then begin to see margin expansion.
+Michael Turits
+Okay and then there’s been a lot of discussion on the call that you guys mentioned about the traffic slowdown, and caution around that and yet, you beat revenue this quarter.
+You actually guided nicely above the street and it looks like revenue growth is stabilizing a bit instead of decelerating and I don’t know if part of that is but I noticed the Internet Platform Customers are actually flat quarter-over-quarter.
+So, what’s despite these headwinds from traffic slowing, what’s sustaining the level of growth right now? Is it that the IP guys are just not moving off quite as fast right now or what’s holding you in there?
+Tom Leighton
+Well we do have a little bit of stabilization in the big six customers. We have a great security business which is really meaningful in terms of revenue and growing at a really good clip.
+We have new product introductions and we’re particularly excited about our Enterprise products and that as I mentioned should start to be noticeable towards the end of next year and those are all very helpful to growing our revenue.
+The Web Division customer base growing at a very solid clip which we think we can maintain mid-teens there, and so really, the area where we’ve got and we’re planning to do better is around media, and that’s growing share and providing a better service to the top media customers and that will help us grow revenue and I think with some of the technologies we talked about grow margin.
+Michael Turits
+Thanks, Jim and Tom and Tom I’d love to drill down a little bit more in areas of security at some point, but obviously not on this call. Thanks very much.
+Tom Leighton
+Thank you.
+Operator
+Thank you. Our next question will come from the line of Colby Synesael with Cowen & Company. Please proceed.
+Colby Synesael
+Great. Most of my questions have been answered but just to follow-up on Michael’s question. Last quarter, I think the commentary was that margins could dip below 37% and now we’re saying mid-30s.
+And I’m just curious is that a difference or are you just using different nomenclature to describe margins and if it is different and you are signaling this quarter versus last quarter some increased pressure, where exactly is that coming from?
+I know we’ve been talking about media, but is for example, gaming getting worse? Is there now a new sub-segment that’s pushing on that? Is the security business even though it’s growing very strongly, just not growing strong enough to make up for everything?
+Just a little bit more specificity to understand what’s changed and how that’s impacting margins versus the comments you guys made last quarter would be helpful.
+Tom Leighton
+Yeah, I don’t think anything is substantively changed, Colby. I think what we said last quarter was that we were seeing traffic moderation in the media business and we had even said that we thought it could persist into the back half, and we also said that at that time that we thought that the EBITDA margins would dip below 37. So, kind of mid-30s is we’re not that precise, and we certainly guided to 36.
+And I think what we’re signaling now is consistent with what we said then. It’s just a matter of I think we’re trying to be very candid about working some very specific actions in the media business. We’re starting to see some of those actions take hold, still early.
+We think it’s going to take a few quarters to see the full benefits of them and that really is the sole reason why you’re seeing pressure on EBITDA margins, which is challenges in the Media Division customer base that we have our arms around and that we’re working. And I think we’ll be able to work through that in the next few quarters.
+EBITDA margins in the mid-30s will allow us to make the investments we think we need to in critical areas of the business that will fuel growth for the Company longer term which are huge catalysts for growth of the company that we don’t want to constrain right now.
+And so, think of it as mid-30s for kind of the next several quarters. And once we start to see the media actions take hold, we expect that we should be able to see expansion from there.
+Colby Synesael
+And then just on the other question, Michael asked around the top six being flat quarter-over-quarter. Was that an anomaly, just something, guess more coincidental or would you expect that the worst of that reduction is behind you and that sub-segment of customers will may now grow effectively in line with the rest of the business?
+Tom Leighton
+Well, clearly the worst of it is behind us by the fact that only 8% of our revenue. And as you know, they were more than double that. Not so long ago. So, the worst is behind us. I think it would be prudent to plan that there could be some further erosion there.
+That said, we’re working very hard to grow with those customers. I do believe that it makes sense for them to grow their business with Akamai. I think we can do a better job at a lower price point.
+And you know, in the past we have seen some of those folks that had DIY and they were taking share reverse course and then put more traffic on Akamai. It does take a little while for a particular DIY project to run its course, but at the end of the day I think we do offer a better service at a lower price point.
+And so, we are working hard to grow that business. That said, I think given what we’ve experienced in the last year, it is prudent to be planning for further declines, but certainly nothing like it just can’t be, because it’s only 8% now like what we’ve seen over the past year or so.
+Colby Synesael
+Great. Thank you very much.
+Operator
+Thank you. Our next question will come from the line of Rob Sanderson with MKM Partners. Please proceed.
+Rob Sanderson
+Yeah. Thanks for getting me in there, guys. So, on the media business you’re talking about a greater traffic and top line deceleration than expected and obviously heading into a cycle of deleverage as that comps together.
+So, what I want to revisit is what Jim said at Analyst day about the -- I think the comment was that media operated about 25% adjusted EBITDA in 2016 and still have a low 30s long-term target.
+Can you give us some commentary around where you’d expect this – the media business to perform from a margin perspective over the next few quarters and against that baseline? And then also, any reason to think the long-term target should also come down? Thank you.
+Jim Benson
+Yeah. Let me preface it with that, we’re a one-segment company. So, we go through an exercise once a year to attempt to take the Akamai cost structure and cut it into our kind of three solution categories. But we actually don’t manage the company internally that way.
+And so that – those profiles are kind of our best effort as trying to allocate costs that way and to basically look at general profit models for those businesses to give investors a flavor of what’s the general profile of our media business, our performance in security business and our services businesses and where we think we’re trying to drive them to.
+And nothing is going to change. I don’t think the models that we’ve outlined, as far as target models for those businesses, has changed in a material way. I do think it’s fair to say that the EBITDA margin pressure that you’ve seen for the company over the last few quarters is specifically driven by the media business.
+So, the profile that we provided for 2016, if we were to go through that allocation exercise right now, you would see the EBITDA margins for that business have come down.
+But as Tom said, it’s still a free cash flow generating business. Margins are down from where they were in 2016. I think the actions that we’re taking to reaccelerate growth to drive down costs should yield both revenue acceleration and margin expansion, but it’s going to take time for these initiatives to take hold.
+Tom Leighton
+This is Tom, Brian. I think we’re running a bit over. So why don’t we take one more question.
+Operator
+Yes, sir. Our last question for today will come from the line of Will Power with Robert W. Baird. Please proceed.
+Will Power
+Oh, great. Okay. Yeah. Thanks for sticking me in. Tom, just kind of stepping back, I was interested in some of the long-term media commentary and optimism I think video is one of the key. I think you also said that video was already a majority of revenue.
+So how do investors get confidence that this video growth is really going to help you we accelerate revenue relative to what you’ve seen over the last couple of years? Any further color there with respect to just traffic trend, pricing, et cetera would be helpful?
+Tom Leighton
+Sure. Video today is now the majority of our traffic. And that said, we still have a substantial portion of traffic. We have other media customers, software downloads, gaming, some social networking and so video is not yet all of it. Video is growing at a good clip.
+And I think as you look at the estimates and the modeling that people are doing about the rate at which TV and typical delivery of video moves online, that leads to a very good place for Akamai. And I think it depends now, who will be delivering that.
+But I think by the models that you look at, a lot of that is ideally suited for Akamai. We do a lot of the delivery for the world’s major broadcasters and also a lot of the world’s major aggregators of video.
+So, I think it’s not – you can’t say the next year everybody is going to be watching their video online, but it’s certainly growing. The industry is certainly planning in the long term to have the majority of the video be watched over IP. And that is an excellent outcome for Akamai.
+And it will probably take us some time to get there, but already it’s a majority of traffic. It is growing at a good clip and it’s growing faster for Akamai than it is for the industry as a whole or the internet as a whole on video.
+Will Power
+Okay. Thank you.
+Tom Barth
+Thank you, Will, Tom. Again, I want to thank everyone for joining us on this call this evening. In closing, we’ll be presenting at a number of investor events throughout August and September and details of these can be found in the Investor Relations section of akamai.com and I want to thank you and again for joining us and have a nice evening. Brian back to you, please.
+Operator
+Thank you, sir. Ladies and gentlemen, thank you for your participation on today’s conference. This does conclude the program. And you may all disconnect. Everybody have a wonderful day.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+2 Authors in the Last 90 Days

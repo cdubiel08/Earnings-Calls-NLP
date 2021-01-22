@@ -1,0 +1,269 @@
+Xilinx, Inc. (NASDAQ:XLNX) Q2 2020 Earnings Conference Call October 23, 2019  5:00 PM ET
+Company Participants
+Matt Poirier - Senior Vice President, Corporate Development and Investor Relations
+Victor Peng - Chief Executive Officer
+Lorenzo Flores - Chief Financial Officer
+Conference Call Participants
+Ambrish Srivastava - BMO
+Tristan Gerra - Baird
+Chris Danely - Citigroup
+Chris Caso - Raymond James
+CJ Muse - Evercore
+Ross Seymore - Deutsche Bank
+Matt Ramsay - Cowen
+David Wong - Instinet
+Joe Moore - Morgan Stanley
+William Stein - SunTrust 
+Quinn Bolton - Needham & Company
+Blayne Curtis - Barclays Capital
+Vivek Arya - Bank of America
+Christopher Rolland - Susquehanna
+Operator
+Good afternoon. My name is Sheryl, and I will be your conference operator. I would like to welcome everyone to the Xilinx Second Quarter Fiscal Year 2020 Earnings Release Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session. [Operator Instructions]
+I would now like to turn the call over to Matt Poirier. Thank you. Mr. Poirier, you may begin your conference.
+Matt Poirier
+Thank you, and good afternoon, everyone. With me are Victor Peng, CEO; and Lorenzo Flores, CFO. We will provide a financial and business review of the September quarter and the business outlook for the December quarter and full-year fiscal 2020.
+Let me remind everyone that during our conference call today, we may make projections or other forward-looking statements regarding future events, or the future financial performance of the company. We wish to caution you that such statements are predictions based on information that is currently available and that actual results may differ materially. We refer you to documents the company files with the SEC, including our 10-Ks, 10-Qs and 8-Ks. These documents contain and identify important risk factors that could cause the actual results to differ materially from those contained in our projections or forward-looking statements.
+In addition to GAAP financial measures, we will be disclosing certain supplemental non-GAAP financial measures used by management to evaluate the company's financial results. We provide these measures to facilitate period-to-period comparability for purposes of evaluating continuing business operations by excluding the effects of non-recurring and unusual items, such as amortization of intangibles and certain one-time items related to acquisitions. We believe that sharing these non-GAAP measures will be helpful for analysts and investors in analyzing the company's ongoing core business.
+A reconciliation of non-GAAP financial information to the closest GAAP measure is included in our earnings release and has been posted on our Investor Relations website. This conference call is open to all and is being webcast live. It can be accessed from our Xilinx Investor Relations website.
+Let me now turn the call over to Victor.
+Victor Peng
+Thanks, Matt, and good afternoon, everyone. I’m pleased to report our results for the second quarter of fiscal 2020 and provide an update on our expectations for the third quarter and the remainder of the year.
+For Q2, we achieved sales of 833 million, which exceeded the midpoint of our revenue guidance, despite the impact of continuing trade restrictions with Huawei. DCG business bounced back as expected and had a very strong quarter with record revenue of 81 million, which represented 92% sequential and 24% year-over-year growth. This result was primarily driven by growth in sales to storage customers with some additional hyperscale customer demand and limited growth from cryptocurrency customers.
+In our core vertical markets, ABC revenues were in line with expectations, while AIT revenues were better than expected. WWG revenues were weaker than anticipated due to minimal sales of permissible products to Huawei. While we expedited our application process to the Department of Commerce in early Q2, we have not received any license approvals to expand the product set permissible to sell to Huawei.
+Through the first-half of fiscal 2020, we recognized revenue of approximately 50 million from Huawei, with the vast majority of that coming – that total coming in Q1 before restrictions were announced. Multiple research analysts had estimated our full-year revenue exposure to Huawei at approximately 6% to 8% of our total revenue, which is in the range of what we are anticipating at the beginning of the fiscal year.
+Considering the continued trade restrictions with Huawei and the uncertainty presented to our business, we believe it is prudent to remove all remaining revenue expectations related to Huawei from our fiscal 2020 outlook. Huawei is an important customer and we hope that an agreement between the U.S. and Chinese governments is reached as soon as possible, so we can resume engaging in a manner consistent with an important customer.
+Now, I’ll turn to some additional highlights for the second quarter. Revenue from our Advanced Products grew 29% year-over-year and represented approximately 74% of total sales. We saw broad based demand for our 16 nanometer UltraScale+ family, which continues to be a strong revenue driver for our business.
+Demand for our Zynq platform also continues to be strong, driven by the adoption of MPSoC in wireless applications as well as across our core vertical markets, particularly in our auto business. Our RFSoC is also deployed with multiple wireless customers and is being evaluated by many customers in other end markets.
+Overall, revenue for our Zynq family grew 61% year-over-year, which represented approximately 26% of total revenue in Q2. Customer feedback related to our Zynq family has been remarkable and gives us significant confidence in our transformation to a platform company.
+We hosted over 1,300 attendees at our Xilinx Developer Forum in San Jose earlier this month. At this sold-out event, we announced a breakthrough in a new, unified, open source software platform called Vitis. We expect that over time, Vitis will drive significantly more Xilinx platform engagement with software developers and data scientists.
+We continue to make good progress building out our global ecosystem of partners, customers, developers and applications, which now has reached nearly 7,000 developers over 750 IOCs [ph] and includes more than 90 applications now in production. We announced engagement with Microsoft Azure, which further demonstrates the breadth of hyperscale/hyperscaler relationships, which include Amazon, Alibaba, Baidu, Huawei, and Tencent.
+Microsoft announced that it will be deploying Alveo U250 accelerator cards in its Azure cloud. Amazon announced that it has expanded its EC2 F1 instances; and additionally, they are adapting SageMaker Neo to run on Xilinx technology.
+Samsung shared a collaboration on leveraging Versal ACAP to enable their next-generation of 5G solutions. We also saw many key ecosystem partners demonstrate examples of FPGAs being used for workload acceleration at the datacenter with increased presence of SmartSSDs and SmartNICs. Considering a challenging business environment, I'm pleased with the progress we continue to make with our strategy and platform transformation.
+I'll pause here and hand the call over to Lorenzo to walk you through the financials for the fiscal second quarter.
+Lorenzo Flores
+Thank you, Victor. Before I go into the results, I want to take this opportunity to thank all of you with whom I've had the pleasure of working with over the last decade. I sincerely wish all of you, and of course, the great team here at Xilinx, all the best in the future.
+Now, on to the fiscal second quarter results. Overall, our business performed well this quarter and we were able to exceed the midpoint of our revenue guidance. Total revenue was in line with guidance at $833 million, up 12% year-over-year, but down 2% sequentially.
+Wired and Wireless Group grew revenue 24% year-over-year, but declined 8% quarter-over-quarter. Quarter-to-quarter, wireless was flat, as our diverse customer base showed strength despite the Huawei shipping restrictions. Wired business declined significantly quarter-to-quarter, due to Huawei and softness from other customers.
+Note, we had one communications customer that represented approximately 12% of the quarterly revenue in Q2. Revenue from the datacenter group increased 24% year-over-year and 92% quarter-over-quarter. We saw better than expected strength from one of our storage customers. We also had growth in multiple hyperscalers and broader accounts despite the Huawei ban.
+Finally, we had approximately $5 million in revenue from Solarflare this quarter. AIT grew 7% year-over-year but declined 9% quarter-on-quarter. Year-over-year, we saw significant strength in A&D and flatness in Industrial. TME did decline significantly. This was as expected and is due to a specific customer program we have highlighted previously. Quarter-on-quarter, our decline was primarily due to TME and Industrial, partially offset by the strength in A&D.
+In ABC, we continue our strong long-term growth trend with 9% growth year-over-year. Quarter-to-quarter, we grew 6%. Both year-over-year and sequential growth were driven by double-digit growth in our auto business. Broadcast also grew both on a quarterly and year-over-year basis, although consumer was down sequentially and year-over-year.
+Gross margin was lower than expectations with GAAP gross margin of 65% and non-GAAP gross margin of 66%. Gross margin was impacted by product and customer mix in AIT and customer mix in DCG. As a reminder, the difference between GAAP and non-GAAP is due to M&A-related amortization.
+GAAP OpEx at $337 million and non-GAAP OpEx at $331 million were both below expectations. Non-GAAP operating expense, excluding Solarflare was $321 million below our guide of $322 million. Solarflare, which closed on July 31, contributed around $10 million to OpEx in Q2.
+GAAP operating income was $204 million or 24% operating margin. Non-GAAP operating income was $217 million or 26% operating margin. Our GAAP and non-GAAP tax rates were approximately negative 5%. We had expected a low rate this quarter due to the tax accounting rules for share-based compensation.
+GAAP net income was $227 million and diluted earnings per share were $0.89. GAAP EPS grew 6% year-over-year. Non-GAAP net income was $240 million and non-GAAP diluted EPS was $0.94 a share, yielding an 8% growth over last year. Diluted share count decreased to 255 million shares.
+Next, I'll cover a few key points on the balance sheet and cash flow. Gross cash was $2.5 billion, with $1.2 billion in long-term debt. Accounts receivable increased to $335 million and is at 37 days, still within our normal operating range. Overall, we generated $224 million in operating cash flow. During the quarter, we also repurchased approximately 1.5 million shares at an average price of $103.60 per share and paid dividends of $93 million.
+Finally, the Board of Directors of Xilinx have approved a new share repurchase authorization of $1 billion. Note that we aren't providing details on the timing and exact number of common shares to be purchased as that will depend upon prevailing market conditions and other factors.
+Now, let me turn the call back to Victor for comments regarding the business outlook. Victor?
+Victor Peng
+Thanks, Lorenzo. And let me take this opportunity to express to you on behalf of the company and personally our appreciation and gratitude for all your contributions and accomplishments over the last decade at Xilinx. Thank you so much, Lorenzo.
+Lorenzo Flores
+Thank you, Victor.
+Victor Peng
+And now turning to our outlook. For fiscal Q3, we expect revenue between $710 million and $740 million, which is a decrease of 9% year-on-year and 13% sequentially. This drop is due to several headwinds that coincide in the quarter that I'll explain. That said, we're expecting Q3 to be a bottom with strong rebound in Q4.
+So, DCG revenue is expected to be slightly down in Q3, with more meaningful growth resuming in the fourth quarter. We are seeing a pause in hyper scale customer orders in Q3, but expect growth to resume in Q4, as customer POC transitions to production.
+We also expect continuing contributions from storage and networking customers, including those from Solarflare. We expect crypto contribution to moderate over time from low teens and millions of single-digit billions that we moved into Q4.
+For WWG, we expect revenues to be meaningfully lower in both the third and fourth quarters. This is principally due to the removal of running your expectations from Huawei, in addition to the expected transition to ASIC for select base band products previously discussed. We expect our revenue from our wired business to recover somewhat in the fourth quarter, while wireless remains weak.
+Lastly, we're seeing global trade uncertainty causing some customers to exercise caution in ordering, as well as some slower than expected customer ramp. For our core vertical markets, revenue is expected to be flat in the third quarter and up in the fourth quarter. Q3 revenue will be lower than prior expectations, primarily due to macroeconomic-related headwinds. The increase in growth in Q4 is expected to come from a broad base of customers, including TME, aerospace and defense, automotive, and industrial customers.
+Fiscal Q3 non-GAAP gross margin is expected to be between 67% to 69%, which is a return to our historical range with a less wireless heavy product mix. Non-GAAP operating expense is expected to be approximate $33 million. Non-GAAP other income is expected to be approximately $1 million, and our tax rate is expected to be between 4% to 6%.
+Now turning to FY 2020 outlook. We expect total revenue to be between $3.21 billion and $3.28 billion. We expect the second-half of FY 2020 to be down relative to the first-half of the year, with an expectation for strong sequential growth in fiscal Q4 following the bottom in fiscal Q3. This represents approximately 6% year-over-year growth following a record FY 2019. This performance is a testament to the durability of a model, given that we haven't been able to ship to – ship fully to an important customer since mid-Q1 and the current global trade uncertainty and macroeconomic headwinds.
+We expect in FY 2020 non-GAAP gross margin range between 66.5% to 68.5%. Non-GAAP operating expenses are expected to be approximately $1.3 billion for the year. This is approximately [$50 million] lower than prior expectations at Analyst Day and reflects the active expense management that we have put in place for the second-half of the year, given the current business conditions.
+Note that, when normalizing for the incremental expense of recent acquisitions, our operating expense is now expected to be approximately $80 million lower than our expectations at the start of the fiscal year. Non-GAAP other income is expected to be approximately $25 million. Our tax rate is expected to be between 4% to 5%.
+Now, I'll take a few minutes to provide some additional color on business units and core vertical markets as we head into the back-half of the year. For DCG, we expect FY 2020 revenues to grow approximately 30% relative to FY 2019 revenue. We have continued to build out our capabilities as we address a dynamic datacenter market that has continued to evolve as customers are evaluating the use of FPGAs for compute, network and storage acceleration.
+Despite a slower start in the first-half of the year and learning the impact of Huawei trade restrictions, we are expecting stronger growth in the second-half that builds on the progress we made with other hyper scale customers, both in the U.S. and in China. Now in compute, we continue to expand our FaaS platform with all the key hyper scale customers. We have built deep engagements with both enterprise and hyper scalars to bring real-time video streaming and database acceleration programs to production.
+Now in some cases, the qualification time needed to reach production deployments is taking longer than expected. This has moderated the revenue growth rate we had anticipated at the start of FY 2020. These expanded timelines weren’t in our original model, but we have now factored that into our outlook going forward. With the launch of Vitis, we expect that over time, customers will be able to develop and deploy our boards into production more rapidly. 
+In storage, we expect the computational storage and SmartSSD market to continue to be a significant growth driver, with key customers, including Micron and Samsung. At the Flash Memory Summit in August, we showcased 14 separate partners with computational storage platforms each using Xilinx products. In networking, we have meaningfully integrated our Solarflare team and we have strong engineering engagement with multiple hyper scalars. We believe we're well-positioned to compete in the early stages of a growing SmartNIC market.
+Last thing on DCG, we expect revenue volatility to abate over time as a diversity of our customer base increases and our revenue reaches a higher run rate. Now for WWG, we expect revenue to be flat year-over-year relative to FY 2019, including the impact of the Huawei trade restrictions. Without the Huawei impact, our WWG has performed roughly in line with the expectations we shared at the Analyst Day in May.
+Our first-half wireless revenue benefited from early 5G deployments, mainly in South Korea and China and a modest amount in other markets. Our second-half is more challenged, given the expected base band ASIC transition and unexpected program delays with some communication customers. That said, this ASIC transition will be largely completed in the fourth quarter.
+Keep in mind that we’re just at the beginning of the global 5G roll out, which remains a significant opportunity for Xilinx over the coming years, but we’ll continue to be somewhat lumpy. Going forward, given our market leadership position versus the competition and our capabilities in RF design, we're well-positioned to grow our wireless business as the intended density increases in the [right to head] with new 5G deployments.
+For our core vertical markets, we now expect FY 2020 revenues to grow high-single digits year-over-year. While revenue in the first-half of FY 2020 grew close to our expectations, we are seeing macroeconomic-related headwinds impacting customer demand in both AIT and ABC markets in Q3.
+Additionally, we are expecting revenue from a planned program wrap at a key emulation and prototyping customer, but that will extend over somewhat longer period beyond FY 2020 and into FY 2021. However, we expect strong customer demand from a broad range of customers, TME, ISM, A&D, and auto coming in Q4. We also expect modest growth in distribution channel demand in Q4 in anticipation of some growth in our broad markets heading into FY 2021.
+So, in closing, we are executing the strategy we outlined at our Analyst Day in May, as we believe it's the right long-term path to Xilinx, despite some near-term headwinds. Xilinx remains well-positioned to capitalize on the secular growth trends that will continue to driving our business for years to come. We will continue to invest in growth, in line with our strategy or actively moderating our R&D and overall operating expenses, given the current business environment.
+We’ll now open the call for questions.
+Question-and-Answer Session
+Operator
+The floor is now open for questions. [Operator Instructions] Your first question comes from Ambrish Srivastava of BMO. Please go ahead. Your line is open.
+Ambrish Srivastava
+Hi, thank you. I just wanted to stick with the full-year fiscal year guidance Victor. What gives you the confidence? Is it pretty large Q-over-Q embedded in the 6% growth? So, notoriously, current requirements are higher for the business. So, sitting here, how can you – what gives you the confidence on that growth for the fourth quarter?
+Victor Peng
+Yes. I think, from a sequential perspective, our Q3, as I said in my prepared remarks, that had a coincidence of a bunch of headwinds occurring sort of at the same time, right, some of which, as we said, we expected some of which were not expected. So, I would say, one thing is just a contrast to that. But we do have strong confidence in Q4, because it is broad across a number of things, including some strong wins that we have that we're tracking very closely and clearly are going to move as expected, right? So, I mean, obviously, I think it's really a contrast of the Q3 to the Q4, but we feel we have good visibility into Q4.
+Ambrish Srivastava
+Your next question comes from Tristan Gerra of Baird. Please go ahead. Your line is open.
+Tristan Gerra
+Hi. What are you seeing in terms of the base station build activity in China, given the U.S. ban? Is that still ongoing or has that changed significantly in the quarter? And where do you see meaningful diversification with shipments in base station outside of Huawei?
+Victor Peng
+So, from what we see, we do think that there are approximately on the path of the base station deployments they said they were initially going to do in China. Clearly, the Huawei had a significant impact, but they're not our only customer in China. So, we are still participating in China deployment. Clearly, though, Huawei has a big impact.
+I think there are some second order things, too, but I think it's probably simple to say that overall, I think it sounds like the first point is about on track, we are participating, but not with one of the top players.
+Tristan Gerra
+Great. Thank you.
+Operator
+Your next question is from Chris Danely of Citigroup. Please go ahead. Your line is open.
+Chris Danely
+Hi, guys. Just a question on taking Huawei to zero. It seems like most of the other semi companies have kind of restored anywhere from two-thirds to three-fourths of their shipments to them. Can you just elaborate on why you're not doing that versus it seems like most other semis have already started to reship?
+Victor Peng
+Again, I can't really speak to how other customers justify, how they believe they can ship. We obviously have been tracking this extremely carefully with our internal and external counsel. We talked to the Department of Commerce. We applied, as I said in our prepared remarks, our licenses, none of those have come through. I guess, one thing I would say is that, many people supply to Huawei, because they have a very diversified business. 5G being explicitly cited as the security issue, there could be differences there. But all I can say is that, we're following all the rules and regulations. But we're carefully monitoring this and we put in licenses and we just haven't had anything approved yet.
+Chris Danely
+Okay. Thanks for the color.
+Victor Peng
+Yes.
+Operator
+Your next question is from Chris Caso of Raymond James. Please go ahead. Your line is open.
+Chris Caso
+Yes, thank you. Just a little bit of color on what's going on with the DCG. And I guess, with the lowered guidance as compared to the Analyst Day, maybe you can break out what – what's changing your thinking? How much of that was attributed to Huawei, because I believe that was a customer in DCG? And how much of it is just customers being a little bit slower to adopt solutions or perhaps this is indicative of the economic environment as well? Thanks.
+Victor Peng
+Actually, you did a fairly good job hitting some of the points. I mean, I – in complete candor, and as I said in the prepared remarks, we're seeing great traction. The opportunities still continue to be really great, but we have learned that in some cases getting to that production from proof-of-concepts, what I refer to as POCs, and also just qualification of some, that is taking a bit longer than we expected and just we hadn't anticipated. But as we – as I said, we have now folded that into our go-forward, so that's one thing.
+The other thing is, you hit it exactly right. Huawei did have an FPGA as a Service, FaaS program and we had to stop that. We're still working through things around that, but that had an impact. And then I would say that there was, as we expressed some digestion, some pullback.
+Having said all of that, our second half is quite a bit stronger than our first and 30% growth is our estimate if we come in midpoint to our guide, it is a strong guide. It's an emerging market. We clearly feel good about this long-term opportunity in being over $1 billion, but sometimes in the emerging market, it's a little challenging to get the timing exactly right, but yes, that's – those are the points to the degree you kind of hit on.
+Chris Caso
+Okay. Thank you.
+Operator
+Your next question comes from of CJ Muse of Evercore. Please go ahead. Your line is open.
+CJ Muse
+Yes. Good afternoon. Thank you for taking the question. I guess, one of the key questions out there is the ability for your wireless business to grow into fiscal 2021. So, I guess, now that you've pulled Huawei 100% out of the numbers and you're guiding WWG flat, what are the core assumptions that we need to kind of assume into fiscal 2021 to have the confidence on that growth, both in terms of, I guess, ASIC replacement on the base band processor, as well as rising content [indiscernible]? Thank you.
+Victor Peng
+Yes, CJ. So, let me say that. First of all, just to reiterate, what you said is that, we – for the remainder of FY 2020, I think we delist everything that we're aware of, right? I don't want to give any specific for FY 2021, but just the broader picture. Our view has not changed from the Analyst Days. 5G is definitely going to be a bigger deployment overall. It's a bigger opportunity for us, because we're not just doing the same old thing.
+We're innovating delivering more value to our customers with things like RFSoC, with things like Versal. So, we still feel good about that. Obviously, the big variants from that day – and Analyst Day has been the whole trade situation, but I guess, what I would say is that, we're still in early innings on deployment.
+So, as those other innings come through, and as some of the things that trials the things, we have at RFSoC go into production and we get wins in Versal and so forth and even the wins we have in MPSoC. We still think this is a strong opportunity. And, of course, we'll give you the FY 2021 in the usual timeframe right after this fiscal year.
+CJ Muse
+Great. Thank you.
+Operator
+Your next question comes from Ross Seymore of Deutsche Bank. Please go ahead. Your line is open.
+Ross Seymore
+Hi, guys. Thanks for all the color on segments in the fiscal year, and Lorenzo, best of luck with your next move. So, Victor, I want to ask question on the core vertical market side of things. It doesn't get as much attention, but still significant part of your business obviously.
+Overall, I just want to see what gives you the confidence in the flat – in the fiscal third quarter outlook sequentially and then up in fiscal fourth quarter and we can contrast that against PI last night who I think surprised the vast majority of us with the weakness that they alluded to at least in the December quarter? So, what gives you the confidence in being so much better than that broad base guy or broad base peers, in general, for both of those quarters?
+Victor Peng
+Yes. I guess, again, I really can't speak for others. I guess, what I would say is that, we do see softness in macroeconomic-related. And some of that is probably also somewhat related to the whole trade situation. We kind of expressed, I think, we expect even in Q1 that we have a, we call it, I think, I referred to it as a product transition or the key TME customer, giving a little more color that, that ramp is happening, but it's going to happen a little bit more spread out.
+So, that's an example in the analyst prototyping of one instance. Our channel definitely has stopped especially in Europe, also in Asia in auto, a little pause. But on the other hand, like, let's take auto, for instance. Like, ADAS is where we play, as you know. And even though near-term, auto units are down, what we're hearing from different signals that in 2020 – calendar 2020, right, that is going to strengthen. And so, we see that and we still have already shipping units that will just continue to ramp in ADAS, as well as being designed into fully autonomous driving.
+So, I guess, what it is, is the confidence that we actually see the dip in Q3, but we are seeing from multiple markets. So, it's kind of broad. It's – I won't say that, it's just one market. It is broad that we're seeing it coming back in Q4. And so – and then a few key things where we’re very confident just because of – we know those programs very, very well.
+Ross Seymore
+Thank you.
+Victor Peng
+Welcome.
+Operator
+Your next question comes from Matt Ramsay of Cowen. Please go ahead. Your line is open.
+Matt Ramsay
+Thank you very much. Good afternoon. Victor, I just wanted to ask a couple of questions on the guide for the December quarter. Just a couple of moving parts. I know you guys, I think, called out in the commentary $50 million to Huawei in the first-half of the year. I would assume that most of that was during the first quarter. So, if we could understand a little bit about the sequential difference between Q2 and Q3 guide there and similar for the Solarflare revenue coming into the model, I guess, this will be a full quarter in December. Just trying to understand those moving parts? Thanks.
+Victor Peng
+Yes. I know this is a pretty packed, pre-prepared statements, because we did want to give a lot of color. So, just to reiterate, yes, you're exactly spot on. With Huawei, the $50 million was predominantly in Q1 prior to the restrictions going in place. Last quarter, we had determined that even with the restrictions, there's some older products that we could legally continue to ship. It turns out that revenue was very essentially negligible, which is why after one quarter of seeing that and not seeing any additional license approvals, we have decided that it's just proven to take all the risk out there means in fiscal year.
+With regard to Solarflare, that closed – that only closed in July. So, you’re right, it's only the first full quarter of revenue in the December quarter and it's what we expect, okay, $10 million, on the order of 10 million-ish, you know but we did the acquisition from a strategic perspective of – they really bring the software and driver expertise and overall system expertise, complementing our strength in silicon in the hardware. And so, we're feeling very good about the integration and the engagements we have in front of that. The revenue is also what we expect. But I think really more important, the strategic thesis now that they're part of us, we feel even better about.
+Lorenzo Flores
+Yes, Matt, I just point out one thing. As we plan to consolidate, obviously, those results and not break those out in future calls, but that just gives you a sense for Victor's comments around what we expect from rank on [indiscernible].
+Operator
+Your next question comes from the line of David Wong of Instinet. Please go ahead. Your line is open.
+David Wong
+Thanks very much. Can you clarify what you have applied for licenses for? Does this cover all of the revenues that you were previously shipping to Huawei, or if not approximately, what percent of prior revenues to Huawei, to your current license applications cover?
+Victor Peng
+It's actually very detail, so I wouldn't want to give you, I don’t think it's appropriate to try and breakdown exactly. I would say it would be, if Huawei had applied for in early July, all got approved, it would be meaningful. I wouldn't necessarily say the entirety, but it would be meaningful. And clearly, if that happen, we would continue to try and seek licenses. But unfortunately, like nothing has been approved. And, as they said, the small set of mostly older products, it hasn't had any kind of meaningful revenue, so we've just decided to de-risk it.
+David Wong
+Great, thanks.
+Victor Peng
+Welcome.
+Operator
+Your next question comes from Joe Moore of Morgan Stanley. Please go ahead. Your line is open.
+Joe Moore
+Great. Thank you. You said that the bass band to ASIC transitional impact is kind of winds down by the fourth quarter of your fiscal year. Is that – can you give us a sense for the wireless business that's – that remains how much bass band is still in there from other customers? Any transitional risk? And just, I assume that the radio deployments are sort of start – starting to ramp up as we move beyond that, is that a fair way to look at it?
+Victor Peng
+Yes. I mean, we still have meaningful wireless business, but yes, the base band ASICs, which we had said, even on Analyst Day that we expect that was going to happen, that has happened. We do still have some position, but I don't think it's very significant at this point in base band.
+I think we've always said that even ASIC replacement, as you know, Joe is not new to us. We've always said that our opportunities is bigger in the radio, but even in the future that we expect some degree of base band revenue, but we had an outsized amount earlier, and I think we're upfront about that.
+But again, I would sort of say that, we – it is significant that it'd be radio, but we still do base band connectivity. Like, again, that's historically been the thing, where we were in the heart of the overall base band in the start of this early deployment.
+Joe Moore
+Yes. Okay, got it. Thank you very much.
+Victor Peng
+Does that help? Okay.
+Operator
+Your next question is from William Stein of SunTrust. Please go ahead. Your line is open.
+William Stein
+Great. Thanks for taking my question. If we get some resolution to the tariff situation, but we still have a ban on Huawei going forward. Victor, I wonder if you could comment on expectation for relative to the longer-term growth you outlined at the Analyst Day, not what it’s going to do next year. But you talked about the Sam [ph] growth of, I think, 35% in DCG and I think 16% in wired and wireless. Are those still realistic as share would shift to other customers of yours, or do you think it would call those growth estimates and question?
+Victor Peng
+Well, first of all, regarding tariffs. Every time those things have occurred, we've analyzed those things and the tariffs don't directly impact us in anyway. There could be like secondary, tertiary, things of just being a damper on macroeconomics. But it doesn't impact us in a dark way.
+So, there was some relief there, but the restrictions on Huawei stayed intact for a long period of time, that would be the bigger thing than tariffs by far, which is why I think I've been consistent in saying that, we really hope that the governments can come to an agreement and resolve the structural issues. So, we can continue to engage with Huawei.
+Now that said, we're still just, again, I want to say that we're still participating in the China 5G. But clearly, they're a very big player there. And I don't want to speculate on what happens in the long-term, right? It's just too difficult. And we certainly look at different scenarios internally. So, we're prepared for things, but it's really clearly premature to speculate beyond FY 2020.
+William Stein
+Thank you.
+Operator
+Your next question comes from Quinn Bolton of Needham & Company. Please go ahead. Your line is open.
+Quinn Bolton
+Hi, Victor, I’m just wondering if you could give us a little bit more color on where you saw the weakness in the wired business and what drives the recovery as we get into the fourth quarter. Is the weakness mostly the Huawei effect, or is it broader than just that one customer?
+Victor Peng
+Well, it's – that was definitely an impact, because people tend to think of Huawei is just purely wise, but actually they play in both places. And so, they're pretty substantial there. But it's not just a one customer. I think there has been some bonus in access in cable.
+I think that there's a particular situation, where things – people initially started to deploy than they took a more cautious approach, because, of course, with 5G, it’s both wireless and then ultimately the wired network has to be upgraded as well. And I think with all this uncertainty, there has been, as I said in my prepared remarks, some caution around that. So, Huawei is definitely a big deal, but it is not the only thing.
+Operator
+Your next question comes from Blayne Curtis of Barclays. Please go ahead. Your line is open.
+Blayne Curtis
+Hi, guys, thanks for taking my question. I guess, I'm struggling a little bit with the March – implied March guidance. Obviously, WWG is down. It suggests substantial growth in the two other segments to get anywhere near the sequential and it’d be record revenue across the board for all the segment. So, I think I'm doing the math right. I guess, I'm just trying to understand in this environment, why you'd be doing record revenue with this substantial double-digit increases into March?
+Victor Peng
+Well, datacenter, as I said, we hit the midpoint of guide. It will be about a 30% year-on-year increase, and obviously, the first-half is a little softer. So, DCG is definitely robustly growing in the second-half, right? I mean, now Q2 was a record, so Q3 is coming off of that a little bit, but that was a record. But then we said that we've resumed sequential strength in DCG in Q4. So, overall, DCG is growing very strong. And yes, it'll be a record.
+In some of the other markets, I think, we – I think we had said that TME had earlier because of some product transitions that that was slowing down. And also, earlier semi is a little weak. So, in terms of semiconductor test, it was a variety of different things. But we had already expected that in the second-half things would strengthen. It's still going to strengthen, maybe a little more moderated than we had expected back in the spring, for sure, because of some of the macro – some of the other issues, but that's still happening.
+And, as we said, auto, people are starting to see, ADAS is still growing, auto is still going to pick up. It'll be double-digit. So, it's actually in Q4 kind of broad. Q3 is just – it really is kind of a perfect storm of a bunch of things some expected, some unexpected happening all at once. So, you have this big contrast there. But yes, that's how we see it right now.
+Blayne Curtis
+Okay. Thank you.
+Operator
+Your next question comes from Vivek Arya of Bank of America. Please go ahead. Your line is open.
+Vivek Arya
+Thanks for taking my question, and thank you and good luck to Lorenzo on his next adventure.
+Lorenzo Flores
+Thank you, Vivek.
+Vivek Arya
+Victor, could you – Thank you. Yes, so maybe, Victor, if you could help us differentiate your position in the radio side. I think, you mentioned that you expect to have a resilient business in the radio side. What is unique to an FPGA in the radio that cannot be done with an ASIC? I assume that some of your customers already used some ASICs in the radio side in China and other places. So, why – what gives you the confidence that they cannot be ASIC replacement on the radio side at some point?
+Victor Peng
+Well, again, first of all, what I would say is, if you look at our MPSoC and absolutely our RFSoC, those aren’t just pure FPGAs, right? So, I will – I really want to go back to those have multi core SOCs in them, they have a lot – a number of other features that are hardened and yet still flexible and programmable. And, of course, the RFSoC has integrated RF quality ADCs and DAC. There are no products in the marketplace even today after we've released this for quite some time out there.
+So, what we could do is, we could be used in different geographies, support different standards with the same piece of silicon. Obviously, we get people to market very rapidly. And there's just optimizations particularly and the trend to overran and where things virtualization. That's the disruption in an opportunity. And we definitely see that in the long range, that's a big thing.
+Then I could say, as we announced, ACAP a year ago, now we've delivered silicon and we're shipping that. We have development boards, that way not in FPGA, right? That's a whole new class of product. And absolutely, that's – I've said that we feel like we have an even stronger position versus pics – architectures. And if you heard about XCF in my prepared comments, it sounds someone was on the stage talking about how we're collaborating, looking at how ACAP continue to update their 5G roadmap, so…
+Vivek Arya
+Thank you.
+Victor Peng
+You’re welcome.
+Operator
+Your next question comes from Christopher Rolland of Susquehanna. Your line is open.
+Christopher Rolland
+Hey, Victor. So, for WWG, where do you see your biggest opportunity in the next 18 months coming from? Is it really the European guys at this point? And then I think you also mentioned some customer delays. So, any thoughts on timing of resolution and relaunching those products? Thanks.
+Victor Peng
+Yes, gosh, I mean, I – 18 months is pretty far out. I sort of feel that, that's not something we can give guidance on at this point in time. We clearly have de-risked everything that we've seen for the remainder of this fiscal year. We are in the early stages of deployment. So, I would generalize what your comment to say, clearly, there’s going to be several generations, as well as geographical deployments.
+Right now, it's South Korea and China, a little bit in Japan, but not very meaningful. So clearly, there will be other geographies that deploy and there'll be multiple generations of 5G equipment. So, we're engaged with all the OEMs worldwide, right, not just Samsung and Chinese only on this, but also the European. So, we're engaging in all of them. And so, yes, as these things deploy, we still feel again from a strategic perspective that opportunity is still great. Obviously, trade, we will have to see.
+Operator
+Your next question comes from Ambrish Srivastava from BMO. Your line is open.
+Ambrish Srivastava
+Thank you for allowing me back in. Before I forget, I would be really miss, if I didn't say thank you to Lorenzo and wish you all the best, that’s a pleasure working with you. Thanks for all the transparency and help as a CFO of Xilinx. I had a question, I wanted to come back to the datacenter side, Victor, and maybe this would be a good time for us from our side to get a little bit recalibrated with how you think the longer-term opportunities are, so compute, network and storage. And if you look out longer-term, which of those three are going to be the big drivers to get to the long-term targets you had given? And I had a quick one on datacenter as well. I think I heard you mention that one of the reasons gross margin was weaker was because of datacenter mix, did they [indiscernible]. Does that imply that datacenter will be dilutive to gross margin? Thank you.
+Victor Peng
+Okay. So, let me…
+Lorenzo Flores
+[Multiple Speakers] first part.
+Victor Peng
+Yes, I'll take the first part and then Lorenzo will work at that the remainder of this call here. Yes, look, the first part, I think, all three sub-segments are going to be meaningful drivers. I mean, they are obviously different in nature. I mean, overall, in the very long run, compute is still the largest segment.
+It's also in some respects, it is a long game, because that's the place where we really – we announced Vitis, we announced open source, where we're doing a lot of things to sort of give users that traditionally have not used our platform, feel comfortable and work in their own environment, like the machine – the artificial intelligence machine learning framework, like TensorFlow and so forth, right?
+So, that in the long run is the biggest opportunity, but it's also going to take time, because that's where ecosystem and all those tools and so on so forth can play a big role. But both SmartSSD and SmartNIC, whereas they may not be so large and long, they're also still quite meaningful. And there, we don't have those issues, right? We're engaged with multiple hyper scalars. We also had some OEM engagements. And we have – we've been setting up our channels by bars and size and so forth. And so, we see some really good opportunities there.
+So, again, it depends on your timeframe, which is going to be big contributors. We see contributions from all of them, quite frankly. And yes, we're really excited. But in full candor, we've learned that, it takes some time to get these POCs done, it takes some time to get all the requirements [Audio Gap], but now that we have those learnings. We're still going. We're going to go out there robustly.
+Lorenzo Flores
+Yes. So, on the margin piece, I think, I'll start with the end of your question, which is do you expect growth in datacenter or long-term to have a negative impact on a gross margin. I think the dynamic with datacenter over the long-term will be similar to some of our other larger segments, where we have large customers with relatively lower margins as would be expected and broad set of customers with relatively higher margins. And the overall impact on the mix, as we expect it today, is relatively neutral and close to our corporate average.
+In the short-term, the exact opposite thing is happening, where we had customer concentration and – which is actually a good thing in this case, because it showed very strong customer growth. And it wasn't that the net result was significantly off of corporate gross margin, it was just that it was lower than our expectations. So, that's why it pulled us down versus our forecast.
+Christopher Rolland
+Maybe because of storage being a bigger driver that led to lower gross margin?
+Lorenzo Flores
+That's a good hypothesis.
+Christopher Rolland
+Thank you. [Multiple Speakers]
+Victor Peng
+So, operator, I think [indiscernible].
+Operator
+There are no further questions at this time. I would like to turn the call back over to Matt Poirier for closing remarks.
+Matt Poirier
+Great. Well, thanks, everyone, for joining us today. We'll have a playback of this call beginning at 5:00 P.M. Pacific Time 8:00 P.M. Eastern today. For a copy of our earnings release, please visit our Investor Relations website. Our next earnings release date for the third quarter of fiscal year 2020 will be Tuesday, January 28, that's the market close.
+Please note that we will be hosting a fireside chat at the Credit Suisse Conference and attending the Barclays Conference in December. The fireside chat will be webcast live and will be accessible through our IR website. This completes our call, and thank you all for your participation.
+Operator
+This concludes today's conference call. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+5 Authors in the Last 90 Days

@@ -1,0 +1,284 @@
+Teradyne, Inc. (NASDAQ:TER) Q2 2019 Earnings Conference Call July 24, 2019 10:00 AM ET
+Company Participants
+Andy Blanchard - Vice President, Corporate Communications
+Mark Jagiela - Chief Executive Officer and President
+Sanjay Mehta - Vice President, Chief Financial Officer
+Conference Call Participants
+John Pitzer - Credit Suisse
+Brian Chin - Stifel
+C.J. Muse - Evercore
+Timothy Arcuri - UBS
+Toshiya Hari - Goldman Sachs
+Mehdi Hosseini - Susquehanna International Group
+Krish Sankar - Cowen and Company
+Atif Malik - Citigroup
+Richard Eastman - Baird
+Sidney Ho - Deutsche Bank
+David Duley - Steelhead Security
+Operator
+Good morning. My name is Shelby and I'll be your conference operator today. At this time, I would like to welcome everyone to the Teradyne Q2 2019 Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session. [Operator Instructions]
+Thank you. Mr. Andy Blanchard, you may begin your conference.
+Andy Blanchard
+Thank you, Shelby. Good morning everyone and welcome to our discussion of Teradyne's most recent financial results. I'm joined this morning by our CEO, Mark Jagiela; and our CFO, Sanjay Mehta. Following our opening remarks, we'll will provide details of our performance for 2019 second quarter along with our outlook for the third quarter of 2019. The press release containing our second quarter results was issued last evening, we're providing slides on the investor page of the website that may be helpful to you when following the discussion. Replays of this call will be available via the same page after the call ends.
+The matters that we discuss today will include forward-looking statements that involve risk factors that could cause Teradyne's results to differ materially from management's current expectations. We encourage you to review the Safe Harbor statement contained in the earnings release as well as our most recent SEC filings. Additionally, those forward-looking statements are made as of today and we take no obligation to update them as a result of developments occurring after this call.
+During today's call, we'll make reference to non-GAAP financial measures. We posted additional information concerning these non-GAAP financial measures including reconciliation to the most directly comparable GAAP financial measure were available on the Investor page of our website. Also, between now and our next earnings call, Teradyne, will be participating in investor conferences hosted by Key Bank, Davidson, City and Deutsche Bank.
+Now let's get on with the rest of the agenda. First, Mark will comment on our recent results and the market conditions as we enter the third quarter. Sanjay will then offer more details on our quarterly results, along with our guidance for the third quarter. We'll then answer your questions. And this call is scheduled for one hour.
+Mark?
+Mark Jagiela
+Hello, everyone, and thanks for joining us this morning. In my prepared remarks, I'll highlight where we stand at the first half of the year and point and then update you on current business conditions and our outlook for the second half in our Test and Industrial Automation businesses.
+But first, I'd like to welcome our new CFO, Sanjay Mehta to the call. Sanjay brings a deep background in the semiconductor industry along with direct expertise in ramping fast moving global businesses. I am delighted to have him on our team. Sanjay will review the financial details of the quarter, and then we'll take your questions.
+We delivered financial results in Q2 that exceeded the high end of our sales and non-GAAP profit guidance by 3% and 2% respectively. For the first six months of the year, compared with the same period last year, sales grew 4% while non-GAAP EPS grew 15% on lower share count and higher gross margins. As was the case in Q1, the principal driver of our performance in Q2 was strong demand for Semiconductor Testers for the emerging silicon used in the 5G infrastructure build up. The 5G infrastructure investment represents the early innings of a multi-year build out that will eventually work its way into mainstream handsets several years down the road.
+While trade tensions and sanctions have made it difficult to forecast and have created a volatile environment. We've yet to see any meaningful slowdown in domain for our Semiconductor Testers. I will also note that the U.S. Administration's actions in May to put Huawei and its affiliates, the Entity List has had no material impact on our sales. As other companies have announced, we performed an extensive review of our products sold to Huawei to determine whether or not they're subject to the Export Administration Regulations and the Entity List restrictions. Many of our products are not subject to the imposed restrictions. As a result, we have continued to supply these products to Huawei and its affiliates. For the products that are subject to the imposed restrictions, we are seeking licenses under the U.S. Export Regulations.
+The overall market picture in Semi Test has improved from our earlier view. Entering the year, we estimated the SOC market size would be in the $2.3 billion to $2.7 billion range, down about $500 million from last year's market based on forecasted weakness in automotive and industrial end markets and an expect to downtick in mobile device test demand. While auto and industrial markets have slowed as expected, the growth in tester demand for 5G related infrastructure and demand for wide range of semiconductors used in smartphone handsets has exceeded our earlier estimates. The 5G infrastructure demand that drove Q1 strong results accelerated in the second quarter and was complemented by an unexpectedly strong demand for smartphone related chip test capacity.
+Our long held view that increasing complexity is driving a meaningful increase in test demand is becoming more apparent with each new device generation. All indications are that this demand will continue to the third quarter, and we are expecting this to result in an SOC test equipment market of $2.6 billion to $3 billion in 2019.
+On the topic of 5G, let me provide a bit of insight on how we're looking at the overall market opportunity and where we are in the progression. From a high volume perspective, we see four phases of 5G rolled out. First, an infrastructure build-up for frequencies below 6 Gigahertz, followed by a ramp of handsets operating in those same frequencies. One or two years later, a similar infrastructure build-up for millimeter wave frequencies with a subsequent ramp for handsets that support those higher frequencies. In terms of volume, we are primarily in the first sub 6-G infrastructure phase now driven mostly by China infrastructure, with the remaining phases playing out and building momentum over the next two to five years.
+While the big millimeter wave ramps are still in the future, there was a very active millimeter wave development work underway across the industry. We've been in the middle of that development and lead customers in both Semi Test and at LitePoint. Recall, LitePoint was first to market with a millimeter wave capable production tester and just last week, we announced the MX-44. Our Semi Test millimeter wave product, which has been in the hands of early customers for several quarters. The MX-44 an instrument for our UltraFLEX platform delivers the RF performance, software ease of use, production worthiness and economics necessary to support the development and early production of millimeter wave devices and modules.
+In Memory Test, we continue to expect the market to be at the low end of our $600 million to $700 million range, our shipments in Q2 of 58 million were up over 20% from Q1 on the strength of flash final test and flash and DRAM wafer test growth. Despite the soft overall market, we continue to see strong demand for our NAND flash tester as the push for higher speed interface testing continues to be strong.
+In Industrial Automation, Q2 sales grew 20% compared with Q2 of 2018, and for the first half sales grew 27%. However, the global malaise in industrial market, the global malaise in industrial markets, especially those related to automobile production were stiff headwind. The automotive supply chain remains a large component of robot sales and weakness in this sector has been difficult to overcome. Sanjay will provide more details on this sector in a moment.
+Given the lower year to date growth, we now expect full year's sales growth to be under the low end of our long term range of 30 %to 40%. While below our goal this year, we remain confident of our long term growth targets. We see this year's slower growth as a natural ebb and flow of the market and not a competitive issue, as our results compare favorably to the broader Industrial Automation market, in which most companies are reporting sales declines, compared with last year's Q2. We continue to work on ramping our lead generation activities, new market vertical diversification and delivering initial availability of our Tam expanding bin picking solution later this year.
+While our IA growth moderated in the quarter, there were several significant milestones to know. Those include UR's largest account crossing the 1,000 robot install base threshold. Continued progress on our large account program, and an OEM partnership with Sapro, a leader in plastics manufacturing automation.
+At MiR, we now have several customer sites operating MiR fleets in excess of 25 mobile robots, and our install base of robots at Chinese hospitals has reached over 80 units and continues to grow.
+Before leaving IA, I'd like to comment on a recent investment in RealWear, an innovative private company that uses the power of advanced wearable technology, in this case, a head mounted augmented reality device that makes the workplace safer and more productive. This investment aligns with our strategy of bringing the power of advanced automation to companies of all sizes to improve the productivity of their employees and the quality of their products and services. Through the investment, Teradyne will gain insights into a wide range of applications and enabling technologies with potential use across our entire business.
+So back to the total company level, when you look at the full year, we expect the second half revenue and EPS to be slightly above the first half, with Test a bit stronger and IA bit weaker than we expected three months ago.
+With that, I'll turn things over to Sanjay.
+Sanjay Mehta
+Thank you, Mark. This morning, I'll make some comments on the first half of 2019, go through several highlights related to the business units, offer some observations about Teradyne after my first three months on the job, and then move to our second quarter results and third quarter outlook.
+We're pleased with our first half performance. As Mark noted, at the midpoint of our fiscal year, our first half sales totaled $1.58 billion, up 4% from the first half of 2018, and non-GAAP EPS $1.20, up 15% from the first half of 2018. Gross margin improved 1 point to 58% in the first half of 2019, primarily driven by favorable product mix in Semi Test. The fundamentals of our Semi Test business remained strong as noted.
+With increasing test complexity, and acceleration of 5G infrastructure investments in the marketplace driving demand, Industrial Automation continue to grow, albeit slower than expectations, but still facing the market facing several headwinds.
+Turning to the business units. Semi test had a strong second quarter with sales of $375 million. The key drivers of growth were one, continued polling of testers supporting 5G infrastructure and two, 20% quarter-on-quarter growth in our memory business, driven by DRAM and flash test shipments. We expect 5G and memory demand drivers to continue in Q3. Regarding 5G, we see accelerated infrastructure spending for test equipment continuing in the second half of 2019.
+While we expect growing 5G handset related test spending next year, we are forecasting a larger spending ramp in 2021. Our LitePoint business grew 42% quarter-over-quarter to $41 million, driven by the System Test requirements for new wireless standards and early 5G handset buying. We expect this level of business to continue into Q3.
+In System Test revenues grew 25% quarter-over-quarter to $73 million, driven primarily by storage testers for multi-terabyte capacity and hard disk drives and increase defense and aerospace shipments.
+Now turning to Industrial Automation business. Our Q2 revenues were $75 million, which grew approximately 13% quarter-over-quarter and 20% year-over-year. As Mark noted, this is despite the glowing automotive investments, which is universal robot single largest market. Nonetheless, UR's 10% year-over-year growth to 63 million was less than our forecast. Geographically, growth in China and Asia Pacific remains relatively strong, but has been offset by slower growth in Europe and North America. Even in the recent slowdown, we believe fundamental demand drivers of the cobots market. Specifically, the scarcity of labor, enhance quality, financial returns and unique ergonomic benefits and manufacturing will continue to drive long term growth. We continue to believe we will go from an installed base of tens of thousands to hundreds of thousands of cobots in the mid-term. In the short term, we are seeing several industry headwinds working against our growth. Several quick market reference points will help calibrate the situation.
+First, the Robotics Industry Association or RIA, is an association focused on the entire North American robot market. Reported a year-over-year decline of all robots. All robot units sold 29% in March this quarter, a trend we believe extended through the June quarter. This is principally due to the slowdown in the automobile manufacturing sector, which has over 50% of the North American robotics market. Global PMIs a proxy for industrial growth have moderated with 30 – 42 regional PMI measures around the world now below 50. Thus, indicating purchasing managers view that marketing conditions are contracting rather than growing. Obviously, we're not immune from the industry wide conditions.
+For UR, we believe in the market regardless of the short term headwinds and will continue to invest to leverage our strengths in the product portfolio. Ecosystem and channel invested in the product portfolio, ecosystem and channel to extend our competitive differentiation.
+Lastly, we continue to train and bring on new partners and support lead customers in key vertical segments. Recall, our strategy is to go-to-market with our channel partners, but to also develop relationships with the key leaders in large market verticals. These direct relationships enable us to understand the end market requirements for products, accelerate deployment time and enable new solutions with third parties. Demand will continue to be fulfilled through our channel partners.
+In our view, the recovery coming out of market through provide an opportunity to extend our competitive lead, enhance our continued investments. Later this year, investments will yield and industrial bin picking product with ease of use, flexibility and economics that our customers have come to expect from Universal Robots. We expect new functionality like bin picking will increase the addressable market for UR robots – sorry, UR cobots approximately 50% plus. This investment and others will position us for above market growth when industrial investments we accelerate.
+Shifting to MiR, which is obviously much earlier in its life. We continue to see healthy sales growth with second quarter sales are approximately $11 million up 81%. from last year's Q2 on a pro forma basis, due in part to the introduction of the MiR500 and MiR1000 pallet moving autonomous robots. While I've been on the job for just a few months, I'd like to offer some general observations. Teradyne has a well-positioned Core Test portfolio with secular market growth in the low single digits. The business model is flexible with variable compensation tied to profitability, which ensures that all employees’ objectives are aligned with the company's objectives. Manufacturing is mostly outsourced for the Core Test business, which reduces CapEx and brings flexibility and are sometimes volatile market.
+We can focus on product road mapping without the burden of managing factory assets, which could hinder optimal roadmap planning and tie up significant capital, lowering long term strategic flexibility.
+In May, I visited several of our contract manufacturing partners in China and Malaysia. I was impressed with the quality of our joint processes and mechanisms to ensure flexibility of production levels. We operate in markets that are volatile and the flexible manufacturing operation delivers short customer lead times while modulating spending relative to demand. The other relevant point about manufacturing in China and Malaysia is that it enables us to minimize the impact of the current trade environment.
+I've observed in industrial automation. We have a very different situation and that we're defining and developing new markets. As these markets are in their infancy, we are focusing to stay well ahead and fortify our competitive position. Capturing these opportunities is one thing, being able to scale to support these opportunities as another. Scaling manufacturing a global operation, global distribution, and an application ecosystem and so on are areas where Teradyne has delivered synergies with our recent acquisition.
+It's also clear to me that our approach to integrating new businesses into the company's effective. To capture the market and realize the opportunities, we enable IA businesses which have decentralized operating decision making. This allows our acquired companies, industry experts to continue to drive at an entrepreneurial pace with minimal bureaucracy. Synergies are enabled through Teradyne's expertise and key support functions to drive efficient scale like supply line management, operations, legal support, global HR, and design for quality that all combined to accelerate growth, which is sometimes hindered some smaller companies to truly scale and capture their market.
+There's a true collaborative management approach between business and corporate leaders that is focused on supporting the needs of these fast growing businesses. A key difference between the core Semi Test business and Industrial Automation is manufacturing. As stated, our Core Test businesses outsource manufacturing for many reasons, including cost, flexibility, scale, and diversity of geographic location, something that has proven very important in these times.
+Our Industrial Automation portfolio is vertically integrated with manufacturing in-house. Manufacturing in-house is a key differentiator in these new markets that we are trying to grow and enable fast time to market and quality solutions.
+Turning to capital allocation now. We'll stay disciplined and maintain the financial strength to return capital to shareholders, along with making acquisitions where it makes financial sense. Over the past three calendar years, we've averaged $420 million of annual free cash flow, which supports a balanced capital return approach with share buybacks, dividends and acquisitions. We target maintaining approximately $1 billion on the balance sheet, earmarking $500 million to ensure we can ride out an economic downturn and continue to invest in our roadmap. This is paramount to our long term success because when the market turns to growth from such a downturn, we will be well positioned with a competitive roadmap to capture the opportunity.
+In addition, we earmark $500 million for potential acquisitions to support our M&A pipeline. We also have $460 million in long term debt in the form of a convertible bond due in 2023. We annually review our capital allocation approach with our board and will communicate any changes to you in the January call.
+Turning to the balance sheet. Our cash and marketable securities stand at $994 million, about flat to the end of the first quarter. We returned $106 million of capital in the second quarter, principally through 91 million of in share repurchases and 15 million of dividends. Our share repurchases since 2015 totaled $1.7 billion at an average buyback price of $30.44. Recall, we plan to buy back 500 million of stock this year and return 60 million in dividends.
+Turning to the second quarter. Company revenue of $564 million came in slightly above the high end of our guidance, for Q2, mainly driven by the acceleration of tester shipments for 5G infrastructure. We had two customers greater than 10% of sales in the quarter. Non-GAAP gross margin was 58%. Non-GAAP operating profit was 24% and Non-GAAP EPS was $0.66.
+You’ll see our non-GAAP operating expenses were $190 million, up $11 million from the first quarter as planned, primarily due to increased distribution investments, UR and some R&D expenses and the Semi Test along with higher variable compensation tied to higher profits.
+The detailed segment level sales for the second quarter including the geographic breakdown for UR and MiR are shown in the table in the presentation.
+We continue to scale up our operating expenditures for Industrial Automation businesses. We’ve included a schedule showing excuse me this breakdown between Test and IA.
+Let me mention one gap item with note. In the quarter, we had discrete tax expense of approximately $15 million related to the finalization of our repatriation tax tool liability.
+Turning to our guidance for the third quarter. Revenue expected to be – is expected to be between $540 million and $580 million and the Non-GAAP EPS range is $0.64 to $0.74 on 171 million of diluted shares. Q3 guidance excludes the amortization required intangibles, restructuring and non-cash convertible debt interest.
+Third quarter gross margin should run approximately 58% to 59% and total OpEx should run from 33% to 35%. The operating profit of our third quarter guidance is forecasted to be 24% to 26%. Shifting to taxes. Our non-GAAP full year tax rate is expected to be 16%, which is consistent with our prior guidance.
+In closing, we’ve seen above forecast performance in our Semi Test business driven by 5G infrastructure shipments. Our Q3 growth and Semi Test is mainly driven by continuation of 5G infrastructure spending.
+Industrial Automation growth is slowing due to economic headwinds, but we expect the growth to keep outpacing the market and we will continue to invest to drive leadership and product ecosystem and channel for IA portfolio to achieve our midterm objectives.
+With that, I’ll turn the call back to Andy.
+Andy Blanchard
+Thanks Sanjay. And Shelby, we’d now like to take some questions. And as a reminder, please limit yourself to one question and a follow-up.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question comes from John Pitzer of Credit Suisse.
+John Pitzer
+Yeah. Good morning, guys. Thanks for – let me ask question. And thanks for all the detail in the prepared comments. Mark, just talking about the Industrial Automation business, I’m just kind of curious, you say it’s going to be below the low end of your long term growth rate target for the full year. How much below the low end and how should we think about kind of half on half growth in the Industrial Automation business in the context that overall business is going to be sort of flattish half on half?
+Mark Jagiela
+Yeah. I think it’s obviously a little difficult for us to project with any precision in the second half times are pretty short in IA. But I think first, you should expect to see an uptick in the second half and IA kind of similar to what you’ve seen in past years, first half to second half. So, I do think we’re going to see growth over the first half and the second half and it’ll be proportional to what we’ve seen so far in past years. And in terms of where we’ll end up in the year, in that 30% to 40% target that we set, I think we’re going to be below that, as I mentioned, somewhere, I probably give it a wide range somewhere in that low-mid 20s to up to that 30 number.
+John Pitzer
+That’s helpful. Then as my follow-up, just on the SOC Test TAM, you’re raising it by about 300 million. I’m assuming the vast majority of that is 5G infrastructure just given where we are on the handset cycle there. But I’m just kind of curious, you think about the four phases of 5G that you talked about, what’s your kind of view on what it does to the SOC Test TAM over time?
+Mark Jagiela
+Yeah, we talked that through a bit in the past. We said that when we’re up and running full speed mean, the majority of the 1.5 billion world handsets have millimeter wave capability embedded. We should see about a $300 million to $400 million increase to the Semi Test TAM. So, in my remarks, I sort of said that’s the last phase of this thing and we’ve always said that sort about 2021 plus when that happens. So, we’re still in that early infrastructure for primarily sub 6G deployments. Yes, there’s here and there scattered deployments of millimeter wave infrastructure in the U.S., but nothing compared to sort of the much more major rollout going on in China for sub 60.
+John Pitzer
+Thanks. Appreciate it.
+Operator
+Your next question comes from Brian Chin at Stifel.
+Brian Chin
+Hi, there, good morning. Thanks for letting us ask a few questions. And Sanjay, welcome to the company and the call. I hope you got a glass of water.
+Sanjay Mehta
+Thank you.
+Brian Chin
+First, just curious about the third quarter breakdown relative to the revenue guide. Just roughly speaking, how do you expect your key business segments to trend in 3Q relative to 2Q?
+Sanjay Mehta
+Yeah, so I think – it’s Sanjay here. So, specifically, I think you’ll see continued – the Semi Test business will continue along with the drivers of the 5G infrastructure. And as Mark mentioned, you should see an increase in the Industrial Automation, similar to what you’ve seen increases in the past. I think some of our other businesses like LitePoint, the growth was really driven by the new wireless standards, the Wi-Fi 6 or 11ax, 7 gigahertz are the examples and you should see continued on that front.
+And then on the System Test group, which did grow 25% kind of quarter-over-quarter in Q2 to $73 million. You should see continued growth there. And really from our hard disk drive business, really driven by the datacenter, the enterprise disk drives going into datacenters, as well as the defense and aerospace business which are typically large programs, large deployment programs with government agencies, and there some large ones are moving into the deployment phase.
+Brian Chin
+Okay, got it. It’s very helpful. Appreciate that. And then I guess for my second question, maybe kind of a two part. First, in terms of looking at UR versus MiR, I guess UR was decelerate a little bit in the quarter to plus 10% year-over-year growth. Kind of curious sort of what that monthly progression was in the business and or by geography i.e. did you see more of a maybe pronounced tail off towards or late in the quarter. And then, I guess also MiR, little surprising, kind of still earlier phases of adoption, could wait for that business, some headwinds, but maybe just any commentary, you’re also seeing in terms of sort of the – that business and sort of having to revise down some of those contingent payouts in Q2?
+Sanjay Mehta
+Yeah. So, I think from UR perspective, I think we’re seeing you’re right 10%. And really when I think about the markets of – in my prepared remarks, I commented on Europe and North America, you’re really seeing the impact of the slowdown tied to automotive. Many other the robotics companies are actually showing negative year-on-year results. However, there was, we did see strength in Asia Pacific, I think of China, Korea and in Japan, and so we – we’re looking forward, we actually expect that to continue to be relatively strong. We’ll have to get back to you on the month on – the monthly profile. I don’t have that hand.
+Brian Chin
+Okay, thank you.
+Mark Jagiela
+And then just maybe a comment on MiR, a little bit. So MiR has – had a very ambitious plan tied to its earn out from day one. And as we sit here in Q2 and look at where we think the full year will turn out, originally to sort of max out in this year, they would have had to have roughly doubled in sales. And where we sit now, given the first half result is, we’re probably going to be in the certainly much greater than 50% range, but the doubling potential given some of the headwinds that Sanjay mentioned is less.
+Brian Chin
+Okay, thank you.
+Operator
+Your next question comes from C.J. Muse of Evercore.
+C.J. Muse
+Yeah, thank you for taking the question. I guess first question on the SOC side. You had previously talked about second half tracking, maybe 50 million lower than the first half, is that still in the cards here? And as you think about moving into 2020, and obviously over the last year, we’ve seen very elevated SOC spending and that’s in spite of the headwinds we saw from two years ago, now this year, auto industrial? How are you, how can you kind of quantify rising complexity versus some of those headwinds and how we should think about that translating into a market size into 2012?
+Mark Jagiela
+Yeah, so let me give you a few guide points on that. So, I do think because of the strengthening
+Semi Test environment we’re seeing that first versus second half Semi Test revenues are probably going to be about flat. And as I mentioned earlier, IA should be up. So that gets to the comments that I made that the second half should be a bit stronger than the first.
+So, and then, the complexity drive of the business, I think, when you look at the two things that are happening this year, despite the fact that handset unit volumes are declining, and have essentially been flat to declining for several years now, we still see a very robust uptake of demand for Semiconductor Testers. So obviously not unit driven, complexity driven. And the complexity drivers in the more recent years, this year and some others have been around, a lot of that is the related to the increase in the number of and the density of the cameras that are going into phones. Some of the higher end phones coming out this year will have six cameras in them. And that propagates throughout the phone in terms of complexity, the amount of NAND Flash goes up the speed with which the NAND Flash goes up, same thing with DRAM. So, all of this is part of the complexity story for cell phones that drives our business. And we’re yet to get into the high bandwidth, 5G related silicon that’s coming. So that’s sort of the thesis we’ve had. I think, the evidence so far as it’s playing out pretty well.
+C.J. Muse
+That’s helpful. And I guess a follow-up on the IA side. As you contemplate the weakness that you’re seeing today, at least relative weakness, can you kind of pinpoint where that’s coming from, between auto, European exposure, China exposure, perhaps, U.S. companies deciding to buy other components before potential terrorist put in place, would love to hear your thoughts there?
+Mark Jagiela
+Yeah, so once again, I think Europe and North America are really tied to the slowdown in the auto industry. I believe that, just to talk a little bit like we still believe we’re in a nascent market and once again, we did grow, overall, the 20% in the quarter. And in these nascent markets, we continue to invest in different applications for things like bin picking that will drive a wave of adoption, or we’re investing in new market verticals like hospitals, for example, with MiR, there’s roughly 80 mobile robots deployed in hospitals. And then we’re also investing in large accounts. And so, the – and these large accounts typically have a little bit longer design cycle and qualification process, as they’re evaluating different competitors. But we really see, again, we really see a big market going forward, we believe we’re helping to create and drive this and what we’re looking for the market to reaccelerated spending to then pull the products forward. Thank you.
+C.J. Muse
+Thank you.
+Operator
+Your next question comes from Timothy Arcuri of UBS.
+Timothy Arcuri
+I had two, I guess the first one Mark is – the comments around the 5G infrastructure, I think that’s pretty consistent that ultimately, you think it’s going to be $300 million to $400 million incremental to the TAM.
+Andy Blanchard
+Tim, we lost – we lost you there, Tim. Could you repeat the question?
+Timothy Arcuri
+Sure. Can you hear me now?
+Mark Jagiela
+Yes.
+Timothy Arcuri
+So yeah, my question is, [Technical Difficulty]
+Mark Jagiela
+Tim, we are going to try to paraphrase the question. You are wondering about raising of the TAM this much this early and attributing it to 5G? Is that indicative of a longer term step up in the market size?
+Sanjay Mehta
+Yeah, I think that’s what Tim was asking, hopefully. Okay. We’re looking into Q3, we still see very strong demand, a lot of it related to the infrastructure. So, I think raising the TAM at this point is really a good solid basis. So, I think the other part of your question was how much license does that have into next year. And I think it’s too early for us to tell. There a large build out going on in China. And there’s plans for that to continue over the next several years, in fact, it’s not like it’s going to be over at the end of this year. On the other hand, there’s all kinds of other economic conditions and tariffs and things that could temper that. So, I wouldn’t call lot of Olympiad talking about specifically next year, other than to suggest that the early innings of this, as I said, my comments are generating a significant uptick in the Semi Test market. And that should allow us to build confidence in our mid-terms earnings model that is actually relatively modest in market growth. And so, we still – we feel pretty good about what’s happening this year as a positive proof against that model.
+Timothy Arcuri
+Awesome, guys. Thank you. Yeah, that was my question. Thank you. And then there’s another question. I think, Mark, you also talked about better smartphone. I’m a little bit surprised about that as well, that your biggest customer, can you give us a little more comments there? Thank you.
+Mark Jagiela
+Yeah, I’ll just say what I said before, I’m not going to comment on any specific customer. But the thing in smartphones, one of the key things has been the proliferation of more cameras, denser cameras, more pixels and more test time. So, without unit growth that complexity growth, and that extends into memory, is why we see a strong, one key element of why we see a strong smartphone semiconductor test market this year.
+Timothy Arcuri
+Okay guys, thanks so much.
+Mark Jagiela
+Thank you.
+Operator
+Your next question comes from Toshiya Hari of Goldman Sachs.
+Toshiya Hari
+Hey, good morning, guys. Thanks for taking the question. I’ve got two. First on Memory Test. Mark, I think this was the first quarter in a long time. And maybe the first quarter ever your Memory Test revenue exceeded that of your nearest competitor. In the quarter, I realized it’s only a quarter, but you’re clearly making good progress on the market share front. So curious if the strength was driven more by your traditional NAND business or increasingly your DRAM final test business as well? And I’ve got a follow-up.
+Mark Jagiela
+Yeah, yeah, I didn’t expect to see that in my lifetime. And I don’t expect that will persist. But look at I think what we’ve been talking about consistently, is still the case that the growing sub segment of memory test tends to be gathering around the high speed variants of DRAM and flash. So, what we saw in the second quarter with a continuation of this deep sort of NAND flash final test business we saw in Q1, a lot of the adder is due to wafer test. It’s the wafer test of both DRAM and flash final test. So, if you said quarter-on-quarter growth, what’s the main important component of that, it’s the wafer test piece.
+Toshiya Hari
+Got it. And then as my follow-up. On LitePoint, I think a couple years ago when business was really slow, at one point, you guys were losing money in the business. I think you had some cost cutting initiatives and since then revenue has improved. So curious, where does – where do margin set LitePoint today? I guess more importantly, going forward when you expect 5G to become a meaningful driver for that business specifically?
+Sanjay Mehta
+Yeah. Hi, it's Sanjay, I'll take that one. So LitePoint is profitable and you should think about it a little bit above, currently running a little bit above our company average and indeed, includes shipments to support 5G and will continue to grow.
+Toshiya Hari
+Thank you.
+Mark Jagiela
+Okay, next question, please.
+Operator
+Your next question comes from Mehdi Hosseini of SIG.
+Mehdi Hosseini
+Yes, thanks for taking my question. I have a follow-up. Mark, you talked about incremental TAM increase of 300 million to 400 million for 5G sub-6 gigahertz phone and this year, your SOC TAM went up by the same amount 300 million. Should I assume that the bass station, the networking TAM is about 300 million and when the phones are out that has another increment of 300 to 400?
+Mark Jagiela
+No, I wouldn't think of it that way. And the 300 million to 400 million that we talked about for the 5G business incorporates phones, base stations and the infrastructure associated with 5G. So, it's all one thing.
+Mehdi Hosseini
+Okay, but this year is all about base station, and you increased the TAM by 300 million. So, does that mean that as when the phones are out, it will, the content or the demand drivers changes from base station to smartphone?
+Mark Jagiela
+Yeah, look I think first of all the 300 million to $400 million TAM increase this year isn't exclusively base station. There's also smartphone, silicon that I talked about that's higher than our expectation related back to a lot of it these image sensor trends. So, it's a combination of phones and base stations, what we're seeing this year. And then as you project out, you know, over time, the base station piece of this should have good legs for several years to come. And everything else being equal, there should be continued growth for several years. But then that will taper off, maybe it's around 2021-2022 and a handset piece will take over as your main drive.
+Mehdi Hosseini
+So, let me try one more time as the follow-up to my first question. Of the 300 million to 400 million TAM associated with sub-6 gigahertz 5G. How would you characterize the base station opportunities are the mix and how does it compare to smart phone?
+Mark Jagiela
+So, it depends on what year you want to talk about. If you want to talk about the next three years, it's not going to get all the way up to that 300 million to 400 million rate, it'll be below that it'll be primarily driven by base stations. After that two to four, sort of two to five years out, it will get up to the 300 to 400 million pattern. And at that point, it will be mostly base station. So, this, let's say the next two couple of years, it's let's say 200 million to 300 million, after that it's 300 to 400 million and there's a shift from infrastructure.
+Mehdi Hosseini
+Sure. Thank you. And my second question has to do, could you also help us quantify opportunity associated with 5G impacting LitePoint? And then I assume that that's more like all phone. Is there any figure you can give me as impacts your board level Test on LitePoint?
+Mark Jagiela
+Yeah, we've talked about that business too, we said that adds about $100 million to the market. And its mostly phones, but there's also a lot of, you know, with Wi-Fi 6 and coming 7 gigahertz band Wi Fi, there's a lot of access points and infrastructure there that will also grow. So that's probably you know 20% of LitePoint's business, but it's meaningful.
+Mehdi Hosseini
+Okay. Thank you.
+Operator
+Your next question comes from Krish Sankar of Cowen and Company.
+Krish Sankar
+Hi, thanks for being my question. I told them first one Mark, is there any you can quantify how much of your Semi Test and/or Semi plus LitePoint is coming from 5G today? What percentage of revenues? And then I had a follow-up?
+Mark Jagiela
+Yeah, we really don't break that out. Maybe, we'll look at that to see if we can do that going forward. But at the moment, we've really haven't consolidated that.
+Krish Sankar
+Gotcha. Gotcha. No worries. And then as a follow-up, you know, on the LitePoint, is the real opportunity for LitePoint in the frequency range to FR to like, I guess, millimeter wave or do you think there's opportunity in FR1, also for LitePoint. And along the same path you know, I think I asked this question last time too, it seems like, you know, two key players in Semi Test but there are like four players in Wireless Test. Do you think if that industry and the Wireless LitePoint side consolidated there's better opportunity for everyone involved? Thank you.
+Mark Jagiela
+Yeah, so FR1 is less of an opportunity for all of us than FR2, but there is still growth as FR1 rolls out. And the competitive dynamics in that business, we've talked about it before, it's a crowded market. The thing that LitePoint specializes in is on production test optimization. Their products really are not designed for R&D purposes. And therefore, you know, I think in the production test market, although there are four or five competitors for development test, there's truly fewer for production test, we may be three, instead of five. So yeah, it's a little bit crowded, but I think for production tests, a little bit less crowded than you might expect.
+Krish Sankar
+Gotcha. Thanks, Mark.
+Operator
+Your next question comes from Atif Malik of Citigroup.
+Atif Malik
+Hi, thank you for taking my questions and good job on another beaten raised quarter on 5G strength. Mark, we here in Taiwan that you've entered probe into closer market. Can you just talk about the strategic rationale and how big that opportunity is? Then I have a follow-up.
+Mark Jagiela
+Yeah, I'm not exactly sure what you're referring to, certainly enter posers are part of the sandwich that makes the tester doctor wafer, but we haven't made any announcements around these specific products there and we're not ready to talk about any of that.
+Atif Malik
+Sure. And then on IA side, are you seeing any retaliatory action by China in preferring local cobots that makes you look at this business different strategically?
+Sanjay Mehta
+Yeah, hi, it's Sanjay. So actually, what we're seeing in China is actually a return to growth. And what we're finding is that customers are taking a look at the competition. And I think as it was mentioned on the last call, what they're finding is that hardware is still a differentiation, because basically run the cobot 24/7 kind of three shifts, we can sustain the performance from a hardware perspective, not to mention the software, the ecosystem and the other benefits. But even from a hardware perspective, where we continue to outperform the competition. Now, that's not to say that the competition isn't coming. We are seeing competitors come and be around specifically in China, but if anything, we actually have a little bit more of an enhanced view as the year is unfolded.
+Mark Jagiela
+Okay, we'll take next question, please.
+Operator
+Your next question comes from Richard Eastman of Baird.
+Richard Eastman
+Yes. Good morning. Just the first question is just around the Industrial Automation business. A couple of things there. One is, are we seeing any incremental traction on kind of these enterprise agreement or direct sales. We had booked a couple of those; I think in the first quarter that you spoke to in the lighting industry. But I'm curious if we have any more examples there? And then also within IA, as we close through the back half of the year, is the EBITDA target, do we slow investments maybe and as the EBITDA target for the full year in IA is still expected to be you know, 16% or better?
+Sanjay Mehta
+Yeah, it's Sanjay. I'll speak to the EBITDA targets and kind of what's going on. So, first thing is, again, I'll reiterate, we believe in the long term of this market, and we're going to continue to invest. And really you should think about it as trade off where we're going to continue to invest if we believe in the mid and long term, we're going to reap benefits from a revenue perspective in those investments. So, our first priority is to make sure we're developing competitive differentiator either in product channel or the ecosystem to drive revenue, and will forego a little bit of operating profit through those investments to obtain that, really from an investment standpoint. And I think in 2018, roughly our operating profit was 16%. And what you should expect in the short term is that – that is going to be plus or minus. In the long term, we do expect that our investments will be leveraged and will grow towards the company average.
+Mark Jagiela
+And just on the larger count discussion, so yes, in the first quarter, we added a couple of large accounts that I was describing that we’re rolling out cobots and sort of this 20-ish to 30-ish units per month rate, those customers continue to perform and continue down that path. And we had this other large account that I mentioned in my remarks, it’s now up over 1000 robots. So, they’re obviously – that’s occurred by the way over about a three year period. So, they’re obviously rolling out at much at a much higher rate than that. We didn’t have anything of that magnitude in additionally, in Q2 to talk about in terms of somebody else who’s in that 20 to 30 a month rate, but there are those in the pipeline. Hopefully, our plan would be to talk about those if we get permission in coming quarters.
+Richard Eastman
+Okay. And then Mark, just as a follow-up question. On the Semi Test side of the business, there were a couple spots flag there and auto and industrial. Could you just maybe speak to what percentage and perhaps – what percentage is Semi Tests are targeted those kind of – at those industries and maybe what test your product line, we can look to see that that exposure?
+Mark Jagiela
+Yeah, so let’s talk about automotive first. Traditionally automotive has sort of been this 400 million test market for us, mainly, it breaks into microcontrollers and say control engine control, control systems, and then power analog, the actual actuators. So, it’s split between our J750 Tester line and our Eagle Tester. Overtime as the electrification of vehicles has been moving forward, and complexity is increasing, more and more of those devices are finding their way on to our UltraFLEX SOC platforms. So, there’s a migration occurring.
+But as I’ve talked about automotive before, we saw three very strong years of automotive demand that was sort of unprecedented from 2016 through 2018. This year, the demand is maybe down 40%, from what hasn’t been running out for those three year average. So, it’s been a pretty significant pause. That’s normal I would have expected it earlier than that occurred. And it typically doesn’t last much more than a year, year and a half at most. So, I think that’s – that’s fine. In the industrial space, similar products, product lines, it’s the J750 moving to the UltraFLEX and Eagle Test platform. And the trends there are very similar, maybe not down as hard as auto, perhaps it’s only down 30% or so compared to where it’s been running the past couple of years. But in a similar way, we expect that last for about a year or so and then there’s a recovery after that.
+Richard Eastman
+And as a percentage of Semi Test?
+Mark Jagiela
+So again, if automotive 400 million out of an SOC, let’s say market, that’s normally 26 or 27, you can do the math, and then the linear one is probably more nominally 300, 350 the industrial.
+Richard Eastman
+Yeah. Okay. Great. Thank you.
+Operator
+Our next question comes from Sidney Ho of Deutsche Bank.
+Sidney Ho
+Great. Thanks for taking my question. I want to go back to the 5G question. You talked about the impact of the Huawei ban, it’s not been significant for you or you don’t expect impact in the future. But if you look at the purchases from them, specifically for the 5G infrastructure, are you seeing them buying in line with their built plans and how can you tell if that customer is not buying for future quarters?
+Mark Jagiela
+Yeah, so I’m not going to comment specifically about any one customer. But I will say that whether or not any customer is kind of buying a head of demand or not, is something we’re always trying to triangulate on. And if we look at what we saw in the second quarter, in terms of buying, there’s no evidence that there was any buying a head of demand in the second quarter. We’ve got we look at that constantly. We got it like you said, we try and get a shipment of in products out with what we know we’re supplying in and see if that all adds up. But all I can say is that through the second quarter, we don’t see disconnect.
+Sidney Ho
+Okay, that’s helpful. Maybe another end market question other than auto industrial, you referred to better than expected growth, in 5G infrastructure in your in your press release, but you also mentioned, strengthen networking. Are we talking about the same thing, or it’s a different type of networking? If you can give some color would be great? Thanks.
+Mark Jagiela
+Yeah, it’s probably a subtle distinction. But it’s essentially being driven by the same thing. So, you have, in a 5G rollout, you have the radio access network, which has antenna modules, down converters, then you have modems. And then you have a backhaul to network processing. And the networking we talked about is sort of the connection of the backhaul through the network processing related to 5G infrastructure.
+Sidney Ho
+Okay, great. Thanks very much.
+Andy Blanchard
+And operator we have time for just one more – one more question, please.
+Operator
+Your final question is from David Duley of Steelhead Security.
+David Duley
+Thanks for taking my question. Just a clarification on the size of the SOC market. I guess you increase the size of the TAM this year? Could you just in reference, how big was the SOC market in 2018 and this year, you expect it to be I guess 2.7 billion, is that what you said?
+Mark Jagiela
+Yeah, so last year, the SOC market was – had a phenomenal peak year of about $3 billion in size. So, at the current midpoint, we’re talking about 2.6, 2.7, 2.8 something like that. So, it’s still down, it’s down maybe that 10% range.
+David Duley
+And for – if the market’s down 10%, what will we expect SOC test business to do this year?
+Mark Jagiela
+SOC test business this year, I think, go back to what I said. We’re not specifically guiding the full year there, but we expect our second half to be a roughly equivalent to our first half. So, you can define it from that.
+David Duley
+Okay. Final question. You mentioned a couple different times about test time intensity. And I imagine you’re referring to your APU customer, or any sort of complex chip like that, could you give us an idea of generation over generation, what sort of increase in intensity you are seeing?
+Mark Jagiela
+Yeah, so it depends really, it’s – it’s hard to get have a rule of thumb there, because first of all generation to generation, the devices themselves obviously get more complex and have more transistors. So, everything else being equal test time would go up generation to generation, there’s a good correlation between transistor count, and test time. However, now and then certain things happen to optimize the test methodology that could be some architectural thing in the tester that allows more efficient testing. So, you might find a generation where the device got more complex, but test time didn’t go up or it could be a test technique, or a quality issue that improved on the customer side. So, in general, with highly complex digital silicon, we kind of see that 10% to 20% natural migration in test time offset by some of these other onetime events.
+David Duley
+Finally, did you mention with your 10% customers where I can obviously guess who one is, but I was curious about who the other one was?
+Mark Jagiela
+No, we didn’t, we specifically won’t call that out in the quarter. However, at the end of the year in the 10-K, we will provide disclosure. And I just remind you that, customer buying patterns are what I would call a little lumpy. So, having a 10% customer in the quarter doesn’t surprise me, but we will provide that disclosure at the end of the year, should they be greater than 10% for the entire year.
+David Duley
+Can you help us out as far as end market goes or any sort of color?
+Mark Jagiela
+No, I don’t think we’re going to get into that. But if obviously this situation persists, we’ll be talking about it as we get into next year.
+David Duley
+Thank you.
+Mark Jagiela
+Okay, that's about wraps it up folks. Thank you for joining us. And as a reminder, if you have follow-up questions, please reach out to me directly.
+Operator
+This concludes today's conference call. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+5 Authors in the Last 90 Days

@@ -1,0 +1,293 @@
+Micron Technology, Inc. (NASDAQ:MU) Q4 2020 Earnings Conference Call September 29, 2020  4:30 PM ET
+Company Participants
+Farhan Ahmad - Vice President, Investor Relations
+Sanjay Mehrotra - President and CEO
+Dave Zinsner - Chief Financial Officer
+Conference Call Participants
+Toshiya Hari - Goldman Sachs
+John Pitzer - Credit Suisse
+C.J. Muse - Evercore
+Blayne Curtis - Barclays
+Harlan Sur - JP Morgan
+Timothy Arcuri - UBS
+Mitch Steves - RBC Capital
+Ambrish Srivastava - BMO
+Operator
+Good afternoon. My name is Sheri, and I will be your conference facilitator today. At this time, I would like to welcome everyone to Micron’s Fourth Quarter 2020 Financial Release Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers’ remarks, there will be a question-and-answer period. [Operator Instructions]
+Thank you. It is now my pleasure to turn the floor over to your host, Farhan Ahmad, Vice President of Investor Relations. You may begin your conference.
+Farhan Ahmad
+Thank you. And welcome to Micron Technology’s fiscal fourth quarter 2020 financial conference call. On the call with me today are Sanjay Mehrotra, President and CEO; and Dave Zinsner, Chief Financial Officer.
+Today’s call will be approximately 60 minutes in length. This call including the audio and slides is also being webcast from our Investor Relations website at investors.micron.com. In addition, our website contains the earnings press release and the prepared remarks filed a short while ago.
+Today’s discussion of financial results will be presented on a non-GAAP financial basis unless otherwise specified. A reconciliation of GAAP to non-GAAP financial measures may be found on our website. As a reminder, a webcast replay will be available on our website later today.
+We encourage you to monitor our website at micron.com throughout the quarter for the most current information on the company, including information on the various financial conferences that we will be attending. You can follow us on Twitter at MicronTech.
+As a reminder, the matters we will be discussing today include forward-looking statements. These forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from statements made today. We refer you to the documents we file with the SEC, specifically our most recent Form 10-K and 10-Q, for a discussion of risks that may affect our future results.
+Although, we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance, or achievements. We are under no duty to update any of the forward-looking statements after today’s date to conform these statements to actual results.
+I will now turn the call over to Sanjay.
+Sanjay Mehrotra
+Thank you, Farhan. Good afternoon, everyone. Micron delivered solid fiscal fourth quarter revenue and profitability driven by strength in DRAM shipments to cloud, PC, and game console customers.
+As I reflect on the fiscal year 2020 accomplishments, I am extremely proud of our Micron team, whose dedication and tenacity enabled the new Micron to deliver customer value and healthy financial results throughout fiscal 2020.
+In DRAM, we introduced the industry’s first 1z nanometer node. We were first to market with mobile LP5 products and shattered industry performance records with our graphics GDDR6X innovation.
+In NAND, we began shipping our first replacement gate-based products and drove significant increases in our QLC mix. In addition, in fiscal Q4 we already achieved our high value solutions mix target. We are entering fiscal 2021 with momentum in our product portfolio and confidence in our technology roadmap and manufacturing capabilities.
+This year, COVID-19 presented a real-life stress test of the new Micron’s resilience. Thanks in large part to the commitment and innovation of our team members around the globe, we continue to operate our fabs at normal capacity and achieved record production from our assembly and test facilities in Xi’an, Taiwan, and Singapore.
+Stringent, industry-leading safety protocols have enabled us to gradually return to work on-site. As of today, almost three quarters of Micron team members are back on-site, with our manufacturing operations running close to fully staffed levels.
+The new Micron is also making solid progress toward our goals to bring differentiated industry-leading products to our customers and to improve our product mix and cost structure so that we can grow our share of industry profits, all while maintaining stable bit share.
+In DRAM, we are leading the industry in 1z nanometer production mix, and this node was a significant contributor to our fiscal fourth quarter sales. We are making good progress on our next-generation 1-alpha node, which remains on track for introduction in fiscal 2021.
+We are further strengthening our DRAM product portfolio. This quarter, we announced GDDR6X, the world’s fastest discrete graphics memory solution and the first to power system bandwidth up to 1 terabyte per second.
+GDDR6X is a great example of close collab -- customer collaboration on differentiated technology that significantly improves the end user experience. Our innovative GDDR6X memory is featured in the NVIDIA GeForce RTX 3090 and 3080 graphics cards that deliver an immersive, real-life gaming experience.
+Our strength in graphics DRAM also positions us well for the data center market, where growth in GPU computing is being driven by AI workloads. We are also excited about our progress with high-bandwidth memory to serve the fast-growing AI market and remain on track to commence volume shipments by the end of this year.
+In NAND, we are on track for replacement gate to make up a meaningful portion of our NAND output by the end of calendar 2020. Our 128-layer, first-generation RG NAND technology entered volume production in fiscal Q3 2020; and in fiscal Q4, we began shipping RG-based consumer SSDs.
+We are also making good progress on our second-generation RG node, which we expect to introduce into volume production during fiscal 2021. This industry-leading technology will be broadly deployed across our product portfolio and drive NAND cost reduction later in fiscal 2021 and into fiscal 2022.
+We are also driving product innovations and cost reductions through an increased mix of QLC NAND. Our QLC innovations offer PC customers a more cost-effective, high-capacity SSD solution, and data center customers a highly effective HDD replacement option with a compelling value proposition.
+We are leading the industry with the broadest portfolio of QLC SSDs across client, consumer, and data center and are seeing QLC adoption accelerate. Our mix of QLC SSD bits more than doubled quarter-over-quarter surpassing our expectations.
+Fiscal 2020 has been an extraordinary year for our high-value solutions, which now make up around 80% of our quarterly NAND bits, achieving the goal we had set for ourselves ahead of schedule. We are now intensifying our focus on profitability enhancement through further improvements to our product mix within our high value solutions portfolio.
+Over the next several quarters, we will be introducing a slate of new SSD and mobile NAND products that leverage increased vertical integration using our internally developed controllers and our industry-leading second-generation replacement gate TLC and QLC technology.
+Turning to end markets. Fiscal 2020 was a strong year for our SSD business. We expanded our NVMe portfolio and continued our SATA market leadership. Fiscal Q4 SSD revenue almost doubled year-over-year led by data center SSD sales.
+Client SSD average capacities grew almost 30% quarter-over-quarter driven by QLC growth. Consumer SSD had another record quarter in volume shipped with NVMe bits more than doubling quarter-over-quarter.
+Turning to data center, memory, and networking, the data center market continues to be a growth engine for Micron; and this year COVID-19 accelerated this growth, specifically in cloud. Leveraging our industry-leading 1z DRAM, Micron executed well to drive robust sequential growth in cloud DRAM bit shipments, which more than doubled year-over-year in fiscal Q4.
+Meanwhile, traditional on-premise enterprise demand was weaker in fiscal Q4 with lower IT investment from businesses due to the impact of the pandemic. Looking ahead, the data center market is expected to start its transition to DDR5 in the second half of fiscal 2021, and we have begun sampling DDR5 server modules to customers. In networking, 5G deployments, particularly in Asia, drove healthy DRAM bit growth quarter-over-quarter.
+In Mobile, Micron is well-positioned to win in the 5G era as a supplier to all the major smartphone manufacturers with an outstanding portfolio of industry-leading low power DRAM and managed NAND solutions.
+We have been diversifying and broadening our mobile business for some time and achieved a record number of design wins in fiscal Q4. We are also excited about our product momentum in mobile MCP solutions, which combine DRAM and NAND solutions into one efficient package.
+The smartphone market has been impacted by the pandemic in a meaningful way in calendar 2020, but as we look ahead to calendar 2021, we expect a rebound in smartphone unit volumes coupled with robust average capacity growth across both DRAM and NAND solutions.
+5G handset volumes could grow to approximately 500 million units in 2021 from around 200 million units in calendar 2020, and these 5G products feature higher memory and storage content to enable enhanced consumer experiences.
+In the PC market, the work-from-home trend drove strong demand for notebooks with pockets of non-memory component shortages in the supply chain. Desktop PC sales are weak due to pandemic-driven changes to customer buying patterns.
+In graphics, GDDR6 shipments to support next-generation gaming consoles, in addition to the initial shipments of our breakthrough GDDR6X product, helped drive strong quarter-over-quarter and year-over-year bit growth. We expect this market to drive growth for us in fiscal 2021.
+DRAM and NAND content growth continues to be a secular trend in the automotive market, supported by advanced infotainment systems and increased automation in cars. COVID-19 has significantly impacted both auto production and demand in fiscal 2020, but we saw a strong recovery toward the end of fiscal Q4 and expect sequential growth in sales of our products into the automotive market in FQ1.
+Economic recovery from the sharp recession in calendar Q2 is underway, but the pace has been limited by the continuation of the pandemic. Smartphone, auto and consumer end markets have started to recover, and we see further demand improvements ahead.
+Cloud and laptop demand continues to be healthy, supported by the work-from-home and shop from home trends. Gaming demand is robust. However, our short-term outlook has weakened due to a combination of factors.
+First, the ongoing pandemic is taking a toll on certain segments of the economy. Consequently, Enterprise demand has weakened due to lower IT spending and somewhat higher inventories at certain customers.
+In addition, due to the previously announced U.S. administration restrictions on Huawei, we halted shipments to Huawei on September 14th. Huawei has been a large customer, at approximately 10% of fiscal Q4 sales.
+Given that we only had a one month notice before halting shipments, we had limited ability to shift supply to other customers. As a result, we expect a negative impact to fiscal Q1 sales and to a lesser extent, fiscal Q2 sales. Our well-established relationships with mobile customers worldwide will allow us to offset the impact of these restrictions by the end of fiscal Q2.
+Now turning to our industry outlook. We now estimate that calendar 2020 industry DRAM bit demand growth is likely to be in the mid-teens percent range, while NAND bit demand growth is likely to be in the mid-20s.
+Due to the shift of industry production capacity to a more efficient 16-gigabit die, we are seeing industry supply constraints for 8-gigabit-based DRAM products. We are optimistic that overall market demand will improve throughout calendar 2021, following the seasonal patterns of the first calendar quarter.
+We are very excited by the combination of growth drivers coming into alignment for the industry for calendar 2021. These growth drivers include, economic recovery from the pandemic, new CPU architectures, which are enabling higher server content, cloud, AI and machine-learning growth, robust mobile demand driven by 5G, and strength in gaming and automotive.
+We expect calendar 2021 industry DRAM bit demand growth of approximately 20%. We further expect that disciplined industry CapEx will result in improving DRAM market conditions and industry profitability throughout calendar 2021.
+Calendar 2021 industry NAND bit demand growth is expected to be approximately 30%. Unless industry CapEx moderates from current levels or demand exceeds our expectations, we see a risk of challenging NAND industry profitability levels.
+Turning to Micron supply, we target our bit supply growth CAGR to be in line with industry bit demand growth CAGR for both DRAM and NAND. However, there can be year-to-year variability caused by node transition timing. For example, we expect our DRAM bit supply growth to be above industry demand in calendar 2020, but to moderate to less than industry demand in calendar 2021.
+In NAND, we expect our bit supply growth in calendar 2020 to be well below the industry demand due to our ongoing RG transition. In calendar 2021, we expect our NAND bit supply growth to be somewhat below the industry demand and we plan to use inventory to support a bit shipment growth that is in line with the industry demand.
+For fiscal 2021, we expect DRAM cost reduction in the mid single-digit percent range, with somewhat higher levels of cost reductions on a like-for-like basis. Our higher mix of LP5, graphics and our early ramp of high-bandwidth memory will impact overall DRAM costs.
+We anticipate NAND cost reduction in the low- to mid-teens percent range, even after accounting for the cost impact of our mix shift as we continue our focus on optimizing our high value solutions portfolio.
+We are targeting fiscal 2021 CapEx to be approximately $9 billion to support our long-term goal of maintaining stable share of industry bit supply, which will be achieved through node transitions alone and without a net increase to wafer starts.
+This CapEx target is significantly lower than our pre-COVID expectations and reflects our continued commitment to exercise supply discipline, while staying focused on deploying our leading-edge technology nodes, which deliver strong ROI.
+Within this CapEx envelope, fab building CapEx will remain elevated relative to historical levels. We are also continuing investments in back-end assembly and test capacity that do not impact bit growth but have strong ROI. Should demand expectations change, we remain flexible to adjust our bit supply growth to align with bit demand growth, using CapEx and utilization as levers.
+Despite COVID-19’s broad impact on our lives and the business environment, we believe it has accelerated demand growth in some parts of the markets we serve. This is certainly true in cloud deployments, where some trends that would have taken two years to four years to develop have been accelerated into months and will likely persist into the future.
+As we look ahead, we remain extremely excited about the growth and health of our diverse end markets, which will benefit from powerful secular technology trends including AI, 5G and IoT. These trends will enable the data economy and increase the importance of DRAM and NAND, supporting a long-term DRAM bit demand growth CAGR of mid- to high-teens, and a NAND bit demand growth CAGR of approximately 30%.
+I will now turn it over to Dave to provide our financial results and guidance.
+Dave Zinsner
+Thanks, Sanjay. We generated solid results in the fiscal fourth quarter, with revenue and earnings per share coming in above the midpoint of our guided range, despite significant demand variability as customers continue to react to the impacts of COVID-19.
+Total FQ4 revenue was approximately $6.1 billion, up 11% sequentially and 24% year-over-year. As a reminder, our FQ4 results reflect a 14-week quarter and the extra week contributed to revenues, costs and expenses for the quarter.
+Sequential revenue growth was led by strong DRAM shipments. Revenue was back-end loaded based on timing of customer demand. For the fiscal year 2020, total revenue was $21.4 billion, down 8% from the prior fiscal year.
+FQ4 DRAM revenue was $4.4 billion, representing 72% of total revenue. DRAM revenue increased 22% sequentially and 29% year-over-year. Bit shipments were up in the mid-20% range sequentially and ASPs were down in the lower single-digit percent range quarter-over-quarter.
+For the fiscal year, DRAM revenue was $14.5 billion, representing 68% of total revenue. DRAM revenue declined 14% from the prior fiscal year.
+FQ4 NAND revenue was approximately $1.5 billion, representing 25% of total revenue. NAND revenue declined 8% sequentially and was up 27% year-over-year. Bit shipments were approximately flat sequentially and ASPs declined in the upper single-digit percent range quarter-over-quarter.
+For the fiscal year, NAND revenue was $6.1 billion, representing 29% of total revenue. NAND revenue increased 14% from the prior fiscal year.
+Now turning to our revenue trends by business unit. Revenue for the Compute and Networking Business Unit was approximately $3 billion, up approximately 36% sequentially and up 59% year-over-year.
+CNBU revenue was driven by continued strength in the Cloud and Client segments, following the work-from-home infrastructure build out, as well as growth in demand from gaming consoles. For the fiscal year, CNBU revenue was $9.2 billion, down 8% from the prior fiscal year.
+Revenue for the Mobile Business Unit was $1.5 billion, down 4% sequentially and up 4% year-over-year. For the fiscal year, MBU revenue was $5.7 billion, down 11% from fiscal 2019.
+Revenue for the Storage Business Unit was $913 million, down 10% from FQ3 and up 8% year-over-year. For the fiscal year, SBU revenue was $3.8 billion, down 2% from fiscal 2019.
+Finally, revenue for the Embedded Business Unit was $654 million, down 3% sequentially and down 7% year-over-year. Demand continued to be below historical levels due to the impacts -- impact from COVID-19.
+Exiting the quarter, we began to see a sharp recovery in auto and consumer market demand, while industrial markets remained lackluster. For the fiscal year, EBU revenue was $2.8 billion, down 12% from fiscal 2019.
+The consolidated gross margin for FQ4 was 34.9%, up approximately 170 basis points from the prior quarter. Sequential gross margin improvement was driven by solid DRAM cost execution which benefitted from our 1z ramp. The impact of underutilization at our Lehi fab was $135 million or approximately 220 basis points in FQ4. We expect underutilization to gradually decline through fiscal 2021 as we redeploy equipment and continue to right-size our capacity.
+Operating expenses were $809 million in FQ4. While we have taken actions over the past several quarters to control our operating expenses, we expect operating expenses to increase over the course of fiscal 2021 as we make several investments in R&D to fund technology spending and to further grow and improve our product portfolio.
+FQ4 operating income was $1.3 billion, resulting in an operating margin of 21.5%, compared to 18% in the prior quarter and 14% in the prior year.
+Net interest expense increased to $31 million, compared to $24 million of net interest expense in the prior quarter. The increase was due to the lower yields on our cash investments, which reduced interest income. We expect net interest expense to increase modestly to approximately $35 million in FQ1.
+Our FQ4 effective tax rate was 3.6%, which benefited from approximately $16 million of one-time items. Going forward into fiscal 2021, we expect our tax rate to be in the high single-digit range.
+Non-GAAP earnings per share in FQ4 were $1.08, up from $0.82 in FQ3 and $0.56 in the year ago quarter. For the fiscal year, EPS was $2.83, down from $6.35 in fiscal 2019.
+Turning to cash flows and capital spending, we generated $2.3 billion in cash from operations in fiscal Q4, representing 38% of revenue. For the fiscal year, we generated $8.3 billion in cash from operations, down from $13.2 billion in the prior fiscal year.
+Net capital spending was approximately $2.2 billion during the quarter and approximately $7.9 billion for the fiscal 2020.
+Our future CapEx plans have come down versus our pre-COVID expectations. We now expect fiscal 2021 CapEx of approximately $9 billion. This CapEx investment will support our 1-alpha DRAM and second-generation replacement gate NAND ramps. NAND and backend equipment CapEx will increase year-on-year, while DRAM equipment CapEx will be roughly flat year-on-year.
+These investments will skew our CapEx spending toward the first two quarters of the fiscal year. As a result, we expect capital spending to outpace our operating cash flow in FQ1 and FQ2. We expect to return to healthy free cash flow levels in the second half of the fiscal year as we benefit from improved market conditions, declining costs and lower capital spending.
+Free cash flow in the quarter was $111 million, compared to $101 million in the prior quarter. This represents the 15th consecutive quarter of positive free cash flow. For the fiscal year, we generated $361 million of free cash flow.
+We repurchased approximately 824,000 shares for $41 million in FQ4 at an average price of $49.91. In fiscal 2020, we have returned $176 million of capital through repurchases, representing approximately 50% of our free cash flow. Combining the convert premiums and share repurchases, we have used approximately $380 million or 105% of fiscal 2020 free cash flow toward reducing our fully diluted share count.
+Ending FQ4 inventory was $5.6 billion or 135 days versus 131 days last quarter. This is above our 110-day target due in part to elevated NAND inventory as we continue to transition to replacement gate. We are also holding higher levels of raw material during this period of supply uncertainty. We expect inventory levels to normalize over the course of the fiscal year.
+We ended the quarter with total cash of $9.3 billion and total liquidity of approximately $11.8 billion, flat quarter-over-quarter. FQ4 ending total debt was $6.6 billion.
+Now turning to our outlook. As a reminder, our fiscal first quarter will be a usual 13-week quarter, down from the 14 weeks in the fiscal fourth quarter. We have started to see recovery in the Mobile, Auto and Consumer markets, but the pace of recovery has been moderated by the continued impact of the pandemic, and shortages of certain non-memory components in some end markets.
+Enterprise demand is weak and some of our customers may be carrying higher inventory. We continue to be disciplined on pricing, walking away from certain deals that are below our profitability targets.
+Compared to our fiscal Q4 results normalized to adjust for the extra week, we expect DRAM shipments to be relatively flat and NAND shipments to grow somewhat in the first half of fiscal 2021 due to market conditions and the impact of the Huawei restrictions.
+We face headwinds in our gross margins in the first half of fiscal 2021 due to a mix shift toward NAND revenue, our pricing assumptions in the near-term driven by market conditions and temporarily higher costs related to our ramp of the first-generation replacement gate node and yield learning on new DRAM products such as graphics. We expect improved financial performance in the second half of the fiscal 2021 as we benefit from improved market conditions and declining costs.
+With all these factors in mind, our non-GAAP guidance for FQ1 is as follows. We expect revenue to be $5.2 billion, plus or minus $200 million, gross margin to be in the range of 27.5% plus or minus 100 basis points, and operating expenses to be approximately $825 million, plus or minus $25 million. Finally, based on a share count of approximately 1.15 billion fully diluted shares, we expect EPS to be $0.47, plus or minus $0.07.
+In closing, Micron continues to execute well despite continued market uncertainty and geopolitical challenges. Against the backdrop of a severe global recession caused by COVID-19, Micron has delivered solid performance in fiscal 2020, with revenues 70% higher and operating margins 12 percentage points higher than fiscal 2016.
+As we assess our cross-cycle performance over the last four years, we have delivered average gross margins of 40%, EBITDA margins of 50% and return on invested capital of 20%. Our cross-cycle performance has benefitted by the $9 billion in structural profitability improvements achieved from fiscal 2016 to fiscal 2019 and we intend to continue to improve our cost competitiveness in the coming years.
+Our strong technology, dramatically improved product portfolio and financial strength position us well to capitalize on the long-running demand trends driving the memory and storage industry. 
+I will now turn the call over to Sanjay for closing remarks.
+Sanjay Mehrotra
+Thank you, Dave. The positive momentum in our financial performance in calendar year 2020 has been interrupted by the unprecedented combination of a global pandemic and U.S. restrictions on shipments to Huawei.
+As we look toward the second half of fiscal 2021, we expect that the underlying momentum in our product portfolio and secular industry drivers such as AI and 5G will drive materially better financial and business performance.
+We are confident in the long-term growth trajectory of our industry. Memory and storage have become increasingly important across diverse end-market applications, spanning from the data center to the edge and from business to consumer.
+Within this context, Micron is getting stronger, not only financially, as Dave indicated, but also competitively. Micron is transforming into a product leadership company that is a trusted partner to our customers both for differentiated solutions and for continuity of supply. We are confident that our upcoming node transitions, our strengthening product portfolio and deeper customer engagements will further enhance our competitive position. 
+Micron’s transformation is taking place against a global backdrop of unprecedented environmental challenges. It is imperative that we are also environmentally responsible in our operations and Micron is playing a leadership role in this area.
+Last month, we solidified our commitment to sustainability, announcing specific and measurable environmental sustainability goals for calendar 2022 and 2030. These commitments will be a milestone toward our aspirational goals of reducing absolute greenhouse gas emissions by 40% from our calendar 2018 baseline, transitioning to 100% renewable energy where available, conserving 100% of our water use and sending zero waste to landfills.
+Reaching our goals will require investment and as we have previously discussed, we plan to devote approximately 2% of annual capital expenditures to environmental sustainability initiatives amounting to about $1 billion over the next five years to seven years.
+We will now open for questions.
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions] Our first question will come from Toshiya Hari with Goldman Sachs. Please go ahead.
+Toshiya Hari
+Good afternoon and thank you very much for taking the question. Sanjay, in your prepared remarks, you noted your expectations for the DRAM market or the conditions there rather to improve in the second half of calendar 2021. I guess I am curious in making that statement, what sort of assumptions you are making on the demand side as well as the supply side over the next couple of quarters? It appears as though you are seeing supply side cuts from not just yourselves but also from your peers, and if anything the demand outlook in the server space remains fairly muted today. So do you expect server demand to remain weak, and therefore, you are only expecting a recovery in the second half or what sort of the key drivers in the timing of the recovery? Thank you.
+Sanjay Mehrotra
+First of all, let me just point out, you said, recovery in the second half of calendar year ‘20. What we said is, in the second half of our fiscal year ‘20. And DRAM, of course, the long-term drivers of growth are secular in nature, trend of AI and 5G, of course, will be a continuing driver of growth.
+In the near-term, I mean, a lot of -- let -- from an industry point of view, Enterprise servers have been weak and that’s impacting the demand outlook. And you also have to remember the context of the first half of the year.
+In the first half of calendar year 2020, as we had entered the year, we were definitely looking at strong demand trends building up through the year. The inventories by and large had normalized in the industry and then we got hit by COVID and that definitely impacted the demand outlook. It accelerated it in Cloud for a while. It accelerated it in Enterprise as well, as financial and other sectors invested in Enterprise server side. However, Enterprise has generally been weak.
+Cloud demand, given the work-from-home and e-commerce and streaming, all these kind of applications have driven strong growth on the cloud side, and we expect cloud to continue to be healthy in the second half. Of course, the first half of the calendar year 2020 saw a surge in demand in cloud.
+In the second half, we expect it to be somewhat moderated compared to the first half levels, but cloud will continue to be in a healthy place over the FQ1 and FQ2 timeframe, and it is a long-term driver of growth as well.
+5G phones will be a strong driver of growth. And remember, in 2020, because of COVID, total smartphone unit sales got impacted and got lowered by something around 10% on a year-over-year basis. But in 2021, smartphone sales are expected to pick up. In fact, smartphone sales are already picking up in the marketplace right now.
+So not only is it a story of increasing smartphone sales, as we go through calendar 2021 beyond the seasonally slower first quarter of the calendar, but it is also the story in 5G of higher content, both for memory and storage.
+So these are the demand drivers that are driving -- that are giving us optimistic outlook for DRAM demand in calendar year 2021, continuing to improve starting from the beginning of the year, particularly as we get past the seasonal calendar Q1 timeframe.
+And of course, as you pointed out, the CapEx in the DRAM industry has been disciplined; and in that, I would position the industry when we look at the backdrop of demand expectation of approximately 20% in calendar year 2021 or 20% growth in DRAM. And look at the CapEx discipline that has existed in the industry, we think the environment -- overall these dynamics bode well for healthy environment in our second fiscal half of 2021 for DRAM.
+And of course, for ourselves, our second-generation DRAM, our 1-alpha node, which will begin production in fiscal year 2021 will position us very well, and our underlying momentum of our product portfolio both in NAND and DRAM will position us well as we go through calendar year 2021.
+Toshiya Hari
+Thank you.
+Operator
+Thank you. Our next question will come from John Pitzer with Credit Suisse. Please go ahead.
+John Pitzer
+Yeah. Good afternoon, guys. Thanks for letting me ask the question. Sanjay, Dave, I wanted to talk a little bit kind of the margin profile for November and beyond. Dave, you mentioned that with the Huawei ban, you are going to see a mix shift towards NAND. If it was roughly kind of 70/20 in the August quarter, how do you think that trends into November and February, and does it get worse again in February or not? And I guess, just given that you guys are ahead of schedule on your move to higher value NAND, how should we think about gross margin progression in NAND from here, I know that the mix has been hampered by the lack of cost down with replacement gate. But I am just kind of curious as to how we should think about gross margin progression going forward in NAND just given that you have already hit your mix of high value targets?
+Dave Zinsner
+Okay. That was a three-part question in one. Good job, John. So let’s talk a little about the mix. Obviously, mix was pretty favorable in the fourth fiscal quarter, DRAM jumped up quite a bit from the previous quarter, up to low 70s as a percent of our total revenue.
+We would expect that to come down modestly and NAND to come up modestly. I am not sure it’s going to be the most significant story around gross margin, but it certainly will be a headwind. Tough to call on the second quarter, we do expect continued growth in NAND, and probably flattish in DRAM, so there’s probably a little bit more incremental mix headwind there.
+But as Sanjay indicated, in the back half of the fiscal year, we are very bullish around a lot of the markets that DRAM supports like cloud, like the mobile space, for 5G, and so we do expect a healthy recovery in DRAM beyond that.
+You mentioned the high value solutions. That obviously has been helpful and accretive to our business so far. We are continuing to drive that. We, in fact, actually now the story is even beyond NAND, it goes into the DRAM space, for example, with graphics.
+I talked about that it would start out being a little bit of a headwind on our gross margins the first fiscal quarter because of the early ramp of the product. But as that hits its stride as we go through fiscal and calendar 2021, we would expect that to be very beneficial in the gross margin side.
+You mentioned also replacement gate. So as you know, replacement gate has kept our cost reductions on the NAND front relatively flat in fiscal 2020, about the only real cost reduction we got in fiscal 2021 out of NAND was really the depreciation change.
+There’s not a huge change in the fiscal first quarter around NAND as the first-generation of replacement gate still is the major story there. But as Sanjay talked about, we will be ramping second-generation replacement gate next year and so that should be a benefit.
+We do think that its cost reductions are quite positive and should be very helpful in driving what we said in the prepared remarks is low-single -- low double-digit cost declines on NAND and that’s with mix being a factor in it and so it’s even better without that.
+And also, I would say on the DRAM front, we are looking at our cost reductions next year and even with mix should be pretty respectable and that includes all that increased cost and higher margin products that we will be shipping next year, but also will include the -- graphics will also benefit the gross margins as well.
+So, I think, I said, on the NAND, I said, low mid-teens costs, but it was actually low double-digit, I should say, cost reductions or low- to mid-teens cost reductions instead of low double-digit cost reductions.
+John Pitzer
+Dave, maybe another way to ask the question is, when you take pricing out of the equation, because I know that’s the biggest driver. Are the other drivers of sort of gross margin progression? Are the headwinds peaking in the November quarter or would you expect them to stick around into February beyond?
+Dave Zinsner
+On the DRAM front, whether it extends into the second quarter it’s possible. But I think in the back half of the year, it’s certainly going to be a good story on the gross margin front as we get more mature yields on those products.
+On the NAND front, I think, really I think, the bigger driver is going to be this switchover to the second-generation of replacement gate and that’s really where we start to see the cost improvement, because we are at a pretty high level of high value solutions on the NAND front.
+John Pitzer
+All right. Thanks.
+Operator
+Thank you. Our next question will come from C.J. Muse with Evercore. Please go ahead.
+C.J. Muse
+Yeah. Good afternoon. Thank you for taking the question. I guess, Dave, to follow on to John’s question. If we could isolate just on the DRAM gross margin side of things. It looks like it’s an implied gross margin for November around 31%, and I am just curious here that’s below the fiscal 2020 trough. And so within that, how much of that is conservatism around pricing? Is there a write-down of Huawei inventory and I guess what kind of snapback specifically to the mix around HBM and graphics should we see in terms of a gross margin snapback into the second half of fiscal ‘21?
+Dave Zinsner
+Yeah. So the Huawei impacts that we had on the gross margin front were largely accounted for in the fourth fiscal quarter. Although, there is potential for more, depending on how the rest of the bits get consumed.
+On the high value products within DRAM, clearly, the first couple of quarters will be somewhat of a kind of headwind to the gross margins. But it’s simply kind of a ramp timing challenge and it just so happens that where we are seeing pricing be a little bit more negative. That just so happens to coincide with a couple of quarters where our costs are kind of running higher.
+But I don’t really think, I mean, this is somewhat of a near-term challenge that will correct itself over time, particularly as though -- again, as those products get to more mature yields and we get the mix going in the right direction for us.
+I would tell you, just as it relates, we obviously don’t want to go into details around the difference in margins between DRAM and NAND, specifically. I would just tell you that, your estimate of DRAM is low relative to what it is in reality.
+C.J. Muse
+Very helpful. Thank you.
+Operator
+Thank you. Our next question will come from Blayne Curtis with Barclays. Please go ahead.
+Blayne Curtis
+Hi, guys. Thanks for taking my question. I was just curious on Huawei. I just want to confirm. I think you said you are not shipping to them. There have been some stories about companies getting licenses on the server side. Just your perspective, one, you are totally not shipping. When you said 10%, I know it sounded like there was maybe catch-up before the 15th. Just kind of curious how elevated that was and then any prospects on getting a license going forward?
+Sanjay Mehrotra
+So that’s -- in our fiscal fourth quarter, Huawei was slightly under 10% of our total revenue. And given that the order had come in from the commerce pretty late in the quarter. In terms of any upside from Huawei in our fiscal fourth quarter, it was really very, very small.
+Now, with respect to FQ1, yes, we start shipment effective September 14th. So what that means is that our revenue declines substantially with Huawei in fiscal Q1 and that clearly is a significant headwind to us.
+Huawei has been a large customer to us, not only in FQ4 of 2020, but as we have reported before. It has been our largest customer for significant period of time in prior several quarters as well. So the impact of Huawei as related commerce department ruling is significant impact to our revenue in FQ1, and obviously, it is baked into our FQ1 guidance here.
+Specific to the licenses, we have applied for licenses. It’s important to understand that our previous licenses did not give us the ability that -- our previous licenses at this point do not give us the ability to ship to Huawei from our non-U.S. fabs. We need new licenses for that, which we have applied for and we do not know if and when those licenses would be granted.
+Blayne Curtis
+Thanks. And then is there a way to think about in terms of particularly mobile market customers positioning to try to take share from Huawei and if you have seen any uptick in the mobile market relative to that?
+Sanjay Mehrotra
+So as we said in our prepared remarks that with respect to the lost opportunity at Huawei, it will take us a while to shift our production, as well as address the demand from other customers within the mobile ecosystem.
+There is no question that the end market mobile demand will be what it is projected to be and to the extent that Huawei is not able to fulfill that demand going forward, that demand will be supplied by other smartphone manufacturers.
+Micron is well-engaged with the entire ecosystem of smartphone manufacturers. We have had strong relationships with those customers. We have been a strong supplier to them. Our portfolio of solutions has only strengthened over time, making us a valued partner to the rest of the mobile ecosystem as well.
+So as we shift from Huawei toward those other customers, it will take us some time. It will have impact in FQ1, as I noted earlier. It will have less impact in FQ2, but by end of FQ2 and beyond, we will be able to make up for any loss on the Huawei front with other smartphone manufacturers assuming that we don’t get licensed to Huawei in this timeframe.
+Blayne Curtis
+Thank you.
+Operator
+Thank you. Our next question will come from Harlan Sur with JP Morgan. Please go ahead.
+Harlan Sur
+Good afternoon. Thanks for taking my question. On your Enterprise SSD business, it’s been obviously a big contributor to the value-added mix shift. I believe your share has grown above 300 basis points since the beginning of this year. You guys are in a strong number three global share position. Is the momentum coming from your SATA-based portfolio or is it more growth and share gain from your newer NVMe based products? And on the November guide, are you seeing a slowdown in this segment, given the weaker Enterprise trends and just longer term as you look into next year, how is the team planning to maintain its share momentum in this segment?
+Sanjay Mehrotra
+So, certainly, our SATA leadership has helped us in the Enterprise Data Center market and SATA still is a meaningful portion of the Enterprise SSD market even though it is shifting rapidly to NVMe.
+And, yes, we have growing presence in Enterprise with our NVMe solutions and we have good products. Although, we are in early stages of growing our NVMe opportunity, and, yes, for future quarters, as we go through fiscal 2021 and -- calendar 2021, we will continue to expand our portfolio of solutions with NVMe products targeted for a broader set of applications in the Enterprise space.
+And as you noted, we have done well with our SSD Solutions compared to years past. We have continued to expand our portfolio in not only Enterprise but also in the Client PC side and Consumer SSD side. In fact, our QLC is a good success story here, as we noted in our remarks, with the broadest portfolio in Enterprise SSDs, as well as Client and Consumer SSDs.
+So we will be bringing out exciting new products over the course of 2020 and 2021 timeframe and we certainly do plan to increase our presence in the SSD marketplace with broader and richer portfolio solutions.
+Harlan Sur
+Thanks, Sanjay.
+Operator
+Thank you. Our next question will come from Timothy Arcuri with UBS. Please go ahead.
+Timothy Arcuri
+Hi. Thanks. I guess, I wanted to ask on Huawei again. So, obviously, it’s public that the processor companies have gotten to license. So I certainly understand that you have to take this out of your guidance. But if they got a license, I guess, why wouldn’t you would be the first part of that question. And then the second question is, can you help us think about sort of handicapping if you did get a license, could we just add 10% back, do you think it will go back to being roughly a 10% customer? I guess I am asking all this because this has been going on for some time and you seem to always have the view that the bits were fairly fungible, but now it sounds like it’s going to take six months if you don’t get a license. So I am just wondering if you could sort of double click on that for me? Thanks.
+Sanjay Mehrotra
+So, first of all, we really cannot comment on other companies obtaining licenses. As we noted, that we have applied for licenses, but we cannot speculate if and when those licenses will be granted.
+And with respect to if licenses are granted, obviously, it will depend on what is Huawei’s demand at that point. We will, of course, always supply to our customers and always make sure that we are meeting our commitments to our customers.
+Huawei along with other customers have been valued partners. So if we are given the opportunity with licenses to supply to Huawei, we will certainly become a partner again, given the strong partnership we have enjoyed in the past with them.
+But it will really depend on what is their demand profile at that point and what have been our commitments to other customers already in place and we will have to manage through all of that. But certainly, if licenses are granted, we will have a growing opportunity to engage again with Huawei.
+And that’s -- remember that’s our goal, we always want to have broad portfolio of products and a diversified set of customers. We have done well in this area over time, and as you can see, that even though largest customer in Huawei essentially in a very short period of time disappears for us in terms of revenue opportunity, we are able to adjust it given our portfolio and given our customer engagement with rest of the customers.
+But it just takes supply chain. The nature of the semiconductor supply chain is that it does take a while to shift that production. Even for other smartphone manufacturers in terms of filling any void created by Huawei, it does take them to adjust things in the supply chain as well. So we will, of course, continue to work with the broad ecosystem of smartphone suppliers to address the future demand for smartphone.
+Timothy Arcuri
+Okay. Okay. Thank you.
+Operator
+Thank you. Our next question will come from Mitch Steves with RBC Capital. Please go ahead.
+Mitch Steves
+Hey. Thanks for taking my question. I have one on the technical side. I think you are seeing X86 and ARM come up more and more on the server side at the bait point. So I am just curious, if we do see a future where there’s more ARM-based servers, does that change the overall demand for DRAM or memory in general or is there no real change if we move into other ARM-based environment?
+Sanjay Mehrotra
+No. Regardless of the kind of compute architecture, whether it is X86-based or AI-based or ARM-based, I mean, the need for memory and storage is there in all those architectures and all those applications. The need is being driven by trends like AI. AI relies on more and more data to derive greater intelligence and greater value for business and consumer experiences.
+So regardless of how the hardware platform is built, all applications require more memory and storage. And for example, in mobile, there is a great deployment of ARM processors today and Micron is a strong supplier and mobile is a large market for memory and storage applications.
+Mitch Steves
+Okay. Perfect.
+Sanjay Mehrotra
+Basically. Yeah. That just creates an opportunity for more choices for customers and just only diversifies our applications and our end market opportunity can be in storage.
+Mitch Steves
+Okay. Then just one small one. You guys mentioned you are having trouble getting certain components. It was unclear to me whether its data center or smartphone related. Could you maybe just give us an idea what’s going on? What type of components you guys are unable to find to create some new products?
+Sanjay Mehrotra
+To be clear, we were not referring to components that we are not able to procure. I was referring in my prepared remarks that in the PC segment, particularly with the surge in demand in notebooks, particularly Chromebooks. There have been -- in the PC supply chain there have been certain component shortages that PC manufacturers have frankly talked about in their own earnings calls.
+So it’s not any component shortages for Micron’s supply chain. We were just referring to the end market component shortages in the PC supply chain. That has some impact on the demand when they are not able to procure all the components they need for their notebook and Chromebook builds.
+Mitch Steves
+Okay. Understood. Thank you very much.
+Operator
+Thank you. Our next question will come from Ambrish Srivastava with BMO. Please go ahead.
+Ambrish Srivastava
+Hi. Thanks very much. I had a question on the cost side. Dave, I just wanted to make sure I understood this. So when you started fiscal ‘20 on the DRAM side, you had talked about high single-digit cost down, but then I think in the middle of the year, you had said that it would be low single-digit. So question is what did the cost down end up being for the fiscal year and then for fiscal ‘21, you are saying low single-digit again. Is that partly because of the Huawei impact in fiscal 1Q or is that the new normal or is there the impact of lower yields, I am just trying to understand that? And then a follow up, Sanjay, you have seen to have raised the flag on NAND industry profitability for the full year. Could you -- and if I caught that correct, could you give a little bit more details around the comments you made in your prepared remarks? Thank you.
+Dave Zinsner
+Okay. So on the cost front, just to be clear, Ambrish, it was -- the cost declines in FY’20 were -- on DRAM were in the mid-single digits and the expectation would be -- they would be somewhat in the mid-single digits again in FY’21. On FY’20, there wasn’t really much mix that impacted it. So that was legitimately what the cost was.
+There were a few things that we probably could have executed a little bit better on that drove a little bit of it. I’d also say, we had a lot of COVID mitigation expenses running over time in different areas and tariffs went higher than we expected. So there were some things that kind of went against us as it relates to COVID and that kind of muted our cost improvement for FY’20.
+I would say on 2021, this mid single-digit cost decline includes the impacts of mix. So if you strip that out, we would actually be quite a bit above the mid single-digit figure and more in line with kind of the numbers we are trying to drive.
+So I think we are in very good shape on the cost side for FY’21. It just -- it starts out a little rough just because we have got to ramp these newer products, but for the year, it should be really good. And once we really hit our stride on 1-alpha, we are really bullish about the cost reductions there. So that’s probably not until the following year but that will start to help further.
+Sanjay Mehrotra
+So on the second part of your question related to NAND profitability, so as you know, NAND profitability in the industry today is low. I mean, DRAM profitability is significantly better than NAND profitability. DRAM industry is certainly exercising good discipline with respect to CapEx and that bodes well for, as we said earlier, for the industry environment as we go through calendar year 2021.
+On the NAND side, what we are highlighting is that, given the low profitability levels, there is a risk to improving the profitability of the industry unless demand ends up being higher than our estimations of approximately 30% the demand growth next year or the CapEx restrained on the supply side in the industry gets managed better.
+Of course, it is too early to comment realistically on 2020 industry supply growth, but with the current estimations that we have we believe that discipline on the CapEx side is needed in the NAND industry to restore the healthier profitability levels of NAND.
+Of course, on Micron’s part, as we highlighted, our strategy always is to focus on growing our supply in line with demand. That means we have -- plan to have supply growth CAGR to be in line with industry demand growth CAGR both for DRAM and NAND.
+And on NAND, this year, that means in calendar year 2020, our NAND supply growth will be significantly less than the industry demand given the RG transition and next year also we are continuing to exercise our CapEx discipline on NAND with our supply growth next year in ‘20 -- calendar year 2021 somewhat less than the expectation of the industry demand.
+Of course, in terms of shipment capability in calendar year 2021, we will be able to fulfill that in line with industry demand, using the inventory -- the higher levels of inventory that we have been carrying in NAND.
+So we are certainly exercising discipline and managing our transition here from floating gate to replacement gate, as well as addressing the NAND opportunities in a disciplined fashion and all I was pointing out was that that CapEx discipline is needed on the part of the NAND industry as well to restore stronger levels of profitability versus the current low levels that exist in the industry.
+Ambrish Srivastava
+Okay. Thank you. Thanks for the clarification. Appreciate it. Thank you.
+Operator
+Ladies and gentlemen, thank you for participating in today’s question-and-answer session, as well as today’s conference call. You may now conclude and disconnect.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+11 Authors in the Last 90 Days

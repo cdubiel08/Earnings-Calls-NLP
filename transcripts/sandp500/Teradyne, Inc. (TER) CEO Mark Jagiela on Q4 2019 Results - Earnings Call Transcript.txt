@@ -1,0 +1,308 @@
+Teradyne, Inc. (NASDAQ:TER) Q4 2019 Earnings Conference Call January 21, 2020 10:00 AM ET
+Company Participants
+Andrew Blanchard - VP, Corporate
+Mark Jagiela - CEO
+Sanjay Mehta - CFO
+Conference Call Participants 
+Vivek Arya - Bank of America Merrill Lynch
+John Pitzer - Credit Suisse
+Timothy Arcuri - UBS
+Toshiya Hari - Goldman Sachs
+Atif Malik - Citi
+CJ Muse - Evercore
+Mehdi Hosseini - SIG
+Krish Sankar - Cowen and Co
+Richard Eastman - Baird
+Sidney Ho - Deutsche Bank
+Tom Diffely - D.A. Davidson
+Operator
+Ladies and gentlemen thank you for standing by. And welcome to the Teradyne Q4 2019 Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speaker presentation there will be a question-and-answer session. [Operator Instructions]. Please be advised that today's conference is being recorded. [Operator Instructions].
+I would now like to hand the conference over to your speaker, Mr. Andrew Blanchard. Please go ahead.
+Andrew Blanchard
+Thank you, Sherry. Good morning, everyone, and welcome to our discussion of Teradyne’s most recent financial results. I’m joined this morning by our CEO, Mark Jagiela; and CFO, Sanjay Mehta. Following our opening remarks, we’ll provide details of our performance for 2019's fourth quarter and full year along with our outlook for the first quarter of 2020.
+The press release containing our fourth quarter results was issued last evening. We’re providing slides on the Investor page of the website that may be helpful to you when following the discussion. Replays of this call will be available via the same page after the call ends.
+The matters that we discuss today will include forward-looking statements that involve risk factors that could cause Teradyne’s results to differ materially from management’s current expectations. 
+We encourage you to review the Safe Harbor statements contained in the earnings release as well as our most recent SEC filings. Additionally, those forward-looking statements are made as of today and we take no obligation to update them as a result of developments occurring after this call.
+During today’s call, we’ll make reference to the non-GAAP financial measures. We have posted additional information concerning these non-GAAP financial measures including reconciliation to the most directly comparable GAAP financial measure were available on the Investor page.
+Also, please take special note of the release in slide deck for risks associated to potential changes in US export regulations. Looking ahead between now and our next earnings call, Teradyne will be participating in technology or industrial focused investor conferences hosted by Goldman Sachs, Citi, Barclays, and Susquehanna.
+Now, let’s get on with the rest of the agenda. First, Mark will comment on our recent results and the market conditions as we enter the New Year. Sanjay will then offer more details on our quarterly results, along with our guidance for the fourth quarter. We’ll then answer your questions. And this call is scheduled for one hour. Mark?
+Mark Jagiela
+Thanks, Andy and hello everyone. And today's call I will note our Q4 and 2019 full your highlight and comment on our outlook for 2020. Sanjay will then provide the financial details. And as we do each January, update you on our earnings model and capital allocation plans.
+We ended the year on a very strong for with sales up 26% from the fourth quarter of 2018. And non-GAAP earnings per share of 40%. That brought our full year sales to about $2.3 billion up 9% and non-GAAP EPS $2.86, up 21% versus 2018. 
+Fourth quarter [ph] 2019 our test businesses performed well above our plan. Industrial automation showed solid growth but came in below plan on manufacturing sector headwinds in the US and Europe. In Semi Test the above plan results came primarily from three areas. First 5G infrastructure build out in China. Second significant smartphone complexity growth. And third memory test share gains.
+We estimate the 5G infrastructure build out contributed about $200 million to the $3.3 billion SOC TAM in 2019. And we captured a sizable portion of that spending. As stated in prior calls this build out has for the moment mostly concentrated in China. In smartphones, complexity growth was very strong driving test intensity and therefore tester demand.
+The growth is largely unrelated to 5G as 5G handset volume was insignificant in 2019. Rather the steady increase in features like multiple cameras, enhanced photo and video processing, and new connectivity features drove this demand. In particular image sensor test demand was very strong, as there was broad adoption of three to four backside cameras and a wide variety.
+The third driver was memory. While the memory market declined as expected by about 35% from 2018, our sales were down about 3% as NAND test spending was buoyed by [technical difficulty] for higher speed devices, and by investments from emerging suppliers in memory. Less significant in 2019 revenue, but a significant impact going forward was the successful break into the DRAM [technical difficulty] new Magnum Epic LPDDR5 DRAM tester.
+This expands Teradyne's TAM to now serve all four sectors of the test market with our Magnum platform. Our system tested light point test businesses also delivered above plan results. In system test defense and aerospace, production board test, and storage test all delivered very strong growth for the full year.
+Storage test performance is a special [technical difficulty] 70% coming from the increased test intensity of terabyte HDD drives and a growing business in the system level test of complex semiconductor devices. [technical difficulty] point new connectivity standards along with early buying for the 5G handset test market were the principal drivers of 19% growth for the full year.
+While our test businesses performance was above plan, our IA business performance was solid but below plan for the year growing 12% on a pro forma basis. Individually, UR grew 6% and MiR grew 43% on a pro forma basis. As we've discussed at UR we've had high exposure to the global automotive supply chain and general European manufacturing sector, both of which faced strong economic headwinds throughout the year.
+On the other hand, MiRs mobile robots serve a more diverse range of end markets and showed solid growth in the year. 2019 was also a big year for Teradyne on the new product front. These new products, both strengthened our core positions and set us up to profitably grow in the future. In Semi Test, we introduced the UltraFLEXplus platform targeting the AI and big data markets. 
+The Magnum epic platform for LPDDR5 DRAM final test and the MX44 instrument for 5G millimeter wave device test. At LitePoint, we introduced new members of our IQgig and IQxel families of production testers for 5G handsets and [technical difficulty] with WiFi respectively.
+In system test we ramped production of the spectrum high speed tester for complex defense electronic systems. In industrial automation we introduced the UR16e cobot for higher payload and began delivery of our [indiscernible] solution for multiple beta site customers in Q4. 
+In mobile robots, we introduced the MR1000 for increased payloads and the MiR AI camera system that utilizes AI to improve robot traffic flow in busy industrial settings. And our engineering pipeline is full of future products across all groups.
+Rounding up 2019 our balanced approach to capital allocation resulted in the strategic acquisition of AutoGuide serving the nascent autonomous mobile forklift market. We also continued our capital return program with $500 million in share buybacks and $61 million in dividends. 
+Looking forward to 2020, we see continued strong momentum in our test businesses and an improvement in our AI [ph] growth. Early returns on our new products are positive with UltraFLEXplus winning a significant competitive design win during Q4 in the mobility space, and the Magnum Epic tester winning in LPDDR final test, at a major memory make.
+These early wins in Semi Tests contribute to our strong outlook for the first quarter. I'd like to give you some context on how we're looking into 2020. First, we expect our smartphone test demand to be strong and back to levels similar to what we saw in 2016 and 2017. As then we expect our 2020 revenue will be first half weighted in the year. 
+Second, we expect storage test to be especially strong in the first half for both HDD and system level test applications. For the year it's expected to grow about 40% from 2019. Third, the design wins for the Magnum Epic and the UltraFLEXplus will begin to ramp in Q1 and this represents new customers and new segments that we expect to contribute revenue growth over the mid-term.
+Balancing this strength, we are seeing the expected pause in the 5G infrastructure test find that power our 2019 sales. At a high level, we're seeing the 5G demand evolved from infrastructure to smartphones, as we outlined in past calls. The global 5G infrastructure build out is still in the early innings and we expect test demand will cycle at various geographies as various geographies build out their networks.
+5G smartphone related test demand will begin in 2020, but it will be somewhat modest as it's mostly low band or sub-60 technology rolling out. Millimeter wave investments are still to come over the mid-term. Additionally, we do not expect to see any significant recovery in automotive or analog markets in 2020.
+As Sanjay will describe, we will be increasing our 2020 OpEx in test to expand these design wins, accelerate some new products and take advantage of what we now expect to be a faster growing test market over the midterm.
+Taken all together, our outlook for the 2020 SOC Test market is in the $3.1 billion to $3.4 billion range and memory test is in the $650 million to $750 million range. Of course, this assumes no change in the current global trade regulatory environment. We will update you on this outlook as we move through the year. For reference, this compares to about a $3.3 billion SOC and about $600 million memory test market in 2019. 
+Turning to industrial automation. We call our strategy is to use the power of advanced technology to democratize automation, and make industrial warehouse applications more productive and safer. We remain confident of the growth opportunity as we execute this strategy. And the addition of AutoGuide gives us access to an even broader set of opportunities. 
+While we expect the automotive and general manufacturing markets in the Europe and the U.S. have remained weak, we do think this headwind has dissipated. This combined with our expansion into the electronics manufacturing sector other consumer goods manufacturing in picking and the industrial forklift automation market gives us confidence that a higher IA growth profile in 2020 is likely. 
+Additionally, UR Plus ecosystem continues to grow and we ended the year with 206 certified plug and play solutions available, up from about 130 at the start of 2019. A similar program for our mobile autonomous robots MiRGo launched in 2019 and will expand in 2020. Overall, we expect our 14% IA growth in 2019 to increase to above 20% in 2020. 
+In summary, we enter 2020 very optimistic. While uncertainties remain in trade policies and global economies, the overall technological and economic trends that fuel our business are strong. Our new products are opening new markets and gaining new customers Test market growth is strong and we are still in the early innings of 5G. IA growth is solid in the environment of a U.S. and European manufacturing slowdown. And we expect that this headwind is dissipating. This plus a strong M&A pipeline and a commitment to capital returns remained our strategy. 
+Sanjay will now take you through the financial and modeling details. Sanjay?
+Sanjay Mehta
+Thank you, Mark. Good morning, everyone. Today I will cover the financial highlights of Q4 and review the financial details for 2019. Looking forward, I'll provide an update for midterm model, Q1 outlook and color around 2020 which will include our capital allocation plans. 
+Now to Q4, revenues were $655 million, which were $25 million above the high end of our guidance range. Semi Test revenue of $439 million led the quarter over quarter growth driven by memory and SOC test demand enabling 5G infrastructure and higher speed flash and DRAM devices.
+System test group had revenue of $83 million, which grew quarter over quarter driven by our storage test solutions enabling system level test for SOCs. Industrial automation or IA revenue of $88 million had a seasonal increase in revenue over Q3 and grew year-over-year in an environment where significant auto industry headwinds exist. 
+LitePoint revenue of $45 million grew quarter over quarter and year-over-year with new connectivity standard WiFi 6 and cellular 5G driving revenue. Non-GAAP gross margins were 58.5% a bit above our plan and slightly down quarter over quarter due to product mix.
+You'll see our non-GAAP operating expenses were up $19 million to $204 million from the third quarter due to a higher variable compensation, on higher profit, increased test spending to support design wins and an ongoing IA investment. Non-GAAP operating profit was 27% and non-GAAP EPS was $0.88.
+The tax rate, excluding discrete items for the quarter and the year was 15.5% on a GAAP basis, and 16.5% on a non-GAAP basis. We bought back 2.1 million shares for $131 million at an average price of $62.44 in the quarter.
+For the full year, we bought that 10.9 million shares at an average price of $45.89. Since the start of 2015, we have spent $1.97 billion to repurchase 60.8 million shares with an average price of $42.38, which delivered significant shareholder returns over the five year period. We ended the year with cash and marketable security balances of approximately $1 billion.
+Turning to the full year results of 2019. Teradyne revenues of $2.295 billion grew $194 million or 9%. $157 million of the growth is from our test portfolio and $37 million from IA. We had two customers with 10% or greater revenues in 2019 who will be disclosed in our 10-K filing.
+Gross margins were 58% and operating profit was 25%, which is consistent with 2018. EPS was $2.86, or 21% growth year-over-year. Breaking down the components of 2019 revenues. As Mark outlined, the SOC test revenues grew $67 million or 6% on strength in 5G sub-6 infrastructure, increased complexity in mobile devices, and millimeter wave development demand.
+In memory revenues were $266 million down 3% in the down market. Demand for higher speed NAND testers from existing customers and new entrants combined with DRAM wafer test demand highlighted the year. Late in the year we also received initial revenue for our Magnum Epic LPDDR5 DRAM package test system.
+In system test sales grew for third year in a row. Revenue of $287 million grew $71 million or 33% year-over-year, primarily on growth and storage test for both system level test and HDD test, which had sales of $115 million up from $67 million in 2018. 
+We also saw annual growth in our defense and aerospace and production board test components of that STG. At LitePoint sales grew for a third year in a row as well. Revenue was $157 million, 19% above 2018 level. New connectivity standards were the biggest driver of demand. But we also saw surge in 5G cellular demand in Q4. 
+IA revenue of $298 million grew 14% from 2018 on an as reported basis or 12% on a pro forma basis. Universal Robots revenue of $248 million or 6% year-over-year growth was below our original plan. As discussed by Mark, UR demand has 40% plus exposure to manufacturing in Europe and the automotive industry. Both of which face significant market headwinds in 2019. 
+Recent Eurozone PMI data suggests a moderating trend, but no indication of improvement in the near-term. The auto outlook is similar. MiR revenues of $44 million grew 43% on a pro forma basis, or 84% on an as reported basis. Recall we acquired MiR in April of 2018. IA in total had a non-GAAP operating profit of 10% for the full year rate that we're modeling for 2020 as well.
+Shifting to our mid-term earnings model. Factoring in both recent history and our latest outlook, we've updated the high end of our $3.50 to $4 earnings target to $4.25 of non-GAAP EPS in 2022. We have growing confidence in the Semi Test end market drivers such as broader complexity for performance 5G subsets and millimeter wave driving capacity needs and infrastructure, phones and IoT devices. 
+We also expect a continuation of the growing performance trends and memory devices. This along with some specific mobility and memory share gains and device unit growth, give us confidence to raise the Semi Test revenue growth rates from 3% to 5%; to 4% to 8% from our baseline 2019 revenue.
+At the same time to reflect near-term industry conditions IA's model growth rate has been reduced to a range of 20% to 35% off of our 2019 baseline revenue as Mark noted. We expect above 20% growth in 2020. In 2019, we experienced a significant slowdown in sales growth tied to macro conditions noted earlier. 
+However, our long-term outlook remains positive. And we'll continue to invest in scaling the business. Specifically increasing our distributor capacity, sharpening our focus on marketing efforts for lead generation and closure, investing to expand our reach to major accounts, and continuing to invest in software solutions needed to scale our portfolio.
+The net result of these updated growth assumptions as a greater revenue contribution in 2022 from our test portfolio versus the prior model. Our gross margin target has increased roughly 1%, which drops down to operating profit, increasing that to 26% to 28% at the top end of our EPS rate, and increasing the top end of our EPS range to $4.25.
+Now to our outlook for Q1. Sales were expected to be between $670 million and $710 million. Non-GAAP EPS range of $0.86 to $0.96 on 174 million diluted shares. The first quarter guidance excludes the amortization of acquired intangibles, and non-cash imputed interest on the convertible debt. First quarter gross margins are estimated to be between 57% and 58%, down slightly from the fourth quarter due to mix.
+The first quarter OpEx running at 30% and 31% of first quarter sales is up about $6 million from the fourth quarter due to further IA distribution, and product development investments, including the addition of AutoGuide, along with incremental test investments I'll discuss shortly. The non-GAAP operating profit at the midpoint of the first quarter guidance is 27%.
+Now turning to some color around the full year outlook to help your model. As Mark noted, we expect strong first half similar to 2016 and 2017, when the first half revenues were 55% and 54% of the full year sales respectively. Key drivers of the first half revenue include handset test demand, system level testers being sold to enable key product ramp and our storage test second, and early ramping of LPDDR5 DRAM memory test capacity.
+Unlike 2016 and '17, based on our very early estimates, we expect roughly similar sales levels in Q2 as in Q1. Regarding our OpEx plans for 2020. We expect our OpEx to grow 10% to 12% from 2019 to $758 million. This is driven by investments across the business. In IA we will continue to invest to reinforce a competitive position across the sector as noted earlier.
+At our test portfolio we plan to increase our spending in engineering, sales and marketing primarily in Semi Test. The engineering efforts will include memory and SOC investments to maintain our leadership position, as well as invest in areas of the market that we believe there's opportunity for us to grow.
+Increased sales and marketing investments are driven by share gains, which require effort to convert and ramp customers on Teradyne's products and then provide ongoing support. Beyond 2020, we model test OpEx to have flat to GDP growth. Capital expenditures in 2012. We will increase above our normal run rate.
+In 2019, our CapEx was $145 million used primarily for customer demonstration equipment, operations and engineering. In 2020, we've earmarked an incremental $40 million or so for real estate investments in locations where we plan to grow significantly over the next several years. We are buying land and developing it to eliminate lease costs and enable more cost efficient spend profile over the long term.
+The projects will take two years to complete with the majority of the spending this year. Our GAAP and non-GAAP tax rate for 2020 is estimated at 16%. Shifting to capital allocation. We will continue to balance strong cash position to support our operating investments and potential M&A with direct shareholder returns through dividends and share repurchases.
+Recall we have a $460 million base value convertible bond that matures in 2023. Regarding direct returns, we will be increasing our dividend by 11% to $0.10 per quarter, which reflects our confidence in our operating level and growing markets we serve. 
+With regards to share repurchases, we cancel the unused portion of the prior program and replace it with a $1 billion share repurchase program. We plan a minimum of $250 million of share repurchase in 2020. The program does not have a fixed end date and as in the past, there's a program programmatic and opportunistic component.
+Recall in 2018 and 2019, we spent approximately $1.3 billion in share buybacks, driven by 2017 tax reform, which enabled offshore cash to be repatriated efficiently. Our 2020 target represents our getting back to a more normal level on share repurchases. In summary, we closed out 2019 very strong and enter 2020 with good momentum powered by our strong test portfolio.
+Our updated capital allocation plan and earnings model reflects our confidence in test and industrial automation, while acknowledging the short term impacts of the global slowdown in industrial spending. We will continue to invest in R&D distribution and internal capabilities to improve our competitive position and drive profitable growth across the business.
+While we can't predict what lies ahead, for the full year, we have the products, the team, and a proven flexible business model that can efficiently scale demand during a fluctuating time period, and the strategy to thrive in the New Year. 
+With that, I'll turn things back to Andy.
+Andrew Blanchard
+Thanks, Sanjay. And Sherry we’d now like to take some questions and as a reminder, please limit yourself to one question and a follow-up.
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions]. Our first question comes from Vivek Arya with Bank of America.
+Vivek Arya
+Thanks for taking my question. So the first one, in the press release you called out Huawei and HiSilicon as significant customers. I'm wondering how big were they directly or indirectly in 2019 and if you have a number for 2018 as well, and do you have a sense of how much of that related capacity is being utilized versus any extraneous effects due to tariff for trade or other issues?
+Sanjay Mehta
+Yeah, we're not going to get specific numbers for any specific customer. But what I will say is that certainly they are a significant customer paradigms and utilization is 100% plus. There's strong demand, there was demand all through the year. Utilization high.
+At this point that situation continues with the exception of 5G infrastructure, which represents a subset of the demand being weaker now than it was running in the second half of last year.
+Vivek Arya
+All right. And so my follow-up on the 5G side, you maintain the $200 million or so contribution or the market size for last year, and I think in the past you had mentioned that $300 million to $400 million opportunity. How do you see your share playing out which areas you think you are stronger versus your competitor? Thank you. 
+Mark Jagiela
+Yeah, good question. So that $200 million number for 2019 was predominantly infrastructure related. And I think our share there was probably 70% plus. As we entered 2020, there'll be a shift toward handsets and infrastructure will come down a bit. And I'd say, our share as a consequence of that will probably be somewhere between that 50% to 75% -- 50% to 70% range, in that kind of a mix. 
+But longer term as more millimeter wave comes online. Again, we're talking probably post 2020, that's when the total market should grow with that $400ish million range for Semi Test. And then on top of that in LitePoint, there's probably we've been talking about $100ish million adder for 5G handset test.
+But the way we see it now it's likely that could be a bit higher. Now that may peak at around $150 million or so. So that's how it progresses out through the next few years.
+Vivek Arya
+Thank you.
+Operator
+Thank you. Our next question comes from John Pitzer with Credit Suisse.
+John Pitzer
+Yeah. Good morning, guys. Congratulations on the solid results. Mark. I'm just kind of curious, your view of calendar year 2020, half on half being 55-45. To what extent is that just lack of visibility into the second half and conservatism versus actually having visibility that the second half is going to be down?
+And I guess, help me understand why 16-17 is the right analogy year to compare calendar year '20. And as you answer the question, if we're going through a pause in 5G infrastructure, currently, what's your expectation for that to come back?
+Mark Jagiela
+Yeah, that's a good question. So I just like to point out that we have very little visibility into the second half. So the 55-45 split is purely based on a historical model or precedent where in 2016 and 2017, we add significant mobility handset test during in the first half. And we simply looked at that and said, everything else being equal, let's assume the year follows that pattern.
+But we don't have any data points that I would say are strong on that. And then with no infrastructure, we expect because most of the build out in infrastructure was concentrated in China last year. It ran very hot, it's in a pause right now. But there's plenty of geographies that still need to build out.
+So, that has to come back at some point. If you don't think it's in the first half of the year where we do have visibility, but it could be in the second half of the year or early next year. 
+John Pitzer
+That’s helpful. Then maybe for my follow on to kind of add on to the Vivek's first question. I understand the desire not talk about absolute levels for a specific customer. But I'm kind of curious, just relative to some of the concerns investors have that might be a change in the de minimis role from 25 to 10. Would that change as you understand it, impact your business to Huawei? Or how should we think about that in the investment community? 
+Sanjay Mehta
+Yeah, hi. It is Sanjay. So the first thing is that -- I'll just say that Teradyne is going to be compliant with whatever the regulations are. And then the revenue impact I'd say is a little bit hard to call. I'm going to give you some color around there. Depending on there could be a lot of conjecture about what the rules could be.
+And whatever they are, I think that if there's that our inability to ship to Huawei for whatever reason, you have to consider -- if you consider the end market to be the end market, we believe that there would be a shift in to other providers. Now that would have a time gap as that process takes place.
+But I think it's very hard. A, we don't actually understand, what the regulations are going to be. And then b, the end market impact I think over the midterm we kind of work itself out, but there would be this fluctuation in the short term.
+John Pitzer
+Thanks, guys. Appreciate it.
+Operator
+Thank you. Our next question comes from Timothy Arcuri with UBS. 
+Timothy Arcuri
+Hi, guys. Thanks. The first question, Mark, I just am going back to your comment that the $200 million extra SOC TAM that came from 5G this year your share was about 70%. But total SOC share, if I take a $3.3 billion market this year, you actually lost like 300 basis points worth of share for the year. So why would that be if you captured sort of an abnormally high portion of that incremental 5G? Thanks.
+Mark Jagiela
+Yeah, so there's lots going on under the covers in SOC tests. So the 5G bump was one component of it. But analog, and automotive were at a very low level which is another place where we have very high share. So low to you might say, sort of almost negated each other in terms of share -- net share gain. 
+Then the other effect going on is the -- there's a segment of the SOC test market. It is probably the only segment we don't serve which is LCD driver -- display driver. That market has grown quite dramatically [indiscernible]. It added I think about $100 million $150 million of market. It's pretty much all advanced test. And that kind of makes a difference in the calculations. 
+Timothy Arcuri
+Okay, got it. And then I guess just a follow up question on the topic around export control. So if I take flat a June, which you're sort of implying is going to be flat. And then if I assume that the year sort of plays out that the first half is 55, and the back half is 45. That sort of says that you're going to be at around 2.5 for the year.
+Does that guidance -- what does that assume in terms of export control rule changes? Because if the threshold goes to 10%, and they remove that sensitive content requirement. Does that assume that you'll still be able to ship to Huawei or does that assume that there will be some impact? Thank you. 
+Mark Jagiela
+Yeah, I think with what we believe is being contemplated at the moment. And again, this is still in daily discussions obviously, in the Commerce Department and the Department of Defense and everything else that it would not have a significant impact to our plans for 2020.
+But what [indiscernible] said is true is that let's assume for a minute that something more draconian that we expect happens with restrictions. The demand in the market won't change so the supply will shift to other suppliers. We're well positioned that the likely other suppliers that will shift to. So it's simply a movement of one place to another.
+Timothy Arcuri
+Okay, awesome. Thanks so much.
+Operator
+Thank you. Our next question comes from Toshiya Hari with Goldman Sachs. 
+Toshiya Hari
+Hi, guys, congrats on the strong results. Mark, you guys lowered your long term growth assumptions around the IA business from 30% to 40% to 20% to 35%. I appreciate the near term environment in Europe and automotive from an end demand standpoint remains pretty weak. But why the change?
+Have you sensed any change of the competitive landscape or how you think about the economics around the adoption of cobots or what's changed there? Thank you. 
+Mark Jagiela
+Yes, it's no competitive and no long term change. It's simply math, meaning we've got another ticket to that 2022 year. We've got three years to get there. We think 2020 is going to be better than '19 in terms of growth, but not in that 30% to 40% range that would make that viable.
+So we think we're going to again, move back north on growth rates this year, will be north of 20 for the group. And we would expect subsequent years to improve beyond that. But with the average it out over three years, that's kind of the range we think will be it. Longer term, nothing's changed. 
+Toshiya Hari
+Got it. And then as a follow up, I had a question on memory test. Can you confirm what your market share was in 2019 in NAND and DRAM relative to 2018? And then for the TAM for 2020, I think you guys are thinking, 15ish% growth on year-over-year basis. That seems a little conservative or seeing in terms of the memory market. What's kind of pulling that down, if you will? Thank you. 
+Mark Jagiela
+Well, let's see. So first of all, share in 2018, we're roughly 30% share and last year we think will be around 43ish% share 43%. Looking to 2020 market, we're thinking $700 million, roughly would be the market. We've said the long term average should be about $750 million. I wouldn't be surprised if it was a bit higher.
+But again at this point it's hard to forecast. Now in terms of our share in 2020. The success we had all last year, we talked about this target of cracking in the final wedge of the memory test market, DRAM final test that we didn't participate in. And that was a yearlong project that finally came to fruition in December. So that sets us up going into 2020 to serve all four segments of the market. 
+China will continue to be pretty aggressive. So that's a balloon and I think our share, what I think in the last call, I said, expect our share to fall back into the high 30s, 35% to 40% range as DRAM snaps back in 2020. But now that we're playing in that market, we think shares going to stay up the net 40% range in 2020. 
+Toshiya Hari
+Thank you. 
+Operator
+Thank you. Our next question comes from Atif Malik with Citi. 
+Atif Malik
+Hi. Thanks for taking my questions and congratulations on strong results and guide and also good job in winning the LPDDR5 design win at the Korean memory makers. Mark my first question is respect to your expectations on the industrial auto demand not recovering this year. Can you remind us how much is that to make as a test demand down from the prior peak?
+Then as my follow up, Sanjay, can you comment on the profitability of your memory test business relative to your overall Semiconductor Test business? 
+Mark Jagiela
+I'm sorry, Atif. I didn't get your first question. Can you just ask it again, please?
+Atif Malik
+Yes, Mark, what I'm asking is, how far is your industrial and auto tech business down from the prior peak? And then.. 
+Mark Jagiela
+Got it. Thank you. Yes. So automotive and analog, tends to peak at around $500 million or so of the market, $500 million to $550 million. Last year, we expect that it was somewhere in the $300 million to $325 million range, so it's down by about $200 million.
+Sanjay Mehta
+And from the memory profitability standpoint we see the margins in the profitability similar to the SOC market. 
+Atif Malik
+Thank you. 
+Operator
+Thank you. Our next question comes from CJ Muse with Evercore. 
+CJ Muse
+Yes, good morning, thanks for taking the question. Curious on your new test outlook of 6% growth at the midpoint versus your prior view of 4%. And that's off of a higher base in '19. How much of that outlook is based on just what you're seeing overall test and in complexity, versus some of the share games on the gaming console DDR5 etcetera?
+Sanjay Mehta
+Yes, I think that's -- CJ, Sanjay here. I think that you can view that as we see over the midterm growth really driven by as you said complexity in end devices, 5G both sub 6 and millimeter wave as well as share gains. So, I'd say it's more like 30% tied to market 70% tied to [indiscernible] roughly over the mid-term.
+CJ Muse
+Very helpful. And then on the IAA side, clearly help but you are grew 23% sequentially on its own. Curious, what signal that sends to you, I mean, how much of that was programmatic as opposed to perhaps an early indication of cyclical recovery on the manufacturing side?
+Sanjay Mehta
+Well, I think on the UR front, as well as MiR seasonally Q4 is a generally high quarter if you look back over time. So that's encouraging. And it was actually one of the drivers of us being higher than our guidance range. 
+However, as we look into the first half, we are seeing that seasonal pattern come down from an IA perspective. And I think it's really early innings to call a recovery in those in industrials and automotive at this point from our standpoint.
+CJ Muse
+So, when you're thinking about growing that business 20% plus in 2020 is that really an indication of kind of the programs that you see for MiR or what's the underlying assumption for UR?
+Sanjay Mehta
+Yeah. So we see MiR and UR both contributing obviously to the 20% plus growth that Mark articulated. And we are investing and as I said, growing in distribution. As you know, MiR is coming from -- is a little bit later in years as coming from a smaller base. But we see both contributing quite significantly to that 20% plus growth. 
+Mark Jagiela
+And CJ, I just, I would just add on that bit. The UR has higher exposure to automotive and sort of the general manufacturing issues that we're seeing in the market. But the fact that we did see the strong sequential performance that you alluded to, we did see a little bit of year-over-year gain.
+We introduced a new product last year with the 16 kilogram payload version that's just starting to ramp. And we're just now actually in April going to be rolling out the bin picking solution in North America. So new products, bottoming the headwinds in the manufacturing sector in Europe and North America are strong, strong indicators for us.
+And the other thing is that last year, we saw really good performance in China, in terms of growth. We grew -- I think it was 40% or so in China last year where those headwinds were absent. So UR in a very competitive region it's still showing that kind of lens. So we're really confident with the new products in this sort of diminishing headwinds. 
+CJ Muse
+Very helpful. Thank you.
+Operator
+Thank you. Our next question comes from Mehdi Hosseini with SIG. 
+Mehdi Hosseini
+Yes. Thanks for taking my question. I want to take a more of a broader outlook. If I just look at your commentary for 2020, the 55-45 mix, it seems to me that on the earning side, you would come in at or slightly above the midpoint of your longer term target. And I also under impression that millimeter wave could be a big tam for SOC. But that's most likely a 2022 catalyst.
+So given this kind of a thought process, could we see some fluctuation in annualized earning, as you think about the longer term of maybe a best case 425? And I'm just trying to understand the dynamics of different parts of the company, especially with the change of outlook on IA and how SOC market is going to play out.
+Mark Jagiela
+Yeah, we've been blessed with a pretty stable nonvolatile test market here for quite some number of years. And so it's certainly possible on our way to 425 and beyond, we could see a drop down. We haven't seen that. Our EPS has been monotonically growing here for quite some time. So there's still likely volatility, it doesn't seem eminent.
+So, the drivers here, especially around 5G are going to be pretty big balloons. But, at the same time, you and I both know being around for as long as we've been in this industry, something like a 20% correction can occur. That in no way changes the fundamentals of where 5 nanometer, 3 nanometers are going to take us with complexity and what these device the 5G transceivers and antennas and such they're going into their phones over the next few years are going to bring to the test world.
+So, we don't plan or try to -- we're on a trend line projection, as you know and that's what we believe. 
+Mehdi Hosseini
+Thank you. And thanks for being sincere. Just as a follow-up, I'm just thinking that for millimeter wave, there will be some changes to the basis station to the networking. And that would have to happen before there will be an SOC upgrade cycle. And the base station cam is like 200 for test and AP is 400. How do you see the impact of millimeter wave on a networking versus the phone itself given the kind of picture that I just laid out?
+Mark Jagiela
+Yes. So I think that from a test intensity point of view, handsets will matter more. So the thing that made last year incredible in terms of infrastructure was the concentration in a very short period of time. So, to roll out China sub-6G or low band to put in the infrastructure to do that, a tremendous amount of capacity was built out in one year to make that happen.
+Millimeter wave's going to be spread over many years. I don't think that it's going -- it'll be marginally more test intensive than at the base station level than sub-6G. But it's not going to have the same sort of $150 million, $200 million pumped into TAM that we saw last year. 
+On the other hand, the handset side of this is where the real money will be for both LitePoint and Semi Test. And those going to be a tipping point that we need to reach specifically in the U.S. on deployment of millimeter wave base stations to shift, let's say, half the domestic supply of handsets to millimeter wave capable. And we still think that's probably 2021 or 2022. It may -- we're a little more optimistic that it's coming sooner on millimeter wave. 
+But if we go back to that $400 million bump to the SOC market. If you're thinking about 2022, it's probably $300 million plus of that is going to be handset related.
+Mehdi Hosseini
+Got it. Thank you so much and thanks for all the details.
+Operator
+Thank you. Our next question comes from Krish Sankar with Cowen and Co.
+Krish Sankar
+Hi, thanks for taking my question. I have 2 of them. First and Mark thanks for the color on millimeter wave. Do you think that when you look at millimeter wave now that you have dual opportunity both on the SOC test side, as well as LitePoint side. Do you think they happen in tandem or does LitePoint lead or lag the AT [ph] business? And then I had a follow up on cobots.
+Sanjay Mehta
+Yes. It is Sanjay. I think they come out in similar opportunities. I think what you're seeing right now in millimeter wave on the SOC test perspective, is a lot of engineering work and testers associated with that. And then you do have the LitePoint and device tester in parallel for what millimeter wave devices that are out there.
+And then when, as we say, it comes as we've said before, we believe it comes in waves and arguably 2021 and 2022. I think you'll see both of them come up. Obviously, the chip guys on the SOC test will be slightly ahead, but I think they'll mainly come similarly.
+Mark Jagiela
+And I've one more thing about LitePoint that we haven't mentioned that LitePoint's traditional strength has been WiFi connectivity test. And there's a lot going on in the next few years in the WiFi that's really encouraging to us. So finally 802.11ax or what's now been rebranded WiFi 6 as well on phones. That's going to propel our connectivity business.
+Then we're going to open up the 7 gigahertz, 6 to 7 gigahertz band for WiFi. That's another new need to retool the tester install base for that frequency band. And then we're -- and the industry is working on this new 802.11be standard that is 16x16 MIMO, 360 megahertz a channel bandwidth.
+Once again, requiring new test capacity. So unlike the past 4 years where connectivity's been kind of dormant when we look over the next 4 years connectivity is also going to see significant retooling shift.
+Krish Sankar
+Got it. That's very helpful. And I just had a follow up on the cobot side. Two part question. Where are we on the installation time reduction for cobots? And I think these three, four to six weeks, but you guys are trying to reduce it. And also do you have any update on the partnership redeem on the vision side for cobots? Thank you. 
+Sanjay Mehta
+I think on the deployment time. Yeah, as I alluded earlier to where we're investing. And we continue to invest. I don't have specific metrics around that, but we continue to see improvement and improvement in the initial deployment, as well as the follow on deployments at an existing customer.
+Mark Jagiela
+And vision.
+Sanjay Mehta
+And the second question was tied to --
+Krish Sankar
+Vision partnership. 
+Mark Jagiela
+Vision partnerships.
+Sanjay Mehta
+We think yes, we have a UR plus partners that are suppliers.
+Mark Jagiela
+Yeah, I think, we're fielding a bin picking solution that has a vision system embedded in it that we will kind of be a reseller for. But there's a wide variety of partners already in our UR plus echo system that are immediately embedded in our operating system. So all of that is sort of business as usual. No real new trends there.
+Krish Sankar
+Got it. Thank you, guys. Thank you very much appreciate it.
+Operator
+Thank you. Our next question comes from Richard Eastman with Baird.
+Richard Eastman
+Yes. Good morning. Just a quick question around the industrial automation business in general. And how does that -- how does their P&L or gross margin and I think, finished the year? And then also, I think you referenced a nonprofit contribution, contribution margin there of 10%. And that was the expectation going forward into '20 as well. So I'm curious is there a kicked up investment there below the gross margin line as a gross margin line kind of held around 60% there. 
+Sanjay Mehta
+Yeah. It's Sanjay. So I think the gross margin is roughly as you'd expect it to be. There's been no degradation at all. And I did comment that our operating profit in IA in general is 10%. We should expect that next year. I think -- when I think about the industrial automation business and our strategy towards it, fundamentally as we have significant growth. We plan on investing to improve our competitive position.
+We believe in this nascent market and our outlook in the long term, as Mark said earlier is unchanged. I think when you -- you should start thinking about it when you expect or when we expect growth in single digits. That's when you'd expect us to be at or above kind of our model profit or let's say 20% operating profit plus, as growth tends to slow.
+But as we see the market and as we believe that we're going to grow significant double digits. And into the future, we're going to continue to invest to drive the top line. And then when we see the growth table off, you'd expect our operating profit to improve. 
+Richard Eastman
+So when the 50%, that's OpEx there. Is that kicked up on the R&D side or is this still kind of go to market support costs and expansion of the distribution base? Or where do you -- where do you pull that 50% out to drop the contribution margin 10%? Because I have been writing 15 to 20? 
+Sanjay Mehta
+Yeah, it's a combination of both I'd say. The other point I put that -- I'd add in there is that our 2020 forecast includes auto guidance. But it's both. Really, investments and in lead generation and closure distribution our partners, where we're really putting forward the go to market. But then also things like fleet management, system software and different software capability to help drive the scalability of our solutions to customers.
+Richard Eastman
+Okay. And then just as my second question. Just Mark, I want to return to something we talked about the 5G infrastructure business in the Semi Test. You referenced there that the market there and the demand there is pausing in the China market. I'm trying to get my arms a little bit around the timetable here.
+Just from the standpoint of you continue to see some fairly aggressive production and deployment numbers around base station in China in the Asian market in general. And so is your reference to the test demand that that is in place ahead of the production some of them were just some inventory of the chip content into the base stations?
+Or how do we reconcile the aggressive forecasts around production and deployment of base stations with your commentary about the market pausing now? 
+Mark Jagiela
+Yeah, that's exactly what you said. So, in advance of deployments of the actual base stations, a lot of silicon test capacity goes in place. So now those base stations are churning out like mad out of the factories, which is why utilization of test equipment is very high. So it will require an additional bump in deployment rate of base stations to drive the next round of test equipment.
+So U.S., Europe, the rest of the world. And, China as well, there's not enough really capacity in China to totally facilitate China where it has to get to, but what they need to do for 2020 is probably sufficient.
+Richard Eastman
+I understand. Okay, great. Thank you.
+Operator
+Thank you. Our next question comes from Sidney Ho with Deutsche Bank.
+Sidney Ho
+Great. Thanks. You talk about second quarter revenue to be flat quarter-over-quarter in Q2. And that’s different from how it was a few years ago 2016 and 2017. Can you add a little more color, what are some of the factors that make it different than those two years?
+Sanjay Mehta
+Yeah. Hi, it's Sanjay. So I think, in Q1 we've had, we'll have some significant drivers outside of SOC test and then inside. The first one is storage test, for system level test in HDD, where we'll have a significant revenue in Q1, which will decline in Q2. 
+The second comment I'd make is that within Semi Test, we've got some share gains that require some initial tooling in Q1 that we will be moderating in Q2. The last point I'd leave you with is that it's still early stages of Q2. So it's roughly where we think we're going to end up.
+Sidney Ho
+Okay, that’s helpful. My follow-up is that you guided the SOC tend to be called the roughly flat in 2020. How do you think about the different moving parts in terms of end market? And related that how do you expect your share in SOC test to do this year? I think last year it was around 40%. Any color end market customer mix, product mix that's driving these shares will be helpful? Thanks.
+Mark Jagiela
+Yeah. So our expectation this year is that the mix the combination of some of the design wins, I alluded to in my remarks around the UltraFLEXplus platform, plus a little bit I would say of a shift toward our customers in this year will bring our share likely up into the mid four year is what we expect.
+Sidney Ho
+Okay, thanks.
+Operator
+Thank you.
+Mark Jagiela
+Sherry, we have time for just one more question. 
+Operator
+Okay, sounds great. Our final question will come from Tom Diffely with D. A. Davidson.
+Tom Diffely
+Yes, hi. I was hoping you could talk a little bit more about the service components in semi, in particular going forward and how you see that playing out?
+Mark Jagiela
+So the semi service for us for years has been a very strong part of the portfolio, its roughly runs around 20% of semi revenue. And, it's up into the $300 million range, we don't expect as a percentage of revenue it will vary that much. But that's roughly where it is.
+Tom Diffely
+Okay, so this is not a view into that increasing market over the next few years as you get to your target model. 
+Mark Jagiela
+Yeah, I think it'll scale with system revenue. I think on the industrial automation side, that's an area where service will go from when we acquire these companies having essentially no service business. We're now growing service in those businesses at a faster rate than the top line. So that will be a story that evolves here over the next few years, but in semi it should stay consistent.
+Tom Diffely
+Okay, that's it. Thank you. 
+Mark Jagiela
+Thank you. Alright, everybody, thank you so much for joining us today. I apologize for the static at the front end of the call. And we look forward to talking to you in the days and weeks ahead. Bye-bye.
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for your participation. You may now disconnect. 
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+5 Authors in the Last 90 Days

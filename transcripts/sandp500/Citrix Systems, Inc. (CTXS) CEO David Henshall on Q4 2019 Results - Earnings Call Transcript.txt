@@ -1,0 +1,198 @@
+Citrix Systems, Inc. (NASDAQ:CTXS) Q4 2019 Results Earnings Conference Call January 23, 2020  4:50 PM ET
+Company Participants
+Traci Tsuchiguchi - Vice President, Investor Relations
+David Henshall - President and Chief Executive Officer
+Arlen Shenkman - Executive Vice President and Chief Financial Officer
+Conference Call Participants
+Philip Winslow - Wells Fargo Securities
+Heather Bellini - Goldman Sachs
+Karl Keirstead - Deutsche Bank Securities
+Mark Moerdler - Bernstein Research
+Parthiv Varadarajan - Jefferies & Company
+Walter Pritchard - Citigroup
+Mohit Gogia - Barclays Capital
+Robert Majek - Raymond James Financial Services Inc. 
+Kirk Materne - Evercore Partners
+Operator
+Good afternoon. My name is Erica and I'll be your conference operator today. At this time, I would like to welcome everyone to the Citrix Systems fourth quarter earnings conference call.
+All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer period. [Operator Instructions].
+Thank you. I would now like to introduce Traci Tsuchiguchi. You may begin your conference.
+Traci Tsuchiguchi
+Good afternoon, everyone. And thank you for joining us for today's fourth quarter and fiscal year 2019 earnings call. Participating on the call will be David Henshall, President and Chief Executive Officer, and Arlen Shenkman, Executive Vice President and Chief Financial Officer.
+Please note that we have posted our fourth quarter earnings letter to our Investor Relations website. 
+I'd like to remind you that today's conversation will contain forward-looking statements made under the Safe Harbor provision of the US securities law. These statements are based on current expectations and assumptions that are subject to risks and uncertainties. Actual results could differ materially from those anticipated. 
+Additional information concerning these and other factors is highlighted in today's earnings letter and in the company's filings with the SEC. Copies are available from the SEC or on our Investor Relations website. 
+Furthermore, we will discuss various non-GAAP financial measures as defined by SEC's Regulation G. A reconciliation of the differences between GAAP and non-GAAP financial measures discussed on today's call can be found at the end of our earnings letter found on our Investor Relations page of our website.
+Now, I'd like to turn it over to David, our President and Chief Executive Officer, for some introductory remarks.
+David Henshall
+Thanks, Traci. And good afternoon, everyone. Thanks for joining the call. I hope everybody has had a chance to review the earnings letter that we posted a little while ago to our Investor Relations site. 
+Similar to last quarter, let me provide just a quick summary here and then we'll jump right into Q&A. I'd say, overall, really happy with our performance for the fourth quarter. It's highlighted by 41% year-over-year growth in subscription ARR, 49% growth in SaaS ARR, and a 15% increase in deferred and unbilled revenue. 
+I'd say our model transition continues to progress really well across both Workspace and our Networking businesses, coming ahead of the accelerated plan that we outlined just last year.
+In the quarter, 69% of total product bookings came via subscription and this is up from just 51% a year ago. In fact, in this quarter, we signed a couple of the largest Networking contracts in our history and we signed those as multi-year subscriptions, really reflecting the customer confidence in our strategy, roadmap and our ability to execute on where that market is going.
+Also, our new Workspace with intelligence platform was made generally available in December. Personally, I think, this is the most significant feature functionality release that we brought to market since the introduction of the Workspace. A good platform that we're going to be driving and scaling over the coming years. 
+So, all in, really good quarter, solid progress against our multi-year goals.
+So, with that, let me open it up for questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions]. Your first question comes from the line of Phil Winslow with Wells Fargo.
+Philip Winslow
+Hey, thanks, guys, for taking my question. And congrats on a great end of the year. Just want to – actually, focusing in on the Networking business, obviously, David, you called out some pretty significant transactions there as well as a pretty big shift to the pooled capacity licensing. Wondering if you could just walk us through that. 
+And then, Arlen, wondering if you could help us just think through sort of the net impact of that because, obviously, it was a big step-up in terms of the subscription bookings this quarter?
+David Henshall
+Sure, Phil. Yeah, let me take the first part. So, from a strategy standpoint, I think as everyone knows, what we've been trying to do is really leverage the fact that we're a software company. And we can deploy our networking services across just a myriad of different form factors, as appliance, as software, virtual appliance as a service and a container et cetera. And we just have a lot of flexibility to do that. And we've got a unique control plane that – we call it ADM – that effectively allows customers to manage across all of those different deployment models. And that ties really nicely with the hybrid multi-cloud nature of most customers' infrastructure. With the transition that's going on in terms of application architectures, that's just a really, really nice bridge for a lot of customers. So, we're pushing that as our primary model and that is what's driving pooled capacity. It's just a strategic thing, but it's also a longer-term business model shift.
+As you saw, we had a really big pop in terms of the overall mix in the quarter, going up to 63% from 2018. That was influenced, as I mentioned, a minute ago by a couple of really large transactions. I wouldn't expect that to be the run rate. That percentage will come back down, but generally it continues to being up into the right motion.
+Arlen Shenkman
+Yeah. What I'd add to that, Phil, as David said, if you look at the full year, for the full year for the Networking business, we basically ended at 44% mix, and that's compared to 13% come out of 2018. I don't think we're going to be able to hold that. But I think we do see our customers buying into our strategy. They do like our pooled licensing arrangement. And I think, honestly, what I'd tell you is, I think you'll see this start to show itself in ARR, and that's probably the best place to focus as we go through this.
+Philip Winslow
+Got it. Thanks, guys.
+David Henshall
+Thanks, Phil.
+Operator
+Your next question comes from Heather Bellini with Goldman Sachs.
+Heather Bellini
+Great. Thank you so much. David, I have a couple of questions, if you don't mind. I guess, in no particular order, you guys signed, I think it was, a million Citrix cloud seats in the quarter, if I'm reading your press release correctly, which is a pretty big uptick. I'm just wondering if you could walk people through what's driving that. There's always a lot of debate in the market, how much of this is being driven from Windows 7 end of life. And then, I've got two quick follow-ups, if you don't mind. Thank you.
+David Henshall
+Sure. You're right. As far as paid subscriber count, we ended Q4 with 7.1 million. That's up more than 60% year-over-year from just over 4 million. What's really driving that is just a continuation of the overall strategy that we've been talking about now for a couple of years.
+From a current customer standpoint, migrating to Citrix cloud does a few things. One, it really simplifies their ability to maintain their infrastructure to have lots of tools and services to optimize that and drive that forward and allow us to do the heavy lifting that we can scale across just really all of our customers. And so, it's a huge benefit on just the pure like-for-like, but probably much more importantly, though, is it unlocks a lot of new capabilities that are really only available as a service, whether that is something as simple as endpoint management on a unified basis across all of their infrastructure to some of our net new capabilities like Workspace with Intelligence, which will only be available as a service. So, it's a combination of really optimizing what they have today for those set of customers, but it provides that foundation for them to grow going forward.
+And so, we're just – I think we're doing a better and better job every quarter of articulating the value. Our sales teams are having conversations higher up in the executive ranks. And we're talking about things that are, I would describe as, really information type initiatives, much more so than a traditional IT delivery initiatives. So, it's a combination of all of those different factors.
+Heather Bellini
+Okay, great. And then, the two quick follow-ups would be, if you could just remind us, obviously, you've been going through the subscription transition. And as a result of that, there is a headwind to revenue growth. Could you remind us on – based on your current expectations about mix, whether you want to take the midpoint or not? What type of headwind to revenue growth is that for 2020? 
+And then, the other question would be just subscription ARR growth for 2020. Obviously, I heard your comments about being up 41% in Q4. Any commentary on the type of growth people might be able to expect out of that subscription ARR for this year? Thank you.
+David Henshall
+Sure. Heather, we're not going to guide from a subscription ARR standpoint at least in 2020. And that's simply a function of it's a relatively new metric. We want to make sure that it is one that we can have forecasting with really, really good accuracy. But more importantly, I'd take a step back, and you look at it just over the last few quarters, that's where all of this business model transition is starting to unwind. I think if I remember correctly, it was 33% growth in Q2, 40% in Q3, 41% in Q4. So, we're actually seeing an acceleration of that as the numbers get bigger. And that's just a reflection of both net new, which is still the majority, as well as migrating more of the installed base going forward. I'm sorry, could you repeat the first…?
+Heather Bellini
+Yeah. Just the last question was the headwind to 2020 revenue growth from the transition, if you kind of take the midpoint of your expectations on where you will be on subscription mix, how should people be thinking about the headwind that you're experiencing to top line this year?
+David Henshall
+Yeah. We didn't break it out in terms of guidance for 2020. But back when we started this transition, we were posting the headwind and it was in that 700 basis point, 800 basis point range. We stopped doing that just because we've got ARR out there, and I think everybody is well aware of the transition metrics. But it was 7 percentage points or 8 percentage points the last time we reported it.
+Heather Bellini
+Okay, great. Thank you.
+David Henshall
+Yeah.
+Operator
+Your next question comes from Karl Keirstead with Deutsche Bank.
+Karl Keirstead
+Thank you. Maybe I'll start with Arlen. In the earnings letter, you gave the 2020 guidance, but I didn't see a reiteration of the $7 to $8 per share in free cash flow. So, maybe a two-parter for you. Still feel comfortable with that? And then secondly, I know that, as the installed base converts to ratable, there is the potential for billing or invoicing durations to compress a little bit, which would take a little bit of zip out of free cash flow. Have you seen any of that kind of duration compression over the last couple of months? Thank you.
+Arlen Shenkman
+Yeah. So, Karl, I'll start with – look, we remain comfortable with the $7 to $8. That's, obviously, included in our guidance in terms of what we delivered at Investor Day, and there is no change in that. And as you point out rightfully, obviously, there are some complexities in terms of how the duration affects the cash when that gets in the door, hence the range as well as how we think about the business.
+In terms of your question about compression, I haven't really seen compression. I think, if anything, if you look at the length, it's a bit longer actually in terms of duration. We had 1.7 years. Obviously, we're generally entering into 36-month contracts. So, we'd expect that duration to continue. But, obviously, in terms of how we think about cash flow, the biggest impact for us is the mix over the course of the year and how that results itself or reflects itself in the business. I don't know if you want to add anything to that, David.
+David Henshall
+Yeah. Karl, I think you're not asking about the duration on the contract, which has been going out. I think it's more about prepayment. 
+Karl Keirstead
+That's right.
+David Henshall
+That absolutely has been a headwind because, a year or two ago, when we talked about the majority of our customers not only were buying perpetual license, but were also buying multi-years of maintenance and paying for that upfront. 
+As we've been unwinding that model to get to a much more pure, just a pure run rate, that's been a tremendous headwind to cash flow. And that's pretty much run its course. We haven't broken it out in a couple of quarters, but it's a very low percentage now versus where it was. So, I think that headwind is pretty much gone at this point.
+Karl Keirstead
+Okay, great. And then, maybe my second question for you, David, is just this earnings call is – really in the earnings letter and in your words – really putting a little bit more focus on the 4Q launch of these intelligence analytics features that you described as the most significant functionality at Workspace in your history. So, I wouldn't mind, given that, pressing a little bit. So, I know that they just went GA probably a little over a month ago, but, David, any early anecdotes or numbers you can share that, for instance, when installed base contracts are up for renewal in December or so far in January, those that have acquired the new features, you tend to see revenue accretion of X. Anything interesting you can share that would kind of support the view that this could be a needle mover for Citrix?
+David Henshall
+Yeah, Karl. I'd say, at a high level, it's different than the old days of perpetual license when a new release was a giant event. This is much more about evolving the platform. And so, the way we've positioned this with customers really over the last year – and we've been pretty transparent about this – is that this is the direction that the Workspace is really moving. It's moving towards a platform approach that allows us to really provide a solution that's applicable to users of all type, whether those users have very simple needs like Office 365 and a couple of SaaS applications or whether that is the group of users that need all the power of virtualization, VDI, et cetera.
+And so, the platform allows us to really cover all of those on a wall-to-wall basis and then provide that level of segmentation from an end user standpoint, the right tool to the right solution, but also a platform that we can continue to drive upsell opportunities, so that we can have an ongoing customer conversation about new things that we're bringing to the market. For example, security analytics, performance analytics and others that we haven't announced at this point in time.
+And so, the big shift is just how we engage and think about the Workspace. And it's going to be moving much more from an organizing IT focus where I think we were over the course of the last couple of years to much more about modernizing applications, guiding and helping predict work. And so, that's a big shift and that's an exciting conversation that we're having now with, not just CIOs, but more and more frequently people that carry titles like chief digital transformation officer, chief marketing officer and others. So, we're excited about it, but I think it's going to be just a gradual thing that we continue to ramp throughout the year.
+Karl Keirstead
+Got it. Okay. Thank you both.
+Operator
+Your next question is from Mark Moerdler with Bernstein Research.
+Mark Moerdler
+Thank you. And congratulations on the quarter. Nice clean results. I've got a couple of questions for you, but I'll keep it simple. Can you give us an update on where you are on the process of no longer selling the Citrix Burst Workspace licenses? And how do you think if any had made an impact on Q4 license sales? Did it create a larger-than-normal license sale in the quarter? And then, I have a follow-up.
+David Henshall
+So, Mark, let me just grab that. Look, we talked at Investor Day about end licensing perpetual plus maintenance. We are in the process of working that through our system. You see no impact of that in the fourth quarter. We have not implemented that. You'll continue to hear us talk about through the course of the year, but we have not taken any action and there is no reflection of that in our current year-end results. And the bookings mix was already three quarter subscription in the Workspace. So, the impact will be relatively muted on a go-forward basis.
+Mark Moerdler
+Okay. And then, can you give us any sort of an update on where you are on the what was existing installed base of Citrix Workspace in terms of how much is moving or are you seeing any bigger opportunity? Any color on where that on the installed base starting to move over to subscription and cloud?
+David Henshall
+Yeah, let me take that one. We're early on still. I'd say that number is right around – less than 10% of the installed base. The installed base continues to move because we are still selling perpetual licenses. So, the installed base is growing while we transition. The amount of transition has moved up pretty materially over the last couple of quarters. Probably most importantly is that we're still yielding the level of uplift that we talked about at our financial analyst meeting while the numbers get bigger. So, I think the opportunity is pretty significant and we'll be doing much more of that throughout 2020.
+Mark Moerdler
+Excellent. Really appreciate it. Thanks.
+David Henshall
+You bet.
+Operator
+Your next question is from Brent Thill with Jefferies.
+Parthiv Varadarajan
+Yeah, thanks. This is Parthiv on for Brent. In terms of the outlook, I think the letter indicates that guidance for 2020 assumes a subscription bookings mix of 65% to 75%. And if I'm looking at this right, you were expecting up to 80% at the Analyst Day. So, I guess, the question is, are your assumptions in the business changing at the margin here or are they still within the band that you had expected back at the Analyst Day?
+David Henshall
+Yeah. I don't think anything has changed here. As you see, there's, obviously, some seasonality. We've talked about the first quarter being much closer to the 55% to 60% range. You see us for the full year looking at 65% to 75%, and that's consistent with what we talked about at Investor Day. Obviously, over time, we will go beyond that 75%, but when we think about 2020, we think that's the right way to approach it. And it's very consistent with what we went over in terms of our roadmap and our plans for the business.
+Parthiv Varadarajan
+Okay, got it. And then, for the CSP business, I think the last data point that we got was in the second quarter of 2019. I think you talked about a $100 million run rate. Maybe any update on that end in terms of run rate or growth rates and maybe talk about the mix between on-prem CSP versus the cloud?
+David Henshall
+Yeah. Parthiv, it's not something that we really break out much anymore. I think now that we're into the complete subscription transition, all of these things are just included in the overall number and it would just confuse people to try and break out individual piece parts. Overall, though, CSP is a channel program that allows channel partners to leverage our infrastructure to create as a service offering. It's for their end customer. 
+It has been a great business like you highlighted. Continues to be so. And it is in nine figures and growing. I don't really know where those customers are in terms of on-prem or cloud infrastructure. Obviously, over the long term, they have a lot more flexibility as they move to Citrix Cloud, but it just depends on the size of the partner.
+Parthiv Varadarajan
+Okay, fair enough. That's helpful. Thank you.
+Operator
+Your next question is from Walter Pritchard with Citi.
+Walter Pritchard
+Hey, David. A product question for you. Just as it relates to Windows Virtual Desktops which I think Microsoft launched in Q4, how have you found that offering from Microsoft being out there impacting your business? Is it creating awareness? Is it causing some confusion? Helping the transition to subscription? Just curious what, if any, impact you're seeing at this point.
+David Henshall
+Well, I think WVD at a high level really opens up the awareness for virtualization as a platform. And we look at it as a platform or, in our language, a resource zone where we can allow customers to run parts of their infrastructure along with like on-prem or in another cloud or public cloud, et cetera. So, it's a resource zone from that respect.
+When it was first announced, it created some market confusion. And so, between Citrix and Microsoft, we've been spending a lot of time educating our field. We just had our sales kickoff a week ago. We had Microsoft and Citrix on stage really talking to all of our partners and our sellers about what the real separation is, how to position and how we work together at this. 
+This is really a story about better together with Microsoft. And we spend a lot of time highlighting everything we're doing from a joint customer standpoint, joint field standpoint, all the product integrations and we're going to continue to do that. So, no change on that front.
+Walter Pritchard
+Great. And then, Arlen, for you. Just on the – I want to make sure I was clear on the Networking piece, the subscription mix went up substantially there. Is that a trend that you think is sustainable as we move forward? Or was there some element with a flexible licensing in Q4 that drove customers to choose that offering that may not be sustainable here in the first half of 2020?
+Arlen Shenkman
+So, I think what you'll continue to see is growth. I think the magnitude and I think the data point I'd try to utilize that, 13% to 44% for the year. I think that magnitude is driven by some of the larger deals we did. So, I'm very confident that we'll continue to see customers move in that direction. I believe we're very confident in the fact that you'll continue to see an increase. One, we're just not confident that that magnitude in terms of the moving parts in the business, the number of customers will be that consistent in terms of driving that.
+Walter Pritchard
+Okay, great. Thank you.
+Operator
+Your next question is from Keith Weiss with Morgan Stanley.
+Unidentified Participant
+Hi. Mark O'Neill [ph] for Keith Weiss. Thanks. Thanks for taking my question. Maybe two quick ones on converting that existing maintenance base that we've been talking about. One, I guess, just how big is that maintenance base in terms of like licenses that could be transitioned? 
+And then two, you noted still less than like 10% of the way through like at Analyst Day on October. I guess looking into the next few years when you continue focusing on transitioning that base, maybe just like level set expectations, how much should we be thinking about per year? Maybe it's like 10%. Or is that too high or too low? Kind of some way to think about that would be helpful in modeling.
+David Henshall
+Yeah. We're not going to guide to a specific percentage basis. We're, obviously, looking to build the right programs to go as fast as customers want to go and we're not planning on any type of a forced migration. It's simply going to be put the right programs in front of them, give them the sense of value, and allow customers to adopt this. That part has been growing from a – internally, we call it trade up and transition. It's growing very rapidly right now. 
+It is still the minority focus. So, I want to be clear about that. We are still more focused on selling net new licenses to both new and existing customers and then trade up becomes a secondary motion.
+But in terms of the overall magnitude, just look at – look at the P&L and you see the support and services line. The bulk of that is related to ongoing maintenance contracts, although both hardware and software. So, it's well over $1 billion opportunity there from an ongoing maintenance standpoint. And we just want to make sure that we're converting that at the uplift that we've been seeing up to this point and we're doing it methodically, so the customers really drive the value that they see in the solutions.
+We're also starting to incent channel partners on things like active use to make sure that not only are we migrating customers, but we're driving the right level of use and providing that platform, so that, as we get onto Workspace with Intelligence and some of these new capabilities, we have that pathway to sell new things, new updates, new add-ons, new capabilities. And so, that's the overall motion we're driving right now.
+Unidentified Participant
+Great. Thanks so much.
+Operator
+Your next question comes from Raimo Lenschow with Barclays.
+Mohit Gogia
+Hey, guys. It's Mohit Gogia on for Raimo. Thanks for taking my question. I'll also offer my congrats on the quarter, on a solid quarter. Two questions. So, one, David, I was wondering if you can drill into just the SSP business performance. So, obviously, we saw a nice rebound this quarter just based on the much easier comps from last year. But looking into 2020, should we expect the same volatility just based on the seasonality and the comps for next year as well? Or is there anything else we should be aware of? And then I have a question for Arlen.
+David Henshall
+Sure. It's just at a high level. SSP, we'll continue to break it out for a while because it is volatile and it's a small handful. It's now down to, I don't know, 3%, 4% of total revenue. So it's not material, but it does move around a little bit. It's going to continue to be volatile. Although, I will say that part of the strategy that we're driving right now is to work with these customers on the multi-year types of arrangements, so that while there will always be a hardware element, we're going to focus much more of the engagement on the long-term software, containers, and those types of things to support where their businesses are going. So, I'd say that the volatility will become less and less pronounced over time, but it will still be there for a while. But just keep it in the context of its – it's 3% or 4% of total revenue. So, it's not that big a deal.
+Mohit Gogia
+Understood. That's helpful. And, Arlen, just one question, just a modeling question on deferred. So, based on the commentary that we have heard around – that you guys are phasing away the multi-year maintenance contracts being billed upfront. We would have thought that there will be somewhat more of a headwind on deferred this quarter. Obviously, we saw some nice seasonal uptick, the sequential uptick, but if you can give us some more color as to how that sort of like phasing away from multi-year maintenance will show up in deferred. Maybe it hasn't been rolled out yet, but just some more color on deferred for modeling will be helpful.
+Arlen Shenkman
+Yeah. I think, look, I would go back – if you take a step back, and we talked a lot about this at Investor Day, but when you think about the business, I would say, the first way to kind of think about the normalization is look at ARR. After you move away from ARR, you're going to start to get an idea of where we're headed in terms of our future committed revenues and you'll see more and more of that buildup, obviously, in unbilled in terms of how that will react in the business.
+And one of the reasons I started with ARR is because one of the things that you'll have to deal with, and that we'll deal with in terms of how we model and think about our business, is the effect of 606. And as we do on-prem term licenses and how those kind of pull in, how that have an effect on the business. And so, even though we'll continue to move away from prepaid maintenance, you're going to continue to see movement around that deferred line. And as you said, we had an uptick in seasonality. We feel good particularly on a quarter-by-quarter basis when you look at that where we're headed. But, obviously, there's going to continue to be volatility depending on mix, and some of that mix is not only the mix in terms of SaaS, but it's on-prem term license as well as the pool licenses we have for the Networking business, which is all going to have an impact and it's going to move across our short-term and long-term deferred.
+Mohit Gogia
+Sounds good. Thanks, guys.
+Operator
+Your next question is from Robert Majek with Raymond James.
+Robert Majek
+Great. Thanks a lot. Can you give us an update on Citrix Managed Desktops and how the sell-through has been so far with your partners and customers? And then, additionally, is this an offering we'll see you put more emphasis on going forward?
+David Henshall
+Yeah. CMD, just for everybody, that is our fully packaged DaaS offering that we're building with Microsoft on top of Windows Virtual Desktops. Really a complete way to give customers a turnkey service. Those things are just now going live. So, there's not a whole lot of history yet, but we'll look at it and talk about it much more going forward. It's similar to the way I described the platform earlier, where the important part of the strategy is lay the foundation, so that we've got a platform approach that covers all users regardless of their end – kind of their end user requirements and then have those individual solutions that allow us to continue to segment users much more specifically based on their usage. So, that could be a full VDI solution, it could be a Citrix Managed Desktop, it could be just simply analytics. It's that level of flexibility that I think is most critical going forward. 
+So, stay tuned. In a couple of quarters, we'll provide an update just in terms of overall uptake. But I think the story that we talk about is going to be much more platform oriented.
+Robert Majek
+Thanks a lot.
+Operator
+Your final question comes from Kirk Materne with Evercore ISI.
+Kirk Materne
+Yeah, thanks. Thanks very much. And congrats on the quarter. I guess, David, the question I have for you is, coming away from sales kickoff and as you go through this transition to Workspace as being more of a platform, can you just talk about how you're thinking about sort of the evolution of the partner ecosystem as you guys are now starting to talk to decision makers outside just the IT universe? Traditionally, that's been an area where the tradition, the global system integrators will come in and oftentimes help sort of grease the skids in terms of helping software companies along in terms of their platform strategy. I'm just trying to get a sense on where you guys stand on that and maybe if there is any points of validation we can take away from potential partnerships that help, I think, speak to the direction you guys are heading in. Thanks.
+David Henshall
+Yeah. I can't talk about specific partnerships that aren't really announced publicly, but I can tell you that you're right. It was a big focus of last week talking about the overall message selling into a different set of buyers and it's a journey that we've been on for a few years. So, it hasn't been totally net new. 
+However, the conversation that I had sitting down with a large group of our GSI partners was much more focused on – this is a platform, this is one that a lot of them have been engaged in in terms of helping build out micro apps and things as beta customers and whatnot because the long-term engagement with them comes from how they build unique and differentiated businesses around some of these capabilities, not just using them as a tool as part of a larger engagement, but actually as a foundation to build a practice around it. That's the direction that we would be working with them on to help become real.
+So, a good engagement with GSIs, continue to work with our traditional set of partners both on new and installed base customers. So, the message was pretty holistic last week. I think we've got good alignment across our sellers. Not a transition, as you would imagine. We're moving to much more of a continuous engagement model, which is typical for a cloud company versus one that sells individual point products. But that's a journey we've been on for a while. And so, I think each and every quarter, we're getting a little bit better at it and we've got a pretty good, pretty good view of where we need to be over the course of the next couple of years.
+Kirk Materne
+That's helpful. Thanks very much.
+David Henshall
+All right. It sounds like that was the last question. So, again, I just want to wrap up and thank everybody for joining us again this afternoon. Really nice way for us to end the year, coming off a strong fourth quarter. We're, obviously, optimistic about 2020 with everything we're doing across both go-to-market and the product area. 
+Look forward to speaking with many of you throughout the quarter and reporting back with our first quarter results in April. So, thank you very much and have a good night.
+Operator
+Thank you for participating in today's conference call. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

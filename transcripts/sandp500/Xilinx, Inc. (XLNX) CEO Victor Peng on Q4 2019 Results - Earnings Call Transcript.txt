@@ -1,0 +1,243 @@
+Xilinx, Inc. (NASDAQ:XLNX) Q4 2019 Earnings Conference Call April 24, 2019  5:00 PM ET
+Company Participants
+Matt Poirier - Investor Relations
+Victor Peng - Chief Executive Officer
+Lorenzo Flores - Chief Financial Officer
+Conference Call Participants
+John Pitzer - Credit Suisse AG
+Ambrish Srivastava - BMO Capital Markets
+Vivek Arya - Bank of America Merrill Lynch
+Toshiya Hari - Goldman Sachs
+Blayne Curtis - Barclays Capital
+CJ Muse - Evercore ISI
+Ross Seymore - Deutsche Bank Securities
+Joseph Moore - Morgan Stanley
+Tristan Gerra - Robert W. Baird & Co., Inc.
+William Stein - SunTrust Robinson Humphrey, Inc.
+Christopher Danely - Citigroup
+Srini Pajjuri - Macquarie
+Vijay Rakesh - Mizuho Securities USA, Inc.
+David Wong - Nomura
+Christopher Rolland - Susquehanna International Group
+Operator
+Good afternoon. My name is Ian, and I will be your conference operator. I would like to welcome everyone to the Xilinx Fourth Quarter Fiscal Year 2019 Earnings Release Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers’ remarks there will be a question-and-answer session. [Operator Instructions]
+I would now like to turn the call over to Matt Poirier. Thank you. Mr. Poirier, you may begin your conference.
+Matt Poirier
+Thank you, and good afternoon, everyone. With me are Victor Peng, CEO; and Lorenzo Flores, CFO. We will provide a financial and business review of the March quarter in fiscal year 2019 overall as well as provide the business outlook for the June quarter. Lorenzo will also share some color for how we see our fiscal year 2020 ahead of our Analyst and Investor Day where we will provide detailed full year guidance.
+Let me remind everyone that during our conference call today, we may make projections or other forward-looking statements regarding future events or the future financial performance of the Company. We wish to caution you that such statements are predictions based on information that is currently available and that actual results may differ materially.
+We refer you to documents the Company files with the SEC, including our 10-Ks, 10-Qs and 8-Ks. These documents contain and identify important risk factors that could cause the actual results to differ materially from those contained in our projections or forward-looking statements.
+In addition to GAAP financial measures, we will be disclosing certain supplemental non-GAAP financial measures used by management to evaluate the Company's financial results. We provide these measures to facilitate period-to-period comparability for purposes of evaluating continuing business operations by excluding the effects of non-recurring and unusual items, such as amortization of intangibles and certain one-time items related to acquisition.
+We believe that sharing these non-GAAP measures will be helpful for analysts and investors in analyzing the Company's ongoing core business. A reconciliation of non-GAAP financial information to the closest GAAP measure is included in our earnings release and has been posted on our Investor Relations website.
+This conference call is open to all and is being webcast live, and it can be accessed from our Xilinx' Investor Relations website.
+Let me now turn the call over to Victor.
+Victor Peng
+Thanks, Matt, and good afternoon, everyone. I'm very excited to report that we made exceptional progress on our strategy in fiscal 2019. We far surpassed our original revenue goal by delivering over $3 billion of revenue for the first time in our history. This was 24% growth over fiscal 2018.
+Our growth was broad-based with all our primary end markets up by double-digits. We also reached record levels of profitability as non-GAAP EPS increased 32% year-over-year to $3.48 per share. The March quarter continued to see strength as revenue increased 30% year-on-year to $828 million, and non-GAAP EPS was up 34% year-on-year to $0.94 per share. Lorenzo will provide more financial details on both the March quarter and fiscal 2019. So now focus my comments on key accomplishments during the year.
+We made excellent progress on our transformation to a platform company. First and second generation, Zynq product revenue increased approximately 60% with strength and many applications in communications, automotive, particularly ADAS and industrial end markets. We taped out our 7-nanometer Versal, ACAP on schedule, which is an industry first. Versal will deliver 10x compute performance and 10x bandwidth and deliver power efficiency for many applications across all of our end markets.
+We also launched Alveo, a family of powerful, adaptable PCIe accelerator cards that increase the performance of a broad range of applications for both cloud and on-premise deployment. And we also hosted three very successful developers conferences globally that had a record attendance as part of our drive to increase application development and expand our ecosystem.
+Now, let me share some highlights around our three key growth drivers: communications, data center and automotive. Starting with communications, 5G deployments began earlier than our expectations at the start of FY 2019. We were exceptionally well-positioned at this early stage of what's a historic 5G cycle, which we believe will be multiple times larger than 4G.
+Deployment started in South Korea and now we see deployments gearing up in multiple geographies. We're shipping in volume in radio and baseband applications. Our opportunity in 5G rate is particularly strong because the complexity of the new standard drives the need for significantly more radios that in 4G. We expect to get more content given the higher value we add for radios with products like our RFSoC.
+In addition, we have a complete product roadmap with our recently announced expansion of our RFSoC portfolio covering the full sub 6 gigahertz 5G spectrum. Let me see more than our typical share of baseband revenues in this very early phase of 5G deployment. We expect to retain some of the current 5G baseband sockets, while some will be replaced by ASICs over time.
+And this is consistent with what we've seen in the past deployments, including 4G and 4.5G. Now when our 7-nanometer Versal ramps the production, we have an opportunity to expand beyond our historical baseband revenue levels in later deployments of 5G.
+Now moving on the data center, we continue to develop and expand our ecosystem and adaptable platforms in a variety of high volume applications. We are strengthening our data center first strategy with today's announcement of our intention to acquire Solarflare, a provider of high-performance, low latency networking solutions for multiple applications, including financial.
+Combining our industry-leading FPGAs, MPSoC and soon ACAP solutions with Solarflare's high-speed NIC technology and Onload application acceleration software will create a powerful converged SmartNIC platform. Solarflare's software and networking expertise is an excellent complement to our silicon, IP and development tools leadership.
+We also continue to fortify Xilinx platform and Alveo partners ecosystem through our corporate ventures initiatives. We nearly doubled the number of companies in our Versal portfolio year-over-year to more than 20 businesses covering multiple applications such as data analytics, financial computing and video streaming acceleration. We increased the cumulative numbers of developers trained on SDAccel Development Environment over 3,000, and we added over 500 independent software vendors to our ecosystem.
+Moving onto automotive. First generation Zynq sales grew 40% in fiscal 2019, and we saw an expansion of second-generation Zynq MPSoC design wins in the next generation of ADAS systems. We also saw an increase in autonomous driving design wins. And put together all this momentum, we expect to see steady revenue growth well into the next decade.
+So for example, at the last CES Daimler showcased its AI solution in the new Mercedes GLE Sport Utility Vehicle that's powered by an MPSoC accelerating multiple neural networks. In addition, ZF announced a strategic collaboration with Xilinx for all technology will power their highly advanced AI-based automotive control unit to enable automated driving. Another recent milestone was the announcement that BYD will be the first OEM in China to start mass production of its front camera ADAS technology using our Zynq SoCs.
+So, in summary, we made great progress in establishing strong positions in multiple large and growing markets. The exceptional growth we achieved in FY 2019 provides us with great momentum as we enter FY 2020. Having established a strong growth trajectory, we believe now is the time for us to optimize our organizational structure to better match our long-term objectives.
+To that end, we have created two business units to increase our focus and agility in strategic high growth markets. Specifically, we formed the Data Center Group or DCG and the Wired and Wireless Group or WWG, which will be led by Salil Raje and Liam Madden, respectively, reporting to me. Salil and Liam have both held senior leadership positions at Xilinx for over a decade. And for the other core vertical markets, we will retain our functional structure to have the horizontally leverage model for sustained growth but with solid profitability.
+In addition to organizing for sustained growth, we will increase organic vesting in FY 2020 as we execute our 7-nanometer silicon roadmap, and extend our key IP portfolio, our software stack and our ecosystem. We will also make inorganic investments that are strongly aligned with our strategy and will build lasting shareholder value like our acquisition of DeePhi in FY 2019. We'll share more details about our FY 2020 plans and our overall strategy at our Analyst Day next month in New York City.
+Thank you. And I'll turn it now over to Lorenzo.
+Lorenzo Flores
+Thank you, Victor, and good afternoon to you all. We are all thrilled with the execution and financial results of the Company in FY 2019. Xilinx delivered many financial records this past year highlighted first by $3.59 billion in revenue, a growth of 24% from FY 2018.
+Advanced products which grew over 40% are the key growth driver of our business. They are now 64% of total sales. With double-digit growth across all reported end markets, we are demonstrating the durable position our leadership technologies have achieved across the growth areas of our industry.
+Along with our revenue growth, we maintain strong profitability. Gross margin was 69% for the year and operating margin exceeded 31%. On a dollar basis GAAP operating income grew 40%. This excellent operating performance resulted in record earnings. GAAP EPS was $3.47 up 93%, and non-GAAP EPS was $3.48, up 32% over FY 2018. Due to the impact of tax reform on FY 2018 GAAP results, the growth of non-GAAP EPS would be more indicative of our financial performance.
+Moving on to our March quarter. Quarterly revenues were $828 million, growing almost 4% quarter-over-quarter and 30% year-over-year. Growth was driven primarily by communications particularly wireless, as that end market grew 23% sequentially and 74% year-over-year.
+Industrial and A&D also increased quarter-over-quarter as each end market grew. Data center and TME declined. TME was flat, data center was down, but we expect it will rebound in Q1. Automotive, broadcast and consumer decline the stronger than expected growth in auto was offset by an industry cycle and broadcast.
+We maintain strong profitability in the quarter as well. Gross margin came in at 67.5% below our guidance due to the higher proportion of wireless in our revenue mix. GAAP and non-GAAP operating expenses were below guidance at $309 million and $300 million, respectively.
+GAAP operating margin was 30.2% and non-GAAP operating margin was 31.2%. For the quarter, GAAP EPS was $0.95 a share, and non-GAAP EPS was $0.94 a share. EPS growth over our prior Q4 was 70% on a GAAP basis and 34% on a non-GAAP basis. A few highlights on our balance sheet and cash flows.
+We ended the year with $3.2 billion in gross cash and $1.2 billion in debt after retiring $500 million of debt in the March quarter. We continue to address our accounts receivable and ended the year at 37 days. Inventory increased $32 million to $315 million as we build inventory to support our increasing demand.
+In FY 2019, we returned $526 million to our shareholders through a combination of buyback and dividend. We repurchased $162 million worth of shares or 2.4 million shares at an average price of $66.30, and paid a total of $364 million in dividends.
+One last achievement to highlight before I move on to guidance. During FY 2019, we generated a record of $1.1 billion in operating cash flow, an increase of 33% from FY 2018. Revenue growth, rigorous focus on profitability and disciplined management of our working capital all contributed to this outstanding result.
+Before I move into guidance, I want to elaborate a little bit on what Victor talked about our new organization and our new revenue reporting structure. What we called Communications will now be called Wired and Wireless Group or WWG. Data Center and TME will be split.
+Data Center Group will now be reported separately and will include high performance computing, although that element has been historically very modest. The remaining end markets, which we will often call core vertical market will have a grouping of A&D, Industrial and TME called AIT, and the grouping of automotive, broadcast and consumer called ABC.
+Now onto the guidance. Revenue growth continues in Q1 with the expected revenue between $835 million and $865 million. The key driver of growth will be WWG with growth in both wired and wireless. Data center is expected to resume double-digit percent growth.
+We expect AIT will be down meaningfully with declines in A&D and TME, more than offsetting growth industrial. All end markets and ABC are expected to grow. This end market mix in Q1 leads us to forecast gross margin at approximately 66%. In Q1, GAAP operating expense is expected to be $315 million and non-GAAP operating expense is expected to be $308 million.
+Wrapping up our guidance, GAAP other income is expected to be approximately $15 million in Q1 and our tax rate is expected to be between 7% and 9%. While we provide more details on FY 2020 and our Analyst and Investor Day, we can provide you now a framework for the remainder of FY 2020.
+In the first half, we expect Q2 revenue and gross margin to be similar Q1 with a modest increase in operating expense. In the second half, we expect to return to growth with strength in data center, aerospace and defense, TME and auto, while other businesses grow modestly or remain steady. The rebalancing of our end market mix is expected to improve our gross margin to more typical levels.
+Our operating expense will also grow in the second half as we realize the impact of our annual compensation increases across our employee base and increased tape-out expenses. After exceptional performance in FY 2019, we are headed into FY 2020 with a great deal of momentum. We have done far more than deliver one year with great revenue growth and profitability. We have been successful in driving our strategy, expanding our leadership and our market reach and establishing our strength across 5G, data center and automotive.
+As Victor noted, our accomplishments also include the acquisition of DeePhi and the recent announcement to acquire Solarflare, both bringing talented teams and technologies aligned with our strategy. With these successes, FY 2020 is off to a solid start and we are looking forward to growing the Company at double-digit rates.
+With that, let me turn the call over to questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question is from the line of John Pitzer from Credit Suisse.
+John Pitzer
+Yes, guys. Thanks, let me ask a question. Victor, in your prepared comments you talked about normal comp cycle, FPGAs get a lot of content at the beginning, and then there's some displacement as the build-out continues. I'm curious can you help kind of quantify the magnitude or the timing of when you might expect some of the baseband business that you're winning today moving to ASIC stat?
+Victor Peng
+Yes, thanks. First of all, I'm glad you modify that with baseband because radio we’re going be stronger than ever. And as I said, there is going to be more radio and we're going to capture more content there. So within the baseband side, again, we historically have always even after ASIC displacement, retain some revenue streams from the baseband. And it's very early start at the second half of last year and coming into the beginning part of this year, we still see continued higher than typical revenues.
+I'd say kind of difficult to sort of call the exact transition, because obviously that depends on really external factors of which we don't have complete visibility. I think the takeaway is that we build into the fact that we see where we don't have solid persistence that we do expect some of that to roll off, and so it's kind of built into how we think about things.
+And again, you'll hear more details about FY 2020 at Analyst and Investor Day. But it is not unsubstantial however, again, just think about it that we build that into our plans. Okay, so it's not like where we expect to have longer persistence than what would be prudent.
+Operator
+And our next question is from line of Ambrish Srivastava from BMO.
+Ambrish Srivastava
+Hi, thank you very much. I had a question on gross margin. I'm going back to the last peak in wireless and around that time. Company gross margin was between 68% and 69.5%, if my historical numbers are right. So the question is, is there something specific to 5G that is more detrimental, and I know your revenues are higher in wireless versus what they were before?
+And then my quick follow-up, it's a more blocking and tackling, Lorenzo, when you said second half gross margin comes back to a more normal level, or how do you define normal, and does that imply then wireless slows down considerably? Thank you.
+Victor Peng
+So let me take the first partition. So look first of all, as you said, it's really a very different place in terms of the magnitude and size. And by the way, I want to also clarify, we're far from peaking, right, because this is just a very early stage of 5G. 5G is going to continue on for quite some time, because 5G is very ambitious. I mean, we see 5G being factors larger than 4G over its entirety.
+And the other thing is that we're talking about very advanced technologies, right, I mean the kinds of expense for developing silicon back in the initial deployment of 4G is significantly by many factors different, right, so I think you need to think about it that way as well.
+And then, I'll begin the part – the starting part about the margins, I’ll let Lorenzo pickup from there. I don't think the way you've got to think about it is if it comes back there for while, it's goes down substantially. I think we are seeing a much heavier mix, and I think what we're trying to get across here is that other markets strengthened, we get a little bit broader strengthened, so that's the way should look at it as opposed to this big drop off in wireless.
+Lorenzo Flores
+Right. So I think at this point Ambrish, before Analyst Day, I want to stay in a relatively qualitative space in terms of providing guidance or shaping the year in terms of gross margin. What we're trying to communicate and just really to elaborate a little bit on what Victor laid out is, we are at this point in the year seeing a very heavy concentration on wireless. It is significantly bigger than we have seen in the past, and that is as everybody follows the company knows puts pressure on our gross margins.
+So we see in the second half as I tried to lay out in my comments that other elements of the business, including ones that are traditionally stronger gross margin will continue to grow and balance out our mix. And when I say more typical, I think I'm pointing to ranges we would have seen in the past. I'd like to leave it at that until we get to Analyst Day. That's okay.
+Operator
+And our next question is from line of Vivek Arya from Bank of America.
+Vivek Arya
+Thanks for taking my question. Victor, one more on 5G. I'm curious what proportion of your communications sales would you attribute to 5G? And do you think the market when you look at both 4G and 5G is big enough and growing fast enough that even if you get some displacement on the baseband side that you can still – you're looking at still a good decent growth year for your communications segment overall?
+Victor Peng
+Well, again, I think we're in very early stages of the 5G deployment. We do have very good confidence that over the whole run of this cycle that this will be again factors larger even with some displacement of baseband as we said. There will be some degree of [indiscernible], but I think that overall the trend will be more growth.
+Again, we're not giving full-year guidance here, we're giving sort of the qualitative guidance now. And we want to tell that with the fullness of the whole story at the Investor Day. But overall, I would say, yes, we think that 5G is definitely a growth driver. I want to say that we're still in the very early innings of that, but there will be still some pursiness depending upon the deployments as everyone knows, right. So Korea led the way initially, now they're gearing up for China. That's going to happen this year. Some of the geographies will come along and this is just the beginning.
+Operator
+And our next question is from line of Toshiya Hari from Goldman Sachs.
+Toshiya Hari
+Great, thanks for taking the question. Victor, can you give context around the data center D cell? In the March quarter, you guys also talked about a potential rebound into June. So what drove the D cell in March and what drives the reacceleration in June? And related to that, I know it's early with Versal, but where are you seeing the most traction with customers in terms of applications? Thank you.
+Victor Peng
+Okay. So first, with regards to the data center and D cell in the last quarter, I would bracket that as a couple of things. One is, as you know, data center revenue includes some of the traditional data center we've always had, right. So not acceleration, not some of the new emerging areas, but it does include some of the emerging areas.
+And then in the past, we've talked about how crypto was quite small, but we had mentioned that. I'll do with the last one first, it was pretty small, but essentially went to zero, so that attributed a little bit to it. In our traditional business it's kind of business that we've had all along. We had one customer that had just a pause, I would say, and we expect that to rebound.
+Now on the more interesting business, we had – that is has to do with acceleration and where we see the biggest growth opportunity, also coming off of last quarter. One customer took a bit of a pause, but we expect that to sort of come back. I think the bigger picture here is for data center is that it's an emerging area, as I said, we've been still building foundation and we don't have a huge breadth and depth with multiple customers.
+So we will be a little bit exposed in this early phases when there are some key customers have shift the pauses. But it's not a trend, I mean if we saw it went down and we trend down and we're seeing breadth in that. We will be projecting something different obviously, but because of that it's not something you should feel, as I said, it's trend right. We had a one quarter D cell, and we see that picking up again.
+Lorenzo Flores
+On our rebound just to finish up a point Victor brought about the crypto, the rebound we see going into the June quarter has no crypto element to it whatsoever.
+Victor Peng
+Yes, Hari. Okay.
+Lorenzo Flores
+The interesting stuff is Victor…
+Victor Peng
+So now on to Versal. First, we take that as expected. We're actually only short weeks away from getting a silicon in-house. So we're really excited about that. We have multiple early customer engagements across multiple markets. That does include communications, includes automotive for autonomous driving, and includes test, it's pretty broad.
+If anything I would say that the limitations on sort of lighthouse engagements is more on some of us enabling to provide enough support when things are in fairly early stages, but obviously once we start sampling that's going to widen out, but we see that as very strong interest in Versal. So we're very excited about that.
+Operator
+And our next question is from line of Blayne Curtis from Barclays.
+Blayne Curtis
+Hey guys, thanks for taking my question. I just wanted to revisit the margins because you obviously have seen a mix to come in wireless for the last several quarters and then you see the big step down in March. So just trying to understand why March is the one quarter you're seeing that step down?
+Lorenzo Flores
+Two phenomenon work against us. One is, maybe the bad news from good news, which is the wireless business for other reasons Victor as talked about was very strong. So that's good news, but it does put pressure on our margins. The second, in a couple of our other end markets, particularly in test measurement emulation, we were below our expectations for the quarter. So that put more downward pressure on our margins.
+Operator
+And our next question is from line of CJ Muse from Evercore.
+CJ Muse
+Yes, good afternoon. Thank you for taking the question. I guess, first question, as you think about rising mix across data center and wireless where there's clearly a pretty high customer concentration, is there a story line here where despite lower gross margins that OpEx, particularly SG&A and working with those clients would offer incrementally higher operating leverage, such that you could in fact see all in op leverage in line, if not better over time with some of your other businesses?
+Victor Peng
+Well, let me first talk a little bit, and then Lorenzo please add color. So one thing again, first on data center you put those together with wireless. While data center is maybe not as in our margin strong a certain other things like aerospace and defense or TME, it's much closer to what our historical kinds of ranges have been at the corporate level. So I'm not sure I would group both of them together.
+I think, again, we have to keep perspective. I think maybe there is a feeling as though everything rises and falls completely on wireless. And there's three elements to our strategy, right. So data center, growth and driving growth in all of our core markets, meaning that our broader markets, right, where we have very healthy margins we intend to continue to grow as we step for FY 2019. We had double-digit growth across all the market.
+So it's really not just about how we have ebb and inflow with wireless alone, it's also how we're doing in other core markets. And you heard Lorenzo just mentioned, part of the reason why despite that we had strength in wireless for few quarters, was it more accentuated and the gross margin drop, it has much to do with drops in other segments that are very strong and profitability versus simply wireless.
+And then in terms of what we're doing on OpEx, I think we will always try and manage our expenses very carefully. But I think I've also said in the past that we are going to lean into growth. We are investing for long-term growth. We're not going to do anything that isn't going to pay a significant return in the future, but you might see some ebbing and flowing of leverage in the near-term, but we are confident that of course we keep this growth. You will see leverage. But in any given quarter, we may be more of an investment mode.
+I already said in my opening comments that the coming fiscal year, which you will hear more details about at the Investor Conference that once we get Versal, we'll be doing some more 7-nanometer tape outs. We have to keep building our ecosystem. There are things that we have to invest now to keep these double-digit kind of growth rates, and that's sort of what our position is.
+Lorenzo Flores
+Yes, I actually don't have much to add to what Victor said, it's just that despite our lot of discussion right now on wireless, we do extract a great deal of horizontal leverage out of our investments, both in R&D and SG&A, and we extract those over time in a lot of ways. So I think the breadth of our end markets as Victor pointed out will provide us substantial profitability expansion in the long run.
+Operator
+And our next question is from the line of Ross Seymore from Deutsche Bank.
+Ross Seymore
+Hi guys, just wanted to ask a question and probably butcher the new names of the segments, but I'll just start with the TME side. Any color why that was weaker than you guys had expected in the March quarter? What's going on with I can't remember if you called AIT or IAT in the second quarter, where you said it was down?
+And then if we think in the second half, it seems like that bucket is the part that needs to get better to help your mix and improve the gross margin back to your average levels. Is that improvement, because it's something that's company specific, or are you making more of a cyclical assumption?
+Victor Peng
+Okay. So first, let me explain the TME, I'm glad you asked that. So recall the TME actually has got a bunch of sub-segments within that. One of them includes semiconductor test. For a while, semiconductor test was in very strong position. But as we all know, particularly in the memory side, things dramatically weakened. So we did see general semiconductor test weakened for us.
+Another sub segment is emulation prototyping. And I think Lorenzo maybe bleakly alluded to that, but I will say that we did have one significant customer that, you can kind of say that sort of in a bit of a transition situation. So there was a pause there and that wasn't exactly expected.
+Having said that, we also saw some strength, but it wasn't enough to overcome those headwinds and the strength was in some advanced testers, because of 5G being deployed, right. So even when that TME, we have some diversity, it just happened to fairly big elements at this point weakened, but again, we do see in the second half of FY 2020 that strengthened again.
+And yes, sorry about all the acronyms, I'm sure once you get used to the PLAs, actually be better clarity, because we are separating things out more giving you a more granularity. But I think your general proposition that, yes, kind of like the gross – the enterprise level gross margin will rebalance as much, because other things are coming into play. And again, of course, wireless is still matter, but it's not solely moving just on wireless. So Lorenzo, you want to...
+Lorenzo Flores
+Yes, you actually did a pretty good job, Ross, on the nomenclature. AIT include some relatively large revenue segment. And the first half, two of them will be relatively low, but we look to them and we have some visibility into what's driving the strength in the second half of the year. Those coming back heavier into our overall mix and the continued growth of other elements of our business that are closer to our corporate average gross margin, those will push the gross margin back up, as I described earlier.
+Operator
+And our next question is from line of Joseph Moore from Morgan Stanley.
+Joseph Moore
+Great, thank you. Seemed like there were some tightness in the quarter on substrates and things like that. Did that have any effect on your business and just any comment that you gave us on lead times or customer inventories would be helpful?
+Victor Peng
+Yes. I mean, there were few things that made delivery something that we have to work very diligently with. I would say that we manage through some of those challenges, you mentioned one, there were other things. I think everybody knows the TSMC's issue around their photoresist. And we managed through that, it was a big effort, but we did manage through that.
+So you shouldn't take away that we had any impact due to that, but I would say that we had to execute very, very heavily. And it did sort of I guess, what I'd say is that caused a lot of navigation and what we had to deliver like for instance wireless like that. That is something that all our key customers were hitting – shooting for some deployment date. So that absolutely had to get shifted at some level. But I think overall, our operations team did really well working with our supply chain to not have anything material happened with regard to that. So – but good point there were some challenges.
+Operator
+And our next question is from the line of Tristan Gerra from Baird.
+Tristan Gerra
+Hi, good afternoon. Given the momentum you now have in 5G base station, could you give us a sense of the content in 5G versus 4G or anyway we could quantify how much you want unit wise to-date?
+Victor Peng
+Yes, again, I'll go back and say, we'll talk about this more on Analyst day, but just to reiterate some of the things you said. I mean our content will be higher, particularly in radio, and there will be both, because we're adding a lot more value, we're not just doing the same types of products we've done in the past.
+And also because of the shift in the more radio units shipped in the 5G and 5G will just deploy more, there are many different form factors, not just about traditional macro base stations, right. There is small cells nor there is all kinds of different deployments. And then we've talked several times now base station. So generally, I would say, qualitatively, yes, we expect to have both more content, particularly in the radio, and then there's going to be more of them. So – but please stay tuned for the Analyst Day.
+Operator
+And our next question is from the line of William Stein from SunTrust.
+William Stein
+Great, thanks for taking my question. I'm hoping you can help us better understand the strategy around the portfolio as it relates to M&A and venture investments, there's been some pretty heavy speculation that you were looking at a large public company that someone else acquired, but here you're announcing a smaller acquisition today, and I think you said 20 investments in the venture fund. Can you help sort of tie all these things together, so we understand this from some may be a top level perspective? How important is M&A and these investments of what's the strategy around it? Thank you.
+Victor Peng
+Yes, two quick questions. Let me give you some high level and I'll have Matt, who runs our, Corp. Dev. maybe add some color. So it's just at the highest level, I think the kind of thing you should look at, I think we've been consistent in both what we said and more importantly our actions, is that whenever you do M&A, it will be very strongly aligned with our strategy, right. Either fortifying that strategy position, and of course in the long run may be increasing the opportunity. If it's a bigger business, obviously, there should be acceleration in the more tangible and full near-term kind of range.
+I wouldn't say, we've already – we've ever said, hey, we're only looking at "tuck-ins", or like, hey, we're only guiding for public-to-public and stuff like that. I would say that we look at every opportunity, we look at what we feel is makes the most sense for us, but again the common theme will be strongly aligned to our strategy, which has three different elements to it.
+Matt, you want to add anything more to that?
+Matt Poirier
+Yes. And look from our perspective, anything we can do that aligns with the strategy that ultimately balances the time to achieve the returns that we're guiding to against the value that we're providing through an investment or through an acquisition. We're certainly very focused on balancing that.
+Appropriately from a VC perspective, we do have a venture activity that has been more active for the last two fiscal years. We'll talk more about that in the Analyst Day. But from an increase in the ecosystem engagement with data center partners, applications providers, I'm helping to build our Alveo ecosystem, increasing engagement with Xilinx's platform, that's all part of the focus.
+And then to Victor's point, whether that's a tuck-in acquisition. That's more technology and team focused versus a larger business acquisition. Those will absolutely be down along with the strategy of the company across our elements we've provided more contexts on.
+Victor Peng
+One thing maybe I'd like to point out is like, the DeePhi of course, that was a team that has deep expertise and innovative IP and machine learning, which is actually quite broad, right. It's just not data center, it's actually quite broad. The announcement of our intention to try and acquire Solarflare that's more related to specifically the networking opportunity that we've talked about in data center.
+But also within that, they have – as far as R&D goes, it's predominantly software and systems kind of expertise. I think that strongly in my opening remarks that we are also looking to see how we complement our expertise. I think we're well known being really leaders and doing very advanced silicon and a lot of software close to the metal so to speak. So I think the other trend you can kind of see is us going out and getting talent in IP that complements and brings us higher up the solution stack, if you will.
+Operator
+And our next question is from the line of Chris Danely from Citi.
+Christopher Danely
+Hey, thanks guys. Just a longer-term question on gross margin. So Vic, I think you said that 5G is going to be many times bigger than 4G and you guys are talking about the margins on wireless being below the corporate average. So how do we get margins back to that – gross margins back to that 70% level, or should we think of gross margins kind of hanging out in the upper 60's range for a few years?
+Victor Peng
+I mean, let me again answer that qualitatively. The other thing that we haven't yet said just to sort of bring your attention to is that, people that are shipping now on volume for this early phase of 5G, they're using very advanced technologies, right. This is our 16-nanometer very leading-edge technologies, certainly there many communications people that are looking at Versal already, even before silicon arrives.
+In the early part of when we have new products, right, if they're – they still have room in terms of cost reduction, in terms of yields and other things we do to optimize and reduce our cost to some extent the other fact about this being deployed sooner than we expected is, it's happening at a point in our kind of our cost road maps that are reasonable, but it has certainly has room for improvement. And so we're working very aggressively towards that, right. So that's one point, right.
+I think the other thing is, in general, we're trying to and we are adding more value by doing things like integrating high-performance analog technology monolithically. And we're doing other things to create value and therefore support higher margins through that perspective.
+And we talked about the mix enough, but what I would say is there's no one silver bullet, right. It's just basically working hard at a bunch of things, both on the cost side, on the value side, on just how we go to market and things like that. So that's what we're doing.
+Operator
+And our next question is from line of Srini Pajjuri from Macquarie.
+Srini Pajjuri
+Thank you. Victor, on 5G, I think you mentioned you're adding more value clearly and that's driving some of the growth. I'm just curious, I believe at least from what I can see you also picked up some share versus 4G. I'm wondering if you could put some numbers around what your market share was versus your primary competitor in 4G versus 5G. And then how sustainable do you think that is? And then for loans just a clarification, did you have any 10% customer in the March quarter? Thank you.
+Victor Peng
+So let me first talk to the first part. In general, I'd say, yes, absolutely. We think we have higher market share now. We think that's actually going to expand. It's still early days in 5G, but I think based on a number of factors. One is, the RFSoC, which we just expanded that offering there is still no competitor that had that kind of a device.
+Yes, people are talking about when they might have integrated in a package advanced analog or when they might tape out in the monolithic high performance logic together with ADCs and DACs. We've done it. We've been in the market for some time now. We've already announced our follow-on products, so that's just one example. Why we think that we will – we are adding more value. Therefore, we're going to get more content in share.
+The other thing I would point out compared to all the generations, all the generations what's being used is a pure FPGA. RFSoC has a fully integrated multi-core SoC, so there is a software element. So there is more stickiness to it. People are also re-architecting the entire radio architecture where people are looking at having machine learning and other things to sort of have adaptive being forming all kinds of other technologies, which nobody was thinking about the 4G generation, right.
+So the problem in 5G is much more challenging, and we are delivering to our customers more value to help them meet those challenges and we've got out to market sooner, so a lot of leadership on multiple dimensions.
+Lorenzo Flores
+Yes. And so with respect to the customer concentration question, our disclosure requirements at this time of the year are for 10% customer – greater than 10% customers for the year, and we didn't have any customers close to that. So we are – we do have, I guess, the top of the table, if you will, with several significant customers that it can ebb and flow in terms of who's specifically at the top of the table. But for our disclosure requirements for the year, we didn't have any 10% customers.
+Operator
+And our next question is from line of Vijay Rakesh from Mizuho.
+Vijay Rakesh
+Yes, hi guys. Victor, just a question on the radio side, I guess, when you go to 5G, there are multiple radios, do you see any change in the competitive landscape in terms of – do you see that getting replaced by ASICs, or you see that still being FPGAs for some time? And also on the gross margin side, as you guys go down to Gen 2, Gen 3 with millimeter wave capabilities and 7-nanometer, how do you think the gross margins trend on the radio is going forward? Thanks.
+Victor Peng
+Okay. Yes, so for the first part, I don't – again, I think our position on radio is strong and actually getting stronger. I don't really see the ASIC replacement. Again, there is no one even the big players from either the analog side or digital side that has integrated such high performance capability in that.
+And again, we have other aspects of the IP, not just ADCs and DACs, but some of things we do with the SoC as well as the fabric itself, and other areas we're adding value to the overall platform, if you will. So I don't think we have much risk there. We've been very open about the baseband side, and that's probably our greatest risk in terms of ASIC displacement.
+In terms of future generations, I think we are talking about this process node. We absolutely will support in the 7-nanometer generation. Versal is the name of a product family. We have six sub families that we refer to a series. So there is an RF Series with Versal 7-nanometer, but that's a ways out.
+And we will be supplying, delivering and driving revenue for a number of years for the 16-nanometer generation. When we are out there with the 7-nanometer since we do investment in that entire portfolio, we still get a good return.
+Again, against the fact that our architectures are scalable and also modular, and I said multiple times Versal is going to hit essentially over time every end market that we have. So it's a very – it's still a very leveraged investment, a very big investment, getting bigger with each advanced node. But it will be – it will provide a very good return.
+Operator
+And our next question is from the line of David Wong from Nomura.
+David Wong
+Thank you very much. Within Communications, can you give us some feel for what proportion of your revenues radio versus baseband?
+Victor Peng
+We don't usually give that, and quite frankly, I don't know the exact number. We have substantial revenue in both at the moment. Again, please attend the Analyst Day and we'll give you more color. But let's just say, it's - we have strengthened both right now. And again, I think over time, of course, probably radio will still be a larger proportion, but please you can repeat that question at our Investor Day.
+Operator
+And our next question is from the line of Christopher Rolland from Susquehanna.
+Christopher Rolland
+And just maybe following up on the last one, just as a recollection from the 4G ramp, you guys were traditionally more heavier or strong in radios and less in the BTS. But it seems like you guys are doing a lot better in baseband this time around. And just wondering why, what is it that you guys were doing this time around that's allowing you to take more share in that part of the base station? Thanks.
+Victor Peng
+Yes, so first of all, I want to reaffirm what you said that, yes, we traditionally have been stronger in radio than baseband. And if anything, we will be even stronger in the radio, and there are more radios. Now you're also right that we have greater strength right now in this early phase on the baseband, and why is that?
+That's kind of interesting, right. There's a few things. One is that we're not just the same old FPGA, technology and what we've implemented in UltraScale+ is really advanced, right. And there is very few people still that have the breadth and the scale of products. Our products are very flexible. Therefore, when standards are only frozen pretty soon and then people want to deploy. The carriers want to deploy. We can get you there, right.
+Our adaptability and flexibility enables you to go-to-market very rapidly even in a very changing dynamic market. So I think that highlights one of our key value propositions, which now with our capability being significantly more than in the 4G generation is coming to the floor.
+I'd say, the counter side to it, these ASICs are really hard. There are fewer companies that have either the financial justification for the assets required or even the technical capabilities to execute that well, particularly in a changing market. So ASICs need some degree of stability and spaces in order to get taped out, and the things are always changing, you just can't do it. That you have to sort of do with the super set of everything, which kind of defeats the whole purpose of doing an ASIC, so I think there's kind of a relative thing going on here.
+That all said, again, we've just been very candid that we don't see that the strength that we have in the near-term that necessarily going to completely persist. We will always maintain some position. But then 7-nanometer comes, because we've taken it up several levels in the architectural innovation and 7-nanometers, we hope to be able to capture more than the historical norm.
+Operator
+[Operator Instructions] And at this time, I'm showing that we have no further questions over the phone lines. Presenters, I turn the call back to you.
+Matt Poirier
+Well, thanks for joining us today. We'll have a playback of this call beginning at 5:00 p.m. Pacific, 8:00 p.m. Eastern Time. For a copy of our earnings release, please visit our Investor Relations website. Our next earnings release dated for the first quarter of fiscal year 2020 will be Wednesday, July 24 after the market close. We will be hosting our Analyst and Investor Day in New York City on May 14. We look forward to seeing you there. This completes our call. Thank you very much for your participation.
+Operator
+Ladies and gentlemen, this does conclude the call. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+5 Authors in the Last 90 Days

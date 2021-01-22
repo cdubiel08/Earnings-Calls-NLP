@@ -1,0 +1,282 @@
+Cadence Design Systems, Inc. (NASDAQ:CDNS) Q1 2020 Earnings Conference Call April 20, 2020  5:00 PM ET
+Company Participants
+Alan Lindstrom - Group Director of IR
+Lip-Bu Tan - CEO
+John Wall - SVP & CFP
+Conference Call Participants
+Rich Valera - Needham & Company
+Jay Vleeschhouwer - Griffin Securities
+Mitch Steves - RBC Capital Markets
+John Pitzer - Credit Suisse
+Gary Mobley - Wells Fargo Security
+Joe Vruwink - Baird
+Tom Diffely - D.A. Davidson
+Adam Gonzalez - Bank of America
+Jackson Ader - JPMorgan
+Ruben Roy - The Benchmark Company
+Jason Celino - KeyBanc Capital Markets
+Krish Sankar - Cowen & Company
+Operator
+Good afternoon. My name is Josh and I'll be your conference operator today. At this time, I would like to welcome everyone to the Cadence First Quarter 2020 Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the speaker's remarks, there will be a question-and-answer session.
+[Operator instructions] I'll now turn the call over to Alan Lindstrom Senior Group Director of Investor Relations for Cadence. Please go ahead.
+Alan Lindstrom
+Thank you, Josh and I would like to welcome everyone to our first quarter 2020 earnings conference call. I am joined today by Lip-Bu Tan, Chief Executive Officer and John Wall, Senior Vice President and Chief Financial Officer.
+The webcast of this call is available through our website cadence.com and will be archived through June 12, 2020. A copy of today's prepared remarks will also be available on our website at the conclusion of the call today.
+Please note that, the discussion today will contain forward-looking statements and that actual results may differ materially from those expectations. For information on the factors that could cause a difference in our results, please refer to our filings with the Securities and Exchange Commission. These include Cadence's most recent reports on Form 10-K and Form 10-Q, including the company's future filings and the cautionary comments regarding forward-looking statements in the earnings press release issued today.
+In addition to financial results prepared in accordance with Generally Accepted Accounting Principles or GAAP, we will also present certain non-GAAP financial measures today. Cadence management believes that in addition to using GAAP results in evaluating our business, it can also be useful to review results using certain non-GAAP financial measures. Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with their most direct comparable GAAP financial results. The reconciliations are available at the Investor Relations section of cadence.com.
+Copies of today's press release dated April 20, 2020 for the quarter ended March 28, 2020, related financial tables and the CFO commentary are also available on our website. I would also like you to note that we are adhering to social distancing practices and therefore are conducting today's earnings call from remote locations. Apologies in advance if there are glitches or handoffs take a little longer than usual.
+And I'll turn it over to Lip-Bu.
+Lip-Bu Tan
+Good afternoon, everyone and thank you for joining us today. I am pleased to report that in a difficult environment Cadance achieved excellent financial results for the first quarter of 2020.
+We are all going through truly unprecedented times and I hope that you and your families are safe and healthy. I will start by commenting on the rapidly evolving COVID-19 situation.
+Our first priority continues to be ensuring the safety and well-being of our employees, customers and communities. At this time the vast majority of our global employee base is working from home and that transition has gone very smoothly.
+From a business continuity perspective, our infrastructure, collaboration platforms and tight communication have enabled us to maintain a high level of productivity and our R&D innovation projects and customer deliverables continue to track well.
+Our sales and application engineering teams have also adapted well to this new work model and have continued engaging productively with customers on the business, training and support fronts.
+As I have stated earlier, there’s been a silicon renaissance in the industry, with strong design activity being driven by generational technology drivers such as 5G, AI, hyperscale computing and Industrial IoT.
+So far, even in the current environment, we do not see any slowdown in design activity, and I do believe this period to be an opportunity, especially for market-shaping customers to further invest in R&D and accelerate their innovation.
+Our business is predominantly tied to semiconductor R&D and in addition, our broadly diversified customer base, over $3.7 billion of backlog and highly ratable business model, all serve to highlight the resiliency of our business, particularly in challenging times.
+After carefully assessing the situation, at this time, we feel comfortable reaffirming our revenue guidance for the year. In a few moments John will provide more details and commentary on our Q1 results and guidance for Q2 and the year.
+Our Intelligent System Design strategy enables us to maximize these opportunities while tripling our TAM, through proliferation in our foundation Design Excellence segment, and expanding beyond EDA into System Innovation and Pervasive Intelligence.
+Now let us look at some of the Design Excellence highlights for the quarter, starting with Digital & Signoff. Our Cadence digital full flow, which has been proven through hundreds of advanced node tape-outs, was significantly enhanced to further optimize power, performance and area or PPA results across multiple application areas.
+The new full flow featuring our innovative iSpatial technology, which includes unified placement and physical optimization engines, plus machine learning capabilities, delivers up to 3X faster throughput and up to 20% improved PPA.
+The new full flow is being used by several leading customers and was endorsed by MediaTek and Samsung Electronics. Additional Digital & Signoff highlights for the quarter include a major Asian hyperscale company successfully used the Cadence digital full flow to tapeout a machine learning inferencing chip and is deploying the full flow at 7 and 5 nanometers.
+A marquee Asian electronics systems company completed its first production Cadence digital full flow tapeout on a 5 nanometer low-power process, beating its power targets and a market-shaping semiconductor automotive customer committed to Cadence as it's primary EDA vendor for digital design.
+Our Cadence Verification Suite wins in the market place because it delivers the best verification throughput, driven by its four “best in class” engines Xcelium, Jasper, Palladium, and Protium. In Q1 we had multiple Verification wins across various verticals including cloud/data center, automotive and networking.
+Our hardware family had a banner quarter, with Palladium Z1 adding four new customers and nine major expansions. Our Protium FPGA-based prototyping platform continued its strong momentum, adding six new customers and six repeat orders as the X1 is increasingly deployed in Palladium accounts.
+Protium X1’s strong momentum is a result of its unique differentiation in having a common front-end complier with the Palladium Z1, while also providing superior performance and capacity scalability for early software development and hardware regressions.
+Both the Z1 and X1 platforms showed particular strength at hyperscale systems companies, in addition to momentum at market shaping semiconductor customers.
+Our IP business delivered double digit revenue growth, as our compelling offerings continued to benefit from the ongoing IP outsourcing trend, with design wins and expansions at several top tier companies as well as at startups.
+Tensilica did particularly well and was adopted for multiple audio applications as well as by surveillance and mobile customers. In Design IP, there was strong demand for our DDR portfolio as well as our high-speed SerDes and PCIe IP, particularly in datacenter, AI and high-performance computing segments.
+Now I will highlight our progress in the System Innovation segment of our Intelligent System Design strategy. Earlier this year we completed the acquisitions of AWR and Integrand, and we have received very positive response to the acquisitions from many of our partners and potential new customers.
+The integration is progressing well on all fronts and we are combining these technologies with our Virtuoso and Allegro platforms which will enable us to offer a comprehensive platform for designing high frequency RF millimeter wave products. 
+Our System Analysis tools carried forward their strong momentum into the new year and we now have more than 30 customers, including Renesas, Rohm, and Enflame. In addition to providing significantly better performance and capacity without compromising accuracy, Clarity and Celsius also provide a tighter integration with our flagship Virtuoso and Allegro design platforms.
+With that I will now turn the call over to John to review the financial results and provide our updated outlook.
+John Wall
+Thank you, Lip-Bu, and good afternoon everyone. Let me begin with a few comments on the COVID-19 pandemic: Our first priority remains the health and safety of our employees, partners, and customers. And while some of our employees in China are already back working from our Cadence offices in the region, a vast majority of our global workforce are currently working in a remote environment.
+Our team continues to be very effective even though many are working from home. For this, we are very proud and very grateful. Even with the global disruption and uncertainty created by the COVID-19 pandemic, I am pleased to report we met, or exceeded, all of our key operating metrics in Q1.
+Now let’s review the key results for the first quarter, beginning with the P&L: Total revenue was $618 million, Non-GAAP operating margin was 32.2%, GAAP EPS was $0.44, and non-GAAP EPS was $0.60.
+Next, turning to the balance sheet and cash flow. In mid-March, we borrowed $350 million under our revolving credit facility as a precautionary measure to provide additional liquidity in light of the recent global economic uncertainty caused by the COVID-19 pandemic.
+As a result, at the end of the quarter, our cash balance totaled $946 million while the principal value of debt outstanding was $700 million, Operating cash flow for Q1 was $218 million, DSOs were 42 days, and during Q1, we repurchased $100 million of Cadence shares.
+Before I provide our guidance for Q2 and fiscal 2020, I’d like to take a moment to address some points that I think are important to understanding the assumptions embedded in our outlook.
+Our guidance continues to assume that the export limitations that exist today for certain customers remain in place for all of 2020. The shelter-in-place orders that are in effect today as a result of the COVID-19 pandemic create some logistical challenges related to fulfilling some hardware and IP product orders, for which we recognize up-front revenue upon completion of delivery.
+At the low end of our revenue range for Q2, we are assuming that the government-mandated or recommended shelter-in-place orders in effect today will remain in place for the remainder of the quarter, and any hardware or IP products that we cannot deliver before the end of our Q2 will be delivered in the second half of the year.
+On the other hand, if, starting sometime in May, we can get sufficient physical access to complete hardware and IP deliveries, we expect to be closer to the high end of our revenue range for Q2. Assuming we have sufficient physical access to complete hardware and IP deliveries by the end of Q3, we do not expect any negative impact to our full year guidance from the delivery delays we are assuming for Q2. 
+For Q2, our guidance is as follows, revenue in the range of $580 million to $600 million, Non-GAAP operating margin of 30%, GAAP EPS in the range of $0.28 to $0.32, non-GAAP EPS in the range of $0.50 to $0.54, and we expect to repurchase $75 million of Cadence shares.
+For fiscal 2020, our guidance is as follows; revenue in the range of $2.545 to $2.585 billion, non-GAAP operating margin of 32% to 33%, GAAP EPS in the range of $1.58 to $1.68, non-GAAP EPS in the range of $2.40 to $2.50.
+We expect operating cash flow to be in the range of $775 million to $825 million, and we expect to use approximately 50% of our free cash flow to repurchase Cadence shares in 2020. You will find guidance for additional items as well as further analysis in the CFO Commentary available on our website.
+In summary, I am pleased with the results we delivered in Q1, and I have been impressed by the resilience of our business model and the agility and capability, of our global team at Cadence to continue to operate so effectively in this environment. The world is facing unprecedented times, and we are all deeply sympathetic to anyone who has been impacted by the COVID-19 pandemic.
+We are clearly all in this together, so I would like to close by thanking our customers, partners, and our hardworking employees for all that they do. Please note that we are reviewing the social distancing practices and therefore are conducting today earnings call from remote locations. My apologies in advance if there are glitches or handoffs that take a little longer than usual.
+And with that, operator, we’ll now take questions. 
+Question-and-Answer Session
+Operator
+[Operator instructions] And your first question comes from Rich Valera from Needham & Company. Please go ahead.
+Rich Valera
+Thank you and congratulations to the Cadence team for delivering some very solid results in obviously challenging conditions. With that I just wanted to ask about your China revenue in the quarter which was actually up as a percentage of revenue year-over-year.
+Despite a very tough comp since last year, you didn’t have entity restrictions on Huawei or several other likely Chinese customers. So just wondering if you can talk about what drove the strength in China this quarter? Was it new customers, was it the ramp in demand for existing customers and if there is any color in terms of which products were in high demand there?
+Lip-Bu Tan
+Lip-Bu here. So let me start. Our business enabled design of future electronic products, China business remains quite good to us. Q1 was aided by both hardware and IP business which was mostly up on revenue and John can provide more color and detail here.
+John Wall
+Yeah, I would say this is an unusual. Our China revenue over the past nine quarters is fluctuated between a low of 8% back in Q2 2018 and a high of 13% both this quarter and in Q4 '18. Q1 revenue was higher due to do both hardware and IP business, which are mostly upfront for revenue.
+Rich Valera
+Great and then just question on the new system product ramp, I heard your new customer accounts sounds like that's up to 30 which is great. Just wondering if you can provide any anecdotal evidence of customer penetration i.e. customers that have ordered a single license have proved it out been able come back to order multiple license and if you’ve seen any customers sort of scaling up the way presumably you'd like to see.
+Lip-Bu Tan
+Yeah I think so far I think we're very pleased with our system analysis tool that carry momentum into Q1. As you’ve correctly point out we have more than 30 customers under Clarity and Celsius product line and clearly I think we're providing high-performance better results and then the scalability and then not compromising any accuracy.
+Rich Valera
+Great and just one quick one for you John, I noticed your non-GAAP stayed the same but your GAAP EPS actually went up. Any -- can you just quickly explain the delta there?
+John Wall
+Yeah just a slight difference in our assumptions for the M&A integration between what we had in the forecast for the start of the year and where we are now.
+Rich Valera
+Got it. Okay. Thanks very much gentlemen.
+Operator
+Your next question comes from Jay Vleeschhouwer with Griffin Securities. Please go ahead.
+Jay Vleeschhouwer
+Thank you. Couple questions, first on China and geographic mix generally, according to the 10-Q this evening your China revenues were record at about $84 million. You explained the reasons why it was so strong, but looking out over the next number of years and thinking about all the issues that surrounded China over the last year and where US government policy may go, how are you thinking about perhaps geographic risk mitigation again notwithstanding the very good results in China this quarter, how do you think about perhaps mitigating the dependency there by perhaps focusing on other parts of the world, Europe for instance had a very strong year in 2019 for EDA, so perhaps that would be a region to think about refocusing on as an example. So that's question number one. 
+Question number two, you highlighted the newer products, Clarity and Celsius, how would you compare your experiences thus far with those two products with the previous generation of [us and um] [ph] products, Tempus, Voltus, PeGasus, which we frankly haven’t heard a great deal about.
+Is your experience in terms of customer adoption meaningfully different or would you expect it to be different than the prior generation of signoff tools that you introduced?
+Lip-Bu Tan
+Yeah, so let me get started and then John can fill in more details. So first of all I think we were expected to do everything we can to support customer while complying with all the application law and regulation and we want to provide the best tool for our global customers that include China, Asia-Pacific, EMEA and US, but that is our philosophy, give them the best product and support them in their design. 
+And in term of the new products and clearly I think we are very pleased with the system analysis product, a tool that came out clearly show the differentiation and we're delighted in our order backlog that we have more and more customer coming with us.
+It is a big [end] [ph] market for us. These two products the TAM is about 700 million. So I think we'll aggressively pursue that and clearly we have a big advantage in terms of performance. In terms of the Voltus and PeGasus we continue to do well and then we'll continue to update you from time to time.
+PeGasus are most important with the foundries, [indiscernible] various process node is 35 and I think over the last few quarters we highlight our process node at different foundries have been the 35 and now we're starting to really driving some of the customer success and stay tuned in the coming quarters.
+John Wall
+And Jay I would add about that I think you can see from our results and from our guidance for the year that our business benefits from the diversification we see across products and platforms and geographies that as much as we encourage investors not to look at any one quarter, I mean China contributed 10% of our annual revenue in 2018 and 2019 and we're happy to get off to a strong start for 2020. But hardware and IP are lumpy for revenue and so you should never focus on any one single quarter.
+Jay Vleeschhouwer
+Okay. Just a quick detail question for you John. If I'm reading the Q correctly, it looks like you took some inventory reserve on hardware. If so could you comment on that.
+John Wall
+Jay, I presume you are referring to the section where we say we include inventory reserves in our hardware COGS, but we consistently do that. I don’t think there was any significant change in inventory reserves from quarter to quarter, but generally if we have a hardware system that's out being demoed or on loan, we'll take depreciation and amortization for that into our P&L and include it in COGS even though we haven't sold it.
+Operator
+Your next question comes from Mitch Steves with RBC Capital Markets. Please go ahead.
+Mitch Steves
+Hey guys. Thanks for taking my question. The first one is a little more for Lip-Bu, when I look at your comments on design activity it sounds like [indiscernible] picking up is that they are trying to actually accelerate the design activity. So can you maybe give us a little bit of a broad overview of what you're seeing in China and in datacenters and I guess in any sort of [indiscernible] market in terms of what design activities are looking like across the different end markets or how we're doing the verticals.
+Lip-Bu Tan
+So let me try to give you a little more color. As I mentioned earlier, we're going through this silicon renaissance in the industry. Clearly we see strong design activity driven by this generational technology driver either 5G [indiscernible] and then the AI machine learning [indiscernible] platform and the hyperscale in this environment actually they deploy even more they are all finally building up their own silicon team.
+And then the whole digital transformation of the industrial group, we see a lot of -- so I think clearly so far as we see today, we don’t see any slowdown in activity especially I call it the market shaping customer, they double down, triple down in their R&D and we're delighted to support them and that's kind of we see the opportunity in the design activity and in some way our business very much predominantly tied with the semiconductor R&D and that really benefit us and then we have been very focused on the market shaping customer and they have been really we are really excited to support them in all their various designs.
+Mitch Steves
+Got it and then second one is John just a little more in the financials, China is up pretty significantly. Is there any way to talk about that's just good to be sustainable or it's that just from hardware? What do you guys think about the China percentage of revenue? I think that was a little bit surprising, but maybe you can maybe give us a high-level of comment of what the full year should look like if it should be around they type of revenue percentage or not?
+John Wall
+Sure, it was large in the first quarter and it was mainly due to hardware and IP business, IP revenue business. At the start of the quarter I mean it's not surprised me in Q1 to the upside. At the start of the quarter, we thought that we were at lower royalty revenue in the region and we were a bit too conservative in Q1 think. So IP outperformed based on my expectations for Q1.
+And then in terms of China for the year, like I said it's ranged by quarter from a low of 8% in Q2 '18 to a high of 13% now this quarter and is well back in Q4 '18, but we're happy to get off to a strong start for 2020 and I'm thinking double-digits in terms of your continuing at least double digits with China contribution to our annual revenue is reasonable.
+Mitch Steves
+Okay. Perfect. Thank you. I mean you guys can do much better than that. So a great quarter.
+Operator
+Your next question comes from John Pitzer from John Pitzer from Credit Suisse. Please go ahead.
+John Pitzer
+Good afternoon, guys. Congratulations on this. John you did a good job with the June quarter revenue guide and kind of helping us understand the puts and takes round COVID to treating the low-end and the high end of the range, but I am just kind of curious was there any absolute impact to your revenue from COVID that you’ve also included because even at the high end you're coming in sort of below where the street was and then when you look at the full year number, would you have raised the full-year revenue outlook had it not been for COVID, i.e. are you building in some cushion on an absolute dollar basis there as well.
+John Wall
+Thanks for the question. It's a great question and thanks for the opportunity to clarify. I guess when I sit and look at Q2, I think it's fair to view our guidance for Q2 as being a little bit conservative and maybe more conservative than normal, but when I look at the impact of COVID '19 on our revenue, but like for hardware we don't have our usually fill of access to customer sites to deliver product and then it's hard to predict when we'll get that access, but if we deliver some hardware in the last week of June, it becomes Q2 revenue. If we deliver hardware for April is how our products slipped to the first weeks of July it's Q3 revenue.
+In both cases they're 2020 revenue. So I have more confidence in the year than I do for Q2 in terms of making those deliveries in time to Q2 revenue. When we said that you we're prioritizing the health and safety of our employees and our partners and our customers, we don’t want to try and drive for too early delivery and particularly if we don’t have physical access, we can't control if we don’t have physical access to our customer sites.
+On the IP side the physical access is to our own cadence sights because that's where our labs are for IP and IP revenue is generally determined by just how much IP we can deliver in the quarter from our labs. We're already a little bit behind because we haven’t had access to our labs and it's not like it's a demand issues. It's more of timing in terms of the delivery of revenue. but and then so like I said Q2 is I suppose the paradox of having a predictable revenue stream it's very predictable for the year, but it's just less predictable in terms of what we can get done in June versus July at the current moment.
+John Pitzer
+That's helpful and then maybe you can help me better understand a lot of the thought here are trying to figure out how the next several quarters might play out for the overall semi industry and for better or worse, we're kind of using the global financial crisis as a starting point, but there are some significant differences but when I look back and look at Cadence's performance through the global financial crisis, you are going through sort of an accounting change which I think heightened sort of the volatility through that.
+But you also saw a situation where things got bad enough for customers were cutting sort of R&D and I guess just given the magnitude of the economic impact of what we're expecting from COVID, why it shouldn't that be kind of a baseline assumption as we go into the back half of the year or are there enough sort of incremental drivers like hyperscale that really didn't exist back during the global financial crisis or China that didn't really exist that you think offsets that because right now at least how you're playing out the year is June is sort of a trough in revenue and it's a pretty shallow trough and I understand the business is just a lot more predictable than the global financial crisis, but what are the puts and takes that you see out there?
+John Wall
+Yeah so first of all I think clearly we're going through a unprecedented time and in term of economy and unemployment and this virus across all the different region and so I think first of all I think most important for us is to protect our employee and customer safety and well being and then saying that I think clearly the impact of the economy in the semiconductor is really ranged of product and different products. Clearly the hyperscale and under a videoconference related area and then ecommerce and area I think it's really benefit and some of the sector will be a little bit harder and especially in the consumer area and also in term of automotive related area will be more challenging.
+And so I think it's a lot across the Board, I mean they are some really exciting area and then clearly I think we are more tie in with the R&D budget and so I think good news is all the market shaping customer in various hyperscale play and in various high computing area we see the benefit of it and especially the infrastructure side and so I think that part we continue to benefit and we took on it and then clearly we can now look at quarter by quarter.
+Some quarter may be a little bit more in China. Some areas maybe geographically higher, but overall I think we are very strong and resiliency of our business especially the ratable model and also the backlog and our very diverse customer base that really put Cadence in the very well position to do that.
+John Pitzer
+And just as a follow-on, there was a couple earlier questions the trust upon the strength in China and it was up nicely albeit it seems to make sense relative to the ambitions that the Chinese semiconductor has but I am just been just curious given the height and rhetoric, around US China relations and the idea that the US might actually make foundries licenses to shift to certain customers, is there a risk that some of your Chinese customers are buying ahead and how would you handicap that risk or how would you help us think about that?
+Lip-Bu Tan
+Yeah it's a good question. Overall I would say that China our business remains quite good for us and then I would like John mentioned earlier, we assume that export restrictions will remain and we comply to that and in meanwhile we are doing everything we can to support the customer globally and then for their new innovating design and so I think all in all I think we have a careful examining of the situation.
+We felt that we can reaffirm the whole year because it's a ratable model and we have very $3.7 billion of backlog and so we can manage much better that way and then again by partnering with customers deeply and then with their trust upon with them and that is the best way to really drive the success together.
+John Wall
+And John this is John here. I would just like to add to that, that about 85% to 90% of our revenue is recurring in nature. So any additional or kind of any pull forward buying wouldn’t increase our revenue but the revenue is time based that would occur maybe on IP and hardware and there was no evidence of that in Q1.
+Operator
+Your next question comes from Gary Mobley with Wells Fargo Security. Please go ahead.
+Gary Mobley
+Hey guys, thanks for taking my question and the mix and then congratulations on the strong results as well. I wanted to start out asking a follow-up question to John's question about what's different this time versus '08 and '09 and just thinking about how you diversify your customer base to system OEMs if you see your backlog measures continue to grow about 15% year-over-year much faster than revenue growth. Is it new class of system orients who are taking control of their own IC designs deleting driver of that growth and as well are their average deal sizes versus materially different than what you would traditionally license to merchandise e-customers.
+Lip-Bu Tan
+Okay. Gary I think good question. So let me touch on the first and then John can give you more detail on the deal size and others and so I think overall we are excited about this generational technology drivers 5G is deploying and then the hyperscale and the infrastructure disability deploying and then the other part is also the high computing area for AI machine learning either the start up or mature company,, they are all diving in big time into the whole the whole semiconductor silicon or sort of the whole system level.
+So the packaging also we benefit from it and so all in all I think we see strong design activity doesn't slow down at all and then clearly it continues to fuel the backdrop because as likable business and so we would not be dependent on quarter to quarter so far than more will count very well for us.
+Gary Mobley
+I had a follow-up question.
+John Wall
+Gary just adding there but I think the biggest difference between where we are now and where we were back in way '08 '09, is that we've incredible visibility now into what our backlog. We got $3.7 billion worth of backlog. We're very, very diversified and we have a lot of visibility into the second half of 2020.
+Gary Mobley
+Okay. And in the last, the last time you gave fiscal year '20 guidance, I believe you mentioned that the extra week in this fiscal year and the two acquisitions we see closed down were adding in some of our 300 basis points to the 10% growth you were expecting. I presume that the week and extra week impact doesn't change but are you still looking for the same contribution from the acquisitions?
+John Wall
+So Gary it's about $40 million. The extra week is worth about $40 million of additional recording revenue to the year in 2020 and we're expecting about $20 million from the combination of AWR and Integrand, the two acquisitions we completed in early Q1. So yeah $60 million to the year. I'm not expecting any more or less than that for the year right now.
+Operator
+Your next question comes from Joe Vruwink from Baird. Please go ahead.
+Joe Vruwink
+Great. Hello everyone. Just in regards to some of the product discussion and the new product offerings, is it possible to say with things like full digital flow or maybe the case of adding simulation to allegro our virtuoso workflows, how much this is increasing average contract value with the customer versus may be a traditional measure of say wallet share with your customers?
+John Wall
+It's slightly difficult to bifurcate.
+Joe Vruwink
+Okay. So no sense other than like on simulation it's helpful to maybe to find that is a $700 million opportunity between clarity and Celsius but other than that, no sort of uplift guidance maybe you can provide.
+John Wall
+I think it's too early to tell right now, but certainly it's very welcome by our customers. Our customers are very happy with the products we provided but it's very difficult to bifurcate the value of one product versus others in an arrangement where there's multiple products being provided to customers.
+Lip-Bu Tan
+The only thing I'll add on to that is basically with this two acquisitions clearly give us a lot of more opportunity in term of more comprehensive solution to provide some of our key customer.
+Joe Vruwink
+Okay. Great. On your operating margin outlook for the year, I believe the second half is implied to be closer to the 34% level, is that really just a reflection of the revenue guidance and maybe the particular revenue mix that you anticipate for the back half of the year or are there may be some other OpEx items or costs that are more in your control that factor into this view as well?
+John Wall
+There's two real drivers there Joe. One is the M&A that we lost some of the revenue in the purchase accounting, so a lot of the deferred revenue purchase accounting impacts the first half of the year more than the second half of the year. So can skew some profitability towards the second half of the year on the acquisitions we brought in at the start of the year.
+And then I guess the other impact is because we're assuming some deliveries that would normally happen in Q2 fall over into Q3, but you can have a slightly more backend loaded margin profile for the year. I mean originally I was thinking it would probably work out something like 31.5 and 33.5 and now I know we're guiding to 31 and 34.
+Joe Vruwink
+Okay. Great, that's helpful. Thank you.
+Operator
+Your next question comes from Tom Diffely with D.A. Davidson. Please go ahead.
+Tom Diffely
+Yes. Good afternoon. So John you talked about how access to customers provides a little bit of conservatism in your second quarter outlook but I'm curious what are you seeing on the actual manufacturing front with emulation? Are you seeing supply-chain difficulties?
+John Wall
+No. Not right now. We have a strategic sourcing group that have been working closely with all our suppliers. We think we have ample inventory and we have good second source suppliers. The issue we have with revenue and predicting revenue for Q2 is really down to whether we can have physical access to customer sites to be able to deliver the physical product. That's where we've got some uncertainty and because of the uncertainty, I'm assuming some of that will naturally fall into the second half of the year.
+Tom Diffely
+That makes sense and then Lip-Bu I am curious through this crisis have you seen already your customers talking about acceleration to the cloud?
+Lip-Bu Tan
+So I think clearly we provide all multiple way and currently it's one of the areas that we focus on. We're delighted that we clearly extending our leadership in the call offering of providing customers with compelling productivity, flexibility and scalability benefits. And so we mentioned that we pass 100 customer mark and so I think we continue to make progress on that.
+Tom Diffely
+Okay. Is that bigger on the emulation side or on the design tool side?
+Lip-Bu Tan
+I think the cost of multiple different products will depend on the product offering we provided.
+Operator
+Your next question comes from Adam Gonzalez with Bank of America Securities. Please go ahead.
+Adam Gonzalez
+Just wanted to follow up on some of the comments that my peers made on your China sales and how strong are they growing. Can you talk about the ability of domestic substitutes in the region and how far behind China is in terms of being able to provide a complete, competitive full flow suite of products? Thanks.
+Lip-Bu Tan
+Yeah I think so far we and now we're monitoring closely. In China this couple of small point tool solution provider and not clearly from Synopsys and Cadence we about 25-30 years of stimulating and providing able to provide a full flow in the most advanced nodes, but clearly we don’t underestimate that because clearly they get a lot of government funding and so we tip a very close eye on that and only from their progress and also from their other recruitment point of view and make sure that our team is with us and we can continue driving behind the China, Beijing, Shanghai side.
+Adam Gonzalez
+Great. Any my follow-up is on the digital IC design sign off segment. I saw there's been a deceleration in year-over-year sales growth over the last three of four quarters. I don’t know if that's surrounding the percentage of sales that you gave, but is the acceleration is just a function of tougher comps or is it the timing of bookings, do you expect that the trends in that segment to turn around in the near-term thanks.
+John Wall
+So Adam one thing I would point out is certainly for Q1 and Q2 this year, we're lapping very tough comps because Q1 and Q2 last year were not impacted by the export limitations we currently have in China.
+Adam Gonzalez
+And if I can sneak in one last question. You talked about the Q2 outlook and how it really reflects just a few different scenarios and how long you have or you have access to customer facilities. If these work from home orders were to be put in place long enough people currently think, is there a chance that customers might switch their consumption of these hardware products more to a cloud based model?
+John Wall
+I think it's too early to tell. We were quite happy that we had a really solid bookings quarter in Q1 with particular strength in Japan and I think we had 15 new Cadence customers in Q1 including several larger customers but I think it's too early to tell right now but I don’t think that's as much we can say.
+Operator
+Your next question comes from Jackson Ader with JPMorgan. Please go ahead.
+Jackson Ader
+Thanks for taking my question. The first is I realized that the impact on revenue is just about logistically getting on site but what about the difficulties or maybe some execution challenges you’ve had on getting deals across the finish line maybe for software deals? I would expect or I think a lot of people would expect that there have been more moving pieces for larger deals just moving around internally as your customers that everybody working from home. So I am curious to hear whether you’ve seen any impacts on that side?
+John Wall
+So Jackson our ability to close business hasn't changed but we have very, very close contacts with our customers, very customer-driven company. We always stay close to our clients, and also I think we got a little bit lucky I mean toward the end of last year, Lip Bu and I talk with the management team and we looked at when there was a yield curve inversion back in August, we looked at the data for previous recessions and the data suggested that a recession often happens within 8 to 14 months following a yield curve inversion.
+So at the end of last year, we made our business to try and close as much strategic account business early in the year as possible and we managed to do.
+Jackson Ader
+Then the follow-up question on, is it possible that there can be maybe any trickle-down effects from the delayed either hardware or IP delivery? Would that change may be activity later in the year if people are able to get their tools in time?
+John Wall
+So basically the delivery I don’t think we had any problem with closing business. The challenge is being in executing and delivering the -- completing the delivery on the business. Demand continues to be strong and it's just really getting access to customers facility to be able to deliver hardware and in our case in the IP case, getting access to our own facility into the cadence labs to complete our IP deliveries that we've already contractually signed up to.
+Operator
+Your next question comes from Ruben Roy with Benchmark. Please go ahead.
+Ruben Roy
+Thanks for taking my questions. John you’ve had a lot of questions on China and I think I understand the near-term dynamics but I was wondering if you could refresh my memory on export restrictions. Obviously there has been some chatter in recent weeks around potentially tightening rules for some sorts of high-technology product shipments into not just current companies in China, but potentially to a broader swath of Chinese firms and I'm wondering if you can remind us what portions of your product lineup are subject to experts restrictions? Are the hardware and IP products some or all subject to those restrictions or if you've heard anything new on potentially tighter rules for your product specifically, thanks?
+John Wall
+Most of our products are US origin. So they're impacted by the export limitations. Our ability to deliver products and services to certain customers the entry list is limited. So therefore we would expect our revenue in China to be higher if we didn't have those extra limitations, but for the purposes of guidance, we just did our assumptions that we assume nothing will change right now like I say because most of our technology is US origin. We are impacted by those export limitations across the board.
+Ruben Roy
+Okay. Okay and then a quick follow-up John on sort of the assumptions, obviously the assumptions on how to think about Q2 guidance slowing the high-end on the potential of getting back to work. How are you thinking about your own operating expenses and margins? Obviously you kept your clear guidance static but do you have any embedded assumptions in sort of when you expect things to normalize or normalize coming up embedded in those assumptions for the year?
+John Wall
+Yeah sure. I that effectively we're continuing to hire although hiring had slowed because it's more difficult to complete the whole interview process and the onboarding process but we're continuing to hire and typically we hire after getting contractual commitments from customers, but the Lip Bu and I are very careful about adding investment dollars until we see the commitment from customers.
+So in our guidance there is impact of course with hardware if falls into the second half from the first half, the cost of goods sold associated with those -- with those hardware products will also fall into the second half. Originally, I was expecting like 31.5% margin in the first half of the year followed by 33.5% margin in the second half that's more skewed now towards 31 first half, 34 second half because of an unexpected shift of some hardware and IP revenue from Q2 into Q3 really.
+Operator
+Your next question comes from Jason Celino with KeyBanc. Please go ahead.
+Jason Celino
+Thanks for taking my questions. In terms of operations in China obviously those were impacted from kind of coronavirus first global workforce. What types of learnings were you able to apply to your other segments in North America and Europe once you saw those restrictions put in place?
+Lip-Bu Tan
+So one thing I learned is last quarter I thought there would've been a bigger impact to our royalty revenue and as it turned out it was as big as an impact I thought because in some cases some products do better and some products do worse and I think we benefit for diversification across our products and platforms.
+The other thing we learned is that there's a lead time I guess in terms of hardware orders that we were able to complete hardware orders in the latter part of the quarter in China because the hardware was already on site and being demoed by the customer.
+So we didn't have any additional physical delivery to complete the revenue cycle to be able to take revenue. Whereas if we haven't got the hardware on site for the customer, we have to wait for the customer sites to open. So that was the learning that we had and therefore the impact to our Q2 you see that in our Q2 guidance. We're expecting that some revenue we would normally be taking in Q2 we're expecting to fall into Q3 now.
+Jason Celino
+So from a progress standpoint customer engagement standpoint, is there anything else that mirrors or differs from what you saw in China customers versus North America or Europe?
+Lip-Bu Tan
+I don't think so. I think we're a company that operates like in the technology industry and we can never predict the computer but we always assume we are working in an industry where we always assume that's tomorrow will be very different from today and we so we operate very, very closely with our customers and that those client relationship allows us to be resilient, flexible and agile and very, very effective in times of change.
+I think we are also very diverse. We have people in 47 sites across 22 countries all very, very close to the customers. So we're able to navigate with change. We're able to move with change very easily. I don’t know I am delighted with how effective the teams have been.
+Operator
+Your last question comes from Krish Sankar with Cowen & Company. Please go ahead.
+Krish Sankar
+Yeah hi. Thanks for taking my question. I had a couple of them mainly for John. John thanks for all the colors on the on the China sales. I was just trying to figure out is it some of the outperformance versus IP in China. Within IP can you say was it more on the could datacenter, was it mobile, was it auto, any color would be helpful.
+John Wall
+It was certainly on the IP side, but I don't think we give any further color in terms of which part of IP, but IP was very strong in Q1 and we were delayed with that.
+Krish Sankar
+Got it and then obviously some of the emulation prototyping hardware is assembled and tested by the subcontractors, with specific geography that you subcons in right now?
+John Wall
+So most of our hardware is made in the US in the Americas, but yeah we have very close relationships with our suppliers with seconds source suppliers. We also have ample inventory. I don't think we have any supply-chain issues.
+Krish Sankar
+And then just a final question, I'm guessing it's not an issue but if you look across your whole customer spectrum, if you look at some of the smaller customers, do you worry about potential payment issues for them in the second half or so if the economy goes into recession?
+John Wall
+That's a very good point. In our guidance we're anticipating some natural credit deterioration and particularly in the longer tail of customers we've said many times in the past that our top 40 customers we generate 55% to 60% of our revenue from those customers and thankfully they're in a very strong position.
+Many of them we like a who's who have the strongest balance sheets in the world, but in the longer tail there naturally we would be concerned about some credit deterioration. So we built in some anticipation for natural credit deterioration in the long tail but now if there shelter and phase order remains in place for much longer than the end of Q2 and we don't improvement in the second half, that could impact the business of our customers and our customer's customers and I cause credit critically to deteriorate more than we're currently anticipating I haven't got that -- haven't anticipated a great depression or anything.
+But we have assumed that there may be some credit deterioration if this last through the end of June and that's all. We can't predict the future. I can only share with you what's in our assumptions.
+Krish Sankar
+But can you quantify that credit determination or…
+John Wall
+It's only slight like you say it's may be 5% to 10%'s slower payments because that could impact our revenue timing because you become more variable -- you have variable consideration. So we have a typical recurring revenue pool, but and if you assume everyone is credit worthy, that's very even every quarter. If there's any credit deterioration, that can cause a little bit of a delay because you have to wait until you collect cash to recognize revenue.
+Operator
+There are no further questions. I'll turn the call back to Lip Bu for closing remarks.
+Lip-Bu Tan
+Thank you all for joining us this afternoon. Our intelligence system design strategy is paying out very nicely as we benefit from new opportunities in design excellence, system innovation and pervasive intelligence and expanded total addressable market. In this time of uncertainty, I'm very impressed with all the dedication and commitment shown by our employees to continue innovating and delighting our customers.
+We're all in this together and I'm convinced that we will collectively come out of this unfortunate situation stronger as company, as a community. And lastly on behalf of all our employees and our Board of Directors, I want to give our heartfelt thanks with extremely brave and courageous healthcare workers and others on the front line and others on the frontline and they're tirelessly working to fight this pandemic. Have a wonderful day.
+Operator
+Thank you for participating in today's Cadence first quarter 2020 earnings conference call. This concludes the call and you can now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

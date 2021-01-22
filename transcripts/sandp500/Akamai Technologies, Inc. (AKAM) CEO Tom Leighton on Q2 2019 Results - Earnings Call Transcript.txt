@@ -1,0 +1,362 @@
+Akamai Technologies, Inc. (NASDAQ:AKAM) Q2 2019 Earnings Conference Call July 30, 2019  4:30 PM ET
+Company Participants
+Tom Barth - Head of Investor Relations
+Tom Leighton - Chief Executive Officer
+Ed McGowan - Chief Financial Officer.
+Conference Call Participants
+Brandon Nispel - KeyBanc Capital Markets
+Sterling Auty - JPMorgan
+Heather Bellini - Goldman Sachs
+Tim Horan - Oppenheimer
+Sanjit Singh - Morgan Stanley
+Colby Synesael - Cowen & Company
+Brad Zelnick - Credit Suisse
+James Fish - Piper Jaffray
+Mark Mahaney - RBC
+Jeff van Rhee - Craig-Hallum
+Alex Henderson - Needham & Company
+Michael Turits - Raymond James
+Lee Krawl - B. Riley FBR
+Charlie Erlikh - Baird.
+Rishi Jaluria - D.A. Davidson
+Ken Talanian - Evercore ISI
+Operator
+Good day, ladies and gentlemen, and welcome to the Q2 2019 Akamai Technologies Inc. Earnings Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session, and instructions will follow at that time. [Operator Instructions] As a reminder, this conference is being recorded.
+I would now like to introduce your host for today's conference, Tom Barth, Head of Investor Relations. You may begin.
+Tom Barth
+Great. Thank you, and good afternoon and thank you for joining Akamai's second quarter 2019 earnings conference call. Speaking today will be Tom Leighton, Akamai's Chief Executive Officer; and Ed McGowan, Akamai's Chief Financial Officer.
+Before we get started, please note that today's comments include forward-looking statements, including statements regarding revenue and earnings guidance. These forward-looking statements are subject to risk and uncertainties and involve a number of factors that could cause actual results to differ materially from those expressed or implied by such statements.
+Additional information concerning these factors is contained in Akamai's filings with the SEC, including our annual report on Form 10-K and quarterly reports on Form 10-Q. The forward-looking statements included in this call represent the company's view on July 30, 2019. Akamai disclaims any obligation to update these statements to reflect future events or circumstances.
+As a reminder, we will be referring to some non-GAAP financial metrics during today's call. A detailed reconciliation of GAAP and non-GAAP metrics can be found under the financial portion of the Investor Relations section of akamai.com.
+And with that, let me turn the call over to Tom.
+Tom Leighton
+Thanks Tom, and thank you all for joining us today. Akamai delivered excellent results in the second quarter coming in above expectations on both the top and bottom lines. Revenue was $705 million, up 6% over Q2 of last year and up 8% in constant currency. Q2 non-GAAP EPS was $1.07 per diluted share, up 29% year-over-year and up 32% in constant currency.
+As has been the case in recent quarters, these very strong results were driven by the rapid growth of our cloud security and international businesses strong traffic growth in our media business and our continued focus on operational excellence.
+Our adjusted EBITDA margin in Q2 was 42%, up three points over Q2 of last year. Non-GAAP operating margin was 29% also up three points over Q2 of last year. These results highlight the excellent progress that we've made towards our goal of achieving non-GAAP operating margins of 30% in 2020, while continuing to invest in innovation and new products to drive our future growth.
+Our security portfolio was again the fastest-growing part of our business in Q2, achieving revenue of $205 million, up 34% year-over-year at constant currency. And Bot Manager continued to be our fastest selling new product in recent memory, with hundreds of customers and a revenue run rate now over $100 million per year.
+Bot Manager is designed to defend websites and applications from bot attacks of all kinds, including credential abuse, account takeover and theft. It's been recognized as a market leader by top analyst firms such as Forrester and Frost & Sullivan and it's tightly integrated with another of our industry-leading security solutions Kona Site Defender.
+Kona Site Defender provides a Web Application Firewall or WAF service that is designed to protect websites and applications from downtime, defacement and corruption of content, insertion of malware and theft of data. Kona has been recognized as a market leader by numerous analyst firms, including Gartner, Forrester and IDC. And in its research report on critical capabilities for cloud WAF, Gartner rated Akamai as the best among all vendors at protecting critical business applications and mobile applications.
+Akamai's leadership in WAF services is important, because having a state-of-the-art and well-managed Web app firewall is vital for any major enterprise doing business on the Internet. Well over 1,000 customers are using Kona Site Defender today generating more than $300 million per year in revenue.
+In addition to Bot Manager and Kona, we also have a third market-leading security product that's generating more than $100 million in annual revenue and that's Prolexic. Prolexic provides protection from DDoS attacks to hundreds of customers, including many of the world's largest financial institutions. As a result, Akamai's been recognized as a market leader in DDoS mitigation by analyst firms such as Forrester and IDC.
+As you can see from the customer accounts that I just provided, there's plenty of room for more adoption of Kona, Prolexic, and Bot Manager by our installed base customers. These products are also driving a lot of our new customer acquisition. We're also very excited about the growth potential of our two newest security offers, Akamai Identity Cloud and Akamai Enterprise Defender.
+Akamai Identity Cloud, which was formerly known as Janrain Identity Cloud, provides a complete suite of consumer identity and login management services. It's been recognized as the overall leader in the consumer identity and access management space by KuppingerCole, Europe's leading research firm in this area. Identity management was a key theme at our recent Edge World Customer Conference, where we were joined by a senior executive from Sanofi to explain why they selected Akamai Identity Cloud to manage identities across their global business.
+Sanofi is one of the world's largest pharmaceutical companies with operations in 170 countries and they chose Akamai Identity Cloud over the competition and in part because of its superior performance, enhanced security and ease of use. Akamai Enterprise Defender, which we formally launched at Edge World in June, is designed to provide a robust zero trust solution to protect enterprise applications from unauthorized access and data breaches. It's comprised of our Enterprise Application Access, Enterprise Threat Protector and Kona Site Defender products.
+These products become even more essential as major enterprises move their data into the cloud, where it can be more challenging to ensure that proper access controls are in place. It's still early days for zero trust but already Akamai's enterprise security solutions are drawing attention in the marketplace. For example, Forrester cited Akamai as a powerhouse of capability in its report on zero trust providers.
+Gartner cited Akamai in its market guide for zero trust network access, recommending that enterprises phase out legacy VPN access for high-risk use cases and begin phasing in zero trust access. And we're continuing to see significant customer wins at major enterprises like SKF. SKF is the world's largest manufacturer of bearings with 44,000 employees worldwide and they're now replacing their traditional VPN with our Enterprise Application Access solution.
+In addition to having great products, Akamai's security portfolio is supported by great people in our services and support organization. We've heard of many instances where a misconfigured or outdated product has been the route to a data breach and this is an area where our hundreds of security experts can help. Akamai's substantial security expertise can make the difference between operating safely and suffering a devastating breach, especially as enterprises make greater use of public cloud infrastructure.
+Akamai has six security operation centers around the world where vulnerabilities and attacks are detected and mitigated by our security experts before they can cause harm. Well over 1000 customers, including many large financial institutions, retailers and media companies, now use our managed security services and this generates another $100 million plus in annual revenue for Akamai.
+Overall, we're very pleased with the success that we're having with our security portfolio and we believe that the best is yet to come. Our customers are now telling us that they see Akamai as more than just the world's largest CDN. Many view us as an Internet security partner and strategic adviser, whose cybersecurity capabilities work hand-in-hand with our delivery offerings. As a sign of this important evolution in our business, security accounted for 29% of our revenue in Q2, up from 23% a year ago. And we believe that we're on track to achieve a $1 billion run rate for our security solutions in the next year.
+As measured by security revenue, Akamai is now one of the world's largest public cybersecurity companies and arguably the largest when it comes to providing cloud security services. Changing topics, I'd now like to say a few words about our Media business, which also performed well in the second quarter. We continue to grow traffic faster in Q2 than published growth rates for the Internet as a whole, which means that we continue to gain share. Online viewing of live sports in particular has grown dramatically this year.
+On July 9, the ICC's Cricket World Cup semifinal between India and New Zealand attracted over 25 million concurrent viewers to the Akamai platform. That's 36% more than our previous record set in May and it's triple the peak that we reached in May of last year. The growth in video traffic and the enormous scale provided by Akamai's unique Edge platform were major topics of interest at our customer conference.
+There was also substantial interest in how our Edge platform will provide even greater benefit to our customers as 5G becomes widespread. That's because 5G is expected to connect hundreds of millions of people and many billions of devices to the Internet. And once 5G is deployed at scale, it should vastly improve the bandwidth and latency in the last mile.
+But to take advantage of this capability and to not be overwhelmed by the resulting increase in traffic, you need servers close to the last mile at the Edge of the Internet and this is where Akamai really is unique with 4,000 points of presence in more than 1,000 cities across 140 countries. It's taken a while, but the industry has now come to recognize that having infrastructure at the Edge is critical for scale, performance and security.
+Of course now that leading analysts are talking about the importance of the Edge, several of our competitors are suddenly claiming to have Edge networks and Edge services too. But they aren't at the Edge at all. They're located in tangent data centers in the core of the Internet just as they've always been.
+Looking back at Q2, we're very pleased with our results and the strong momentum that we've established in the first half of the year. It's very good to see the impressive revenue growth for our security products, the high traffic growth in our CDN business, our strong growth and opportunity in international markets and our continued robust operating margins. We're especially pleased that our non-GAAP EPS grew more than 30% in constant currency for the fifth consecutive quarter even while we continue to invest in innovation and new products to drive our future growth.
+In Q2, we also welcomed Madhu Ranganathan to our Board. Madhu has extensive financial experience at global software, networking and services companies and we're very pleased to have her join our Board's Audit and Finance Committees.
+Now we'll turn the call over to Ed to review our Q2 results and guidance for the remainder of the year. Ed?
+Ed McGowan
+Thank you, Tom. As Tom outlined Akamai delivered another excellent quarter in Q2. We were very pleased to exceed the high end of our guidance range on revenue, operating margin and earnings and we remain confident in our ability to achieve our goal of 30% non-GAAP operating margins in 2020.
+Q2 revenue was $705 million up 6% year-over-year or 8% in constant currency driven by strong security growth and higher-than-expected OTT video traffic. Revenue from our Web division was $380 million up 8% year-over-year or 10% in constant currency.
+Revenue growth for this group of customers continued to be driven by our strong security business where we saw strong performance across multiple security offerings including Bot Manager, Kona Site Defender and Prolexic. In addition, we continue to see a very solid year-over-year growth in both the Asia Pacific region and in EMEA.
+Revenue from our Media and Carrier Division was $325 million up 4% year-over-year or 6% in constant currency. The better-than-expected growth in Q2 came from continued very strong momentum in security and higher-than-expected OTT video traffic as we gain share in a few key customers during the quarter.
+Revenue from the Internet Platform Customers, which is included in our Media and Carrier Division was $46 million up 5% from the prior year. Q2 revenue from this group of customers was slightly ahead of our projections due to higher-than-expected download in video traffic.
+Turning now to our total company security products revenue. Security revenue for the second quarter was $205 million up 32% year-over-year or 34% in constant currency. We are very pleased to see that our significant investments in security are paying off.
+Moving on to revenue by geography. Sales in our international markets continue to be strong and represented 41% of total revenue in Q2 up 3 points from Q2 2018 and consistent with Q1 levels.
+International revenue was $288 million in the second quarter up 15% year-over-year or 20% in constant currency. We again saw strong growth in our Asia-Pacific region and continued steady results in our EMEA region. As Tom mentioned earlier, we have seen significant traction with our investments overseas and we plan to continue to invest internationally in order to take advantage of our unmatched global scale, reach and product portfolio.
+Foreign exchange fluctuations had a negative impact on revenue of $2 million on a sequential basis and $11 million on a year-over-year basis. Finally, revenue from our U.S. market was $417 million up 1% year-over-year which is a two point improvement from year-over-year growth in the first quarter.
+Moving on to costs. Cash gross margin was 77% down 1 point from Q1 levels and consistent with the same period last year. GAAP gross margin, which includes both depreciation and stock-based compensation was 66% consistent with Q1 levels. 
+Non-GAAP cash operating expenses were $254 million, up $1 million from Q1 levels and slightly below our guidance due to continued focus on operational efficiencies and some early returns from our enhanced procurement function we introduced earlier this year.
+Now moving on to profitability, adjusted EBITDA was $293 million, down $6 million from Q1 level, but up $31 million or 12% from the same period in 2018. Our adjusted EBITDA margin was 42% consistent with Q1, up 3 points from Q2 2018 and above the high end of our guidance range.
+Non-GAAP operating income was $204 million, down $5 million from Q1 levels, but up $34 million or 20% from the same period last year. Non-GAAP operating margin came in at 29%, down 1 point from Q1 levels, up 3 points from Q2 last year, and above our high -- above our guidance range.
+Capital expenditures in Q2, excluding equity compensation and capitalized interest expense were $153 million. This was slightly below our guidance range due to some spend related to our new headquarters that shifted into Q3.
+Moving on to earnings, GAAP net income for the second quarter was $114 million or $0.69 of earnings per diluted share. Non-GAAP net income was $176 million or $1.07 of earnings per diluted share, up 29% year-over-year or up 32% in constant currency and $0.05 above the high end of our guidance range.
+Taxes included in our non-GAAP earnings were $34 million based on a Q2 effective tax rate of 16%. This effective tax rate is 1 point lower than our guidance due to a higher percentage of foreign earnings.
+Now, I will discuss some balance sheet items. We continue to have a very strong balance sheet. As of June 30, our cash, cash equivalents and marketable securities, totaled $1.3 billion, up $109 million from the end of Q1, an increase driven by strong free cash flow of $185 million or 26% of revenue. Our total debt at the end of Q2 was $1.2 billion, reflecting the senior convertible notes that will be due in May of 2025.
+Now I will review our use of capital. We continue to focus on the importance of returning capital to shareholders. During the second quarter, we spent $81 million on share repurchases buying back approximately 1.1 million shares. Our aim remains to fully offset our equity compensation dilution during 2019. We have approximately $1 million remaining on our previously announced share repurchase authorization.
+We intend to continue return a large percentage of free cash flow through share repurchases, balanced against preserving our flexibility for strategic opportunities. We believe our disciplined and balanced capital allocation approach will allow us to continue to drive shareholder value through investing organically in the business, pursuing M&A and continued share repurchases. In summary, we are very pleased with our Q2 and first half results, and we remain confident in our ability to execute on our plans for the long-term.
+I'd now like to provide Q3 guidance and update our previous 2019 guidance. Looking ahead to the third quarter, we are projecting another solid quarter on both the top and bottom lines. As a reminder, in Q3, we faced the normal summer month traffic seasonality, especially in our Media business.
+And we expect further FX headwinds. At current spot rates, foreign exchange fluctuations are expected to have a negative impact of approximately $4 million to $5 million compared to Q3 of 2018, and a negative impact of approximately $1 million sequentially.
+Therefore, we are estimating Q3 revenues to be in the range of $692 million to $706 million, up 4% to 6% in constant currency over Q3 2018. It is worth noting that we renewed two of our Internet Platform Customers at the end of Q2.
+We expect our Internet platform accounts to decline in Q3 by approximately $4 million, which we have factored into our guidance. At these revenue levels, we expect cash gross margins of 77% to 78%.
+Q3 non-GAAP operating expenses are projected to be $257 million to $261 million. This uptick from second quarter spend levels is driven by the expiration of the Limelight patent royalty payments, higher expenses related to our new headquarters facility and our annual employees' salary merit increase, which takes place at the beginning of Q3.
+Factoring in the cash gross margin and operating expense expectation, I just provided, we anticipate Q3 EBITDA margins in the range of 40% to 41%.
+Moving now to depreciation, we expect non-GAAP depreciation expense to be between $89 million to $91 million. Factoring in this guidance, we expect non-GAAP operating margin of approximately 27% to 28% for Q3.
+Moving on to CapEx. We expect to spend approximately $170 million to $178 million excluding equity compensation in the third quarter. This includes approximately $31 million related to the continued build-out of our new headquarters as well as a more significant network investment in anticipation of increased OTT traffic in 2020.
+And with the overall revenue and spend configuration I just outlined, we expect Q3 non-GAAP EPS in the range of $0.98 to $1.02 or up 6% to 11% in constant currency. This EPS guidance assumes taxes of $32 million to $36 million based on an estimated quarterly non-GAAP tax rate of approximately 17%. It also reflects a fully diluted share count of 165 million shares.
+Looking ahead to the full-year, we are increasing both our revenue and EPS guidance. On the revenue side, we are increasing our range to $2.84 billion to $2.87 billion, which is an increase of approximately $15 million at the midpoint of the range compared to our previous guidance.
+As a reminder, Q4 tends to have the widest range of outcomes given the large role that holiday seasonality plays with both online retail activity for our e-commerce customers and traffic for our large media customers. For the full-year, we anticipate adjusted EBITDA margins of 41% to 42%. We expect 2019 non-GAAP operating margins of approximately 28% to 29%.
+Moving on to CapEx. Full-year, CapEx is expected to be 20% to 21% of revenue. And included in our CapEx spend is roughly $100 million of onetime costs related to the buildout of our new headquarters. Excluding this spend we project the full year CapEx to be at the high end of our long-term model of 16% to 17% due to increased network build-out in anticipation of more significant OTT traffic in 2020.
+Moving on to EPS. We are increasing our non-GAAP earnings per diluted share range to $4.23 to $4.30 for the full year 2019 which is up $0.14 at the midpoint compared to our previous guidance. Our guidance assumes a non-GAAP effective tax rate of 16% to 17% and a fully diluted share count of approximately 165 million shares.
+In summary, we are pleased with our performance of the business in the first half of 2019 as well as our ability to again increase our guidance for the full year.
+Thank you. And Tom and I would be happy to take your questions. Operator?
+Question-and-Answer Session
+Operator
+[Operator Instructions] And our first question is from Brandon Nispel from KeyBanc Capital Markets. Your line is now open. Pardon me, Brandon, please check your mute button.
+Brandon Nispel
+Sorry. Yeah, it was on mute. Can you guys update your guidance in terms of the CDN revenue growth and the Cloud Security revenue growth for this year? Then maybe if you could also just break down what the enterprise security is with the new business that would be great? Thanks.
+Ed McGowan
+Yes, so this is Ed. I'll take that. So for the cloud security business, we had previously guided the mid-20% range. We now take that up to mid to high 20% range. And the CDN will still be flattish for the year. So in enterprise security, so we don't break out enterprise security as of now. That's still a pretty small percentage of our total security revenue. As it gets more material we'll break that out.
+Brandon Nispel
+And then I guess a second follow-up. Has -- you announced some new agreements with two of your IPC customers. Can you just help us understand maybe the change in those agreements? And then any update on your thoughts in terms of the new streaming services that are coming in 2020? Thanks.
+Tom Leighton
+Sure. So with the giants, the Internet platform customers I talked about having two customers that renew. This is pretty standard. It's really just a contract that comes up for renewal. We're just negotiating pricing. I talk about how we expect to see those customers decline in Q3, but I do expect that group of customers to grow from Q3 levels into Q2. We will pick up a little bit more share with one of them and we expect to see pretty strong seasonality in Q4 with the rest of them.
+But again, that's pretty normal. So as you think about that group that's customers the contracts come up for renewal we'll have the price down generally we get more traffic. But again, we'll be down $4 million roughly in Q3 and then up again in Q4. And in terms of the new streaming services, so I guess the best way to talk about this one is we talked earlier about how we had a number of customers that we're renewing in Q2, Q1 and Q2 that were large consolidations of the marketplace some of whom have announced new streaming offerings.
+The good news is that's now behind us. So we've renewed all of those customers. And we talked a bit about updating our CapEx to build out anticipation for what we expect to be some increase in demand.
+It's really hard to predict exactly how successful these launches will be. We'll have to wait and see. Tom and I talked about, being cautious here. And making sure that, we build out and advance.
+So to the extent there is volume, we're there to take as much volume as we can. And to the extent that it doesn't pan out our core traffic is growing so we can just grow into that additional CapEx.
+So I think we're really well prepared for it. We'll give you an update certainly on our Q4 call, as we start to see some of this traffic come online in Q4. And we'll get a better sense of what the next year looks like.
+Brandon Nispel
+Great, thanks Ed.
+Operator
+Thank you. Our next question is from Sterling Auty from JPMorgan. Your line is now open.
+Sterling Auty
+Yeah, thanks. Hi guys. Wanted to see if you can give us an update on, what's the early progress and traction with Janrain or now the Akamai Identity Solution?
+Tom Leighton
+Doing well and grew the quarter. It's still early days. We're integrating it with our Bot Manager Solution, to provide a more comprehensive capability. And understanding really who is logging in, making sure it's the person we expect.
+Managing the user's data, in a secure way, so it can't be stolen, but I would say, early days, and looking positive.
+Sterling Auty
+And then, one follow-up on the media side, I think there is a comment about gaining share in some key customers. Is there some additional color that you can give us on that front?
+Ed McGowan
+Yeah. Sure Sterling. Yeah during the quarter we actually and with some of our U.S. customers were able to pick up additional share. In the Media space, the share shifts based on number of factors.
+One of which is better performance. And the Media team's done a great job of really focusing with some of those large customers, on improving performance specifically for the use type that they have, whether it be live video, or video that's on various devices, so that we can pick up some additional share. So we were pretty happy to see that, that part of what put us over the range for the quarter.
+Sterling Auty
+All right, great. Thank you.
+Operator
+Thank you. Our next question is from Heather Bellini from Goldman Sachs. Your line is now open.
+Heather Bellini
+Great, thank you so much for taking my question. I had 2 if I may. First one was going to be, you obviously mentioned the growth with the Internet Platform Customers on that CDN side.
+I'm just wondering if you could talk a little bit about, the trends in the business ex-the big 5. With that segment being down, I think it was 2% year-over-year this quarter and down 2% last quarter.
+Is there anything you can give us color on, about how we should expect the balance of that business ex the big 5 to trend? And then, just had a follow-up on, the Janrain, question. Was wondering who you're typically seeing in competitive RFPs with them?
+And if there's any update on, revenue contribution if it did better than your expectations for the quarter. Thank you.
+Ed McGowan
+Yeah. Heather, I'll take the first one here on the business excluding the giants. So yes you're correct it was down, 1% or 2% this quarter. And that was as expected. We had talked about earlier, how we have some major customers on the media side that were we were renewing in Q1 and Q2.
+So that has is as expected. And given they were kind of getting into a seasonally, low quarter expect that to be flattish. You probably increase 1% or 2% in Q4 with our strong seasonality.
+But I think another way to look at it is, what is a catalyst that can potentially drive that business higher and I think as we look at 2020, you've got a number of factors whether it's the an even year where you have more traffic associated with things like the Olympics, the presidential Olympic -- the presidential election excuse me.
+And you also have a number of OTT offerings. So in that business where it's primarily driven by traffic, traffic growth offsets, your pricing is decline that's essentially the math there.
+So, when a year where you see accelerating traffic, that's when you start to get into a bit of acceleration in growth. So that's what we'll be looking for.
+Tom Leighton
+Yeah. And in terms of Janrain, the large majority of our prospects were competing with a homegrown solution, or do-it-yourself. And the challenge they're seeing is they grow their business of scaling the homegrown solution, getting performance out of it. It can be hard to use and security is a big deal.
+And you're dealing with very personal user data. And so security is really important there. When we do see a competitor come into the account typically it would be Gigya, we'd see and occasionally Okta.
+Okta really works more on the enterprise side of the house. But they do have some capability on the consumer side. And I would say, most often it's a do-it-yourself solution that the customer has. And the revenue question, yeah our revenue there is in line with expectations.
+Heather Bellini
+Great, thank you so much.
+Operator
+Thank you. Our next question is from Tim Horan for Oppenheimer. Your line is now open.
+Tim Horan
+Thanks guys. Tom any more color on edge-based compute? Do customers understand how unique your infrastructure is? And are they starting to utilize it or maybe what applications or just any other color? When it might really start to take off? Thanks.
+Tom Leighton
+Yeah. We've been supporting edge compute in various forms for almost 20 years. At our Edge World Customer Conference we talked a lot about our new Edge worker solution which gives them even greater capabilities over and above Edge side and includes in cloudlets.
+And we also demonstrated -- our new IoT Edge Connect solution which has message broker support -- MQTT support and also compute at the Edge in the IoT model. So there's a lot of interest in that. I think the interest will increase more especially as you see more IoT applications out there. There was a lot of buzz among our customers as talking about the IoT applications they're working on.
+Clothing companies or sneaker companies talking about putting sensors in your shoes or clothes. Our airline customers are sensing when you get to the airport so they can update you automatically on your flight. Merchandisers tagging items for sale so they can keep track of it and have automated checkout. So -- and I think 5G is going to help enable a lot of these applications that people are talking about now.
+And that -- Edge compute is a big part of that because you have to do a processing of data sometimes at a massive scale, latency can make a big difference especially with gaming consoles or automobiles when those are the devices that are on the Internet of things. And I do think people are really starting to realize just how important our Edge platform is. And not just for delivering content, but doing compute and certainly for security.
+Tim Horan
+Thank you. 
+Operator
+Thank you. Our next question is from Keith Weiss from Morgan Stanley. Your line is now open.
+Sanjit Singh
+Thank you. This is Sanjit Singh for Keith. And congrats on the great security results this quarter. I actually had a question on the OTT business. I was wondering if you give us a sense of how your typical OTT deal is structured in terms of are those typically single source, dual source or triple sourced. And then in terms of thinking about how is revenue contracted if that going to be a pure function of subscribers or are there sort of minimum contracts associated with some of these streaming services that are being launched in the coming months?
+Ed McGowan
+Sure. So I'll take that one, Tom. There really is no typical deal they're all pretty unique. Most customers in the large OTT space do use multiple source whether they do it themselves or have multiple CDNs. Your typical contract if there is such a thing it really depends. I mean, typically we'll sign-up for anywhere from one year to two years contract length volume based pricing based on the traffic that comes over the network when it comes into delivery. All of our other services whether its security, professional services et cetera are priced in a different manner.
+And in terms of the, I guess, the volume commitment that can vary as well. And that also is a factor in terms of the unit pricing. In this world, we're trying to get as much share as you possibly can given the fact that we've got the most amount of capacity and we've got capacity in all the right places around the world. We typically do pretty well in a multi-CDN environment in terms of getting share. That's basically the way those OTT contracts work.
+Sanjit Singh
+Understood. Then maybe a follow-up question maybe on the topic of taking share. I think for a number of years now what we're used to is when big contracts come up for renewal that gives an opportunity for Akamai to take share. But that results in a little bit of a revenue headwind. I mean in the near-term are there any initiatives, I think, you guys described this a little bit at the investor meeting a couple of months ago, the initiatives to sort of smooth that cadence out. I think you have zero coverage out there, but what are the things that could be done to maybe create less of a revenue headwind when some of these contracts can't get repriced? And anything that can be done on that side of the house?
+Ed McGowan
+Yes, great question. So I think one of the things that we've seen and the Media team has done a great job here of selling security. It was a vertical where we didn't have a lot of security penetration. And we've seen enormous growth in our security business across many sell verticals within the media space whether it's your OTT video space, your publishers, your gaming customers et cetera. 
+So what does that fills in some of the hole in terms of the revenue decline. Because obviously, you'd take a price decline and then traffic will ramp over time. Generally, as I talked in the earlier question around commitments sometimes getting larger commitments to get guaranteed share is a way to also offset some of the revenue declines.
+Sanjit Singh
+Got it. Appreciate it. Thank you very much.
+Operator
+Thank you. Our next question is from Colby Synesael from Cowen & Company. Your line is now open.
+Colby Synesael
+Great. Thank you. Just looking at the difference in growth rates across the different geographies. Obviously, the U.S. has been much slower for some time now relative to various international geographies. Is the slower growth in the U.S. really just a function of the maturity of the business model in this market, or is it really a reflection of just a greater level of competition that you're seeing? And I'm speaking ex the big 6.
+And then secondly as it relates to the big 6, I had in my notes that you were expecting one price renewal in the second quarter. I could have had that wrong. And I think you said that there were two. Just what that is that the backdrop, are there any other large big six price renewals that you are anticipating for the remainder of this year? Thank you.
+Ed McGowan
+Why don't we take the last question first, so in terms of the price renewals, we had talked about -- we actually didn't call out the big six price renewals. And the reason we didn't do that was given the fact that there's only six customers, so we don't want to single that out. What we had talked about was, there were a number of consolidations, we talked about the beginning of the year that were up for renewal in Q1 and Q2 so there was one remaining in Q2 and that is now done. So we're done with that. As far as the question on the big 6, what I would say is, any activity that we anticipate in the big six has been factored into our guidance. I don't want to get into specifics of additional timing around revenue but I did talk about declining revenue this quarter related to the renewals we did in Q2 and then in Q4 we expect to grow.
+In the U.S., the question around U.S. growth, just couple of things to keep in mind with the U.S. growth rate. This is the area within the Web business where we have the most pressure from a macroeconomic standpoint with our U.S. commerce retail vertical, which is a pretty significant vertical for us so that's put some pressure on the U.S. growth. This is also where those renewals I talk about in Media sit as well where you've got some price pressure we have to go through here in the first half of the year. So that's also put some pressure on our growth rate as well.
+And I just if you look at some compares last year in Q1, we had the Olympics in Q1 of last year, which did not repeat this year as we saw some softness in Q1. And then also we had a very strong Nominum quarter in Q1 of last year which didn't repeat in Q1 this year and has been tread in line with what we expected here in Q2. So those are some of the factors that you have to take into consideration. Now I know you said you excluded the giants, but the giants are in the U.S. So anytime we see some pressure there, you'll see our total company U.S. growth rate decline a bit.
+Colby Synesael
+Great. Thank you very much, Ed.
+Operator
+Thank you. Our next question is from Brad Zelnick from Credit Suisse. Your line is now open.
+Brad Zelnick
+Excellent. Thank you so much for taking the questions. I've got two. First, what's giving you the incremental confidence from three months ago to tick up your CapEx into the back half of the year ahead of the OTT traffic you're expecting next year? And while I don't expect you'll provide guidance for next year, how would you frame the opportunity you're playing for in CDN? Perhaps your view of what the dollar market growth opportunity looks like?
+Ed McGowan
+Yes, hey Brad. Yes, I don't want to provide specific guidance. The only reason I don't want to do that is just that it's somewhat out of our control the user adoption. Obviously, very, very powerful brands, which gives us confidence to say that we believe that there'll be some significant traffic to gain. We have good relationships with all the players that are announcing OTT offerings. We can't control the timing, we can't control the user adoption. So it's hard for us to sit here and say that there's a big number because it becomes somewhat binary. If I call out a big number in traffic for next year for one or two of those and it doesn't show up it's hard to make it out.
+So we'll update you in Q4 and much better view of guidance on revenue. On the CapEx side, it's a more simple calculation for us. As we look at planning out for our network build we've got a core business is growing fairly nicely from a traffic perspective. And strategically we want to be positioned to be able to take as much traffic as possible. If these services do take off and are widely successful, we are in a much better position because we have the largest network. We have the most capacity. We have capacity in the right locations. So strategically it makes sense for us to do that.
+As I mentioned, if we're wrong and the traffic doesn't really materialize, we can grow into it and take our CapEx down for next year so. Now as we talked about it as a team we thought it was the right bet to make to position us for that growth. And again, I just don't want to speculate right now until we start to see some of that traffic exactly how big that will be.
+Brad Zelnick
+That's fair and I appreciate the color. And Ed it's good to hear today's commentary recommitting to 30% operating margins in 2020. But as we look beyond 2020, how do you think about the margin potential of the business? And is there any reason Akamai can't get back to the mid-30s type op margins where it was a decade or so ago?
+Ed McGowan
+Yes, we're not going to give guidance beyond 2020 or a 30% operating margin. We also always want to operate as efficiently as we can and there are certainly scenarios where the margins could increase beyond 30%. But we're not going to give any comments on that today.
+Brad Zelnick
+Fair enough. Thanks so much.
+Operator
+Thank you. Our next question is from James Fish from Piper Jaffray. Your line is now open.
+James Fish
+Hey, guys. Thanks for the question and awesome quarter. One thing as I look at your Q3 guide for the top line, you're guiding down sequentially and yet Akamai has really never been going -- has never had a sequential decrease from Q2 to Q3. Can you just help us bridge that?
+Ed McGowan
+Sure. So one of the items is the fact that you have the giants, the Internet Platform Customers, excuse me, that are down will be down about $4 million sequential so you take that into consideration. Now the other thing is the FX headwinds, we're expecting at least another $1 million of headwind there. That's something just to dig in a little bit on the FX side, you've got about 40% of our business is outside the U.S. and not all of that is in non-U.S. dollar now maybe of that is. And we've got if you think about our major currencies, you've got the euro, the yen and the pound as the three big ones. And there's obviously a lot of pressure, especially in the pound. So, some FX headwinds there.
+And then the other thing, if you remember from last Q3, we had the World Cup. So that added some extra dollars into Q3 of last year. So you factor all that together, you can see why we're still guiding to at the midpoint down slightly at the high end roughly flat.
+James Fish
+Got you. And then one more for Tom probably, maybe could you talk about how the new online gaming streaming services that are coming out, can you about how Akamai can monetize on that traffic, and what needs to be done from a tech perspective in order to deliver that traffic with nearly zero latency given the nature of online gaming?
+Tom Leighton
+Well, yeah, you'd have to be delivering it from the Edge that's where we're located. So, we're in good position to help with that. And I think we have a great relationship with a lot of the gaming companies. I think in terms of Google's service, they probably do it themselves.
+We've really been having discussions about that capability for probably over a decade now with some of the world's largest gaming companies. And the challenge, I think, for them is the economics. In terms of who's paying for the CPU, who's paying for the bandwidth, who's paying for the co-lo.
+Now, Akamai can certainly handle the streaming with very low latency and at scale, and do a really good job of it. So if this does take off, that's a source of increased traffic for Akamai, which is a good thing.
+James Fish
+Great. Thanks. Great quarter, guys.
+Tom Leighton
+Thanks.
+Ed McGowan
+Thanks.
+Operator
+Thank you. Our next question is from Mark Mahaney from RBC. Your line is now open.
+Mark Mahaney
+Great. Two questions please. I know a couple have already asked about Janrain, but just to nail the point down. You're still expecting about $20 million in revenue from that this year, and the contribution in the June quarter was roughly $4 million to $5 million. Is that correct?
+Ed McGowan
+That's correct, Mark. It was about $5.5 million for the quarter, and we're still expecting approximately $20 million for the whole year.
+Mark Mahaney
+And then Tom, you had mentioned 5G early on. And maybe paint that picture a little bit more -- with a little bit more detail like, when do you think that could become material in the field, and when you think it could be material? Like I get the Akamai pitch of you need have to servers at the Edge, and there -- this really could open up a new era of even more intense applications and we're realizing today, and IoT is probably getting to the forefront of that. But when do you think you can actually come through for Akamai in terms of material new wins or more business with existing customers? Any more color on that would be appreciated. Thank you.
+Tom Leighton
+Yeah. I think it'll be gradual. And to coincide with the gradual deployment of 5G around the world, basically the way to think of 5G is it increases the throughput at the last mile and it decreases the latency. Now increasing the throughput, and also it gets more people connected.
+Now doing that increases the demand for traffic, and that's just existing business growing faster because of 5G. Having in addition, the decreased latency and the better scale in terms of how many connections can be supported, does help to enable IoT kinds of applications, and that's where I think you can see things that maybe we haven't even thought about yet in terms of IoT.
+To this point IoT has been a little bit of a buzzword. And I think just judging from what I see in the customer base, that's going to start to get more real. And you need to take advantage of that low latency that means you got to have servers at the Edge where Akamai is. And so, we're in a great position, especially with our IoT Edge Connect platform to support those applications at scale with low latency and to offer Compute at the Edge.
+So, I think it will be not all at once. It will be sort of a steady growth both for our organic business and for new applications in our IoT Edge Connect platform, that's now just a question in early days.
+Operator
+Thank you. Our next question is from Jeff van Rhee from Craig-Hallum. Your line is now open.
+Jeff Van Rhee
+Great. Thanks. Thanks for taking my questions, guys. A few for me. On the retail commerce side of the business, could you talk about the dynamics in that space, particularly the competitive landscape? And then, just some thoughts maybe on how you see growth rates trending over the next few years.
+Tom Barth
+Well, there's certainly a lot of competition in the CDN space, and always has been. I think the fundamental change is that our customer's under pressure, from Amazon in particular and that puts them in a harder position. And so that decreases their business and put pressure on our revenue as really a flagship vertical for Akamai. They still need our services. They still need the best performance. They really need security and they want that of course as a packaged capability and that helps us.
+And that's why I think our churn is incredibly low. So despite the fact they're under pressure, we do have some of them going bankrupt. We see very little loss to any of the many competitors that are trying to get some of that business. A very, very high percentage of the major retailers out there use Akamai. And I -- every indication is that that should continue, but their businesses are under pressure. And that puts our revenue under pressure.
+Tom Leighton
+If I could just add something on this in terms of your question around growth, Tom mentioned the pressure will still continue on the core business on the delivery business. But the Web team's done a great job of going in and selling security similar to what I talked about with the Media team and should see some of these price declines our security revenue in the commerce space is growing, which is great. So taking the pressure on the acceleration business, but augmenting some of that in the security side.
+Jeff van Rhee
+Got it. Great. And then on the enterprise side, just can you talk about the sales motion close rates as you develop that sales org? Just maybe some color as to how that organization has matured what still needs to be done?
+Tom Leighton
+Yeah. We have a advanced technology group that they have expertise on the enterprise security side of the house. And they've worked with the reps on our existing accounts and new prospects. So it's -- I would say a typical sales motion for a new capability. It's early days for zero trust.
+You're now talking to enterprises who manage their enterprise security one way for a long, long time. There is the notion of the moat around the castle perimeter defense and it doesn't work anymore. And it's going to take them some time to really change, and so we're seeing early major enterprise wins, which is great. And we're growing -- the bookings are increasing year-over-year.
+And I think there will come a time in the not-too-distant future where we really see very strong growth here. Already the major analysts are out there zero trust is the way to go I gave some quotes during my prepared remarks. And Akamai is clearly one of the early leaders with this capability.
+Jeff van Rhee
+And just one last one if I could. Any update on the blockchain initiative both timing and the scope?
+Tom Leighton
+No particular update. We're really excited about our partnership GO-NET our joint venture with MUFG. And their goal now is to be offering this as a service in Japan in early next year. So we're about a year out from commercial adoption, and so far so good.
+Jeff van Rhee
+Good. Okay, great. Thank you.
+Operator
+Thank you. Our next question is from Alex Henderson from Needham. Your line is now open.
+Alex Henderson
+Great. Thanks. I was hoping you could spend a little bit of time unpacking the 20% constant currency growth internationally. Is that a function of security uptake? Is it a function of share? Is it the higher traffic volumes internationally? Can you break those down and maybe rank order what the drivers were?
+Ed McGowan
+Sure. So as we look at the growth outside of the U.S. the nice thing is that both EMEA and APJ are going in double-digits. Asia in particular we're really seeing strong growth really across everything you talked about. We're seeing some pretty interesting initiatives in the media side. We're picking up lots of traffic. And with security we're really seeing great growth across both EMEA and APJ and across many different countries.
+If you remember a number of years ago, we started to make investments in our sales force and grew our sales force outside of the U.S. and that's really starting to pay dividends for us. So it's a number of factors.
+I think one of the things in terms of competing in the marketplace making that large investment in our go-to-market, our services and our support organization have 24/7 support to something that really does help differentiate us in the marketplace. Also, our investments in the countries, where a lot of these companies operate, and where some of their end-users are also separates us in the marketplace. And we're finding really good growth in a number of countries across the world.
+Alex Henderson
+So can you rank order those factors share gains, volume, security uptake? What was the largest driver?
+Ed McGowan
+I would say, it's probably a combination of traffic growth and security.
+Alex Henderson
+Great. And could you do something similar for where the upside was within the security business. Obviously, security was very strong and accelerated. Where was the upside and was the growth evenly distributed across the product lines?
+Ed McGowan
+Sure. So great question. We did expect to see strong sequential growth quarter-over-quarter, but this was stronger than we had originally modeled in. Part of that is related to some comments we made earlier last quarter around our bookings and that the majority of our bookings now are coming from security sales both to existing and new customers. And our services team did a great job of getting a lot of these customers, revenue generating earlier than what our model would suggest. So we had more a month's worth of revenue in the quarter.
+Also our Web Division had an acceleration in year-over-year growth rate across many verticals. I mentioned the commerce verticals were seeing very nice growth, but also across financial services public sector high-tech, so great participation across a number of verticals.
+Also, to Tom's earlier point in his earlier remarks, we've got strength across multiple products and we saw a great quarter-over-quarter growth in Bot Manager, Kona Site Defender and Prolexic, also Janrain added up quarter-over-quarter about $1.5 million. Compare our Q1 results to Q2. So, really just strength across the board both here in the U.S. and also outside the U.S.
+Alex Henderson
+So the upside was across the board then? I thought Janrain was in line for instance.
+Ed McGowan
+Yes, Janrain was in line about the same. If you look at sequential growth quarter-over-quarter, as I started saying, we expected to have pretty strong sequential growth. Just wanted to outline what that was and show that a lot of the growth came from our core security across many different verticals, both divisions, and from getting customers who had signed up over the last quarter or so, revenue generating faster than we expected.
+Alex Henderson
+Great, thanks.
+Operator
+Thank you. Our next question is from Michael Turits from Raymond James. Your line is now open.
+Michael Turits
+Hey, everybody. Good afternoon. One question on CDN and one question on Security. So, on the CDN side, we understand that it's an odd year, so traffic down, or traffic lower growth. And we also understand that you had some renewals on pricing. But you said you're taking share on a traffic basis. Cisco says about 29% IP traffic expected this year. You guys are flat. That's a pretty big delta. As you move into next year and you get past the price down on the big six, do you expect that that delta will narrow and will have less of a pricing impact and you'll have revenue growth closer to volume growth?
+Tom Leighton
+Yeah. I don't know that you get traffic growth directly in line with revenue growth. And the reason for that is that you have staggered renewals throughout the year. I think, the way to think about the math is, if you look at taking a unit of delivery and a price per unit as prices decline, there's a certain amount -- depending on how you model it. You would need to get just to be flat.
+So, really the way to think about it is, as you go into 2020 or any year where you have line of sight to more traffic, the question becomes does that traffic accelerate at a rate that is greater than your expected price decline? So we will have the number of renewals next year like we always have. Some of our contracts too have volume discounts. As you push more traffic there can be lower unit rate. So rally the way you think about it, the question you need to think about here is, will we see enough traffic from these new OTT initiatives? Things like the Olympics, Presidential Election that will offset that price decline.
+The good news is we've gotten some of our larger customers repriced here. So that, again -- I think it's possible we're really just going to see how successful these launches are as they come to market.
+Ed McGowan
+Also, and you reported the Cisco traffic stat, and in fact we're growing our traffic a lot faster than that.
+Michael Turits
+Right. And then, on Security, one of the things that you showed, one of the booths at the conference was the launch, the product at the -- the roadmap for the launch of Secure Web Gateway. Can you give us an update on that? And how directly once that gets launched do you plan to go up against Zscaler?
+Tom Leighton
+Yeah. So that's on track, Enterprise Threat Protector 3.0 with full suite capabilities later this year, and that will go up against Zscaler. And we already compete with Zscaler with not only Enterprise Threat Protector but Enterprise Application Access, and we are competing very successfully.
+Michael Turits
+Great. Thanks, guys.
+Operator
+Thank you. Our next question is from Lee Krowl from B. Riley FBR. Your line is now open.
+Lee Krowl
+Great. Thanks for sneaking me in, guys. I normally hate asking innings questions, but I think it's relevant just given how much progress you guys have made on the bundling front with some of your e-commerce and web customers. So, could you maybe talk about the inning, what innings we're in with being able to bundle the Security Solutions with CDN across the customer base?
+Tom Leighton
+I'd say it's very relatively early days. We do talk a lot about protect and perform and in fact when you buy Kona Site Defender that comes with Dynamic Site Accelerator. Really just all works on the same Akamai platform. We're processing all the requests to provide the Security on KSD, and so just by the fact of we're processing where there is network, you're going to get faster delivery. And if you buy Bot Manager, that of course rides on top of Kona Site Defender.
+And so when you want these Security services, you get some basic delivery and acceleration with that. I think the bundling is very important. Gives us a real edge in the marketplace. It makes it really challenging for a web customer to want to go to another provider that not only will their -- service their applications slow down, but they won't have security.
+Also makes it challenging on that side of the house to split traffic because in fact we've had a couple large performance, customers want to try to use two vendors, and if you only have half your site secured, you're not secure at all. And then they come to the switch back to use Akamai because they need the security. And we're pretty unique out there in terms of having these dual capabilities. And the best part is, it's all one platform, all on one service. And so, there I would say, viewing us today, as I talked about before, we're not just a great CDN. We have that, but we're a market leader by far in terms of security.
+Lee Krowl
+Got it. And then, just my second question. Last couple quarters, you've had a nice tailwind from the gaming vertical. In your prepared remarks, you kind of seem to fall off the growth drivers. So just kind of your thoughts on the gaming vertical specifically and maybe your expectations for the second half?
+Ed McGowan
+Sure. So we had a very strong quarter in gaming in Q1 and came off a very strong year in 2018. Gaming can be somewhat seasonal, not necessarily based on the calendar, but based on when new games come to market. So Q2 was a lighter quarter in terms of gaming traffic for us, not because we lost any share, but with more just kind of a light -- lighter gaming quarter in general. Hard to predict when and how popular games will be, but again I don't think there's anything to be concerned as to where a lighter schedule.
+Lee Krowl
+Got it. Thanks for taking my question.
+Operator
+Thank you. Our next question is from Will Power from Baird. Your line is now open.
+Charles Erlikh
+Great. Thanks guys for taking the question. This is actually Charlie Erlikh on for Will. I'll just ask one quick one. Could you talk a little bit about the growth split between the new and existing customers, maybe particularly how the new customer acquisition has gone since making some of these go-to-market improvements in the last year or two? Thanks.
+Ed McGowan
+Sure. So still the majority of our business comes from our existing customer base. The sales organization does a great job of selling additional capabilities into that base. We have been very pleased and we've seen a consistent return on our new customer acquisition. We don't break it out specifically, but we have seen some pretty good traction. And as I mentioned earlier, we've been leading with securities, so a lot of those customers are coming on as security customers.
+Charles Erlikh
+Great. Thank you.
+Operator
+Thank you. Our next question is from Rishi Jaluria from D.A. Davidson. Your line is now open.
+Rishi Jaluria
+Hey, guys. Thanks for taking my questions. Two quick ones. First wanted to start on live video the record I think you said with the concurrent viewership at India-New Zealand match is as painful is that memory might be really impressive. Just help me understand, what's driving some of this international traffic growth and maybe thinking from a financial perspective given that a lot of the viewership for these types of things might be in emerging markets, should we expect that to be a little bit of a drag on ARPU, or is that less sensitive from kind of a pricing perspective and then I've got a follow-up on the zero trust side.
+Ed McGowan
+Sure. I'll take the last part of that question in terms of the size of the traffic. One of the things as you go into some of these emerging markets you mentioned cricket, there's been some forces in the market that have enabled much better quality video access to millions of users and that's a great trend for us. In terms of the price sensitivity, we've talked about before in the Media market, really it is a pretty efficient market around volumes. So we don't notice anything specific relative to emerging markets having lower prices because of our emerging markets or what not it really is a function of volume.
+And what's driving those volumes is you've got lots and lots of people consuming media, the teams have done a good job of gaining some customers in some of these countries outside the U.S. that are big traffic pushers you think about cricket not a big support here in the U.S. but very big internationally. We tend to go after whoever has rights for a live video. And like I said earlier we've got the best platform the best technology and capacity in the right places. So good business for us.
+Rishi Jaluria
+Got it. Thanks. That's helpful. And then just on the zero trust side, I mean I think we all get that it's a big opportunity. And clearly, the way the talk is going when it comes to security. Can you just maybe help us understand or remind us your kind of differentiation on the zero trust side just given that every single security vendor out there says they have something in zero trust? Thanks.
+Tom Leighton
+Yes. It's started to become kind of a buzzword. So everybody says they got it even though they don't. With Akamai's solution, we do access at the application layer instead of the network layer. And that's a big differentiator because at the traditional approach of doing it at a network layer, once you're in, you pretty much can go everywhere. Now there's a lot of folks that will sell extra equipment to do network segmentation. But you still have the same challenge and then you get even more overhead.
+By doing it at the app layer, which we do as a service not -- we're not selling boxes like a typical approach then we can sit in between the device and the user and the application just the same way that we do for public facing applications. And we can bring Kona Site Defender to bear.
+So we authenticate it really is the user that they really have access to this particular application not just to the corporate Internet and then we make sure that they don't ever touch the enterprise application or data directly. Everything comes through us and we scrub it and we defend it. And that just isn't done today and nobody has that capability out there. We're unique in being able to do that because there is no real competitor to Kona Site Defender. Never mind bring it to bear to enterprise applications.
+And then you have our Edge platform with the massive scale which is really important for the large-scale attacks. And you have Bot Manager, which we can bring to bear to understand really what is it that entity that is coming to access the application.
+And also where is that entity going otherwise as we can catch for example HVAC systems that are exfiltrating sensitive corporate data because we're monitoring everything that the devices do inside an enterprise to make sure it's safe. So it really is a unique solution and very different than all the other folks that are talking zero trust.
+Rishi Jaluria
+Great. That’s really helpful. Thank you. 
+Tom Barth
+Operator, we are have time for one more question, please.
+Operator
+Thank you. Our next question is from Ken Talanian from Evercore ISI. Your line is now open.
+Ken Talanian
+Hi. Thanks for taking the question. You mentioned getting guaranteed commitments as a way of offsetting the revenue decline. Just wondering if you could describe how that's trended over the past year what you're thinking about for the back half to the year? And then 2020 in particular around the forthcoming OTT launches?
+Ed McGowan
+Yes. So we're not going to give specific guidance for 2020. But in terms of how it's going with the revenue commitments it varies by customer. What that does it enables us to one have more confidence in going out and building ahead of plan. You know customers vary from customer-to-customer in terms of how much they're willing to commit. Sometimes we get a percentage of traffic, sometimes its $1 commitment et cetera. But it's always something that we try to get as part of our sales when we can.
+Ken Talanian
+Okay. And then just curious if you could highlight the primary drivers of the margin upside rank order those and what do you think might drive upside the back half?
+Ed McGowan
+Yes. Sure. So you're talking about the margin upside for the quarter we just delivered correct?
+Ken Talanian
+Correct.
+Ed McGowan
+Yes. So as I mentioned in my prepared remarks part of that is just our operating -- operational efficiency. And I talk a little bit about how we -- we're starting to see some good returns from our procurement function. We enhanced what we said some procurement function, but we really enhanced that and we're starting to see some fruits of our labor there. And just in general we're investing in efficiencies in IT for scaling our G&A operations and managing our headcount more effectively. That's we experience turnovers.
+Ken Talanian
+Okay. Great. Thanks very much.
+Tom Barth
+Yeah, great. Thank you, Ken and thank you everyone for joining us this evening. In closing, we will be presenting at some Investor Conferences and events throughout the quarter. Details of these can be found on the Investor Relations section of akamai.com. Thank you for joining us and have a wonderful evening.
+Operator
+Ladies and gentlemen, thank you for your participation in today's conference. This concludes the program. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+2 Authors in the Last 90 Days

@@ -1,0 +1,288 @@
+Advanced Micro Devices, Inc. (NASDAQ:AMD) Q3 2020 Earnings Conference Call October 27, 2020  8:00 AM ET
+Company Participants
+Ruth Cotter - SVP, Worldwide Marketing, Human Resources and IR
+Lisa Su - President and CEO
+Devinder Kumar - SVP, CFO and Treasurer
+Victor Peng - President and CEO, Xilinx
+Conference Call Participants
+Matt Ramsay - Cowen
+Vivek Arya - Bank of America
+Toshiya Hari - Goldman Sachs
+Stacy Rasgon - Bernstein Research
+Mark Lipacis - Jefferies
+Joe Moore - Morgan Stanley
+John Pitzer - Credit Suisse
+Hans Mosesmann - Rosenblatt Securities
+Aaron Rakers - Wells Fargo
+Operator
+Greetings and welcome to the AMD Third Quarter 2020 and Xilinx Acquisition Conference Call. [Operator Instructions] As a reminder, this conference is being recorded.
+It's now my pleasure to turn the call over to Ruth Cotter, Senior Vice President, Worldwide Marketing, Human Resources and Investor Relations. Ruth, please go ahead.
+Ruth Cotter
+Thank you, and good morning everyone joining our call today. Participants on our conference call are Dr. Lisa Su, our President and Chief Executive Officer; Devinder Kumar, our Senior Vice President, Chief Financial Officer and Treasurer; and Victor Peng, President and Chief Executive Officer of Xilinx.
+This is a live call and will be replayed via webcast on our website, amd.com. We've a content-rich call for you this morning. So I refer you to our website ir.amd.com for a copy of our third quarter 2020 financial results, including detailed slideware, our acquisition of Xilinx announcement and other helpful materials, including a presentation outlining the details of the acquisition.
+Before we begin, please note that today's discussion contains forward-looking statements based on current beliefs, assumptions and expectations speak only as of the current date, and as such, involve risks and uncertainties that could cause actual results to differ materially from our current expectations. Please refer to the cautionary statement in each press release for more information on risks related to any forward-looking statements that we may make. We will refer primarily to non-GAAP financial metrics during this call. The non-GAAP financial measures referenced are reconciled to their most directly comparable GAAP financial measures in today's press release and slides posted on our website.
+Now, with that, I'd like to hand the call over to Lisa. Lisa?
+Lisa Su
+Thank you, Ruth, and good morning to all those listening in.
+Today marks a significant milestone in our journey to establish AMD as the industry's high-performance computing leader. Before going into details on our strategic acquisition of Xilinx, I'd like to start with our very strong financial results.
+Our business accelerated in the third quarter, resulting in record quarterly revenue with net income and EPS more than doubling year-over-year. Revenue grew 56% year-over-year to $2.8 billion, driven by strong demand for our Ryzen, EPYC and Semi-Custom processors.
+Turning to our Computing and Graphics segment, third quarter revenue of $1.67 billion grew 31% year-over-year as higher Ryzen processor sales more than offset lower graphic sales. Our client processor business is performing extremely well. Desktop and notebook processor ASPs increased and total unit shipments grew by a strong double-digit percentage, both on a year-over-year and sequential basis. As a result, we set a record for quarterly client processor revenue and believe we gained client CPU share for the 12th straight quarter.
+In mobile, we set records for both quarterly notebook processor unit shipments and revenue as OEM sell-through doubled year-over-year. We have the strongest notebook processor portfolio in our history. More than 105 AMD-based notebooks have launched in 2020 as we expand our presence in segments like gaming, commercial and education, where we have traditionally been underrepresented.
+In commercial, the number of AMD-based business notebooks for major OEMs has doubled year-over-year and we are building significant momentum based on the superior performance and battery life of our Ryzen Pro processors. Our progress in the third quarter was highlighted by winning multiple large-scale deployments with Fortune 1,000, automotive, banking and pharmaceutical companies.
+Earlier this month, we announced our upcoming Ryzen desktop processors would be the first to feature our newest Zen 3 core. I'm incredibly proud of what our CPU team has achieved with Zen 3.
+We have significantly enhanced nearly every aspect of the core to deliver a 19% increase in Instructions Per Clock compared to Zen 2. As a result, our Ryzen 5000 desktop processors deliver absolute performance leadership across gaming, productivity and creative workloads and are positioned to drive the biggest shift in the PC landscape since we launched the original Ryzen processor in 2017.
+In Graphics, revenue declined year-over-year, and increased sequentially as we prepare to launch our next generation Radeon GPUs this quarter. Mobile GPU sales grew by a double-digit percentage year over year, led by solid demand for our Radeon Pro 5000 M series powering Apple's MacBook Pro.
+We are very excited about our RDNA 2 graphics architecture launching later this week that delivers significant generational increases in both performance and performance per watt. Our next generation Radeon RX 6000 graphics cards powered by RDNA 2 are by far the most powerful gaming GPUs we have ever built and will return AMD to the high end of the graphics market.
+Data center GPU revenue increased sequentially and year-over-year based on new cloud-based visual computing wins. Our Radeon Instinct accelerators continue gaining momentum in the HPC market. Recently announced wins include Australia's most powerful supercomputer, as well as the new LUMI supercomputer in Finland that is expected to deliver over 550 petaflops of peak performance.
+Turning to our Enterprise, Embedded and Semi-Custom segment, revenue of $1.13 billion increased 116% year-over-year, driven by strong growth in both Semi-Custom and Server processor sales.
+In Semi-Custom, we ramped production and shipments of our next generation game console SoCs to support the November launches of the PlayStation 5 and Xbox Series X and Series S consoles. We now expect Semi-Custom shipments and revenue to increase sequentially in the fourth quarter based on strong demand.
+Turning to Server, we set a record for quarterly Server processor revenue as sales grew a double-digit percentage sequentially and more than doubled year-over-year, driven by growing cloud and enterprise adoption. In cloud, the largest hyperscale customers expanded their second-gen EPYC processor deployments across both their internal infrastructures and publicly-available instances.
+In the third quarter, Microsoft Azure expanded their AMD offerings to 18 regions and nine availability zones and launched new data analytic services powered by second-gen EPYC processors that deliver 30% better performance than competitive offerings. Amazon rolled out multiple new high-performance AMD instances and Google announced general availability of their cloud confidential virtual machines powered exclusively by second-gen EPYC processors.
+Enterprise data center adoption continue to accelerate as well. We added multiple Fortune 1000 customer wins in the quarter across key verticals, including financial services, automotive and EDA, based on the performance and TCO advantages of EPYC processors.
+We are on track to begin volume shipments of our next generation Milan server processors with Zen 3 to cloud and select HPC customers this quarter. We expect Tier 1 OEM platform availability to follow in the first quarter of 2021. Customer interest in Milan is very high.
+We are seeing hyperscale HPC and OEM customers engage deeper and broader for Milan than they did, prior to the launch of our second-gen EPYC processors. We believe we are well-positioned for continued share gains based on our expanding cloud engagements, strong supercomputing wins, and the more than 100 new or refreshed Milan platforms in development.
+In summary, our strong third quarter results and fourth quarter outlook demonstrate the acceleration in our business. We are successfully executing our strategy to drive best-in-class growth based on delivering leading edge CPUs, GPUs and differentiated solutions for the PC, gaming and data center markets. We feel very confident our next generation Zen 3 CPUs, RDNA 2 GPUs, and CDNA accelerators can drive further share gains and growth in 2021 and beyond.
+Now, let's turn to the transaction. Looking out over the next decade, high-performance computing is increasingly at the center of nearly every major trend shaping the future. Whether in the cloud, at the edge, or across the growing number of intelligent end devices, we are seeing increasing demand for high-performance computing, which enables a host of new experiences and services.
+While our CPUs and GPUs will remain critical engines for those devices in a world where algorithms are always advancing and new standards are continually emerging, we see demand growing for adaptive computing capabilities that can accelerate evolving workloads.
+That is why, today, I'm excited to outline the next leg in our journey with the strategic acquisition of Xilinx. Together, we will create the industry's high-performance computing leader and the partner of choice for the largest and most important technology companies. Xilinx is the ideal match for AMD.
+As the industry's number one provider of FPGAs and adaptive SoCs, they are the market leader. Xilinx is successfully executing multi-generation hardware and software roadmaps to extend that leadership. Xilinx is a technology leader. Beyond their core innovation in FPGAs and associated software design environments, they have industry-leading capabilities in SoC design, serdes and high-speed IO, mixed signal RF, advanced 2.5 and 3-D silicon integration and packaging, as well as targeted software stacks for key verticals.
+Xilinx has also built deep strategic partnerships across a diverse set of growing markets. In 5G communications, datacenter, automotive, industrial, aerospace and defense, Xilinx has established themselves as a strategic technology partner to a broad set of industry leaders. Lastly Xilinx has a very strong business model characterized by long product lifecycles with the best-in-class gross margin profile and significant free cash flow generation.
+As we bring AMD and Xilinx together, there are considerable product technology market and financial benefits. AMD will offer the strongest portfolio of high-performance and adaptive computing products in the industry spanning leadership CPUs, GPUs, FPGAs and adaptive SoCs. This will enable us to take a leadership position, accelerating a diverse set of emerging workloads from AI to smart networking and software-defined infrastructure.
+And while our product portfolios are highly complementary, our approach to technology development is actually very similar. Both companies are laser-focused on developing leadership products based on multi-generation architectures, modular SoC designs, leading-edge manufacturing and advanced packaging technologies. In manufacturing, we will be able to apply learnings from AMD's early adoption and high-volume production ramp of advanced process nodes across Xilinx's products.
+In packaging, Xilinx has demonstrated leadership and significant IP in the 2.5-D and 3-D die stacking technologies that are becoming increasingly important as Moore's Law slows.
+Looking beyond hardware, we see opportunities to combine our open source software offerings into a unified stack, optimized to accelerate computing at the platform and the system level. By combining our efforts, we bring together two world-class engineering teams with the technology capability and scale to build even stronger products and solutions.
+From a market perspective, we will cover the most important markets and customers in the world. We will have a combined TAM of $110 billion, building on AMD's $80 billion dollar TAM, with an additional $30 billion of very attractive Xilinx TAM. As we look at growth drivers in the three to five-year timeframe, we see significant revenue synergy opportunities that can build on AMD's strong organic growth.
+In the data center, our EPYC processors have a strong foundation with the largest hyperscale cloud providers. We're also gaining significant momentum with enterprise customers and playing a leading role in supercomputing where our products are powering the world's most powerful exascale computers.
+Xilinx has also invested significantly in the data center with leadership networking computing and storage technologies, notably with significant SmartNIC wins with global hyperscalers. Together, we will be a stronger strategic force powering the next-generation data center.
+To drive longer term adoption of our processors in the telecom, edge, industrial and networking markets, where we have a nation presence today, we can offer solutions that combine our CPU and GPU compute engines with Xilinx's flexible accelerators, SmartNIC products, software stacks and domain expertise to unlock additional levels of performance on critical workloads.
+In Telecom, for instance, where Xilinx has solutions capabilities and relationships with industry leaders, including Samsung and Ericsson, we will now have an accelerated path to market to better address the largely untapped $5 billion market opportunity for our EPYC processors.
+Financially, the acquisition diversifies our revenue streams and is expected to be immediately accretive to margins, EPS and free cash flow generation, all while delivering industry-leading growth.
+Finally, I would like to talk about culture. For the last several years, AMD has collaborated with Xilinx as a close partner and I've had the chance to get to know Victor and his leadership team. I can unequivocally say that the Xilinx team is one of the best in the industry and I'm thrilled to welcome them to the AMD family. Both AMD and Xilinx share a common culture, focused on innovation, execution and collaborating deeply with customers.
+From a leadership standpoint, Victor and I have a shared vision of where we can take high-performance and adaptive computing in the future, and I'm extremely happy that he will be joining AMD as President responsible for the Xilinx business and strategic growth initiatives after the deal closes.
+Now, I'd like to turn the call over to Devinder to provide some additional color on our third quarter performance and some specific financial details of the acquisition. Devinder?
+Devinder Kumar
+Thank you, Lisa.
+Let me start first with our third quarter results. Third quarter revenue was $2.8 billion, up 56% from a year ago, driven by very strong Ryzen and EPYC processor sales and the ramp of our new Semi-Custom SoCs. Gross margin was 44%, up 1 percentage point from a year ago, driven by server and client processor sales.
+Operating expenses was $706 million compared to $539 million a year ago, driven by increases in R&D and marketing as we accelerated investments in the business to drive future market growth and higher variable compensation-related expense. Operating income more than doubled year-over-year to $525 million, up $285 million or 119% from a year ago, driven primarily by significantly higher revenue.
+Net income was $501 million, up $282 million or 129% from a year ago, and diluted earnings per share was $0.41 per share, more than double the $0.18 per share a year ago.
+Turning to the balance sheet. Cash, cash equivalents and short-term investments totaled $1.8 billion. We reduced principal debt by $365 million in the quarter, including $200 million of our revolving line of credit and $165 million of convertible senior notes. Conversion of the senior notes resulted in a $38 million non-cash GAAP charge and the issuance of $20 million shares with no impact to diluted share count. Total principal debt outstanding was $398 million at the end of the quarter.
+Free cash flow was $265 million. In addition, our senior unsecured credit rating was raised to investment grade by Moody's investor service in the third quarter, reflecting our strong financial results and outflow.
+Let me turn to the fourth quarter guidance. Today's outlook is based on current expectations. We expect revenue to be approximately $3 billion plus or minus $100 million, an increase of approximately 41% year-over-year, and 7% sequentially. In addition, for Q4 2020, we expect non-GAAP gross margin to be approximately 45%, non-GAAP operating expenses to be approximately $750 million, non-GAAP interest expense, taxes and other to be approximately $30 million, and the diluted share count in the fourth quarter is expected to be approximately 1.23 billion shares.
+For the full year 2020, we now expect higher year-over-year revenue growth of approximately 41% driven by the strength of our PC gaming and data center products. We continue to expect gross margin of approximately 45% for the full year, up one percentage point from the prior year.
+Now I'd like to turn to today's announcement. We have signed a definitive agreement to acquire Xilinx in a strategic transaction valued at $35 billion. This is a very compelling transaction from a financial perspective. Xilinx has a strong business model characterized by long product life cycles, best-in-class margins, and strong cash flow, all of which are significantly additive to AMD's financial model.
+The acquisition is expected to be immediately accretive to gross and operating margins, EPS and free cash flow generation, and the combined company is expected to continue to deliver industry-leading growth.
+In addition, we believe we can achieve approximately $300 million of overall cost savings on an annualized basis within 18 months of closing the transaction. Based on the trailing 12 months, the two companies combined would have had revenue of $11.6 billion, gross margin of 51% operating profit of approximately 21% and generated approximately 1.8 billion of free cash flow.
+Turning to the capital structure. The balance sheet of the combined company will be very strong with low leverage and an investment grade profile. On a combined basis, as of the most recent quarter of both companies, the total cash balance is $4.9 billion and the debt is $2.4 billion with a gross leverage of 0.85 times.
+Now let me cover some details of the transaction structure. At close, Xilinx shareholders will receive 1.7234 shares of AMD for each common share of Xilinx. This represents approximately $143 per share of Xilinx based on AMD's Vitis for the 10 trading day period up to and including October 8.
+The pro forma ownership would be approximately 74% for AMD shareholders, and 26% for Xilinx shareholders. We currently expect the acquisition to close by the end of calendar year 2021 subject to required approvals and other customary closing conditions. Until then, the two companies remain separate and will operate independently.
+Today is an exciting day for AMD on many fronts. We are very pleased with our market and financial momentum. Our strong lineup of products continues to drive strong revenue growth, margin expansion and improved profitability. Our acquisition of Xilinx is additive to our financial model and is expected to result in meaningful revenue synergy opportunities over the longer term.
+Let me now turn it over to Xilinx CEO, Victor Peng for some remarks. Victor?
+Victor Peng
+Thanks Devinder.
+Let me start by echoing Lisa's enthusiasm about the combination of two premier semiconductor companies, and the many opportunities that will create for our customers, our employees and for our shareholders. The exponential growth of unstructured data, the rapid expansion of connected devices, and the plethora of data-intensive applications with embedded AI are driving the need for more efficient high performance computing solutions.
+AMD and Xilinx together will accelerate our ability to define this new year of computing by providing the most comprehensive product portfolio and computing solutions. Our products will power a wide range of intelligent applications from the largest data center to the edge and to the smallest end point. This extended product portfolio together with our industry-leading engineering capabilities, and market expertise will enable our customers to deploy differentiated solutions to market faster.
+Our companies share the same vision for transforming people's lives through high performance computing. As Lisa mentioned, we have very similar cultures of innovation, execution excellence and collaboration that make this an exciting new chapter for Xilinx employees. I'm excited about the future of the combined company and accelerating our opportunities to grow the business and lead the new era of computing.
+And on a personal note, this is my second time joining AMD and to do that with the Xilinx's team just couldn't be more thrilling for me. The Xilinx shareholders, this transaction provides a great opportunity for long-term value creation given the significant diversification benefits they will receive to exposure to a broader, a much larger growth business when this transaction closes. So I very much look forward to bringing our great companies together.
+Let me now turn it back to Lisa.
+Lisa Su
+Thanks Victor.
+To sum up, we are very pleased with the acceleration of our business in the third quarter. We are on track to deliver significant annual revenue growth this year and have never been more confident in our trajectory. Our strategic acquisition of Xilinx is compelling for all stakeholders with significant value creation for AMD and Xilinx shareholders who will benefit from the future growth and upside potential of the combined company.
+We have always been very ambitious in our goals. The acquisition of Xilinx is a natural next step in our journey. Xilinx is an ideal match for AMD combining a highly complementary set of products, customers and markets with differentiated IT and world-class talent.
+With that, let's go to questions please. Ruth?
+Ruth Cotter
+Thank you, Lisa. And Kevin, if you could poll the audience for questions please. And we request that the audience stick to two questions, one, as it pertains to the third quarter and one on today's news of the acquisition. Thank you.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question today is coming from Matt Ramsay from Cowen. Your line is now live.
+Matt Ramsay
+I know a lot of folks who will probably say congratulations but Lisa, Victor I really mean it from our end. I think a great outcome from all everybody, stakeholders. I guess my first question, Lisa, on the deal, I noticed in the slides that you guys put together, obviously, a pro forma model that combines the companies as of the end of the third quarter. But you also mentioned as you did at your Analyst Day back in February a 20% growth CAGR for the business.
+I wonder if that might apply to the two companies after you put them together post-close and how confident you are in that growth rate given that in the recent times maybe Xilinx growth has been a little bit slower than the core AMD business growth, but obviously, there is revenue synergy potential as well. So any comments there would be helpful. Thank you.
+Lisa Su
+Yes, absolutely. Matt, thanks for the question. So first of all, we feel we're really excited about today. We feel great about our base business. I think you can see that in the strength of our results in the third quarter and our full-year updated guidance, that strategy is playing out very well as we expected with very strong products driving market momentum.
+As we look forward at our Financial Analyst Day we talked about 20% CAGR as the right target for our company. I think all of that stays on track. We are a high growth business and we want to remain a high growth business. I think Xilinx brings them a lot of opportunities that are additive to that model, when you look at the markets and the capabilities and just the margins in the free cash flow generation. So a 20% CAGR is the right target for the combined business, I think we feel very good about the organic growth and we feel very good about the growth initiatives that Victor has started.
+Matt Ramsay
+Yes. Thank you for clearing that up, I appreciate it. My question on sort of the results in the core business, you guys put up server revenue sales that more than doubled year-over-year. Your competitor had some rather interesting set of results, some pretty disappointing results I think from their enterprise and government segments, and they guided for their combined data centric business. I know that's not exactly the same as server, but they guided for that to be down I think 25% year-over-year in the fourth quarter.
+You guys have some momentum you're going to launch Milan, and I think you mentioned in the release some progress on the enterprise side as well. But maybe, Lisa, you get back up and give us your context of where the server market is overall right now and how it might mean - what it might mean for your revenue into the fourth quarter. Thank you.
+Lisa Su
+Sure, Matt. So look the data center business particularly on the server side is very important to us. We performed very well here in the third quarter, as you said double from a year-over-year standpoint, sequential double-digit growth. We see good momentum across the cloud hyperscalers as well as in the enterprise business. We have more platforms that continue to launch here in the third quarter.
+As we look forward from a data center environment, I would say that the overall data center environment is actually good. As we go here into the fourth quarter, we are starting to launch Milan in terms of shipments to cloud, as well as some HPC customers this quarter. OEMs are preparing to launch Milan platforms in the first quarter. And I would say it's very much a customer specific message. Some of our cloud customers are going to continue to ramp Rome in the fourth quarter. Several are also preparing for our transition from Rome to Milan.
+But overall, we believe that the demand environment is good and the thing that excites us is Milan is just very, very strong. It's coming in as we expected. Zen 3 we previewed some of that performance on the desktop side, but we see strong translation into TCO benefits and performance benefits for our server products.
+So, again we look forward to talking about that more as we go through the quarter. But, yes - overall, I think the data center business continues to be very strategic and performs well for us.
+Operator
+Our next question today is coming from Vivek Arya from Bank of America. Your line is now live.
+Vivek Arya
+Thanks for taking my question and congratulations on the strong results. I'll actually just focus on the core business. Lisa for my first question, you're raising second half sales growth by nearly - I think about $600 million or so. Could you help us dissect and quantify how much of that is coming from the main areas of PCs and EPYC servers and semi-custom and GPU, I mean this is a significant guide ahead and I'm curious what created this level of surprise.
+Lisa Su
+Yes. So, Vivek thanks for the question. Our core business is doing very well. I think if you look at some of the components of that - the PC market environment is strong. If you look at all the work from home, schools from home trends, I think that has certainly helped this year. On top of that, our Ryzen 4000 series notebooks are doing very, very well.
+So we are seeing strong traction in areas that we hadn't been - that present before like gaming and commercial. So that's one big element. We are ramping our game consoles here in the second half of the year. Those are very highly anticipated launches that are coming up shortly, and demand for that has been quite strong, and our server business has also performed well.
+You will see us start with the - you asked about graphics will see gaming graphics here grow sequentially in the fourth quarter as we launch our Radeon 6000 series. So we just have a combination of a lot of product momentum product cycles. I will also say that our supply situation has also improved, as our demand environment has gotten stronger. We've worked closely with our suppliers to ensure that we can satisfy as much of that is possible. And so those are all of the elements for the strong second half.
+Vivek Arya
+And for my follow-up Lisa. You're now at the 10-ish percent server share mark of the TAM that you have identified. Does the next 10% get easier or more difficult? You mentioned you're launching Milan soon, your competitor is launching their Ice Lake. So from the outside it looks like a lot of hand-to-hand combat every quarter in the server business. How do we think about the journey for your server business from here again as the next 10% become more easier or difficult and why? Thank you.
+Lisa Su
+Well, I would say it this way Vivek. I think we have made a tremendous amount of progress in the server business. I think the - if you look at the leadership performance and TCO that we have with Rome we've seen broad adoption across cloud, as well as enterprise and we've done very, very well in HPC.
+We think that Milan is even better and our mantra to our customers has been strong road map, you can count on us, we will be there when you need us. I think the traction from Milan is stronger than for Rome. I think we continue to work hard with our customers to ramp as fast as possible, but you'll see broader cloud adoption, I think you'll see faster cloud adoption.
+And I think you'll see broader enterprise platforms. Especially with Zen 3, we talked about some of the single threaded performance improvements that really round out the server portfolio. So I think we're very focused on the data center and will continue to be that as a combined company as well.
+Operator
+Our next question today is coming from Toshiya Hari from Goldman Sachs. Your line is now live.
+Toshiya Hari
+Thanks for taking the question and congrats to both teams. Lisa, as a follow-up to the first question I wanted to get your view on some of the markets within Xilinx. You mentioned in response to the first question that you're comfortable with the 20% growth rate for the combined business. We've heard from Victor and his team over the past couple of years in terms of how they're thinking about their opportunity set in 5G data center and the core businesses, but how are you thinking about sort of the three to five year CAGR for data center coms and some of the core markets, and then I've got a follow-up?
+Lisa Su
+Yes, sure Toshiya. Thanks for the question. So clearly, when we look at our core business through the AMD core business, I think we feel very, very good about the growth in our core markets across PC gaming and data center. I think the product portfolio is very strong. As we add Xilinx to the portfolio, I think, we both chosen data center as our strategic focus. I think the investments that Victor and the Xilinx team have made are very strategic investments in the data center for us. We have the CPU and GPU strength, Xilinx brings the accelerator capability and very strategic SmartNIC technology.
+I think that's a strong growth vector for the combined company. I think the broader markets in communications, in automotive, in industrial and aerospace and defense, those are all very attractive markets, that can use CPUs and GPUs, and so I think the market presence that Xilinx has and the leadership in those markets also help sort of have the ability to bring some of the base AMD technology in there.
+So, I think together. There are a lot of opportunities, I want to be clear though, first and foremost, both businesses are executing very well. And Victor and I intend to keep it that way. So I think the base growth profiles of both businesses are very strong. And then, we do see significant revenue synergy opportunities as we look out into the three to five year timeframe as we bring these portfolios together.
+Toshiya Hari
+And then as a quick follow-up just on market share trends in both the client business and the server CPU business based on what you're guiding to for Q4 and based on what your competitors guiding to where do you feel like. Where do you see you guys - yourselves lending from a market share perspective in both the client business in the server business exiting this year?
+And more importantly, based on the design wins that you've already secured and where do you see yourselves kind of in the middle part of 2021 or exiting 2021? Thank you.
+Lisa Su
+Well, what I would say is based on our performance in the third quarter and our view for the second half year. We do believe, we'll gain share in both markets. And I think, I've always said this is a journey. So, the key for us is to continue to execute very well. I think, the customer momentum is definitely there and - our goal is to continue to delight our customers and execute well. So I do think we're making progress on that journey for share gain and we'll continue to do that.
+Operator
+Our next question is coming from Stacy Rasgon from Bernstein Research. Your line is now live.
+Stacy Rasgon
+For my company question or business question in Q4 you’re up 41% year-over-year. The guidance, do you think you can keep that kind of magnitude of growth into the first half of next year. Especially as the PC market maybe comes under - more pressure just given the potential pull-forward from the work from home dynamics. How should we thinking about that trajectory?
+Lisa Su
+So Stacy sorry we made you wake up early this morning I think.
+Stacy Rasgon
+No worries, no worries.
+Lisa Su
+So look, I think there's no question. It's a very strong demand environment for us right now. As we look into the first half of the year. It's a little bit early to be specific about 2021. But what I will say is that, we believe there is some market phenomena here, but there is also very of AMD specific product - gains that we're seeing. I think our notebook portfolio has never been better. And if I look at the strength of the new platforms that are coming up and what we see into 2021.
+I think we're really excited about that, our desktop products with our recent launch of Ryzen’s 5000 very strong. This is the first year of the console cycle. So the console cycle is a little bit different in the first year. I think you’ll see some very, very strong demand there and then we're right in the middle of launching Milan and EPYC. So, I think we feel good about the growth prospects into 2021.
+We'll get into a little bit more of the quarterly dynamics as we finish up this year, but I think there is market and then there is just what our product portfolio is doing right now.
+Stacy Rasgon
+Got it, thank you, that's helpful.
+Stacy Rasgon
+So my Xilinx question, so I gave a CPU company buying an FPGA somebody obviously has been tried before your competitor tried this as well. It was not terribly successful to the point. How would you say your vision for what you can do with Xilinx is different, maybe from what Intel might have a view with Altera? And maybe what lessons have you potentially learned from the issues that they've had with that deal?
+Lisa Su
+Yes absolutely, Stacy, I'll make a few comments and then, I'm sure Victor will have a few comments. Look, we've been thinking about this for some time and I think it's actually a very different situation Xilinx is the market leader. I mean if you look at how their business has grown over the last few years. Their market share has continued to grow. I think both companies are executing really well.
+So you ask why now I mean, why now is actually we feel very good about our base businesses. I think the people look at our businesses and say they're complementary and they are very complementary from a product and market standpoint. But we have sort of important intersections around the data center focus and then also around the technology sort of strategy, right.
+I mean where we're both leading-edge technology users. We both have partnered with TSMC. We both have really leaned into this modular design environment and Xilinx is a leader in some of that - some of the 2.5 3D integration. We’re both invested in software and open source. So there are a lot of synergies that are sort of under the covers that we see and we see very strongly. And I think you'll see as the road maps execute.
+And then I think the last point I'll mention is, I think our cultures are very, very aligned and we're both Victor and I are both engineers at heart. We love the technology we have a common vision, I'm really, really happy that he is joining me on this journey. I think, we have a bold vision of what we think we can do for the industry and for our joint companies. And I think that's, that's what we see as the - what's different and as you know, Stacy.
+I mean I haven't been big on M&A. We're not doing M&A for M&A sake. I mean this is such a unique opportunity there actually is no better match in the industry for us then Xilinx. So Victor, you want to add some comments.
+Victor Peng
+Yes, I think you put it very well Lisa. I think this is completely different than that transaction. And I guess, I'll just lean into the fact that as Lisa said. We have very common vision for the transformations that are happening, not only in the data center. But I would say at the edge and even endpoint applications. And I’m super excited about joining back with AMD and with the Xilinx team.
+And I think we really do have very similar cultures, very focused on innovating very focused on execution and strong teamwork culture for both within the company and also with customers. And I think this is what it's all about. We're going to create tremendous value for customers. And I'm really excited to bring some of the underlying technologies that Lisa talked about to the fore and you'll see that over time, so. Yes, and clearly, I personally I'm, all in so. We’ll make sure that we integrate well.
+Operator
+Our next question today is coming from Mark Lipacis from Jefferies. Your line is now live.
+Mark Lipacis
+Thanks for taking my questions and congratulations on the announcement. I guess, I would like to pick up on Victor’s point about the computing at the edge. It seems like there is a lot of talk edge computing and it seems like base stations are a logical place for that to happen, especially as 5G is deployed. And as you think about delivering joint solution, joint AMD, Xilinx solutions?
+Does the architecture of the compute platform at the edge, is it different from, does it differ from the kind of what we think about today is the core datacenter. And is the - value proposition for AMD and Xilinx together is it is a particularly advantaged or unique from other solutions, other kind of architectural relations that have been proposed out there? That's the first question, I have a follow-up to?
+Lisa Su
+Yes sure, Mark. So look, we’ll have a very strong portfolio if you look at all of the elements between CPUs, GPUs the traditional FPGAs as well as the adaptive SSCs that that Xilinx has been investing in. I think that portfolio lends a lot of solution capability when you look at specific workloads. So on the accelerator side, as we've been investing on the GPUs with Radeon Instinct and the focus there has been on training and has been on HPC environments.
+Victor’s focus has actually been quite a bit at the edge. I think we share the idea that a common software environment is so important to try to accelerate the usage of those solutions in the market. And so, I think we'll have sort of a basket of technology that can be used very well from the infrastructure cloud side to the edge and endpoints. I don't know Victor, if you'd like to add anything there.
+Victor Peng
+Yes, sure I mean, I think there is a lot that we can leverage from a technology and architecture perspective. But I think some of the differences are obviously and primarily the workload and also there is more element for needing more real-time kind of responses low latency. I think, the fact that the workloads are different, you want to customize some of those things that's where I think the combination of AMD and Xilinx is very powerful.
+Because we can handle a lot of the customizations and optimizations and fast real-time response, but then for some of the really very heavy compute-intensive things, there is a lot of great technology out of AMD. And putting the two together seamlessly also with software really makes that a powerful solution. And I think that's what this is about comprehensive powerful solutions, right tailored to the workloads whether it's at the edge, even endpoints and of course in the cloud.
+Mark Lipacis
+That's very helpful and insightful. Thank you. As the follow-up is, obviously, there is going to be a level of integration with AMD and Xilinx products together. Can you help us understand to what extent is the integration happening on the hardware side in your kind of vision versus the software? Is it FPGAs and CPUs and GPUs integrated on monolithic or with interposers or is there - you have an architecture with - you demonstrated success for architecture with infinity fabric and you are stitching together that way and then you have a software layer also that's integrating these things. If you can provide any color on that vision that would be helpful. Thank you.
+Lisa Su
+Sure, Mark. Look, I think the days of monolithic integration are probably over. We've been on this triplet methodology because it's the right thing to do, you get the right compute for the right workloads. Xilinx team is also very advanced and thinking on this area.
+I think there will be some, let's call it opportunities for us to do things on the hardware side, but I view it more as market specific optimization as we think about what customers need, and then certainly on the software environment, we are very, very focused on doubling down on the software environment because that's really the key to accelerate adoption. So, lots of opportunities for us to bring the portfolios together, but really I think the opportunities at the solution level with customers and the important workloads.
+Operator
+Our next question today is coming from Joe Moore from Morgan Stanley. Your line is now live.
+Joe Moore
+On the deal, you talked about $300 million in cost savings 18 months out. Can you talk about where that might come from, and what are the priorities in terms of - I assume you want to keep the sales force and tax and things like that. Just how are you going to approach that cost savings?
+Lisa Su
+Yes, sure. Joe. So the majority of those cost savings are really on - just the scale of bringing the two companies together. So if you think about our opportunities on the COGS side, as well as some of the public company functions and those kinds of things, our intent on R&D is, we've been growing and we're going to continue to grow R&D. I think what it allow us to do is actually there will be some synergy on some things that we're both doing like some of the IPs that are just sort of necessary IPs, but it allow us to invest more in things like AI and software and so on so.
+We're not counting on any major changes at all to either business from the running of the business. I think the emphasis here is that both companies are executing extremely well and we're going to continue to keep it that way, and so Victor will continue to run the Xilinx business and obviously we have a lot to execute on the AMD side, but these synergies are really more from COGS and just public company type stuff that go on.
+Joe Moore
+And then in terms of the business, could you talk about data center GPU, you mentioned HPC opportunities, can you give us just a short update on cloud gaming and then the timing of CDNA? Thank you.
+Lisa Su
+Yes, so you'll hear more about CDNA later this year, so in the - here in a couple of - month or two, so as we look at the data center GPU space, I think the cloud opportunities that we have are continuing to ramp I would say, but the large HPC opportunities really come into play in 2021. So we should see a significant ramp in our data center GPU business in 2021 as some of those wins are publicly announced and we'll ramp next year.
+Operator
+Your next question today is coming from John Pitzer from Credit Suisse. Your line is now live.
+John Pitzer
+Yes, good morning, congratulations Lisa and Victor, both on the deal, and Lisa on the solid results. My first question is just on the core business and gross margins, and I apologize if you have been bouncing around a couple of call this morning. But Lisa, I'm wondering how much - there were some news presses in the calendar third quarter that perhaps the ramp on the gaming side had occurred some more costs than originally expected. But I guess importantly, when you look at gaming as a percent of mix and the fact that Q3 is kind of the first gaming quarter which is tends to be the lowest gross margin quarter. It strikes me that September should be a gross margin bottom for the overall business, and I'm wondering if you just help me understand if that's a fair comment on how I should think about improvement in gross margin in gaming over time?
+Lisa Su
+Yes. Sure, John. So certainly we ramped heavily the console business here in the third quarter. I think we were right at our margin guidance as we go sequentially into the fourth quarter. We see increase in margins from 44% to 45%.
+I think there are couple of aspects there. So we do have the console business growing sequentially. And so that is a bit margin decretive. However, we also have our other business is growing as well that offset that.
+It is true that the early parts of the console ramp are typically - we're working through some ramp issues, I would say the ramp is going quite well and the demand environment is very strong overall and we continue to work on satisfying all of the demand.
+John Pitzer
+That's helpful. And then going back to the deal, the rationale around both the data center and wireless wireline is fairly straight forward and obvious. I'd love to get your view kind of on the broader industrial and auto buckets that Xilinx plays in today distribution channel, which is not necessarily something that you guys deal within your core business. And specifically on the auto side, is there incremental silicon opportunity for core AMD on the auto side with Xilinx?
+Lisa Su
+Yes, absolutely, John. So clearly there is a lot of synergy on the data center in the com side as you mentioned, but that core markets business - Xilinx’s core market business is a beautiful business. I mean if you just look at the product life cycles the customer, the customer diversity and just how those go, so we're very happy with adding that to the portfolio.
+I think it adds sort of a different rhythm to the rest of our business, and as I said earlier, we're very cognizant that it's a different business. It will be - continue to run as it runs today. I've had some experience in the embedded business before. So we expect that to continue to be a very important driver of the overall financial model that we're putting together.
+Victor Peng
+And if I could add to that, I definitely see opportunity for AMD's products in the auto business. We do a lot there, but if you look at the amount of computing that's being done in domain controllers, central units, there is a lot of need for some very, very powerful computing and we handle lot of the sensor fusion a real-time kind of applications.
+And so, I absolutely think that there is opportunity there and there certainly things. Of course, we've learned through the more than two decades of servicing the auto business that we can help - have some mutual learning back and forth and how to go to market and support those customers.
+Lisa Su
+Yes absolutely, Victor. That's a great point I think automotive is a long-term opportunity for us with the technology that we have.
+John Pitzer
+Helpful guys, and congratulations again.
+Lisa Su
+Thanks, John. Operator, we'll take two more questions, please.
+Operator
+Certainly. Our next question is coming from Hans Mosesmann from Rosenblatt Securities. Your line is now live.
+Hans Mosesmann
+Congrats guys good stuff here. A question on capacity, Lisa you mentioned that it got better here in the back half of 2020. But as you look at 2021, 7-nanometer and I assume 5-nanometers specifically towards the end, I suppose? How is that capacity looking like and then I have a follow-up? Thanks.
+Lisa Su
+Yes thanks, Hans. So, look our second half has certainly been very strong and it was stronger than we originally planned. And so, we've worked closely with our suppliers to improve the supply availability. And I would say that even with that demand still exceeds supply in certain segments.
+As we go into 2021, I think we are planning for success. And so, we're working very closely across the supply chain to ensure that we have enough wafer capacity, as well as back-end capacity. And we're going to continue to work on that, but certainly there are areas where we would like to supply to be higher and we're working on that.
+Hans Mosesmann
+And that’s for both seven and five just as a general comment that you're saying?
+Lisa Su
+Yes, I'm not making a specific technology statement, but other than to say that we believe we will have the ability to support our strong growth objectives.
+Hans Mosesmann
+Okay, that's helpful. And then my question on the Xilinx part of this deal. They have, as you know, a very good kudo like software compiler platform Vitis. And I believe that anything would benefit from that, but how do you see that kind of being woven into AMD and does AMD have something like that in the works, how would that play out? Thanks.
+Lisa Su
+Yes, we both have been investing in the software environment to really make our products easy to use. I agree with you, I think Xilinx has a very strong software platform. We've also been investing in the ROCm platform for our GPUs. And so, those would be some of the things that we bring together over time.
+Victor Peng
+Yes, I just like to point out, many people may not be aware that we've been collaborating on ROCm and some other - the HSA in the past and a lot of the other initiatives that AMD has been driving in sort of this open development environments.
+Operator
+Your final question today is coming from Aaron Rakers from Wells Fargo. Your line is now alive.
+Aaron Rakers
+Yes, thanks for taking the question. I have one on the business and then one on the acquisition as well. Just real quickly on the business as we think about the EESC segment for the guide into this current quarter, I'm just curious if you can help us appreciate how you are looking at the semi custom business relative to the EPYC server business and what you are necessarily seeing in the competitive landscape right now. And then I have a quick follow-up?
+Lisa Su
+Yes, so I think - as I mentioned in the prepared remarks, we're seeing a strong semi-custom environment here in the first year usually Q3 is the peak for us in semi-custom. And this year we'll see sequential growth into Q4, just given the strong demand environment. But, I think - that's the result of the product space. I think - when you talk about the competitive environment. I think the competitive environment I mean it's about the same - I mean I think it's, it's always a competitive environment, but our focus has been on our product strategy and working with our customers.
+So, I wouldn't say I've seen a change in the dynamic, I think there is a lot of excitement in our server business around Milan. And bringing Milan to market even ramping that even faster than we ramped Rome, and so that's where the focus is.
+Aaron Rakers
+And then on the acquisition side, I'm just curious of how you see or envision the role of SmartNIC and how quickly you see the kind of the portfolios combined with regard to the SmartNIC category with regard to the Xilinx. And then embedding some of the core AMD compute capabilities, along with that SmartNIC, I'm just curious on what do you see happening datacenter architecture wise, around that evolution?
+Lisa Su
+Yes, look - the SmartNIC technology and just the overall acceleration technology in the data center, we think is very important. I think Xilinx has made significant investments there that's additive to our data center portfolio today. I think both of us have been very engaged in the top hyperscalers and we will continue to do that. We also see opportunities over time in the enterprise segment as well.
+So, I think the relationships that we have across all the top customers can help accelerate some of that solution development, and that will be a key focus for the combined company.
+Victor Peng
+And if I could add, just maybe getting a little bit on the technology side. AMD has been leading in core density and with SmartNIC’s offloading of the cores and improves the overall throughput and TCL for the data center. And again, we've also both have very high interconnect leadership. So I think - it really - that is a good example of delivering a better overall solution for the data center customers.
+Operator
+Thank you. We reached end of our question-and-answer session. I'd like to turn the floor back over for any further or closing comments.
+Lisa Su
+Yes now, I was just going to say, so thanks all for joining today. I know we covered a tremendous amount of material across our business and the acquisition. We look forward to - really look forward to bringing these two companies together. I think it's a very special and unique moment for us and we look forward to talking more about it as we go forward.
+Operator
+Thank you. That does conclude today's teleconference. You may disconnect your line at this time and have a wonderful day. We thank you for your participation today.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+11 Authors in the Last 90 Days

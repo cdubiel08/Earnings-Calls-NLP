@@ -1,0 +1,186 @@
+Amazon.com, Inc. (NASDAQ:AMZN) Q2 2019 Earnings Conference Call July 25, 2019  5:30 PM ET
+Company Participants
+Shelly Kay Pfeiffer - Investor Relations
+Brian Olsavsky - Senior Vice President and Chief Financial Officer
+Dave Fildes - Director, Investor Relations
+Conference Call Participants
+Brian Nowak - Morgan Stanley
+Heath Terry - Goldman Sachs
+Justin Post - Merrill Lynch
+Jason Helfstein - Oppenheimer
+Youssef Squali - SunTrust
+Mark Mahaney - RBC Capital Markets
+Ross Sandler - Barclays
+Mark May - Citi
+Colin Sebastian - Robert W. Baird
+Brent Thill - Jefferies
+Eric Sheridan - UBS
+Operator
+Thank you for standing by. Good day, everyone, and welcome to the Amazon.com Q2 2019 Financial Results Teleconference. At this time, all participants are in a listen-only mode. After the presentation, we will conduct a question-and-answer session. Today’s call is being recorded.
+For opening remarks, I will be turning the call over to the Director of Investor Relations, Shelly Kay Pfeiffer. Please go ahead.
+Shelly Kay Pfeiffer
+Hello, and welcome to our Q2 2019 Financial Results Conference Call. Joining us today to answer your questions is Brian Olsavsky, our CFO; and Dave Fildes, Director of Investor Relations. As you listen to today’s conference call, we encourage you to have our press release in front of you which includes our financial results, as well as metrics and commentary on the quarter.
+Please note, unless otherwise stated, all comparisons in this call will be against our results for the comparable period of 2018. Our comments and responses to your questions reflect management’s views as of today, July 25, 2019 only, and will include forward-looking statements. Actual results may differ materially. Additional information about factors that could potentially impact our financial results is included in today’s press release and our filings with the SEC, including our most recent Annual Report on Form 10-K and subsequent filings.
+During this call, we may discuss certain non-GAAP financial measures in our press release, slides accompanying this webcast, and our filings with the SEC, each of which is posted on our IR website. You will find additional disclosures regarding these non-GAAP measures, including reconciliations of these measures with comparable GAAP measures.
+Our guidance incorporates the order trends that we’ve seen to-date and what we believe today to be appropriate assumptions. Our results are inherently unpredictable and maybe materially affected by many factors, including fluctuations in foreign exchange rates, changes in global economic conditions and customer spending, world events, the rate of growth of the Internet, online commerce and cloud services, and the various factors detailed in our filings with the SEC.
+Our guidance also assumes, among other things, that we don’t conclude any additional business acquisitions, investments, restructurings, or legal settlements. It’s not possible to accurately predict demand for our goods and services, and therefore our actual results could differ materially from our guidance.
+With that, we will move to Q&A. Operator, please remind our listeners how to initiate a question.
+Question-and-Answer Session
+Operator
+Thank you. At this time, we will now open the call up for questions. [Operator Instructions]
+Our first question is coming from the line of Brian Nowak with Morgan Stanley. Please proceed.
+Brian Nowak
+I have two. It looks like the overall retail business accelerated pretty nicely in the quarter. Maybe could you just talk about whether 24-hour shipping is in that? So which specific categories of consumption are you seeing really drive that acceleration? And then sort of the opposite question on AWS, which has slowed a little bit can you just talk about some of the puts and takes in the AWS revenue growth this quarter versus the prior Q? Thanks.
+Brian Olsavsky
+Sure, Brian. Thanks for your questions. Let me start with AWS. We feel this really strong quarter. We had a growth year-over-year in our run rate from $24 billion to $33 billion, so 37% growth. The $9 billion that we increased our run rate by was second only to Q4 of last year as far as our history. So as you can tell, we've been pretty transparent with our AWS revenue and income numbers we've been breaking it out for 2015 and we're very happy with the growth in absolute dollar terms and we're seeing a pick up from customers and their usage, their increased pace of enterprise migrations, increased adoption of our services especially our machine learning services. And continually again AWS is being chosen as a partner to many companies because of our leadership position both in technology, our vibrant partner ecosystem, and also the stronger security that we offer.
+On your question about one-day, let me update you on that, because obviously that was a big topic of conversation last quarter and you can see that it's starting to show up in our results in Q2. So we are really pleased with the customer response to our growing one-day offering.
+In Q2, we had a meaningful step up in the one-day shipments, primarily in North America. And volume -- one-day volume was accelerating throughout the quarter. The ops team did a fantastic job here, not only in being able to expand one-day selection and delivery capacity, but also preparing for and handling some very high volumes on Prime Day earlier in the month.
+So we're in the middle of the journey here. We expect to see continued ramp of the one-day selection availability for the next few quarters both in North America and international. International was up slightly in Q2, but for the most part, the improvement in delivery speeds will be in future quarters there. On the cost side, we talked last time about $800 million estimate of transportation cost to supply one day, the additional one day in Q2. We were a little bit higher than that number in total cost.
+We saw some additional transition costs in our warehouses. We saw some lower productivity as we were expanding rather quickly, both local capacity in the off-season also in our delivery networks.
+We also saw some costs were moving -- buying more inventory and moving inventory around in our network to have it be closer to customers. And we built that not only that cost structure, but an accelerating cost penalty into our Q3 guidance that was released with our earnings today.
+And as I said in other setting, we've seen this before. We have had large changes to our distribution and transportation network repeatedly in our history from going from media to a vast variety of different product lines hardlines non-sortable as we call them. The initial two-day Prime shipping offer that we launched many years ago, the great expansion of our network to include FBA merchants and capacity for them and more recently, the first steps to increase one-day and same day although on a much smaller scale.
+So, it does create a shock to the system. We're working through that now. We expect we'll be working through that for a number of quarters, but when the dust settles, we will regain our cost efficiency over time. As far as you asked about specific product lines, nothing really to share there. We have seen lower ASP generally in Q2, higher unit growth versus revenue growth in North America and we could be that we're mixing into some lower ASP items as we launch one-day, but we haven't drawn that total conclusion yet.
+Operator
+Thank you. Our next question comes from Heath Terry with Goldman Sachs. Please proceed.
+Heath Terry
+Great. Thanks. Just wondering back on the AWS side of things, can you give us a sense of sort of what you're seeing from a volume perspective? Obviously, price is always a big component of growth in this, but just trying to understand whether or not you're seeing similar trends in terms of growth rate deceleration on the volume side of things.
+And then to the extent that we're sort of thinking about the mix of either revenue or usage within that business. Are there any products or sort of product areas AI obviously being one that's been a major initiative for you that you're seeing particular either outside growth or under growth relative to the overall business that you would call out?
+Brian Olsavsky
+Yes, sure. On that second point, I'd say we're seeing a lot of increased adoption and machine learning services especially Amazon Sage Maker. We've had tens of thousands of customers who are now using AWS machine learning services and we'll continue to innovate on behalf of those customers.
+We released more than 200 machine learning features and capabilities in 2018 alone in this area. Database is also a multibillion-dollar business propelled by Aurora. So we're seeing a lot of strength. We're seeing strong usage growth that outpaces revenue growth as usual increased pace of enterprise migrations.
+So, I would say that on a percentage growth basis again on a dollar basis, it's going very strongly. On a percentage growth basis, we are lapping some very strong growth in the first half of last year. We were growing about 50% in the first half of last year. There's some particular unique customer volumes that were flowing through that some customers have really high usage tied to their businesses. But for the most part, we continue to grow usage and our expansion of our services with all of our customers. So very happy.
+Operator
+Thank you. Our next question is from Justin Post with Merrill Lynch. Please proceed.
+Justin Post
+Great. Couple of questions. I guess, the first question is just happens with the customer behavior when they do have one-day availability? I'm assuming units go up, but can you give us any details on what happens or a category that switches to one-day what happens?
+And the second question, we've heard from some smaller checks that some of the smaller merchants are moving to 3P, not getting orders on the one piece side as much. Is there any change in your business there to really kind of focus more towards third-party from first-party? Thanks a lot.
+Brian Olsavsky
+Sure. No, we don't have category specifics to really share with you today on the move to one-day. I did say that generally in Q2 the unit volume was greater than revenue volume. So we did see some lower ASPs. But I think what you're saying is just a lot more products enter the consideration set for our customers.
+So things that maybe they can't wait two days on, they can wait one day, and it lights up a whole separate usefulness for the Amazon site. I've noticed that personally myself that just -- with one-day shipments, it's here before you know it. So what categories that hits specifically, we'll have to see over time.
+On your comment, I assume you meant vendors not merchants, but on the move from 1P to 3P, but no there shouldn't be -- I can't highlight anything related shifting in channel there, but I would say that we remain in different on whether -- we're focused on price convenience and selection for our customers. And whether product is a retail offering or third-party offering is not that important to us. As long as it's in stock, as long as it's priced competitively.
+So, as you know our 3P selection has -- our 3P percent of units has been increasing over time and increased again in this quarter to 54% of units. We continue to invest very heavily in our systems both for retail vendors and also for third-party merchants invest billions of dollars a year on behalf of then making Amazon a better place for customers to buy and increasingly not only vendor sales, but also third-party merchant sales.
+In particular on Prime Day, I think you'll see that we had -- over in the press release, we had more than $2 billion of products were bought from small and medium-sized businesses. So when we win, we win together with our vendor partners and also our seller partners.
+Operator
+Thank you. Our next question comes from Jason Helfstein with Oppenheimer. Please proceed.
+Jason Helfstein
+Thanks. So in the release you made a comment about automotive and Alexa, anything you want to elaborate a little more that looks like that's a very interesting opportunity? And then with respect to India, there were two comments in the release, but anything you can comment on kind of getting past some of the issues that had impacted the business in the past? I know you're past that now. Thank you.
+Brian Olsavsky
+Yes. Let me start with India. So yes, continue to see growth in programs for both sellers -- for our sellers and delivery partners. In the last 18 months, we've doubled the number of paid Prime member, which we're very excited about. We've invested a lot in our global selling program, which helps Indian sellers not only reach customers in India, but also in other geographies around the world.
+We started Amazon Flex in India, which helps our local partners to deliver packages, gives them jobs, grows our delivery capacity for sellers and increases our speed of delivery. So it's a win-win.
+We've also introduced package-free shipment program in nine cities. This is going to be a big part of our shipment zero program, a vision to make all Amazon shipment net carbon zero.
+On the government side, our engagement with the Indian government makes us optimistic about partnering and collaborating to seek a stable predicable policy that allow us to continue investing in our technology and infrastructure. And it also helps us to create jobs and scale local businesses.
+So, we think there's a lot of shared purpose there and a good quarter where we're looking forward to the Diwali holiday this year. The events we have for Diwali were all in Q4 last year some of them are in Q3 this year based on the timing of the holiday. So, that's factored into our international – excuse me, our, revenue growth rate for the quarter.
+Dave Fildes
+Yes, Jason. This is Dave. Just quickly on the Alexa point and auto, Alexa is really a more and more place. I think the point you're probably referencing is, we're now seeing hundreds of third-party devices with Alexa built in. So that runs the gamut from smart thermostat and another smart home devices, headphones, but also vehicle.
+So we've seen a lot of good partnerships and arrangements with companies like BMW and Mini and not just in the U.S., but in places like Europe as well. So a lot of this of course is just around the great power of Alexa and being able to offer even greater convenience and touch points where customers can interact with that and we're seeing a lot of good momentum with usage and how customers are interacting with Alexa.
+But also when you look at the broader environment of third-party devices, devices that we're rolling out in all of those things it's -- we're seeing a lot of good momentum there. And I think it's underpinned by the fact that Alexa is always getting smarter and so customers are enjoying the benefit of that enhanced experience.
+Operator
+Thank you. Our next question comes from Youssef Squali with SunTrust. Please proceed.
+Youssef Squali
+Great. Thank you very much. Two quick questions for me please. Can you quantify the cost of one-day shipping to Q3 guidance kind of similarly to what you did into 4Q too with that $800 million? And if they plateau how should be thinking about it, as we map it out over the next several quarters?
+And then you guys made a very intriguing acquisition, the Sizmek acquisition sometime back. I'm just wondering, how does it fit in the overall strategy? And is the idea to try to build may be a double click like-minded model, sorry using that platform? Thank you.
+Brian Olsavsky
+Hi, Youssef. Let me start your question on one-day. I'm not breaking out the specific cost this quarter as I did last year -- last quarter. Some of this is because it's very hard to pinpoint exactly the lines between one-day and other cost issues. So we're always working within a range. We're confidently we were near but just above our $800 million estimate in Q2.
+And as I said, this is going to take multiple quarters to play out. We had a meaningful step up in North America in Q2 and it was accelerating through the quarter. We'll see more cost in Q3. We'll see about Q4 when we talk and everything we know about or anticipate about Q3 is built into our guidance.
+So I wouldn't break out the dollar term. I will tell you at the end of the quarter kind of what we're seeing on cost and how it looks for Q4 as well. And the other thing I would point out on the trajectory is that, we're just getting started in international and most of that work is ahead of us although the speed that tick up a bit in Q1 -- excuse me Q2 but -- and will do even more so in Q3 in future quarters.
+Dave Fildes
+Yes. And then just on Sizmek quickly. We are excited to have acquired the Sizmek ad server and then Sizmek's dynamic creative optimization or DCO. Customers are going to be able to continue to use those proven products and services. We're invested in the long-term success of Sizmek. And again, Amazon advertising and Sizmek has many mutual customers, so we know how valued these prudent solutions are to the customer base.
+So we're looking forward to work with that team and we'll share more updates as we invent and create new opportunities to serve advertisers in the future.
+Operator
+Thank you. Our next question comes from Mark Mahaney with RBC Capital Markets. Please proceed. Sir, your line is live.
+Mark Mahaney
+Sorry about that. Hey Brian could you talk a little bit about the elasticity you're seeing -- you expect to see in international markets with the rollout of one-day? And I just -- the commentary in the press release about this acceleration from one-day, sounds great. It's a little surprising that you would see the reaction that quickly. But maybe this really is -- well you're obviously seeing it. You're confident you'll also see it as you roll out into international markets, if you could just comment on that? Thank you.
+Brian Olsavsky
+Sure. The -- of course the proportion of one-day shipments is higher in international to begin with in a lot of our countries. So we will -- we expect it to be very valuable to customers as we add selection into that one-day category. But we think the biggest elasticity is probably in North America where the standard has been 2-day shipping for Prime.
+So yes, I would say, you're faced with the -- you see it every time you go to our site. It's automatically built in. You're surprised by the speed. It's not like you have to search one-day shipping specifically to find out what's available. It's growing and it's pervasive.
+So I think what that does is, again it strengthens your purchase decision, it strengthens the need to not have to go elsewhere to buy a product because you need it quickly. So I think it's becomes a part of your routine. At least that's what we're seeing in North America. And we hope again as we build this capacity to more and more regions and more and more ZIP codes and adding more and more selection that everyone will see the same thing that we see already in major cities.
+I do want to add one point though because when we talk about operating income in both in Q2 and Q3 and we talk about the cost and penalty of one-day, I would like to highlight there's some other investment areas that are certainly going on here. If you look at Q2, our marketing expense was up 48% year-over-year and that's a combination of a few things.
+First, we're continuing to add our AWS sales and marketing teams. We see great opportunity there to help customers engage with our services and migrate to our products. So we continue to build out our sales force and our marketing programs. We're also adding more and more advertising as we roll out devices and Prime Video -- new Prime Video content in particular internationally.
+So we're seeing higher marketing costs. We're also seeing a higher stock-based compensation expense. That was up 36% year-over-year. And you'll see that our headcount grew 13% year-over-year.
+So when you look at some of our most quickly growing areas things like Alexa and AWS and also teams working on machine learning and other high-end technical projects, our technical headcount actually grew twice that rate or nearly twice that rate based on total headcount. So there's a lot of moving parts within our headcount number, but there's a very strong investment going on in AWS devices and videos in particular.
+Operator
+Thank you. Our next question comes from Ross Sandler with Barclays. Please proceed.
+Ross Sandler
+Hey guys, just two questions. The North America retail acceleration was 3.5 points and you mentioned international is about one. So can we attribute the difference to one-day? Or was there other organic acceleration in North America happening aside from the move to one-day?
+And then Brian related to that investing question, AWS operating margin came down a bit. I know they had a tough comp. But anything you would call out aside from the headcount stuff that you just mentioned that may have been lumpy in the quarter on AWS? Thanks.
+Brian Olsavsky
+Sure. Let me start with that second question. So yes -- sorry, the operating margin in AWS, just like the revenue rate it's such a rapidly growing business with different timing of investments and global expansion in investment in marketing and other infrastructure that is going to vary quarter-to-quarter.
+We had a -- we've come off a period where if you remember last year we had less investment needed in infrastructure both for AWS and for Amazon in total. The -- I don't have the number directly in front of me, but anyway we grew finance leases, which is essentially our props for capital leases for infrastructure by 9% in Q1 and it was 10% all of last year coming off a year in 2017 where we had growth of 69%. So we had that dynamic.
+Our trailing 12-month growth in that number is 21% after Q2. So it's stepped up from 9% to 21%. So we are starting to see as I mentioned in earlier calls that the investment will be stepping up in 2019, so started to see that in Q2. But the biggest, I would say the biggest impact in this operating profit was the addition of sales and marketing personnel in AWS and also to a lesser extent the stock-based compensation, which certainly hits across all of our businesses.
+Your comment on revenue growth differential, I mean there's so many different factors going on in every country that's hard to compare North America to international. But I would say that we are attributing a good bit of the revenue growth acceleration from 17% in Q1 to 20% in Q2 to the rollout of one-day and the impact of that.
+If there's other things, obviously, we continue to add selection and we have again lots of engagement points of customers through Prime Benefits and video and devices that certainly contribute to our revenue run rate in our retention of Prime members. But if we're going to point to one thing in Q1 that's different -- Q2 excuse me, that's different it was obviously the start of the -- and the step up in one-day shipments.
+Operator
+Thank you. Our next question comes from Mark May with Citi. Pleased proceed.
+Mark May
+Thanks for taking my question. I appreciate it. First I guess sort of an organizational question, but some of the feedback I've heard from the ecosystem is that it appears that the combination of the way Amazon's organized internally and just rapid growth in the ad business 1P, 3P that at times there are signs that kind of these teams internally are not always aligned and maybe that creates some issues.
+And just wonder first do you generally agree with this? And if so, what is the company doing to kind of better optimize these increasingly related functions that maybe in the past haven't always been organized internally that way?
+And then secondly in terms of subscription revenue where are we in terms of the benefit from the price increase announcement announced last year and rolled through to existing members throughout the last year and will this have any meaningful impacts in that lines growth say in Q3 of the back half of the year? Thanks.
+Brian Olsavsky
+Sure. So, I assume your first question is about the coordination of advertiser with teams that are interacting with vendors and sellers, perhaps is that what you meant?
+Mark May
+Exactly. Yes.
+Brian Olsavsky
+Okay. Yes, so, first, I'd say we're customer-focused first and primarily, but we need to have good coordination across our teams and we grow fast and we add new things. So, there's always learnings that we have that's why we say it's still day one here. But we're trying to minimize the negative impact on any vendor or seller out there.
+So, I can't comment on any certain -- on exactly what issues you might be talking about. We have teams dedicated to the seller experience and the vendor experience and we think they do a good job of selling the whole suite of products including advertising -- with the advertising teams at Amazon.
+But as you say they're separately run and they can meet at different points and sometimes at certain vendors perhaps that may get out of hand are get out of sync. But hopefully that is a temporary condition.
+On subscription revenue, yes, we -- you remember we raised the price of Prime in the U.S. last June from $99 to $119. So, the largest impact -- favorable impact from that at least from a subscription revenue standpoint would have happened in the subsequent four quarters, less in Q2, more in Q3 through Q2 of this year.
+So, yes, that will be a factor that we're comping for the next 12 months. Its offset by the growth in the Prime program itself and the expansion of Prime Benefits or the Prime program globally. You may see that -- may have seen we have launched Prime in United Arab Emirates this quarter. So, it's not something -- it's something we've certainly seen in the past with timing of price increases, but it's built into the Q3 guidance that I've given.
+Operator
+Thank you. Our next question comes from Colin Sebastian with Robert W. Baird. Please proceed.
+Colin Sebastian
+Great. Thanks. I guess first up curious just a follow-up on the ASP comments if those were – if that shift within the same categories or just lower ASPs imply diversification into new categories. But my main question is just looking ahead of the holiday period given some of the moving parts and 3PL and shipping ecosystem and then of course with the transition to one-day, are you confident that there is enough capacity from your own first-party logistics as well as third-party partners to meet that seasonal demand and should we now expect a faster ramp in Amazon Air as the means to move cargo between fulfillment centers? Thanks.
+Brian Olsavsky
+Yes. So, I would say the first time we started discussing the rollout of one-day our first thoughts went to Q4 this year and our capability for holiday and as much as Q2 and Q3. So we are confident that we will have the ability to handle seasonal demand. We are working very hard to expand our one-day capacity, add carriers, add delivery partners at our own AMZL capability and have our partners expand their capabilities as well.
+So we're feeling good about Q4. It's a little early to discuss that now, but we certainly had a really good test on Prime Day. It was the two biggest days we've ever had. A lot of good work went into Prime Day, a lot of benefit for customers, a lot of benefit for our selling partners, the small business merchants as well. So it was a good test for us.
+And, sorry, your question on low ASP, I think we're still figuring that out a bit. I mean they -- what I'm reacting to is the high unit growth relative to good growth in revenue, but unit growth grew faster. I'm always a little vary to put too much into the unit growth number.
+As I've talked in other quarters, it's a number that's excludes AWS subscription services, advertising and Whole Foods, which are some of the fastest growing areas and we also have – are actively selling subscription services like Kindle Unlimited and Amazon Music Unlimited, which can cannibalize unit sales. So there's a lot of moving parts, usually our headwinds to our unit growth number, but again happy with the 800 basis point quarter-over-quarter jump in that.
+Operator
+Thank you. Our next question comes from Brent Thill with Jefferies. Please proceed.
+Brent Thill
+Thanks. Brian just on the op income guide for the next quarter, it's significantly below where many of us are at. I'm curious if you could just talk to any changes around expenses and the success of one day just doubling down or can you just walk through what's transpires in the next quarter? Thank you.
+Brian Olsavsky
+Yes, sure. So again the biggest individual item is the one-day shipping. As I said earlier, we had a meaningful step up in shipments in Q2 versus Q1, but we're still on our way and Q3 will be a step up over Q2 in North America and we'll see more in international. So it's -- that increase in one-day shipping and all the associated cost of additional transportation and getting capacity in place. As I mentioned earlier new costs and things like expanding inventory, getting it closer to the customer.
+Just a lot of things moving -- a lot of moving parts in the fulfillment center world right now and our transport networks. So that is the biggest individual contributor but as I mentioned in Q2's results, some of the investments in marketing, the step up in infrastructure spending that should continue.
+We certainly have a lot of areas where we continue to invest not the least of which is our AWS business, devices, video, the global expansion of a lot of our Prime Benefits and things like stores and grocery delivery through Whole Foods, Prime Now and AmazonFresh.
+So I would say, yes, we had -- as we've mentioned the last couple of calls, we had some lessening of expenses in some key areas last year, mostly tied to headcount growth, infrastructure and fulfillment capacity.
+We expected a step up in 2019. We didn't see as much of it in Q1, mainly because of the timing of the seasonality of the year and getting things going. We’re seeing more of it in Q2 and we'll see it through the remainder of the year.
+Operator
+Thank you. Our final question will come from Eric Sheridan with UBS. Please proceed.
+Eric Sheridan
+Thanks so much. Maybe a few small questions on the advertising side of the business if I can. How much of the advertising business would you be willing to say is driven by domestic sellers and domestic brands versus the international side?
+Two, how do you think about the video ad revenue opportunity? We continue to hear from a lot of people in the advertising industry that you might be a bigger player in video advertising later this year or more into next year, how do you think about making investments against that possibility or even just possibility of being a driver in your platform overall? Thanks so much for the color guys.
+Dave Fildes
+Yes, Eric this is Dave. I think started with the video advertising that one focus areas for us is expanding our video and over the top offerings for brands. We've taken some steps with live sports and then IMDb TV, but we'll continue to do things like add more OTT video supply, just things like Amazon Publisher service integrations and simplifying access for third-party apps and add more inventory through things like Fire TV apps and IMDb TV. So some interesting areas that we're continue to put a lot of focus into.
+Now the first part of your question, in terms of geographical mix, I mean, fair to assume that like a lot of our business, advertising in the North America segment is the bigger piece of that, but I think we're really excited about the international opportunity.
+A lot of the tools that we've rolled out introduced in places like the United States aren't available in many of the international regions. And so, it's a matter of continuing to work with advertisers and brands and kind of buildup, not only awareness but just how those -- add things like sponsored products interact with customers and how they receive -- building up the things we talk about many times here around improving relevancy on each of those geographic websites is an important thing that we're measuring. So, expected to continue see us look for new ways to be able to roll that out.
+Dave Fildes
+Thank you for joining us on the call today and for your questions. A replay will be available on our Investor Relations website, at least through the end of the quarter. We appreciate your interest in Amazon and look forward to talking with you again next quarter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+19 Authors in the Last 90 Days

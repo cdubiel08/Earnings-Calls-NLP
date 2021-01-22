@@ -1,0 +1,44 @@
+Cadence Design Systems, Inc. (NASDAQ:CDNS) Q1 2019 Results Conference Call April 22, 2019  5:00 PM ET
+Company Participants
+Alan Lindstrom - Senior Group Director, IR
+Lip-Bu Tan - CEO
+John Wall - SVP and CFO
+Conference Call Participants
+Rich Valera - Needham & Company
+John Pitzer - Credit Suisse
+Mitch Steves - RBC Capital Markets
+Jay Vleeschhouwer - Griffin Securities
+Jackson Ader - JP Morgan
+Jason Celino - KeyBanc
+Gal Munda - Berenberg
+Operator
+Good afternoon. My name is Chanelle and I will be your conference operator today. At this time, I would like to welcome everyone to the Cadence First Quarter 2019 Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session. [Operator Instructions] Thank you.
+I will now turn the call over to Alan Lindstrom, Senior Group Director of Investor Relations for Cadence. Please go ahead.
+Alan Lindstrom
+Thank you, Chanelle. And I would like to welcome everyone to our first quarter 2019 earnings conference call. I am joined by Lip-Bu Tan, CEO; and John Wall, Senior VP and CFO. The webcast of this call is available through our website, cadence.com and will be archived through June 14, 2019. A copy of today’s prepared remarks will also be made available on our website at the conclusion of today’s call.
+Please note that today’s discussion will contain forward-looking statements and that actual results may differ materially from those expectations. For information on the factors that could cause a difference in our results, please refer to our filings with the Securities and Exchange Commission.
+These include Cadence's most recent reports on Form 10-K and Form 10-Q, including the Company's future filings and the cautionary comments regarding forward-looking statements in the earnings press release we issued today. And by the way, we just filed our first quarter Q a few minutes ago. So, it's now available.
+In addition to financial results prepared in accordance with Generally Accepted Accounting Principles or GAAP, we will also present certain non-GAAP financial measures today. Cadence management believes that in addition to using GAAP results in evaluating our business, it can also be useful to review results using certain non-GAAP financial measures.
+Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with their most direct comparable GAAP financial results. The reconciliations are available at the Investor Relations section of cadence.com.
+Copies of today's press release dated April 22, 2019 for the quarter ended March 30, 2019, related financial tables and the CFO Commentary are also available on our website.
+And now, I will turn the call over to Lip-Bu.
+Lip-Bu Tan
+Good afternoon, everyone, and thank you for joining us today. Cadence achieved excellent operating results for the first quarter of 2019, delivering 11% year-over-year revenue growth and 32% non-GAAP operating margin with broad-based strength across our product line. As a result, we are increasing our outlook for the year, and John will provide more details shortly.
+While there is some uncertainty in the overall macro environment, we are confident about the multiple trends that are continuing to drive strong design activity. In addition to technology trends, like AI and 5G, design activity is being fueled by workload specific computing, system companies building custom silicon, new silicon startups and digital transformation of industries such as automotive, aerospace, medical and other industrial applications.
+Our business is mission critical to silicon development, which is cornerstone of our design activity. As we have stated, our system design enablement or SDE strategy drives growth in our core EDA and IP business, broadens our reach in system companies and targeted verticals, and guides our expansion into newer adjacent areas. We executed well on this strategy. And today I want to highlight its next phase, which we’re calling Intelligent System Design. The foundation of this strategy continues to be delivering design excellence via our core EDA and IP business. In addition, we are building upon our core competency in computational software to expand into two new areas, system innovation where we are expanding into new system domains; and pervasive intelligence where we will apply AI and our algorithm knowhow to our core business and specific verticals.
+Our Intelligent System Design strategy will enable us to provide more capabilities and value to our customers, while also expanding our current total addressable market from about $10 billion to estimated $30 billion over the next five years.
+To highlight some of this -- some of our recent activities in the system innovation space, in Q1 we announced a strategic partnership with Green Hills Software, which opens new opportunities in the estimated more than $3 billion embedded system, safety and security space.
+And earlier this month, we entered the system analysis market an estimated $4.5 billion total addressable market opportunity by introducing our first product Clarity3D Solver, a next generation solution for electromagnetic field simulation. Clarity is a true 3D Solver, which delivers up to 10x faster simulation performance while virtually unlimited capacity without compromising accuracy. Clarity uses state of the art distributed multiprocessing technology, making it uniquely optimized for the cloud and on-premise distributed computing, and has been endorsed by Teradyne, and HiSilicon.
+Turning to our core business. Our digital input -- Digital and Signoff business achieved 12% year-over-year revenue growth, driven by strong adoption by new customers, and proliferation by existing customers at advanced nodes. To date, more than 100 7-nanometer designs have taped-out using our digital solutions, and multiple 5-nanometer designs are underway using our solutions as well.
+Our hardware-assisted verification products, an important part of our verification suite, had another good quarter. Palladium Z1, our flagship emulation platform, added two new customers that are doing machine learning designs including SambaNova Systems. We also had 13 repeat orders, including three significant expansions, one of which was at Annapurna Labs, an Amazon Company.
+Our Protium S1 prototyping platform which enables early software development, also added two new customers, and received seven repeat orders. Palladium Cloud continued its steady momentum, and now has more than 10 customers, several of which have made repeat orders.
+Our IP business also showed double digit growth year-over-year. Tensilica continued to win sockets for machine learning, vision and audio applications in the automotive, consumer and surveillance segments, adding eight new customers in the quarter.
+In the design IP space, our new 112 gig long-reach SerDes IP was adopted by a marquee semiconductor company, and we launched the industry’s first complete silicon-proven LPDDR5 solution.
+As I said earlier, our strategy broadens our reach in system companies and targeted verticals. One of our most successful targeted verticals is aerospace and defense, where we recently announced that we are working with Northrop Grumman, where our EDA, IP solutions have supported a shortened product development cycle and advanced node tape-outs.
+Lastly, I want to highlight the new Cadence CloudBurst Platform, the latest addition to our Cloud portfolio which extends our cloud leadership in EDA and provides customers with very compelling productivity, flexibility and scalability benefits. CloudBurst enables hybrid cloud environments and is ideal for serving peak demand. It provides fast and easy access to pre-installed Cadence design tools in either AWS or Azure cloud environments. It was used by Barefoot Networks to achieve a 10x productivity improvement running Cadence Tempus Timing Signoff Solution on their 7-nanometer networking chips.
+With that I will now turn the call over to John to review the financial results and provide our updated outlook.
+John Wall
+Thanks Lip-Bu, and good afternoon everyone.
+Cadence achieved broad-based growth across all lines of our business during Q1 with demand for hardware and IP exceeding our original expectations. Revenue, operating margin and cash from operations were all strong in Q1, and as hardware and IP have become a larger part of our overall business, our recurring revenue mix percentage is now in the high 80s.
+Now let’s go through the key results for the first quarter starting with the P&L.
+Total revenue was $577 million. Non-GAAP operating margin was 32%. GAAP EPS was $0.43, and 

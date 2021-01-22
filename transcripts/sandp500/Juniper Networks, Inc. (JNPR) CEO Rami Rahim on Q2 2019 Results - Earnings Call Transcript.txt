@@ -1,0 +1,292 @@
+Juniper Networks, Inc. (NYSE:JNPR) Q2 2019 Earnings Conference Call July 25, 2019  5:00 PM ET
+Company Participants
+Jess Lubert - Vice President of Investor Relations
+Rami Rahim - Chief Executive Officer
+Ken Miller - Excutive Vice President and Chief Financial Officer
+Conference Call Participants
+Paul Silverstein - Cowen and Company
+Simon Leopold - Raymond James & Associates, Inc.
+Jeffrey Kvaal - Nomura Instinet
+John Roy - UBS
+Brian Yun - Deutsche Bank
+Rod Hall - Goldman Sachs
+Meta Marshall - Morgan Stanley
+Samik Chatterjee - JPMorgan
+George Notter - Jefferies
+Sami Badri - Credit Suisse
+Jim Suva - Citigroup
+Michael Genovese - MKM Partners
+Tejas Venkatesh – UBS
+Operator
+Greetings. Welcome to the Juniper Networks Second Quarter 2019 Earnings Results Conference Call. At this time, all participants are in a listen-only mode. A question-and-answer session will follow the formal presentation. [Operator Instructions] Please note, this conference is being recorded.
+I will now turn the conference over to your host, Jess Lubert, Vice President of Investor Relations. Mr. Lubert, you may begin.
+Jess Lubert
+Thank you, operator. Good afternoon and welcome to our second quarter 2019 conference call. Joining me today are Rami Rahim, Chief Executive Officer; and Ken Miller, Chief Financial Officer.
+Today’s call contains certain forward-looking statements based on our current expectations. These statements are subject to risks and uncertainties and actual results might differ materially. These risks are discussed in our most recent 10-K, the press release and CFO Commentary furnished with our 8-K filed today, and in our other SEC filings. Our forward-looking statements speak only as of today, and Juniper undertakes no obligations to update any forward-looking statements.
+Our discussion today will include non-GAAP financial results. Reconciliation information can be found on the Investor Relations section of our website, under Financial Reports. Commentary on why we consider non-GAAP information a useful view of the company’s financial results is included in today’s press release. Following our prepared remarks, we will take questions. Please limit yourself to one question and one follow-up.
+With that, I will now hand the call over to Rami.
+Rami Rahim
+Thank you. Good afternoon, everyone. The June quarter came in largely as we had expected. Total revenue of $1,102 million were towards the midpoint of our guidance and in line with normal seasonal trends for the June quarter. We experienced sequential growth across all verticals and technologies with a notable sequential improvement in our cloud vertical, which stabilized on a year-over-year basis.
+Non-GAAP earnings per share of $0.40 came in a $0.01 above the midpoint of our forecast, as strong cost controls more than offset the impact from the recent increase in China tariffs and a higher non-GAAP tax rate in the period.
+The first-half of 2019 played out largely as we expected and we are seeing healthy momentum in several areas of our business, which is providing confidence in our ability to not only deliver sequential revenue growth through the remainder of the year, but also a return to year-over-year revenue growth during the December quarter.
+Now I’d like to walk you through some of the highlights of the quarter and some of the items driving our confidence for the rest of the year. We experienced improved trends within our cloud business during the June quarter, due to an acceleration of some wide area deployments, which had previously been proceeding at a slower rate.
+While our cloud business is likely to remain lumpy on a go-forward basis and maybe down sequentially during the September quarter, current momentum is healthy and we feel good about the outlook of this business, especially now that the MX to PTX transition is largely behind us.
+We continue to believe we are holding our footprints in our cloud customers wide area networks and our position to grow with their capacity requirements in the segments. While cloud wide area spending trends should present growth opportunities for us over the next few years, we are very much focused on leveraging the 400-gig cycle to capture new use cases in the hyperscale market, particularly in the data center interconnect and spine-and-leaf Switching segments.
+On this last point, we have not only begun shipping our first merchant and custom silicon-based 400-gig capable product, but also introduced a cloud optimized version of Junos that we believe offers superior programmability, modularity and open API support needed to win the footprint we are targeting.
+We plan to introduce additional 400-gig capable products through the course of this year and next, and we believe we will further strengthen our ability to win new hyperscale use cases, or even a modest level of success to present material tailwind for our business in the years to come.
+We are continuing to see very healthy trends in the enterprise business. While our Q2 enterprise revenue declined 6% year-over-year, this is largely a function of timing as our enterprise bookings increased double-digit sequentially and 12% year-over-year, with sequential and year-over-year growth across all technologies, and we were able to build backlog on both a sequential and a year-over-year basis.
+We believe we have the right product and strategy to win in the enterprise market and remain confident this vertical will grow for the year. This confidence is being fueled by the strength of our data center and campus offering, which we believe are differentiated and positioned to win in the market.
+In the data center, we believe the combination of Contrail Enterprise Multi-cloud and our QFX switches offer a compelling value proposition for customers looking to move from single-vendor private cloud environments to a multi-vendor multi-cloud state. These trends are beginning to play out in the market now and should accelerate in the years to come.
+The value of our data center strategy is resonating in the market and Gartner for a second year in a row named Juniper as a leader in its Magic Quadrant for Data Center Networking. We are also confident that we are very well-positioned in the enterprise campus and branch market.
+With the acquisition of Mist Systems, we are now one of only two industry players that can offer a full portfolio of enterprise Wi-Fi switching, routing, security and SD-WAN solution.
+We believe our AI for enterprise capabilities are truly differentiated and that we are well-positioned to benefit as the industry transitions to Wi-Fi 6 over the next several years. The Mist acquisition is proceeding well with strong field engagement and early wins providing optimism for our acquisition.
+In addition to maintaining a comprehensive campus and branch portfolio that brings differentiated AI, cloud management and security capabilities, I also want to highlight that we maintain a large established channel, a dedicated enterprise sales force where we are investing and more than 15,000 established enterprise customers, many of which we believe can be further monetized with these new solutions like SD-WAN and Mist.
+We believe these attributes differentiate us from our peers and should enable us to gain share in the years to come. We are continuing to see success in our software business, which grew 17% year-over-year and accounted for more than 10% of revenue during the June quarter. This strength was driven by a combination of on-box and off-box offerings.
+While our success may not be linear, we believe our software as a percentage of sales will continue to increase over time, especially as subscription-based pricing models become more pervasive and gain traction in the market.
+Finally, we are continuing to see strength in our services business, which grew 2% year-over-year and accounted for 35% of our overall revenue. Our service team continues to execute well driving strong service attach rates and renewals.
+While not a surprise, our service provider business remains challenge. We believe our service provider relationships remain strong and the weakness we’re seeing is tied to our customers business model pressures and the expected timing of project deployments.
+Despite these challenges, we do expect our service provider business to experience better sequential trends during the second-half of the year, based on our current pipeline of known opportunity. With the availability of our new MX 5G line cards, the strength of our Contrail orchestration platform and our partnership with Ericsson, we believe we are well-positioned to capitalize on our service provider customers 5G and telco cloud initiative, which could begin to start playing out later this year.
+I think it’s worth highlighting that we have begun to shift several important new products. While these platforms will take time to work through customer qualifications, they should strengthen our competitive position across our service provider, cloud and enterprise markets.
+Some of these include new MX 5G line cards that enhance our ability to capitalize on the service provider capacity requirements, new QFX switches and PTX routing platforms designed to capitalize on customer 400-gig upgrades, enhanced Contrail Enterprise Multi-cloud software capabilities that breaks down the barriers of incumbency and make moving to a multi-vendor, multi-cloud state a reality with increased simplicity and reduced cost, and new SD-WAN capabilities to enhance our ability to penetrate enterprise campus and branch opportunities.
+We believe 5G, the 400-gig upgrade cycle, SD-WAN, Wi-Fi 6 and enterprise multi-cloud initiatives, each represent large multi-year opportunities, where we should be well-positioned to benefit over the next few years.
+Importantly, I would like to note that I’m very pleased with the progress we’re making with our sales transformation. The changes we have made are already starting to yield benefits in the form of improved sales productivity and enhanced level of confidence in the pipeline driving our forecasts.
+We are now in the process of adding more quota-carrying sales headwinds to the field. While it is likely to take these new reps at least a few quarters to achieve full productivity, we do expect them to start contributing during the second-half of the year, with a further ramp in coverage and productivity that should present additional tailwind through the 2020.
+Based on these dynamics, I remain confidence in our ability to deliver sequential revenue growth during the second-half of the year and a return to year-over-year revenue growth during the December quarter. I would like to extend my thanks to our customers, partners and shareholders for their continued support and confidence in Juniper. I especially want to thank our employees for their hard work and dedication, which is essential to creating value for our stakeholders.
+I will now turn over the call to Ken, who will discuss our quarterly financial results in more detail.
+Ken Miller
+Thank you, Rami, and good afternoon, everyone. I will start by discussing our second quarter results and end with some color on our outlook. Second quarter revenue of $1,102 million was an increase of 10% sequentially and in line with our guidance. As expected, we saw sequential revenue growth across all verticals and all technologies.
+Looking at our revenue by vertical, Cloud increased 28%, Enterprise increased 8% and Service Provider increased 3% sequentially. From a technology perspective, Routing increased 11%, Switching increased 22% and Security increased 20% sequentially.
+On a year-over-year basis, Service Provider declined 15%, Cloud was flat and Enterprise declined 6%. Although enterprise revenue decreased year-over-year, our bookings increased double digits versus last year. As Rami mentioned, we are pleased with our momentum and success in the enterprise vertical.
+Our services business continue to grow posting growth of 2% year-over-year and 1% sequentially due to strong renewals and attach rates of support contracts. Software revenue was a highlight growing year-over-year and was greater than 10% of total revenue.
+In reviewing our top 10 customers for the quarter, four were Cloud, five were Service Provider and one was an Enterprise. We had one customer from the cloud vertical that accounted for more than 10% of our total revenue in the second quarter.
+Non-GAAP gross margin was 59.2%, slightly below the midpoint of our guidance, primarily due to the increase in China tariffs from 10% to 25%. Overall, non-GAAP operating expenses were down 2% year-over-year and 1% sequentially due to lower headcount-related cost and improving operating expense management.
+Headcount was slightly down sequentially, primarily as a result of outsourcing IT services to IBM, which was partially offset by the acquisition of Mist Systems and additional hires in our go-to-market organization. Non-GAAP earnings per share was $0.40, a $0.01 above the midpoint of our guidance.
+Looking at our balance sheet. Total cash, cash equivalents and investments at the end of the second quarter were $2.9 billion. The sequential decline was primarily due to the cash outflows associated with the acquisition of Mist Systems and our recent accelerated share repurchase program or ASR.
+We generated cash flow from operations of $89 million for the second quarter. The primary reasons for the sequential decline despite stronger net income, where lower cash collections and timing of working capital related to supplier payments. We expect to see stronger cash generation in the second-half of 2019. As part of our ongoing capital return program, we paid $66 million in dividends and entered into a $300 million ASR.
+Before we move onto Q&A, I would like to provide some color on our guidance, which you could find details in the CFO commentary available on our website. Our second-half revenue outlook reiterates the commentary we stated previously, which reflects our expectation for above normal seasonal trends and a return to growth in the fourth quarter, due to our current pipeline of opportunities, as well as the expected positive impact from our go-to-market transformation activities. I like to reiterate our confidence in the long-term financial model we outlined at our Investor Day in November last year.
+Full-year non-GAAP gross margin is expected to continue to be pressured by China tariffs. I’m proud of our team as we’ve been able to mitigate the vast majority of potential impact of the China tariffs. Despite these ongoing mitigation efforts, the increase in tariffs from 10% to 25% is expected to have a 30 to 50 basis point impact on full-year non-GAAP gross margin.
+We plan to manage our operating expenses prudently. However, we continue to expect non-GAAP operating expenses on a full-year basis to be flat to slightly up versus 2018, inclusive of the acquisition of Mist Systems.
+In the second quarter of 2019, we adopted a full-year projected tax rate in our computation of the non-GAAP income tax provision to provide better consistency across reporting periods. For the remainder of 2019, we expect a non-GAAP tax rate of approximately 19.5%.
+Due to the increased China tariffs and a higher non-GAAP tax rate, we now expect our full-year non-GAAP earnings per share to be at the low-end of the previously stated range of $1.75 per share plus or minus $0.05.
+In closing, I would like to thank our team for their continued dedication and commitment to Juniper’s success.
+Now I’d like to open the call for questions.
+Question-and-Answer Session
+Operator
+At this time, we will be conducting a question-and-answer session. [Operator Instructions] Our first question comes from Paul Silverstein, Cowen. Please proceed with your question.
+Paul Silverstein
+I appreciate you for taking the question, guys. Two quick questions. One, I know it’s hard to discern how much of an improvement is due to macro and how much is improved competitive stance from execution? But that said, can you take a crack and get response to that question? And then I’ve got a quick follow-up.
+Rami Rahim
+Okay. Hey, Paul, thanks for the question. I think the improvement in cloud is very much based on the fact that we are now through the big product transition that we’ve been talking about now for a year from MX to PTX. As a result of that, the blended pricing is now at a much more normalized level. And as we have been seeing, we’ll see a recovery in that business based on the pace at which deployments happen in the routing space within the vertical and, in particular, in the hyperscale part of that vertical.
+In the enterprise, the strong year-over-year bookings and the sequential performance in that business, I believe that the combination of robust spending in the enterprise space, which we’re taking advantage of, but certainly also a very strong product portfolio that spans both the data center, as well as the campus and branch. And, in particular, in the campus and branch now where we have the combination of a really strong portfolio in the wired switching space and now with what I believe to be the best wireless LAN solution with Mist Systems. So we’re certainly benefiting from that.
+In the service provider space, it’s really more of the same in terms of some of the market dynamics, but it’s a challenging environment. We expect it to remain challenging for sometime, but there are some catalysts there over the long-term around 5G that can certainly help.
+Paul Silverstein
+Rami, on the – on your responses on the cloud and enterprise, first, on the cloud. The MX – the PTX transition was a while ago, and since then, you’ve been commenting that the volumes haven’t come in. What’s changed now, especially given that when a lot of us look at the CapEx trends in cloud, obviously, they’re not what they were last year, albeit there have been some crosscurrents. What do you think it’s changing as it relates to your product portfolio? And then on the enterprise, when you talk about strength and in demand, is that pretty uniform across the major geos, or is it particular in the U.S. or other markets?
+Rami Rahim
+Yes. So on the – in the cloud space, now what we’re seeing is essentially a reacceleration of some of the routing deployments among some of our largest cloud customers that we have benefited from. I expect that, we’re going to see a continued recovery over the next few years in the cloud routing space, primarily because of the fact that their businesses are doing very well.
+And in order to continue to support their businesses, they’re going to need to invest in their network infrastructure. In order to get to even better performance in the cloud vertical, we’re very focused on net new footprint and use cases, especially as it in the switching space for data center interconnect and spine-and-leaf.
+In the enterprise, we saw really great strength in the government space internationally, but especially here in the U.S. And I think Europe and the U.S., in particular, were strong for us in the enterprise beyond government, right, and larger enterprise banks financials and the mid range of the market, which obviously spans many different verticals. Again, I do think that the spending environment there remains fairly robust and we’re taking advantage of that. And I believe our technology roadmap and the products we have in the market are really strong.
+Ken Miller
+Yes. Just to add on the cloud space, I agree that the PTX transition is largely behind us and I would say that the cloud vertical has largely stabilized. That said, any given 90-day period, you’re going to see some lumpiness in our quarter-to-quarter revenue, based just on customer deployments. In fact, I would expect Q3 to be down slightly off of this very positive Q2 result. I do think the second-half will be largely in line or largely stable to the first-half, but I do think sequential decline in Q3 is expected.
+Paul Silverstein
+Thanks a lot.
+Operator
+Our next question comes from Simon Leopold, Raymond James. Please proceed with your question.
+Simon Leopold
+Thank you. I wanted to see if maybe you could drill down a little bit more on your thoughts on the 400-gig Ethernet switch opportunity. I think there might be some confusion about the opportunity as it relates to timing, given the limited availability of the optics going into the switches. It sounds like that market is beginning without the optics. If you could maybe help us understand how to think about the trajectory there? And then I’ve got a follow-up.
+Rami Rahim
+Yes, thanks for the question, Simon. So you are right. I think, the market opportunity for the 400-gig capable product starts before the availability of 400-gig optics, primarily because many of these products are actually, in fact, capable of supporting both 100-gig denser 100-gig configurations, as well as 400-gig.
+As I mentioned in my prepared remarks, we have our first set of platforms, a custom silicon-based platform and a merchant silicon-based platform, both of which support dense 400-gig, but even denser 100-gig configurations. Those are now being tested by our customers and we are essentially competing for net new footprint.
+The ramps in terms of meaningful revenue contribution really won’t start until the 400-gig optics become available. I expect that to happen in first-half to middle of next year. And then keep in mind that we do have an investment that’s happening in the silicon photonics space that enables us to become masters of our own destiny in terms of providing the types of 400-gig optics, which we believe will have superior economic value propositions in order to support our 400-gig systems and software roadmap that will see light of day over the next couple of quarters.
+Simon Leopold
+Yes. So that was actually – my follow-up is, if you could give us an update on the silicon photonics efforts, given last quarter, you had talked about not focusing on 100, so that you could put your energy into a 400-gig product. I’d appreciate just an update of the progress and timeline for availability of 400-gig optics from Juniper?
+Rami Rahim
+Yes, certainly. So you’re right. We explained, described a change in strategy around our silicon photonics effort. We were primarily using 100-gig as a way to learn. As you know, this is a new area of of innovation for us, and there are always going to be lessons learned whenever you’re sort of charting new territory.
+We have diverted focus on the 400-gig. The lessons that we’ve learned in the 100-gig effort have already been applied to our 400-gig effort. I remain optimistic about the opportunity and our ability to introduce into the market 400-gig optics in the first-half of next year, which will be perfectly timed with what we believe to be the ramp within our customers for 400-gig networks.
+I do think that we’ll have optics that will have a superior economic value proposition, superior power profile that is obviously very meaningful to all of our customers, but especially our cloud customers. There is still some risk, because again, this is a new innovation area for us. But with every passing month and the lessons that we’ve learned, I believe that we have mitigated – we’re mitigating more and more of the risk. So at this point, I’m quite optimistic of our ability to deliver on the roadmap.
+Operator
+Our next question comes from Jeffrey Kvaal, Nomura Instinet. Please proceed with your question.
+Jeffrey Kvaal
+Thank you very much. I would love to dial into that 400-gig in cloud overlap a little bit more. It sounds like you are shipping some of these items, and it seems as though cloud is going well. Are you suggesting that you’ve actually won some 400-gig footprint now, or are these shipments primarily going into trials for the moment?
+Rami Rahim
+We are primarily in the trial phase of the 400-gig cycle right now. So in some cases, those are in labs, in some cases, we’ve actually seen some very early sort of limited production type of testing that is happening. And this is the time in which we engage with our customers to make sure that we’re tucked and tied across the entire innovation stack from our new software capabilities and with our cloud-oriented Junos software that we’ve now introduced into the market and the new systems, and it’s looking good. It’s still early days, but I have to say that the feedback from our customers is very encouraging.
+We still got a lot of execution ahead of us. But based on what we’ve seen from a competitive standpoint, the products that have been in the roadmap for sometime, the feedback that we’re getting from our customers, the early testing that we’re doing, I think we’re in good shape to be able to take some net new footprint, which has always been the strategy.
+Ken Miller
+Yes, and just to clarify, the Q2 results in cloud had very little impact with 400-gig. We are starting to ship getting into trials, getting into testing labs, et cetera. But the revenue that we posted in Q2 was really more of our typical revenue pairs [ph] we have from the cloud vertical, not 400-gig-related.
+Jeffrey Kvaal
+Okay. That makes sense, Ken. Thank you. How long do you think it will be before some of these items actually make it out of production testing into actual shipments that you would then be able to talk about with us?
+Rami Rahim
+I think that the volume shipments will largely be based on the availability of 400-gig optics, which is in the first-half of next year. The activities are happening now and the awards are going to happen over the next couple of quarters. And that’s what we’re absolutely focused on right now is essentially proving ourselves, so that we can get a real crack at net new footprints. And as I mentioned, I think, we’re in good shape to do that.
+Operator
+Our next question comes from John Roy, UBS. Please proceed with your question.
+John Roy
+Great, thank you. Rami, you obviously are very optimistic about the back-half. I wonder if you could give us a little more color on what of the number of things you see happening in the back-half are really giving you the confidence maybe in rank order? It’d be good, if you could give us, helpful?
+Rami Rahim
+Certainly, John. So I think there are a number of factors. First is just the timing of build-outs among our customers, especially in the service provider space, where we have visibility into some projects that are happening in the back-half that will contribute to the momentum in that vertical. I do think if you see our performance in the enterprise, exiting the first-half of the year, where we build some good backlog, I think, that momentum is solid and will certainly contribute to the second-half.
+The investments that we have been making in the sales organization where we have undertaken a fairly significant and somewhat difficult transformation, the hard work of the transformation effort is now behind us. And it really is now around investing in net new quota-carrying sales or reps that will take time to become productive. And I think by the time we get to the sort of Q4 timeframe and into next year, certainly, I do believe that they will contribute meaningfully to our momentum all up.
+I will also add the innovation cycle. So we’ve announced a number of new products and, in fact, introduced a number of products into the market. So the MX 5G, for example, net new line cards that triple the performance and capacity of those platforms, those are now in customer trials. They’re being tested. And I think that will start to contribute in the second-half of the year. Mist, our software efforts around enterprise, multi-cloud connectivity will start to payoff increasingly near the second-half of the year.
+The last thing I will mention is just about forecasting rigor, which has been a real focus of ours as a function of this sales transformation effort. We’ve really added more emphasis on our ability to improve forecasting and predictability. And so all of these factors together, I think, is what’s contributing to the confidence we have in the second-half of the year.
+John Roy
+Great. It’s very helpful. And one other final question, you were talking about you’re holding your share, or at least your footprint you think in the cloud. Are you seeing any other share changes in any of the other areas? Obviously, you expect share gains in the back-half, I would think. But could you give us any color on the quarter’s possible share changes?
+Rami Rahim
+Well, you’re right. We believe that the strategy that we have been embarking on of proactively taking our customers from the MX product line to the PTX product line in areas where it makes sense to do so has achieved the net goal that we were after, which is to maintain that footprint. We don’t believe that we have been displaced from any of the networks where we have that strength.
+I think the next opportunity for share shift will happen in the 400-gig cycle. And that just goes back to the commentary I just provided around the trial, the proof-of-concept testing that is happening right now. The words that I believe will start to happen over the next couple of quarters. And then ultimately, the deployments that will result in potential share shift from a revenue standpoint in the first-half and sort of middle of next year.
+Operator
+Our next question comes from Brian Yun, Deutsche Bank. Please proceed with your question.
+Brian Yun
+Hey, guys. I just had a question on 400-gig and the optics as well, particularly as it relates to your go-to-market. So I know you highlighted sort of like the engineered partnerships with some of the large cloud – to large cloud guys and building the custom silicon. But with Cisco’s kind of intent to purchase Acacia, does that change any of the competitive dynamics in 400-gig?
+Rami Rahim
+Yes, thanks for the question, Brian. On your question about Acacia, Acacia is a relatively small technology provider for us. So I don’t expect that to impact us in anyway than there are alternative sources for the kinds of products that we were buying from Acacia.
+From a 400-gig cycle and go-to-market, the first customers that will consume 400-gig, we believe will be the cloud providers and that will be followed up by the service providers. In the cloud space, we have everything we need from a go-to-market standpoint. And you’re right, there is the sales effort that we put into our cloud provider vertical, but just as importantly is the engineering effort.
+In fact, often our best sales people in the cloud vertical are our engineers that are developing the software, the systems, the optics that ultimately make their way into those networks. That engagement model is something that we’re very comfortable with. We’re very used to because of the strengths that we hold in the routing space. We’re just now extending that sales model and the engineering engagements across new footprint.
+Operator
+Our next question comes from Rod Hall, Goldman Sachs. Please proceed with your question.
+Rod Hall
+Yes. Hi, guys, thanks for the question. I just wanted to revisit the question of second-half drivers, I guess, in the context of the service provider vertical being so weak this quarter. And then what I keep hearing you guys say, I got this service providers, kind of at the top end of the list of drivers. I think you said that last quarter as well. And so, can you just juxtapose those two things for us and let us know kind of what you’re thinking in terms of visibility and is – what you’re seeing this quarter kind of consistent with what you had expected to see? And then I have a follow-up?
+Rami Rahim
+Yes. Sure, Rod. So in the service provider vertical, I think, it’s more of the same in terms of market dynamics that we have been calling out now for a number of quarters. The service – many of our service provider customers are under business model challenges. And as a result of that, there’s consolidation. There are all sorts of distractions. There’s also investment priorities around RAN and spectrum purchases and so forth that we have anticipated will impact this part of our business for sometime.
+There are sort of catalysts and even some green shoots that I do think will play out over the next few years around 5G, around our partnership effort with Ericsson, around our telco cloud momentum that we are seeing in the market, some of the portfolio enhancements that we’re making around the metro and mobile backhaul, which is very much aligned with the 5G growth.
+So I – we still expect that service provider all up for 2019 is going to be down on a year-over-year basis. What we’re calling out is, if I – if we take a look at the pipeline, the specific opportunities that we see in front of us, the second-half of the year will be better than the first-half of the year. That’s really the extent of the commentary that we’ve made around the remainder of this year.
+Rod Hall
+Okay. Thank you, Rami. I appreciate that. And then, Ken, I just had modeling question, the days payable jumped down a lot and I know you’ve made a comment in the prepared remarks. But could you just revisit that comment and maybe go into a little bit more detail about why days payable was such a big change for the quarter?
+Rami Rahim
+Yes. So it really just has to do with the timing and how we’ve landed in a quarter. There was nothing intentional about the timing from our payable side. It’s just the way that – our invoicing from our contract manufacturers, in particular, worked out. It resulted in a little more cash went out the door than expense. I expect that to kind of recover in the future quarter – in this quarter in Q3.
+Rod Hall
+Is that affected by the tariffs at all, Ken, or is it just kind of a random event that…
+Ken Miller
+No.
+Rod Hall
+…doesn’t relate to anything that we would see happening out there?
+Ken Miller
+Yes.
+Rod Hall
+Okay.
+Ken Miller
+I really would – I really call it a random, but then it has no impact from the tariffs.
+Rod Hall
+Okay, great. I appreciate that.
+Rami Rahim
+Thanks, Rod.
+Operator
+Our next question comes from James Fawcett, Morgan Stanley. Please proceed with your question.
+Meta Marshall
+This is Meta Marshall from – for James. Quick question. Just stepping back on tariffs, you noted the changes that you had made to kind of largely mitigate the impact, but that there would be kind of an ongoing impact in the second-half. And so can you just walk through whether production is being moved or whether there would be kind of a remaining ongoing impact that we should model unless the trade agreement is reached? And then, maybe just following-up on that. Is – what is kind of the ability to pass on a price change? And what have you found as an ability to do so? Thanks.
+Rami Rahim
+Yes. From a tariff, the primary mitigation efforts have revolved around really changing where our manufacturing is being completed as an interest into the U.S. So we have a global footprint. As you know, we manufacture within China. We manufacture in other parts of Asia, which are non-tariff and we also manufacture in parts of North America, Mexico and U.S.
+So we have opportunity to move most of the production to other locations that was primarily done in China previously. And that’s really resulted us mitigating the vast majority. That said, we’re not able – we are not – we’ve chosen not to move all production out of China, so there are still some products that we still manufacturer only in China. And as always going to the U.S., we are seeing a tariff. It’s, again, it’s the minority of our total tariff exposure, if you were to go back, say, a year ago before tariffs, because we’ve been able to offset most of it.
+That 30 to 50 basis point impact that I’m talking about is really a difference between a 10% and a 25% tariff. So there is – we still expect to be a tariff in the second-half. In addition to the actual cost of tariff, we know some of the mitigation efforts by moving manufacturing from location to different locations has resulted in overall slight uptick in our cost of goods sold really as part of the mitigation. So there is some costs associated with that as well.
+We are passing along some of that tariff increase to our customers. We’ve been fairly successful of doing that. But there have been some situations where we haven’t been able to pass all the cost through, which is why we are seeing some impact to our gross margin.
+Meta Marshall
+Got it. And so would you kind of – if there were a trade agreement reach tomorrow, would that go away, because you would move that production back, or like how should we just consider the timing of how long the 30 to 50 basis point impact would kind of impact margins?
+Rami Rahim
+Yes, I think we would get a benefit of hover an agreement tomorrow to eliminate the tariff. I don’t think we would get back to our previous cost of goods sold, because I do not believe we would move manufacturing back into China. We would likely keep it where it currently is, which is – has a slight impact, but much less than the actual cost of the tariff. So we would see a benefit if the tariff would be eliminated.
+Operator
+Our next question comes from Samik Chatterjee, JPMorgan. Please proceed with your question.
+Samik Chatterjee
+Hi, thanks for taking the question. I just wanted to start off with a question on the Wi-Fi upgrades, the cycle that you’ve mentioned a couple of times in the prepared remarks. As you’re talking to customers about the Wi-Fi 6, upcoming cycle around Wi-Fi 6, I know we have kind of earlier to that cycle. But are you getting a sense that customers are willing to upgrade to the Wi-Fi 6 product? And as you’re looking at kind of campus switching and Wi-Fi 6 together, should we think about it as a kind of a combined product cycle, or are customers thinking about it independently in terms of an upgrade?
+Rami Rahim
+Yes, thanks for the question, Samik. So I do think it’s still early days, but Wi-Fi 6 is going to be a pretty significant growth driver for us in the campus and branch segment. The first Mist Systems Wi-Fi 6 products are actually now shipping, and we even have a few early deployments with some of our high-end enterprise customers that are starting to leverage that technology.
+To your question around whether is standalone or more combined, it’s all of the above. There are customers that have decoupled buying cycles between wireless LAN and wired technology. And in those customers, we’ll certainly – we’ll sell them the technology that they want.
+But with every customer that buys wireless LAN from us, there is an opportunity to either attach immediately, or at some point in the future through the fact that we’ve now created a channel into that customer and built the relationships with the IT team to sell them additional technology, whether it be wired or security, or SD-WAN, as an example.
+So that synergy based on the early days of the integration with Mist is becoming more and more of a reality for us and we’re proving out the thesis that we had. I just also just want to point out, in order to realize the full potential of the AX standard, which typically add some level of complexity to a network, you really need to have the kind of cloud managed AI engine that Mist Systems brings to the table that I’m now seeing firsthand how valuable it is for our customers.
+It simplifies not only the deployment, but it also simplifies the ongoing operations of a wired wireless LAN network and many of our customers are absolutely loving it. And I think that can be extended – that experience can be extended to other parts of our portfolio as well.
+Samik Chatterjee
+Got it. If I could clarify on the cloud revenue that you had, you had a strong sequential growth this quarter. But you’re kind of guiding to a sequential decline next quarter that does suggest that they might have been some exceptional pull forward of revenues this quarter. So just want to clarify if revenues from the cloud side did come in better because of some pull forward from 3Q that’s what you saw?
+Rami Rahim
+No, I don’t believe this because of a pull forward. I think if you take a look at our cloud business over the last couple of years, we’re sort of seeing a bit of a cyclicality that’s happening throughout the year, where Q2 tends to be a little quite strong just based on the timing of deployments and seeing a bit of moderation on a sequential basis is not anything that I’m really concerned about.
+We’re going to see some ebbs and flows in this business based on timing of deployments. But the Meta points for cloud is that the really hard transition is now behind us. We’re now at a point in a very unique position in terms of the footprint that we enjoy in the cloud routing space.
+We will see a recovery in that business, a continued recovery based on the continued investments that our big cloud customers are making in the routing segment. And, of course, then that focus that we have on net new segments, especially in our net new technology areas and footprint, especially in switching.
+Operator
+Our next question comes from George Notter, Jefferies. Please proceed with your question.
+George Notter
+Hey, thanks a lot, guys. Ken, maybe first one for you on the tax rate. 19.5%, I think is a certainly a bump up from the kinds of tax rates, I think, we talked about in the past. I guess, I’m wondering what’s really changing there?
+And then for Rami, I guess, I’m inferring from the conversation here that the service provider routing business really took a big step down in Q2. Your cloud business overall was flat year-on-year. We know that business is really heavily centered on routing, and yet the routing business was down 15% year-on-year. So I guess, again, I’m inferring that the difference there is service provider routing. Is that a hold up from customers waiting for the MX 5G line cards, or is there something else going on in service provider routing? Thanks.
+Rami Rahim
+Yes. Let me start and then, Ken, why don’t you jump in on the question around with a tax rate. In the service provider space, which is largely determined by our routing technology, it really is just much of the business model challenges and the macro challenges, the challenges around service providers, as well as their focus on areas of investments that are outside of routing.
+Beyond that, I do think that, we’re in a mode right now where our traditional customers in the service provider space, especially Tier 1 customers in North America, are in and of themselves, not going to be enough for us to achieve growth in this vertical. So there is a very concerted effort within the company right now to build net new footprint, especially in International Service Provider account.
+So that’s going to take a number of quarters to build out. But that’s the thing that we need to do internally in order to sort of recover this – that routing and in particular routing in the SP space. That’s kind of the bulk of what’s happening in routing for us.
+Ken Miller
+On tax rate front, there’s really a couple of things if you really want to kind of reconcile to, say, last year’s rate, one would be the discrete items. Last year, we had some kind of discrete items that positively impacted our tax rate, which is why it was lower last year. This year, those discrete items are actually going the other direction slightly. And also really, it’s the international mix of earnings is a big factor on attach rate as well.
+So that also resulted in the rate being 19.5% for Q2. Now I’m trying to take some of that volatility out going forward by fixing the rate for the rest of the year on a non-GAAP basis at 19.5%. And the plan would be to, as we enter into next year, we’ll have a fixed rate for the full-year next year as well.
+Operator
+Our next question comes from Sami Badri, Credit Suisse. Please proceed with your question.
+Sami Badri
+Sure. Thank you. Regarding the software percentage of total revenue, the 10%, was the fair majority of that security revenues? Because there was a bit of an uptick in security and maybe you could just give me more color on that side?
+Rami Rahim
+Yes. Thanks for the question, Sami. I don’t think it’s just security, but certainly there is an element of it that’s tied to security because out of all of our technology areas, the software attach rate for security has traditionally been the strongest. The momentum we’re seeing in software is the combination of on-box software.
+So software that’s attached to systems, security, switching and routing that’s either way into our customers networks, and also the off-box software with things like the cloud management and AI solution for Mist or Contrail Enterprise Multi-cloud solution for the data center or for telco cloud. It’s that combination.
+There is a real strategy that we’re executing internally to increase software, the percentage of revenue. We’re very pleased with the progress that we’ve made. I think we are on track to achieve the objective of 16% software as a component of total revenue in the 2021 timeframe. And I think that the roadmap and the business models around those roadmaps that we have, we are introducing it to the market allow us to continue to see this momentum.
+Sami Badri
+Got it. Thank you. And then the – my next question has to do with the major customer that you called out approximately 10% or more of total revenues and I’m sure if you said more approximately. But did this customer spend or consume products across multiple segments, or was it predominantly just routing or switch, or switching? Maybe just give me an idea on what exactly the buying patterns are when these big customers come to you?
+Rami Rahim
+Yes. So we mentioned this is a customer that is in our cloud vertical and the technology areas are routing and switching, mostly.
+Operator
+Our next question comes from Jim Suva, Citi. Please proceed with your question.
+Jim Suva
+Thank you very much. Rami, you spoke quite positively about enterprise for the September or Q3 quarter. Looking at the results for this quarter, it looks like it was down year-over-year, I think it was about 6% or so you said or mentioned. Was there some delays or push outs to Q3? Or can you help us understand your confidence or why a challenge June quarter and then a quite positive outlook for the September quarter for the Enterprise segment? Thank you.
+Rami Rahim
+Yes. Thanks for the question, Jim. So we saw double-digit, in fact, 12% year-over-year growth in bookings in the enterprise vertical and even stronger sequential growth in bookings for the Q2 period in the enterprise space. That was fueled by a number of different factors. We had strength in the U.S. government, and I believe that is going to be a good vertical for us going forward. But we also have real strength in the technologies that we’re now introducing to the market that are giving us some real differentiation.
+I mentioned the campus and branch. SD-WAN is an area where we have been investing in and putting focus in over the last couple of years, that now is starting to become a contributor to our performance, where we’re seeing a very healthy pipeline.
+We’re seeing both accounts that we’re winning with a direct enterprise model, as well as leveraging our service providers as a channel into net new enterprise footprints. All of this is leading to the confidence that we have in the second-half of the year.
+Ken, you might want to talk a little bit about the difference between the revenue performance and bookings performance for the quarter?
+Ken Miller
+Sure. So as Rami mentioned, bookings were up double digits. Revenue, as you mentioned, Jim, was down 6%. That’s really a result of this – the deployments that our customers wanted there for our shipments into those orders. Linearity on the bookings perspective was actually quite normal. So we didn’t have a back-end in quarter or anything like that from bookings perspective.
+However, the way the shipments laid out, it resulted in the results that we have, and therefore, backlog went up in Q2. Our enterprise focus backlog went up, which gives us more confidence about Q3.
+Jim Suva
+Thank you so much for the details. That’s greatly appreciates.
+Rami Rahim
+Sure. Thanks, Jim.
+Operator
+Our next question comes from Michael Genovese, MKM Partners. Please proceed with your question.
+Michael Genovese
+Great. Thanks very much. Hey, Rami, I’m thinking about the verticals that Juniper competes in and they go through them in service provider. I see a company that reported this morning, just released a new product and had pretty strong results in that segment. I’m claiming to take a lot of share.
+In the cloud vertical, there’s a competitor reporting next week who has consistently outperformed for years here versus [indiscernible]. And then in enterprise, you’re kind of a point solution versus a much broader vendor. So I’m just sort of struggling, I’m sorry to put it this way. But I’m struggling to sort of think where is Juniper the best at. Like what technology, what market, what vertical are you bringing a unique – I mean, I know you bring differentiation? But where is it really taking hold? And where should I look for Juniper to really show some leadership in the market and gain some share over the next year?
+Rami Rahim
+Okay. Thanks for the question. There’s a lot to unpack there, but let me try. In the cloud space, we have a very unique position in cloud routing, a position that we have built over a number of years, where that strength in terms of the footprint that we hold has remained as a result of a very deliberate strategy to ensure that our customers have the very best technology in order to build out what is networks that carry a huge amount of traffic. That strength is really unique to Juniper.
+We have substantial market share. And the path forward is one, where we leverage that footprint to continue to grow in that vertical based on timing of deployment, but also the ability to grow into net new footprint, which we have a real opportunity to do so, especially with the 400-gig cycle that’s coming.
+In the enterprise. I would respectfully disagree with the notion that Juniper is a point player. In fact, we’re one of only two vendors in the market that has a full portfolio in the campus and branch that extends wired and wireless, as well as SD-WAN to provide our customers with an end-to-end solution that’s, in fact, embedded in security that is actually working in the markets.
+The momentum that we’re seeing in the market is not by accident, it’s very much a function of the fact that this is an area we focused in from a technology standpoint and from a sales standpoint. And then there’s the data center side, where we have some unique differentiation there as well, in terms of the software and the hardware capabilities.
+In the SP space, I think there is a market dynamic that people need to understand. If you’re going to compare us to others in the industry, you really have to look at this across a number of different areas. First, our strength has traditionally been more in North America.
+And as I mentioned earlier, I believe some of the bigger build-outs now are happening more internationally and we need to tap into that. And we do that through great partnerships, but also by betting on go-to-market for net new footprint, which is in the process of happening right now.
+Secondarily, it’s around sort of where are our technology strength lies. Today, it’s mostly in the core, in the edge and the metro. I believe that there are build-outs happening internationally that are more in the access mobile backhaul space, where our portfolio is still now sort of coming together.
+So as that comes together, we’ll be able to leverage the strength and the relationships we have with a number of customers to see a rebuilding of momentum in the SP space. That’s how I would characterize the strength we have, but as well as the opportunity that we have across the different verticals.
+Michael Genovese
+Well, that’s a very good answer to a tough question. Thank you.
+Rami Rahim
+You bet. My pleasure.
+Operator
+Our next question comes from Tejas Venkatesh, UBS. Please proceed with your question.
+Tejas Venkatesh
+Thank you. I was hoping you could parse your switching performance between data center and campus in 2Q and what you see from an orders perspective, looking forward?
+Rami Rahim
+Yes, certainly. So, in the switching space, I saw, I think, we saw a meaningful sequential recovery off of a tough Q1. We still have ways to go and a lot of opportunity ahead of us in the switching space. I’d say that it’s sort of equally split roughly more or less between the campus and the data center environment. We’re certainly seeing some momentum in the campus space because of the fact that we’ve now plugged what was a gap in our portfolio and wireless LAN.
+In the data center, I think that our differentiation and our ability to penetrate net new footprints and to reaccelerate that portion of our business comes down to a couple of different things. There’s the hyperscalar opportunity with 400-gig, which is obviously very important in a key area focus. But then in the enterprise, it’s – getting the enterprise multi-cloud software solution that simplifies the deployments and the ongoing operations of data center build-outs in the enterprise that I think is going to help.
+Now we’ve introduced the first version of that solution, that software solution just recently. We’re in the mode of making sort of a very rapid enhancements that are based on specific customer feedback that we are getting. And I think as we get into the back-half of the year, it’s going to contribute and going to help us in the data center portion of our switching business.
+Ken Miller
+The only thing I would add to that is both our QFX product line, which is predominantly focused on data center and our EX, which is focused on the campus and branch, both grew sequentially. So we are seeing momentum across both sets of really switching platforms.
+Tejas Venkatesh
+Thank you. And as a follow-up, you mentioned, Rami, earlier that some of the bigger service provider deployments are happening internationally and that’s not traditionally where your strength has been. I wonder if you could speak specifically about the EMEA region, other routing companies appear to have outperformed Juniper in EMEA over the last few quarters. And now you’ve made leadership changes and so forth. We also have the Huawei dynamic. So talk to us a little bit about the EMEA region and your efforts there?
+Rami Rahim
+Yes. The EMEA region, of course, is a huge region that includes Western Europe, where we have a real strength in a number of specific accounts, Tier 1 operators, in particular. It also includes a number of emerging markets, Middle East and Africa, et cetera, where we’re still relatively a small player, but where we do see some real opportunity to grow the business. In fact, that is a big area of focus in net new accounts where we traditionally have not had a lot of presence and strength.
+So that is definitely a big part of the focus I just mentioned to expand into net new opportunities. Yes, outside of the U.S. where we have traditionally been strong, also outside of just Western Europe, which has been a driver of our EMEA performance historically, I think, we can sort of add fuel to that with more of the emerging market opportunities that I believe exist ahead of us.
+Operator
+We have reached the end of the question-and-answer session. And I will now turn the call back over to Jess Lubert for closing remarks.
+Jess Lubert
+Thank you, operator. Before we conclude the call, we would like to make everyone aware that we will be hosting an AI for Enterprise TED Talk on August 14. We will also be participating in sell-side conferences hosted by Oppenheimer, Jefferies, Citigroup and Deutsche Bank this quarter. Additional details regarding our participation in these events will be available on our IR website. We look forward to meeting and speaking with many of you during the quarter. That concludes today’s call.
+Operator
+This concludes today’s conference. You may disconnect your lines at this time. Thank you for your participation.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

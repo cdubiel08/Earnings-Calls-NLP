@@ -1,0 +1,418 @@
+NetApp, Inc. (NASDAQ:NTAP) Q3 2019 Earnings Conference Call February 13, 2019  5:30 PM ET
+Company Participants
+Kris Newton - Vice President, Corporate Communications and Investor Relations
+George Kurian - Chief Executive Officer and President
+Ron Pasek - Executive Vice President and Chief Financial Officer
+Conference Call Participants
+Andrew Nowinski - Piper Jaffray
+Matt Sheerin - Stifel, Nicolaus & Company Inc.
+Wamsi Mohan - Bank of America Merrill Lynch
+Aaron Rakers - Wells Fargo Securities
+Ananda Baruah - Loop Capital
+Katy Huberty - Morgan Stanley
+Steven Fox - Cross Research
+Mehdi Hosseini - Susquehanna International Group, LLP
+Alex Kurtz - KeyBanc Capital Markets Inc.
+Tim Long - BMO Capital Markets
+Simon Leopold - Raymond James
+Jason Ader - William Blair & Company, L.L.C
+George Iwanyc - Oppenheimer & Co.
+Paul Coster - JPMorgan
+Jim Suva - Citigroup
+Karl Ackerman - Cowen & Co.
+Steve Milunovich - Wolfe Research
+Eric Martinuzzi - Lake Street Capital Markets, LLC.
+Nikolay Todorov - Longbow Research LLC
+Rod Hall - Goldman Sachs
+Nehal Chokshi - Maxim Group
+Operator
+Good afternoon, ladies and gentlemen. Welcome to NetApp’s Third Quarter Fiscal Year 2019 Financial Results Conference Call. At this time, all participants are in a listen-only mode. Later, we’ll conduct a question-and-answer session and instructions will be given at that time.
+I will now turn the call over to Kris Newton, Vice President, Corporate Communications and Investor Relations.
+Kris Newton
+Thank you for joining us on our Q3 fiscal year 2019 earnings call. With me today are our CEO, George Kurian; and CFO, Ron Pasek. This call is being webcast live and will be available for replay on our website at netapp.com.
+As a reminder, we adopted the new accounting standard ASC 606 in Q1. Our historical financial results have been restated to conform to the new revenue recognition rules. Reconciliations of our previously reported GAAP results to the restated 606 GAAP results as well as our 606 GAAP to non-GAAP results are included in our Q3 earnings release for the applicable periods, which is posted on our website, along with our financial tables and guidance, a historical supplemental data table, and the non-GAAP to GAAP reconciliation. Unless otherwise noted, we will refer to non-GAAP and 606 numbers.
+During today’s call, we will make forward-looking statements and projections with respect to our financial outlook and future prospects, such as our guidance for the fourth quarter and full fiscal year 2019, our expectations regarding future revenue, profitability, cash flow and shareholder returns, and our ability to grow and expand our opportunities and address the key market transition, all of which involve risk and uncertainty. We disclaim any obligation to update our forward-looking statements and projections.
+Actual results may differ materially from our statements and projections for a variety of reasons, including global political, macroeconomic and market conditions and our ability to expand our total available market, introduce and deliver new and differentiated products and services without disruption, manage our gross profit margins, capitalize on our market position in cloud strategy, maintain execution, and continue our capital allocation strategy.
+Please also refer to the documents we file from time to time with the SEC and available on our website, specifically our most recent Form 10-K for fiscal year 2018 and our current reports on Form 8-K. During the call, all financial measures presented will be non-GAAP unless otherwise indicated.
+I’ll now turn the call over to George.
+George Kurian
+Thank you, Kris, and thanks to everyone joining us today. In the face of an uncertain macroeconomic environment, we focused on the variables within our control and delivered a strong third quarter. Although I’m disappointed with revenue being at the low-end of expectations, our operational discipline delivered gross margin, operating margin and EPS that were above the high-end of our guidance ranges.
+Regardless of the demand headwinds, we remain well positioned for the long-term, as we address the growth areas of the market and provide an efficiency in our business. I’d like to address the challenges we saw in Q3 head on. The macroeconomic environment is outside of our control, but I remain exceptionally confident about our strategic position and operational focus to deliver profitable growth and shareholder value.
+After a normal close to the calendar year, we saw slowdown in purchasing across the Board in January, driven by deteriorating outlooks for the global economy, as well as uncertainty around trade policy.
+In the face of these headwinds, our largest customers became more cautious in their purchasing behavior and sought more information on the implications for their businesses of slowing economies. We did not see any real change in the competitive environment. Our wind rates stay constant and our pipeline remains healthy. Our customers’ purchasing decision continue to be based on our features, capabilities and future-proofed cloud integration strategy.
+Even in the face of softening demand, we were able to further expand product margins in the third quarter by focusing on the value our solutions bring in addressing customers’ largest IT imperatives. Like any company, we do not have perfect visibility into all the reasons for purchasing slowdown.
+However, we are deeply involved in the strategic planning and purchasing process of our large customers and have good visibility into how they deploy us and where we fit into their IT strategy. We remain tightly engaged with them, and as such are confident that we have the right product set and the right go-to-market strategy to continue capturing a greater share of our customers’ IT wallet.
+Our unique customer value is reinforced by digital transformation initiative, which are fueling data center modernization projects and cloud-first strategy to succeed in the data-driven digital economy and radically improved business performance, customers need to accelerate digital innovation, generate real-time insights and secure access to their data across multiple clouds and on-premises.
+This requirement for hybrid multi-cloud capabilities is creating three significant market transitions: disk to flash, traditional IT to private cloud and on-premises infrastructure to hybrid clouds. It is in these key strategic battlegrounds that we have substantial opportunity to exploit the advantages created by the NetApp Data Fabric and take share.
+We are driving the market transition from disk to flash, as we help customers modernize, simplify and improve application performance. We are displacing competitors’ complex equipment, gaining share in new workload deployments and upgrading our installed base with cloud-connected all-flash solutions.
+In Q3, our all-flash array business inclusive of all-flash FAS, EF and SolidFire products and services grew 19% year-over-year to an annualized net revenue run rate of $2.4 billion. We are over-indexed in the large and growing all-flash market with a significantly higher all-flash array share than in the total storage market.
+Our advantage here will continue, as the market shifts to flash, and we expect that shift to accelerate with ongoing NAND price declines. All-flash arrays carry a higher ASP, which benefits not only product revenue, but also recurring services revenue, with only 15% of our installed base currently running all-flash arrays. The runway for this secular transition remains in the early innings.
+The second major market transition we’re exploiting is the shift from traditional IT to private cloud. SolidFire and NetApp ACI are the building blocks for private cloud deployments, enabling customers to bring public cloud-like experience and economics into their data centers.
+In the third quarter, we announced new validated and proven architectures that simplify the design, deployment and support of on-demand services and applications, as well as support hybrid cloud workflows with an on-premises S3-compatible object storage. Customers are embracing our unique value that couples extreme ease of use with enterprise scalability and quality of service. And as a result, the momentum in our private cloud business that began in the October quarter accelerated in Q3.
+The shift from on-premises infrastructure to hybrid clouds is the third key market transition that we are taking advantage of to expand our business. Only NetApp is building a comprehensive set of cloud data services available across multiple clouds. We help customers extend on-premises environments to the cloud, deploy enterprise workloads in the cloud and build and refactor primary workloads for the cloud, with tools to optimize hybrid cloud workloads and cost.
+Based on the last month of Q3, our cloud data services annualized recurring revenue is approximately $33 million, up 22% from Q2. As we said before, this is a foundational year for our cloud data services, during which we are focusing on operational readiness and deployment with the hyperscalers.
+We are excited by the feedback that we are receiving from the growing number of customers who are in controlled production with us. While still in early phases, we are well-positioned for when these services soon become broadly available, roughly two-thirds of early cloud volume service customers are new to NetApp. This, coupled with the strong customer interest we are experiencing, gives us tremendous confidence in the potential of this part of our business.
+In closing, we are confident in our position for long-term success. We are a leader in the large all-flash array market. We are seeing accelerating momentum with our private cloud solutions and our public cloud solutions are positioned to deliver strong growth in FY 2020.
+We are playing into the big market transitions from a position of strength. Flash and cloud integration enables us to protect and expand the installed base of our core ONTAP business. Our private and public cloud solutions enable us to reach new buyers. Our flash, hybrid cloud infrastructure and AI solutions are serving as pillars of customers’ new architectures, and we are seeing adoption of our cloud offerings as part of our customers’ foundation for moving applications and data to the cloud.
+These factors, combined give us confidence in our ability to reaccelerate growth, as customers become more comfortable with the external environment. We have demonstrated discipline in managing the business and we’ll continue with the keen focus on the factors within our control.
+We are paying close attention to execution, to maximize our opportunity in an uncertain macro. We again expanded gross margin and increased profitability in the quarter, despite the slight moderation in customer buying behavior. I would like to thank the NetApp team for their commitment to a high-level of discipline, execution and customer focus.
+With that, I’ll now turn the call over to Ron to walk through our Q3 financial performance and go-forward expectations.
+Ron Pasek
+Thanks, George. Good afternoon, everyone, and thank you for joining us. As a reminder, I’ll be referring to non-GAAP numbers unless otherwise noted. As George highlighted in Q3, we delivered strong margins and operating leverage in the face of caution from our customers around the macro environment.
+This is a solid testament to the strength of our underlying business model. Despite the market uncertainty, we are confident in our product leadership and strategy to reaccelerate growth going forward, and we remain sharply focused on execution and managing the variables within our control.
+Consistent with our commitment to shareholders, we again improved gross margin, operating margin and delivered outstanding free cash flow. In Q3, despite a slower demand environment experienced in January, net revenues of $1.56 billion were within our guided range and grew 2% year-over-year, including about a point of currency headwind.
+Product revenue of $967 million increased 2% year-over-year, reflecting our shift to all-flash arrays and growing traction in our private cloud solutions, offset by about 150 basis points of currency headwinds. There were no ELAs in the quarter.
+Moving down the P&L. Software maintenance and hardware maintenance revenue of $531 million increased 2% year-over-year, driven by our continued growth in our installed base and to a lesser extent, our cloud data services business.
+Gross margin of 63.7% was above the high-end of our guided range. As expected, we saw the normal seasonal sequential decline in product margin from Q2 to Q3. Product gross margin came in at 52.6%, which is an increase of about 100 basis points year-on-year, reflecting continued sales force discipline in the face of macroeconomic uncertainty and about 50 basis points of currency headwinds.
+This was the eighth straight quarter, we increased product margins year-over-year. The combination of software and hardware maintenance and other services gross margin of 81.7% increased about 50 basis points year-over-year.
+Operating expenses of $629 million were down 2% year-over-year coming in lighter than anticipated, largely due to lower variable compensation. We remain committed to strong OpEx discipline and continue to expect operating expenses for fiscal 2019 to be roughly flat year-over-year.
+Operating margin of 23.5% came in solidly above the high-end guidance and represented a new company record. EPS of $1.20 was above the high-end of our guided range and increased 14% year-over-year. We closed Q3 with $4 billion in cash and short term investments.
+Similar to Q2, we again saw healthy growth in deferred and financed unearned services revenue, which increased 7% year-over-year and was up $151 million sequentially. Deferred revenue growth continues to be a strong leading indicator of the health of our installed base.
+Our cash conversion cycle remained extremely healthy at a negative 11 days, which is roughly flat year-over-year. Cash flow from operations was $451 million. Free cash flow of $420 million represented 27% of revenues, while year-to-date free cash flows of $804 million represents 18% of revenues.
+Q4 has historically proven to be a strong seasonal period for free cash flow conversion, as such we remain committed to driving free cash flow of 19% to 21% of revenues for the full fiscal year. Our confidence in our long-term vision and execution is reflected in our capital allocation strategy.
+During Q3, we purchased 8.1 million shares at an average price of $67.84 per share for a total of $550 million. Weighted average diluted shares outstanding were $255 million, down $21 million year-on-year, representing an 8% decline.
+We have $2.4 billion remaining on our current share repurchase authorization and will continue to be aggressive given NetApp’s free cash flow yield and return on invested capital profile. During the quarter, we paid out $99 million in cash dividends. In total, we returned $649 million to shareholders, representing 155% of free cash flow generated in the quarter.
+Now on to guidance. Customer caution around the macro backdrop has heightened, as we entered the new calendar year. As a result, we expect Q4 net revenues to range between $1.59 billion and $1.69 billion, which at the midpoint implies flat revenues year-over-year. It is worth noting that our Q4 revenue guidance includes 200 basis points of currency headwind and is off a very challenging Q4 2018 compare, where we grew total revenue by 11% year-over-year.
+Consistent with the normal seasonal sequential decline in gross margin from Q3 to Q4 associated with product revenue being a larger portion of the overall revenue mix, we expect Q4 consolidated gross margin to range between 62% and 63%. We expect Q4 operating margin to be between 23% and 23.5%.
+We expect earnings per share for the fourth quarter to range between $1.22 and $1.28 per share. The midpoint of our Q4 revenue guidance implies total fiscal 2019 revenue growth of 4.6%. Our Q4 guidance also implies fiscal 2019 gross margin of 64.3%, operating margin of 22.7% and EPS growth of 28%.
+As we look out to FY 2020 and beyond, I’m confident in our ability to reaccelerate growth and deliver on our long-term profitability targets. We remain diligently focused on both disciplined execution and continued innovation.
+In the phase of a slower demand environment, our business model leverage and the secular tailwinds created by the three key market transitions: flash, private cloud and cloud data services, will enable us to continue to deliver on the commitments we’ve made to shareholders, partners and customers.
+With that, I’ll hand it back to Kris to open the call for Q&A. Kris?
+Kris Newton
+We’ll now open the call for Q&A. Please be respectful of your peers and limit yourself to one question, so we can get to as many people as possible. Thanks for your cooperation. Operator?
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question comes from the line of Andrew Nowinski with Piper Jaffray. Your line is now open.
+Andrew Nowinski
+Okay, thanks a lot. Thanks for the question. Maybe I’ll just ask some question as it relates to kind of your guidance that you gave at Analyst Day regarding fiscal 2020 and 2021. I’m curious just given the result that we saw today in your guidance for Q4, would you say, you’re still expecting to deliver at least 2% earnings growth over the next two years? And then also on the revenue, is that mid single-digit still valid?
+George Kurian
+Hi, Andy, yes, that is our plan and you’re seeing in FY 2019, we’re going to do well above that. And yes, our long-term guidance is still at the mid single digits on the top line absolutely.
+Andrew Nowinski
+All right. Thank you.
+Kris Newton
+Thank you, Andy. Next question?
+Operator
+Our next question comes from the line of Rod Hall with Goldman Sachs. Your line is now open. Partly, Rod Hall, please check your mute button. Our next question comes from the line of Matt Sheerin with Stifel.
+Matt Sheerin
+Yes. Thank you. Thanks for taking my question. Just relative to the weakness that you are seeing from your large enterprise customers, it look like your direct business was down 12% year-on-year, that was the first time and I think six quarter, you were down. And – but your channel business was up mid single digits.
+What do you think the difference is in terms of the tone of smaller customers versus large customers, because if you look at all the channel partners that have reported, they all talked about fairly strong growth and still good outlook for this year?
+George Kurian
+Our largest customers are the ones that we serve through a direct pathway. The broad range of customers are served through a channel model. The largest customers are the one that are most affected by some of the uncertainty, both economic and political uncertainty around the globe and we saw incremental caution in their buying behavior in January.
+Ron Pasek
+Matt, the other thing that’s a little misleading just to factor in is, in Q1, Q2, we did have ELAs, which show up in direct revenue. So they skewed the direct number a little bit higher. If you adjust for that, we’re always within the last, say, eight quarters, 2018. And again, that’s where the demand if fulfilled, not necessarily where it’s created.
+Matt Sheerin
+Okay. And in terms of the ELAs, you didn’t have any revenue. You’ve had some good revenue there in the last few quarters. Is that more of a timing issue and related to the weakness that you’re seeing from your large customers?
+George Kurian
+No, there’s nothing to do with that. Nothing at all. It’s just – as we said, when we first started talking about ELAs, they tend to be difficult to predict and lumpy. And there weren’t any we had in the quarter or anticipated to have.
+Matt Sheerin
+Okay. Thank you.
+Kris Newton
+Thank you, Matt.
+Operator
+Thank you. Our next question comes from the line of Rod Hall with Goldman Sachs. Your line is now open. Rod, please go ahead.
+Kris Newton
+Let’s move on to the next question.
+Operator
+Our next question comes from the line of Wamsi Mohan with Bank of America. Your line is now open.
+Wamsi Mohan
+Yes, thank you. Ron, can you talk about the gross profit at a product level. If you could bridge that sequentially from last quarter to this quarter the 150 bps sequentially? And given the revenue deceleration that you have seen, do you think that you can hold the 50% product gross margin over the next year or so, especially when the competitive environment becomes a little tougher with around the mid range storage product launches that are anticipated to happen later in the year?
+George Kurian
+Yes. Thanks, Wamsi. Yes, I mean, if you look at the last eight quarters, we’ve grown product margins each of the last eight quarter year-over-year, and our intent is still to do that. The target we gave you was 55% to 56% and we still plan to do that.
+The bridge from Q2 to Q3 on the product side, remember, this is a always a seasonal thing happens with the public sector quarter being Q2, and then typically we have a fall off in that business. So that’s very traditional we saw that each of the last five years. So we had some of that seasonality affects over the headwind and then we had no ELAs in the quarter. We had them the last quarter, and then that’s offset with some benefit from NAND pricing.
+Wamsi Mohan
+Okay, great. And, George, just a quick clarification for you. I think you noted that elasticity of demand could sort of kick in, given these NAND prices. Is there typically three to six-month lag, but you expect to see this elasticity of demand with the macro environment sort of clouding, maybe the elasticity of demand from kicking in faster?
+George Kurian
+We think that over time, as NAND prices continue to decline that customers will shift the mix of their business from disk-based systems to flash-based systems. We saw good acceleration in our flash system counts through the course of the quarter. We saw some incremental caution in terms of how much capacity customers were buying, which could be correlated to buying or today’s needs as apposed to building out for their entire future requirement.
+So we saw a little bit of that. It – it’s reflective a bit to the macro environment. We believe that as NAND prices continue to move favorably, it gives us an opportunity. We are well positioned in the flash market. We have strong differentiation with software, which has allowed us to preserve and even grow gross margins. And if you look at the ASPs of a flash-based system as opposed to a disk-based system, they are actually higher. So we think that’s a good trend for us to capitalize on.
+Wamsi Mohan
+Okay. Thank you.
+Kris Newton
+Thank you, Wamsi. Next question?
+Operator
+Our next question comes from the line of Aaron Rakers with Wells Fargo. Your line is now open.
+Aaron Rakers
+Yes. Thank you for taking the quick questions. First of all, could you just help us understand, I mean, the rate of deceleration that you saw during the month of January? And as you thought about the guidance for this third quarter, your assumptions on how maybe February pointed out and how – what assumptions you are making relative to what you saw in January as far as any kind of improvement? And I have a quick follow-up.
+George Kurian
+I would say that, we felt very good about where we were within the quarter sort of heading into the Christmas holiday, and things changed materially through the last week of December and really January. I think that we did not see any change in the competitive dynamic win rates or any of those aspects. We just saw an increased amount of scrutiny in terms of spending within our customers them requiring more approvals and just buying for today as opposed to buying the full scope of what we plan to buy with us.
+I think that with regard to some of our largest customers, the global customers that are exposed to geographies around the world, as well as to public sector, there will be time before they come back to their normal course of spending, right? Some of that is related to sort of clarity on how their business is impacted, and some of that like in public sector is, it takes time to get the work force back into normal operating cadence, which is reflective of our caution in Q4
+Aaron Rakers
+Okay, that’s very helpful. And then on the NAND pricing front, can you just help us understand what rate of declines you’re currently seeing on the flash side? And how you would characterize your ability to hold flash pricing in the market?
+Ron Pasek
+The price declines we’re seeing are not perfectly linear. They continue to go down. I think what we – you’ve got to remember is, the storage industry in our company’s history is predicated on decreasing commodity pricing. So, in many ways, as stores sort of earlier catalyzes demand for new use cases and drives the never-ending appetite for increasing data consumption.
+So it’s something we’re predicting, that’s why we have a – over rotation on flash. We know that that’s the growth area. Price reductions help that growth. As George said, you see the elasticity between the different types of media. And so as NAND prices come down, more workloads move to all-flash.
+George Kurian
+And we’re seeing that. If you look at system counts and capacity counts through the course of this fiscal year, they have been both up quite substantially. I think what we noted this quarter, especially in January was a little bit of a step back in caution around capacity. System counts continue to be really good.
+Aaron Rakers
+Okay. Thank you very much.
+Kris Newton
+Thank you, Aaron. Next question?
+Operator
+Our next question comes from the line of Ananda Baruah with Loop Capital. Your line is now open.
+Ananda Baruah
+Hey, good afternoon, guys. Thanks for taking the question, I appreciate. Hey, George, on – any greater context you could provide on what your large customers are using as signpost? I mean, you mentioned, George, I think in the prepared remarks, if they’re looking at their end business?
+And then just a quick follow-up to that. Do you have any sense, if they are pausing on how broad is a pausing on new implementations or the milking – not milking, but in a sort of raising capacity on the product – on existing project. You mentioned that they might be adding less capacity on new projects like that, I would just love anymore context around those two things? Thanks.
+George Kurian
+I think it’s too early to draw broad conclusions. I would say that January represents the new budget cycle for a lot of our customers. And as they get their planning in place, I think they took a little bit longer this year than typical because of the certainty. I think we saw the transformational projects that have multi-quarter implementations continue apace.
+I think in the next new projects, I think, people were probably a little bit more cautious, waiting for clarity in terms of how their business rolled out. I would say, in terms of our book of business, all of the strategic areas of focus for us all-flash arrays, private cloud and our cloud data services, we feel good about our progress across all of those dimensions. there it really reflects the strategic aspect of our discussion with customers and we feel good about the progress in all of those dimensions.
+Ron Pasek
+Just keep in mind, even if you isolate Q3, it’s really – we were up 2% from midpoint. And if you look at the full-year based on the midpoint in Q4 guide, we’re off maybe a little over almost 2 point in the full-year. So in the scope of the greater scheme of things, we’re still pretty much on exactly what we thought from mid single digits.
+Ananda Baruah
+That’s great. Thanks for the context.
+Kris Newton
+Thanks, Ananda. Next question?
+Operator
+Our next question comes from the line of Katy Huberty with Morgan Stanley. Your line is now open.
+Katy Huberty
+Yes, thanks for the question. Ron, for you one gross margin guidance. If I look back at the last two fourth quarters, total company gross margins were actually up a little bit sequentially despite the fact that the lower-margin product business was growing very fast, and you didn’t have as much help from NAND. So can you just talk through why here you think total company gross margins are down sequentially?
+Ron Pasek
+So, Kath, I think the better compare is really year-over-year, and I think that’s a more meaningful compare. And then remember, what we typically see sequentially is and you see this from Q1 to Q2 to Q2 to Q3 generally and Q3 to Q4. The higher weight of product margin and product revenue which grows – this is a slightly lower margin than the services margin, so that always puts pressure. That’s a mix issue that we see all the time.
+Katy Huberty
+Okay. And then just George, just as a follow-up. I think a year ago, you talked about exiting this fiscal year with, perhaps…
+Kris Newton
+I think, we lost Katy.
+Katy Huberty
+Sorry, sorry. Just a follow- up for George, at about a year ago, you talked about exiting this year with $6 million of cloud services revenue. And it looks like you’re tracking a little bit below that. Why do you think that is, or is that not the right way to think about it? Thanks.
+George Kurian
+We are in the foundational year of our cloud data services business. I would say, we are a bit behind where we expected to be in terms of the operational readiness of our service offerings with our cloud providers. We are, as we said, generally available with AWS. We are in controlled pilot production projects with both Azure and Google, and we expect them to be available eminently.
+I would say that we are probably 0.5 basis point towards below where we guided for the full-year revenue, but we are excited that the results that we’re seeing. It confirms all of our expectations in terms of differentiation. We have broadened the range of use cases and workloads that we serve. And so as soon as we get to generally available with these cloud providers, we feel very good about our ability to inflect the business and return the accelerate that.
+In terms of our long-term model for cloud data services, we’re not backing off the projections we had. As Ron mentioned, we feel confident about our long-term model for the whole business, as well as for our cloud data services.
+Katy Huberty
+Thank you, George.
+Kris Newton
+Thank you, Katy. Next question?
+Operator
+The next question comes from the line of Steven Fox with Cross Research. Your line is now open.
+Steven Fox
+Hi, good afternoon Just one other question on the slowdown you saw in January. Is there – could you isolate it to what verticals maybe were more – will you sort more in terms of the slowdown, or geographic regions? And given we’re talking about longer-term start-up projects, like what would you say would be the extended decision timeline versus what you previously thought for these things closing or it’s starting to ramp its pacing originally anticipated?
+George Kurian
+I would say that one of the areas that we talked about as having some decisions pushed out was in U.S. public sector, where we said in Q2, some decisions pushed out. We saw the recapture of preponderant majority of those decisions in Q3, and we were able to move those projects forward.
+With regard to the broader macro, I don’t think there were any specific industry trends that we noticed. I think that clearly, those industries with specific exposure to China and public sector were incrementally more cautious. But I think there weren’t any other specific trends that we could draw out.
+With regard to the U.S. public sector, as we said earlier on the call, we think that it will take sometime for the government to get back to full fledged operations. And so we don’t have perfect visibility into how projects shape out through the course of the coming quarter, so we’re being incrementally cautious there.
+Steven Fox
+Great. That’s very helpful. Thank you.
+Kris Newton
+Thanks, Steve. Next question?
+Operator
+Our next question comes from the line of Mehdi Hosseini with SIG. Your line is now open.
+Mehdi Hosseini
+Yes, thank you. One question for George. How do you see the replacement cycle for 10-k RPM playing out for the remainder of 2019. Is it going to be more of late in the year, or should we think of this cycle kicking in next year? And for Ron, how – I know this is a little bit far out. But as we look into fiscal year 2020, how aggressive are you going to be in managing your OpEx?
+George Kurian
+I think, let me take the 10-K RPM drive question. I think there’s still work to be done to get a viable solution to replace some of the capacity points that 10-K drives were focused on. If you notice, the majority of the 10-K drives that are still being deployed are actually lower capacity points than some of the TLC NAND solutions that are available in the market at comparable effective dollar per gigabyte price points.
+So, you can see some customers that say, listen, “I want to strategically move to all-flash for its benefits that increasingly start to look at that as an option. But I think for the full transformation to happen, you will need quad layer cell or the next sort of capacity price point in the NAND cycle, and we’re working on that, but it will take sometime.
+Ron Pasek
+So, Mehdi, on your OpEx question, it’s a little early for that. But I’ll remind you what we said at Analyst Day last April. So I guided this year to be roughly flat in OpEx and actually next year as well. But remember, we’re still actively doing a ton of transformation, so we’re still doing a lot of investment and a lot of disinvestments. So it’s not as if we’re just staying flat, not doing anything. We’re really working and getting a lot more efficient.
+George Kurian
+In terms of just to underscore that point, we have made all of these bets into the new parts of the market, private cloud, all-flash arrays, cloud data services and new pathways to market, while simultaneously improving operating margins to a record. This quarter, operating margins the highest – being the highest in the company’s history, right?
+So we will continue to stay disciplined on the operating expense side of the business, but we’re not going to forego strategic opportunities for short-term gain. I think we have maintained discipline and you’ll see us continue to invest into the future opportunities, while being prudent about overall spend.
+Mehdi Hosseini
+Thanks, guys.
+Kris Newton
+Thanks, Mehdi. Next question?
+Operator
+Our next question comes from the line of Alex Kurtz with KeyBanc Capital Markets. Your line is now open.
+Alex Kurtz
+Yes. Thanks for taking the questions, guys. George, just on hyperconverged, I know this has been a big area of investment for the company over the last couple of years. I know it’s still kind of working its way through the channel and with the sales organization if we’re looking to fiscal 2020. Are you prepared at this point to provide kind of a run rate that you think is reasonable or a percentage of product revenue, or just serve the contribution to the overall product side of the business, that would be helpful to understand?
+George Kurian
+Our overall private cloud business, meaning, SolidFire deployed standalone or as part of a hyper-converged model. For large customers, they deploy standalone for smaller and mid-market customers they deployed as hyper-converged, as well as object storage, which are deploying for cloud native applications in a private cloud form or a substantial contributor to NetApp’s revenue this quarter.
+I’m not prepared at this point to break it out. But I can tell you that, they performed in a really good pattern across customer accounts, revenue contribution, units, you name it, we guide it. And we think that as we look forward to fiscal 2020, it gives us a really strong second leg foundation to our growth, right?
+So we’re already a leader in the al-flash array market. We are seeing accelerating and materially accelerating momentum in the private cloud game. So stay tuned. We’ll tell you more as we headed to fiscal 2020.
+Alex Kurtz
+All right. Thank you.
+Kris Newton
+Thanks, Alex. Next question?
+Operator
+Our next question comes from the line of Tim Long with BMO Capital Markets. Your line is now open.
+Tim Long
+Thank you. Ron, you talked a little bit about the installed base when referring to the software, hardware maintenance and services. Just give us – if you can just give us a little more color there. It was up a little bit year-over-year. It looks like was down a little bit sequentially, so is there a seasonal pattern there as well?
+And when do you think we could expect to see that line with a little bit more sustainable growth? Is it dependent on just all-flash array being a bigger piece of the overall base or cloud data services or what do you think will help move that line to higher more sustainably? Thank you.
+Ron Pasek
+Yes. So as we talked about, we continue to grow system counts in the installed base. And remember, up until two years ago, we had 13 quarters of sequential decline in a row on the product side. So we’ve really got to get back to 13 quarters of year-over-year increases in installed base to really get back to where that you’ll see that grow again. So we’re probably several quarters away from that.
+We don’t – as you know, we don’t guide that discretely, Tim. So even though, we’ll give guidance on the next call for FY 2020, I won’t guide it specifically. I’ll give some general color, though.
+Tim Long
+Okay. Thank you.
+Kris Newton
+Thanks, Tim. Next question?
+Operator
+Our next question comes from the line of Simon Leopold with Raymond James. Your line is now open.
+Simon Leopold
+Great. Thank you for taking the question. I wanted to see if you could talk a little bit about what’s happening in your competitive environment? And to what degree your growth is driven by your customer base upgrading their base of NetApp platforms versus to what degree are you dependent on basically taking footprint from others in the marketplace? Thank you.
+George Kurian
+We did not see any change in the competitive dynamic through the quarter. I would say that when you look at our all-flash array business, it is expanding wallet that we used to not have within our traditional enterprise customers, as well as through our cloud solutions, both private cloud and certainly public cloud solutions, we are expanding to net new customers.
+I’ll simply give you some data, which says that, of all of our cloud customers that we are engaged with either through the hyperscalers or through our own cloud software offerings, two-thirds of them are net new to NetApp. So they’re opening up new relationships and new logos for us to acquire.
+So we did not see any fundamental change within the competitive landscape. We think that as the market transitions from disk base to flash-based systems, given that we are a leader in all-flash with a substantially higher market share percentage than we are in disk, there are a lot of weak large players in disk-based systems that we will take share from: IBM, Hitachi, Fujitsu, Oracle, HP, there’s a lot of them. And even Dell has a challenged mid-range portfolio and IM portfolio. So we feel good about our opportunities. We’ve got to execute to capture them.
+Simon Leopold
+Thank you for taking the question.
+Kris Newton
+Thank you, Simon. Next question?
+Operator
+Our next question comes from the line of Jason Ader with William Blair. Your line is now open.
+Jason Ader
+Yes. Thank you. George, Cisco just reported, and they didn’t see the macro issues that you guys apparently did. So I’m just wondering how do you explain that number one? And number two, do you think there might be something else going on in terms of maybe NAND pricing causing some customers to delay just because they want to see where prices go in the market?
+George Kurian
+We did not – I can’t comment on what Cisco saw or not, so I would leave that to Chuck to comment. I think with regard to our business, what I can tell you is, we maintain discounting through the end of the quarter. So it’s not a matter of hey, if you offered a lower price, customers would step forward and transact.
+I would tell you based on being involved deeply in many of these transactions, we saw an increased level of scrutiny on transactions, where you would have to get more purchasing approvals or provide for greater explanation of ROI or business case or things like that.
+And so I would just tell you that, if it were as easy as providing a discount to deal with forward price NAND contract, we have the vehicles to do that and we would have applied those.
+Jason Ader
+Okay. And then one quick follow-up for you, George. Just on AWS reinvent this year, Andy Jassy spent like a half-an-hour talking about Amazon’s new file-based storage offerings. And I was just wondering what impact you think that might have on your offering through AWS?
+George Kurian
+We continue to see really good uptake of our cloud volume software through AWS. And so I’m sure he has his own offerings, but that hasn’t had any impact on NetApp.
+Jason Ader
+Thank you.
+Kris Newton
+Thanks, Jason. Next question?
+Operator
+Our next question comes from the line of George Iwanyc with Oppenheimer. Your line is now open.
+George Iwanyc
+Thank you for taking my question. George, Europe looked – behaved a little bit differently, it look relatively strong. Can you give us an idea of what’s happening there? And then I have just a quick follow-up as well.
+George Kurian
+It was really good execution by European team. We are the leader in all-flash arrays. In many parts of the European market, we have deep strategic relationship with customers. There is volatility in the European political landscape. We did see some GDP changes. We’re being cautious about the overall environment, but I just want to say that our team executed well and stayed in control of the business till the end.
+George Iwanyc
+Okay. And can you give us an update on your Lenovo partnership? I mean, if that’s helping in China?
+George Kurian
+It’s too early to comment about the success of the partnership. We are in the market. We are seeing wins that are additive to the NetApp footprint. It’s too early for me to categorize them in terms of size or color except that, listen, this is additive to NetApp.
+I think with regard to China, it gives us a pathway into that market that is isolated from some of the trade tensions. The NetApp team finished the – their – the NetApp quarter well and executed well, and I want to thank them for that. And we’re looking forward to the joint venture getting off the ground soon enough, and we’ll keep you posted as the news of that and the operational readiness comes online.
+So we feel like, the China approach that we have is positioned well to endorse all of the challenges that might exist between the geopolitical – in the geopolitical relationship, and it allows us to focus from a branded channel perspective on the rest of the world, while Lenovo helps us with their enormous resources in China. Stay tuned.
+George Iwanyc
+Thank you.
+Kris Newton
+Thank you, George. Next question?
+Operator
+Our next question comes from the line of Paul Coster with JPMorgan. Your line is now open.
+Paul Coster
+Thanks for taking my question. The macro uncertainty that you saw in January, that was manifested in the flat changing behavior of your large customers. Was that also true of the cloud service providers either as partners or even as customs?
+George Kurian
+We don’t – the three major hyperscalers, meaning, Amazon, Google and Microsoft, do not buy hardware from us. They work with us where we deliver a service through their data centers to customers. So they’re more like a partner. We saw no evidence of them backing off. In fact, the range of used cases and the deployments that we have with them are widening rather than narrowing.
+What – there are other cloud service providers who we sell to and sort of not the superjumbo hyperscalers. And across them, there was a variety of puts and takes. I think many of them are being careful to prioritize the investments around their best opportunities, for example, 5G wireless, right. So I would just say, they’re going through one of these evaluation of priorities process and so we did see some changes in that mix.
+Paul Coster
+Okay. And then the other sort of big factor of things happening, of course, is more and more workloads and data is being pushed through the edge. Are you seeing any manifestation of that through your business?
+George Kurian
+Yes, we are pleased by the growth of the used cases that we are deploying in the edge. So we have software-defined solution that are part of ruggedized environments that are deployed at the edge in industrial and public sector use cases. We saw good traction. We saw good traction with our objects storage portfolio, providing a private cloud for certain advanced telemetry use cases in autonomous driving.
+We saw good adoption early, but still good adoption of some of our AI solutions to crunch the data that it generated at the edge and brought back to the core. So we remain optimistic that our solution portfolio is good and differentiated. And the number of growth engines we have, as the macro stabilizes, is certainly broadening from even a year ago.
+Paul Coster
+Okay. Thank you.
+Kris Newton
+Thanks, Paul. Next question?
+Operator
+Our next question comes from the line of Jim Suva with Citi. Your line is now open.
+Jim Suva
+Thanks very much. George, I think, you’ve been very clear about the demand environment and a lot of questions on that. So maybe I’ll switch the question over to Ron. Ron, in the past few quarters, there were several ELAs that came up, and then NAND this quarter.
+I think some people were thinking that ELAs might just kind of be a normal course of doing business. So with none this quarter, is the normal course of doing business is one or two a quarter kind of not really how it’s going to turn out, or were there a couple of customers who signed ELAs and just other people don’t want that, or how – any type of behavior change on just kind of the topic of ELAs or just simply is it lumpy and we shouldn’t expect it to be one per quarter or something like that?
+Ron Pasek
+Yes, it’s a good question. Last quarter, I mentioned it’s hard to anticipate when they’re going to land. So I gave a full-year view this year and the next year as you should expect roughly 2% of revenues as ELAs. It is lumpy. They’re hard to predict. There will be quarters when they’re zero, there will be quarters when they’re quite a bit more than that. So it’s just a really difficult thing to predict and I can only give a full-year guide on it. It’s going to make some quarters difficult compares. This quarter – this year in Q1, we had a very robust ELA quarter, that’s going to be a difficult compare.
+Jim Suva
+So that sounds like, yes.
+George Kurian
+Hey, Jim, we did not anticipate ELAs nor did we see them. So it performed according to plan.
+Jim Suva
+Yes. I just want to make sure there is no change in behavior. It was more just a timing of it and things like that?
+Ron Pasek
+That’s right. And remember, we did about $90 million in Q1 and about $20 million last quarter in Q2. So we really don’t have much left to do to get to that full-year 2% guide.
+Jim Suva
+Thank you so much for the clarifications. It’s greatly appreciated.
+George Kurian
+Sure.
+Kris Newton
+Thank you, Jim. Next question?
+Operator
+Our next question comes from the line of Karl Ackerman with Cowen and Company. Your line is now open.
+Karl Ackerman
+Good afternoon, George and Ron. I guess, Ron, looking at prior gross margins, excluding ELAs, with enterprise SSD prices declining roughly 20% this quarter and the next, would you expect to see massive whip higher in your product gross margins beyond April? And you continue to improve hardware and maintenance margins, certainly an impressive feat for sure.
+What do you think has been the biggest key contributor to that improvement in hardware and maintenance margins? And why would I be wrong to conclude that business couldn’t have perhaps an eight handle on gross margin over the next few years? Thanks.
+Ron Pasek
+Yes. So the first part of your question, I – we are seeing some benefit in total margin for NAND. But it’s really more of a focused effort really over the last eight quarters, not just in the last couple of quarters. So, it’s hard to anticipate what might happen, and I’m not going to telegraph what I think might happen other than I’m confident we’ll get back to 55% or 56% eventually on product gross margins. I’ve been pretty clear about that.
+On the hardware and maintenance margins, I think you’ve got to be a little careful. We do have competitors in the space. We have to be careful what our margins are and what we charge. We need to make sure that customers feel that we can provide a quality service at a reasonable price, and and they can see those gross margins as well. So you’ve got to make sure they’re not ridiculous.
+Kris Newton
+Thanks, Karl. Next question?
+Operator
+Our next question comes from the line of the Steve Milunovich with Wolfe Research. Your line is now open.
+Steve Milunovich
+Thank you. George, you talked about the importance of executing in the future. Could you talk about the evolution of your go-to-market? And one thing I’ve heard is that, NetApp may not be as good as some competitors in selling to new customers, not as comfortable selling up to the CTO, the CIO, the CFO and I know that this is also part of your selling value to get that 55%, 56% product margin, so kind of an update on go-to-market?
+George Kurian
+I think it’s a place that we continue to work to improve our capabilities, right? I’d say that over the last year-and-a-half, two years, we’ve opened up new pathways to market, for example, with Lenovo into parts of the world that we have historically not had a lot of footprint with the hyperscalers into the top of the accounts, where big digital transformation projects are and have expanded the total addressable market as a result of solutions like our private cloud solution.
+We have continued to optimize our sales coverage model. So that we can align resources to go after net new accounts and net new workloads. And we believe there’s substantial total available market for us to go address. And so this is an area where we have to improve and we’re going to continue to try to do so every quarter.
+Steve Milunovich
+Thank you.
+Kris Newton
+Thanks, Steve. Next question?
+Operator
+Our next question comes from the line of Eric Martinuzzi with Lake Street. Your line is now open.
+Eric Martinuzzi
+Yes, question for George. The – in your prepared remarks, you talked a little bit about the installed base being such a terrific opportunity, because I think it was only 15% that gotten their purchasing the all-flash array. In some ways, that’s encouraging, because it shows the wide open opportunity, but in some ways we’ve heard that number, at least, I can recall hearing it several quarters now. I’m just wondering what is it that’s got the installed base maybe reluctant is the wrong word, but what can you do to enhance the adoption of all-flash in the installed base?
+George Kurian
+The installed base is a very, very large number of systems. And so what – as we are growing our flash systems, we are also simultaneously growing our installed base, right? So, both numerator and denominator are growing. The things that will help capitalize the movement are really consolidation and economic projects to improve that installed base.
+As flash gets cheaper, it certainly makes it a more viable prospect to help customers upgrade their installed base, as some of these next-generation data center projects get underway and our customers there has opportunity to certainly improve that conversion. But it will take time just given the magnitude of that installed base.
+Eric Martinuzzi
+Do you have any like a two to three-year horizon, where you expect that 15% could become 25% or 30%?
+George Kurian
+I don’t have any forecast at this point. I do think, it will follow the trend of our flash opportunity. And we’re mindful of the fact that they are installed base is an opportunity.
+Kris Newton
+Thank you, Eric, Next question?
+Operator
+Our next question comes from the line of Nick Todorov with Longbow Research. Your line is now open.
+Nikolay Todorov
+Hey, guys, good afternoon. It sounds like you are rightfully cautious on the large customer side in the U.S. public sector. But I just want to understand your underlying guidance assumptions for the channel business. Are you guys as rightfully as cautious as there, or there’s a little bit more optimism and to that end of the market? And overall, what is the outlook for 2019 hardware spending that you’re getting from the channel business?
+George Kurian
+We have roughly 80% of our business fulfilled through the channel, and that’s the number that we break out in the categorization of our financial metrics. That number has stayed relatively stable for a very long period of time, and we don’t foresee a substantial mix shift this coming quarter or next year, right?
+I think within that channel number, there are a set of customers that the channel fulfills for large customers and others for small. The small medium customer segment performed better this past quarter. We continue to believe they are a growth opportunity for us given our share in that market. We are more cautious about the large customers who have global businesses.
+Nikolay Todorov
+Okay, got it. Thank you.
+Kris Newton
+Thank you, Nick. Next question?
+Operator
+Our next question comes from the line of Rod Hall with Goldman Sachs. Your line is now open.
+Rod Hall
+Hi, guys, can you hear me this time?
+Kris Newton
+We can.
+George Kurian
+Yes.
+Rod Hall
+Well, it’s a miracle. Okay, thanks for the chance again. I wanted to zero in on the year-over-year growth rate on the revenue. I just – I’m looking at the trend here back in April of 2018, it was 11% and 11.6% then 7.2%, then 1.6% in January, and then you’re guiding for basically flat, maybe down just $1 million or $2 million. And so I guess, what I wanted to ask is, whether you believe this April guided quarter hit the bottom on that trend? And if you don’t believe that, why not? And if you do believe it, why do you believe it’s the bottom?
+Ron Pasek
+So, I think what you’ve got to remember is the guide we gave, which looks roughly flat year-over-year has 2 points of currency headwind. The 11% you mentioned last year had 2 points of currency tailwind. I would think it was – we’re going to do mid single digits next year, that’s the guide I can tell you right now. So I don’t know how that will quarterize, but obviously, that has to be – we have to be growing from where we’ll end in Q4.
+Rod Hall
+So, Ron, you’d be just saying that then the January quarter is the bottom. And if you have the 2 points back, you’re kind as well, you’re kind of flat lining on the growth that you saw in January and then from here, we can guess what the trajectory might be?
+Ron Pasek
+Right. That’s right.
+Rod Hall
+Okay. Thanks for that.
+Kris Newton
+Thanks, Rod. Next question?
+Operator
+Our next question comes from the line of Nehal Chokshi with Maxim Group. Your line is now open.
+Nehal Chokshi
+Yes, thank you. So I think DSOs were up five days year-over-year. So presumably, that means that things were a little bit more back-end loaded than usual. Yes, you talked about how you did see a slowdown at the back-end of the quarter. So A, can you help bridge that, perhaps maybe you saw a loosening up of that demand at the end of the quarter, but not enough to make up for the shortfall at the beginning of January?
+Ron Pasek
+Yes, Nehal, it was really hard. I mean, it was not back-end loaded. We saw kind of that demand as we talked about kind of wane in January, so that’s not the issue. When I dissect the reason for the escalation DSOs, which is not significant, it’s just a mix of customers that have slightly different terms than they did last year, wherever you end up with collections at the end of the quarter based on that group of customers could be different than the prior year compare or prior quarter compare. I would point out that we’re still in a very negative cash conversion cycle, so I’m pretty happy about that.
+Nehal Chokshi
+Okay. And then my…
+Kris Newton
+Go ahead, Nehal.
+Nehal Chokshi
+Yes. George, you mentioned that you’re a bit behind on the operational capability of the cloud services, which are cloud service providers. Could you delve into why it’s behind? And then also there has been some management shakeups at some of these cloud service providers that create some opportunity for NetApp as well?
+George Kurian
+Well, we’ve got really good longstanding relationships with them. We are performing deep technical integration of our technology into their service delivery platform and we’re going through tests to get certification, right?
+So we are going to be imminently available and we look forward to that. We are excited that the production pilots that we have going on with their customers. So, stay tuned. I think we have an expanding range of opportunities through those could providers.
+Kris Newton
+All right. Well, thank you, Nehal. We appreciate it, and I’ll pass it back to George for some final remarks.
+George Kurian
+Thanks, Kris. Despite the near-term demand headwinds, cleared by the uncertain macro, we were able to beat on gross margin, operating margin and EPS. We continue our strong discipline in managing the business. As the economic uncertainty abates, we are well-positioned to reaccelerate our positive momentum by capitalizing on the key market transitions created by digital transformation.
+We are playing into these transitions from a position of strength. Our solutions allow us to reach new buyers, while growing our installed base. We are a leader in all-flash. The momentum in our private cloud business is accelerating. Our public cloud solutions with large hyperscalers are poised to deliver strong growth in fiscal 2020. All of this supports our confidence in our long-term model for mid single-digit top line growth. Thanks for your time. I look forward to speaking to you again next quarter.
+Operator
+Ladies and gentlemen, thank you for participating in today’s conference. This does conclude the program, and you may all disconnect. Everyone, have a wonderful day.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+1 Author in the Last 90 Days

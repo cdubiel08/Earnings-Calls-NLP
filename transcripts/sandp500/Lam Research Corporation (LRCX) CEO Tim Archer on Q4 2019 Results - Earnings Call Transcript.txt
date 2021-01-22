@@ -1,0 +1,307 @@
+Lam Research Corporation (NASDAQ:LRCX) Q4 2019 Earnings Conference Call July 31, 2019  5:00 PM ET
+Company Participants
+Tina Correia - Corporate Vice President of Investor Relations
+Tim Archer - President & Chief Executive Officer
+Doug Bettinger - Executive Vice President & Chief Financial Officer
+Conference Call Participants
+Harlan Sur - JPMorgan
+Toshiya Hari - Goldman Sachs
+John Pitzer - Credit Suisse
+Timothy Arcuri - UBS
+C.J. Muse - Evercore ISI
+Krish Sankar - Cowen and Company
+Weston Twigg - KeyBanc Capital Markets
+Joe Moore - Morgan Stanley
+Vivek Arya - Bank of America
+Patrick Ho - Stifel
+Sidney Ho - Deutsche Bank
+Mitch Steves - RBC Capital Markets
+Operator
+Good day, and welcome to the June 2019 Quarter Financial Call for Lam Research. Today's conference is being recorded. At this time, I'd like to turn the conference over to Ms. Tina Correia, Corporate Vice President of Investor Relations. Please go ahead ma'am.
+Tina Correia
+Great. Thank you and good afternoon, everyone. Welcome to the Lam Research quarterly earnings conference call. With me today are Tim Archer, President and Chief Executive Officer; and Doug Bettinger, Executive Vice President and Chief Financial Officer.
+During today's call, we will share our overview on the business environment and review our financial results for the June 2019 quarter and our outlook for the September 2019 quarter. The press release detailing our financial results was distributed a little after 1:00 P.M. Pacific Time this afternoon. The release can also be found on the Investor Relations section of the company's website along with the presentation slides that accompany today's call.
+Today's presentation and Q&A includes forward-looking statements that are subject to risks and uncertainties reflected in the Risk Factors disclosures of our SEC public filings. Please see accompanying slides in the presentation for additional information. Today's discussion of our financial results will be presented on a non-GAAP financial basis unless otherwise specified. A detailed reconciliation between GAAP and non-GAAP results can be found in today's earnings press release. This call is scheduled to last until 3:00 P.M. Pacific Time. A replay of this call will be available later this afternoon on our website.
+With that, let me hand the call over to Tim.
+Tim Archer
+Thanks, Tina, and good afternoon to everyone on the call. In the June quarter, Lam delivered strong results. Revenues, gross margin and operating margin exceeded the midpoint of the guidance we've provided on our last earnings call, while EPS exceeded the high end of the guidance. Our ability to deliver these results was made possible by the support of our customers, our employees and our partners and I would like to thank them for their ongoing commitment to Lam's success.
+I would like to start by offering some perspective on Lam given the uncertainties surrounding trade and other influences on the market environment. Through the first half of calendar 2019, we have executed at a high level by focusing on what is in our control. And despite a difficult memory market, we have delivered on or exceeded our commitments.
+As you will hear from Doug later, we generated another $880 million in cash from operations in the most recent quarter. At the same time, we have continued to prioritize investment in innovation and product differentiation, shifting a higher percentage of our total OpEx to R&D than in any prior quarter in our history. We remain committed to our long-term growth vectors observed available market expansion, market share gains and increased revenue from our installed base.
+Specific proof points are emerging that validate our progress in each of these areas and I will touch on them later in my remarks. But first let me update our industry outlook.
+Our view on total WFE remains directionally unchanged, with calendar year 2019 down mid- to high-teens percent from 2018. However, since our last earnings call, Memory spending is incrementally lower, while Foundry spending is tracking higher, we believe due in part to acceleration in 5G development leading to strong demand for 7-nanometer and 5-nanometer products. We now view Foundry Logic WFE to be second half-weighted versus our prior baseline of first half-weighted for calendar 2019.
+Within Memory, customers have continued to take meaningful actions to restore supply and demand balance, reducing investment and lowering utilization levels for both NAND and DRAM, as we progressed through the June quarter. As a result, we see year-over-year bit supply growth for both NAND and DRAM continuing to decline, with bit supply growth rates exiting the year well below the long-term demand trend lines.
+On the demand side, we are encouraged by early signs that NAND price declines are leading to an acceleration of content growth in devices. For example, SSD penetration in PCs is expected to reach nearly 60% by the end of 2019. But more importantly, the average density per drive is also growing. The predominant SSD configurations in the PC market are now 256 gigabyte and 512 gigabyte versus 128 gigabyte and 256 gigabyte a year ago.
+The demand impact is amplified as both units and content per unit grow together. Similarly, we have seen acceleration in bit content growth for NAND and mobile devices. This is evident not only in the premium phone segment, but also in the mid-tier and lower-end phones, where 128 gigabytes offerings are seeing the fastest growth versus 64 gigabyte models a year ago.
+We believe the combination of factors influencing supply and demand creates a favorable setup for Memory as we enter 2020. Our actions are focused on ensuring Lam is in the best possible position to benefit from the anticipated recovery in Memory spending. This focus is contributing to gains in both served market and market share as evidenced by wins this quarter across various applications, as well as in road maps for emerging 3D architectures.
+In NAND, we are working closely with customers to develop differentiated solutions for potential limiters to 3D scaling. An excellent example is the wafer processing challenge created by stress-induced wafer bow as the number of 3D NAND layer scales to 100 and beyond.
+Given Lam's leadership position in critical 3D NAND etch and deposition applications, we are best positioned to address this problem. The new Lam tool, which deposits a counter-stress film on the backside of the 3D NAND wafer, using an innovative single-step process has been introduced to leading-etch customers with multiple repeat orders received.
+Importantly, the learning we gain through our investments to scale 3D NAND will be broadly applicable as new 3D architectures emerge in other segments. For example, we believe Lam's leadership in enabling 3D scaling will become increasingly valuable as logic devices migrate to a 3D gate all around structure in 3-nanometer as new memory such as PC RAM scale vertically for cost and bit density improvement, and as 3D heterogeneous integration is adopted as a preferred packaging option for high-performance system solutions.
+For 3D heterogeneous integration, several leading companies across Foundry and Logic have announced architectures to connect different IP blocks using high-density interconnects with through-silicon vias. Lam's SABRE 3D electroplating and Syndion etch tools offer best-in-class technology backed by years of high-volume production leadership in the TSV market.
+During the quarter we secured an important win at a leading logic customer for our SABRE 3D electroplating system for 3D chip stacking applications. This is a significant validation of Lam's ability to leverage its industry leading position in 3D scaling to new and emerging manufacturing inflections.
+We are also seeing successes from our customer focused investments in DRAM. We are collaborating with customers on critical new technologies required to scale to the 1Z and 1A nodes. For instance, as DRAM shrinks, devices shrink to 1Z and beyond, the performance impact of resistance capacity delays becomes a challenge that must be addressed. This quarter, we won critical spacer applications at multiple leading DRAM manufacturers for the 1Z node due to our ability to deposit highly conformal low-k films that help reduce RC delay.
+In addition to our progress on critical applications, you might recall that I have spoken previously about the NAND semi-critical process space and is an area of increased focus for Lam as we drive to gain market share.
+In the most recent quarter, we began to deliver on this opportunity with significant conductor etch wins at multiple NAND customers for mask open applications. Specifically, Lam's ability to create a highly productive, single-step etch process to replace our competitor's multiple step approach allowed us to differentiate on system throughput, a key decision factor in the semi-critical space.
+Another example is seen in dielectric etch where we recorded a key win for a semi-critical metal contact application at a leading memory maker. As 3D NAND scales, the peripheral context becomes deeper and aspect ratios increase. Our dielectric etch system demonstrated faster etch rates and superior profile control, leading to greater capital productivity and less frequent maintenance.
+For our Customer Support Business Group, we continue to see 2019 as another year of solid revenue growth despite lower WFE spending. In the June quarter we achieved a second consecutive quarterly record for revenue from our Reliant Systems business as customers invest to address robust non-leading etch demand from end markets such as IoT, automotive and powered devices.
+The combination of our focus on leading-etch technologies and installed base performance is being recognized by our customers. In the most recent quarter our top customer completed their annual supplier evaluation process, ranking us as their number one supplier as measured by a broad set of installed base performance, cost reduction and R&D engagement metrics. With this newest rating, we are now in the number one position in more than half of our top customers.
+To wrap up, the near-term environment remains challenging. But the long-term growth opportunity for both our industry and for Lam is compelling. We are focused on executing to our commitments and extending the differentiation of our product and services portfolio.
+I believe that our continued prioritization of customer focused investment would yield lasting benefits. And as Memory spending returns to normalized levels and non-Memory technologies increasingly rely on 3D scaling for performance and cost improvement, Lam will be in an excellent position to outperform.
+Now I'd like to turn the call over to Doug.
+Doug Bettinger
+Excellent. Thank you, Tim. Good afternoon, everyone, and thank you for joining us today during what I know is a busy earnings season. Lam executed well in the June quarter with our results exceeding the midpoint of guidance for all financial metrics.
+Earnings per share exceeded the high end of the guidance range we provided due to stronger gross margin as well as proactive management of operating expenses. Our EPS performance is I believe are testament to our continual focus on delivering on our ongoing commitments.
+As Tim noted, our expectation is that 2019 WFE will be down from calendar year 2018 in the mid-to high teens percentage level. Since our last call we're seeing some upside strength in Foundry, which was partially offset by a reduction in Memory spending.
+From a segment perspective, our systems revenue for the combined Memory segment increased slightly to 64% of total system revenue from 61% in the March quarter. We had an increase from the March quarter in the non-volatile memory segment from 40% to 46%, while DRAM decreased to 18% from 21%.
+Memory revenue continues to be mainly targeted towards conversion-related investments. In DRAM spending, it's targeted towards 1Y and some initial 1Z investment. In NAND, it's primarily convergence to non-auxiliary devices. Additionally, we are seeing initial investment on 128-layer structures.
+We're continuing to see healthy spending in the Foundry segment which came in at 23% of our system revenue for the March quarter. And as Tim mentioned this is heavily focused on the 5 and 7-nanometer nodes. This was slightly down from 27% last quarter although still quite strong.
+The Logic and Other segment was flat with the prior quarter level contributing 13% of system revenue. We expect to see continued strength in the Foundry and Logic space throughout the remainder of the calendar year.
+It's worth noting that from a geographic perspective, 33% of our revenue was generated in the China region. The majority of this came from indigenous Chinese customers. We expect to see higher than our average concentration level of revenue in the China region for the September quarter as well.
+We executed well on income statement performance for the June quarter. Revenues came in at $2.361 billion, which was above the midpoint of the June guidance. Gross margin for the quarter was 45.9% which was better than expected primarily due to customer mix and improved field resource utilization.
+Also as we've stated in previous quarters, our actual gross margins are a function of several factors such as our raw business volumes, product mix and customer concentration and you should expect to see some variability quarter-to-quarter.
+Operating expenses in the June quarter declined to $450 million from the prior quarter. We are proactively managing expenses with our lower revenue levels. We continue to invest in our strategic R&D programs however and remain focused on our commitment to technology and productivity leadership. The percentage of R&D spend increased to approximately 66% in the June quarter, which was a high watermark.
+Operating income in the June quarter was $635 million and operating margin was 26.9% at the high-end of our guidance range. The non-GAAP tax rate for the June quarter was approximately 11% which is slightly lower than our long-term rate.
+For the remainder of the 2019 calendar year, we expect a tax rate in the low to mid-teens. And I'll just remind you, you should expect to see fluctuations in the rate from quarter-to-quarter.
+For June, other income and expense was a total of approximately $6 million of expense. This total includes interest expense for a full quarter related to the issuance of a $2.5 billion senior notes that we completed in the March quarter. The quarterly interest expense is partially offset by the interest income earned on higher cash balances for the company.
+I'll just remind you that total interest expense on all tranches of our debt is approximately $45 million per quarter. We continued to execute on our capital return program during the June quarter. For the quarter, we allocated $1.3 billion to capital return with $1.1 billion coming in share repurchases and $165 million in dividend payments. 
+Our share repurchase activities were from a combination of open market as well as structured repurchases. The structured repurchase program that we entered into is intended to continue to execute throughout our December quarter. We've completed approximately $2 billion of the $5 billion authorization that we announced in the March quarter.
+Over the past 1.5 years, we've utilized approximately $6 billion in buybacks and lowered diluted share count by roughly 15%. I believe this demonstrates our continued commitment to return meaningful cash to our shareholders.
+Earnings per share was $3.62, which was over our guidance range for the June quarter. This upside was driven primarily by better gross margin and lower-than-expected operating expenses. Diluted shares per EPS were approximately 154 million shares which reflects a 5% decrease in quarterly diluted share count since the beginning of the calendar year. The share count includes a dilutive impact of approximately 5 million shares from the 2041 convertible notes. The dilution schedules for the remaining 2041 converts is available on our Investor Relations website for your reference.
+Let me now move to the balance sheet. Our cash and short-term investments including restricted cash decreased in the June quarter to $5.7 billion from $6.4 billion in the March quarter. The decrease is mainly due to the capital return activities within the quarter, offset by strong cash generation from operations of $880 million. This is the second consecutive quarter, where we had cash from operations in the $900 million range.
+DSO decreased by five days to 56 days. Our inventory balance decreased by $82 million. Inventory turns remained at industry-leading levels coming in at 3.3 times. Company non-cash expenses included approximately $45 million for equity comp, $47 million for depreciation, and $18 million for amortization.
+Amortization was down from last quarter by 50% as a portion of the intangibles from the Novellus acquisition have now fully amortized. Capital expenditures were $66 million in the quarter, which was a slight decrease from the $76 million that we saw in March.
+The June quarter ended with approximately 10,700 regular full-time employees, which is down somewhat from the prior quarter. Additionally, I'd like to remind you that, we used temporary labor as part of our operating model. We have reduced this temporary labor by almost 40% or 600 head count in the last year. This flexibility is a critical part of our operating model enabling us to deliver sustainable operating profits during a time of reduced revenue levels.
+So now looking ahead, I'd like to provide our non-GAAP guidance for the September 2019 quarter. We are expecting revenue of $2.150 billion plus or minus $150 million; gross margin of 45% plus or minus one percentage point; operating margin of 24.5% plus or minus one percentage point; and finally earnings per share of $3 plus or minus $0.20 based on a share count of approximately 150 million shares.
+Before closing my scripted remarks, I'd like to reiterate some of the tone that Tim shared in his script. We continue to not see a recovery in Memory spending which is our strongest market for 2019. We do observe dynamics in those markets, however, that are positive signs. Some examples of these signs are demand elasticity, pricing trends, and management of factory utilization to bring inventory down. We are tracking a double-digit number of new fabs ready to receive equipment shipments during this year and we see plans for that to happen again next year. We continue to believe as a result that 2020 sets up as a better year than 2019.
+Operator that concludes my prepared remarks. Tim and I would now like to open-up the call for questions.
+Question-And-Answer Session
+Operator
+Thank you, sir. [Operator Instructions] We'll take are our first question from Harlan Sur with JPMorgan.
+Harlan Sur
+Good afternoon. Thanks for taking my question. A quarter ago, the supply side situation in Memory was one of disciplined spending and sort of reining in supply. It was really the demand side that was still uncertain, but just even over the past few weeks it seems that the demand side is starting to materialize here in the second half of this year PC market looking seasonally stronger cloud spending set to accelerate this quarter and you even have several big sort of AI in deep learning programs that are starting to fire. Your customers are also talking about inventory starting to come down. So is the Lam team feeling more confident, and more importantly your customers feeling more confident about the prospects for a healthier market environment exiting this year relative to three months or six months ago?
+Tim Archer
+Sure. Harlan, I'll take that and then Doug can add what he would like to. Clearly, I maybe – I walk you back since you kind of sets us as a baseline three or six months ago. The very first call of this year we laid out a view that Memory spending really wouldn't recover for this entire year. You just heard Doug kind of reiterate that again. But that didn't mean that through the year we wouldn't see progress, progress in sentiment progress in both the supply side and maybe the demand side. And so I guess, what I would say is incrementally you are hearing commentary about the demand side. I talked about elasticity. You've heard that also from some others even closer to those markets than us.
+So I think that you're starting to see some sentiment in NAND that is – are positive signs. Back six months ago we also said that, given the timing in which NAND corrected versus DRAM that NAND corrected earlier, and therefore would be likely the first market where we would see end demand increases as well as pricing and market improvements. What we've tried not to do and it's just challenging given the uncertainty in the market is pin down exactly when that happened.
+So we have put an end year supply growth rate number out there which was we said on the last call and we reiterate now in the range of about 30% supply growth for NAND as we exit the year. And that's about 10 points below what Lam sees as long-term demand growth. And so again, what we said is at that point it feels like the market will have tightened and investment could return, but obviously pinning that exact timing is challenging. I feel like the year in terms of supply improvement demand improvement discipline is playing out very close to what we thought it would with a whole lot of moving parts but in general and as I said directionally very much likely we thought at the beginning of the year. I don't know if Doug has anything to add.
+Doug Bettinger
+No. Perfect Tim. I don't really have anything to add. You're starting to see Harlan you alluded to it some of the early indications that the market is getting healthier is turning. And inevitably I think we all know it's a question of when not an if that memory spending will recover and that continues to be how we see it.
+Harlan Sur
+Great. Thanks for the insights there. And then on the heavier China domestic mix just, given the continued trade tensions U.S. and China which is actually motivating a number of the China-based companies to bring in more chip design domestically especially given some of the recent component bans and the delist additions. Have you guys seen an increase in dialogue or programs that suggest a step up on China domestic activities to accelerate their semiconductor manufacturing capabilities?
+Tim Archer
+Yes. I think it's hard to say to tie one directly to the other. What we said as we came into this year is that China domestic spending would be stronger this year than last year. And I would say that at this point in the year, we feel maybe it's even somewhat stronger than that and so demand from domestic China or indigenous Chinese customers is strong as Doug pointed out. I think to this point of exactly what's driving that I think there is obviously long-term demand and a long-term desire to build more domestic capability.
+When I think about China, it's -- the biggest challenge for us really is the uncertainty that a lot of the trade discussions probably put not only the investment plans of indigenous Chinese customers, but also in the global players who are a little less certain about how those issues might play into the demand environment. So we're just trying -- we're managing through this. We've said our position in China is strong from a market share perspective and I think as you start to see some of the indigenous Chinese customers move into Memory, I would assume that our market share position should get even stronger. So, it's an important region for us but we track what's going on there closely and manage it as we see best.
+Harlan Sur
+Great.
+Tim Archer
+Thanks, Harlan.
+Operator
+We'll go next to Toshiya Hari with Goldman Sachs.
+Toshiya Hari
+Hi, guys. Thanks for taking the question. Tim, you talked a little bit about your focus on addressing semi-critical applications in your prepared remarks. And I think you threw out an example in conductor etch where you managed to have some wins in the quarter. Just curious to semi-critical applications in general how meaningful is that part of the market as a percentage of etch and deposition? Where is your market share today? And how do you see that evolving over the next couple of years? And then I have a follow-up.
+Tim Archer
+Yes. That's a great question. In fact we said last time that as we move through the year and perhaps our Investor Day when we hold it next we might break out a little bit more detail on the size of semi-critical as a percentage of our total so we're not prepared to do that today. But it is -- the semi-critical is a meaningful part of the etch market. In terms of -- but I think it's also important and I really want to make sure that the message doesn't get lost.
+Our core strength, our core business is the critical market, but if you have ambitions to grow and outperform the industry in the long-term, you have to also be competitive in semi-critical. And so, I think that we look at our performance in the last quarter I didn't talk about it, but we successfully defended critical positions in all markets in the last quarter. And so that was a statement and that's kind of how we go every quarter thinking we have to get done is defend our critical positions.
+Where we have the opportunity to grow is by taking semi-critical positions away from the competition. There the defining factor is much more about productivity. As I think I mentioned in the last call or at least in one of our conferences, productivity is something that the company knows how to do by learning from what has been done for a long time on the deposition side where I would say a larger fraction of the market exists within the semi-critical space.
+And so what we tried to highlight in the prepared remarks today is refocusing some of our efforts to ensuring that our productivity that we're delivering to customers is best-in-class can yield wins for Lam in the semi-critical etch space. We gave you examples both in the conductor etch space as well as the dielectric etch space. And so obviously that's -- can be interpreted as against two different competitors. So I think we're making progress there. I think just stay tuned and we'll continue to report how we're doing against those efforts.
+Toshiya Hari
+Got it. Thanks very much. And then as a follow-up, I was hoping to get an update on how you guys view EUV. How fast -- or how slow rather the technology is progressing on the Foundry and Logic side? How you see that impacting your business into 2020? And then more specifically I guess one of your customers recently sort of talked about potentially inserting EUV on the DRAM side of their business at the 1Z nanometer node. How do you see that evolving over the next 12 to 18 months? And how that could impact your business? Thank you.
+Tim Archer
+Sure. Okay. Great. It's funny, so maybe I'll just come out with a very clear statement at the beginning, because we get asked -- when the EUV question gets asked, it's often -- at least, I interpret it as kind of like, is this going to have a negative impact on Lam's business. So, I guess, what I'd like to start just by saying is, at this point we view Lam -- EUV as being good for Lam. And maybe I'll just run you through a couple of reasons for that.
+I mean, we're aligned with this idea, which, I think, is held be many of our customers, that EUV is part of the answer to cost-effective scaling. And cost-effective scaling is what's needed for new technology nodes. New nodes are important to Lam, as you can guess. I just said our critical application business is the core of our business.
+Critical applications, kind of, new ones get created when technology advances from node to node and so that's part of our growth strategy is, continue to win the next critical applications are being developed. New nodes also create SAM expansion opportunities for Lam. When there's a new node, I mean, there's new materials and new architectures where Lam can use etch and deposition more effectively. We win new positions.
+And in terms of a negative impact, I mean, multiple patterning, we've said also very clearly, continues to grow even with EUV. We've said obviously, it doesn't grow -- multiple pattern, it doesn't grow as fast as if EUV doesn't exist. But, again, our view is, that's one of those hypothetical futures that, it's hard to say exactly how many wafers will get produced in the future of future nodes without EV. So, it's a long way of saying, I think, EUV in total is good for Lam.
+Now, I also said, I think, on our last call that EUV is a big technology transition and you kind of pointed out, the speed with which it gets introduced has a lot to do with productivity. And we think that Lam has a significant role that we can play in helping improve, by using etch and deposition we can improve the productivity over the patterning module as a whole. And if we can do that, then it creates new opportunities for etch and deposition and we're partnering with ASML on those opportunities and I think we -- it's a big area of focus for us.
+Specifically, to your question, like, for introduction in Logic and Foundry, I think, our view is consistent with industry consensus. So I don't have a lot to say there. Around the question of 1z insertion, again, I think you know probably what has been said. It's clearly not the general consensus that DRAM and D1z will commonly use EUV. I mean, it's a node where people will talk -- at least one customer, as you said, is talking about putting it in kind of as maybe the learning node. But I think that I don't have anything else to add to it than that.
+Toshiya Hari
+Thanks very much.
+Tim Archer
+Thanks, Toshiya.
+Operator
+We'll go next to John Pitzer with Credit Suisse.
+John Pitzer
+Yeah. Good afternoon, guys. Congratulations on the solid results. Tim at least by our math, if you look at kind of your June shipments into the Memory market, they're down about 50% plus or minus from sort of peak, but they're still up if you look at -- you're almost 50% from sort of the 2014 to 2016 average and there's been a lot that's going on with capital intensity, your SAM expansion, market share gains.
+You guys have been very clear about not calling a recovery in Memory, but I'm kind of curious, how do you think about the current level of spending relative to prior troughs in Memory spending when you adjust for capital intensity going up, SAM growth, market share. Do you feel like we're bouncing along a bottom here in Memory, or how should we think about that?
+Doug Bettinger
+I mean the one thing, I would say, John, is that -- I would say and we've been saying this all year is, when I look at the spending in Memory this year, it is almost entirely allocated to conversion-related investments right? Which is always a cost-effective thing for the customer base to do, it lowers cost per bit.
+I don't know that I would say, it's a maintenance level or it's a bottom level, John. But it's always something that economically is -- it makes sense for the customer to do it. And that's pretty much what we're seeing happening this year. And your observation about SAM intensity, capital intensity going up and all of that is absolutely valid. It's gotten more expensive to put wafers in place, because complexity of architectures have grown. And, obviously, that's part of the calculus as well. I don't know, anything to add, Tim?
+Tim Archer
+Yes. No, I think in terms of, especially, etch and depth intensity has changed in a pretty dramatic way since, what's the time? But I agree with everything Doug said. Our comments are -- have been, we're clearly at a point where we believe that supply growth spending is insufficient to meet long-term demand growth. So, however you want to call that, Doug, bottom or trough, as Doug said, we don't really want to do that, but it's -- this feels like the majority of investment is really around technology at this point.
+John Pitzer
+That's helpful. And then, as my follow-up, I was wondering if you can just give us update on kind of your view of the service business for this year, especially in lieu of sort of the some of the utilization cuts we've seen from customers. I know the installed base is growing, which will give a tailwind to service, but is that still expected to grow? And as you answer the question, one of your customers with the power outage this quarter, what kind of impact might that have had, either on the services or quite frankly in the shipment business?
+Doug Bettinger
+Yes. John, it's Doug again. Yes, I still expect our installed base business to grow this year. And again, your observation is absolutely right. This business will ebb and flow somewhat with industry overall utilization. And I think it's pretty well understood that some of the Memory -- some of our Memory customers are reducing utilization to a certain extent, including from a power outage. And so, as a result of that, things like spares consumption will decrease for a period of time. But this business will still grow this year. And it grows along with growth and chamber count.
+And as we've been saying, our view even though WFE is down so much, chamber count will still grow this year. So the tailwind of the business over the next several years continues to be pretty good.
+John Pitzer
+Thank you.
+Doug Bettinger
+Thanks, John.
+Operator
+We'll take our next question from Timothy Arcuri with UBS.
+Timothy Arcuri
+Thanks so much. Doug, I guess both of my questions are for you. The first one is I'm wondering if you can update us on the comments you gave, I think on second half versus first half loading?
+Obviously, your full year WFE has not changed. But the mix has changed a little bit. It seems like maybe a little bit less in your favor. So can you update us on the second half versus first half of this year? Thanks.
+Doug Bettinger
+Yeah. Tim, yeah you're right the puts and takes. We're still suggesting WFE this year is down, mid-to high teens. And within that there are puts and takes. Memory is somewhat softer than we were describing, a quarter ago. And Foundry is a little bit stronger, maybe a decent amount stronger.
+And when I look at the profile of that investment, the spending in Memory is somewhat first half weighted. The spending in Foundry and Logic is somewhat second half weighted. And when you put it all together, I think WFE this year will be a little bit weighted to the second half.
+Timothy Arcuri
+I guess Doug, I was more talking about your shipments, but I think you had previously guided your shipments or your revenue second half versus first half. So I'm wondering if you can update that.
+Doug Bettinger
+No. We've never guided revenue half on half. We've always and maybe I was misinterpreted talking about WFE.
+Timothy Arcuri
+Okay, awesome. Okay and then I guess my second question Doug is you're doing $12 annualized in a pretty nasty Memory cycle systems for Memory are cut in half and total system shipments are down somewhere in the range of 14% from the peak.
+Obviously it's much down than really anything in the past. So I guess the question is how do you think about how to optimize the capital structure in the balance sheet as you come out of this?
+You have bought back a ton of stock but I'm wondering how you think about the right balance sheet leverage targets, as you look out over the next few years? Thanks.
+Doug Bettinger
+Yeah. Tim, I mean, I haven't communicated a numeric target for leverage or total cash or anything like that. But if you look at what we've done over the last several years I think we've had an inclination to provide meaningful cash back to shareholders. The cash generation capability of the business, continues to be amazingly strong right?
+We're coming off two quarters now of nearly 900 -- or approximately $900 million from operational cash flow. So our confidence in the ability to sustain cash generation is obviously much higher.
+And if you look at a metric like net cash, it's also why we've been comfortable bringing that down. And we've done that through raising, a little bit of debt and consuming the cash by both dividends and more towards share buyback.
+At some point, we'll probably have an investor event again and talk a little bit more about it. But I'm not ready to change what we've described in the past, which has been we're going to return at least 50% of free cash flow to shareholders. And what you've seen us do is a whole lot more than that over the last several years.
+Timothy Arcuri
+Okay Doug got it. Thanks so much.
+Doug Bettinger
+Yeah, thanks, Tim.
+Operator
+We'll go next to C.J. Muse with Evercore ISI.
+C.J. Muse
+Yeah. Good afternoon. And thank you for taking my question. I guess first question, can you speak to on both Foundry Logic side. Your revenue intensity at the 16, 14, 10, nodes and how we think about share gains and/or greater opportunities for you as we migrate down to seven and five?
+And if there's any way to kind of quantify what the incremental revenues per wafer start or any sort of math like that, that will be very helpful. Thank you.
+Doug Bettinger
+Yeah. C.J., I'm going to let Tim actually talk about the direction. We haven't quantified it. And we're not ready to do that on the call. But Tim is pretty well versed in the trajectory. So if you can cover that.
+Tim Archer
+Good they took the numbers off the table for me. But I think maybe the first time we've said and we feel quite confident is, in kind of the Logic Foundry world. Our share gains for a variety of reasons both through wins, but also new applications that we've gained our share gains are gains between 10, 7 and 5.
+And so we feel quite confident that part of that is intensity in etching that deposition, part of that is new applications that created get created its new processes. And so, while we haven't quantified it, I would say that, as I said in my EUV commentary, every technology transition is an opportunity for us to gain new applications and gain share.
+We feel really good about the progress we've made. It sometimes gets lost in the -- in this overlying story about memory and memory spending. And how much impact it has on our business. But we're feeling quite good about our momentum in Logic and Foundry both.
+C.J. Muse
+That's helpful. And as my follow-up, any update on your self-cleaning etch offering? I'd love to hear about the Kiyo module coupled with Corvus. Anything you can share with us would be great.
+Tim Archer
+Okay. Well, I'm not sure I can share with you other than it continues to progress in the marketplace. It's again, when I talked about semi-critical applications, where customers are really focused on trying to optimize the productivity of existing fabs. And one element to productivity of fab is how often you have to actually have technicians or people going and doing maintenance on tools.
+And the Kiyo product with the Kiyo -- product with the Corvus Are, the self-maintaining tool is part of that answer. Now, obviously, there's not a lot of spending going on in some of those segments, but we feel this is another example of where we've introduced the right product that one spending recovers in the Memory market, they should be perfectly targeted to the types of tools that customers want to put in to all those new fabs they're building right now. Thanks C.J.
+Operator
+We'll go next to Krish Sankar with Cowen and Company.
+Krish Sankar
+Yeah. Hi. Thanks for taking my question. I have two of them. First one for Tim, one of the things I've been hearing is that actually go to higher and higher layers in 3D NAND, the process time for etch keeps going up. Is there a way to quantify in either absolute minutes or relative to prior nodes, what kind of increase in process times are we talking about, and what does it mean for Lam?
+Tim Archer
+Okay. Well, I don't think that we're going to quantify that because it's kind of a competitive piece of information that would -- we wouldn't want to divulge here, but it does, I mean, to your point it takes a longer time to etch higher aspect ratio features, and I think that it's relatively well known that that increase is non-linear with the number of layers, meaning, the etch becomes longer non-linearly with the number of layers that are being created. And that's simply due to the etch process physics themselves, physics and chemistry. And so more layers has a positive impact on -- for Lam on the number of etch tools that are required to accomplish that etch.
+Now what I would say is that there's a constant battle, I mean, to keep the cost of ownership reasonable for customers, we're continuously working on productivity of every etch we deliver to the customer, including critical etches like the whole -- the 3D whole etch. So not prepared to quantify today, but it is a positive grower for us.
+Krish Sankar
+Got it. Got it. Okay. And then as a follow-up Tim. When you start gaining more share refocus more on the semi-critical etch applications how should we think about the margin structure, because it seems like productivity is key in this segment. Is productivity a euphemism for lower price, or just trying to figure out how to think about margins and you get more share in semi-critical etch?
+Tim Archer
+No. Definitely in my mind, it's not a euphemism for lower price. Productivity is in many ways is much of a technology challenges as any other. And so we're attacking productivity, we are attacking it fundamentally from equipment and hardware and process design in a way that we deliver increased productivity with the cost structure of the tool that allows us to deliver corporate average gross margins for those applications. That's our expectation. And so that sometimes takes time and will require us in many cases to think long and hard about how our tools are designed, but that is the expectation that I have for winning in that space.
+Krish Sankar
+Thanks Tim.
+Tim Archer
+Thanks, Krish.
+Operator
+We'll take our next question from Weston Twigg with KeyBanc Capital Markets.
+Weston Twigg
+Hi. Thanks for taking my question. First, I just wanted to probe a little bit about your comments on 2020. You said you think it's shaping up to be an up year, but I was wondering if you could just walk us a little bit through the puts and takes maybe both in Memory and Foundry what it would take be an up year? And sort of what your expectations are regarding those?
+Doug Bettinger 
+Yeah, West. Too soon for us to get into specifics on this. Really the commentary around setting up for a better year next year, it's all about Memory recovering in terms of investment levels. We'll give you more color on it when we get a little closer to next year, and I'm sure a lot's going to move around in there. But as we sit here today and look at the level of investment occurring in Memory and the growth rates of bits exiting the year and whatnot, we believe the level of investment there needs to go up next year and that's the nature of the comments.
+Weston Twigg
+That makes sense. I guess related to you talked about some new wins and focusing on market share gains and SAM expansion, some of the Syndion line today, can you help us maybe put some numbers around what -- how much that could expand the opportunity in 2020? The revenue opportunity deal for you?
+Tim Archer
+Well, I think maybe kind of no, but you should come back to the -- but you we're getting closer and closer to our market share targets that we put out for 2021. So I guess you can think of these as we've come out and we have said that we would gain four to eight points of share within etch and four to eight points within deposition by 2021. That was our last stated set of objectives.
+And when you think about progress we already made in our share positioning critical that's where you move to semi-critical and you say a fair bit of that share gain four to eight points is going to come from those types of wins. That's why what we wanted to highlight today that we feel we're just at the start of making some of the progress towards that type of share gain.
+Weston Twigg
+Okay. Fair enough. Thank you.
+Tim Archer
+Thanks West.
+Operator
+We'll go next to Joe Moore with Morgan Stanley.
+Joe Moore
+Great. Thank you. I wonder if you could talk a little bit more about the strength in the indigenous China spending. How does that break down between Foundry DRAM, NAND and just generally your view on the sustainability of that spending into next year?
+Doug Bettinger
+Yeah. Joe, we described in the past view that plus or minus there's investment levels of $5 billion from indigenous China relative to WFE this year. As we look at it now, a little bit stronger than that quite honestly. The strength is coming from Memory primarily. And I think you know what's going on. There's several Foundry customers there the big one is SMIC. They continue to be a very important customer for us. You got YMTC investing in NAND and then emerging DRAM investments. The uptick relative to prior communication I think it's been primarily related to Memory both a little bit of NAND a little bit of DRAM.
+Joe Moore
+And the majority of the output that they're getting from that spending I mean is that something where you could see more kind of a larger capacity as we move forward, or is it more pilots and kind of getting things figured out?
+Doug Bettinger
+Yes. I mean, Joe, I think they're going to continue to keep innovating on the technology, they're going to keep getting better and better at what they do and it wouldn't surprise me if they can continue to invest at higher levels as we go forward. I'm not ready going to quantify it for you, but they're working very, very diligently on innovating the technology.
+Joe Moore
+Very helpful. Thank you.
+Doug Bettinger
+Yeah. Thanks, Joe.
+Operator
+We'll take our next question from Vivek Arya with Bank of America.
+Vivek Arya
+Thanks for taking my question. I had two as well. I wanted to also ask about China. So sales were up 20% in the last fiscal year, non-China was down about that number. How do you measure utilization at your customers? Because their purchasing has gone up right around the time when trade tensions have increased. So is there a risk that there have been pull-ins and this becomes an issue later on?
+Doug Bettinger
+Yes, Vivek when I look at it, I don't think there's significant pull-ins occurring in what we're seeing happening. And I say that because we sort of knew our customers' plans as the year began. And when I look at it for the most part, they're executing to those plans. It's also important I think to understand that a lot of the investment in China is not indigenous Chinese customers, right? You've got the Koreans building fabs, Taiwanese, U.S. companies. So understand that a broad swathe of the spending in China isn't necessarily the indigenous Chinese customers. That's generally how I see that.
+Vivek Arya
+Okay. And then for my follow-up Doug, on gross margins, you are guiding to 45%. And I know you mentioned a few times that mix changes from quarter-to-quarter. What in the mix is driving gross margins lower? Because when I look at the revenue level, it's kind of back to where it was in March 2017. But at that time gross margins were higher. But I recall at that time Foundry, Logic was a lower part of the mix. So is it Foundry, Logic that has an impact on gross margin? And I think you also alluded to the fact that you do expect to continue to grow in Foundry, Logic. So just how should we think about the trajectory of gross margins over the next several quarters?
+Doug Bettinger
+Yes, Vivek, I wouldn't assume or you shouldn't assume there's differential gross margin by end of market necessarily meaning Foundry to Logic to Memory. That's not the way it works. Generally, there are -- it's what I always say that the larger customers, because they're buying more may tend to get a little bit better pricing simply because they're buying more from us relative to discounts sometimes. Not always, but obviously when you look at revenue down the way it is that's probably one of the bigger contributors right now. And Tim, would you want to...
+Tim Archer
+Yes, no. I think there's a -- you referenced back to a point in 2017. We look at those all the time to think about what's different in our business. And what you have to look at is that as we transition through 2017, it was a massive growth cycle for us. And while we have a very flexible operating model, some of the physical infrastructure that we have to put in place to meet a $3 billion quarterly revenue run rate some of that physical capacity has not been taken offline and it does affect gross margin to some degree. We are confident that that kind of physical capacity is what's needed to be able to respond when our customers do ramp as Memory spending recovers. So flexible operating model Doug talked about temporary workforce, but in some cases there were costs put in which are still with us. Doug, I don't know if you have...
+Doug Bettinger
+Yes. No perfect.
+Vivek Arya
+Great. Pretty helpful. Thank you.
+Doug Bettinger
+Yeah. Thank you.
+Operator
+We'll go next to Patrick Ho with Stifel.
+Patrick Ho
+Thank you very much. Tim, maybe to follow-up from your prepared remarks, you talked about some of the new emerging technologies such as gate-all-around and the industry transition in DRAM to 1Z and 1A. On the gate-all-around given that it's a similar format to FinFET, are there any capital intensity increases for etch and deposition that would benefit you guys when the industry makes that [ship] because you guys clearly benefitted from the transition of FinFET?
+Tim Archer
+Yes. I think that I mean what I was trying to message is that at almost every node our customers, the industry has realized that 3D scaling is a key part of the answer both to device performance as well as cost scaling. And for us 3D scaling really means etch and deposition intensity tends to increase. Obviously we're still a little ways away, I mean we're highly engaged with 3-nanometer but final decisions ultimately get made relative to structures and architectures in the future. But it's really a message around etch and dep intensity to create 3D architectures.
+It's also why I pointed out in case it was missed the 3D architecture that's emerging in the heterogeneous integration or advanced packaging space, which again is 3D chip stacking and how Lam's etch and deposition will play a role in that. So what I was trying to just translate it I believe that 3D and etch and dep intensity kind of is fanning out across all device types in the future.
+Patrick Ho
+Great. And my follow-up question for Doug in terms of the installed base business that's probably providing you a lot of support this year, given the pressures on the systems business. Can you give a little color if you're seeing a lot of upgrade business for I guess the trailing etch, fabs that are trying to upgrade improve their productivity, is that a key driver to the installed base business, and the strength that you're likely seeing this year?
+Doug Bettinger
+That's certainly a piece of it. In fact last quarter, record level for our Reliant business, which is our refurbished equipment. So the answer Patrick is yes.
+Patrick Ho
+Thanks so much.
+Doug Bettinger
+Thank you.
+Operator
+We'll go next to Sidney Ho with Deutsche Bank.
+Sidney Ho
+All right thank you. I've got two questions on the Memory side. You talk about NAND to supply growth rate exiting this year at about 30%. Can you give us a sense how you think the CapEx or the equipment spend needed to support say, every one percentage point of this supply growth from the current “conversion-only” trough? And can you do the same for DRAM? I guess we have -- you have given us the estimated cost for greenfield fabs before but just trying to put those pieces of information together.
+Doug Bettinger
+Yeah Sidney. No, I don't think we've quantified this in the past. And I don't think we're ready to on the call right now. So I'm going to decline to answer the question.
+Sidney Ho
+Okay. I'll move on to next one. If I take your reported revenue by end market and compare to what we think the WFE dollars for the various segments I can see that your share has been moving up steadily across all the different segments in recent years. But the one that stood out to me is NAND, which gets to be pretty high just take your revenue number that's probably including services and divide it by WFE, you get to somewhere around 40% from call it 20%, 25% a few years ago. Do you think that number could go higher as the market transitions to higher layer count? I guess, this question is whether it's sustainable?
+Tim Archer
+Well, I guess as -- what we've said is that etch and deposition are really key to continued scaling in 3D NAND and so etch and deposition intensity scales with number of layers. So from that perspective measuring share of the customer's total spend on 3D NAND, it will -- we do believe it can and will go higher.
+Sidney Ho
+Okay, great. Thanks.
+Tim Archer
+Thanks.
+Tina Correia
+Operator, I think we have time for one more question please.
+Operator
+Yes, ma’am. We'll take our final question from Mitch Steves with RBC Capital Markets.
+Mitch Steves
+Hi guys. Yeah, thanks for taking my question. I just have one extra one on focusing on the share gain potential here. So I don't expect you guys to know exactly what happened to Japan and Korea, but if you look at the etch and deposition tools you guys sell, where do you guys think you had the most opportunity to gain share against Tokyo Electron?
+Tim Archer
+I'm not going to get specific but okay. Well, this is -- look and this is also why I talk about the importance of performing really well in the semi-critical space. Critical applications that the reason we like them is they're hard to win and it takes often a generation or two to sort of prove yourself out. Those are less likely to switch due to some short-term event.
+Semi-critical or less critical applications are much more driven by can you accomplish that task at a certain targeted productivity point? So I think that there are a number of applications that we would be targeting where we're highly capable of doing those. And if the customer is motivated to give Lam a try, we're motivated to jump in there and show what we can do.
+Mitch Steves
+Got it. And just one real quick high level one. I don't know the exact math off the top of my head, but roughly speaking from the last downturn you guys have seen, do you guys see anything irregular in terms of buying patterns? Suggest that people are buying ahead, or buying additional equipment than normal down cycle, or do you think this is essentially a normal semi cap cycle that you see in the past?
+Tim Archer
+No. Nothing from my perspective that's out of the ordinary. In fact that was why I kind of started my comments with. For the most part, given some different puts and takes the year's playing out not that differently than we had originally thought from the standpoint of moving through a down cycle in Memory.
+Mitch Steves
+Perfect. Thank you.
+Tim Archer
+Yeah, thank you.
+Doug Bettinger
+So, operator, I think that's the end of the call. If you want to sign us off.
+Tina Correia
+Thank you, everyone, for joining.
+Operator
+Yes, certainly. Ladies and gentlemen, thank you very much for your participation. You may now disconnect.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+3 Authors in the Last 90 Days
