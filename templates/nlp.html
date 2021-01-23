@@ -21,7 +21,7 @@
     <!-- Custom styles for this template-->
     <link href="static/css/sb-admin-2.min.css" rel="stylesheet">
     <link href="static/css/style.css" rel="stylesheet">
-
+    <link href="static/css/style3.css" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   
     <script src="static/js/jquery.min.js"></script>
@@ -52,7 +52,7 @@
         <div id="content-wrapper" class="d-flex flex-column ml-3 ">
 
             <!-- Main Content -->
-            <div id="content">
+            <div id="content" >
 
                 <!-- Topbar -->
                 <nav class="navbar navbar-expand navbar-light topbar mb-0 static-top shadow" id="topBar">
@@ -71,23 +71,19 @@
             
                         
                         <li class="nav-item">
-                        <a class="nav-link my-3 mr-2" id="nav"  href="/">Home</a>
-                        </li>
-                        <li class="nav-item">
-                        <a class="nav-link my-3 mr-2"  id="nav" href="dashboard">Dashboard</a>
-                        </li>         
-      
-    
-                        <li class="nav-item">
-                            <a class="nav-link  my-3 mr-2" id="nav" href="nlp">NLP Analysis</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link  my-3 mr-2" id="nav"  href="forecast">Forecast</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link  my-3 mr-2" id="nav"  href="design">More</a>
-                        </li>
-    
+                            <a class="nav-link my-3 mr-2" id="nav"  href="/">Home</a>
+                            </li>
+                           
+        
+                            <li class="nav-item">
+                                <a class="nav-link  my-3 mr-2" id="nav" href="nlp">Earnings Call Analysis</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link  my-3 mr-2" id="nav"  href="forecast">Price Forecast</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link  my-3 mr-2" id="nav"  href="design">More</a>
+                            </li>
                     </ul>
                     
                     </div>
@@ -96,11 +92,49 @@
                 <!-- End of Topbar -->
 
                 <!-- Begin Page Content -->
-                <div class="container-fluid bg-dark">    
+                <div class="container-fluid pt-2" id="mainContent">    
                                    
                     <!-- Content Row -->
-               
-                                     
+                    <div class="contentRow">
+
+                        <!-- Stock Analysis -->
+                        <div class="col-xl-12 col-auto col-lg-12 col-md-12 col-xs-12 centerElement  my-6">
+                            <p></p>
+                            <p></p>
+                            <div class="tab" role="tabpanel">
+                                <!-- Nav tabs -->
+                                <ul class="nav nav-tabs" role="tablist">
+                                    <li role="presentation" class="active"><a href="#Section1" aria-controls="home" role="tab" data-toggle="tab">NLP Analysis</a></li>
+                                    <li role="presentation"><a href="#Section2" aria-controls="profile" role="tab" data-toggle="tab">Sentimental Analysis</a></li>
+                                    <li role="presentation"><a href="#Section3" aria-controls="messages" role="tab" data-toggle="tab">Validation</a></li>
+                                </ul>
+                                <!-- Tab panes -->
+                                <div class="tab-content tabs">
+                                    <div role="tabpanel" class="tab-pane fade show active" id="Section1">
+                                        <h3>NLP Analysis</h3>
+                                        <div class='tableauPlaceholder' id='viz1611003425792' style='position: relative'><noscript><a href='#'>
+                                            <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;StockMarket2020_16110033104030&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'>
+                                                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+                                                <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+                                                <param name='name' value='StockMarket2020_16110033104030&#47;Sheet1' /><param name='tabs' value='no' />
+                                                <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;StockMarket2020_16110033104030&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' />
+                                                <param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' />
+                                                <param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object>
+                                        </div>
+                                  
+                                    </div>
+                                    <div role="tabpanel" class="tab-pane fade" id="Section2">
+                                        <h3>Sentimental Analysis</h3>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper, magna a ultricies volutpat, mi eros viverra massa, vitae consequat nisi justo in tortor. Proin accumsan felis ac felis dapibus, non iaculis mi varius.</p>
+                                    </div>
+                                    <div role="tabpanel" class="tab-pane fade" id="Section3">
+                                        <h3>Model Validation</h3>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper, magna a ultricies volutpat, mi eros viverra massa, vitae consequat nisi justo in tortor. Proin accumsan felis ac felis dapibus, non iaculis mi varius.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>                      
+                    </div>                                   
 
                 </div>
                 <!-- /.container-fluid -->
@@ -110,9 +144,9 @@
 
          
             <!-- Footer -->
-            <footer class="sticky-footer bg-dark">
-                <div class="container my-auto">
-                    <div class="copyright text-center text-light my-auto">
+            <footer class="sticky-footer bg-black">
+                <div class="container ">
+                    <div class="copyright text-center text-light ">
                         <p1>STCKInsights | Rice University Data Analytics and Visualization Boot Camp&copy;2020</p1>
                     </div>
                 </div>
@@ -135,6 +169,23 @@
     <!-- Bootstrap core JavaScript-->
  
 </body>
+
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+<script type='text/javascript'>                
+    var divElement = document.getElementById('viz1611003425792');
+   
+    var vizElement = divElement.getElementsByTagName('object')[0];  
+    
+    vizElement.style.width='100%';vizElement.style.height='540px';    
+    
+    var scriptElement = document.createElement('script');                   
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';       
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
 
 </html>
 
