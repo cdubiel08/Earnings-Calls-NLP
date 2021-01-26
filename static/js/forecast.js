@@ -126,7 +126,7 @@ function updateStatistics(ticker)
         d3.select("#gru").selectAll("table").remove();
 
         // build lstm table
-        let table = d3.select("#lstm").append('table').attr('class', 'table')
+        let table = d3.select("#lstm").append('table').attr('class', 'table').style('color', 'grey')
         let header = table.append('thead')
 
         let headers = ['Type', 'RMSE', 'NRMSE', 'MAE', 'R2']
@@ -162,7 +162,7 @@ function updateStatistics(ticker)
         r2_row.text(rows3.lstmR2Lag)
         
         // build gru tabl
-        table = d3.select("#gru").append('table').attr('class', 'table')
+        table = d3.select("#gru").append('table').attr('class', 'table').style('color', 'grey')
         header = table.append('thead')
 
         headers = ['Type', 'RMSE', 'NRMSE', 'MAE', 'R2']
@@ -191,7 +191,7 @@ function updateStatistics(ticker)
         mae_row = row.append('td')
         r2_row = row.append('td')
 
-        type_row.text('LSTM With Lag')
+        type_row.text('GRU With Lag')
         rmse_row.text(rows3.gruRMSELag)
         nrmse_row.text(rows3.gruNRMSELag * 100)
         mae_row.text(rows3.gruMAELag)
