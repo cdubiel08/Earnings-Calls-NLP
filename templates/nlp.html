@@ -29,7 +29,7 @@
 
 
 
-
+    <link rel="stylesheet" type="text/css" href="static/css/ldavis.css">
 
 
 
@@ -49,7 +49,7 @@
       
         
         <!-- Content Wrapper -->
-        <div id="content-wrapper" class="d-flex flex-column ml-3 ">
+        <div id="content-wrapper" class="d-flex flex-column ml-1 ">
 
             <!-- Main Content -->
             <div id="content" >
@@ -81,9 +81,7 @@
                             <li class="nav-item">
                                 <a class="nav-link  my-3 mr-2" id="nav"  href="forecast">Price Forecast</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link  my-3 mr-2" id="nav"  href="design">More</a>
-                            </li>
+                          
                     </ul>
                     
                     </div>
@@ -98,39 +96,92 @@
                     <div class="contentRow">
 
                         <!-- Stock Analysis -->
-                        <div class="col-xl-12 col-auto col-lg-12 col-md-12 col-xs-12 centerElement  my-6">
+                        <div class="col-xl-12 col-auto col-lg-12 col-md-12 col-xs-12  my-1">
                             <p></p>
-                            <p></p>
+                           
                             <div class="tab" role="tabpanel">
                                 <!-- Nav tabs -->
                                 <ul class="nav nav-tabs" role="tablist">
-                                    <li role="presentation" class="active"><a href="#Section1" aria-controls="home" role="tab" data-toggle="tab">NLP Analysis</a></li>
-                                    <li role="presentation"><a href="#Section2" aria-controls="profile" role="tab" data-toggle="tab">Sentimental Analysis</a></li>
-                                    <li role="presentation"><a href="#Section3" aria-controls="messages" role="tab" data-toggle="tab">Validation</a></li>
+                                    <li role="presentation" class="active"><a href="#Section1" aria-controls="home" role="tab" data-toggle="tab">Stock Overview</a></li>
+                                    <li role="presentation" ><a href="#Section2" aria-controls="home" role="tab" data-toggle="tab">NLP Analysis</a></li>
+                                    <li role="presentation"><a href="#Section3" aria-controls="profile" role="tab" data-toggle="tab">Sentimental Analysis</a></li>
+                                    <li role="presentation"><a href="#Section4" aria-controls="profile" role="tab" data-toggle="tab">LDA Analysis</a></li>
                                 </ul>
                                 <!-- Tab panes -->
                                 <div class="tab-content tabs">
-                                    <div role="tabpanel" class="tab-pane fade show active" id="Section1">
-                                        <h3>NLP Analysis</h3>
-                                        <div class='tableauPlaceholder' id='viz1611003425792' style='position: relative'><noscript><a href='#'>
-                                            <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;StockMarket2020_16110033104030&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'>
+                                    <div role="tabpanel" class="tab-pane fade show active " id="Section1">
+                                        <h5>Stock Overview</h5>
+                                        <div class='tableauPlaceholder' id='viz1611352552718' style='position: relative'><noscript><a href='#'>
+                                            <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SN&#47;SNP-500StockMarket15-20&#47;SNP500CandleStick&#47;1_rss.png' style='border: none' /></a></noscript>
+                                            <object class='tableauViz'  style='display:none;'>
                                                 <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
-                                                <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
-                                                <param name='name' value='StockMarket2020_16110033104030&#47;Sheet1' /><param name='tabs' value='no' />
-                                                <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;StockMarket2020_16110033104030&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' />
-                                                <param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' />
-                                                <param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object>
-                                        </div>
+                                                <param name='embed_code_version' value='3' /> 
+                                                <param name='site_root' value='' />
+                                                <param name='name' value='SNP-500StockMarket15-20&#47;SNP500CandleStick' />
+                                                <param name='tabs' value='no' />
+                                                <param name='toolbar' value='yes' />
+                                                <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SN&#47;SNP-500StockMarket15-20&#47;SNP500CandleStick&#47;1.png' /> 
+                                                <param name='animate_transition' value='yes' />
+                                                <param name='display_static_image' value='yes' />
+                                                <param name='display_spinner' value='yes' />
+                                                <param name='display_overlay' value='yes' />
+                                                <param name='display_count' value='yes' /
+                                                <param name='language' value='en' />
+                                                <param name='filter' value='publish=yes' />
+                                            </object>
+                                        </div>              
                                   
                                     </div>
-                                    <div role="tabpanel" class="tab-pane fade" id="Section2">
-                                        <h3>Sentimental Analysis</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper, magna a ultricies volutpat, mi eros viverra massa, vitae consequat nisi justo in tortor. Proin accumsan felis ac felis dapibus, non iaculis mi varius.</p>
+
+                                    <div role="tabpanel" class="tab-pane fade show" id="Section2">
+                                        <h5>NLP Analysis</h5>
+                                       
+
+                                        <div class="col-xl-12 col-md-8 col-s-12 my-3 centerElement">
+                                            <div class='tableauPlaceholder' id='viz1611621491271' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;86&#47;86HGDWBRD&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;86HGDWBRD' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;86&#47;86HGDWBRD&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>              
+                                        </div>
+
+                                     
                                     </div>
-                                    <div role="tabpanel" class="tab-pane fade" id="Section3">
-                                        <h3>Model Validation</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper, magna a ultricies volutpat, mi eros viverra massa, vitae consequat nisi justo in tortor. Proin accumsan felis ac felis dapibus, non iaculis mi varius.</p>
+
+                                    <div role="tabpanel" class="tab-pane fade show" id="Section3">
+                              
+                                       
+                                     
+                                        <div class="col-xl-12col-md-12 col-s-12">
+                                            <div class='tableauPlaceholder' id='viz1611619202667' style='position: relative'>
+                                                <noscript><a href='#'>
+                                                    <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_project_16114346010340&#47;Story1&#47;1_rss.png' style='border: none' />
+                                                </a>
+                                                </noscript>
+                                                <object class='tableauViz'  style='display:none;'>
+                                                    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+                                                    <param name='embed_code_version' value='3' /> 
+                                                    <param name='site_root' value='' />
+                                                    <param name='name' value='final_project_16114346010340&#47;Story1' />
+                                                    <param name='tabs' value='no' />
+                                                    <param name='toolbar' value='yes' />
+                                                    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;final_project_16114346010340&#47;Story1&#47;1.png' /> 
+                                                    <param name='animate_transition' value='yes' />
+                                                    <param name='display_static_image' value='yes' />
+                                                    <param name='display_spinner' value='yes' />
+                                                    <param name='display_overlay' value='yes' />
+                                                    <param name='display_count' value='yes' />
+                                                    <param name='language' value='en' />
+                                                    <param name='filter' value='publish=yes' />
+                                                </object>
+                                            </div>                
+                                        </div>
+                                        
                                     </div>
+                                    <div role="tabpanel" class="tab-pane fade show " id="Section4">
+                                        <h5>LDA Analysis</h5>
+                                        <div class="col-xl-10 col-md-10 col-s-12 bg-white" >
+                                            <div id="ldavis_el351220773882405922051627901"></div>
+                                        </div>   
+                                    </div>         
+                                   
+                                  
                                 </div>
                             </div>
                         </div>                      
@@ -173,19 +224,35 @@
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<script type="text/javascript" src="static/js/vector.js"></script>
+<script type='text/javascript'>                  
+    var divElement = document.getElementById('viz1611352552718');    
+    var vizElement = divElement.getElementsByTagName('object')[0];       
+    vizElement.style.width='100%';vizElement.style.height='700px';   
+    var scriptElement = document.createElement('script');       
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';  
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);    
+</script>
+ 
 
-<script type='text/javascript'>                
-    var divElement = document.getElementById('viz1611003425792');
-   
-    var vizElement = divElement.getElementsByTagName('object')[0];  
-    
-    vizElement.style.width='100%';vizElement.style.height='540px';    
-    
+<script type='text/javascript'>                   
+    var divElement = document.getElementById('viz1611621491271');          
+    var vizElement = divElement.getElementsByTagName('object')[0];                   
+    vizElement.style.width='100%';vizElement.style.height='800px';                    
     var scriptElement = document.createElement('script');                   
-    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';       
-    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                   
+     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+<!-- Sentimental -->
+<script type='text/javascript'>                    
+    var divElement = document.getElementById('viz1611619202667');                    
+    var vizElement = divElement.getElementsByTagName('object')[0];                    
+    vizElement.style.width='1500px';vizElement.style.height='991px';                    
+    var scriptElement = document.createElement('script');                    
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 </html>
 

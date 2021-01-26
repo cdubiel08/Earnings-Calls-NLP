@@ -67,15 +67,26 @@ body {
   font-size: 16px;
 }
 
+#test {
+  background-image: url(/static/images/stockmarket3.png) fixed;
+  background-size:cover;
+}
 .centerElement {
-  height: 400px;
-  overflow: hidden;
-  width: 100%;
+  height: 100vh;
+  overflow:hidden;
+  width: 100vh;
 
 }
 .infocard{
-  height : 125px;
+  height : 220px;
+  width :85vw;
   overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.808);
+}
+
+#fheader {
+  height:20px;
+  vertical-align: top;
 }
 
 .neighborhoodCard {
@@ -107,10 +118,10 @@ body {
 }
 
 
-.chartElement {
-  height: 90vh;
-  width: 700px;
-  overflow: hidden;
+.forecastElement {
+  height: 600px;
+  width: 95vw;
+  background-color: rgba(0, 0, 0, 0.808);
 
 }
 
@@ -118,7 +129,7 @@ body {
 
 
 .chartElementBig {
-  height: 600Px;
+  height: 300Px;
   width: 750px;
   overflow: hidden;
 
@@ -127,17 +138,16 @@ body {
   width :100%;
 }
 
-
-.infocard{
-  height : 200px;
-  overflow: hidden;
+#card-border {
+  border-top : solid;
+  border-left: solid;
+  border-right :none;
+  border-bottom : none;
+  border-width: 2px;
+  border-color: rgb(15, 3, 65);
+ 
 }
-.centerElement {
-  height: 600px;
 
-  width: 100%;
-
-}
 
 .container-fluid {
   min-height: 100%;
@@ -168,7 +178,7 @@ a, a:hover {
 
 #mainContent {
  
-    background-image: linear-gradient(to bottom, rgb(9, 9, 66), black);
+    background-image: linear-gradient(to bottom, rgb(4, 4, 26),  black);
   
 }
 

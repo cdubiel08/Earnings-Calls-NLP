@@ -3,10 +3,10 @@ a:focus{
     text-decoration: none;
     outline: none;
 }
-.tab{ font-family: 'Montserrat', sans-serif; height :100vh;}
+.tab{ font-family: 'Montserrat', sans-serif; height :100vh; width: 95vw;}
 .tab .nav-tabs{ border: none; }
 .tab .nav-tabs li a{
-    color: #999B9D;
+    color: #131414;
     background: #F7F7F7;
     font-size: 12px;
     font-weight: 700;

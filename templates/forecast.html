@@ -26,8 +26,14 @@
   
     <script src="static/js/jquery.min.js"></script>
     <script src="static/js/bootstrap.bundle.min.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.1/d3.min.js"></script>
 
 
+    <script type="text/javascript" src="/static/scripts/plotly/dependencies/d3.v3.min.js"></script>
+
+    <script src="https://cdn.plot.ly/plotly-1.2.0.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
 
 
@@ -67,35 +73,145 @@
                     </button>
                 
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav ml-auto">
+                        <ul class="navbar-nav ml-auto">
+                
+                            
+                            <li class="nav-item">
+                                <a class="nav-link my-3 mr-2" id="nav"  href="/">Home</a>
+                                </li>
+                            
             
-                        
-                        <li class="nav-item">
-                            <a class="nav-link my-3 mr-2" id="nav"  href="/">Home</a>
-                            </li>
-                           
-        
-                            <li class="nav-item">
-                                <a class="nav-link  my-3 mr-2" id="nav" href="nlp">Earnings Call Analysis</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link  my-3 mr-2" id="nav"  href="forecast">Price Forecast</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link  my-3 mr-2" id="nav"  href="design">More</a>
-                            </li>
-                    </ul>
+                                <li class="nav-item">
+                                    <a class="nav-link  my-3 mr-2" id="nav" href="nlp">Earnings Call Analysis</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link  my-3 mr-2" id="nav"  href="forecast">Price Forecast</a>
+                                </li>
+                              
+                        </ul>
                     
                     </div>
 
+                   
                 </nav>
                 <!-- End of Topbar -->
 
                 <!-- Begin Page Content -->
-                <div class="container-fluid" id="mainContent">    
-                                   
+                <div class="container-fluid mb-1" id="mainContent">  
+                    <br/>  
+                    <div class="d-sm-flex align-items-center justify-content-between mb-2">
+                        <h4 class="h6 mb-0 text-gray-200">Price Forecast</h4>                    
+                       
+                    </div>
+
+                    <div class="row ">
+                        <!-- Topbar Search -->
+                        <div class="col-xl-12 col-lg-12 col-md-12 ">
+                            <form class="d-none d-flex justify-content-center d-sm-inline-block form-inline mr-auto md-3 my-1 my-md-0 mw-100 ">
+                                <div class="input-group ml-3 d-flex justify-content-center">
+                                    <label for="selStock" class="text-light m-0 font-weight-bold "> Stock </label>
+                                    <select id="selStock" onchange="changeCity(this.value)" class="ml-1 mr-2 text-secondary-100">
+                                    </select>
+
+                                </div>
+                            </form>
+                        </div>
+                   </div>
+  
                     <!-- Content Row -->
-               
+                    <div  class="row my-1 " >
+                        <p></p>
+                        <div class="col-xl-4 col-md-4 col-s-12 my-3">
+                            <div class="row">
+                                <div class="col-xl-11 col-md-10 col-s-12 my-3 infocard">
+                                    <div class="card bg-transparent  shadow h-100 " id="card-border">
+                                        <div class="card-body">
+                                            <div class="row no-gutters align-items-center">
+                                                <div class="col mr-2">
+                                                    <div class="text-s font-weight-bold text-light  mb-2">
+                                                   Rolling Average</div>
+
+                                                </div>
+                                                
+                                            </div>
+
+                                            <div class="row" id="todayPrice">
+                                            
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xl-11 col-md-10 col-s-12 mt-3 infocard">
+                                    <div class="card  bg-transparent align-top shadow  h-100 " id="card-border">
+                                        <div class="card-body ">
+                                            <div id="fheader" class="row no-gutters align-items-center algn-top">
+                                                <h6 class="text-s font-weight-bold text-light  mb-2">Year-to-date Return</h6>
+                                            
+                                                
+                                            </div>
+
+                                            <div class="row" id="return">
+                                            
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xl-11 col-md-12 col-s-12 my-3 infocard">
+                                    <div class="card bg-transparent  shadow h-100 " id="card-border">
+                                        <div class="card-body">
+                                            <div class="row no-gutters align-items-center">
+                                                <div class="col mr-2">
+                                                    <div class="text-s font-weight-bold text-light  mb-2">
+                                                    Stock Risk Ratio
+                                                    </div>
+
+                                                </div>
+                                                
+                                            </div>
+
+                                            <div class="row" id = "ratio">
+                                            
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+                        
+                        <div class= "col-xl-8 col-md-8 col-s-12 my-3">
+                            <br/>
+                            <div class="row mr-3" >
+                                <br/>
+                                <br/>
+                                <!-- Stock Analysis -->
+                                <div class="col-xl-12 col-auto col-lg-12 col-md-12 col-xs-12  forecastElement " id="card-border">
+                                    <div class="card-header d-flex flex-row align-items-center align-text-top  justify-content-between">
+                                            <h5 class="m-0 font-weight-bold text-light">Forecast</h5>
+                                    </div>
+
+                                
+                                    <div class="row">
+                                
+                                        <div class="col-lg-12 col-md-12 col-sm-12" id="myDiv">
+
+                                        </div>
+                                    </div>
+   
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>       
+                
                                      
 
                 </div>
@@ -126,10 +242,13 @@
         <i class="fas fa-angle-up"></i>
     </a>
 
-
-
-    <!-- Bootstrap core JavaScript-->
  
+    <!-- Bootstrap core JavaScript-->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="static/js/forecast.js"></script>
+    <script src="static/js/app.js"></script>
+    <script src="static/js/stockcharts.js"></script>
+  
 </body>
 
 </html>
