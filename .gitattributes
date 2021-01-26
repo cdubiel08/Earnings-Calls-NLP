@@ -1,3 +1,4 @@
 combined_sandp500_data2015to2020.csv filter=lfs diff=lfs merge=lfs -text
 chad_working_folder/df_ECT_500.csv filter=lfs diff=lfs merge=lfs -text
 chad_working_folder/df_ECT_500_predict.csv filter=lfs diff=lfs merge=lfs -text
+LogisticRegression/df_ECT_500.csv filter=lfs diff=lfs merge=lfs -text
