@@ -6,7 +6,7 @@ function updateStockCharts(ticker)
     function unpack(rows, key) {
     return rows.map(function(row) { return row[key]; });
     }
-    console.log(rows)
+    
     
     // only display last 7 days for demo
     x = unpack(rows, 'Date').slice(-7);
@@ -138,11 +138,7 @@ function updateRiskChart(xMean, yDev)
             size: 10
         }
       
-        };
-
-       
-    
-    
+        };   
         
     
         var data = [trace1];
@@ -151,12 +147,15 @@ function updateRiskChart(xMean, yDev)
         paper_bgcolor: 'black',
         plot_bgcolor : 'black',
         
+      
         xaxis: {
-            title : "Expected Return"
+            title : "Expected Return",
+            range: [-0.005, 0.005]
         },
 
         yaxis: {
-            title : "Risk"
+            title : "Risk",
+            range: [0, 0.05]
         },
         font: {
            

@@ -166,7 +166,7 @@ def GetRollingAverages(ticker):
         results = filter(lambda row: (row[1] == ticker) , data);
       
         df = pd.DataFrame(results);
-        print(df)
+        
         exp1 = df[3].ewm(span=20, adjust=False).mean();
         rolling_mean = df[3].rolling(window=20).mean();
         df[2] = df[2].astype(float)
@@ -196,6 +196,128 @@ def GetRollingAverages(ticker):
             
     return jsonify(lstm_data)
 # end GRU_data() route
+
+
+
+#################################################
+# the api retrieves the data and calculates the MSE,RMSE,SI for stock
+@app.route("/api/GetMetrics/<ticker>")
+def GetMetrics(ticker):
+    import pandas as pd;
+    # For time stamps
+    from datetime import datetime, timedelta;
+    print(ticker);
+    import math;
+    from sklearn.metrics import mean_squared_error
+    from sklearn.metrics import mean_absolute_error
+    import sklearn.metrics as metrics
+    # Importing the statistics module 
+    import statistics 
+    
+   
+    #define function to calculate cv
+    cv = lambda x: np.std(x, ddof=1) / np.mean(x) * 100;    
+
+    # calculate performance statistics for GRU
+    with open('Resources/output/GRUFinal.csv') as csv_file:
+        data = csv.reader(csv_file, delimiter=',');
+        first_line = True
+        metric_data = [];
+
+        results = filter(lambda row: row[0] == ticker, data)
+
+        df = pd.DataFrame(results);
+        #print(df)
+        df[2] = df[2].astype(float)
+        df[4] = df[4].replace(r'^\s*$', 0, regex=True)
+        df[4] = df[4].astype(float)
+
+        df[3] = df[3].replace(r'^\s*$', 0, regex=True)
+        df[3] = df[3].astype(float);
+
+        
+        gruMSE = mean_squared_error(df[2], df[3]);
+        gruRMSE = math.sqrt(gruMSE);
+        gruNRMSE = gruRMSE /(statistics.mean(df[2]));
+        gruMAE =  mean_absolute_error(df[2], df[3]);      
+        gruR2 = metrics.r2_score(df[2],df[3]);
+
+        gruMSELag = mean_squared_error(df[2], df[4]);
+        gruRMSELag = math.sqrt(gruMSELag);
+        gruNRMSELag = gruRMSELag /(statistics.mean(df[2]));
+        gruMAELag =  mean_absolute_error(df[2], df[4]);      
+        gruR2Lag = metrics.r2_score(df[2],df[4]);
+    
+    # calculate performance statistics for LSTM
+    with open('Resources/output/LSTMFinal.csv') as csv_file:
+        data = csv.reader(csv_file, delimiter=',');
+        first_line = True
+        metric_data = [];
+
+        results = filter(lambda row: row[0] == ticker, data)
+
+        df = pd.DataFrame(results);
+        #print(df)
+        df[2] = df[2].astype(float)
+        df[4] = df[4].replace(r'^\s*$', 0, regex=True)
+        df[4] = df[4].astype(float)
+
+        df[3] = df[3].replace(r'^\s*$', 0, regex=True)
+        df[3] = df[3].astype(float);
+
+        lstmMSE = mean_squared_error(df[2], df[3]);
+        lstmRMSE = math.sqrt(lstmMSE);
+        lstmNRMSE = lstmRMSE /(statistics.mean(df[2]));
+        lstmMAE =  mean_absolute_error(df[2], df[3]);      
+        lstmR2 = metrics.r2_score(df[2],df[3]);
+
+        lstmMSELag = mean_squared_error(df[2], df[4]);
+        lstmRMSELag = math.sqrt(lstmMSELag);
+        lstmNRMSELag = lstmRMSELag /(statistics.mean(df[2]));
+        lstmMAELag =  mean_absolute_error(df[2], df[4]);      
+        lstmR2Lag = metrics.r2_score(df[2],df[4]);
+    
+    #build data model
+
+    statDict = {
+
+        'lstmMSE' :  str("{0:.4f}".format(lstmMSE)),
+        'lstmRMSE' : str("{0:.4f}".format(lstmRMSE)),
+        'lstmNRMSE' : str("{0:.4f}".format(lstmNRMSE)),
+        'lstmMAE' :  str("{0:.4f}".format(lstmMAE)),      
+        'lstmR2' : str("{0:.4f}".format(lstmR2)),
+
+        'lstmMSELag' : str("{0:.4f}".format(lstmMSELag)),
+        'lstmRMSELag' : str("{0:.4f}".format(lstmRMSELag)),
+        'lstmNRMSELag' : str("{0:.4f}".format(lstmNRMSELag)),
+        'lstmMAELag' : str("{0:.4f}".format(lstmMAELag)),      
+        'lstmR2Lag' : str("{0:.4f}".format(lstmR2Lag)),
+
+        'gruMSE' :  str("{0:.4f}".format(gruMSE)),
+        'gruRMSE' : str("{0:.4f}".format(gruRMSE)),
+        'gruNRMSE' : str("{0:.4f}".format(gruNRMSE)),
+        'gruMAE' :  str("{0:.4f}".format(gruMAE)),      
+        'gruR2' : str("{0:.4f}".format(gruR2)),
+
+        'gruMSELag' : str("{0:.4f}".format(gruMSELag)),
+        'gruRMSELag' : str("{0:.4f}".format(gruRMSELag)),
+        'gruNRMSELag' : str("{0:.4f}".format(gruNRMSELag)),
+        'gruMAELag' : str("{0:.4f}".format(gruMAELag)),      
+        'gruR2Lag' : str("{0:.4f}".format(gruR2Lag))
+
+    }
+
+    return jsonify(statDict)
+
+    
+
+       
+
+
+            
+    return jsonify(metric_data)
+# end GetMetrics() route
+
 
 
 #################################################

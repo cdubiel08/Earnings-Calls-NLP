@@ -79,7 +79,7 @@ body {
 }
 .infocard{
   height : 220px;
-  width :85vw;
+  width :95vw;
   overflow: hidden;
   background-color: rgba(0, 0, 0, 0.808);
 }
@@ -95,8 +95,11 @@ body {
 }
 
 .demoCard {
-  height :100px;
-  
+  height : 150px;
+  width :95vw;
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.808);
+  color: '#7f7f7f';
 }
 
 .divText{
@@ -119,7 +122,7 @@ body {
 
 
 .forecastElement {
-  height: 600px;
+  height: 750px;
   width: 95vw;
   background-color: rgba(0, 0, 0, 0.808);
 
