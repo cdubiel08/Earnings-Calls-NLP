@@ -34,6 +34,9 @@ Returns were considered for 1 day, 7 days and 28 days after the closing price th
 ### Logistic Regression Model
 These features were fit onto a logistic regression machine learning model, LogisticRegression(), also a part of the scikit-learn librabry. The model was most effective when considering returns 1 day after the prior close. After using grid search for hyperparameter tuning and 5 fold cross validation, the most effective solver was the 'liblinear' parameter with L1 lasss regularization. The model had a mean accuracy score of 74%. 
 
+### Model Performance
+The model was backtested from the period of 2015 - 
+
 ### Text and Sentiment Analysis
 For the purpose of this analysis, only the prepared remarks for 2020 earnings calls for S&P100 companies compared to the full transcript text to compare the difference.
 The transcripts were modified by the following processing steps: 
@@ -74,13 +77,12 @@ Linear Discriminant Analysis is the linear classification technique for multi-cl
 
 ##### Data Sources
 
-S&P 100/500 List https://en.wikipedia.org/wiki/List_of_stock_exchanges 
-Earnings Calls Transcripts* https://seekingalpha.com/earnings/earnings-call-transcripts 
-*The transcripts from Seeking Alpha are protected by copyright and cannot be used for commercial purposes. This is an educational project for the Data Visualization Program at Rice University and the use of the information should be permitted on the Copyright Fair Use principal.  
-Yahoo Finance Historical stock price- https://sg.finance.yahoo.com/ 
+1. [S&P 100/500 List](https://en.wikipedia.org/wiki/List_of_stock_exchanges) 
+2. [Earnings Calls Transcripts](https://seekingalpha.com/earnings/earnings-call-transcripts) [^1]  
+3. [Yahoo Finance Historical stock price] (https://sg.finance.yahoo.com/)
 
 ##### Further Reading
-[title](https://www.spglobal.com/marketintelligence/en/documents/nlp-iii-final-013020-10a.pdf)
+[Natural Language Processing – Part III: Feature Engineering: Applying NLP Using Domain Knowledge to Capture Alpha from Transcripts](https://www.spglobal.com/marketintelligence/en/documents/nlp-iii-final-013020-10a.pdf)
 
 
 ###### Next applications
@@ -88,4 +90,6 @@ Backtrack results
 Predict trends
 Predict price
 Embed sentiment in model
+
+[^1]: The transcripts from Seeking Alpha are protected by copyright and cannot be used for commercial purposes. This is an educational project for the Data Visualization Program at Rice University and the use of the information should be permitted on the Copyright Fair Use principal.
 
