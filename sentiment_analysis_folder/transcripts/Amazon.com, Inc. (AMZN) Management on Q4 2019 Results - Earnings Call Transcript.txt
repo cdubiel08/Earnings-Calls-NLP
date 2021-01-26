@@ -1,0 +1,187 @@
+Amazon.com, Inc. (NASDAQ:AMZN) Q4 2019 Earnings Conference Call January 30, 2020  5:30 PM ET
+Company Participants
+Shelly Kay Pfeiffer - Director, Investor Relations
+Brian Olsavsky - CFO
+Dave Fildes - Director, Investor Relations
+Conference Call Participants
+Heath Terry - Goldman Sachs
+Colin Sebastian - Robert W. Baird
+Justin Post - Bank of America
+Jason Helfstein - Oppenheimer & Co.
+Stephen Ju - Credit Suisse
+Brian Nowak - Morgan Stanley
+Dan Salmon - BMO Capital Markets
+Eric Sheridan - UBS
+Ron Josey - JMP Securities
+Doug Anmuth - JPMorgan
+Mark Mahaney - RBC Capital Markets
+Operator
+Thank you for standing by. Good day, everyone and welcome to the Amazon.com Q4 2019 Financial Results Teleconference. At this time, all participants are in a listen-only mode. After the presentation, we will conduct a question-and-answer session. Today's call is being recorded.
+For opening remarks, I will be turning the call over to the Director of Investor Relations, Shelly Kay Pfeiffer. Please go ahead.
+Shelly Kay Pfeiffer
+Hello, and welcome to our Q4 2019 financial results conference call. Joining us today to answer your questions are Brian Olsavsky, our CFO; and Dave Fildes, Director of Investor Relations. As you listen to today’s conference call, we encourage you to have our press release in front of you, which includes our financial results, as well as metrics and commentary on the quarter.
+Please note, unless otherwise stated, all comparisons in this call will be against our results for the comparable period of 2018. Our comments and responses to your questions reflect management’s views as of today, January 30, 2020 only, and will include forward-looking statements. Actual results may differ materially.
+Additional information about factors that could potentially impact our financial results is included in today’s press release and our filings with the SEC, including our most recent Annual Report on Form 10-K and subsequent filings.
+During this call, we may discuss certain non-GAAP financial measures. In our press release, slides accompanying this webcast, and our filings with the SEC, each of which is posted on our IR website, you will find additional disclosures regarding these non-GAAP measures, including reconciliations of these measures with comparable GAAP measures.
+Our guidance incorporates the order trends that we’ve seen to-date and what we believe today to be appropriate assumptions. Our results are inherently unpredictable and maybe materially affected by many factors, including fluctuations in foreign exchange rates, changes in global economic conditions and customer spending, world events, the rate of growth of the Internet, online commerce and cloud services, and the various factors detailed in our filings with the SEC.
+Our guidance also assumes, among other things, that we don’t conclude any additional business acquisitions, investments, restructurings, or legal settlements. It’s not possible to accurately predict demand for our goods and services, and therefore our actual results could differ materially from our guidance.
+With that, we will move to Q&A. Operator, please remind our listeners how to initiate a question.
+Question-and-Answer Session
+Operator
+At this time, we will now open the call for questions. [Operator Instructions]
+Our first question is coming from the line of Heath Terry with Goldman Sachs. Please proceed.
+Heath Terry
+Great. Thanks. Really appreciate this. Just on the AWS business, as you look sort of at the strength that you saw in the quarter particularly represented by the amount of dollars added quarter-over-quarter, is there anything in particular that you would call out either in terms of specific types of workloads, regions, specific customer types, that you felt like drove the strength particularly relative to the directional -- direction of growth that we were seeing in the earlier parts of the year?
+Brian Olsavsky
+Hi Heath. No, I would not isolate it to any one set of customers or products. I think it's been pretty broad-based, and it's kind of the culmination of a lot of work on adding new products and features, adding to our sales and marketing teams, and having better penetration in enterprise customers and hitting a lot of very different industries.
+So, I think that's what you're seeing. We feel that our product set is -- leads the market, and we add to it at a quicker pace than our competition, so actually the gap on capacity and features is growing as we speak.
+We also think that there's a real network effect when you use AWS with the millions of active customers and tens of thousands of global partners. And we continue to expand. We're now in 69 availability zones across 22 geographic regions. So, I think it's the combination of increased sales support, more and better products that hit customers' needs, and also the geographic expansion is what you're seeing.
+Operator
+Thank you. Our next question comes from the line of Colin Sebastian with Robert W. Baird. Please proceed.
+Colin Sebastian
+Great. Thank you. Was just hoping you guys could disaggregate a bit the strength in seller services, how much of that was third-party marketplace commission specifically? And are you seeing more of an uptick in some of the other content and services? Thank you.
+Brian Olsavsky
+On seller services, I would say it was just a very strong quarter if that's what you're referring to 31% growth in revenue. It was strong on a unit basis. And as you said, there's probably additional strength in FBA which has higher fee set than MFN does.
+So -- but in general, if you step away, I think what you're seeing is more and more participation of third-party sellers in our one-day delivery program as we move through the year. That was particularly strong in Q4, and I think you'll see that more as we move into 2020.
+Operator
+Thank you. Our next question comes from the line of Justin Post with Bank of America. Please proceed.
+Justin Post
+Great. Thanks. Just wondering if you could go high level, what drove upside to your guidance on revenue in the quarter on the retail side? Anything there that you'd really call out?
+And then on the AWS investments, obviously you just talked about investments starting in 3Q. Where are you in that investment? Your margins are still below peak. Where are you kind of in that investment cycle? Thank you.
+Brian Olsavsky
+Sure. Well, as I said, on revenue we came in at $87.4 billion, which exceeded the high end of our range of $86.5 billion. $400 million of -- roughly $400 million of that was due to foreign exchange, but what we saw was essentially very strong holiday performance from the middle of November on.
+We also had a very big uptick in response to the one-day availability that's been building through the year. I think Prime has been very strong. We mentioned that we have more than 150 million paid Prime members globally now. And we mentioned that more people joined Prime in Q4 than any other quarter before.
+So, a lot of good momentum there built up on the aggregation of benefits that we continue to add to the Prime program most recently the one-day -- expansion of one-day shipping.
+On AWS, where are we in the cycle? I talked more in 2018 when the margins in AWS were closer to 30% about the efficiency of infrastructure spend and -- versus prior years. So, we continue to -- since that point, we've continued to add infrastructure capability and -- to support our global expansion as well.
+But what you're seeing probably more in the margins is the expansion of our sales and marketing effort at some of those costs as well as price decreases and longer-term contracts that we've signed with some of our customers.
+You notice on our balance sheet that our future commitments on the multiyear deals now stands at $30 billion at year-end, and that's up 54% year-over-year. So, there's a lot of good momentum on the enterprise side as well.
+Operator
+Thank you. Our next question comes from the line of Jason Helfstein with Oppenheimer & Co. Please proceed.
+Jason Helfstein
+Thanks. Just to ask about AWS again. I mean, the investors have become, I guess, recently concerned just about again the slowing AWS revenue and margin and whether it's a function of increased competition.
+So, maybe just talk about how you're reacting. You did talk about spending on sales and price cuts, but just any more you can talk about the competitive environment? Thank you.
+Brian Olsavsky
+Sure. I would probably argue a bit with the growth comments. As we see it here, we grew from a $30 billion revenue run rate at the end of 2018 to a $40 billion revenue run rate at the end of 2019. So, we continue to be happy with our top line growth. The -- in dollar terms as opposed to percentages, we had a larger dollar increase in revenue both year-over-year and quarter-over-quarter. So, we're very happy with the progress of the revenue and our adoption and acceptance by customers.
+As far as competitive set is concerned, we -- again, we think that we have -- start with a very big lead in this space because of our many years of investment not only in capacity, but also in services and features that we provide to customers. We've learned from customers.
+We just had a great re:Invent conference in December where all of our -- it was a great aggregation of partners and customers and developers. And at those events, we not only get to present our new products and there were over 100 that were launched in December, but we also get to hear customer issues and help -- that helps to sign or educate our forward road map.
+So, it's a great shared learning. I think customers react to it. Customers will be at different stages of their adoption curve. There's always different phases: first, moving to the cloud, then organizing on the cloud, and then growing further. So there's a lot of movement.
+I said that repeatedly I think in the setting that any -- quarter quarter-to-quarter movement is going to be a little bumpy. But generally, what you're seeing is the convergence of a lot of investment, a lot of operational efficiency, and a lot of innovation on behalf of customers.
+Operator
+Thank you. Our next question comes from the line of Stephen Ju with Credit Suisse. Please proceed.
+Stephen Ju
+Okay. So thank you. I wanted to switch it up a little bit. I guess you guys called this out in your press release, but I'm wondering if you could talk about your efforts to get the SMBs and the micro SMBs online in India. What exactly is involved from a practical perspective? Do you need to have door-to-door sales folks? And what can do to reduce friction between logistics payments and some of the other factors there?
+And second, what are these SMBs selling? Is it like long-tail inventory? Is it merchandise that you can get to exports to global buyer base? And do you think this could be content that could be exclusive to Amazon? Thank you.
+Dave Fildes
+Yes Stephen, this is Dave. Thanks for the question. As you said, I think as we mentioned this in the release, we're definitely continuing to improve the experience in India for customers and sellers, excited by some of the response we've seen. We are continuing to invest meaningfully in digitizing those say MSMBs micro-small and medium-sized businesses.
+We did pledge to invest $1 billion to help digitize traders and those micro and small businesses across India. And we've got a goal of bringing more than 10 million online by 2025. So, this $1 billion investment will help to enable $10 billion in cumulative Indian exports by 2025.
+A lot of different facets to those types of investments, won't go into too much for specifics, but a lot of work being done there. We're also focused on job growth, job creation over there. Since we launched over in India in 2013, we've created over 700,000 direct and indirect jobs. So -- we also recently announced plans to create additional one million jobs in India by 2025.
+So, a lot of -- I think innovation, ideas, investment. That team over there continues to do a great job locally of taking a lot of the tenants that we've had at Amazon around innovation building and really run with that over there and done a great job of coming up with some interesting and new services and features that I think are specific to that region.
+And hopefully, as we continue to do that, we'll keep identifying areas over in India and tool sets features over in India that we can bring back to other regions to help benefit other sellers and the other websites more broadly.
+Operator
+Thank you. Our next question comes from the line of Brian Nowak with Morgan Stanley. Please proceed.
+Brian Nowak
+Thanks for taking my question. I have two. Just, the first one Brian, I think on one of the media interviews, you talked about how you're becoming more efficient with one-day and you continue -- with next-day delivery and continue to do so and talked about $1 billion of cost in that current quarter.
+Maybe just sort of talk to us about some of the largest qualitative fix in variable costs sort of still associated with one-day and the processes and the opportunities for efficiency to really get that number down as we go throughout 2020. And then, maybe any specific product categories or good categories where you've seen an acceleration in demand from one day that you’d call out?
+Brian Olsavsky
+Sure. Let me make sure the numbers are understood. We had talked about last year about an initial step up in cost of close to $800 million in the second quarter. We -- that carried into Q3-- was slightly higher in Q3. And then in Q4, last time on this call I mentioned that we estimated Q4 would be $1.5 billion penalty. It was slightly under that despite the higher volumes and revenue growth than was in our guidance.
+And looking ahead to Q1, we estimate approximately $1 billion of additional costs year-over-year. And again, in Q2, we'll start to lap this. And that doesn't mean the delta goes to zero. It means that there'll be a step up as we grow and expand on a volume basis and then we'll see where our rates are on actually delivering and fulfilling one day. So, I will keep you posted on our results and guide in the future as to where we see those costs going.
+If you look at the efficiency or the -- first the cost, they generally fall into a few buckets. It's obviously transportation where you're building out new transportation modes, you're adding new deliveries. Partners are adding new routes. Many times they start with subscale volumes and you build them out, you get more efficient, you get more volume, more package density and that creates efficiency.
+When we started this, again, Q2 of last year, we also had abrupt change to our fulfillment network in that, when it's tuned for two-day delivery on the most part when you move to one-day in a lot of cases, it's advantageous from a cost and transportation standpoint to have that inventory closer to the customer. So, we've -- last year we're in the middle of that transition. We still are as we shift inventory to be more local, it will enable local deliveries to hit shorter cutoff times.
+So, that will continue to become more efficient. We do see -- we will have to scale our fulfillment center network further. We grew the square footage for fulfillment and transportation by 15% each of the last two years.
+And we'll look ahead and see a step-up in that this year as we start to build more capacity for the one-day. I haven't guided beyond Q1, but that's certainly something that will step up. But we get efficiencies as we learn and grow and handle more one-day volume.
+Third area is foregone ship revenue just simply, because we're having free shipment and not charging for it. That unfortunately doesn't leverage, but it -- we do start to lap after a while.
+So, I would say that just as we've had other shocks to our warehouse system over the years from going to -- from media to almost every product you can imagine, to having a cycle of increased third-party presence in the FBA program now to one-day, we have a history here where we can look for opportunities to be more efficient and lower the -- any cost penalties as we move forward.
+Operator
+Thank you. Our next question comes from the line of Dan Salmon with BMO Capital Markets. Please proceed.
+Dan Salmon
+Thanks for taking the question guys. Brain, just to follow-up on one-day shipping. You noted that you begin to lap the beginning of the initiative here in the second quarter and that naturally costs can flow up with volumes. But just to be clear with you is the idea here is we anniversary at that sort of incremental expansion of one-day shipping either regionally or certain SKUs is functionally finished. I just want to make sure I understand that properly.
+And then just -- we can see the other number reported. Just any color within there on the advertising business. And in particular would love to hear an update just a bit on some of your brand initiatives there. I know that probably wasn't the focus in the holiday season, but it seems to be an important growing part. Thank you.
+Brian Olsavsky
+Sure. Let me start on the one-day. So, yeah, we do see expansion of the one-day program as we move through the year. We've been expanding since we started this effort in Q2 of last year. Expansion means additional cities, additional routes, additional zip codes.
+But more -- I think what you'll see more in 2020 is also an -- more effort internationally, more costs internationally. We have greatly improved our selection of one-day in -- particularly in Europe and Japan.
+We started with higher one-day percentage of our shipments in those geographies, but we do have to take steps and are taking steps to increase that. And we expect that to be -- it started to be a little more balanced cost globally as we move into 2020.
+Dave Fildes
+Yeah, Dan. In terms of your question around brands. We're focused on the certainly brands as an advertising customer set and a lot of focus on providing the products and tools that are going to help customers and really inspire them. So, things that we're really excited about stores, so a brand can customize and curate a multipage store. It allows them to better tell customers who they are share their story.
+So, we can help deepen the brand engagement and the customer loyalty through that type of option. Some other things like posts, which helps customers discover products and brands. And it's through a curated feed that features the brand's lifestyle content and it's on a mobile detail page. And there's international expansion in some other areas.
+I think broadly with advertising, so much of this is about having -- developing great relationships with these advertisers, because I think they appreciate the fidelity we can provide around shopping outcomes. We're uniquely positioned to do this given our retail business.
+On the advertising business, or rather I should say other revenue that line item grew about 41% year-over-year. Advertising is the biggest piece of that. Line item is growing at about the same rate. Advertising revenue is as a subset been growing at about the same rate year-over-year in the fourth quarter than it did in the third quarter.
+Operator
+Thank you. Our next question comes from the line of Eric Sheridan with UBS. Please proceed.
+Eric Sheridan
+Thanks for taking the question. Maybe a two part question on AWS if I can. You called out the depreciation change with respect to AWS going forward. Just wanted to better understand some of the decisions that were made on useful life that drove that decision and how to think about that from a modeling perspective going forward?
+And then the second part would be what does that mean in terms of the way you're thinking about forward CapEx cycles for the AWS business, if you're assuming useful life is moving out maybe than prior assumptions? Thanks so much.
+Brian Olsavsky
+Sure. Thanks for bringing that up. So, we as a practice monitor and review, the useful life of our depreciable assets on a regular basis to make sure that our financial statements reflect our best estimate of how long the assets are going to be used in operations. In Q4 -- and we've been looking at it in both the FCs, fulfillment centers and also AWS annually.
+As we looked in Q4 of 2019, we believe it's -- there's enough trend now to show that the useful life is exceeding four years. We have been -- for our servers and we had been depreciating them over three years. So, we are going to start depreciating them on a four year basis.
+It doesn't unwind any depreciation that's already been booked. It just takes the asset from its current status and extends the depreciation period and then new assets will be put into play will extend out for four years instead of three and we'll continue to revisit this. I do want to point out it's not just an accounting-related change. It's rather a reflection of the work that we've done to make our server capacity last longer.
+We've been operating at scale for over 13 years in this business and we continue to refine our software to run more efficiently on the hardware. It then lowers stress and extends the useful life both through servers that we used in the AWS business and also the servers that we use to support our own Amazon businesses.
+So -- and despite that we give AWS customers and actually because of this, AWS customers continue to get access to the latest technologies more quickly than ever before. So, we are essentially reflecting the fact that we have gotten better at extending the useful life here and now building that into our financials moving forward.
+Yes, you're right. It should also impact our need and our timing of capital. I would say that it's also been part of the reason that we've been able to keep capital relatively under in check the last two years in the infrastructure area. But its $800 -- excuse me $800 million lower depreciation expense in the quarter and it will be consistent. It will change quarter-to-quarter. We will update you. But as you can see in our financial statements, it's about $2.3 billion impact in Q2 2020.
+Dave Fildes
+Yes. This is Dave. Just kind of on the modeling point too on that the $800 million is in Q1. We do think that the -- for that accounting impact effectively, we expect that that amount will decrease as we go through the year. And it's tech infrastructure assets. So, it's -- I should say the servers are tech infrastructure assets. So, when you think about segments the majority of these relate to the AWS segment.
+Operator
+Thank you. Our next question comes from the line of Ron Josey with JMP Securities. Please proceed.
+Ron Josey
+Great. Thanks for taking the question. Brian, I just want to ask a little bit more about the holiday season, given the beat on the top line and see if there's any way to quantify maybe the impact from the shortened holiday shopping season. I mean, it doesn't seem like much just given the better results and in online sales and retail third-party seller services. But is there any way to think about the six less days?
+And then also you mentioned last quarter, an impact from the Japanese consumption tax. Any sort of impact? Did that go according to plan or any thoughts there would be helpful? Thank you.
+Brian Olsavsky
+Yes. First of all on the -- there were two items we discussed last quarter with the Japan consumption tax raising from 8% to 10% effective October 1. The net result was a pull forward of some purchases by Japanese customers into Q3 and also some negative elasticity effects post October 1.
+The other item was Diwali timing, the Indian holiday which has a very large swing factor on international revenues is, it moved more into the third quarter this year versus -- in 2019 versus 2018. So, it was a help to Q3 and a penalty to Q4. Those two items impacted the Q4 growth rate negatively by about 300 basis points. That was our estimate and we believe that was the actual outcome.
+Dave Fildes
+On the international?
+Brian Olsavsky
+On the international segment excuse me yes. The -- sorry the first question was for the holiday season. Yes, we don't see that as a factor actually. And I mentioned that last call as it wasn't incorporated into our guidance in a negative fashion. The way we look at it and the way we believe it works at least in our business is that customers will have a holiday budget and they will spend it between generally the middle of November.
+It's creeping up to the early part of November through the holiday season. And we do see obviously spikes in Black Friday and Cyber Monday and we also see relative tick-up in trends as we get closer to the holiday and for the shipping threshold cutoff.
+So, there's a polarization of tends to be a polarization to early shipping -- or excuse me early purchase and late purchases. As far as, the six days that sort of time period between Thanksgiving and the Christmas holiday, we don't see an impact on that. Perhaps it's a bigger issue for stores and foot traffic, but we don't notice it in our business.
+Operator
+Thank you. Our next question comes from the line of Doug Anmuth with JPMorgan. Please proceed.
+Doug Anmuth
+Thanks for taking the question. I just want to shift gears to grocery. I know you added Amazon Fresh into Prime kind of removing the previous $14.99 a month component there and putting it into Prime and you talked about the 2,000 U.S. cities and towns with two-hour delivery. Can you just talk about what the early impact there is of bundling kind of Fresh into Prime at this point?
+And then just how you're thinking about your grocery strategy as you're positioned now? Thanks.
+Brian Olsavsky
+Sure. Thanks for your question. So, early results are good. We -- our grocery delivery orders from the combination of Amazon Fresh and Whole Foods Market more than doubled in the fourth quarter year-over-year. So, we believe customers are starting to notice and take advantage of this.
+We wanted to take -- we will see where people's tastes and preferences will take them. We are -- whether they go to the store, the Whole Foods Market store, whether they use Prime Now or Amazon delivery for their groceries. Right now, we're really just testing and reacting to the customer demand and the customers' preferences and we'll do so for the foreseeable future.
+Operator
+Thank you. Our final question will come from the line of Mark Mahaney with RBC Capital Markets. Please proceed.
+Mark Mahaney
+Okay. Thanks for including me. Then I'll throw off three quick ones. Just talk a little bit more about gross margins in the quarter. You had -- the year-over-year trend was negative last quarter, but it turned reverse and was up this quarter. So, if there are any unusual factors you'd want to call out there.
+Second the -- I don't want to read over a lot into your guidance, but every year for the last five years you've always guided to operating profit down sequentially and then you may be delivered better than that, but you always guided down. This year your high end of your range is actually above what you obviously did in the fourth quarter.
+Are you just trying to remind people, tell people, educate people on how the mix shift in the business towards AWS and advertising is just changing the profit profile of the business? So, any more color there?
+And then last one since Sunday is coming up. I know you talked about the AWS customers and you mentioned the Seattle Seahawks, but what about the 49ers? Thanks.
+Brian Olsavsky
+Good luck 49ers. I'll get that out there first. Good luck Ken Sachse fan. We're indifferent. Let me start with your second one on -- sorry, the -- start with gross margin.
+Dave Fildes
+Yes. So, I don't think there's anything too surprising caught there. I think we continue to see some good growth in the third-party business. You saw that accelerate some. We're continuing to see that trend of more FBA sellers signing and taking a larger percentage of the total 3P mix of units that are sold through, so that continues to do well. And as Brian mentioned earlier, we think some of that has to do with the program keeps getting better with faster shipping and whatnot.
+We've invested many billions of dollars in that program to make it even better for sellers. AWS had a strong quarter of course so that helps on the gross margin side as well.
+And then on transportation I think you saw the outbound shipping costs to grow around 43% year-over-year. So, certainly up a good deal versus the trend line we saw in 2018. But of course that's reflective of one-day and overall relative to our expectations.
+As Brian said with the $1.5 billion we guided to it came in a bit under that. So some of that was certainly part of some better-than-expected trends efficiencies. 
+Brian Olsavsky
+And on the comment on seasonality of guidance and Q1 that -- I think the historic trend of peaking a bit in operating income in Q4 and then stepping down in Q1 has been broken up a little bit as we've had the balance of AWS and some other things.
+But if you actually look back to Q1 of last year, it was the highest operating income quarter on record. And that's one of the -- makes a difficult comp this year, because we had the -- if you remember the slowdown in expenditures in 2018 in things like fixed -- adding of headcount, warehouse space, infrastructure costs, not to zero, but like down off of prior investment levels in 2016 and 2017. A lot of that continued -- that cost baseline continued into Q1 of 2019 and it actually was a super-efficient quarter from a cost and profit standpoint.
+Q2 of last year, we started to again make larger investments, particularly in one day. And so that's now something that is lapping in Q1 of this year because we didn't really have one-day in Q1 of last year. But -- so I think there's -- it's hard to draw those parallels between quarters anymore.
+I will though mention the guidance that we do have the $800 million of lower depreciation from our extension of our server useful lives, which is part of the range that we gave you of $3 billion to $4.2 billion.
+Dave Fildes
+Thanks for joining us today on the call and for your questions. A replay will be available on our Investor Relations website at least through the end of the quarter. We appreciate your interest in Amazon and we look forward to talking with you again next quarter.
+
+
+
+
+
+
+
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+17 Authors in the Last 90 Days

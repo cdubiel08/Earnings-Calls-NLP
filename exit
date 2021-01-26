@@ -1,0 +1,210 @@
+[33mcommit 65f3c7ddef39b4533226180578ad6ed7fe55e51e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: B M <adjunctfuentes@gmail.com>
+Date:   Fri Jan 22 23:55:13 2021 -0600
+
+    updated Sentiment scores code
+
+[33mcommit 17785a81940eb76c34cfeefb08aa5070e6a73d04[m
+Author: B M <adjunctfuentes@gmail.com>
+Date:   Fri Jan 22 23:15:58 2021 -0600
+
+    SIA code with scores with price
+
+[33mcommit 642ac9d11314f93a451f335a441185d2cdac3b7d[m
+Merge: 9cf59d8 5c91e95
+Author: B M <adjunctfuentes@gmail.com>
+Date:   Fri Jan 22 19:42:33 2021 -0600
+
+    Merge branch 'main' of https://github.com/cdubiel08/Earnings-Calls-NLP into main
+
+[33mcommit 9cf59d81bfd407662cbd59c00173da46502ecad5[m
+Author: B M <adjunctfuentes@gmail.com>
+Date:   Fri Jan 22 19:42:01 2021 -0600
+
+    updated sentiment analysis on full and prep remarks with HL, LM, SIA scores
+
+[33mcommit 5c91e9577f8aa98c755d013fdf86a1a21bfa6a67[m
+Merge: 7e3272e f411779
+Author: bradhika80 <bradhika80@gmail.com>
+Date:   Fri Jan 22 15:21:02 2021 -0600
+
+    Merge branch 'main' of https://github.com/cdubiel08/Earnings-Calls-NLP into main
+
+[33mcommit 7e3272ed12d3b5b80fea9790336c4c98164da62d[m
+Author: bradhika80 <bradhika80@gmail.com>
+Date:   Fri Jan 22 15:18:53 2021 -0600
+
+    update UI
+
+[33mcommit f4117795c75c64641fcd09d0b018f8beb709de01[m
+Author: B M <adjunctfuentes@gmail.com>
+Date:   Thu Jan 21 21:53:18 2021 -0600
+
+    updates to sentiment code
+
+[33mcommit cabbaec6442fbd911bec89a8d4093153941b4377[m
+Author: Chad Dubiel <cdubiel08@gmail.com>
+Date:   Thu Jan 21 11:49:01 2021 -0600
+
+    adding large file for sandp500
+
+[33mcommit 1a5d47ddee57427c04161c84b92420c869163ec6[m
+Author: Chad Dubiel <cdubiel08@gmail.com>
+Date:   Thu Jan 21 11:45:13 2021 -0600
+
+    moving and adding transcripts for sandp500
+
+[33mcommit eb87e8baeefd0f019c13032410e3ce3747767df1[m
+Author: B M <adjunctfuentes@gmail.com>
+Date:   Wed Jan 20 21:26:41 2021 -0600
+
+    sentiment analysis drafts
+
+[33mcommit f32be2322b8a11eac3c31c076ab178bd72ac2d2c[m
+Author: Chad Dubiel <cdubiel08@gmail.com>
+Date:   Wed Jan 20 18:15:38 2021 -0600
+
+    adding transcripts and changes to code in various notebooks
+
+[33mcommit d589dfb85b665de4be1c06ce19a73ca068d4fda0[m
+Author: B M <adjunctfuentes@gmail.com>
+Date:   Tue Jan 19 21:38:01 2021 -0600
+
+    updated stock list for 2015-2020 pricing
+
+[33mcommit 3bd76b89b8c1b53effdb918af1fe4d6fc22eecdd[m
+Author: bradhika80 <bradhika80@gmail.com>
+Date:   Mon Jan 18 23:58:49 2021 -0600
+
+    created page holders for nlp, design, forecast
+
+[33mcommit 5babe7fe02c430dda72d4baaaaec8a8b8e32ed90[m
+Merge: ab26c84 1299d71
+Author: bradhika80 <bradhika80@gmail.com>
+Date:   Mon Jan 18 23:47:24 2021 -0600
+
+    Merge branch 'main' of https://github.com/cdubiel08/Earnings-Calls-NLP into main
+
+[33mcommit ab26c84898d51c73e0f720f4e44cfb3ea361ce9d[m
+Author: bradhika80 <bradhika80@gmail.com>
+Date:   Mon Jan 18 23:46:53 2021 -0600
+
+    created demo page
+
+[33mcommit 1299d710c87a506bacdc9ead49fc72777a258393[m
+Author: B M <adjunctfuentes@gmail.com>
+Date:   Mon Jan 18 20:52:57 2021 -0600
+
+    updated code for models and SQL drafts
+
+[33mcommit 4efedd52749cee5568e5c59f5df5a8b91e6e03c2[m
+Merge: 88acf45 07b9e44
+Author: B M <adjunctfuentes@gmail.com>
+Date:   Mon Jan 18 20:49:47 2021 -0600
+
+    merge issues
+
+[33mcommit 88acf45fc7cfbb9b8ba0e0c6a4a38707fcdad0d8[m
+Author: B M <adjunctfuentes@gmail.com>
+Date:   Mon Jan 18 20:44:33 2021 -0600
+
+    resolve merge issues
+
+[33mcommit 3a76a15227eaaf78750b1120576d90eb2cd2222f[m
+Author: B M <adjunctfuentes@gmail.com>
+Date:   Mon Jan 18 20:23:38 2021 -0600
+
+    updated model code and SQL drafts
+
+[33mcommit 07b9e44401e2e01bab80c92b89bcf8cfd1b65f65[m
+Author: Chad Dubiel <cdubiel08@gmail.com>
+Date:   Mon Jan 18 16:35:23 2021 -0600
+
+    rearranged csv
+
+[33mcommit 884e543b2d13f45d459e7ccad1e264d7a7e2928f[m
+Merge: 00be26e 3c35d91
+Author: B M <adjunctfuentes@gmail.com>
+Date:   Mon Jan 18 16:33:18 2021 -0600
+
+    Merge branch 'main' of https://github.com/cdubiel08/Earnings-Calls-NLP into main
+
+[33mcommit 00be26e50ac8e35f5577a86c4426c50fe2255b42[m
+Author: B M <adjunctfuentes@gmail.com>
+Date:   Mon Jan 18 16:32:31 2021 -0600
+
+    updated codes to models
+
+[33mcommit 3c35d918627e8f22d740136aefb4d70532120762[m
+Author: Chad Dubiel <cdubiel08@gmail.com>
+Date:   Mon Jan 18 16:27:42 2021 -0600
+
+    additions to sandp100.csv and chad working directory
+
+[33mcommit cfc15da12bb628d8f1b15dab83d4c0e6a742e344[m
+Merge: 46261d4 2109c8f
+Author: bradhika80 <bradhika80@gmail.com>
+Date:   Mon Jan 18 16:18:03 2021 -0600
+
+    Merge branch 'main' of https://github.com/cdubiel08/Earnings-Calls-NLP into main
+
+[33mcommit 46261d45d8ca55eb5c0eadef378c0cdd30eedd6e[m
+Author: bradhika80 <bradhika80@gmail.com>
+Date:   Mon Jan 18 16:17:56 2021 -0600
+
+    created home page
+
+[33mcommit 2109c8f09e564f161253fd933ede2087e35ba7bb[m
+Author: Pankaj <tahiliani.pankaj19@gmail.com>
+Date:   Mon Jan 18 10:56:56 2021 -0800
+
+    adding candlestickcsv
+
+[33mcommit 84668e9edceb9d66087ce4233ab555be111f5a54[m
+Author: Pankaj <tahiliani.pankaj19@gmail.com>
+Date:   Sun Jan 17 22:34:34 2021 -0800
+
+    adding candlestick ipynb
+
+[33mcommit aecde7935f3a691e300a7ab065e7bcb9899ea62d[m
+Author: Pankaj <tahiliani.pankaj19@gmail.com>
+Date:   Sun Jan 17 21:45:59 2021 -0800
+
+    adding data for candlestick
+
+[33mcommit 7d417a699f2c44c603082a14c124a29ed17e0914[m
+Merge: 276aa7e 38d3f35
+Author: B M <adjunctfuentes@gmail.com>
+Date:   Sat Jan 16 21:52:29 2021 -0600
+
+    Merge branch 'main' of https://github.com/cdubiel08/Earnings-Calls-NLP into main
+
+[33mcommit 276aa7e675cc1da8a66216bbf10edd48eae915ff[m
+Author: B M <adjunctfuentes@gmail.com>
+Date:   Sat Jan 16 21:51:16 2021 -0600
+
+    first kf working files
+
+[33mcommit 38d3f357801496c7209f7046a06b2aded9c7c700[m
+Author: Chad Dubiel <cdubiel08@gmail.com>
+Date:   Sat Jan 16 15:37:38 2021 -0600
+
+    added transcript .txt files
+
+[33mcommit ef96740ed4c67a8726bbdf25cf4bfe8deb322d66[m
+Author: B M <adjunctfuentes@gmail.com>
+Date:   Sat Jan 16 15:22:17 2021 -0600
+
+    document update
+
+[33mcommit 1b7d1d52f2855f7eb5f7a6e976228854709dc8e5[m
+Author: Chad Dubiel <cdubiel08@gmail.com>
+Date:   Fri Jan 15 16:23:27 2021 -0600
+
+    first commit
+
+[33mcommit 492c8623118ae469e05356c3d316dbb5ac990689[m
+Author: Chad Dubiel <68287507+cdubiel08@users.noreply.github.com>
+Date:   Fri Jan 15 16:20:45 2021 -0600
+
+    Initial commit

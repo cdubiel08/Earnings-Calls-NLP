@@ -1,0 +1,298 @@
+Cisco Systems, Inc. (NASDAQ:CSCO) Q3 2020 Earnings Conference Call May 13, 2020  4:30 PM ET
+Company Participants
+Marilyn Mora - Head of Investor Relations
+Chuck Robbins - Chairman & Chief Executive Officer
+Kelly Kramer - Chief Financial Officer
+Conference Call Participants
+Paul Silverstein - Cowen and Company
+Ittai Kidron - Oppenheimer & Company
+Rod Hall - Goldman Sachs
+Sami Badri - Credit Suisse
+Joe Cardoso - JPMorgan
+Meta Marshall - Morgan Stanley
+Tal Liani - Bank of America
+Amit Daryanani - Evercore
+Jim Suva - Citigroup Investment
+Pierre Ferragu - New Street Research
+Tim Long - Barclays
+Operator
+Welcome to Cisco's Third Quarter Fiscal Year 2020 Financial Results Conference Call. At the request of Cisco, today's conference is being recorded. If you have any objections you may disconnect.
+Now, I would like to introduce Marilyn Mora, Head of Investor Relations. Ma'am you may begin.
+Marilyn Mora
+Thanks, Michelle. Welcome everyone to Cisco's third quarter fiscal 2020 quarterly earnings conference call. This is Marilyn Mora, Head of Investor Relations and I'm joined by Chuck Robbins, our Chairman and CEO; and Kelly Kramer, our CFO.
+By now you should have seen our earnings press release. A corresponding webcast with slides including supplemental information will be made available on our website in the Investor Relations section following the call.
+Income statements, full GAAP to non-GAAP reconciliation information, balance sheets, cash flow statements, and other financial information can also be found in the financial information section of our Investor Relations' website.
+Throughout this conference call we will be referencing both GAAP and non-GAAP financial results and we'll discuss product results in terms of revenue and geographic and customer results in terms of product orders unless stated otherwise.
+All comparisons made throughout this call will be made on a year-over-year basis. The matters we will be discussing today including forward-looking statements including the guidance we will be providing for the fourth quarter of fiscal 2020. They are subject to the risks and uncertainties including those related to COVID-19 that we discuss in detail in our documents filed with the SEC, specifically the most recent reports on Forms 10-K and 10-Q which identify important risk factors that could cause actual results to differ materially from those contained in the forward-looking statements.
+With respect to guidance, please also see the slides and press release that accompany this call for further details. Cisco will not comment on its financial guidance during this quarter or during the quarter unless it is done through an explicit public disclosure.
+Chuck, I'll now turn it over to you.
+Chuck Robbins
+Thanks Marilyn. Before we get started, I want to express my gratitude and appreciation for all the frontline workers who are fighting this pandemic every day to keep so many safe. I also want to express my sympathies for those who have lost their lives and the families that have endured the deepest pains from the impact of this tragic situation we are in today. This truly is unlike anything, any of us have ever experienced.
+As you can imagine, we have been focused on helping our employee’s, customer’s, partners and communities. We currently have 95% of our global workforce working from home, which was a seamless transition for us, as we already had a flexible work policy. And we build the technologies that allow organizations to stay connected, secure and productive. For those 5% who must be in the office to do the roles, we are clearly focused on their health and safety and are taking all of the necessary precautions.
+During the crisis, many of our customers and partners have been under enormous pressure as they face cash flow challenges. This is why we introduced a variety of free offers and trials for our Webex and security technologies as they dramatically shifted entire workforces to be remote.
+In addition, we announced $2.5 billion in financing with a new Business Resiliency Program through Cisco Capital to offer financial flexibility and support their business continuity. This will help customers and partner’s access to technology they need now, invest for recovery and defer most of the payments until early 2021.
+This pandemic is highlighting so many inequities that already existed and is exacerbating these problems. I'm proud to say that Cisco has committed nearly $300 million to date to support both global and local pandemic response efforts, including providing technology and financial support for non-profits, first responders and governments.
+We are also donating personal protective equipment to hospital workers, including N-95 masks and face shields, 3D printed by Cisco volunteers around the world. I'm so proud of our teams who have been relentlessly focused on these efforts and continuing to identify how we can be innovative to help those most in need.
+I particularly like to call out our IT, Webex, security and supply chain teams, along with our partners and suppliers who have been working around the clock to ensure we are doing all that we can to keep organizations around the world up and running and giving back to our communities. Thank you.
+Now, turning to our third quarter performance. Despite the challenging environment we are all operating in, we delivered a solid quarter and financial performance in the midst of the greatest financial crisis of our lifetime. While we are not immune to the impacts of the global pandemic, we believe our underlying business fundamentals and financial position remains strong.
+As we look at the quarter it very much reflected the journey of the pandemic. In March, we were performing ahead of our expectations, as companies focused on building resiliency in their IT environments. Then in April we began to see a slowdown across the business, as countries across the world were locked down.
+While parts of our portfolio have been more impacted than others, we believe our leadership from a product, innovation and operational perspective remains solid. While there is so much uncertainty now, we believe our role has never been more important and our responsibility has never been greater, as much of the world is running on Cisco's technology from networking to collaboration to security to stay connected, secure and productive.
+Organizations more than ever must focus on resiliency and agility and those who had invested in digital capabilities were able to make this shift more seamlessly. While we cannot predict when it's going to happen, one thing we believe is that the demand for our products and services will be strong when we emerge from this situation.
+We believe the transition in our own business model through our shift to more software and subscription-based offerings is paying off. We saw continued strong adoption of our SaaS-based offerings and now have 74% of our software that is subscription versus 65% a year ago.
+We also believe, we remain well positioned over the long-term to serve our customers and create differentiated value aligned to cloud, 5G, Wi-Fi 6 and 400 gig. Our business model, diversified portfolio and ability to continue to invest in key growth priorities gives us a strong foundation to build even stronger customer relationships.
+As we prepare for the future, we will closely partner with our customers to modernize their infrastructure, secure their remote workforce and their data through our innovative solutions that will serve as the foundation for their digital organizations.
+Next, I'll turn to the performance of our business segments, starting with infrastructure platforms. With the world going online practically overnight, the demand on networks has never been greater, with users looking for secure connectivity, reliable performance and consistent experiences. This has led to our customers evaluating how to expand their capacity quickly, how best to protect their teams and how to keep their data secure, while keeping their business productive.
+It is also requiring enterprise IT to rapidly setup, deploy and provision mobile offices or mobile healthcare clinics. What I've seen IT teams do around the world and what they've made possible is simply astonishing.
+Our strategy and value proposition are clear. We are powering the world's ability to stay connected, productive and secure, while automating many of these capabilities. Our intent-based networking architecture was built for environments like this.
+For industries like healthcare, public services, financial services and service providers especially, having network infrastructure tightly integrated with security is mission-critical.
+In Q3 we offered new cloud-based COVID-19 bundles for teleworker, mobile healthcare and pop-up branch use cases through our partners and service providers. As customers modernize their network infrastructure, we saw continued strong customer adoption of our subscription-based Catalyst 9000, as customers look to quickly scale remote access capabilities to keep their employees safe and their businesses running.
+We continue to execute on our secure cloud scale SD-WAN strategy by investing in innovation and partnerships to help enterprises accelerate their multi-cloud strategies. As an example, we are now integrating with our Umbrella secure Internet gateway to give our customers flexibility to use best of breed cloud security with our industry leading SD-WAN solution.
+Our partnerships across web scale providers like AWS, Azure and our most recent announcement with Google Cloud allow us to offer a truly multi-cloud network fabric. As bandwidth and SaaS application demand increases, we are enabling our customers to securely connect branches and interconnect to different cloud providers to enable consistent application performance and user experience.
+Moving on to security, which is always at the heart of everything we do. In Q3, we saw solid growth, reflecting increased demand for our robust solutions to secure the rapid growth in remote workers and their devices. Being the largest enterprise security company in the world, we are uniquely positioned to safeguard our customers wherever they work. We have the most comprehensive and integrated end-to-end portfolio in the industry across the network, cloud, applications and endpoints.
+As I mentioned earlier, we provided extended free licenses for key security technologies that are designed to protect remote workers, including Cisco Umbrella, Zero Trust Security from Duo, industry-leading secure network access from Cisco AnyConnect and end point protection from our AMP technology.
+We are also supporting our customers on their multi-cloud journey by enabling them to secure direct internet access, cloud application usage and roaming users. We are only two quarters into our secure Internet gateway transition and we are already seeing strong adoption from existing and new customers.
+Building on the investments we made in innovation partnerships and acquisitions, we also introduced SecureX. This is the industry's broadest cloud-based security platform, connecting the breadth of our portfolio and our customer’s security infrastructure by providing unified visibility, automation and simplified security across applications, the network endpoints and the cloud.
+Turning to applications. Teleworking and collaboration tools have become a lifeline for businesses and their people to stay connected and productive, with security and privacy being more critical than ever. Our portfolios at the center of our customer strategy for empowering teams and increasing productivity, as 95% of the Fortune 500 use our collaboration portfolio today.
+We take a security first approach to remote working and provide highly secure cloud-based collaboration solutions with integrated end-to end-encryption, while protecting our customer’s privacy. Throughout the quarter, we invested in scaling our platform at an unparalleled speed to deliver a highly secure consistent experience and ensuring business continuity for our customers.
+We are now running our Webex platform at three times the capacity we were running at in February to manage the dramatic increase in usage growth. We had well over 500 million meeting participants, generating 25 billion meeting minutes in April, more than tripled the volume in February. We also added many new prospects through free Webex trials that we anticipate converting to revenue in the future.
+With applications at the core of every business and the surge in demand for monitoring tools that provide real time business insights and optimize user experiences in multi-cloud environments, AppDynamics continues to perform well, particularly in this environment.
+As I wrap up, I just want to reiterate how grateful I am to have our teams, our resources and our operational resiliency during this time. I also want to commend the heroic efforts of IT organizations and teams around the world who have had to digitize their operations and support remote workforces at an unprecedented speed and scale.
+This crisis has highlighted the importance of having highly resilient, globally scalable infrastructure technologies to keep the world running and this is what we build. We are providing an innovative solutions that help our customer support business continuity, drive productivity and ensure a highly secure work environment.
+We believe we will emerge from this crisis stronger than before. With our accelerated innovation cycle, refresh portfolio and significant progress on our shift to more software and subscriptions, we are in a better position today than in past times of uncertainty. Our confidence is further supported by our strong balance sheet to invest for the future and our proven ability to execute no matter the environment.
+I also believe our incredible culture has been amplified during this time and I'm so proud of what our teams have achieved. I am confident Cisco is resilient and we are built to last, regardless of what the future brings.
+Kelly. I'll now turn it over to you.
+Kelly Kramer
+Thanks, Chuck. I'll start with a summary of our financial results for the quarter, followed by guidance for Q4. Our overall Q3 results reflect good execution with strong margins and non-GAAP EPS growth in a very challenging environment.
+COVID-19 did have an impact on our financial results and business operations this quarter, especially in our supply chain where we saw manufacturing challenges and component constraints. Total revenue was $12 billion, down 8%. Our non-GAAP operating margin rate was 34.9%, up 2.7 points. Non-GAAP net income was $3.4 billion, down 2% year-over-year and non-GAAP EPS was $0.79, up 1%.
+Let me provide some more detail on our Q3 revenue. Total product revenue was down 12% to $8.6 billion. Infrastructure platforms was down 15%. This is the area that was most impacted by the supply chain challenges.
+Switching revenue declined in both Campus and Data Center. We did see strong growth with the continued ramp of the Cat 9K. Routing decline in both service provider and in enterprise.
+Data Center revenue decline driven by continued market contraction impacting both our servers and HyperFlex offerings. Wireless declined overall, but we did see strength in the ramp of our Wi-Fi 6 products and solid growth in Meraki.
+Applications was down 5%, driven by a decline in Unified Communications and TP end points. We did see growth in conferencing, as we saw a strong uptake with the COVID-19 environments.
+We also saw strong double-digit growth in AppDynamics and IoT software. Security was up 6% with strong performance in unified threat management, identity and access and advanced threat. Our cloud security portfolio performed well with strong double-digit growth and continued momentum with our Duo and Umbrella offerings.
+Service revenue was up 5%, driven by software and solutions support. We continue to transform our business, delivering more software offerings and driving more subscriptions.
+Software subscriptions were 34% of total software revenue up 9 points year-over-year. In terms of orders in Q3, total product orders were down 5%. During the quarter, there was a slowdown in April, as we saw the impact of the COVID-19 environment continue.
+Looking at our geographies, the Americas was flat, EMEA was down 4% and APJC was down 22%. Total emerging markets were down 21% with the BRICS plus Mexico down 29%.
+In our customer segments, public sector was up 1%, while enterprise was down 4%, commercial was down 11% and service provider was down 3%. Remaining performance obligations or RPO at the end of Q3 were $25.5 billion, up 11%. The portion related to product was up 25%.
+From a non-GAAP profitability perspective, total Q3 gross margin was 66.6%, up 2 points. Product gross margin was 65.8%, up 2.1 point and service gross margin was 68.9%, up 1.6 points year-over-year. The increase in product gross margin was driven by productivity with continued memory cost savings and positive mix, partially offset by pricing.
+In terms of the bottom line from a GAAP perspective, Q3 net income was $2.8 million and EPS was $0.65. We ended Q3 with a total cash, cash equivalents and investments of $28.6 billion, operating cash flow was $4.2 billion, down 2% year-over-year.
+We have a very strong balance sheet, healthy free cash flow generation and the ability to quickly access capital markets. This is a competitive advantage in a challenging environment.
+Our commitment to our capital allocation program remains unchanged and we intended to continue to deliver long term value to our shareholders through the return of a minimum of 80% of our free cash flow annually. In Q3 we returned $2.5 billion to shareholders, during the quarter that was comprised of $1 billion of share repurchases and $1.5 billion for our quarterly dividend.
+To summarize, we executed well with strong margins and non-GAAP EPS growth in a very challenging environment. We're seeing the returns on the investments we're making in innovation and driving the shift to more software and subscriptions, delivering long term growth and shareholder value.
+Let me reiterate our guidance for the fourth quarter of fiscal ‘20. This guidance includes a type of forward-looking information that Marilyn referred to earlier. We expect revenue to decline in the range of minus 8.5% to minus 11.5% year-over-year. We anticipate the non-GAAP gross margin rate to be in the range of 64% to 65% and non-GAAP operating margin rate is expected to be in the range of 31.5% to 32.5% and the non-GAAP tax provision rate is expected to be 20%. Non-GAAP earnings per share is expected in the range from $0.72 to $0.74.
+I'll now turn it back to Marilyn, so we can move into the Q&A.
+Marilyn Mora
+Thanks, Kelly. Michelle, let's go ahead and plan to open up the line for questions. And as my usual quarterly reminder, we ask that you stick to one question. So we have time to get to others. Michelle?
+Question-and-Answer Session
+Operator
+Thank you, Marilyn. Our first question comes from Paul Silverstein with Cowen and Company. You may go ahead, sir.
+Paul Silverstein
+I'm torn whether to ask you about the infrastructure decline. So let me focus on that. Chuck and Kelly maybe you could comment on pricing as a courtesy and the other aspects of the fine gross margin performance.
+But if I could ask you on the infrastructure side, the thought arises given that so many organizations shifted to work from home. That's likely to persist to some degree. What's your outlook in terms of the benefits from the work from home in terms of the need for your solutions or robust connectivity, but also the potential negative aspect, fewer employees within the four walls of the enterprise? How does that impact campus switching and wireless LAN? If you could, any insight would be appreciated.
+Chuck Robbins
+Yeah. Paul, thanks for your question and you're spot on in how you should think about it. Look from - when we look at our customers working from home there's clearly collaboration capabilities that I discussed around, where there is clearly more security that needs to be deployed.
+And then the question about when they return to the office and how much - how many people return to the office and what does that mean to the infrastructure supporting their campus environments is certainly one that we're going to be watching.
+I will tell you that, I’ve had a lot of customers who are not at the center of this crisis, who realized during this pandemic that that they have a fair amount of technical debt and they have a lot of aged equipment. And so we all know what the timeframe is. But many of them have said this is going - this is a wakeup call and this is going to actually give us air cover to talk to our senior leadership team about upgrading and building out a more robust modernized infrastructure.
+So again, different customers will be able to do that at different paces based on how they're impacted, what their capital situation is. But that's how we think about it going forward and let's see how it plays out. Kelly, you want to talk at all about pricing thing?
+Kelly Kramer
+Yeah.
+Chuck Robbins
+Yes.
+Kelly Kramer
+So yeah, Paul, on pricing we again continue to have strong margins this quarter. But I will say you know, some of the dynamics, we did benefit still this quarter because we had built up some inventory on memory at the lower prices. So we benefited greatly from that, which you'll see in the VCP [ph]
+But pricing did get a little bit worse. So pricing to your question Paul, from a gross margin rate on product year-over-year it drove minus 1.9 points on pricing, which is slightly worse than it was year-over-year last quarter and certainly for the quarters ahead, the ones even before that even so.
+But overall very, very strong productivity, again driven by memory and cost savings, as well as positive software mix.
+Chuck Robbins
+And so you may want to talk about the correlation between the infrastructure platforms revenue number and the supply chain?
+Kelly Kramer
+Yeah. I mean, like I said in the prepared remarks, basically the majority, if not all of our supply chain challenges that we had with both components in the factories being impacted was on the infrastructure platform side, so that certainly drove a very large chunk of that revenue.
+Paul Silverstein
+Great. I appreciate that. Chuck, can you compare this to 10 years ago to the financial crisis and 20 years ago to the bubble?
+Chuck Robbins
+Well, I don’t think you can compare it to the bubble because we were at the epicenter of that one, so that one felt a lot different. In this one, we are sort of – we’re secondary collateral damage, I would say. But I think the difference here is the broad based challenges that this thing has represent - as has presented to customers around the world. And - but we all know that the response from the Fed, the response from Congress on stimulus and the commitment to the economic acceleration or the attempt to slow the economic deceleration is certainly at a level we've never seen before.
+So I think that like everybody else depending on the availability of testing, the availability of therapeutics and clearly at some point when we get a vaccine, I do believe that the one difference that I see in this one is, that this came upon us so quickly and so consistently around the world that I do think customers are now stepping back and asking themselves, what do I need to do to harden my infrastructure and to better prepare my business for the next time something like this happens.
+Marilyn Mora
+Right. Thanks, Chuck. Next question please?
+Operator
+Thank you. Ittai Kidron from Oppenheimer & Company. You may go ahead, sir.
+Ittai Kidron
+Thanks. And glad to hear everybody is doing okay, all the workers as well. Thanks for the hard work there. I guess I had a question about applications, just given the push with Webex and AppDynamics, I was a little bit surprised, it was down on a year-over-year basis.
+I guess, Chuck, can you be a little bit more transparent here and give us kind of a better understanding of the relative revenue levels of Webex and AppDynamics versus the unified IP that is clearly declining and then overshadowing those businesses.
+I'm trying to understand how close are we to a bottom in the declining businesses where the growth businesses can finally be transparent on an overall product category?
+Chuck Robbins
+Yeah, Ittai, I think, let me give you some color and then, Kelly can give you some metrics. But I think if you look over the last couple of years at the applications business and collaboration, I think they've performed reasonably well.
+As you think about what happened with Webex this time, what I will tell you is that our number one priority was to get customers up and running and so we have, we really have three categories of opportunity from customers that, as I said in my prepared remarks, that we believe will convert to revenue in the future.
+So we have enterprise customers, many of whom already had licenses, who need more licenses and they've exceeded their usage and we'll go back and we'll work with them to clean that up in the future. But again our priority was getting them up and running and just allowing them to be productive.
+The second is we had a number of new customers, enterprise customers, commercial customers who took advantage of Webex and deployed it for the first time in the 90-day free trial programs that we put out. And then there was a third category, which are more the individual free accounts that customers would sign-up for online.
+I would say the first two categories represent the majority of what we believe to be the revenue opportunity going forward, but that's something we'll see in the future and wasn't really reflected in the quarter that we just announced. So Kelly, you want to make any comments?
+Kelly Kramer
+Yeah, I mean, the thing I'll say in terms of just helping you think through the size, the relative size of these pieces, you know, of applications, monitoring and analytics, the AppD business is as I said, growing double-digits, super strong, very good, but it is still fairly small in terms of the percentage of the overall applications and then the same thing for the IoT software.
+So it comes down the collab, traditional collab and then when I break that down, the biggest chunk of total collab is unified communications and that is where we are seeing the pressure, which we have been seeing right in the endpoints. So that's going to be with us for a while as that goes.
+We're clearly trying to transition there with some of the things that the teams are building there, but that's a big portion that will continue down for a while I would guess. But again conferencing is strong and like Chuck said, the revenue - this is the revenue we're talking about.
+When we look at the demand and when I look at the uptake, the significant uptake we had, the offers we had during this last quarter, just using our normal what we expect to convert from free to paid is going to be a nice tailwind for us over the next few quarters here.
+Ittai Kidron
+Got it. And when you say endpoints, just to clarify, mostly IP, is that the right way to think about this?
+Kelly Kramer
+Yeah, that's the right way to think about it. It's the biggest driver.
+Ittai Kidron
+Okay. Good luck. Thanks.
+Kelly Kramer
+Thanks, Ittai.
+Marilyn Mora
+Next question please.
+Operator
+Thank you. Rod Hall from Goldman Sachs. You may go ahead, sir.
+Rod Hall
+Yeah. Hi, guys. Thanks for the question. I guess I'll - I've got two. One is regarding the order volumes, I wondered if you guys could juxtapose the fact that the US is kind of surprisingly flat after being down 8% last quarter and then also the commercial order acceleration on the downside, could you guys dig into the regional effects. Is that mostly APAC that's driving that or was it also weak in the US.
+And then the second question I had is on the $2.5 billion financing plan that you guys announced. I don't know, Kelly, could you give us some idea of how that affects cash flow, like is it affecting cash flow in this quarter and then how should we expect it to unwind into cash flow over the next few quarters. Thanks.
+Chuck Robbins
+So, Kelly, why don't I give a little color on the Americas and commercial and then you can give some metrics and talk about the financials - the programs. So Rod on the Americas, we had a - it was certainly stronger than what we saw in Asia and Europe and frankly, if you just look at the timing of the pandemic, you can see Asia got hit early. So we saw the more consistent decline in the business.
+What we did see in the Americas and in the US is we saw obviously strengthened Webex and security as more - as customers executed on their business continuity. We also saw strength in service provider as they built out capacity. So we saw strength in cable, we saw strength in webscale business.
+And just to comment on the webscale space, which we haven't talked about in a while. We've been talking for years about how that was a marathon and that we had been investing both in our innovation, as well as in the relationships with those customers and we have had the second quarter in a row of robust growth in that part of the marketplace, which frankly is the beginnings of us seeing the results from the years of hard work and re-establishing ourselves there. So I'm really proud of what the teams have done. So that's been a bright spot in the last two quarters.
+On commercial, if you think about it, commercial or mid-sized enterprises, small medium businesses, they have been disproportionately impacted by this pandemic. So it's not a surprise that that business is going to be hit a little bit hard here, harder than others and Kelly you got any color to add on that and then talk about the financial program?
+Kelly Kramer
+Yeah. So, yeah and also just to add to the US just to add, switching was also up and strong in the America and U.S - Americas as well. On commercial, it's a similar story, all of the geos were down, but it was down the least in the Americas followed by EMEA and the biggest chunk by far, it was down in APJC. So it's directly related to the kind of the geographical look when you look at overall how the orders went.
+In terms of the capital - Business Resiliency Program, we really just launched that at the end of April. So like a week or two before the quarter ended. So nothing impacted that in the quarter. So in Q4, there will be I'd say a small amount - we have a pipeline that we're going through.
+The early signs of the pipe that we're looking at, there is a big interest for smaller commercial customers who haven't really done financing, like a lot of healthcare systems, small healthcare systems, a lot of small colleges, so that - there is a pipeline there. So we'll start to see that convert in Q4.
+From a cash flow perspective, I don't expect a huge impact. There will be some impact in Q4 and slightly more in Q1, but then they get back on to normal payments in the January months.
+So we'll be watching that and hopefully it's helpful to those customers that haven't leveraged that in the past, but no impact this quarter and it will be a small impact I think in Q4.
+Rod Hall
+Okay. Thank you.
+Kelly Kramer
+Yeah.
+Marilyn Mora
+Great. Next question please.
+Operator
+Thank you. Sami Badri from Credit Suisse. You may go ahead, sir.
+Sami Badri
+Hi, thank you very much. I know you stated that routing was both down for SP and enterprise, but you also mentioned solid progress with webscale customers for two consecutive quarters and given some of the big shifts you have made to work from home and also given the fact that you launched new products in just December of 2019.
+How has the products like the Series 8000 performed during the entire shift? Are you seeing things accelerate or adoption of the product accelerate or has adoption has been a bit slower than your expectations and maybe just a general update on the product?
+Chuck Robbins
+Yeah, thanks. I guess the good news is the success we've seen in the webscale space the last two quarters hasn't even seen the impact of the 8000 yet. So it's in trials in lots of customers still - they have very extended evaluation periods before they deploy. But I will tell you, it's doing incredibly well in those trials. We're very optimistic about what the teams have built. We feel good about it.
+Our service provider business was up mid-single digits and orders in the Americas in Q3 which indicates obviously the capacity buildouts that some of them we're seeing as well as that webscale business.
+So we'll see how it goes, but right now we're very optimistic and feel good about where we are with our platform. And there are more versions of that platform coming. We've just announced the first couple of members of the family.
+Sami Badri
+Great. Thanks very much.
+Marilyn Mora
+Thanks, Chuck. Next question please.
+Operator
+Thank you. Samik Chatterjee from JPMorgan. You may go ahead.
+Joe Cardoso
+Hi, this is Joe Cardoso on for Samik Chatterjee. I just wanted to get your thoughts around some of your key initiatives given the macro backdrop, specifically as you look at cloud, Wi-Fi 6 or 400 gig? Are you seeing any acceleration of demand or vice versa a push out there versus your expectations 90 days ago given the change in environment? Thanks.
+Chuck Robbins
+So I think what we see happening with 5G is a little bit mixed, but generally there is a tendency for our customers to want to sort of put their foot on the accelerator. I think you heard some of our customers that are looking for permits and with regional governments around the United States and other places that they are not sure they're going to be able to get that done during this pandemic. You got other customers who are saying that they actually are not having a problem.
+But it's - so we think generally there is going to be an acceleration, particularly as our service provider customers also realize that some element of this work from home scenario will not go away.
+And so we're going to be continuing in the future to work in these very hybrid worlds where we're going to have even a much broader distribution of where their users will be working from and I think that's the reason that they want to continue to accelerate the deployments and the strategies around 5G.
+I'd say in Wi-Fi 6, I don't see any big significant shift. I'd say on the cloud, I've had mixed feedback from customers. I think that in general, it's probably a tailwind to cloud, but there are some customers that believe they have a cloud strategy and this doesn't - they don't understand why this would change how they go about it.
+So - but it will, as it relates to our strategy. We are going to continue to accelerate those technologies that help our customers use the cloud more effectively. We are going to - as our customers, some of our customers are going to need OpEx offers in the future given CapEx restraints. So we're working on a balance of our portfolio to be delivered in both op CapEx models to give customers the flexibility that they need.
+And we're definitely going to continue to accelerate the development and work around our security portfolio as it relates to remote work and cloud connectivity because we think that's only going to accelerate as well.
+Marilyn Mora
+Next question please.
+Operator
+Thank you. Meta Marshall from Morgan Stanley. You may go ahead.
+Meta Marshall
+Great, thanks. You know, understanding the end of March and beginning of April were largely work from home or business continuity focus with customers. But as we get into kind of this new normal, do you feel like customers have had an initial sense of what revised budget outlooks are looking like for 2020 or are customers still relatively uncertain that you're talking to.
+Chuck Robbins
+It's a very good question. I think we went through a surge for a few weeks where customers were solely focused on business continuity and getting themselves prepared for this work from home environment and then I think they took a breath for a couple of weeks and then they stepped back and I could even see it in how we worked as a company.
+We were solely focused on the immediate virus response getting our teams up and running, getting our customers up and running, making sure we had investments in the community and all those things. And then frankly, we took a breather and now even my calendar and the things that we're focused on are much more sort of the traditional business issues and how we move forward.
+And I think our customers are in the same mode. I think again they dealt with business continuity. They took a few weeks to figure out okay, based on this, how do I re-prioritize the projects that I have - that I had planned for the rest of the year and I think every customer is at a different phase right now on how they're deploying it and it's going to be very industry-specific as to who moves forward.
+I'll give you a few examples. Obviously, we're working very closely with higher education because you see in the news the discussion around whether students will be on campus in the fall.
+As one of the heads of one of the biggest systems in the United States told me, they used anything and everything they could to get students online back in March and now they need to go step back and actually build the real robust long-term architecture that they need and we're working with them to do that.
+I think healthcare is one that they're going to make investments. I think telehealth is here finally and I think that's going to change forever and I think that those - that industry will continue to work and build out a more robust architecture to support telehealth as opposed to what we put together as quickly as we could with them over the last few months.
+You got the hospitality, the leisure, the travel that are going to struggle, which is one of the big reasons we wanted to make sure we got our financing program out there candidly is if they need to make investments during this time, we want to help them do that. Not only is it the right thing to do, but they remember afterwards that we were partners to them during their tough time and I think you see financial services moving ahead. So it's going to vary greatly by industry. But I think we're going to have better visibility in the next 60 days or so.
+Meta Marshall
+Great, thank you.
+Marilyn Mora
+Next question please.
+Operator
+Thank you. Tal Liani from Bank of America. You may go ahead, sir.
+Tal Liani
+Hi, guys. Services was one of the only areas that grew both sequentially and year-over-year and the question is, why don't we see the impact of, first of all, what are the drivers for that and why don't we see the impact of COVID-19. We're hearing from others that customers are less willing because of the uncertainty to sign on contracts that are longer than one year. So they see the parallel decline in services and just - I would like to get an update on this space and how long does it take it to follow the trends in Infrastructure Platforms and the other products?
+Kelly Kramer
+Hi, Tal. That's a good question. So I would say, yeah, we had another strong quarter in Q3 and again, it has been driven by like their solution support and their software support. That continues to be a big driver of it.
+But your point is - of what you're hearing from other companies is absolutely true and what's happening to us, I would say that I expect pressure in my guide for Q4. I have some pressure to services there and where we're seeing it is on things that are like in our advanced services, our proactive services, consulting kind of things, those things that are either discretionary or you only make progress when you're actually in the enterprises, those are seeing pressure that I think will see translate like hitting milestones or doing projects.
+And then in terms of the maintenance, there is a lag usually on infrastructure maintenance. When the orders drag, it’s usually a lag for a while. So we'll start to feel maybe a little bit of that in the upcoming quarters. But overall, that's a very solid business and we've gone through cycles like this before and we always come out pretty strong on that, but I think your point is a fair point.
+Tal Liani
+Thank you.
+Marilyn Mora
+Right, thanks Tal. Next question.
+Operator
+Thank you. Next question comes from Amit Daryanani from Evercore. You may go ahead, sir.
+Amit Daryanani
+Thanks a lot for taking my question guys. I guess a fairly common question I get on you guys is how does Cisco stack up this time versus the past recessions like '08, '09 for example. So it would be really helpful to maybe get your perspective on how do you think Cisco handles and performance through this cycle versus past one and really to get to the bottom of how is Cisco different and perhaps better positioned to manage this correction versus the past one would be helpful.
+Chuck Robbins
+I think that we're better positioned for sure and you would expect me to say that, but I do believe it. I think that we've spent the last few years driving a significant refresh across our enterprise portfolio, across our service provider offerings, our 5G packet core capabilities. Our security portfolio is robust.
+We spent the last two years rebuilding and modernizing the Webex architecture as well as unifying the user interface. We've now gone through two months of building out capacity on a global basis. Webex was the largest platform in the world in February and now, it's three times what it was then. So we've built that out.
+And I think that if you look at the software content in our product portfolio and the percentage of our revenue that, that represents and the percentage of that, that's coming from subscriptions and SaaS versus where we were in 2008, I think all of those things just position us more effectively than perhaps we would have been back then.
+So I feel good about where we are and I think that our balance sheet is strong. Obviously, our ability to navigate this financially is strong. So I feel good and I wasn't running the company in 2008 clearly, but I was here and it just feels like we're fortunate that we've spent the last few years doing complete refreshes on almost all of our technology. So we have very relevant new offers for our customers right now.
+Marilyn Mora
+Right. Next question please.
+Operator
+Thank you. Jim Suva from Citigroup Investment. You may go ahead, sir.
+Jim Suva
+Thank you. Can you talk a little bit about enterprise, the orders, the trends, maybe the monthly cadence and importantly the color or commentary you have as enterprises are working from home with their employees, keeping their networks up and running, potentially delaying things, how does that kind of look as you go forward because it seems like it's a typical request for proposals might be a little bit different discussions now.
+What I mean is, say for example, does this help the incumbency of Cisco a little more, does it give you more visibility to hey, Chuck, when things return back to normal in three or six months or at some point, hey, do we have a buildup of more visibility than what we currently have. If you could just help us with the enterprise some commentary, that'd be great.
+Chuck Robbins
+Yeah. Thanks, Jim. I will tell you this, the number of emails that I've gotten from my peers from virtually every industry about what our teams did to help them, many of them saying we had to get 150,000 people up and running remotely over VPN and you guys helped us do that overnight and for that we're gracious or around Webex and how they couldn't be running their business right now if it wasn't for Webex.
+And I mean, so we hosted an advisory board call with about 50 of our strategic customers around the world last week or the week before, I can't remember exactly when it was at this point and they spent like the majority of the first third of the call just going through stories of gratitude around what our teams have done.
+And I tell you that because I think what's happened is, to your point, Jim, I think there is a tendency during these times, you want to work with companies that you believe are strong, are solid and are great partners and are going to do whatever it takes to make you successful during these times and I think that's what our customers believe we do.
+I think, again as I said earlier, you're going to have some customers right now that are going to look at their infrastructure, the CEOs are looking at it and saying, I will never be this unprepared for something like this again and if there is a wave two coming in the fall, many of them may say we need to work on a lot of this right now. I don't know that yet, but we think there could be.
+I talked earlier about what we see in certain industries where there will be investments like higher ed. Right now, frankly there is K-12 contingency plans being made, even though I know most K-12 institutions would much rather be teaching those kids in schools for obvious reasons, but it's also not a definite that they'll be going back into the classroom in the fall. So that's happening.
+The pharmaceuticals and the drug manufacturers are working to beef up their infrastructure for all the research, building up their cyber infrastructure for obvious reasons. So there is a lot of things that are going really well, but then again you have industries that are at the heart of this crisis who I wouldn't expect to make significant investments until we get to the other side.
+Jim Suva
+Thank you so much for the details. It's greatly appreciated.
+Chuck Robbins
+Thanks, Jim.
+Marilyn Mora
+Thanks, Jim. Next question please.
+Operator
+Thank you. Pierre Ferragu from New Street Research. You may go ahead, sir.
+Pierre Ferragu
+Thank you for taking my question. Chuck, I'd like to come back to you, just the very last comments you made, you said some industries are getting hit very hard now and it's going to be tough for them to make investments before we get on the other side of the crisis.
+And so what I'm trying to figure out is how much of the economy is already in a situation of feeling the pain, cutting IT budgets and how much of the economy is not there yet and actually at risk of getting into that stage, maybe in three months or even in six months from now because as you say though that these enterprises are like maintaining continuity are actually more into a mode of making the right spending to keep the business running. But maybe in three months to six months, they're going to actually start getting the more of a macro pains, the recessionary environment hurting their business as well.
+And so my question is really how much are we into that already. What percentage of the economy has been hurt and what percentage could be helped further down the line?
+Chuck Robbins
+Yeah, Pierre. It's a very good question. I'm going to give you just my pure instinct on this. I think that any customer who potentially could be at risk in three months to six months is already pausing. I don't think that anybody is going to be aggressive right now because any of us can see if we have liquidity issues, we have solvency issues, we have anything that is three months to six months away, my peers, we're all planning, we're working on that right now. No one is waiting.
+So I think most of the impact that you will see in the next six months or nine months, I think those customers are impacted. Let me say it that way. They know they are impacted.
+I will tell you, from our perspective, if you map the industries that we believe will continue to invest against our customer base, there is a good correlation that a lot of the industries that we believe will invest are already a large percentage of our customer makeup. So whether you look at public sector, service providers, financial services, higher education, I mean these are all big pieces of business for us and we think that all those and others will also continue to invest.
+So it's mix, but to answer your specific question, I think anyone who is going to be in trouble three months to six months from now is already pausing and has already been impacted.
+Pierre Ferragu
+That's great. Very clear answer. Thanks for that.
+Marilyn Mora
+Thanks, Pierre. We have time for one more question.
+Operator
+Thank you. Tim Long from Barclays. You may go ahead, sir.
+Tim Long
+Thank you for squeezing me in. Chuck, wanted to ask about competition, kind of a twofold question here. Number one, if you think about some of the pieces of your business where some competitors have been trying to take share, enterprise networking comes to mind where several companies are focused on gaining share there.
+What do you think this major pandemic disruption does to others ability to maybe disrupt the high market share that you have? And then conversely if you think about some of the markets where Cisco has a real opportunity to gain share, it sounds like cloud would be one of those, you guys are doing well. But do you think there is any of the markets where you are poised to take some share that are impacted either positively or negatively? Thank you.
+Chuck Robbins
+Yeah, it's a great question. I think you even heard from some of our competitors on their earnings calls where they had planned on entering markets and they've acknowledged that it is going to be more difficult to do that during this time in areas where we have good market share.
+And again I'll remind you that in those areas, like in the campus, we have probably the most robust portfolio we've had in a decade. So we're very - in very good shape with the portfolio. And I think again customers - they are in times like these, they want to go with people they trust and know and I think that will work in our favor.
+But on the - in the areas to your point where we can take share, I think certainly the webscale play that we've been running for the last 4, 4.5 years I think is one area over the next year.
+I think in the service provider space with the 8000s and recapturing some routing share because of those portfolios and both of those sets of customers, they will continue doing the evaluations and the new deployments, because they have to because they have just requirements that are increasing on a daily basis.
+And I think that in the carrier space with 5G and the access networks, the backhaul networks, the core networks with the 8000 and some of our other technology we've come out with, I think we can take share there as well. So, I feel good about where we are and the things that we are in control of right now, I think we're in a pretty good position.
+Tim Long
+Okay. Thank you, sir.
+Marilyn Mora
+All right. Thanks, Tim and that was the last question of our call.
+Chuck Robbins
+Yeah. So let me just close quickly by, first of all, thanking all of you for being with us and just telling you all that we hope that you're safe and your family is safe and you continue to be safe. I also want to just reiterate our gratitude for the front line workers and these are the healthcare workers, the first responders, some of our colleagues locally who are in the homeless camps, helping try to stem the tide of this pandemic flowing through those kinds of environments. Those people who live paycheck to paycheck who are struggling right now, our thoughts and prayers are with everybody and our gratitude is especially with those who are on the front lines. We look forward to getting to the other side of this and we look forward to doing our part in helping our customers and helping society actually thrive as much as possible during this very difficult time. So thanks for being with us today on our call.
+Marilyn Mora
+Thanks, Chuck. Cisco's next quarterly earnings call, which will reflect our Q4 2020 and annual results will be on Wednesday, August 12th at 1:30 PM Pacific Time, 4:30 PM Eastern Time. Again, I'd like to remind the audience that in light of Regulation FD, Cisco's policy is not to comment on its financial guidance during the quarter, unless it is done through an explicit public disclosure. We now plan to close the call. If you have any further questions, feel free to contact the Cisco Investor Relations Group and we thank you very much for joining today's call.
+Operator
+Thank you for participating on today's conference call. If you would like to listen to the call in its entirety, you may call 800-391-9847 and for participants dialing from outside the U.S., please dial 402-220-3093. This concludes today's call. You may disconnect at this time.
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+7 Authors in the Last 90 Days

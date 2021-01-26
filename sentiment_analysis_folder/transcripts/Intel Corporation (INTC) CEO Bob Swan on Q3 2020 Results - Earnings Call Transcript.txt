@@ -1,0 +1,262 @@
+Intel Corporation (NASDAQ:INTC) Q3 2020 Earnings Conference Call October 22, 2020  5:00 PM ET
+Company Participants
+Trey Campbell - Director, Investor Relations
+Bob Swan - Chief Executive Officer
+George Davis - Chief Financial Officer
+Conference Call Participants
+Timothy Arcuri - UBS
+Harlan Sur - JPMorgan
+Blayne Curtis - Barclays
+John Pitzer - Crédit Suisse
+Joe Moore - Morgan Stanley
+Tristan Gerra - Baird
+Pierre Ferragu - New Street Research
+Chris Danely - Citi
+Operator
+Ladies and gentlemen, thank you for standing by and welcome to the Q3 2020 Intel Corporation Earnings Conference. At this time, all participants are in a listen-only mode. After the speaker presentation, there will be a question-and-answer session. [Operator Instructions] Please be advised that today's conference is being recorded. [Operator Instructions]
+I would now like to hand the conference over to your host Director of Investor Relations, Trey Campbell. Sir, please go ahead. 
+Trey Campbell
+Thank you operator and welcome everyone to Intel's third quarter earnings conference call. By now, you should have received a copy of our earnings release and the earnings presentation. If you've not received both documents, they're available on our investor website intc.com. The earnings presentation is also available in the webcast window for those joining us online. I'm joined today by our CEO, Bob Swan; and our CFO, George Davis. In a moment, we'll hear brief remarks from both of them followed by Q&A.
+Before we begin, let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it and as such does include risks and uncertainties.
+Please refer to our press release for more information on the specific risk factors that could cause actual results to differ materially. A brief reminder that this quarter we have provided both GAAP and non-GAAP financial measures. Today, we will be speaking to the non-GAAP financial measures when describing our consolidated results. The earnings presentation and earnings release available on intc.com include the full GAAP and non-GAAP reconciliations.
+With that, let me hand it over to Bob.
+Bob Swan
+Thanks Trey and thank you all for joining our call. We delivered solid third quarter revenue and profitability despite increasing COVID-driven headwinds affecting significant portions of our business. Led by strong consumer notebook demand and continued cloud growth, we generated $18.3 billion in revenue and delivered $1.11 in EPS.
+We exceeded our topline expectation by $133 million and our bottom-line expectation by $0.01. I'm incredibly proud of our employees' performance through these challenging conditions. Our team has shown tremendous perseverance and has really come together as one Intel to deliver for our customers.
+Over the last couple of years, we have been focused on three critical priorities; improving our execution to strengthen our core business, extending our reach to accelerate the growth of the company, and continuing to thoughtfully deploy your capital.
+Let me discuss our third quarter progress. First, improving our execution to strengthen our core business. This quarter we launched our 11th Gen Intel Core processors with Intel Iris Xe graphics, codename Tiger Lake. This is the world's best processor for thin and light notebooks.
+In real-world workloads versus competitive products, Tiger Lake delivers up to 2.7 times faster content creation, 20% faster office productivity, and more than 2x faster gaming plus streaming.
+I'm excited to announce that we now expect 100 Tiger Lake-based designs in the market by the end of this year, double the expectation we provided in April. Tiger Lake is a shining example of the product leadership we can deliver for our customers through our six pillars of technology innovation; breakthrough architectural improvements in CPU, graphics, AI, and software combined with our newest 10-nanometer-based technology, SuperFin, which delivers the largest single inter-node performance improvement in our history.
+Accompanying the Tiger Lake launch, we also updated our master brand and debuted a new platform brand Evo. Based on 11th Gen Core, Evo designs support the sleekest thin and light form factors with premium connectivity, audio, and video. Each Evo notebook is verified to deliver consistent responsiveness, outstanding real-world battery life, instant wake, and fast charging. We expect our customers to have 40 Evo designs in market by the end of the year.
+Turning to our data center business, we and our customers are excited about the upcoming launch of our 3rd Gen Xeon Scalable product, Ice Lake. We're targeting qualification at the end of Q4 with volume ramp shortly after in Q1.
+Recently, Oracle announced that they plan to leverage the computing performance of Ice Lake for the next generation of cloud-based high-performance computing instances within Oracle cloud infrastructure. The combination of 3rd Gen Intel Xeon Scalable processors with other improvements in Oracle's new X9 generation instance can drive up to 30% higher performance gains on certain workloads compared with the existing X7 generation instances.
+CPUs are foundational to our business, but we are also adding a range of other processing engines or XPUs to our portfolio. We've made great strides in graphics and we are now scaling our graphics architecture from integrated to discrete levels of performance.
+Our first discrete GPU DG1 is shipping now and will be in systems for multiple OEMs later in Q4. We also powered on our next-generation GPU for client DG2. Based on our Xe high-performance gaming architecture, this product will take our discrete graphics capability up the stack into the enthusiast segment. Beyond the CPU and the GPU, our customers tell us that they want a diverse range of AI solutions to fit every power level and performance needs from the intelligent edge to the data center.
+For the most demanding AI workloads, our customers are looking for purpose-built XPUs that leverage a standard-based programming environment. With that in mind, we acquired Habana Labs almost a year ago. We've integrated Habana with our platform capabilities and added software resources, so that we can deliver game-changing capability to the performance tier of the data center market. Habana's inference card is now in volume production and shipping to customers. And we're also in proof of concepts with several major cloud service providers on Habana's training card.
+In addition to our architectural advancements and process improvements with SuperFin, we've also advanced our packaging technologies. Several weeks ago the U.S. Department of Defense awarded us the second phase of its state-of-the-art heterogeneous integration prototype program or SHIPP. The SHIPP program enables the U.S. government to access Intel's state-of-the-art semiconductor packaging capabilities in Arizona and Oregon and take advantage of capabilities created by Intel's tens of billions of dollars of annual R&D and manufacturing investments. 
+Software is another essential pillar for product leadership which is why we have more than 15,000 software engineers working across the stack from BIOS to application optimization. As an example, we have dedicated software experts who optimize key workloads using our hardware capabilities. Through these efforts we have increased the performance of top data center workloads such as the NAMD molecular dynamic simulation code used in the fight against COVID-19 by 1.8 times via AVX512 and natural language processing using the BERT model by 6.8 times via a range of software optimizations.
+Additionally, we have been working closely with the ecosystem on the open standard oneAPI effort as part of the XPU transformation. With oneAPI we are creating an open unified software architecture that can support the variety of XPUs that our customers demand. We've made tremendous progress with developers and released spec 1.0 of oneAPI in the third quarter and on track to have the gold release of oneAPI software in the fourth quarter this year.
+Second, we're focused on extending our reach to accelerate our growth. We are actively executing against a diversified growth strategy and now have several multibillion-dollar businesses fueled by data and the rise of artificial intelligence 5G network transformation and the intelligent autonomous edge.
+We built these businesses by positioning the company to grow share in the largest market opportunity in our history, in a world where everything increasingly looks like a computer. Our ambitions are much greater. And to realize them we must play a larger role in our customers' success. Here are some recent examples. We created OpenVINO in 2018 so that developers could quickly accelerate applications with deep learning inference and solutions deployed from edge to cloud. In the third quarter our OpenVINO download rate was more than double our peak last year and we've now seen our OpenVINO-related edge design wins scale more than five times in the first half of this year versus the same time last year. And we're only beginning to realize the opportunities created by 5G.
+As communication service providers evolve their networks to support the rollout of future 5G networks, they are increasingly adopting a software-defined virtualized infrastructure. This quarter, Verizon successfully completed the world's first fully virtualized end-to-end 5G data session, leveraging Intel's vast portfolio of products including Xeon, FPGAs, ethernet cards and Flex-Ran software reference architecture and our years of experience in virtualization.
+We continue to see excellent customer momentum in our Mobileye business. Year-to-date we now have 29 new design wins for more than 26 million lifetime units. Following last quarter's landmark design win with Ford we announced collaborations with Geelys, AHG and WILLER. Geely Automotive Group the largest privately held auto manufacturer in China unveiled its new electric vehicle featuring Mobileye's SuperVision surround view for hands-free ADAS solution starting in late 2021.
+We expanded our Mobility-as-a-Service collaborations network with two important partnerships. The first is with Al Habtoor Group from the UAE; second with WILLER Japan to propel the deployment of autonomous vehicles and Mobility-as-a-Service. Mobileye is also first of our IOTG businesses to return to pre-COVID levels as global vehicle production improved in the third quarter.
+Finally we're always mindful of our role in thoughtfully allocating your capital. This week we signed an agreement to sell SK hynix our NAND memory business for $9 billion. We believe this is a fantastic win-win transaction that allows us to focus our energy and investment in differentiated technologies, where we can play a bigger role in the success of our customers and deliver attractive returns to our shareholders.
+At the same time, SK hynix can build on the success of our NAND technology at a greater scale and grow the memory ecosystem to the benefit of our data center customers, partners and employees. We are retaining our Optane technology and intend to continue investing, developing and scaling the Optane business.
+We've also significantly improved supply for our customers. We've expanded our capacity by more than 25% in 2020 and currently have three high-volume fabs producing 10-nanometer products to meet our customer demands. Earlier this quarter, we also entered into accelerated share repurchase agreements to repurchase $10 billion in stock.
+Following this repurchase we will have completed approximately $17.6 billion of the $20 billion repurchase commitment we made in October of 2019. We have a very strong balance sheet. And even as macroeconomic uncertainty persists, we are confident in our long-term strategy and the value we create as we grow our business.
+Finally, let me share a few thoughts about the guiding principles we use to deliver the most value for our customers. Our overarching and most important priority is to deliver a predictable cadence of leadership products. A few years ago we decided that an architectural shift to die disaggregation enabled by our differentiated advanced packaging would be a potent tool for employing the best technologies that we and the ecosystem can provide.
+We also realized that delivering on that promise meant engaging the ecosystem in a different way: treating the equipment and EDA providers and third-party foundries not as suppliers but as strategic partners that we can learn from and that can help us solve customer problems.
+Now we have more flexibility in whether we make or buy or whether we make for others. Many of our future products can no longer be described as manufactured inside or outside or as being a large core or a small core product. These products will take advantage of hybrid architectural approaches and the universe of IP deployed both inside and outside the walls of Intel.
+That said, we have and do get great benefits from internal manufacturing. We call it our IDM advantage, because it provides us attractive economics, co-optimization of design and process technology development and supply assurance. So as we engage the ecosystem more broadly, we want to preserve some of the advantages of IDM like schedule, performance and supply, as we work with our strategic partners.
+Finally, I want to reiterate our intention to continue investing in leading process technology development to bring future process nodes and advanced packaging capabilities to market. This is a powerful force in creating future differentiation for our products and provides tremendous option value for our business.
+As I look to the next several years of products, I am excited about the products we have coming. We are now sampling our 2021 client CPU Alder Lake, and we'll be sampling our 2021 data center CPU, Sapphire Rapids later in the fourth quarter. Both will deliver significant capabilities enabled by our six pillars of innovation including our enhanced SuperFin technology.
+We have another great lineup of products in 2022 and I'm increasingly confident in the leadership our 2023 products will deliver on either Intel 7-nanometer or external foundry processes or a combination of both.
+I look forward to providing further update in the January call.
+George Davis
+Thanks, Bob. And good afternoon, everyone. Despite intensifying COVID-related demand impacts, particularly in our data center, enterprise and government segment, we exceeded our revenue and EPS guidance, achieved record notebook sales and saw continued growth in our cloud and comm service provider, data center segments.
+Revenue came in at $18.3 billion, down 4% year-over-year and approximately $100 million higher than guide. Data-centric revenue was $8.5 billion, down 10% year-over-year on COVID-related weakness in the DCG, enterprise and government segment in IOTG and NSG.
+PC-centric revenue was $9.8 billion, up 1% year-over-year on strong notebook PC demand in consumer and education segments and on increased supply. Gross margin for the quarter was 55%, two points below expectations due to lower data center ASPs, driven by mix shift from enterprise and government to cloud and lower PC client ASPs on increased demand for consumer and education PCs.
+Operating margin was 29%, down one point versus our expectations. Q3 EPS was $1.11 slightly better than our guide, as lower spending and the impact of our accelerated share repurchase more than offset lower client and data center ASPs.
+In Q3, we generated $8.2 billion in operating cash flow and invested $3.7 billion in CapEx resulting in $4.5 billion of free cash flow. We paid $1.4 billion to shareholders in dividends and initiated an accelerated share repurchase program for an aggregate of $10 billion of common stock.
+Following settlement of these agreements by the end of 2020, we'll have repurchased a total of approximately $17.6 billion in shares as part of the planned $20 billion share repurchase program announced in October 2019. We intend to complete the $2.4 billion balance and return to historical capital return practices when markets stabilize. Year-to-date operating cash flow is $25.5 billion, up 10% year-over-year; and year-to-date free cash flow is $15.1 billion, up 29% year-over-year.
+Let's move to segment performance in Q3. Against the challenging compare Data Center Group revenue of $5.9 billion was down 7% from the prior year. COVID-driven headwinds significantly impacted our enterprise and government segment, which was down 47% year-over-year following two consecutive quarters of more than 30% growth.
+Our cloud and comm service provider segments were up year-over-year 15% and 4% respectively. DCG adjacencies grew 34% as strong adoption of 5G network solutions continued. Platform units were up 4% and ASPs were down 15% on higher networking SoC volume and weaker enterprise and government volume.
+Operating margin was 32% down 17 points year-over-year on lower revenue, due to enterprise and government weakness and the ramp of 10-nanometer 5G base station SoCs and pre-PRQ reserves on our Ice Lake server product.
+Revenue in our other data-centric businesses was down 18% year-over-year, due to declines in our IOTG, NSG and PSG businesses. IOTG revenue and operating income declined 33% and 80% respectively on continued COVID-related demand weakness. Mobileye returned to profitability with revenue up 2% year-over-year and 60% sequentially as global vehicle production improved.
+NSG revenue was down 11% year-over-year on lower volume, partially offset by higher ASPs. Operating income was $29 million for the quarter, up $528 million year-over-year on improved ASPs and reduced unit costs.
+PSG revenue was down 19% year-over-year on weaker embedded and communications segment demand, partially offset by cloud segment growth of 43%. Operating income was down 57% on the lower revenue.
+CCG revenue was $9.8 billion up 1% year-over-year driven by strong consumer notebook demand, offset by lower desktop volumes and declines in the modem and home gateway businesses due to divestiture. PC unit volumes were up 11% year-over-year on record notebook volume enabled by significantly increased supply.
+ASPs were down 6% year-on-year due to increased volume in our consumer entry in education segment. As Bob mentioned Tiger Lake ramp is exceeding expectation with 100 design wins expected by end of year up from 50 forecasted in Q2.
+As supply increases and we see strong demand for our leadership products including Tiger Lake, we continue to expect to regain share through year-end. Operating margin was 36% down eight points year-on-year on higher unit cost associated with the ramp of 10-nanometer products.
+Moving now to our fourth quarter outlook, we see many of the same dynamics in Q4 that were in place in Q3. We see continued strength in consumer notebook PCs supported by work and learn-from-home dynamics and from increased supply. We also expect continued strong Mobileye growth as design win momentum continues and the automotive industry stabilizes.
+We expect continued demand weakness in IOTG and NSG as well as in the enterprise and government segment of DCG. Further, our guide assumes cloud segment demand moderates as key customers enter a digestion period following multiple quarters of above trend line growth. As a result, we expect total revenue of $17.4 billion with PC-centric down low single digits and data-centric down approximately 25% year-over-year.
+Gross margin is expected to be 55%, down five points year-over-year on the same operating environment we saw in Q3. Relative to our prior guide for Q4, we are expecting OpEx to be down modestly in the quarter and gains from our Intel capital portfolio to be up on the order of $0.08 per share. Q4 EPS is expected to be approximately $1.10 per share. Our non-GAAP tax rate in the quarter is expected to be 14.5%.
+In the fourth quarter, we announced the sale of our NAND business to SK Hynix. The sales consideration is $9 billion in two stages. The unique structure of this deal is strictly a factor of existing commitments within our long-term agreements with Micron. At the first close subject to regulatory approvals, we will receive $7 billion and transfer the assets of the factory and the Dalian facility overall. We will continue to operate the factory for SK Hynix until we can transfer the entirety of the business in 2025.
+We will begin accounting for the NAND business as held for sale effective this quarter for GAAP purposes. Non-GAAP reporting will be unchanged in Q4 and then NAND will be excluded from non-GAAP reporting effective Q1 2021. Under held for sale, depreciation is suspended from the announcement date forward. The benefit of this change will not be seen until existing inventory-carrying depreciation and cost of sales is sold through. So earliest benefit will be later in Q1 2021 or Q2 2021.
+Capital spending for the NAND business will be shown in assets held for sale and excluded from free cash flow. This will reduce our forecasted capital spend for 2020 by approximately $300 million and raise our free cash flow by a similar amount. We believe this sale is a true win-win as SK Hynix will commit the necessary investment to bring this business to scale and Intel will dispose of a non-strategic asset to focus on our core opportunities ahead.
+Let's move to the full year. Based on our Q4 guidance, we expect revenue of $75.3 billion and EPS of $4.90, $300 million and $0.05 higher respectively versus our July expectations. We expect our PC business to be up mid-single digits year-over-year against the TAM that is also up mid to high single digits year-over-year. We expect revenue from our data-centric businesses to be up mid single-digits year-over-year on strong cloud demand, NSG growth and increased 5G build-outs offset by COVID-related weakness in our IOTG business.
+Gross margin is expected to be 57% for the year down approximately one point versus July guidance on the mix dynamics we are seeing in both Q3 and Q4 and higher 10-nanometer volumes. Year-over-year gross margin is most heavily impacted by higher volumes of 10-nanometer products partially offset by higher NAND margins on ASPs and lower modem volumes from exit of that business.
+Spending for the year is expected to be approximately $19.1 billion down approximately $400 million year-over-year. Spending as a percentage of revenue is expected to be approximately 25% of revenue down two points year-on-year due to divestitures and improved operating leverage. The resulting operating margin is approximately 31.5% down 1.5 points year-over-year.
+Full year EPS of $4.90 is $0.05 above July expectations as higher equity gains, reduced spending and reduced share count are partially offset by lower COVID mix-related gross margins. We expect 2020 CapEx of approximately $14.2 billion to $14.5 billion and free cash flow of approximately $18 billion to $18.5 billion.
+To conclude, I'd like to join Bob in thanking our employees worldwide as they continue to deliver for our customers in a most challenging environment.
+And with that I'll hand it back to Bob for some additional thoughts before we go to your questions. Bob? 
+Bob Swan
+Thanks, George. Before we get to your questions just a little context on the year. 2020 has been the most challenging year in my career with a global pandemic geopolitical tensions challenging business principles of globalization and social unrest. Despite all this, we expect to deliver the best year in our storied 52-year history.
+We plan to grow revenue by $1.8 billion more than our January expectations even as COVID has significantly impacted our business mix. Full year gross margin will be down approximately two points versus our January expectation primarily driven by acceleration of 10-nanometer-based products and a change in mix of products in a work-from-home, study-from-home environment.
+We've maintained spending discipline even as we invest in our workforce communities and supply chain to combat COVID and the decision we made to sell our NAND business will drive one to two points of non-GAAP gross margin accretion next year.
+Finally, we are mindful of your capital and made decisions to increase shareholder value through our ASR and increase dividend and prudent management of our Intel capital portfolio. Nine months into 2020, we now expect to beat our January free cash flow guide by $1.5 billion to $2 billion.
+In closing, I want to thank all our employees who are working through difficult circumstances to deliver these financial commitments and support our customers.
+Trey Campbell
+All right. Thank you Bob. Moving on now to the Q&A. As is our normal practice, we would ask each participant to ask just one question. Operator, please go ahead and introduce our first caller.
+Question-and-Answer Session
+Operator
+Yes. Our first question comes from the line of Timothy Arcuri of UBS. Your line is open.
+Timothy Arcuri
+Thanks a lot. George, I guess I wanted to double quick on gross margin. It came in, obviously, below for Q3 and Q4 is about 400 basis points below what it was thought to be. So there's not much of a recovery in Q4. And I certainly understand the weaker enterprise and government and mix, but you were already pretty cautious on those segments and you already paid the price for the pre-quals on the Tiger Lake. So it sounds like that's at least on track. And Q4 revenue is about as you thought it would be three or so months ago if not a bit better.
+So I guess I'm just trying to understand how mix could account for this much lower gross margin. I guess, the point that investors are going to say is that this is competition and it's the beginning of a slippery slope. So I wonder if you can both talk about that. Thanks.
+George Davis
+Thanks Tim. I think in many ways you kind of summarized what took place in the third quarter. And really the fourth quarter is quite similar with a few changes I'll talk about. But for the two-point falloff in the third quarter, it really was a factor of -- it turned out to be a very different quarter than we thought going in, a much heavier mix of the entry-level PC markets both consumer and education. So you saw that in the ASPs even as we saw strong unit demand.
+In server, enterprise and government after two consecutive quarters of growing 30% dropped 47% year-over-year. And as you know that's -- from an ASP standpoint that's a very healthy market for us. And so if you take that into account and also the fact that we saw growth in our SoCs within the data center that actually pulls down ASPs as they have very different ASPs obviously than the server chips.
+So overall it was really a mix story. Yes competition -- we're seeing increased competition in the second half of the year, but not different levels of competition than we thought. We feel good about where we are on the year. So I would say it's really a mix story and a very different mix than we thought going in.
+Bob Swan
+Maybe just…
+George Davis
+Go ahead, go ahead.
+Bob Swan
+…to add I was just going to say that the one other dynamic and we -- this impacted us as we thought about the second half but it's been even more exacerbated now is the demand for our 10-nanometer products.
+We said that it was going to be -- it was up 20% in the second half from what we thought back in the beginning of the year. And now we're saying it's up north of 30% from what we thought. And that's a function of the Tiger Lake product that we launched in the third quarter, real strong demand, double the design wins that'll be on the shelf during the course of the fourth quarter and the ramping of three high volume manufacturing fabs to enable more and more supply. We're going to get more 10-nanometer product than we even anticipated 90 days ago. So that's just the one added feature that -- on top of George's commentary.
+George Davis
+Yes. And I would say in Q4, Tim you'll see more of the benefit of Tiger Lake as the volume there ramps further. So notebook will be a stronger contributor in Q4 than they were in Q3. And then as we said we think cloud digestion starts. So we expect that to fall off and put pressure on gross margins because we don't see E&G coming back. So stronger notebook better flow through and I think it's kind of a rent-and-repeat quarter in terms of the gross margin outlook. But it's a mix story and it's one where we think as mix normalizes that gets healthy -- gross margin gets healthier.
+Trey Campbell
+Thanks Tim. Operator?
+Operator
+Yes, sir. Our next question comes from the line of Harlan Sur of JPMorgan. Your question please.
+Harlan Sur
+Good afternoon. Thank you for taking my question. Another question on gross margin. So the positive 10-nanometer demand acceleration this year, obviously, good to see but it is having the impact of muting your gross margins. You're still coming off the learning curve. But this should be a tailwind to gross margins in 2021 as more of the volume is going to be on 10, you're getting through the early yield learning and higher cost profile this year. Is that how the team sees it? And if so, should we expect the team to recapture the 200 basis points of gross margin next year that you gave up this year because of the more aggressive 10-nanometer pull-forward?
+George Davis
+The way we look at it, we said, as 10-nanometer accelerated because -- as it's displacing 14-nanometer, there's a margin impact from that. So we think, even as we see cost initiatives that are improving the cost structure of 10-nanometer, the teams are working on the yield performance of 10-nanometer all that should show up as positive.
+The impact of 10-nanometer will still be felt in 2021, as we guided back in May of 2019. So ramping earlier has changed the mix a little bit in 2020 from what we thought. And that has put some pressure on. But 2021 right now, I wouldn't call it a tailwind. We've got other tailwinds, for gross margin in 2021.
+For instance our IOTG business was really hurt this year. We think that starts to come back and we get margin accretion there. Mobileye has already returned to year-over-year growth in the third quarter and as -- we see it accelerating further. We think E&G comes back.
+We kind of had the reverse of what you normally see in enterprise and government which is weak first half strong second half. And we saw a very strong first half and a weak second half. So we think normalization is good. We think cloud digestion will take some time but we expect cloud to be back acquiring in 2021.
+So -- and then on top of that, we have the modem exit. So as we sell fewer and fewer modems, that's actually margin accretive. And then of course, we announced the NAND exit which we think gives us about a one- to two-point tailwind on gross margins next year.
+Harlan Sur
+Great. Thank you.
+George Davis
+Next question, operator?
+Operator
+Thank you. Our next question comes from Blayne Curtis of Barclays. Your question please?
+Blayne Curtis
+Hey guys. Thanks for question. Maybe just drilling down on the gross margin. Just looking at the op margin in DCG 32%, I think that's the lowest ever. So maybe if you can just redo that answer, I guess just focusing on gross margins in data center, because that's an area that you haven't yet really ramped 10-nanometer. So I'm just kind of curious how to look at that business as that, layers in. And also you fold Optane in later.
+George Davis
+Yes, obviously, what we saw was lower revenue than we expected there with the falloff of E&G. And as you look at the ASP dynamics of that -- of such a steep drop-off a 47% year-over-year drop-off, that certainly has an impact on gross margin which flows right through to operating margin.
+On operating margin too, we've also added the Habana business into the spending profile. So you've seen some growth in spending as we're investing in the AI area. And then again overall we think as E&G comes back and cloud recovers. We should be seeing strong margin performance out of DCG.
+Bob Swan
+But as George mentioned earlier, the -- year-on-year you have a 15% ASP decline, but when you look at within the segments of the business cloud growth continued to be really strong. So on a year-to-date basis cloud is up mid-30%. So cloud performance relatively strong.
+Our comms business real strong volume growth, as the role we play at network and the edge becomes larger. Yet that strong unit volume growth is much lower ASPs than our kind of normal cloud and enterprise business. And then third, with the enterprise decline being so big where the ASPs have a tendency to be higher prices, the combination of that mix effect mix alone of the business drove the lion's share of the 15% ASP decline.
+So, mix dynamics that George flagged, but with strong cloud growth -- I think the reality of E&G is -- remember we were up 34%, through the first six months of the year. So when you take into account third quarter volume on a year-to-date basis the E&G business is flat in a fairly challenging macro environment.
+So all told, I think what we saw in the course of the second quarter going into the third quarter inventory levels in the channel were probably relatively high. They bled off quite a bit, in the third quarter. And therefore, year-to-date at being flat it's probably in line with where we were when we started the year, with a stronger first half a weaker second half.
+George Davis
+Yes. And another way to look at it Harlan is, we kind of had a year that was -- compared to our normal seasonality, we had our strong second half of the year and the first half very, very big prints on operating margin for DCG year-over-year. And what we're seeing is, as we forecasted a weaker second half and which looks a lot more like what we would normally see in the first half. 
+Blayne Curtis
+Thanks for the color.
+George Davis
+Thanks, Blayne. Next, operator?
+Operator
+Thank you. Our next question comes from the line of John Pitzer of Crédit Suisse. Please go ahead.
+John Pitzer
+Yes. Good afternoon, guys. Thanks for letting me ask question. Bob, I appreciate your comments around 7-nanometer and your ability to kind of want to maintain maximum flexibility around your 7-nanometer decisions. But there comes a point in time where your own lead time for capacity or a foundry's need for lead time for capacity forces the decision upon you guys.
+So I'm wondering if you could just help us understand the window close to when you have to make a decision on 7 and if you could help us understand kind of the scenarios we should be thinking through. Is this as much as an all or nothing? Or are we talking percentages here? And how should we think about that?
+Bob Swan
+Yes. Thanks, John. I mean, first we have a very strong product lineup for 2020, 2021 and 2022 for client, for server and for IoT. So we feel very good about what our lineup looks like over the next three years. And not just for the CPU, but for the GPU for AI and for FPGA. So the next three years we feel very good about the product lineup.
+So as we think about 2023 and beyond, we're looking at the products required at that time. And we're evaluating our process versus other third-party processes. And the fundamental criteria, as you could imagine, are at the macro level fairly simple: schedule and schedule predictability, product performance and economics with supply chain -- our ability to control the supply chain best we possibly can.
+So the criteria are relatively simple and we're evaluating each one of those kind of as we exit 2020 and really early 2021, because that's the time that we'll have to make the determination as to whether we're buying more 7-nanometer equipment or whether a third-party foundry would be adding that capacity. So we're going through this process really looking at our capabilities others' capabilities around those three fundamental criteria.
+I would say since the last time we spoke, our 7-nanometer process is doing very well. I mean, last time we spoke we had identified an excursion. We had root caused it. We thought we knew the fix. Now, we've deployed the fix and made wonderful progress. But nonetheless, we're still going to evaluate third-party foundry versus our foundry across those three criteria. And the call will be towards the end of this year early next year.
+On your last question John about, is it an all or nothing. No, I'd say, we look at server or client. We look at big core, small core. We look at some segments of the stack within the product line. So we're looking at a variety of different parameters in terms of the makeup of the business.
+And as I said in my prepared remarks, it's probably not an all or nothing; it's probably a mix in terms of the best path to ensure that we had a predictable cadence of leadership products for 2023 and 2024 like we believe we will have in 2020, 2021 and 2022. And we'll learn a lot more as we have in the last 90 days during the course of the next 90 days and I think, be in a pretty good position to lay out our decision in the January time frame.
+John Pitzer
+Thank you. Helpful color.
+Operator
+Thank you. Our next question comes from the line of Joe Moore of Morgan Stanley. Your line is open.
+Joe Moore
+Great. Thank you. I wonder if you could talk a little bit about the server road map. And in particular, you've talked about Ice Lake being kind of more volume early part of next year and Sapphire Rapids also next year. It seems like a pretty quick transition to what seems like a pretty important Sapphire Rapids launch. Can you just talk about how that's going to play out with those two being so close together? 
+Bob Swan
+Well, I mean, I think, Joe, it's been a fairly consistent road map over the course of the last 18 months or so with Cascade Lake now Ice Lake end of year, beginning to ramp early next year a very -- in our mind a very attractive and enhanced feature set for Sapphire Rapids at the end of the year, kind of, four quarters later which is kind of the road map that we've laid out for our customers over the course of the last 18 months.
+And I think people are pretty excited about getting Ice Lake out and equally excited about the enhanced feature set of Sapphire Rapids at the end of the year. So as long as we got it fairly laid out predictable, so our customers can plan effectively, we want to be able to continue to do that cadence of leadership products kind of in sequence in a 4 maybe 5 quarter kind of timeframe. And this is not dramatically different than how we've approached it in the past. 
+Joe Moore
+Okay. So just to make sure I understand so Sapphire Rapids will be sort of more volume in kind of early 2022? Or is it -- am I trying to cut it too finely there? 
+Bob Swan
+You're doing a little too fine cutting it.
+Joe Moore
+Okay. Thank you so much.
+Bob Swan
+Thanks a lot.
+Operator
+Thank you. Our next question comes from the line of Tristan Gerra of Baird. Your line is open.
+Tristan Gerra
+Hi, good afternoon. Under a scenario where TSMC starts building leading node processes for you and I understand you haven't - you still have to reevaluate all of this over the next 90 days, can you explain how easy it is to transition from TSMC back to your internal manufacturing? How comfortable that is? And would that be for existing type of architecture or more like chiplet type of architectures? 
+Bob Swan
+Yes. It's a good question. I mean I gave kind of the criteria around should we under what circumstances go out more of schedule predictability performance and of economics if you will the bookend on that -- on those three criteria really around one, the ease of portability of our technologies to go out. And I would say, we feel very confident in the ability of us being able to port to TSMC.
+And the other bookend is in the event that we go out what's the ease in which we can port back if we conclude that's the best alternative for either core products or chiplets. I would just say that we feel increasingly confident that yes in fact, if we conclude going out makes sense that we can. And also that in the event we want to port back in, we can as well. And that's -- those are general observations around the bookend questions.
+And then there's a bit of complexity based on the nature of the product whether it's more big core versus more synthesizable cores. So we can go out we can come back in and we're in the process of evaluating that should we and under what circumstances. 
+Tristan Gerra
+Great. Thank you very much.
+Bob Swan
+Thanks.
+Operator
+Thank you. Our next question comes from the line of Pierre Ferragu of New Street Research. Your question please.
+George Davis
+Pierre, please make sure your line unmuted. Using the speaker phone, lift the handset.
+Pierre Ferragu
+Can you hear me well? 
+George Davis
+We can now. 
+Pierre Ferragu
+Okay. That's great. So yes, I'd like to go back to the PC market and the comments you've made on market share. So it looks like you're gaining -- regaining market share in the lower end of the market in the notebook market. How are things in the higher end of the market like for the gaming community? How did things play out in Q3? And how do you see them playing out over the next year? 
+Bob Swan
+Yes. So I'll start. George you can pile on. I mean first, we're up 9% unit volume year-to-date 11% unit volume in the third quarter with a TAM that's probably up in the high single digits at this stage. So when we came into the year, we want to number one, increase our capacity which we have in fact done.
+Number two, launch some very good products; and then number three, with that incremental capacity and improved product roadmap to begin to recapture share. And I would say that we feel -- we don't exactly know how Q3 TAM is going to be, but I think on a year-to-date basis we feel like we've gained back some market share primarily by protecting the higher end and recapturing the small core.
+And I think those have all been a little bit exacerbated by a market that is much stronger than we anticipated, number one. And then as George flagged this massive mix shift that happened really in the third quarter and we expect to continue in the fourth quarter to more mobile notebook products where we think we've got a wonderful product offering.
+So in the aggregate we're looking at a TAM in the high -- mid to high single-digit growth for the year. Our volume through nine months is 9%. We got really good ramp of our 10-nanometer product in the holiday and we think we've got a nice supply chain kind of up and down the stack as we go into the holiday season. 
+George Davis
+Yes. And we said in the first half of the year, we had seen share in the entry markets. We just didn't have the capacity to serve both the higher end PC markets and the entry level. We're seeing -- we expected some mix shift clearly not at the level that we saw in Q3 and Q4. So we're getting the opportunity to recover share in this space. And quite frankly, we could have sold -- if we -- everything we could have produced on top of what we produce we could have sold in Q3 and we're seeing super strong demand coming into Q4 as we're ramping more capacity. So we feel very good about starting to recover and grow that share in the second half that we -- where we were down in the first half in the entry market. 
+Pierre Ferragu
+Thank you.
+George Davis 
+Thank you, Pierre.
+Operator
+Thank you. Our next question comes from Chris Danely of Citi. Your line is open.
+Chris Danely
+Hi. Thanks, guys. Actually just a clarification first and then a longer-term question on gross margin. So when you talked about the reasons for the pressure on gross margin as far as mix goes I just want to make sure that there's no I guess aggressive pricing on your part or no pricing pressure from the competition? 
+And then my longer-term question is, it seems like some of these headwinds on pricing such as mix and more comm revenue are not going away. So do you think longer-term, we should look at your gross margins as maybe being the range being a little bit lower than what you've indicated previously? Or is that going to be offset by the NAND situation? Maybe just a little clarification there. 
+George Davis 
+Sure. Maybe I'll start and Bob may want to throw in some things. So, on the pricing headwinds it's largely mix. Again, we're seeing the competitive environment that we expected to see. It's not to say that there isn't some pricing effect from competition, but the change is really dominated by the mix change. And in terms of long-term implications, I think we're in a very unusual circumstance. So just the dynamics of our year, kind of a 55-45 year and the radically different mix that we saw. And both of those were really responding to COVID related to demand dynamics. So I think I wouldn't draw too many long-term implications of this. I mean there's -- our focus is on having the most competitive profile in each of these segments. And we think we'll see a normalization to mix that probably is more like 2019 than '20 over the long run. 
+Bob Swan
+Yes. And I would just add as we exit the year and I think it was Joe that asked this a little bit earlier. We go into 2021 with just some real tailwinds and some headwinds. But net-net, I think they're reasonably well balanced relative to the longer-term outlook that we gave you back in May 2019. And just to highlight the tailwinds and you mentioned one of them, we made decisions on some of the lower-margin businesses in our portfolio. Obviously this week's announcement on NAND, the decline that we expect to see in modem volume as we go into 2021, we exited home device connected business middle of the year. So the mix of the business is a net tailwind as we enter 2021.
+Secondly, we've made really good progress on 10-nanometer yields during the course of this year. And the expectation as we mature going into next year on 10-nanometer will in fact -- we expect will in fact improve. And then third, we will still have a significant portion of our volume in 2021 that will be on 14-nanometer and that will have an increasing portion of the equipment fully depreciated. So we have some real tailwinds in -- these are things that we knew of anticipated 6, 12, 18 months ago. So those are all kind of in line. The only real net positive is the decision on NAND.
+And then we have some headwinds. When we migrate more and more of our volume from 14 to 10 that will work against us as we anticipated as we planned. And the competitive environment from where we are today versus what we had assumed when we laid our longer-term numbers at not dramatically different. So I think the biggest wildcard now is mix. And that obviously surprised us a little bit, because in the second half I should say just the mix of the dynamics of the business that I'd characterize are more COVID-related and what are the implications of that on 2021 and beyond. But I'd say there's probably as much a chance of positive tailwinds as opposed to negative headwinds on that front. So we've got some real tailwinds some headwinds. Net-net, maybe I'd characterize as maybe a little better positioned today than where we were when we laid it out in May of 2019.
+Chris Danely
+Thanks a lot. That's very helpful.
+Trey Campbell
+Bob, maybe just a couple of thoughts, if you want to close the call out.
+Bob Swan
+Yes. Well, first thanks for joining us. I'd just say through a very challenging market environment, we expect to grow revenue this year by $1.8 billion and free cash flow by $1.5 billion to $2.5 billion above what we laid out back at the beginning of the year. So despite all the inherent challenges, we'll deliver a stronger year and we'll have a better product portfolio as we go into next year. Second, we are relentlessly focused on delivering a predictable cadence of leadership products. And as I said in the prepared remarks, we have a great product lineup through 2022. The fact that we're working really hard on 2023 at this stage I think is a relatively good position to be in.
+Third, we continue to extend our reach and accelerate our growth by meeting these key technology inflections such as cloud, 5G, intelligent and autonomous edge computing and AI. So I think we're positioning more and more of our resources into real strong growth characteristics. And last thing I'd just say is we're incredibly grateful for the dedication and resiliency of Intel employees, the partners that we work with and our collective efforts to continue to retain a health and safe environment while delivering for our customers. So we are collectively inspired by our purpose, which is simply to create world-changing technologies that enrich the lives of every person on Earth. And I can't imagine a time where that purpose could be more important than it has been during the course of this year. So thanks for joining us and we'll talk to you soon.
+Trey Campbell
+Thanks, Bob, and thanks everyone for joining the call. With that operator, let's go ahead and close the call.
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now disconnect.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+          V. Bearish
+        
+2
+          Bearish
+        
+3
+          Neutral
+        
+4
+          Bullish
+        
+5
+          V. Bullish
+        
+23 Authors in the Last 90 Days
