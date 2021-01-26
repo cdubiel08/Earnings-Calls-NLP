@@ -78,8 +78,9 @@ Linear Discriminant Analysis is the linear classification technique for multi-cl
 ##### Data Sources
 
 1. [S&P 100/500 List](https://en.wikipedia.org/wiki/List_of_stock_exchanges) 
-2. [Earnings Calls Transcripts](https://seekingalpha.com/earnings/earnings-call-transcripts) [^1]  
-3. [Yahoo Finance Historical stock price] (https://sg.finance.yahoo.com/)
+2. [Earnings Calls Transcripts](https://seekingalpha.com/earnings/earnings-call-transcripts) 
+The transcripts from Seeking Alpha are protected by copyright and cannot be used for commercial purposes. This is an educational project for the Data Visualization Program at Rice University and the use of the information should be permitted on the Copyright Fair Use principal.
+3. [Yahoo Finance Historical stock price](https://sg.finance.yahoo.com/)
 
 ##### Further Reading
 [Natural Language Processing – Part III: Feature Engineering: Applying NLP Using Domain Knowledge to Capture Alpha from Transcripts](https://www.spglobal.com/marketintelligence/en/documents/nlp-iii-final-013020-10a.pdf)
@@ -91,5 +92,5 @@ Predict trends
 Predict price
 Embed sentiment in model
 
-[^1]: The transcripts from Seeking Alpha are protected by copyright and cannot be used for commercial purposes. This is an educational project for the Data Visualization Program at Rice University and the use of the information should be permitted on the Copyright Fair Use principal.
+
 
