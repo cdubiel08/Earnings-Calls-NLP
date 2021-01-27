@@ -35,7 +35,7 @@ Returns were considered for 1 day, 7 days and 28 days after the closing price th
 These features were fit onto a logistic regression machine learning model, LogisticRegression(), also a part of the scikit-learn librabry. The model was most effective when considering returns 1 day after the prior close. After using grid search for hyperparameter tuning and 5 fold cross validation, the most effective solver was the 'liblinear' parameter with L1 lasss regularization. The model had a mean accuracy score of 74%. 
 
 ### Model Performance
-The model was backtested from the period of 2015 - 
+The model was backtested from the period of 2015 - 2020. The theoretical return of the model over that period was measured as 321%. The S & P 500 (SPX) had a return of 83% for the same period, equating to the model providing a market adjusted of 238%
 
 ### Text and Sentiment Analysis
 For the purpose of this analysis, only the prepared remarks for 2020 earnings calls for S&P100 companies compared to the full transcript text to compare the difference.
