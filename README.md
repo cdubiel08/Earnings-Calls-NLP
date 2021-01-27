@@ -65,14 +65,15 @@ Neutral			58			11
 Linear Discriminant Analysis is the linear classification technique for multi-classes of data. LDA consists of statistical properties of the data calculated for each class. LDA was applied across the processed text of the full and prepared remarks section of the earnings call transcripts. For purposes of this model, the “X” input consists of the adjusted close, close, high, low, open stock price and the SIA polarity which consists computations of subjectivity, polarity, negative, positive, and neutral scores. The “y” input consists of an imputed “label” value that measured the positivity score and assigned 1 for positive scores over 0.15 in the full transcript, based on the average of 0.150631, and 0.10 in the prepared remarks, based on the average of 0.143419. Based on the f1 score and classification report numbers, the model performed better with the condensed text in the prepared remarks which makes sense due to the variety of questions and answers included in the full transcript of the calls.
 
 
-### LSTM
+### Time Series Forecating
+Traditionally  machine learning (ML) models used different features and corelate the data to prices but there is no time dimension in the data.
+Time-series forecasting models are the models that are capable to predict future values based on previously observed values. Time-series forecasting is widely used for non-stationary data. Non-stationary data are called the data whose statistical properties e.g. the mean and standard deviation are not constant over time but instead, these metrics vary over time. We used Keras LSTM and GRU model to do time series forecasting. 
 
+Stock prices are very volatile and lot of factors that contribute to the stock prices. Its important to identify the stocks that should be included in the the model evaluation while building a new LSTM/GRU model. For this, we did sma/ema comparison, created risk matrix with expected returns , plotting sns grid to identify overlays/clusters to identify similar patterns in stock movement. Also created a heatmap to identify the stock movement relative to other stocks. This process will help to remove stocks with high fluctations and no fluctations to prevent the model from overfitting or underfitting. For evaluation purposes, we restricted the stocks to 25. 
 
+We used stock data from the past 15 years. We used data shifting and rolling window concepts to prepare the dataset. Nueral network with four layers and one dense layer was used. Since the data needs to be in timeseries we trained on the data prior to 2018 and used the data from 2018 for testing purposes. After the evaluation we identified that both the models were able to identify the trend patterns. On furthur analysis, we noticed LSTM performed better than GRU. Here is the attached results of the model for the apple stock.
 
-### GRU
-
-
-
+![LSTM vs GRU](Images/lstm.jpg)
 
 
 ##### Data Sources
