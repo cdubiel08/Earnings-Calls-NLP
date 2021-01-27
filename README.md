@@ -73,7 +73,7 @@ Stock prices are very volatile and lot of factors that contribute to the stock p
 
 We used stock data from the past 15 years. We used data shifting and rolling window concepts to prepare the dataset. Nueral network with four layers and one dense layer was used. Since the data needs to be in timeseries we trained on the data prior to 2018 and used the data from 2018 for testing purposes. After the evaluation we identified that both the models were able to identify the trend patterns. On furthur analysis, we noticed LSTM performed better than GRU. Here is the attached results of the model for the apple stock.
 
-![LSTM vs GRU](/static/images/lstm.jpg)
+![LSTM vs GRU](Earnings-Calls-NLP/static/images/lstm.jpg)
 
 
 ##### Data Sources
