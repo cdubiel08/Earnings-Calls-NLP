@@ -36,6 +36,8 @@ Returns were considered for 1 day, 7 days and 28 days after the closing price th
 ### Logistic Regression Model
 These features were fit onto a logistic regression machine learning model, LogisticRegression(), also a part of the scikit-learn librabry. The model was most effective when considering returns 1 day after the prior close. After using grid search for hyperparameter tuning and 5 fold cross validation, the most effective solver was the 'liblinear' parameter with L1 lasss regularization. The model had a mean accuracy score of 74%. 
 
+![Accuracy](accuracy_scores.png)
+
 ### Model Performance
 The model was backtested from the period of 2015 - 2020. The theoretical return of the model over that period was measured as 321%. The S & P 500 (SPX) had a return of 83% for the same period, equating to the model providing a market adjusted of 238%
 
@@ -76,11 +78,13 @@ Linear Discriminant Analysis is the linear classification technique for multi-cl
 Traditionally  machine learning (ML) models used different features and corelate the data to prices but there is no time dimension in the data.
 Time-series forecasting models are the models that are capable to predict future values based on previously observed values. Time-series forecasting is widely used for non-stationary data. Non-stationary data are called the data whose statistical properties e.g. the mean and standard deviation are not constant over time but instead, these metrics vary over time. We used Keras LSTM and GRU model to do time series forecasting. 
 
+![price_forecast](price_forecast.png)
+
 Stock prices are very volatile and lot of factors that contribute to the stock prices. Its important to identify the stocks that should be included in the the model evaluation while building a new LSTM/GRU model. For this, we did sma/ema comparison, created risk matrix with expected returns , plotting sns grid to identify overlays/clusters to identify similar patterns in stock movement. Also created a heatmap to identify the stock movement relative to other stocks. This process will help to remove stocks with high fluctations and no fluctations to prevent the model from overfitting or underfitting. For evaluation purposes, we restricted the stocks to 25. 
 
 We used stock data from the past 15 years. We used data shifting and rolling window concepts to prepare the dataset. Nueral network with four layers and one dense layer was used. Since the data needs to be in timeseries we trained on the data prior to 2018 and used the data from 2018 for testing purposes. After the evaluation we identified that both the models were able to identify the trend patterns. On furthur analysis, we noticed LSTM performed better than GRU. Here is the attached results of the model for the apple stock.
 
-![LSTM vs GRU](../static/images/lstm.jpg)
+![LSTM vs GRU](../static/images/lstm.JPG)
 
 
 ##### Data Sources
