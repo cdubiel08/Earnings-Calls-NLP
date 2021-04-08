@@ -31,11 +31,15 @@ Documents were split 80%/20% into training and test subsets. Term Frequency * In
 ### Classification
 Returns were considered for 1 day, 7 days and 28 days after the closing price the trading day prior to the earnings call transcript release. Each return was classified as 'buy', 'hold', or 'sell' based on a >3%, <3% & >-3%, or <-3% return over the period, respectively. 
 
+![Classification](classification viz.png)
+
 ### Logistic Regression Model
 These features were fit onto a logistic regression machine learning model, LogisticRegression(), also a part of the scikit-learn librabry. The model was most effective when considering returns 1 day after the prior close. After using grid search for hyperparameter tuning and 5 fold cross validation, the most effective solver was the 'liblinear' parameter with L1 lasss regularization. The model had a mean accuracy score of 74%. 
 
 ### Model Performance
 The model was backtested from the period of 2015 - 2020. The theoretical return of the model over that period was measured as 321%. The S & P 500 (SPX) had a return of 83% for the same period, equating to the model providing a market adjusted of 238%
+
+![Model Performance](return on investment.png)
 
 ### Text and Sentiment Analysis
 For the purpose of this analysis, only the prepared remarks for 2020 earnings calls for S&P100 companies compared to the full transcript text to compare the difference.
@@ -50,6 +54,8 @@ Sentiment analysis is used to measure the attitude, sentiments, evaluations, or 
 
 #### Latent Dirichlet Allocation (LDA)
 Latent Dirichlet Allocation (LDA) models can be used to reveal a hidden structure in a collection of texts representing the weight of text in a topic space. The process involves loading data, cleaning, exploring general output in form of a word cloud, preparing the data for LDA analysis, training the LDA model, and analyzing the results with a visual. The earning call transcripts were uploaded in the raw format and cleaned with the various steps detailed above.  The wordcloud for the full transcript and prepared remarks are different but mostly contain the same common words. Next, the text was tokenized into a corpus and dictionary for each. The model was trained on 25 topics which was a combination of keywords based on a weight to the topic. To visual the topics pyLDAvis was used to better understand and interpret individual topics and their relationships.  For the most part the terms overlapped in the full transcript and prepared remarks, but the topic distribution varied significantly between the two.
+
+![LDA](LDA.png)
 	
 #### VADER Sentiment Intensity Analyzer (SIA) polarity scoring 
 VADER (Valence Aware Dictionary for Sentiment Reasoning) is a model used for text sentiment analysis that is sensitive to both polarity (positive/negative) and intensity. VADER sentimental analysis relies on a prepackaged dictionary that maps lexical features into scores, which categorize text into positive, neutral, and negative. These texts are aggregated by document to arrive at overall opinion. VADER uses a combination of sentiment lexicon and list of lexical features which are generally labelled according to their semantic orientation as either positive or negative .
@@ -59,6 +65,8 @@ Sentiment Totals	Using HL Dictionary	Using LM Dictionary
 Positive 		255			374
 Negative		88			16
 Neutral			58			11
+
+![VADER](VADER.png)
 
 
 #### Linear Discriminant Analysis on sentiment scores and price
