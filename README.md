@@ -31,7 +31,7 @@ Documents were split 80%/20% into training and test subsets. Term Frequency * In
 ### Classification
 Returns were considered for 1 day, 7 days and 28 days after the closing price the trading day prior to the earnings call transcript release. Each return was classified as 'buy', 'hold', or 'sell' based on a >3%, <3% & >-3%, or <-3% return over the period, respectively. 
 
-![Classification](classification viz.png)
+![Classification](classification_viz.png)
 
 ### Logistic Regression Model
 These features were fit onto a logistic regression machine learning model, LogisticRegression(), also a part of the scikit-learn librabry. The model was most effective when considering returns 1 day after the prior close. After using grid search for hyperparameter tuning and 5 fold cross validation, the most effective solver was the 'liblinear' parameter with L1 lasss regularization. The model had a mean accuracy score of 74%. 
@@ -39,7 +39,7 @@ These features were fit onto a logistic regression machine learning model, Logis
 ### Model Performance
 The model was backtested from the period of 2015 - 2020. The theoretical return of the model over that period was measured as 321%. The S & P 500 (SPX) had a return of 83% for the same period, equating to the model providing a market adjusted of 238%
 
-![Model Performance](return on investment.png)
+![Model Performance](return_on_investment.png)
 
 ### Text and Sentiment Analysis
 For the purpose of this analysis, only the prepared remarks for 2020 earnings calls for S&P100 companies compared to the full transcript text to compare the difference.
@@ -67,7 +67,6 @@ Negative		88			16
 Neutral			58			11
 
 ![VADER](VADER.png)
-
 
 #### Linear Discriminant Analysis on sentiment scores and price
 Linear Discriminant Analysis is the linear classification technique for multi-classes of data. LDA consists of statistical properties of the data calculated for each class. LDA was applied across the processed text of the full and prepared remarks section of the earnings call transcripts. For purposes of this model, the “X” input consists of the adjusted close, close, high, low, open stock price and the SIA polarity which consists computations of subjectivity, polarity, negative, positive, and neutral scores. The “y” input consists of an imputed “label” value that measured the positivity score and assigned 1 for positive scores over 0.15 in the full transcript, based on the average of 0.150631, and 0.10 in the prepared remarks, based on the average of 0.143419. Based on the f1 score and classification report numbers, the model performed better with the condensed text in the prepared remarks which makes sense due to the variety of questions and answers included in the full transcript of the calls.
